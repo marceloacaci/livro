@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reflexões — Biblioteca de Reflexões</title>
+  <link rel="stylesheet" href="css/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
+</head>
+<body>
+  <nav class="navbar" id="navbar">
+    <div class="nav-brand">📖 Biblioteca de Reflexões</div>
+    <button class="nav-toggle" id="navToggle" aria-label="Abrir menu">☰</button>
+  </nav>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-section">
+        <div class="sidebar-title">Navegação</div>
+        <ul class="sidebar-links">
+          <li><a href="index.html" class="sidebar-link" data-nav-id="biblioteca">🏠 Início</a></li>
+          <li><a href="#inicio" class="sidebar-link" data-nav-id="inicio" id="sidebarBookHome">📖 <span id="sidebarBookTitle">Início do Livro</span></a></li>
+        </ul>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="sidebar-title">Conteúdo</div>
+        <ul class="sidebar-links" id="sidebarNav">
+          <li><a href="#sobre" class="sidebar-link" data-nav-id="sobre">📘 Sobre o Livro</a></li>
+          <li>
+            <button class="sidebar-link sidebar-toggle" id="ensinamentosToggle" aria-expanded="false" data-nav-id="ensinamentos">🧭 Ensinamentos</button>
+            <ul class="chapter-submenu" id="ensinamentosSubmenu"></ul>
+          </li>
+          <li>
+            <button class="sidebar-link sidebar-toggle" id="ideiasToggle" aria-expanded="false" data-nav-id="ideias">📚 Ideias Centrais</button>
+            <ul class="chapter-submenu" id="chapterSubmenu"></ul>
+          </li>
+          <li><a href="#verdadesmitos" class="sidebar-link" data-nav-id="verdadesmitos">⚖️ Verdades e Mitos</a></li>
+          <li><a href="#reflexoes" class="sidebar-link" data-nav-id="reflexoes">💭 Minhas Reflexões</a></li>
+        </ul>
+      </div>
+    </aside>
+
+    <main class="main-content">
+      <!-- ==================== INÍCIO DO LIVRO ==================== -->
+      <section class="section hero" id="inicio" data-book="both">
+        <div class="hero-content">
+          <div class="hero-cover" aria-hidden="true">
+            <img id="heroCover" src="" alt="Capa do livro" class="cover-img">
+          </div>
+          <div class="hero-text">
+            <h1 id="heroTitle">Ambiente de Reflexões</h1>
+            <p id="heroLead" class="hero-lead"></p>
+            <p>Explore o livro, reflita sobre cada dica, registre seus pensamentos e transforme leitura em ação.</p>
+            <a href="#sobre" class="btn btn-primary">Começar a Ler</a>
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== SOBRE O LIVRO ==================== -->
+      <section class="section" id="sobre" data-book="both">
+        <div class="container">
+          <h2 class="section-title">Sobre o Livro</h2>
+          <div id="sobreContent" class="book-info"></div>
+        </div>
+      </section>
+
+      <!-- ==================== ENSINAMENTOS ==================== -->
+      <section class="section" id="ensinamentos" data-book="both">
+        <div class="container">
+          <h2 class="section-title">Ensinamentos</h2>
+          <div id="ensinamentosExpanded" class="ensinamentos-expanded"></div>
+        </div>
+      </section>
+
+      <!-- ==================== CONTEÚDO DO LIVRO ==================== -->
+      <div id="bookSections"></div>
+
+      <!-- ==================== IDEIAS CENTRAIS ==================== -->
+      <div id="ideasSections"></div>
+
+      <!-- ==================== VERDADES E MITOS ==================== -->
+      <section class="section" id="verdadesmitos" data-book="both">
+        <div class="container">
+          <h2 class="section-title">Verdades e Mitos</h2>
+          <p id="verdadesMitOSSubtitle" class="section-subtitle"></p>
+          <div class="chapter-card" id="verdadesCard">
+            <div id="verdadesMitosContent" class="myth-truth-grid"></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== MINHAS REFLEXÕES ==================== -->
+      <section class="section" id="reflexoes" data-book="both">
+        <div class="container">
+          <h2 class="section-title">Minhas Reflexões Salvas</h2>
+          <div class="chapter-card" id="reflexoesCard">
+            <div class="reflexoes-list" id="reflexoesList">
+              <p class="empty-state">Nenhuma reflexão salva ainda. Vá para uma seção acima e comece a escrever!</p>
+            </div>
+            <button class="btn btn-danger" id="btnClearAll" style="display:none;">🗑️ Limpar Todas as Reflexões</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- ==================== FOOTER ==================== -->
+      <footer class="footer" data-book="both">
+        <p id="footerText"></p>
+      </footer>
+    </main>
+  </div>
+
+  <script src="js/books.js"></script>
+  <script src="js/livro.js"></script>
+  <script>
+    (function () {
+      'use strict';
+      var toggle = document.getElementById('navToggle');
+      var sidebar = document.getElementById('sidebar');
+      if (toggle && sidebar) {
+        toggle.addEventListener('click', function () {
+          sidebar.classList.toggle('open');
+          var open = sidebar.classList.contains('open');
+          toggle.setAttribute('aria-expanded', String(open));
+        });
+        sidebar.querySelectorAll('a').forEach(function (a) {
+          a.addEventListener('click', function () {
+            sidebar.classList.remove('open');
+            toggle.setAttribute('aria-expanded', 'false');
+          });
+        });
+      }
+    })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+# Tooling / AI assistant caches (not part of the book site)
+.claude/
+.impeccable/
+node_modules/
+*.log
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
