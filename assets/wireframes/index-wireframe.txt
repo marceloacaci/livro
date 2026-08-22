@@ -1,0 +1,80 @@
+# Wireframe — index.html (Biblioteca / Grid)
+# Baixa fidelidade. Layout responsivo em 3 breakpoints.
+
+==========================================================
+ DESKTOP (>= 1024px)  — sidebar fixa à esquerda
+==========================================================
+┌──────────────────────────────────────────────────────────┐
+│ 📚 Biblioteca de Reflexões                    [☰] (oculto) │  <- navbar sticky
+├───────────────┬──────────────────────────────────────────┤
+│ SIDEBAR       │  HERO                                     │
+│ (fixa)        │  # Biblioteca de Reflexões                │
+│ ─ Navegação   │  Escolha um livro abaixo...               │
+│ 🏠 Início      │                                           │
+│ ─ Livros       │  SECTION: Livros Disponíveis             │
+│ ● Livro 1      │  ┌────┐ ┌────┐ ┌────┐ ┌────┐            │
+│ ● Livro 2      │  │card│ │card│ │card│ │card│  <- grid    │
+│ ● ...          │  └────┘ └────┘ └────┘ └────┘            │
+│ ● Livro 15     │  ┌────┐ ┌────┐ ┌────┐ ┌────┐            │
+│                │  │card│ │card│ │card│ │card│            │
+│                │  └────┘ └────┘ └────┘ └────┘            │
+│                │                                           │
+│                │  FOOTER © 2026                            │
+└───────────────┴──────────────────────────────────────────┘
+
+  GRID: repeat(auto-fill, minmax(240px, 1fr))  -> 3-4 colunas
+
+==========================================================
+ TABLET (768–1023px) — sidebar vira drawer no [☰]
+==========================================================
+┌──────────────────────────────────────────────────────────┐
+│ 📚 Biblioteca de Reflexões                  [☰]           │
+├──────────────────────────────────────────────────────────┤
+│  HERO                                                     │
+│  # Biblioteca de Reflexões                                │
+│  SECTION: Livros Disponíveis                             │
+│  ┌────┐ ┌────┐ ┌────┐                                    │
+│  │card│ │card│ │card│   <- 2-3 colunas                   │
+│  └────┘ └────┘ └────┘                                    │
+│  ┌────┐ ┌────┐ ┌────┐                                    │
+│  │card│ │card│ │card│                                    │
+│  └────┘ └────┘ └────┘                                    │
+│  FOOTER                                                   │
+└──────────────────────────────────────────────────────────┘
+
+  Sidebar some; [☰] abre drawer overlay. Grid 2 colunas.
+
+==========================================================
+ MOBILE (< 768px) — 1 coluna, nav colapsada
+==========================================================
+┌──────────────────────────────┐
+│ 📚 Biblioteca     [☰]         │  <- navbar
+├──────────────────────────────┤
+│ HERO                          │
+│ # Biblioteca de Reflexões     │
+│ Livros Disponíveis            │
+│ ┌────┐                        │
+│ │card│  <- 1 coluna (full)    │
+│ └────┘                        │
+│ ┌────┐                        │
+│ │card│                        │
+│ └────┘                        │
+│ ... (scroll)                  │
+│ FOOTER                        │
+└──────────────────────────────┘
+
+  Sidebar = drawer full-height no [☰]. Grid 1 coluna.
+
+==========================================================
+ CARD (componente) — usado no grid
+==========================================================
+┌────────────────────┐
+│ [ capa do livro ]   │  <- img (loading=lazy), top border = book.color
+│ ─────────────────   │
+│ Título (pt)          │
+│ Autor                │
+│ ano · edição · pág   │
+│ Gênero               │
+│ Vendas               │
+│ resumo...            │
+└────────────────────┘   <- <a href="livro.html#slug"> inteiro

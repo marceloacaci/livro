@@ -1,0 +1,34 @@
+stateDiagram-v2
+    [*] --> Carregamento
+    Carregamento --> TemaEscuro: CSS :root (default atual)
+
+    note right of TemaEscuro
+        Estado ATUAL implementado.
+        Variáveis --color-bg, --color-surface,
+        --color-text, etc. definem o
+        tema "Neon Dark Blue".
+    end note
+
+    TemaEscuro --> TemaClaro: [toggle claro/escuro]
+    TemaClaro --> TemaEscuro: [toggle claro/escuro]
+
+    note right of TemaClaro
+        BACKLOG (não implementado).
+        Exige: (a) variáveis --color-*
+        para tema claro em :root[data-theme=light]
+        OU classe .theme-light no <body>;
+        (b) botão de toggle persistido em
+        localStorage; (c) respeitar
+        prefers-color-scheme na 1ª visita.
+    end note
+
+    TemaEscuro --> Persistido: salva preferência
+    TemaClaro --> Persistido: salva preferência
+    Persistido --> TemaEscuro: lê localStorage na volta
+    Persistido --> TemaClaro: lê localStorage na volta
+
+    state "Fonte da verdade do tema" as Fonte {
+        CSS_Vars: "Variáveis CSS em :root"
+        JS_State: "Estado em JS (classe no <html>/<body>)"
+        Storage: "localStorage: tema preferido"
+    }

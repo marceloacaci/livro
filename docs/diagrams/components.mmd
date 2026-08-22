@@ -1,0 +1,33 @@
+flowchart LR
+    subgraph Apresentacao["Camada de Apresentação (HTML + CSS)"]
+        HTML[index.html / livro.html]
+        CSS[css/styles.css\n:root custom properties]
+    end
+
+    subgraph Comportamento["Camada de Comportamento (JS)"]
+        DATA[js/books.js\nMEU_BOLSO_BOOKS\ndados hardcoded]
+        BIB[js/biblioteca.js\nmonta grid]
+        LIV[js/livro.js\nresolve #slug + render seções]
+        APP[js/app.js\nnav mobile, filtro, localStorage]
+        THEME[js/book-theme.js\ntemplate de tema por livro]
+    end
+
+    subgraph Estado["Estado do Navegador"]
+        LS[(localStorage:\nbiblioteca_reflexoes)]
+        URL[URL #slug]
+    end
+
+    HTML --> BIB
+    HTML --> APP
+    LIVRO_PAGE[livro.html] --> LIV
+    LIVRO_PAGE --> APP
+    DATA --> BIB
+    DATA --> LIV
+    THEME --> LIV
+    APP --> LS
+    LIV --> URL
+    URL --> LIV
+
+    style Apresentacao fill:#04060d,stroke:#00c2ff,color:#fff
+    style Comportamento fill:#0d1220,stroke:#7b2dff,color:#fff
+    style Estado fill:#111827,stroke:#ff3b6b,color:#fff

@@ -1,0 +1,76 @@
+# Wireframe — livro.html (Leitura / Ambiente de Reflexões)
+# Baixa fidelidade. Foco em tipografia e conforto visual. Página genérica
+# renderizada por js/livro.js a partir de #slug.
+
+==========================================================
+ DESKTOP (>= 1024px) — sidebar de conteúdo fixa à esquerda
+==========================================================
+┌──────────────────────────────────────────────────────────┐
+│ 📖 Biblioteca de Reflexões                  [☰] (oculto)   │ <- navbar sticky
+├───────────────┬──────────────────────────────────────────┤
+│ CONTEÚDO      │  HERO (capa + título + lead)              │
+│ (fixa)        │  [capa]   # Título PT                     │
+│ ─ Navegação   │           resumo do livro...              │
+│ 🏠 Início      │           [Começar a Ler]                │
+│ 📖 Início Livro│ ─────────────────────────────────────── │
+│ ─ Seções       │  SOBRE O LIVRO                           │
+│ 📘 Sobre       │  metadados + citações (blockquotes)      │
+│ 🧭 Ensinamentos│ ─────────────────────────────────────── │
+│ 📚 Ideias      │  ENSINAMENTOS (cards numerados)          │
+│ ⚖️ Verdades    │  [1] título  [2] título  [3] título      │
+│ 💭 Reflexões   │ ─────────────────────────────────────── │
+│                │  VERDADES E MITOS (grid truth/myth)       │
+│                │  [Verdade] [Mito] [Verdade] ...          │
+│                │  + textarea de reflexão                  │
+│                │ ─────────────────────────────────────── │
+│                │  MINHAS REFLEXÕES SALVAS                 │
+│                │  (cards das reflexões do localStorage)   │
+│                │                                           │
+│                │  FOOTER                                   │
+└───────────────┴──────────────────────────────────────────┘
+
+  Largura de leitura: --max-width: 900px (conforto tipográfico).
+  line-height: 1.7. Fonte heading serif (Georgia), body sans (Segoe UI).
+
+==========================================================
+ ELEMENTO: Bloco de Reflexão (persistido em localStorage)
+==========================================================
+┌──────────────────────────────────────────┐
+│ 📝 Sua reflexão sobre Verdades e Mitos    │
+│ ┌──────────────────────────────────────┐ │
+│ │ textarea (placeholder)               │ │
+│ └──────────────────────────────────────┘ │
+│ [💾 Salvar Reflexão]  [🗑️ Limpar]         │
+└──────────────────────────────────────────┘
+
+  Ao salvar -> grava em localStorage['biblioteca_reflexoes'][step].
+  Recarregar mantém o texto. Botão mostra "✅ Salvo!" por 1.5s.
+
+==========================================================
+ TABLET / MOBILE — sidebar vira drawer; 1 coluna de leitura
+==========================================================
+┌──────────────────────────────┐
+│ 📖 Biblioteca      [☰]        │ <- navbar
+├──────────────────────────────┤
+│ HERO (capa menor, empilhado)  │
+│ # Título PT                   │
+│ [Começar a Ler]               │
+│ SOBRE O LIVRO                 │
+│ (bloco único, full width)     │
+│ ENSINAMENTOS                  │
+│ [1] [2] [3] (stack vertical)  │
+│ VERDADES E MITOS              │
+│ cards empilhados              │
+│ MINHAS REFLEXÕES              │
+│ FOOTER                        │
+└──────────────────────────────┘
+
+  Sidebar = drawer no [☰]. Conteúdo em coluna única, max-width 100%.
+
+==========================================================
+ PROPOSTAS DE MELHORIA (Sprint 2/3) — ainda NÃO no código
+==========================================================
+(A) Barra de progresso de leitura: 1–4px no topo, largura = scroll %.
+(B) Modo Leitura Focada: navbar/footer somem ao rolar p/ baixo.
+(C) Botão "Copiar Citação" em cada <blockquote class="citacao">.
+(D) Badge de tema claro/escuro no navbar (toggle + localStorage).
