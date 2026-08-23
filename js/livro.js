@@ -7,6 +7,11 @@
 
   var books = window.MEU_BOLSO_BOOKS || [];
 
+  // btnClearAll e sidebarBookHome são locais do app.js (outro IIFE); buscamos no DOM
+  // para não depender de variáveis de escopo alheio (corrige ReferenceError em livro.html).
+  var btnClearAll = document.getElementById('btnClearAll');
+  var sidebarBookHome = document.getElementById('sidebarBookHome');
+
   // Shared scroll-spy state (rebuilt on each render, read by the once-attached scroll listener)
   var allNavTargets = [];
   window.updateActiveNavV2 = function () {};
@@ -28,6 +33,17 @@
   document.getElementById('heroTitle').textContent = book.titlePt;
   document.getElementById('heroLead').textContent = book.summary;
   document.title = 'Reflexões — ' + book.titlePt;
+  // SEO/OG dinâmico (P3)
+  function setMeta(attr, key, value) {
+    var sel = 'meta[' + attr + '="' + key + '"]';
+    var m = document.querySelector(sel);
+    if (!m) { m = document.createElement('meta'); m.setAttribute(attr, key); document.head.appendChild(m); }
+    m.setAttribute('content', value);
+  }
+  document.querySelector('meta[name="description"]') && setMeta('name', 'description', book.summary || book.titlePt);
+  setMeta('property', 'og:title', 'Reflexões — ' + book.titlePt);
+  setMeta('property', 'og:description', book.summary || book.titlePt);
+  setMeta('property', 'og:image', book.cover || '');
   document.getElementById('footerText').textContent = 'Ambiente de Reflexões — ' + book.title + ' © 2026';
 
   var sidebarBookTitle = document.getElementById('sidebarBookTitle');
@@ -709,17 +725,29 @@
     });
   }
 
-  // --- Initial render + live book swap on hash change ---
-  var initialBook = resolveBook(location.hash.replace('#', ''));
+  // --- Initial render + live book swap on hash/query change ---
+  function getIdFromUrl() {
+    try {
+      var params = new URLSearchParams(location.search);
+      var id = params.get('id');
+      if (id) return id;
+    } catch (e) {}
+    return location.hash ? location.hash.replace('#', '') : '';
+  }
+
+  var initialBook = resolveBook(getIdFromUrl());
   if (!initialBook && books.length) initialBook = books[0];
   renderBook(initialBook);
 
-  window.addEventListener('hashchange', function () {
-    var next = resolveBook(location.hash.replace('#', ''));
+  function swapFromUrl() {
+    var next = resolveBook(getIdFromUrl());
     if (!next) return;
     renderBook(next);
     window.scrollTo(0, 0);
     if (window.updateActiveNavV2) window.updateActiveNavV2();
-  });
+  }
+
+  window.addEventListener('hashchange', swapFromUrl);
+  window.addEventListener('popstate', swapFromUrl);
 
 })();

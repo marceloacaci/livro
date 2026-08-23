@@ -3,7 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Biblioteca — Biblioteca de Reflexões</title>
+  <meta name="description" content="Biblioteca de Reflexões — 15 resumos de livros de autoajuda (finanças, hábitos, filosofia, produtividade e IA) com ambiente de reflexões pessoais.">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Biblioteca de Reflexões">
+  <meta property="og:title" content="Biblioteca de Reflexões">
+  <meta property="og:description" content="15 resumos de livros de autoajuda com ambiente de reflexões pessoais, 100% no seu navegador.">
+  <meta name="twitter:card" content="summary_large_image">
   <link rel="stylesheet" href="css/styles.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📚</text></svg>">
 </head>
@@ -11,6 +16,7 @@
   <nav class="navbar" id="navbar">
     <div class="nav-brand">📚 Biblioteca de Reflexões</div>
     <button class="nav-toggle" id="navToggle" aria-label="Abrir menu">☰</button>
+    <button class="theme-toggle" id="themeToggle" type="button" aria-pressed="false" aria-label="Mudar tema">🌙</button>
   </nav>
 
   <div class="layout">
@@ -49,6 +55,11 @@
           <div class="hero-text">
             <h1>Biblioteca de Reflexões</h1>
             <p class="hero-lead">Escolha um livro abaixo e entre no ambiente de reflexões.</p>
+            <div class="book-search">
+              <input type="search" id="bookSearch" data-search class="book-search-input"
+                     placeholder="🔎 Buscar livro por título, autor ou gênero..."
+                     aria-label="Buscar livros" autocomplete="off" />
+            </div>
           </div>
         </div>
       </section>
@@ -66,9 +77,11 @@
     </main>
   </div>
 
-  <script src="js/books.js"></script>
-  <script src="js/biblioteca.js"></script>
-  <script src="js/app.js"></script>
+  <script defer src="js/books.js"></script>
+  <script defer src="js/data.js"></script>
+  <script defer src="js/theme.js"></script>
+  <script defer src="js/main.js"></script>
+  <script defer src="js/app.js"></script>
   <script>
     (function () {
       'use strict';

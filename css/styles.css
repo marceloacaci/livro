@@ -1392,3 +1392,143 @@ body {
   gap: 10px;
   flex-wrap: wrap;
 }
+
+/* ============================================================
+   TEMA CLARO (data-theme="light") — P1
+   Variáveis claras + correção de textos/fundos fixos (#fff).
+   ============================================================ */
+:root[data-theme="light"] {
+  --color-bg: #f5f7fb;
+  --color-bg-gradient: linear-gradient(135deg, #eef2f8 0%, #e2e9f5 100%);
+  --color-surface: #ffffff;
+  --color-surface-2: #eef2f8;
+  --color-text: #15202b;
+  --color-text-light: #34424f;
+  --color-primary: #0078d4;
+  --color-primary-hover: #005a9e;
+  --color-accent: #6a1fd0;
+  --color-accent-light: rgba(106, 31, 208, 0.10);
+  --color-danger: #d11a4a;
+  --color-border: rgba(0, 120, 200, 0.28);
+  --shadow: 0 10px 30px rgba(20, 40, 80, 0.12);
+  --shadow-hover: 0 4px 12px rgba(0, 0, 0, 0.14);
+  --shadow-lg: 0 20px 50px rgba(20, 40, 80, 0.18);
+}
+
+/* Fundos e bordas que usavam tons fixos escuros */
+:root[data-theme="light"] .navbar {
+  background: rgba(255, 255, 255, 0.88);
+  border-bottom-color: var(--color-border);
+}
+:root[data-theme="light"] .sidebar {
+  background: rgba(255, 255, 255, 0.96);
+  border-right-color: var(--color-border);
+}
+:root[data-theme="light"] .nav-links.open {
+  background: rgba(255, 255, 255, 0.97);
+  border-bottom-color: var(--color-border);
+}
+
+/* Textos fixos #fff viram escuros no claro (legibilidade AA) */
+:root[data-theme="light"] .step-header h2,
+:root[data-theme="light"] .mt-card h4,
+:root[data-theme="light"] .chapter-link,
+:root[data-theme="light"] .book-card-info h3,
+:root[data-theme="light"] .section-title,
+:root[data-theme="light"] .hero-text h1,
+:root[data-theme="light"] .citacao-texto,
+:root[data-theme="light"] .kp-title,
+:root[data-theme="light"] .book-meta h3,
+:root[data-theme="light"] .expanded-header h3,
+:root[data-theme="light"] .book-details h4 {
+  color: var(--color-text);
+}
+
+/* Hero: mantém gradiente colorido mas texto legível */
+:root[data-theme="light"] .hero {
+  background: linear-gradient(135deg, #00c2ff 0%, #7b2dff 100%);
+  color: #fff;
+}
+
+/* Sidebar-link (raised) no claro: base clara + texto escuro */
+:root[data-theme="light"] .sidebar-link {
+  background-color: #e6ecf5;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.10) 46%, rgba(0, 0, 0, 0.06));
+  border: 1px solid rgba(0, 0, 0, 0.10);
+  box-shadow: inset 0 2px 2px rgba(255, 255, 255, 0.8),
+              inset 0 -4px 6px rgba(0, 0, 0, 0.12),
+              0 3px 6px rgba(20, 40, 80, 0.10);
+  color: var(--color-text);
+}
+:root[data-theme="light"] .sidebar-link:hover,
+:root[data-theme="light"] .sidebar-link:focus {
+  color: var(--color-text);
+}
+:root[data-theme="light"] .sidebar-link.active {
+  background-color: var(--color-primary);
+  color: #fff;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.30), rgba(255, 255, 255, 0.05) 46%, rgba(0, 0, 0, 0.18));
+}
+:root[data-theme="light"] .nav-links a.active {
+  color: #fff;
+}
+
+/* Step-number e badges mantêm cor, texto branco ok (contraste forte) */
+:root[data-theme="light"] .book-card-cover {
+  background: #e9eef6;
+  border-color: rgba(0, 120, 200, 0.18);
+}
+:root[data-theme="light"] .reflection-input {
+  background: #ffffff;
+  color: var(--color-text);
+}
+
+/* Foco visível global (a11y) */
+:focus-visible {
+  outline: 3px solid var(--color-primary);
+  outline-offset: 2px;
+}
+:root[data-theme="light"] .btn-save {
+  color: #ffffff;
+}
+
+/* --- Theme toggle button --- */
+.theme-toggle {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text);
+  font-size: 1.1rem;
+  line-height: 1;
+  padding: 6px 10px;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: background var(--transition), box-shadow var(--transition), transform var(--transition);
+}
+.theme-toggle:hover,
+.theme-toggle:focus {
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-hover);
+  outline: none;
+}
+
+/* --- Book search (Home) --- */
+.book-search {
+  margin-top: 18px;
+  max-width: 520px;
+}
+.book-search-input {
+  width: 100%;
+  padding: 12px 16px;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius);
+  background: var(--color-surface);
+  color: var(--color-text);
+  font-family: var(--font-body);
+  font-size: 1rem;
+  transition: border-color var(--transition), box-shadow var(--transition);
+}
+.book-search-input:focus {
+  outline: none;
+  border-color: var(--color-primary);
+  box-shadow: 0 0 0 4px rgba(0, 194, 255, 0.15);
+}
