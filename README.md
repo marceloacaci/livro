@@ -1,109 +1,118 @@
-# Livro — Biblioteca de Reflexões (site estático)
+# LIVRO — Biblioteca de Reflexões
 
-Biblioteca digital estática contendo **15 resumos de livros de autoajuda**, com
-ambiente de leitura interativo (seções, verdades/mitos, cotações e reflexões
-persistidas localmente).
+Biblioteca digital **estática, responsiva e de peso ultrabaixo** contendo os resumos de
+**15 livros de autoajuda** (finanças, hábitos, filosofia, produtividade e IA). Cada
+resumo oferece um *ambiente de reflexões*: o leitor escreve anotações que ficam salvas
+localmente no navegador (`localStorage`), sem backend, sem conta, sem rastreadores.
 
-> Documentação técnica completa em [`docs/`](docs/). Diagramas em
-> [`docs/diagrams/`](docs/diagrams/). Wireframes em [`assets/wireframes/`](assets/wireframes/).
+> **Filosofia de projeto:** Vanilla puro. HTML semântico + CSS com *custom properties* +
+> JavaScript modular (ES5/ES6 IIFE, `strict mode`). **Zero frameworks, zero bundlers,
+> zero build step.** O navegador consome os arquivos diretamente.
 
 ---
 
-## Visão Geral
+## Visão Geral do Produto
 
-- **O que é:** um site de leitura de resumos de livros, 100% client-side.
-- **Conteúdo:** 15 livros (finanças, hábitos, filosofia, produtividade, IA).
-- **Diferencial:** cada livro tem um "ambiente de reflexões" — o leitor escreve
-  anotações que ficam salvas no próprio navegador (`localStorage`), sem backend.
-- **Deploy:** GitHub Pages (hospedagem estática gratuita, sem build).
+- **O que é:** site de leitura de resumos, 100% client-side.
+- **Peso de página:** nenhum asset externo (sem CDN, sem fontes de terceiros, sem trackers);
+  o CSS e o JS são arquivos locais minúsculos em relação a libs de UI.
+- **Conteúdo:** 15 livros; cada um com Sobre, Ensinamentos, Ideias Centrais, Verdades/Mitos
+  e um bloco de Reflexões persistidas.
+- **Deploy:** GitHub Pages (hospedagem estática gratuita, sem pipeline de compilação).
 
-## Stack Tecnológica
+---
 
-Reforço explícito: **HTML + CSS + JavaScript vanilla, sem dependências de build
-ou frameworks pesados.**
+## Setup e Execução (sem dependências)
 
-| Camada            | Tecnologia                                   | Observação                          |
-|------------------|----------------------------------------------|-------------------------------------|
-| Marcação          | HTML5 semântico                              | `index.html`, `livro.html`          |
-| Estilo            | CSS3 com *custom properties* (`:root`)       | Sem pré-processador, sem Tailwind   |
-| Comportamento     | JavaScript ES5/ES6 (IIFE, `strict mode`)     | Sem bundler, sem React/Vue          |
-| Dados             | Array JS em `window.MEU_BOLSO_BOOKS`         | Hardcoded em `js/books.js`          |
-| Persistência      | `localStorage` (Web API nativa)              | Reflexões do usuário, sem servidor  |
-| Servidor local    | `python -m http.server` (qualquer static)    | Não obrigatório p/ abrir o arquivo  |
-
-**Restrição de arquitetura:** nada de NPM, Webpack, Vite, Babel ou qualquer
-passo de compilação. O navegador consome os arquivos diretamente.
-
-## Instruções de Execução
-
-Servir localmente em `http://localhost:8077`:
+O projeto não exige `npm install`, Webpack, Vite ou qualquer etapa de compilação. Basta
+servir a pasta com qualquer servidor estático de uma linha:
 
 ```bash
-# Na raiz do projeto
-cd /caminho/para/Livro
-python -m http.server 8077
-# abra http://localhost:8077 no navegador
+# Opção A — Python (já vem no macOS/Linux; no Windows use o Python do PATH)
+python3 -m http.server 8077
+# abra http://localhost:8077
+
+# Opção B — Node (sem instalar nada globalmente, usa o npx efêmero)
+npx serve -p 8077
+# abra http://localhost:8077
 ```
 
-Alternativa sem servidor: abrir `index.html` direto no navegador (funciona,
-pois não há `fetch`/CORS — os dados são um script JS global).
+> Alternativa sem servidor: abrir `index.html` direto no navegador (`file://`) também
+> funciona, pois os dados são um script JS global — não há `fetch`/CORS.
 
-## Estrutura de Arquivos
+---
 
-```
-Livro/
-├── index.html            # Biblioteca: hero + grid de cards (#booksGrid) + sidebar
-├── livro.html            # Leitura: página GENÉRICA que renderiza 1 livro por #slug
+## Árvore do Projeto
+
+```text
+LivRO/
+├── index.html            # Home: hero + grid de cards (renderizado por JS)
+├── livro.html            # Leitor: view genérica que injeta 1 livro por #slug
 ├── css/
-│   └── styles.css        # Tema "Neon Dark Blue" via variáveis CSS (:root)
+│   └── styles.css        # Design System baseado em CSS Variables (tema Dark atual)
 ├── js/
 │   ├── books.js          # DADOS: window.MEU_BOLSO_BOOKS (15 livros, hardcoded)
-│   ├── biblioteca.js     # Monta os cards do grid em index.html
-│   ├── livro.js          # Resolve o livro (#slug) e renderiza as seções
-│   ├── app.js            # Nav mobile, filtro por livro, localStorage de reflexões
-│   └── book-theme.js     # Template de configuração de tema por livro
+│   ├── biblioteca.js     # Apresentação: monta os cards do grid em index.html
+│   ├── livro.js          # Leitor: resolve o livro e renderiza as seções
+│   ├── app.js            # Comportamento global: nav mobile, filtro, localStorage
+│   ├── book-theme.js     # Template de configuração de tema por livro
+│   ├── data.js           # [ALVO] Ponto único de ingestão de dados (camada canônica)
+│   ├── main.js           # [ALVO] Controlador da Home (grid + nav + busca) — Sprint 2
+│   └── reader.js         # [ALVO] Controlador do Leitor (seções + reflexões) — Sprint 2
 ├── img/                  # Capas dos 15 livros
-└── docs/                 # Documentação técnica (ver abaixo)
+├── docs/                 # Documentação técnica, arquitetura, UML, sprints
+├── assets/
+│   └── wireframes/       # Wireframes de baixa fidelidade
+└── .github/
+    └── workflows/
+        └── deploy.yml    # CI: validação + links + diagramas + deploy GitHub Pages
 ```
 
-### Função de cada artefato
+### Papel de cada camada
 
-- **`index.html`** — Página de entrada. Contém o *hero*, o container
-  `#booksGrid` (preenchido por `biblioteca.js`) e a sidebar com links fixos
-  para os 15 livros (cada um aponta para `livro.html#<slug>`).
-- **`livro.html`** — Página de leitura **genérica**. Não contém conteúdo
-  estático por livro; `livro.js` lê o `#slug` da URL, busca o objeto em
-  `MEU_BOLSO_BOOKS` e injeta as seções (Sobre, Ensinamentos, Verdades/Mitos,
-  Reflexões) via `innerHTML`.
-- **`css/styles.css`** — Estilos centralizados. Tema atual definido por
-  variáveis em `:root` (cores, raio, sombras, fontes). **Somente o tema escuro
-  ("Neon Dark Blue") está implementado**; o tema claro é item de backlog.
-- **`js/`** — Toda a lógica. Separação clara entre **dados** (`books.js`),
-  **apresentação dinâmica** (`biblioteca.js`, `livro.js`) e **comportamento
-  global** (`app.js`).
+| Artefato | Camada | Responsabilidade |
+|----------|--------|-----------------|
+| `index.html`, `livro.html` | Apresentação | Marcação semântica semântica (HTML5). |
+| `css/styles.css` | Estilo | Design System via `:root` (cores, raio, sombras, fontes). |
+| `js/books.js` → `js/data.js` | Dados | Fonte única dos 15 resumos (array de objetos). |
+| `js/biblioteca.js` / `js/main.js` | Comportamento | Renderização do grid e navegação da Home. |
+| `js/livro.js` / `js/reader.js` | Comportamento | Renderização das seções e reflexões do leitor. |
+| `js/app.js` | Comportamento | Filtro de livros, nav mobile, persistência `localStorage`. |
+
+> **Nota de arquitetura:** a fundação v1.0 entrega a documentação/arquitetura/CI completas.
+> Os módulos `data.js`/`main.js`/`reader.js` já existem como a **camada canônica-alvo**;
+> a migração do app atual para consumi-los (incluindo a troca `#slug` → `?id=`) está
+> planejada no Sprint 2 (ver `docs/sprints/sprint-2.md`).
+
+---
 
 ## Documentação (`/docs`)
 
-| Arquivo                              | Conteúdo                                        |
-|--------------------------------------|-------------------------------------------------|
-| `docs/architecture.md`               | UML/fluxo: navegação, estados de tema, componentes |
-| `docs/diagrams/`                     | Arquivos Mermaid standalone (nav, tema, componentes) |
-| `docs/sprints.md`                    | Backlog + planejamento de 3 sprints              |
-| `docs/brainstorm.md`                 | Ideias leves (vanilla) e expansão de conteúdo    |
-| `docs/timeline.md`                  | Cronograma Gantt de 3 semanas                    |
-| `docs/contribution-guide.md`        | Como adicionar um novo resumo mantendo o padrão  |
-| `docs/quality-checklist.md`         | Checklist de qualidade vanilla                  |
+| Arquivo | Conteúdo |
+|---------|----------|
+| `docs/architecture.md` | Blueprint cliente: camadas, SOLID no JS puro, ingestão de dados, cache/estado. |
+| `docs/contribution-guide.md` | Padrões de código (BEM), Design System de leitura, manual do contribuidor. |
+| `docs/quality.md` | Checklist obrigatório de qualidade vanilla (defer, lazy, sem externos). |
+| `docs/chronogram.md` | Cronograma físico (Gantt Mermaid, 3 semanas) e recursos. |
+| `docs/brainstorm.md` | Brainstorm de micro-UX e matriz de viabilidade sem dependências. |
+| `docs/uml/*.puml` | Diagramas PlantUML: navegação, estados do client-side, componentes lógicos. |
+| `docs/sprints/*.md` | Backlog + planejamento das 3 primeiras sprints. |
+
+---
 
 ## Como publicar no GitHub Pages
 
-1. No repositório GitHub: **Settings → Pages**.
-2. Source: branch `master` (ou `main`) / pasta `root`.
-3. Aguarde o deploy (alguns minutos). A URL será
-   `https://<usuario>.github.io/livro/`.
+1. No repositório GitHub: **Settings → Pages → Source: GitHub Actions**.
+2. O workflow `.github/workflows/deploy.yml` faz deploy automático da branch `master`.
+3. URL: `https://<usuario>.github.io/livro/`.
 
-## Notas
+---
 
-- `.claude/`, `.impeccable/` e `node_modules/` são ignorados (tooling local).
-- `verify-*.js` são scripts de checagem local, não fazem parte do site.
-- O tema claro/escuro citado no planejamento **ainda não existe no CSS** —
-  ver `docs/sprints.md` (Sprint 1) e `docs/architecture.md` (estado de tema).
+## Princípios de Performance (WPO)
+
+- **Sem JavaScript externo** — todo o comportamento é código próprio servido localmente.
+- **Sem CSS de terceiros** — Design System próprio em `styles.css`.
+- **Lazy loading nativo** — `<img loading="lazy">` em todas as capas (economia de banda).
+- **Scripts com `defer`** — parsing de HTML não é bloqueado.
+- **Transições aceleradas por hardware** — apenas `opacity`, `transform`, `background-color`.
+- **Estado mínimo** — só o essencial (`tema`, `reflexões`) persiste em `localStorage`.

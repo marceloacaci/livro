@@ -1,148 +1,155 @@
-# Arquitetura — Biblioteca de Reflexões (vanilla)
+# Arquitetura — Biblioteca de Reflexões (Vanilla, Zero-Build)
 
-Documento técnico da arquitetura atual do projeto **Livro**. O foco é manter a
-natureza *vanilla* (HTML + CSS + JS puro, sem build). Tudo o que está marcado
-como **BACKLOG** não existe ainda no código e é tratado em `sprints.md`.
+Este documento é o **blueprint técnico do cliente**. Descreve a separação de camadas,
+a estratégia de dados e o ciclo de estado local. Tudo roda no navegador, sem servidor
+de aplicação, sem banco de dados e sem etapa de compilação.
 
 ---
 
-## 1. Visão de Alto Nível
+## 1. Separação de Camadas (HTML / CSS / JS puro)
 
-O projeto é um site estático de duas páginas:
+O projeto respeita uma arquitetura em três camadas isoladas por responsabilidade:
 
-- **`index.html`** — Biblioteca (entrada).
-- **`livro.html`** — Leitura (página genérica, 1 livro por URL `#slug`).
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  APRESENTAÇÃO  — index.html, livro.html  (HTML5 semântico)   │
+│  Estrutura e significado do conteúdo. Sem estilo ou lógica.  │
+├─────────────────────────────────────────────────────────────┤
+│  ESTILIZAÇÃO  — css/styles.css  (CSS Custom Properties)      │
+│  Design System via :root. Tema Dark atual; Light é backlog. │
+├─────────────────────────────────────────────────────────────┤
+│  COMPORTAMENTO — js/*.js  (JavaScript ES5/ES6, IIFE)         │
+│  Manipulação nativa do DOM, estado local, sem frameworks.    │
+└─────────────────────────────────────────────────────────────┘
+```
 
-A fonte de dados é um **array global** em `js/books.js`:
+### Aplicando S.O.L.I.D. no JavaScript puro
+
+Sem classes nem injeção de dependência de framework, aplicamos os princípios através de
+**módulos escopados** (IIFE) e **responsabilidade única**:
+
+| Princípio | Como aparece no código |
+|-----------|------------------------|
+| **S** — Responsabilidade Única | `biblioteca.js` só monta o grid; `livro.js` só renderiza o leitor; `app.js` só cuida de nav/filtro/persistência. |
+| **O** — Aberto/Fechado | Novos livros entram via dados (`books.js`), sem editar a lógica de render. |
+| **L** — Substituição de Liskov | Qualquer objeto de livro com a mesma "interface" (id/slug/title/...) é renderizável. |
+| **I** — Segregação de Interface | Cada módulo consome apenas os campos de que precisa do objeto de livro. |
+| **D** — Inversão de Dependência | A lógica depende da **fonte de dados abstrata** (`window.LIVRO_DATA`/`MEU_BOLSO_BOOKS`), não de uma implementação concreta de storage. |
+
+> **Escopo de módulo:** cada arquivo JS é envolvido em `(function(){ 'use strict'; ... })();`
+> para não vazar variáveis ao `window`, exceto os pontos de integração explícitos
+> (`window.MEU_BOLSO_BOOKS`, `window.LIVRO_DATA`, `window.LivroData`).
+
+---
+
+## 2. Ingestão de Dados por Arquivo de Configuração
+
+Os 15 resumos são um **array de objetos** em um arquivo estático dedicado. A camada de
+dados é a única fonte de verdade; as views nunca conhecem a origem do dado.
+
+### Atual (funcional)
+
+- `js/books.js` define `window.MEU_BOLSO_BOOKS = [ { id, slug, title, ... }, ... ]`.
+- Carregado via `<script src="js/books.js">` antes dos controladores.
+
+### Alvo (camada canônica — `js/data.js`)
+
+`js/data.js` normaliza o acesso e prepara a migração para `data/books.json` via `fetch`:
 
 ```js
-window.MEU_BOLSO_BOOKS = [ /* 15 objetos de livro */ ];
+// js/data.js — ponto único de ingestão
+(function (global) {
+  'use strict';
+  var DATA = global.MEU_BOLSO_BOOKS || [];
+  function getBookById(id) {
+    return DATA.find(function (b) { return b.id === id || b.slug === id; }) || null;
+  }
+  function getAllBooks() { return DATA.slice(); }
+  global.LIVRO_DATA = DATA;
+  global.LivroData = { getBookById: getBookById, getAllBooks: getAllBooks };
+})(window);
 ```
 
-Não há `fetch`, `XMLHttpRequest` nem JSON externo. O navegador carrega
-`books.js` como `<script>` e o restante da app consome `window.MEU_BOLSO_BOOKS`.
+### Fluxo de ingestão
 
-> **Decisão arquitetural:** manter os dados em JS em vez de `data.json` + `fetch`
-> evita CORS ao abrir `index.html` via `file://` (sem servidor). Custo: editar
-> dados exige tocar em `books.js`. Mitigado pelo guia de contribuição.
-
----
-
-## 2. Diagrama de Navegação (Fluxo do Usuário)
-
-Ver [`diagrams/nav-flow.mmd`](diagrams/nav-flow.mmd).
-
-Fluxo resumido:
-
-```
-index.html  ──(clique no card: livro.html#<slug>)──▶  livro.html
-   │                                                        │
-   │  grid montado por js/biblioteca.js                     │  js/livro.js resolve #slug
-   │  a partir de MEU_BOLSO_BOOKS                            │  e renderiza as seções
-   ▼                                                        ▼
- sidebar com 15 links fixos ──────────────── Voltar p/ biblioteca ──▶ index.html
+```text
+js/books.js (MEU_BOLSO_BOOKS)
+        │
+        ▼
+js/data.js (LIVRO_DATA + LivroData.getBookById)
+        │
+        ├──► js/biblioteca.js / main.js  → grid de cards (index.html)
+        └──► js/livro.js / reader.js     → seções do livro (livro.html)
 ```
 
-- O grid `#booksGrid` é populado em tempo de execução (`biblioteca.js`).
-- Cada card é um `<a href="livro.html#<slug>">`.
-- Em `livro.html`, `livro.js` faz `books.find(b => b.slug === id)`.
+**Ganho:** adicionar o livro 16 significa apenas acrescentar um objeto em `books.js`
+(ou, no futuro, em `data/books.json`). Nenhuma linha de HTML ou de lógica de render muda.
 
 ---
 
-## 3. Diagrama de Estados (Lógica de Tema)
+## 3. Estratégia de Cache e Estado Local
 
-Ver [`diagrams/theme-states.mmd`](diagrams/theme-states.mmd).
+Dois estados do usuário persistem no navegador, sem backend:
 
-**Estado atual (real):** apenas o tema **escuro** ("Neon Dark Blue") está
-implementado, via variáveis em `:root` em `css/styles.css`. Não há toggle
-claro/escuro nem persistência de tema.
+### 3.1 Tema (Light / Dark)
 
-**Estado desejado (BACKLOG — Sprint 1):**
+Ciclo de vida do tema:
 
-| Gatilho                 | Transição              | Onde vive                       |
-|-------------------------|------------------------|---------------------------------|
-| 1ª visita               | ler `prefers-color-scheme` | JS na carga                 |
-| clique no toggle        | troca classe `data-theme` no `<html>` | JS + CSS `[data-theme=light]` |
-| troca de tema           | salvar em `localStorage` | JS (`app.js`)                |
-| próxima visita          | aplicar tema salvo     | JS na carga                     |
+1. **Preferência do sistema** — na primeira visita, o JS consulta
+   `window.matchMedia('(prefers-color-scheme: dark)')`.
+2. **Escolha do usuário** — ao clicar no toggle, grava `localStorage.setItem('livro-theme', 'dark'|'light')`.
+3. **Aplicação** — um atributo `data-theme` no `<html>` direciona as variáveis CSS:
+   `:root[data-theme="light"] { --color-bg: #f5f7fb; ... }`.
+4. **Reset** — se o usuário limpar a preferência, volta a `SystemDefault`.
 
-**Estratégia de temas (recomendada, vanilla):**
-- **Fontes de verdade:** variáveis CSS em `:root` (cores) + estado em JS
-  (atributo `data-theme` no `<html>`).
-- **Não** usar JS para setar cor por cor (viola separação). JS só troca o
-  atributo; o CSS reage às variáveis.
-- Tema claro = bloco `:root[data-theme="light"] { --color-bg: ...; }`.
-
----
-
-## 4. Diagrama de Componentes Lógicos
-
-Ver [`diagrams/components.mmd`](diagrams/components.mmd).
-
-Separação em três camadas:
-
-### 4.1 Camada de Apresentação (HTML + CSS)
-- **HTML:** `index.html` (hero, grid, sidebar), `livro.html` (esqueleto de
-  seções vazias preenchidas por JS).
-- **CSS:** `css/styles.css` — *custom properties* em `:root`, layout (navbar
-  sticky, grid, sidebar, cards), tema escuro.
-
-### 4.2 Camada de Comportamento (JS)
-| Arquivo            | Responsabilidade                                   |
-|--------------------|----------------------------------------------------|
-| `js/books.js`      | Dados: `window.MEU_BOLSO_BOOKS` (15 livros).        |
-| `js/biblioteca.js` | Monta os cards do grid em `index.html`.             |
-| `js/livro.js`      | Resolve `#slug`, renderiza seções em `livro.html`.  |
-| `js/app.js`        | Nav mobile, filtro por livro, `localStorage`.      |
-| `js/book-theme.js` | Template de configuração de tema por livro.         |
-
-> **Ponto de atenção (descoberto na auditoria):** `app.js` e `livro.js` contêm
-> lógicas sobrepostas (filtro por livro, scroll-spy de nav, `localStorage`).
-> Recomenda-se consolidar o domínio de reflexões/localStorage em um único
-> módulo (`app.js` ou um `storage.js`) para evitar duplicação — ver `sprints.md`.
-
-### 4.3 Estado do Navegador
-- **`localStorage`** chave `biblioteca_reflexoes` (com migração da legada
-  `meubolso_reflexoes`): armazena as reflexões do usuário por `step`.
-- **URL `#slug`**: identifica qual livro `livro.html` deve renderizar.
-
----
-
-## 5. Modelo de Dados (livro)
-
-Cada entrada de `MEU_BOLSO_BOOKS` possui (campos observados no código):
-
-```
-id, slug, title, titlePt, author, year, editionYear, publisher,
-pages, genre, language, copiesSold, cover, topic, summary, color,
-file, citacoes[], citacoesTerceiros[], sections[], ensinamentos[],
-chapters[], myths[], stepLabels{}
+```text
+SystemDefault ──toggle──► UserDark ──toggle──► UserLight
+      ▲                      │  ▲                  │  ▲
+      └────── reset ─────────┘  └────── toggle ────┘  │
+                                                      │
+                                      reset ───────────┘
 ```
 
-Renderização dinâmica em `livro.js`:
-- `sobre` ← metadados + citações.
-- `ensinamentos` ← `book.ensinamentos`.
-- `verdadesmitos` ← `book.myths` (badges Verdade/Mito + reflexão).
-- `reflexoes` ← `localStorage` (campo de texto por seção/step).
+### 3.2 Reflexões do leitor
+
+Cada reflexão é salva sob uma chave estável (ex.: `baby1`, `idea-3`, `verdadesmitos`)
+em um único objeto JSON em `localStorage` (`biblioteca_reflexoes`). A leitura e a
+escrita ocorrem apenas no cliente; não há sincronização com servidor por design.
+
+```js
+// Leitura
+var raw = localStorage.getItem('biblioteca_reflexoes');
+var reflexoes = raw ? JSON.parse(raw) : {};
+// Escrita
+reflexoes[step] = { text: texto, savedAt: new Date().toISOString() };
+localStorage.setItem('biblioteca_reflexoes', JSON.stringify(reflexoes));
+```
+
+> **Privacidade:** nada sai do navegador. Não há analytics, não há chamadas de rede além
+> do carregamento dos próprios arquivos estáticos.
 
 ---
 
-## 6. Restrições e Não-Objetivos
+## 4. Renderização Dinâmica (sem framework)
 
-- **Sem backend, sem banco de dados.** Reflexões são locais ao navegador.
-- **Sem build.** Nenhum passo de compilação; o navegador consome os arquivos.
-- **Sem framework.** Nada de React/Vue/jQuery. DOM manipulado via API nativa.
-- **Acessibilidade (WCAG)** é objetivo de Sprint 1, não estado atual.
+- **Home (`index.html`)**: `biblioteca.js` lê `MEU_BOLSO_BOOKS` e injeta o HTML dos cards
+  no container `#booksGrid` via `innerHTML` (com escapamento de texto do usuário).
+- **Leitor (`livro.html`)**: `livro.js` resolve o livro pelo `#slug` da URL, busca o
+  objeto em `MEU_BOLSO_BOOKS` e injeta as seções (`sobre`, `ensinamentos`, `ideias`,
+  `verdadesmitos`, `reflexoes`) via `innerHTML`.
+- **Busca/Filtro**: `app.js` escuta `input` e filtra os cards em tempo real manipulando
+  o DOM (`classList.toggle('book-hidden')`).
+
+> **Migração planejada (Sprint 2):** trocar `#slug` por Query Param
+> (`livro.html?id=<bookId>`) e consumir `LivroData.getBookById` a partir de `data.js`.
 
 ---
 
-## 7. Riscos Arquiteturais (honestidade técnica)
+## 5. Restrições de Arquitetura (inegociáveis)
 
-1. `books.js` tem ~360KB (15 livros grandes). Sem *code splitting* (não há
-   build), mas é aceitável para site estático; lazy-load de imagens (Sprint 1)
-   reduz o peso percebido.
-2. HTML de `livro.html` é injetado via `innerHTML` a partir de `books.js`.
-   Conteúdo é controlado pelo autor (confiável), então risco de XSS é baixo —
-   mas `app.js` faz `escapeHtml` corretamente nas reflexões do usuário. Manter
-   esse padrão ao adicionar campos dinâmicos.
-3. Tema claro e toggle de tema **não existem** — tratar como feature, não bug.
+- ❌ Nenhum framework (React/Vue/Angular/Svelte).
+- ❌ Nenhum bundler/compiler (Webpack/Vite/Turbo/Babel).
+- ❌ Nenhum runtime backend ou banco de dados.
+- ❌ Nenhum asset externo (CDN, fontes de terceiros, trackers).
+- ✅ HTML semântico + CSS Variables + JavaScript modular nativo.
+- ✅ `<script defer>` e `<img loading="lazy">` obrigatórios.

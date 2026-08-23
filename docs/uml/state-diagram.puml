@@ -1,0 +1,62 @@
+@startuml
+title Diagrama de Estados do Client-Side — LIVRO
+
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontName Segoe UI
+skinparam state {
+  BackgroundColor #F3E8FF
+  BorderColor #7B2DFF
+  FontColor #1A1A1A
+  StartColor #00C2FF
+  EndColor #FF3B6B
+}
+skinparam arrow {
+  Color #1A1A1A
+  FontColor #1A1A1A
+}
+
+[*] --> SystemDefault
+
+state "Tema" as Tema {
+  SystemDefault : matchMedia('(prefers-color-scheme: dark)')
+  UserDark : localStorage['livro-theme'] = 'dark'
+  UserLight : localStorage['livro-theme'] = 'light'
+
+  SystemDefault --> UserDark : usuário clica toggle (escuro)
+  SystemDefault --> UserLight : usuário clica toggle (claro)
+  UserDark --> UserLight : usuário clica toggle (claro)
+  UserLight --> UserDark : usuário clica toggle (escuro)
+  UserDark --> SystemDefault : usuário reseta preferência
+  UserLight --> SystemDefault : usuário reseta preferência
+}
+
+state "Busca / Filtro" as Busca {
+  ListaVazia : sem input
+  Filtrando : inputEvent dispara
+  SemResultado : nenhum livro casa
+
+  ListaVazia --> Filtrando : usuário digita (input event)
+  Filtrando --> Filtrando : usuário continua digitando
+  Filtrando --> ListaVazia : input apagado
+  Filtrando --> SemResultado : nenhum match
+  SemResultado --> Filtrando : usuário ajusta input
+  SemResultado --> ListaVazia : input apagado
+}
+
+state "Reflexões (localStorage)" as Reflexoes {
+  Vazio : sem reflexões salvas
+  Salvo : reflexao[step] = { text, savedAt }
+
+  Vazio --> Salvo : usuário salva texto
+  Salvo --> Salvo : usuário edita outra reflexão
+  Salvo --> Vazio : limpar todas (confirm)
+}
+
+SystemDefault : estado inicial do tema
+UserDark : tema escuro aplicado
+UserLight : tema claro aplicado
+
+[*] --> ListaVazia
+[*] --> Vazio
+
+@enduml

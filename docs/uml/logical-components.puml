@@ -1,0 +1,65 @@
+@startuml
+title Componentes Lógicos — LIVRO (Vanilla, Zero-Build)
+
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontName Segoe UI
+skinparam component {
+  BackgroundColor #E8F4FF
+  BorderColor #0078D4
+  FontColor #1A1A1A
+}
+skinparam interface {
+  BackgroundColor #F3E8FF
+  BorderColor #7B2DFF
+  FontColor #1A1A1A
+}
+skinparam arrow {
+  Color #1A1A1A
+  FontColor #1A1A1A
+}
+
+package "Camada de Dados" as Dados {
+  [js/books.js\n(window.MEU_BOLSO_BOOKS)] as Books
+  [js/data.js\n(LIVRO_DATA + LivroData)] as Data
+}
+
+package "Camada de Comportamento (Controladores DOM)" as Controle {
+  [js/biblioteca.js\n(main.js)\nGrid + Nav] as Home
+  [js/livro.js\n(reader.js)\nSeções + Reflexões] as Reader
+  [js/app.js\nFiltro + Tema + Persistência] as App
+}
+
+package "Camada de Estilo Global" as Estilo {
+  [css/styles.css\n(Design System :root)] as CSS
+}
+
+package "Camada de Apresentação" as View {
+  [index.html\nHero + #booksGrid] as Index
+  [livro.html\nSeções dinâmicas] as Livro
+}
+
+' Ingestão de dados
+Books --> Data : define / normaliza
+
+' Controladores consomem dados
+Data --> Home : getAllBooks()
+Data --> Reader : getBookById()
+
+' Controladores manipulam a view
+Home --> Index : injeta cards (#booksGrid)
+Reader --> Livro : injeta seções (innerHTML)
+
+' Tema/busca globais
+App --> Index : toggle tema / filtro
+App --> Livro : toggle tema
+
+' Estilo é consumido por todos
+CSS --> Index
+CSS --> Livro
+CSS --> Home
+CSS --> Reader
+
+' Persistência local
+App --> [localStorage\n(tema, reflexões)] : lê / grava
+
+@enduml

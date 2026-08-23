@@ -1,115 +1,111 @@
-# Guia de Contribuição de Conteúdo
+# Guia de Contribuição — Padrões de Código e Estilo Editorial
 
-Como adicionar um novo resumo de livro **mantendo o padrão vanilla**, sem quebrar
-a estrutura estática. Passo a passo.
-
-> Pré-requisito: o site é 100% estático. Não existe backend. Tudo é HTML/CSS/JS
-> puro. Para adicionar conteúdo, você edita **um array JS** — não precisa de
-> build nem de framework.
+Este guia garante que o projeto permaneça **vanilla, leve e consistente** mesmo com
+múltiplos contribuidores. Toda contribuição respeita a restrição de *zero-build*.
 
 ---
 
-## Passo 1 — Adicionar o objeto do livro em `js/books.js`
+## 1. Convenções de Nomenclatura (sem framework)
 
-Abra `js/books.js`. Ele começa com `window.MEU_BOLSO_BOOKS = [`. Adicione um
-novo objeto ao final do array (antes do `];` final), seguindo o schema dos 15
-existentes.
+### CSS — padrão BEM leve
 
-Campos obrigatórios:
+Usamos **BEM (Block Element Modifier)** para evitar colisões e manter a legibilidade:
+
+```css
+/* Block */
+.book-card { ... }
+
+/* Element */
+.book-card__cover { ... }
+.book-card__title { ... }
+
+/* Modifier */
+.book-card--hidden { display: none; }
+```
+
+- Variáveis de tema vivem em `:root` com prefixo `--color-`, `--radius`, `--shadow`, etc.
+- Estados de tema: `:root[data-theme="light"] { ... }`.
+- Evite IDs para estilo; prefira classes. Use `js-` apenas para "hooks" de JavaScript
+  (ex.: `.js-grid`, `#booksGrid` quando for alvo obrigatório de `getElementById`).
+
+### JavaScript — nomenclatura semântica
+
+- **Arquivos:** `kebab-case` (`biblioteca.js`, `reader.js`).
+- **Funções:** `camelCase` com verbo de intenção: `renderGrid()`, `saveReflexao()`,
+  `getBookById()`, `handleSearch()`.
+- **Constantes:** `UPPER_SNAKE` (`STORAGE_KEY`, `SECTION_IDS`).
+- **Escopo:** todo arquivo é uma IIFE com `'use strict'`; não vazar globais além dos
+  pontos de integração documentados (`window.LIVRO_DATA`, `window.LivroData`).
+- **Sem `var` solto em loop** — prefira `const`/`let` por bloco.
+
+---
+
+## 2. Design System de Leitura Confortável
+
+O modo de leitura prioriza **legibilidade e baixa fadiga visual**:
+
+| Tokens | Valor | Razão |
+|--------|-------|-------|
+| `--font-body` | `'Segoe UI', system-ui, sans-serif` | Fonte de sistema, zero download. |
+| `--font-heading` | `Georgia, 'Times New Roman', serif` | Serifada para títulos — ritmo editorial. |
+| `line-height` | `1.6` – `1.7` | Espaçamento confortável em parágrafos longos. |
+| `max-width` do texto | `~900px` | Coluna de leitura ideal (~65–75 caracteres/linha). |
+| Contraste | WCAG 2.1 **AA** (≥ 4.5:1 texto normal, ≥ 3:1 texto grande) | Acessibilidade. |
+
+- Parágrafos usam `<p>`; citções usam `<blockquote>`; seções usam `<h2>`/`<h3>`.
+- Espaçamento vertical entre parágrafos por `margin`, nunca por `<br>` soltos.
+- Links e botões têm `:focus-visible` explícito para navegação por teclado.
+
+---
+
+## 3. Manual Prático do Contribuidor
+
+### Adicionar um novo resumo (apenas dados)
+
+1. Abra `js/books.js` (fonte única de `window.MEU_BOLSO_BOOKS`).
+2. Acrescente um objeto ao array, seguindo o schema existente:
 
 ```js
-window.MEU_BOLSO_BOOKS = [
-  /* ... 15 livros existentes ... */
-  {
-    "id": "meu-livro",                       // curto, único (usado internamente)
-    "slug": "titulo-do-meu-livro",           // usado na URL: livro.html#titulo-do-meu-livro
-    "title": "Título Original",              // idioma original
-    "titlePt": "Título em Português",        // exibido na UI
-    "author": "Autor",
-    "year": "2020",
-    "editionYear": "2021",
-    "publisher": "Editora",
-    "pages": "200",
-    "genre": "Autoajuda / Hábitos",
-    "language": "Inglês",
-    "copiesSold": "—",
-    "cover": "img/meu-livro-cover.jpg",      // coloque a imagem em /img
-    "topic": "hábitos",
-    "summary": "Resumo curto exibido no card e no hero.",
-    "color": "#7b2dff",                       // cor de destaque do livro
-    "file": "livro.html#titulo-do-meu-livro", // link de acesso
-    "citacoes": [ { "texto": "...", "autor": "...", "obra": "..." } ],
-    "citacoesTerceiros": [ { "texto": "...", "autor": "...", "fonte": "..." } ],
-    "sections": [ "sobre", "ensinamentos", "ideias", "verdadesmitos", "reflexoes" ],
-    "ensinamentos": [ { "number": "1", "title": "...", "text": "...", "explicacoes": ["..."] } ],
-    "chapters": [ { "title": "...", "text": "...", "points": [ { "t":"...", "e":"...", "f":"...", "real":true } ] } ],
-    "myths": [ { "type":"truth", "title":"...", "text":"...", "reflection":"..." } ],
-    "stepLabels": {}
-  }
-];
+{
+  "id": "novolivro",
+  "slug": "titulo-em-hifen",
+  "title": "Original Title",
+  "titlePt": "Título em Português",
+  "author": "Autor",
+  "year": "2020",
+  "editionYear": "2021",
+  "publisher": "Editora",
+  "pages": "200",
+  "genre": "Autoajuda",
+  "language": "Inglês",
+  "copiesSold": "1 milhão",
+  "cover": "img/novolivro-cover.jpg",
+  "topic": "hábitos",
+  "myths": [ { type: 'truth', title: '...', text: '...', reflection: '...' } ],
+  "chapters": [ { title: 'Capítulo 1', text: '...', points: [ 'Ideia', { t:'...', f:'...' } ] } ]
+}
 ```
 
-**Regras:**
-- `slug` deve ser único e em kebab-case (minúsculas, hífens).
-- `id` deve ser único e curto.
-- Use aspas duplas nos campos de string (padrão do arquivo).
-- `myths[].type` só aceita `"truth"` ou `"myth"`.
+3. Coloque a capa em `img/` e referencie em `cover`.
+4. O grid da Home e o leitor **passam a exibir o livro automaticamente** — nenhuma
+   mudança em HTML ou lógica de render é necessária.
 
----
+### Escrever o conteúdo (tags semânticas)
 
-## Passo 2 — Adicionar a capa em `/img`
+Use apenas marcação semântica; o CSS cuida da aparência:
 
-Coloque o arquivo da capa em `img/` e referencie em `cover`. Formatos: `.jpg`,
-`.png`. Recomendado: ~400×600px, < 200KB.
-
----
-
-## Passo 3 — (Recomendado) Atualizar a sidebar de `index.html`
-
-> ⚠️ **Atenção:** a sidebar de `index.html` lista os livros **manualmente**.
-> Para o novo livro aparecer nela, adicione um `<li>`:
->
-> ```html
-> <li><a href="livro.html#titulo-do-meu-livro" class="sidebar-link">
->   <span class="menu-dot" style="background:#7b2dff"></span> Título em Português</a></li>
-> ```
->
-> **Melhor prática futura (Sprint 2/3):** gerar essa lista via JS a partir de
-> `MEU_BOLSO_BOOKS`, para que adicionar livro não exija tocar no HTML. Até lá,
-> edite manualmente.
-
-O grid (`#booksGrid`) já é montado por `js/biblioteca.js` a partir de
-`MEU_BOLSO_BOOKS` — então o card aparece **automaticamente** no grid.
-
----
-
-## Passo 4 — Testar localmente
-
-```bash
-python -m http.server 8077
-# abra http://localhost:8077
+```html
+<h2>Seção</h2>
+<p>Parágrafo com explicação.</p>
+<blockquote>Citação de impacto do autor.</blockquote>
+<ul><li>Ponto central 1</li><li>Ponto central 2</li></ul>
 ```
 
-1. O novo card aparece no grid de `index.html`?
-2. Clicar nele abre `livro.html#titulo-do-meu-livro` com o conteúdo certo?
-3. As seções (Sobre, Ensinamentos, Verdades/Mitos, Reflexões) renderizam?
-4. Escrever uma reflexão e recarregar a página a mantém? (`localStorage`)
+### Antes de abrir o Pull Request
 
----
-
-## Passo 5 — Commit
-
-```bash
-git add -A
-git commit -m "content: adiciona resumo de <Título>"
-git push
-```
-
----
-
-## Convenções de Conteúdo
-
-- Texto em **pt-BR**.
-- `summary`: 1–2 frases.
-- `myths`: equilibrar verdades e mitos.
-- Respeite a estrutura de seções — não invente novas sem atualizar `sections[]`.
+- [ ] Rodou `python3 -m http.server 8077` e testou no navegador (desktop + mobile).
+- [ ] Nenhum framework/bundler/CDN introduzido.
+- [ ] Capas com `loading="lazy"`.
+- [ ] `localStorage` usado apenas para tema e reflexões.
+- [ ] Contraste AA verificado (extensão de acessibilidade do navegador).
+- [ ] `node --check` em qualquer arquivo JS novo (sintaxe válida).

@@ -1,0 +1,50 @@
+@startuml
+title Fluxo de Navegação — LIVRO (Vanilla, Zero-Build)
+
+skinparam backgroundColor #FFFFFF
+skinparam defaultFontName Segoe UI
+skinparam activity {
+  BackgroundColor #E8F4FF
+  BorderColor #0078D4
+  FontColor #1A1A1A
+}
+skinparam arrow {
+  Color #1A1A1A
+  FontColor #1A1A1A
+}
+
+start
+:Usuário acessa **index.html**;
+
+if (Dados carregados?) then (sim)
+  :js/data.js expõe LIVRO_DATA / MEU_BOLSO_BOOKS;
+else (não)
+  :Carrega js/books.js via <script defer>;
+endif
+
+:js/biblioteca.js lê o array de livros;
+:Renderiza dinamicamente o **Grid de Cards** (#booksGrid);
+
+:Usuário clica em um Card;
+:Extrai o **id/slug** do livro;
+
+if (Método de roteamento) then (Query Param)
+  :Navega para **livro.html?id=<bookId>**;
+else (Hash atual)
+  :Navega para **livro.html#<slug>**;
+endif
+
+:js/reader.js (livro.js) lê o parâmetro da URL;
+:LivroData.getBookById(id) resolve o objeto;
+
+if (Livro encontrado?) then (sim)
+  :js/reader.js injeta as seções via innerHTML;
+  :Sobre, Ensinamentos, Ideias, Verdades/Mitos, Reflexões;
+  :Usuário escreve reflexões -> salvas em localStorage;
+  :Fim da leitura;
+else (não)
+  :Exibe "Livro não encontrado";
+endif
+
+stop
+@enduml

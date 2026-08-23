@@ -1,0 +1,84 @@
+name: CI — Validate & Deploy (Static)
+
+# Valida sintaxe, links e diagramas, e publica no GitHub Pages.
+# Sem etapa de build do site: o projeto é 100% estático (vanilla, zero-build).
+
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Validate HTML / Links / Diagrams
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Lint HTML (htmlhint)
+        run: npx --yes htmlhint "**/*.html"
+        continue-on-error: true
+
+      - name: Check broken links (lychee)
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --accept 200,206,301,302
+            --exclude localhost
+            --exclude-mail
+            ./README.md ./docs ./index.html ./livro.html
+        continue-on-error: true
+
+      - name: Compile PlantUML diagrams
+        uses: grassedge/plantuml-action@v1
+        with:
+          args: "-tpng -o build/diagrams docs/uml/*.puml"
+
+      - name: Upload diagram artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: uml-diagrams
+          path: build/diagrams
+          if-no-files-found: ignore
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: validate
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
