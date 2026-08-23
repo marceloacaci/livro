@@ -95,3 +95,20 @@ confortável e modularização. Cada item tem critérios de aceitação em **Ghe
 - Dado que salvo reflexões
 - Quando recarrego
 - Então o estado vem de uma única fonte (`LivroData`/`localStorage`).
+
+## B12 — Transição de roteamento `#slug` → `?id=` (Refatoração Canônica)
+**Como** mantenedor, **quero** trocar a âncora por Query Param no leitor,
+**para** ter URLs mais robustas, compartilháveis e amigáveis a analytics.
+
+- Dado que o `main.js` gera os links dos cards
+- Quando aponta para `livro.html?id=<bookId>`
+- Então o `reader.js`/`livro.js` resolve o livro via `URLSearchParams`, aceitando
+  ainda `#slug` durante a transição (compatibilidade retroativa).
+
+## B0 — Salvaguarda de código local (Módulo 0)
+**Como** usuário, **quero** que minhas alterações locais não subidas sejam protegidas
+**antes** de qualquer atualização automática, **para** não perder progresso de anotações.
+
+- Dado que tenho mudanças locais não commitadas
+- Quando rodo `git stash save "progresso_local_antes_do_hermes"` (ou crio `feature/progresso-local`)
+- Então nenhuma linha de `localStorage`/reflexões é sobrescrita pela v1.0.

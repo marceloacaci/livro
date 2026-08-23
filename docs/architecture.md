@@ -66,7 +66,11 @@ dados é a única fonte de verdade; as views nunca conhecem a origem do dado.
   }
   function getAllBooks() { return DATA.slice(); }
   global.LIVRO_DATA = DATA;
-  global.LivroData = { getBookById: getBookById, getAllBooks: getAllBooks };
+  global.LivroData = {
+    getBookById: getBookById,
+    getAllBooks: getAllBooks,
+    getBooksByGenre: function (g) { /* filtra por gênero */ }
+  };
 })(window);
 ```
 
@@ -139,6 +143,30 @@ localStorage.setItem('biblioteca_reflexoes', JSON.stringify(reflexoes));
   `verdadesmitos`, `reflexoes`) via `innerHTML`.
 - **Busca/Filtro**: `app.js` escuta `input` e filtra os cards em tempo real manipulando
   o DOM (`classList.toggle('book-hidden')`).
+
+### 4.1 Transição de roteamento: `#slug` → `?id=` (Sprint 2)
+
+A refatoração canônica troca a âncora pela **Query String**, mais robusta e
+compartilhável:
+
+| Atual | Alvo |
+|-------|------|
+| `livro.html#o-poder-da-acao-financeira` | `livro.html?id=ramsey` |
+| `livro.js` lê `location.hash` | `reader.js`/`livro.js` lê `URLSearchParams` |
+
+```js
+// Leitura do parâmetro (aceita ambos durante a transição)
+var params = new URLSearchParams(location.search);
+var id = params.get('id') || location.hash.replace(/^#/, '');
+var book = LivroData.getBookById(id);
+```
+
+- **Compatibilidade:** durante a migração, o leitor aceita `#slug` **e** `?id=`; só
+  depois que `main.js` passa a gerar links com `?id=` é que o `#slug` pode ser descontinuado.
+- **Isolamento (Módulo 0):** as sugestões de refatoração são **blocos modulares
+  complementares**. O progresso local de anotações (`localStorage`) e reflexões em
+  `app.js`/`livro.js` **não deve ser sobrescrito** — o `data.js`/`main.js`/`reader.js`
+  atuam como camada adicional, e o merge manual preserva a lógica de `localStorage` existente.
 
 > **Migração planejada (Sprint 2):** trocar `#slug` por Query Param
 > (`livro.html?id=<bookId>`) e consumir `LivroData.getBookById` a partir de `data.js`.

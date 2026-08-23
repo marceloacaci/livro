@@ -47,7 +47,7 @@ npx serve -p 8077
 ```text
 LivRO/
 ├── index.html            # Home: hero + grid de cards (renderizado por JS)
-├── livro.html            # Leitor: view genérica que injeta 1 livro por #slug
+├── livro.html            # Leitor: view genérica; roteamento atual por #slug, migração p/ ?id= (Sprint 2)
 ├── css/
 │   └── styles.css        # Design System baseado em CSS Variables (tema Dark atual)
 ├── js/
@@ -56,9 +56,9 @@ LivRO/
 │   ├── livro.js          # Leitor: resolve o livro e renderiza as seções
 │   ├── app.js            # Comportamento global: nav mobile, filtro, localStorage
 │   ├── book-theme.js     # Template de configuração de tema por livro
-│   ├── data.js           # [ALVO] Ponto único de ingestão de dados (camada canônica)
-│   ├── main.js           # [ALVO] Controlador da Home (grid + nav + busca) — Sprint 2
-│   └── reader.js         # [ALVO] Controlador do Leitor (seções + reflexões) — Sprint 2
+│   ├── data.js           # Camada canônica de ingestão (getBookById/getAllBooks/getBooksByGenre)
+│   ├── main.js           # Controlador da Home (grid + nav + busca client-side) — Sprint 2
+│   └── reader.js         # Controlador do Leitor (progresso, copiar citação, Zen) — Sprint 2
 ├── img/                  # Capas dos 15 livros
 ├── docs/                 # Documentação técnica, arquitetura, UML, sprints
 ├── assets/
@@ -81,8 +81,15 @@ LivRO/
 
 > **Nota de arquitetura:** a fundação v1.0 entrega a documentação/arquitetura/CI completas.
 > Os módulos `data.js`/`main.js`/`reader.js` já existem como a **camada canônica-alvo**;
-> a migração do app atual para consumi-los (incluindo a troca `#slug` → `?id=`) está
-> planejada no Sprint 2 (ver `docs/sprints/sprint-2.md`).
+> a migração do app atual para consumi-los — incluindo a **transição de roteamento
+> `#slug` → `?id=`** (ex.: `livro.html?id=ramsey`) — está planejada no Sprint 2
+> (ver `docs/sprints/sprint-2.md`). Durante a transição ambos os formatos são aceitos,
+> para não quebrar links existentes.
+>
+> **Estado do ambiente (verificado):** working tree limpa, `master` em dia com
+> `origin/master`, sem alterações locais não-subidas. O código local do usuário, quando
+> houver, deve ser protegido antes de qualquer atualização — ver `docs/sprints/sprint-1.md`
+> (Módulo 0: `git stash` / branch de trabalho).
 
 ---
 
