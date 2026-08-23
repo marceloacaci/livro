@@ -1111,17 +1111,28 @@ body {
 .chapter-link {
   display: block;
   text-decoration: none;
-  color: #fff;
-  padding: 6px 10px;
+  color: var(--color-text);
+  padding: 8px 12px;
   border-radius: var(--radius);
   font-size: 0.85rem;
-  transition: background var(--transition), color var(--transition), box-shadow var(--transition);
+  margin: 4px 0;
+  /* mesmo relevo "raised" dos .sidebar-link */
+  background-color: #1b2742;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.30), rgba(255, 255, 255, 0.04) 46%, rgba(0, 0, 0, 0.42));
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: inset 0 2px 2px rgba(255, 255, 255, 0.55),
+              inset 0 -4px 6px rgba(255, 255, 255, 0.22),
+              0 3px 6px rgba(255, 255, 255, 0.16);
+  transition: background var(--transition), color var(--transition), box-shadow var(--transition), transform var(--transition);
 }
 
 .chapter-link:hover,
 .chapter-link:focus {
   transform: translateY(-1px);
-  box-shadow: var(--shadow-hover);
+  box-shadow: inset 0 2px 2px rgba(255, 255, 255, 0.60),
+              inset 0 -4px 6px rgba(255, 255, 255, 0.26),
+              0 5px 12px rgba(255, 255, 255, 0.22);
+  outline: none;
 }
 
 .chapter-link.active {
@@ -1610,6 +1621,14 @@ body {
               0 3px 6px rgba(20, 40, 80, 0.10);
 }
 :root[data-theme="light"] .book-search-input {
+  background-color: #e6ecf5;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.10) 46%, rgba(0, 0, 0, 0.06));
+  border-color: rgba(0, 0, 0, 0.10);
+  box-shadow: inset 0 2px 2px rgba(255, 255, 255, 0.80),
+              inset 0 -4px 6px rgba(0, 0, 0, 0.12),
+              0 3px 6px rgba(20, 40, 80, 0.10);
+}
+:root[data-theme="light"] .chapter-link {
   background-color: #e6ecf5;
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.10) 46%, rgba(0, 0, 0, 0.06));
   border-color: rgba(0, 0, 0, 0.10);
