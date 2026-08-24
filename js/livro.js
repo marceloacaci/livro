@@ -5,6 +5,16 @@
 (function () {
   'use strict';
 
+  // Helper local de escape (o main.js define o seu; este módulo é autocontido)
+  function escapeAttr(s) {
+    return String(s == null ? '' : s)
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
   var books = window.MEU_BOLSO_BOOKS || [];
 
   // btnClearAll e sidebarBookHome são locais do app.js (outro IIFE); buscamos no DOM
@@ -89,14 +99,47 @@
     html += '  <div class="citacoes-lista">';
     lista.forEach(function (c) {
       var credito = c.autor + (c.obra ? ', ' + c.obra : '') + (c.fonte ? ' · ' + c.fonte : '');
+      var copyText = '“' + c.texto + '” — ' + credito;
       html += '    <blockquote class="citacao">' +
         '<p class="citacao-texto">&ldquo;' + c.texto + '&rdquo;</p>' +
         '<footer class="citacao-autor">&mdash; ' + credito + '</footer>' +
+        '<button type="button" class="btn-copiar-citacao" data-copy-text="' + escapeAttr(copyText) + '">Copiar</button>' +
         '</blockquote>';
     });
     html += '  </div>';
     html += '</div>';
     return html;
+  }
+
+  // B7 — Copiar Citação (Clipboard API, sem libs externas)
+  function bindCopiarCitacao(scope) {
+    if (!scope) return;
+    scope.addEventListener('click', function (e) {
+      var btn = e.target && e.target.closest ? e.target.closest('.btn-copiar-citacao') : null;
+      if (!btn) return;
+      var text = btn.getAttribute('data-copy-text') || '';
+      var done = function () {
+        var old = btn.textContent;
+        btn.textContent = 'Copiado!';
+        btn.classList.add('copiado');
+        setTimeout(function () { btn.textContent = old; btn.classList.remove('copiado'); }, 1500);
+      };
+      if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(done).catch(function () { fallbackCopy(text, done); });
+      } else {
+        fallbackCopy(text, done);
+      }
+    });
+  }
+  function fallbackCopy(text, done) {
+    try {
+      var ta = document.createElement('textarea');
+      ta.value = text; ta.setAttribute('readonly', ''); ta.style.position = 'absolute'; ta.style.left = '-9999px';
+      document.body.appendChild(ta); ta.select();
+      document.execCommand('copy');
+      document.body.removeChild(ta);
+      done();
+    } catch (err) { /* silencioso */ }
   }
 
   if (book.citacoes && book.citacoes.length) {
@@ -381,6 +424,31 @@
 
   window.addEventListener('scroll', updateActiveNavV2, { passive: true });
   updateActiveNavV2();
+
+  // B7 — Copiar Citação: amarra listeners (delegação) nos containers que têm citações
+  bindCopiarCitacao(document.getElementById('sobreContent'));
+  var ideasScope = document.getElementById('ideiasContent') || document.getElementById('ideias');
+  bindCopiarCitacao(ideiasScope);
+
+  // B6 — Barra de progresso de leitura + B8 — Modo Leitura Focada
+  var progressBar = document.getElementById('readingProgress');
+  var lastScrollY = window.scrollY || 0;
+  function onScrollExtras() {
+    var scrollY = window.scrollY || window.pageYOffset || 0;
+    var docHeight = document.documentElement.scrollHeight - window.innerHeight;
+    var pct = docHeight > 0 ? Math.min(100, Math.max(0, (scrollY / docHeight) * 100)) : 0;
+    if (progressBar) progressBar.style.width = pct + '%';
+    // B8 — esconde header/footer ao rolar para baixo; mostra ao rolar para cima
+    var body = document.body;
+    if (scrollY > 120 && scrollY > lastScrollY) {
+      body.classList.add('reading-focused');
+    } else if (scrollY < lastScrollY) {
+      body.classList.remove('reading-focused');
+    }
+    lastScrollY = scrollY;
+  }
+  window.addEventListener('scroll', onScrollExtras, { passive: true });
+  onScrollExtras();
 
   function buildBabySteps() {
     var html = '';

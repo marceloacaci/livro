@@ -1636,3 +1636,69 @@ body {
               inset 0 -4px 6px rgba(0, 0, 0, 0.12),
               0 3px 6px rgba(20, 40, 80, 0.10);
 }
+
+/* ===== B7 — Copiar Citação ===== */
+.btn-copiar-citacao {
+  margin-top: 0.5rem;
+  padding: 0.35rem 0.9rem;
+  font: 600 0.8rem/1 var(--font-body, system-ui, sans-serif);
+  color: var(--color-text, #e8eefc);
+  background-color: #1b2742;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.18), rgba(255, 255, 255, 0.04) 46%, rgba(0, 0, 0, 0.35));
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+  cursor: pointer;
+  box-shadow: inset 0 2px 2px rgba(255, 255, 255, 0.30),
+              inset 0 -4px 6px rgba(0, 0, 0, 0.35),
+              0 4px 10px rgba(0, 0, 0, 0.25);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+}
+.btn-copiar-citacao:hover {
+  transform: translateY(-1px);
+  background-color: #243454;
+}
+.btn-copiar-citacao.copiado {
+  background-color: #1f7a4d;
+  border-color: rgba(255, 255, 255, 0.45);
+}
+:root[data-theme="light"] .btn-copiar-citacao {
+  color: #16223c;
+  background-color: #e6ecf5;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.70), rgba(255, 255, 255, 0.10) 46%, rgba(0, 0, 0, 0.06));
+  border-color: rgba(0, 0, 0, 0.12);
+  box-shadow: inset 0 2px 2px rgba(255, 255, 255, 0.80),
+              inset 0 -4px 6px rgba(0, 0, 0, 0.12),
+              0 3px 6px rgba(20, 40, 80, 0.12);
+}
+
+/* ===== B6 — Barra de progresso de leitura ===== */
+.reading-progress {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 4px;
+  z-index: 1200;
+  background: rgba(0, 0, 0, 0.12);
+  pointer-events: none;
+}
+.reading-progress__bar {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #00c2ff, #16a085);
+  box-shadow: 0 0 10px rgba(0, 194, 255, 0.6);
+  transition: width 0.1s linear;
+}
+
+/* ===== B8 — Modo Leitura Focada (esconde header/footer ao rolar p/ baixo) ===== */
+.reading-focused #navbar {
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.reading-focused .footer {
+  transform: translateY(100%);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+#navbar { transition: transform 0.3s ease, opacity 0.3s ease; }
+.footer { transition: transform 0.3s ease, opacity 0.3s ease; }
+
