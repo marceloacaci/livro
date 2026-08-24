@@ -12220,5 +12220,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Seu, não alheio."
       }
     ]
+  },
+  {
+    "id": "gladwell",
+    "slug": "outliers-a-historia-do-sucesso",
+    "title": "Outliers",
+    "titlePt": "Outliers: A História do Sucesso",
+    "author": "Malcolm Gladwell",
+    "year": "2008",
+    "editionYear": "2011",
+    "publisher": "Little, Brown / Sextante",
+    "pages": "320",
+    "genre": "Comportamento / Sucesso",
+    "language": "Inglês",
+    "copiesSold": "Mais de 3 milhões",
+    "cover": "img/gladwell-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Prática de 10 mil horas",
+        "text": "Maestria exige tempo acumulado.",
+        "reflection": "Você investe horas suficientes?"
+      },
+      {
+        "type": "myth",
+        "title": "Gênio nasce pronto",
+        "text": "Oportunidade e esforço pesam mais.",
+        "reflection": "Você culpa falta de dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Contexto decide",
+        "text": "Data de nascimento e ambiente abrem portas.",
+        "reflection": "Onde você teve sorte?"
+      },
+      {
+        "type": "myth",
+        "title": "Individual puro",
+        "text": "Rede e cultura sustentam.",
+        "reflection": "Quem ajudou você?"
+      },
+      {
+        "type": "truth",
+        "title": "Cultura herda vantagem",
+        "text": "Padrões passados explicam presente.",
+        "reflection": "Sua história favorece?"
+      },
+      {
+        "type": "myth",
+        "title": "Mérito explica tudo",
+        "text": "Acesso desigual distorce.",
+        "reflection": "Sua trajetória foi justa?"
+      }
+    ],
+    "summary": "Malcolm Gladwell desconstrói a ideia de sucesso individual, mostrando como prática, oportunidade e legado cultural formam os outliers.",
+    "color": "#2980b9",
+    "file": "livro.html#outliers-a-historia-do-sucesso",
+    "citacoes": [
+      {
+        "texto": "Prática não torna perfeito; prática torna permanente.",
+        "autor": "Malcolm Gladwell",
+        "obra": "Outliers"
+      },
+      {
+        "texto": "As pessoas que chegam sozinhas ao topo não chegam sozinhas.",
+        "autor": "Malcolm Gladwell",
+        "obra": "Outliers"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Best-seller de sociologia do sucesso.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Acumule horas",
+        "text": "10 mil de prática deliberada.",
+        "explicacoes": [
+          "Tempo vence dom.",
+          "Consistência conta.",
+          "Maestria tarda."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Busque contexto",
+        "text": "Onde há portas abertas.",
+        "explicacoes": [
+          "Ambiente ajuda.",
+          "Rede sustenta.",
+          "Tempo importa."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Use legado",
+        "text": "Cultura como alavanca.",
+        "explicacoes": [
+          "Padrão herda.",
+          "Vantagem clara.",
+          "Consciência usa."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "10 mil horas",
+        "texto": "Maestria exige."
+      },
+      {
+        "titulo": "Contexto",
+        "texto": "Abre portas."
+      },
+      {
+        "titulo": "Rede",
+        "texto": "Sustenta."
+      }
+    ]
+  },
+  {
+    "id": "coyle",
+    "slug": "o-codigo-do-talento",
+    "title": "The Talent Code",
+    "titlePt": "O Código do Talento",
+    "author": "Daniel Coyle",
+    "year": "2009",
+    "editionYear": "2010",
+    "publisher": "Bantam / Sextante",
+    "pages": "304",
+    "genre": "Hábitos / Performance",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/coyle-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mielina importa",
+        "text": "Prática erra-e-corrige isola mielina.",
+        "reflection": "Você treina com feedback?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento é dom",
+        "text": "Cabo neural se forma com esforço.",
+        "reflection": "Você confia em dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Erro é combustível",
+        "text": "Lutar no limite fortalece.",
+        "reflection": "Você evita o erro?"
+      },
+      {
+        "type": "myth",
+        "title": "Fácil aprende",
+        "text": "Conforto não muda circuito.",
+        "reflection": "Sua prática é leve?"
+      },
+      {
+        "type": "truth",
+        "title": "Gatilho de sinal",
+        "text": "Mestre mostra o caminho.",
+        "reflection": "Quem acende seu rumo?"
+      },
+      {
+        "type": "myth",
+        "title": "Quantidade resolve",
+        "text": "Qualidade do erro conta.",
+        "reflection": "Você repete ou refina?"
+      }
+    ],
+    "summary": "Daniel Coyle investiga redes de talento e conclui que a mielina, formada por prática errante e corrigida, é a base biológica da maestria.",
+    "color": "#16a085",
+    "file": "livro.html#o-codigo-do-talento",
+    "citacoes": [
+      {
+        "texto": "O talento é um cabo de mielina grosso.",
+        "autor": "Daniel Coyle",
+        "obra": "The Talent Code"
+      },
+      {
+        "texto": "Errar é o combustível da aprendizagem.",
+        "autor": "Daniel Coyle",
+        "obra": "The Talent Code"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Leitura de ciência da performance.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Pratique no limite",
+        "text": "Erro leve e correção imediata.",
+        "explicacoes": [
+          "Luta fortalece.",
+          "Conforto não muda.",
+          "Feedback acelera."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Isole o erro",
+        "text": "Foco na fraqueza específica.",
+        "explicacoes": [
+          "Detalhe conta.",
+          "Repetição direcionada.",
+          "Mielina cresce."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Use gatilho",
+        "text": "Sinal de mestre acende rumo.",
+        "explicacoes": [
+          "Visão clara.",
+          "Imitação guided.",
+          "Rumo fixa."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Mielina",
+        "texto": "Base da maestria."
+      },
+      {
+        "titulo": "Erro",
+        "texto": "Combustível."
+      },
+      {
+        "titulo": "Limite",
+        "texto": "Treino real."
+      }
+    ]
+  },
+  {
+    "id": "sinek",
+    "slug": "comece-pelo-porque",
+    "title": "Start With Why",
+    "titlePt": "Comece Pelo Porquê",
+    "author": "Simon Sinek",
+    "year": "2009",
+    "editionYear": "2011",
+    "publisher": "Portfolio / Sextante",
+    "pages": "256",
+    "genre": "Liderança / Propósito",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/sinek-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Porquê atrai",
+        "text": "Propósito inspira lealdade.",
+        "reflection": "Você sabe seu porquê?"
+      },
+      {
+        "type": "myth",
+        "title": "O quê basta vender",
+        "text": "Sem porquê, preço decide.",
+        "reflection": "Sua oferta tem sentido?"
+      },
+      {
+        "type": "truth",
+        "title": "Círculo dourado",
+        "text": "Porquê, como, o quê em ordem.",
+        "reflection": "Você começa pelo fim?"
+      },
+      {
+        "type": "myth",
+        "title": "Manipular funciona",
+        "text": "Influência por manipulação curta.",
+        "reflection": "Você manipula ou inspira?"
+      },
+      {
+        "type": "truth",
+        "title": "Confiança move",
+        "text": "Crer no porquê sustenta time.",
+        "reflection": "Seu time acredita?"
+      },
+      {
+        "type": "myth",
+        "title": "Crescer é expansão",
+        "text": "Sem porquê, crescer confunde.",
+        "reflection": "Sua escala tem rumo?"
+      }
+    ],
+    "summary": "Simon Sinek propõe o Círculo Dourado: começar pelo propósito (porquê) para inspirar pessoas e construir organizações duradouras.",
+    "color": "#d35400",
+    "file": "livro.html#comece-pelo-porque",
+    "citacoes": [
+      {
+        "texto": "As pessoas não compram o que você faz, compram o porquê você faz.",
+        "autor": "Simon Sinek",
+        "obra": "Start With Why"
+      },
+      {
+        "texto": "Liderança é a capacidade de inspirar.",
+        "autor": "Simon Sinek",
+        "obra": "Start With Why"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "TED de Sinek entre os mais vistos.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Defina o porquê",
+        "text": "Causa que move você.",
+        "explicacoes": [
+          "Propósito atrai.",
+          "Decisão clara.",
+          "Diferencia."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Aplique o círculo",
+        "text": "Porquê > como > o quê.",
+        "explicacoes": [
+          "Ordem importa.",
+          "Inspira antes.",
+          "Vende depois."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Inspire confiança",
+        "text": "Consistência do porquê.",
+        "explicacoes": [
+          "Time acredita.",
+          "Lealdade cresce.",
+          "Longo prazo."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Porquê",
+        "texto": "Inspira."
+      },
+      {
+        "titulo": "Círculo",
+        "texto": "Ordem certa."
+      },
+      {
+        "titulo": "Confiança",
+        "texto": "Sustenta."
+      }
+    ]
+  },
+  {
+    "id": "maxwell",
+    "slug": "as-21-leis-irrefutaveis-da-lideranca",
+    "title": "The 21 Irrefutable Laws of Leadership",
+    "titlePt": "As 21 Leis Irrefutáveis da Liderança",
+    "author": "John C. Maxwell",
+    "year": "1998",
+    "editionYear": "2007",
+    "publisher": "Thomas Nelson / Mundo Cristão",
+    "pages": "336",
+    "genre": "Liderança / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/maxwell-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Liderança é influência",
+        "text": "Sem título, quem segue lidera.",
+        "reflection": "Você influencia ou manda?"
+      },
+      {
+        "type": "myth",
+        "title": "Cargo dá liderança",
+        "text": "Posição sem respeito não conduz.",
+        "reflection": "Seu cargo lidera?"
+      },
+      {
+        "type": "truth",
+        "title": "Jardim de confiança",
+        "text": "Relações precedem resultados.",
+        "reflection": "Você planta relação?"
+      },
+      {
+        "type": "myth",
+        "title": "Sozinho dá conta",
+        "text": "Equipe multiplica.",
+        "reflection": "Você soma ou isola?"
+      },
+      {
+        "type": "truth",
+        "title": "Conexão antes",
+        "text": "Tocar pessoas as move.",
+        "reflection": "Você conecta antes?"
+      },
+      {
+        "type": "myth",
+        "title": "Líder nasce",
+        "text": "Aprende-se na prática.",
+        "reflection": "Você treina liderança?"
+      }
+    ],
+    "summary": "John Maxwell sintetiza princípios de liderança em 21 leis práticas, enfatizando influência, confiança e desenvolvimento de pessoas.",
+    "color": "#27ae60",
+    "file": "livro.html#as-21-leis-irrefutaveis-da-lideranca",
+    "citacoes": [
+      {
+        "texto": "Se as pessoas não o seguem, você não é líder.",
+        "autor": "John Maxwell",
+        "obra": "The 21 Irrefutable Laws of Leadership"
+      },
+      {
+        "texto": "Liderança é influência, nada mais.",
+        "autor": "John Maxwell",
+        "obra": "The 21 Irrefutable Laws of Leadership"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Autoridade em liderança para milhões.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Influencie primeiro",
+        "text": "Semeie respeito antes.",
+        "explicacoes": [
+          "Título não basta.",
+          "Confiança precede.",
+          "Seguir é dom."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Desenvolva gente",
+        "text": "Multiplique líderes.",
+        "explicacoes": [
+          "Equipe cresce.",
+          "Legado amplia.",
+          "Efeito soma."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Conecte-se",
+        "text": "Toque antes de pedir.",
+        "explicacoes": [
+          "Relação move.",
+          "Ouvir conta.",
+          "Lealdade vem."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Influência",
+        "texto": "Não cargo."
+      },
+      {
+        "titulo": "Gente",
+        "texto": "Multiplica."
+      },
+      {
+        "titulo": "Conexão",
+        "texto": "Move."
+      }
+    ]
+  },
+  {
+    "id": "drucker",
+    "slug": "o-executivo-eficaz",
+    "title": "The Effective Executive",
+    "titlePt": "O Executivo Eficaz",
+    "author": "Peter F. Drucker",
+    "year": "1966",
+    "editionYear": "2006",
+    "publisher": "HarperCollins / Pioneira",
+    "pages": "208",
+    "genre": "Gestão / Produtividade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/drucker-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Eficácia aprende",
+        "text": "Hábitos de gestão são treináveis.",
+        "reflection": "Você estuda gestão?"
+      },
+      {
+        "type": "myth",
+        "title": "Inteligência basta",
+        "text": "Conhecimento sem ação não entrega.",
+        "reflection": "Você sabe mas não faz?"
+      },
+      {
+        "type": "truth",
+        "title": "Tempo é recurso",
+        "text": "Gerir tempo antecede tudo.",
+        "reflection": "Você administra seu tempo?"
+      },
+      {
+        "type": "myth",
+        "title": "Fazer tudo importa",
+        "text": "Foco no vital poupa.",
+        "reflection": "Você faz o essencial?"
+      },
+      {
+        "type": "truth",
+        "title": "Decisões poucas",
+        "text": "Poucas e fortes vencem.",
+        "reflection": "Você decide demais?"
+      },
+      {
+        "type": "myth",
+        "title": "Reunião rende",
+        "text": "Encontro mal usado consome.",
+        "reflection": "Suas reuniões produzem?"
+      }
+    ],
+    "summary": "Peter Drucker define a eficácia executiva como conjunto de hábitos: gerir tempo, foco em contribuição, decisões certas e desenvolver forças alheias.",
+    "color": "#8e44ad",
+    "file": "livro.html#o-executivo-eficaz",
+    "citacoes": [
+      {
+        "texto": "Eficácia pode e deve ser aprendida.",
+        "autor": "Peter Drucker",
+        "obra": "The Effective Executive"
+      },
+      {
+        "texto": "O tempo é o recurso mais escasso.",
+        "autor": "Peter Drucker",
+        "obra": "The Effective Executive"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pai da administração moderna.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Gerencie tempo",
+        "text": "Blocos protegidos e auditados.",
+        "explicacoes": [
+          "Tempo esconde.",
+          "Agendar libera.",
+          "Foco acontece."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Foco em contribuição",
+        "text": "Pergunte o que entrego.",
+        "explicacoes": [
+          "Valor sobre atividade.",
+          "Direção clara.",
+          "Resultado sobe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Decida forte",
+        "text": "Poucas decisões, bem pensadas.",
+        "explicacoes": [
+          "Indecisão cansa.",
+          "Compromisso força.",
+          "Efeito dura."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Tempo",
+        "texto": "Recurso rei."
+      },
+      {
+        "titulo": "Contribuição",
+        "texto": "Foco nela."
+      },
+      {
+        "titulo": "Decisão",
+        "texto": "Poucas e fortes."
+      }
+    ]
+  },
+  {
+    "id": "cameron",
+    "slug": "o-caminho-do-artista",
+    "title": "The Artist's Way",
+    "titlePt": "O Caminho do Artista",
+    "author": "Julia Cameron",
+    "year": "1992",
+    "editionYear": "2002",
+    "publisher": "Tarcher / Sextante",
+    "pages": "336",
+    "genre": "Criatividade / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 4 milhões",
+    "cover": "img/cameron-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Criatividade é hábito",
+        "text": "Pequenas práticas diárias abrem.",
+        "reflection": "Você cultiva criar?"
+      },
+      {
+        "type": "myth",
+        "title": "Inspiração cai",
+        "text": "Ritual convida, não espera.",
+        "reflection": "Você aguarda musa?"
+      },
+      {
+        "type": "truth",
+        "title": "Páginas matinais",
+        "text": "Escrita livre limpa mente.",
+        "reflection": "Você desabaça no papel?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento raro",
+        "text": "Expressão é direito de todos.",
+        "reflection": "Você se acha sem dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Bloqueio é medo",
+        "text": "Ação pequena dissolve.",
+        "reflection": "O medo trava você?"
+      },
+      {
+        "type": "myth",
+        "title": "Sério é rígido",
+        "text": "Brincar libera criação.",
+        "reflection": "Você se permite jogar?"
+      }
+    ],
+    "summary": "Julia Cameron propõe um curso de 12 semanas para reencontrar a criatividade através de dois hábitos centrais: as páginas matinais e as saídas artísticas.",
+    "color": "#c0392b",
+    "file": "livro.html#o-caminho-do-artista",
+    "citacoes": [
+      {
+        "texto": "A criatividade é um relacionamento, não um bem.",
+        "autor": "Julia Cameron",
+        "obra": "The Artist's Way"
+      },
+      {
+        "texto": "Faça as páginas matinais.",
+        "autor": "Julia Cameron",
+        "obra": "The Artist's Way"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Manual geracional de criatividade.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Páginas matinais",
+        "text": "3 páginas livres ao acordar.",
+        "explicacoes": [
+          "Mente limpa.",
+          "Ruído sai.",
+          "Clareza sobra."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Saída artística",
+        "text": "Tempo livre só por prazer.",
+        "explicacoes": [
+          "Brincar nutre.",
+          "Criança volta.",
+          "Ideia floresce."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Ritual diário",
+        "text": "Pequeno e constante.",
+        "explicacoes": [
+          "Hábito vence.",
+          "Bloqueio cede.",
+          "Criação flui."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Páginas",
+        "texto": "Limpam mente."
+      },
+      {
+        "titulo": "Brincar",
+        "texto": "Libera."
+      },
+      {
+        "titulo": "Ritual",
+        "texto": "Cria."
+      }
+    ]
+  },
+  {
+    "id": "pressfield",
+    "slug": "a-guerra-da-arte",
+    "title": "The War of Art",
+    "titlePt": "A Guerra da Arte",
+    "author": "Steven Pressfield",
+    "year": "2002",
+    "editionYear": "2012",
+    "publisher": "Warner Books / Sextante",
+    "pages": "240",
+    "genre": "Criatividade / Resistência",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/pressfield-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Resistência é inimigo",
+        "text": "Força interna sabota o fazer.",
+        "reflection": "O que você evita criar?"
+      },
+      {
+        "type": "myth",
+        "title": "Condição certa ajuda",
+        "text": "Esperar cenário ideal paralisa.",
+        "reflection": "Você espera momento?"
+      },
+      {
+        "type": "truth",
+        "title": "Sente e faça",
+        "text": "Profissional age apesar do medo.",
+        "reflection": "Você age ou sente?"
+      },
+      {
+        "type": "myth",
+        "title": "Inspiração precede",
+        "text": "Fazer convida inspiração.",
+        "reflection": "Você aguarda sopro?"
+      },
+      {
+        "type": "truth",
+        "title": "Trabalho sagrado",
+        "text": "Levar a sério muda postura.",
+        "reflection": "Você trata como missão?"
+      },
+      {
+        "type": "myth",
+        "title": "Deixe para depois",
+        "text": "Adiar é resistência vencendo.",
+        "reflection": "Você adia o essencial?"
+      }
+    ],
+    "summary": "Steven Pressfield nomeia a Resistência como força que impede a obra e ensina o postura do profissional: sentar e produzir, independentemente do estado de espírito.",
+    "color": "#d35400",
+    "file": "livro.html#a-guerra-da-arte",
+    "citacoes": [
+      {
+        "texto": "A Resistência é o inimigo de todo que é bom.",
+        "autor": "Steven Pressfield",
+        "obra": "The War of Art"
+      },
+      {
+        "texto": "Profissionais sentam e fazem o trabalho.",
+        "autor": "Steven Pressfield",
+        "obra": "The War of Art"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Cult entre escritores e criativos.",
+        "autor": "Resenha",
+        "fonte": "Mídia"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Nomeie a Resistência",
+        "text": "Reconheça a força sabota.",
+        "explicacoes": [
+          "Ver é meio.",
+          "Nomear enfraquece.",
+          "Ação segue."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Seja profissional",
+        "text": "Faça como dever, não humor.",
+        "explicacoes": [
+          "Rotina vence.",
+          "Emoção não manda.",
+          "Resultado vem."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Comece hoje",
+        "text": "Pequeno passo agora.",
+        "explicacoes": [
+          "Adiar perde.",
+          "Fazer dissolve.",
+          "Rumo trava."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Resistência",
+        "texto": "Inimigo nomeado."
+      },
+      {
+        "titulo": "Profissional",
+        "texto": "Faz, não sente."
+      },
+      {
+        "titulo": "Agora",
+        "texto": "Pequeno passo."
+      }
+    ]
+  },
+  {
+    "id": "seligman",
+    "slug": "aprendendo-a-ser-otimista",
+    "title": "Learned Optimism",
+    "titlePt": "Aprendendo a Ser Otimista",
+    "author": "Martin E.P. Seligman",
+    "year": "1991",
+    "editionYear": "2011",
+    "publisher": "Knopf / Objetiva",
+    "pages": "336",
+    "genre": "Psicologia Positiva / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/seligman-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Otimismo se aprende",
+        "text": "Reenquadrar explicações muda.",
+        "reflection": "Sua voz interna ajuda?"
+      },
+      {
+        "type": "myth",
+        "title": "Pessimismo é fixo",
+        "text": "Estilo explicativo é treinável.",
+        "reflection": "Você se acha sem jeito?"
+      },
+      {
+        "type": "truth",
+        "title": "Permanente vs transitório",
+        "text": "Crer que erro passa protege.",
+        "reflection": "Você faz do erro traço?"
+      },
+      {
+        "type": "myth",
+        "title": "Pensar positivo basta",
+        "text": "Técnica de reestrutura evidência.",
+        "reflection": "Você nega ou reenquadra?"
+      },
+      {
+        "type": "truth",
+        "title": "ABC da cognição",
+        "text": "Adversidade gera crença e consequência.",
+        "reflection": "O que vem após o erro?"
+      },
+      {
+        "type": "myth",
+        "title": "Realismo é baixo",
+        "text": "Otimismo realista previne.",
+        "reflection": "Você confunde realismo com desista?"
+      }
+    ],
+    "summary": "Martin Seligman mostra que otimismo é aprendido por meio do estilo explicativo: reenquadrar adversidades como temporárias e específicas melhora saúde e sucesso.",
+    "color": "#2980b9",
+    "file": "livro.html#aprendendo-a-ser-otimista",
+    "citacoes": [
+      {
+        "texto": "Aprendemos a ser otimistas.",
+        "autor": "Martin Seligman",
+        "obra": "Learned Optimism"
+      },
+      {
+        "texto": "Como explicamos o mal prediz nosso futuro.",
+        "autor": "Martin Seligman",
+        "obra": "Learned Optimism"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Fundador da psicologia positiva.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Note o estilo",
+        "text": "Como explica o revés.",
+        "explicacoes": [
+          "Permanente vicia.",
+          "Específico libera.",
+          "Consciência muda."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Reenquadre",
+        "text": "Temporário e local, não traço.",
+        "explicacoes": [
+          "Erro passa.",
+          "Culpa pontual.",
+          "Ação segue."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Dispute a crença",
+        "text": "Busque evidência contrária.",
+        "explicacoes": [
+          "Realismo ajuda.",
+          "Catastrofe cede.",
+          "Otimismo real."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Estilo",
+        "texto": "Explica tudo."
+      },
+      {
+        "titulo": "Reenquadre",
+        "texto": "Temporário."
+      },
+      {
+        "titulo": "Dispute",
+        "texto": "Evidência."
+      }
+    ]
   }
 ];
