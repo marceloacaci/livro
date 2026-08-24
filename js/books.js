@@ -39831,12 +39831,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Mudar é só 'querer muito'",
-        "text": "Norcross mostra que vontade isolada raramente sustenta; o processo estruturado importa mais.",
-        "reflection": "Você culpa falta de vontade quando faltou método?"
-      },
-      {
         "type": "truth",
         "title": "A mudança tem fases previsíveis",
         "text": "Preparar, resolver, subir, manter e terminar são estágios mensuráveis, não caos.",
@@ -39844,9 +39838,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Recaída é fracasso moral",
-        "text": "Recair faz parte da curva estatística; quem volta ao método vence.",
-        "reflection": "Você trata a recaída como fim ou como dado esperado?"
+        "title": "Mudar é só 'querer muito'",
+        "text": "Norcross mostra que vontade isolada raramente sustenta; o processo estruturado importa mais.",
+        "reflection": "Você culpa falta de vontade quando faltou método?"
       },
       {
         "type": "truth",
@@ -39856,9 +39850,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tentar sozinho é mais digno",
-        "text": "Dados mostram que suporte eleva o sucesso; orgulho isolado prejudica.",
-        "reflection": "Você recusa ajuda por orgulho disfarçado de força?"
+        "title": "Recaída é fracasso moral",
+        "text": "Recair faz parte da curva estatística; quem volta ao método vence.",
+        "reflection": "Você trata a recaída como fim ou como dado esperado?"
       },
       {
         "type": "truth",
@@ -39868,9 +39862,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Remover o hábito basta",
-        "text": "Substituir por comportamento novo é mais eficaz que apenas extirpar.",
-        "reflection": "Você tenta apagar um vício sem colocar algo no lugar?"
+        "title": "Tentar sozinho é mais digno",
+        "text": "Dados mostram que suporte eleva o sucesso; orgulho isolado prejudica.",
+        "reflection": "Você recusa ajuda por orgulho disfarçado de força?"
       },
       {
         "type": "truth",
@@ -39880,9 +39874,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Plano detalhado é exagero",
-        "text": "Quem escreve o plano triplica a aderência segundo os estudos citados.",
-        "reflection": "Você confia na cabeça em vez de registrar o plano?"
+        "title": "Remover o hábito basta",
+        "text": "Substituir por comportamento novo é mais eficaz que apenas extirpar.",
+        "reflection": "Você tenta apagar um vício sem colocar algo no lugar?"
       },
       {
         "type": "truth",
@@ -39892,9 +39886,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudança grande exige mudança total",
-        "text": "Pequenos ajustes consistentes superam revoluções que não colam.",
-        "reflection": "Você tenta mudar tudo de uma vez e quebra?"
+        "title": "Plano detalhado é exagero",
+        "text": "Quem escreve o plano triplica a aderência segundo os estudos citados.",
+        "reflection": "Você confia na cabeça em vez de registrar o plano?"
       },
       {
         "type": "truth",
@@ -39904,9 +39898,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Mudança grande exige mudança total",
+        "text": "Pequenos ajustes consistentes superam revoluções que não colam.",
+        "reflection": "Você tenta mudar tudo de uma vez e quebra?"
+      },
+      {
+        "type": "truth",
+        "title": "Mudança sustentada segue cinco passos científicos",
+        "text": "Norcross demonstra que preparar, suportar a ruptura e evitar recaída valem mais que força de vontade.",
+        "reflection": "Você tenta mudar por impulso ou por um plano de fases?"
+      },
+      {
+        "type": "myth",
         "title": "Quem falhou antes é incompetente",
         "text": "Tentativas anteriores são treino; recomeçar com método é a norma.",
         "reflection": "Você usa fracassos passados para se desqualificar?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Changeology: 5 Passos para Mudar Qualquer Comportamento resiste ao senso comum",
+        "text": "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross sustenta que john norcross é psicólogo especializado em como as pessoas realmente mudam comportamentos — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "John Norcross é psicólogo especializado em como as pessoas realmente mudam comportamentos. Em 'Changeology', ele sintetiza décadas de pesquisa em um roteiro de cinco etapas — Preparar-se, Resolver-se, Subir, Manter e Terminar — que leva cerca de 90 dias para se consolidar. A tese é que mudança duradoura não depende de força de vontade mágica, mas de um processo científico previsível: quem conhece as fases erra menos. Ele combate a ideia de que basta 'querer parar' e mostra o papel de gatilhos, rede de apoio e recaídas como dado estatístico, não fracasso moral. O gancho prático é reconfortante: a maioria que tenta sozinha falha, mas seguir o método eleva muito as chances. O livro entrega planilhas e táticas para cada etapa, transformando intenção vaga em engenharia do comportamento. O autor aporta tabelas e planilhas que transformam intenção vaga em roteiro mensurável de noventa dias. Sua abordagem é reconfortante para quem já falhou antes: a recaída não é fracasso, é parte estatística previsível do processo de mudança.",
@@ -39927,33 +39939,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Quem tenta sozinho falha mais; apoio não é fraqueza, é estratégia.",
         "autor": "John C. Norcross",
         "obra": "Changeology"
-      },
-      {
-        "texto": "Noventa dias de prática consistente costumam consolidar o novo comportamento.",
-        "autor": "John C. Norcross",
-        "obra": "Changeology"
-      },
-      {
-        "texto": "Substituir um hábito funciona melhor do que apenas tentar eliminá-lo.",
-        "autor": "John C. Norcross",
-        "obra": "Changeology"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O roteiro de 90 dias me deu o que anos de 'vontade' não deram.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Científico e prático; usei as planilhas com meus pacientes de tabagismo.",
-        "autor": "Terapeuta",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Gostei de tratar recaída como dado, não culpa.",
         "autor": "Leitor",
-        "fonte": "Amazon"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -39969,9 +39966,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Prepare antes de agir",
         "text": "A fase de preparação define sucesso; listar motivos e obstáculos antecipa o caminho.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Prepare antes de agir\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: A fase de preparação define sucesso; listar motivos e obstáculos antecipa o caminho — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Prepare antes de agir\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Prepare antes de agir\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A fase de preparação define sucesso; listar motivos e obstáculos antecipa o caminho — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Prepare antes de agir\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39979,9 +39976,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Formalize a resolução",
         "text": "Comprometer-se por escrito e publicamente eleva a aderência.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Formalize a resolução\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Comprometer-se por escrito e publicamente eleva a aderência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Formalize a resolução\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Formalize a resolução\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comprometer-se por escrito e publicamente eleva a aderência — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Formalize a resolução\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39989,9 +39986,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Suba com substituição",
         "text": "Trocar o comportamento antigo por um novo ocupa o espaço deixado.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Suba com substituição\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Trocar o comportamento antigo por um novo ocupa o espaço deixado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Suba com substituição\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Suba com substituição\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trocar o comportamento antigo por um novo ocupa o espaço deixado — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Suba com substituição\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39999,9 +39996,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mapeie gatilhos",
         "text": "Identificar pessoas, lugares e emoções de risco permite planejar defesas.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Mapeie gatilhos\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Identificar pessoas, lugares e emoções de risco permite planejar defesas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mapeie gatilhos\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Mapeie gatilhos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identificar pessoas, lugares e emoções de risco permite planejar defesas — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Mapeie gatilhos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40009,9 +40006,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa rede de apoio",
         "text": "Envolver aliados aumenta drasticamente as chances de manter a mudança.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Construa rede de apoio\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Envolver aliados aumenta drasticamente as chances de manter a mudança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa rede de apoio\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Construa rede de apoio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Envolver aliados aumenta drasticamente as chances de manter a mudança — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Construa rede de apoio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40019,9 +40016,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Antecipe a recaída",
         "text": "Ter um plano de volta ao método tira o peso moral do tropeço.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Antecipe a recaída\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Ter um plano de volta ao método tira o peso moral do tropeço — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Antecipe a recaída\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Antecipe a recaída\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ter um plano de volta ao método tira o peso moral do tropeço — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Antecipe a recaída\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40029,9 +40026,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comemore marcos",
         "text": "Recompensas em 30, 60 e 90 dias mantêm o motor emocional ligado.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Comemore marcos\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Recompensas em 30, 60 e 90 dias mantêm o motor emocional ligado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comemore marcos\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Comemore marcos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Recompensas em 30, 60 e 90 dias mantêm o motor emocional ligado — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Comemore marcos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40039,9 +40036,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escreva o plano",
         "text": "Registro detalhado triplica a adesão comparado a intenção mental.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Escreva o plano\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Registro detalhado triplica a adesão comparado a intenção mental — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escreva o plano\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Escreva o plano\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Registro detalhado triplica a adesão comparado a intenção mental — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Escreva o plano\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40049,9 +40046,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque em 90 dias",
         "text": "Adotar o horizonte realista reduz cobranças prematuras e abandono.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Foque em 90 dias\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Adotar o horizonte realista reduz cobranças prematuras e abandono — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque em 90 dias\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Foque em 90 dias\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Adotar o horizonte realista reduz cobranças prematuras e abandono — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Foque em 90 dias\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40059,9 +40056,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reconheça a fase atual",
         "text": "Saber se está preparando ou mantendo evita aplicar a tática errada.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Reconheça a fase atual\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Saber se está preparando ou mantendo evita aplicar a tática errada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reconheça a fase atual\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Reconheça a fase atual\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saber se está preparando ou mantendo evita aplicar a tática errada — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Reconheça a fase atual\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40069,9 +40066,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use falhas como dados",
         "text": "Cada recuo revela o gatilho; ajustar o plano é parte do processo.",
         "explicacoes": [
-          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Use falhas como dados\" como peça-chave para a ciência de mudar hábitos de forma realista.",
-          "Na prática: Cada recuo revela o gatilho; ajustar o plano é parte do processo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use falhas como dados\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Use falhas como dados\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada recuo revela o gatilho; ajustar o plano é parte do processo — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Use falhas como dados\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Recaída é parte, não fim",
+        "text": "Norcross normaliza a volta e ensina a retomar o plano sem culpa paralisante.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross coloca \"Recaída é parte, não fim\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Norcross normaliza a volta e ensina a retomar o plano sem culpa paralisante — traduzido para a prática, é o passo concreto que liga a teoria de John C. Norcross ao comportamento diário.",
+          "Ignorar \"Recaída é parte, não fim\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -40105,6 +40112,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Norcross abre revisando a ciência de como comportamentos se alteram.",
             "f": "Na visão de John C. Norcross, \"o que a pesquisa mostra\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
             "real": false
+          },
+          {
+            "t": "Por que mudamos",
+            "e": "Norcross abre revisando a ciência de como comportamentos se alteram.",
+            "f": "Na visão de John C. Norcross, por que mudamos é o ponto central deste capítulo de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
           }
         ]
       },
@@ -40122,6 +40135,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Lista de benefícios",
             "e": "A fase inicial de clarificar motivos e obstáculos.",
             "f": "Na visão de John C. Norcross, \"lista de benefícios\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Preparar-se",
+            "e": "A fase inicial de clarificar motivos e obstáculos.",
+            "f": "Na visão de John C. Norcross, preparar-se é o ponto central deste capítulo de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
             "real": false
           }
         ]
@@ -40141,6 +40160,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como comprometer-se de forma formal e pública.",
             "f": "Na visão de John C. Norcross, \"compromisso social\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
             "real": false
+          },
+          {
+            "t": "Resolver-se",
+            "e": "Como comprometer-se de forma formal e pública.",
+            "f": "Na visão de John C. Norcross, resolver-se é o ponto central deste capítulo de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
           }
         ]
       },
@@ -40159,6 +40184,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Executar a ação trocando comportamentos.",
             "f": "Noventa dias de prática consistente costumam consolidar o novo comportamento.",
             "real": true
+          },
+          {
+            "t": "Subir",
+            "e": "Executar a ação trocando comportamentos.",
+            "f": "Na visão de John C. Norcross, subir é o ponto central deste capítulo de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
           }
         ]
       },
@@ -40176,6 +40207,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Planos de contingência",
             "e": "Mapear situações de risco e planejar respostas.",
             "f": "Na visão de John C. Norcross, \"planos de contingência\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Gatilhos e defesas",
+            "e": "Mapear situações de risco e planejar respostas.",
+            "f": "Na visão de John C. Norcross, gatilhos e defesas é o ponto central deste capítulo de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
             "real": false
           }
         ]
@@ -40195,6 +40232,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Estratégias para os 60 a 90 dias de consolidação.",
             "f": "Quem tenta sozinho falha mais; apoio não é fraqueza, é estratégia.",
             "real": true
+          },
+          {
+            "t": "Manter",
+            "e": "Estratégias para os 60 a 90 dias de consolidação.",
+            "f": "Na visão de John C. Norcross, manter é o ponto central deste capítulo de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
           }
         ]
       },
@@ -40213,6 +40256,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A recaída como dado estatístico e como voltar.",
             "f": "Quase todo mundo recai; o que separa os bem-sucedidos é voltar ao plano.",
             "real": true
+          },
+          {
+            "t": "Recaída",
+            "e": "A recaída como dado estatístico e como voltar.",
+            "f": "Na visão de John C. Norcross, recaída é o ponto central deste capítulo de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
           }
         ]
       },
@@ -40231,6 +40280,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Quando a mudança vira identidade estável.",
             "f": "Na visão de John C. Norcross, \"prevenção de longo prazo\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
             "real": false
+          },
+          {
+            "t": "Terminar",
+            "e": "Quando a mudança vira identidade estável.",
+            "f": "Na visão de John C. Norcross, terminar é o ponto central deste capítulo de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
           }
         ]
       },
@@ -40248,6 +40303,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Ajustes por área",
             "e": "Exemplos em peso, álcool, estudo e relações.",
             "f": "Na visão de John C. Norcross, \"ajustes por área\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Aplicações",
+            "e": "Exemplos em peso, álcool, estudo e relações.",
+            "f": "Na visão de John C. Norcross, aplicações é o ponto central deste capítulo de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
             "real": false
           }
         ]
@@ -40271,12 +40332,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Força de vontade é ilimitada",
-        "text": "McGonigal mostra que ela fadiga; usar demais numa área esvazia outra.",
-        "reflection": "Você esgotou a disciplina em algo e cobrou igual nos outros?"
-      },
-      {
         "type": "truth",
         "title": "Há três forças: vou, não e quero",
         "text": "Agir, resistir e lembrar o propósito são músculos diferentes que se treinam.",
@@ -40284,9 +40339,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Suprimir o desejo o faz sumir",
-        "text": "Tentar ignorar o impulso frequentemente o torna mais insistente.",
-        "reflection": "Você reprime desejos e eles voltam com força?"
+        "title": "Força de vontade é ilimitada",
+        "text": "McGonigal mostra que ela fadiga; usar demais numa área esvazia outra.",
+        "reflection": "Você esgotou a disciplina em algo e cobrou igual nos outros?"
       },
       {
         "type": "truth",
@@ -40296,9 +40351,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tentar mais forte sempre funciona",
-        "text": "Esforço bruto de 'não' falha quando o sistema está exausto.",
-        "reflection": "Você empurra o não em vez de recarregar?"
+        "title": "Suprimir o desejo o faz sumir",
+        "text": "Tentar ignorar o impulso frequentemente o torna mais insistente.",
+        "reflection": "Você reprime desejos e eles voltam com força?"
       },
       {
         "type": "truth",
@@ -40308,9 +40363,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sono e vontade não se relacionam",
-        "text": "Privação de sono corrói o controle; descanso é treino indireto.",
-        "reflection": "Você sacrifica sono e culpa a 'falta de disciplina'?"
+        "title": "Tentar mais forte sempre funciona",
+        "text": "Esforço bruto de 'não' falha quando o sistema está exausto.",
+        "reflection": "Você empurra o não em vez de recarregar?"
       },
       {
         "type": "truth",
@@ -40320,9 +40375,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Vontade é assunto só de caráter",
-        "text": "É fisiologia e contexto tanto quanto moral; ambiente importa.",
-        "reflection": "Você ignora o contexto que enfraquece sua decisão?"
+        "title": "Sono e vontade não se relacionam",
+        "text": "Privação de sono corrói o controle; descanso é treino indireto.",
+        "reflection": "Você sacrifica sono e culpa a 'falta de disciplina'?"
       },
       {
         "type": "truth",
@@ -40332,9 +40387,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Autoexigência severa motiva",
-        "text": "Culpa e autocrítica aumentam o estresse e pioram a disciplina.",
-        "reflection": "Você se castiga e acaba cedendo mais?"
+        "title": "Vontade é assunto só de caráter",
+        "text": "É fisiologia e contexto tanto quanto moral; ambiente importa.",
+        "reflection": "Você ignora o contexto que enfraquece sua decisão?"
       },
       {
         "type": "truth",
@@ -40344,9 +40399,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Autoexigência severa motiva",
+        "text": "Culpa e autocrítica aumentam o estresse e pioram a disciplina.",
+        "reflection": "Você se castiga e acaba cedendo mais?"
+      },
+      {
+        "type": "truth",
+        "title": "Força de vontade é energia que se treina e poupa",
+        "text": "McGonigal ensina a tratá-la como músculo: nutrição, sono e reenquadramento a esticam.",
+        "reflection": "Você cobra disciplina de si sem cuidar da base física?"
+      },
+      {
+        "type": "myth",
         "title": "Foco no 'não' basta",
         "text": "Sem o 'eu quero' (propósito), resistir vira sofrimento sem direção.",
         "reflection": "Sua disciplina tem um 'para quê' ou só privação?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Instinto da Força de Vontade resiste ao senso comum",
+        "text": "Em \"O Instinto da Força de Vontade\", Kelly McGonigal sustenta que kelly mcgonigal, psicóloga de stanford, escreve 'o instinto da força de vontade' para desfazer a imagem da força de vontade como um recurso mágico — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Kelly McGonigal, psicóloga de Stanford, escreve 'O Instinto da Força de Vontade' para desfazer a imagem da força de vontade como um recurso mágico. Apoiada em pesquisas de neurociência e psicologia, ela explica que a autodisciplina envolve três forças: o 'eu vou' (agir), o 'eu não' (resistir) e o 'eu quero' (lembrar o propósito). O gancho central é que a força de vontade funciona como um músculo — fadiga com uso excessivo, mas se fortalece com treino. McGonigal revela paradoxos desconfortáveis: tentar suprimir desejos os torna mais fortes, e o estresse sabota a disciplina. Ela ensina técnicas como a regra de dez minutos, respiração que acalma o sistema, e aceitar impulsos em vez de combatê-los. O livro é um manual científico de como alinhar impulsos de curto prazo com valores de longo prazo, útil para quem luta com procrastinação, comida ou distrações. Cada capítulo termina com uma prática baseada em evidência, como a regra dos dez minutos e exercícios de respiração. McGonigal desafia a autoajuda moralista e trata a força de vontade como fisiologia que pode ser treinada e poupada.",
@@ -40367,33 +40440,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O estresse é o inimigo da força de vontade; ele pede alívio imediato, não o objetivo.",
         "autor": "Kelly McGonigal",
         "obra": "The Willpower Instinct"
-      },
-      {
-        "texto": "Você não precisa vencer o impulso, apenas notá-lo e esperar dez minutos.",
-        "autor": "Kelly McGonigal",
-        "obra": "The Willpower Instinct"
-      },
-      {
-        "texto": "Quem é mais gentil consigo mesmo depois de errar resiste melhor da próxima vez.",
-        "autor": "Kelly McGonigal",
-        "obra": "The Willpower Instinct"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "A parte da regra de dez minutos mudou minha relação com doces.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Base científica sólida; leitura obrigatória para quem estuda hábitos.",
-        "autor": "Estudante de psicologia",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Gostei de ver força de vontade como fisiologia, não moral.",
         "autor": "Leitor",
-        "fonte": "Amazon"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -40409,9 +40467,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Identifique as três forças",
         "text": "Reconhecer 'eu vou', 'eu não' e 'eu quero' ajuda a treinar cada uma conscientemente.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Identifique as três forças\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Reconhecer 'eu vou', 'eu não' e 'eu quero' ajuda a treinar cada uma conscientemente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Identifique as três forças\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Identifique as três forças\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer 'eu vou', 'eu não' e 'eu quero' ajuda a treinar cada uma conscientemente — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Identifique as três forças\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40419,9 +40477,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a regra de dez minutos",
         "text": "Adiar a tentação por dez minutos dá tempo ao cérebro planejador assumir.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Use a regra de dez minutos\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Adiar a tentação por dez minutos dá tempo ao cérebro planejador assumir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a regra de dez minutos\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Use a regra de dez minutos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Adiar a tentação por dez minutos dá tempo ao cérebro planejador assumir — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Use a regra de dez minutos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40429,9 +40487,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Respire para acalmar",
         "text": "Respirações lentas ativam o freio parassimpático e recuperam o controle.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Respire para acalmar\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Respirações lentas ativam o freio parassimpático e recuperam o controle — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Respire para acalmar\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Respire para acalmar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Respirações lentas ativam o freio parassimpático e recuperam o controle — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Respire para acalmar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40439,9 +40497,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite, não suprima",
         "text": "Notar o impulso sem agir o desarma mais do que tentar apagá-lo.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Aceite, não suprima\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Notar o impulso sem agir o desarma mais do que tentar apagá-lo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite, não suprima\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Aceite, não suprima\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Notar o impulso sem agir o desarma mais do que tentar apagá-lo — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Aceite, não suprima\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40449,9 +40507,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Durma para disciplinar",
         "text": "Sono adequado é pré-requisito fisiológico da força de vontade.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Durma para disciplinar\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Sono adequado é pré-requisito fisiológico da força de vontade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Durma para disciplinar\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Durma para disciplinar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sono adequado é pré-requisito fisiológico da força de vontade — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Durma para disciplinar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40459,9 +40517,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conecte-se ao propósito",
         "text": "O 'eu quero' sustenta o 'eu não'; lembrar o porquê renova a energia.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Conecte-se ao propósito\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: O 'eu quero' sustenta o 'eu não'; lembrar o porquê renova a energia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conecte-se ao propósito\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Conecte-se ao propósito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O 'eu quero' sustenta o 'eu não'; lembrar o porquê renova a energia — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Conecte-se ao propósito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40469,9 +40527,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite a fadiga de decisão",
         "text": "Reduza escolhas irrelevantes para preservar disciplina às importantes.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Evite a fadiga de decisão\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Reduza escolhas irrelevantes para preservar disciplina às importantes — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite a fadiga de decisão\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Evite a fadiga de decisão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduza escolhas irrelevantes para preservar disciplina às importantes — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Evite a fadiga de decisão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40479,9 +40537,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique autocompaixão",
         "text": "Tratar-se bem após o tropeço reduz estresse e previne cascata de cedência.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Pratique autocompaixão\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Tratar-se bem após o tropeço reduz estresse e previne cascata de cedência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique autocompaixão\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Pratique autocompaixão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tratar-se bem após o tropeço reduz estresse e previne cascata de cedência — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Pratique autocompaixão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40489,9 +40547,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mapeie gatilhos de estresse",
         "text": "Saber quando o estresse dispara ajuda a preparar pausas preventivas.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Mapeie gatilhos de estresse\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Saber quando o estresse dispara ajuda a preparar pausas preventivas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mapeie gatilhos de estresse\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Mapeie gatilhos de estresse\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saber quando o estresse dispara ajuda a preparar pausas preventivas — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Mapeie gatilhos de estresse\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40499,9 +40557,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine como músculo",
         "text": "Pequenos exercícios diários de autocontrole fortalecem a capacidade geral.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Treine como músculo\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Pequenos exercícios diários de autocontrole fortalecem a capacidade geral — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine como músculo\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Treine como músculo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenos exercícios diários de autocontrole fortalecem a capacidade geral — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Treine como músculo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40509,9 +40567,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Apoie os outros",
         "text": "Ajudar terceiros na disciplina reforça a própria rede de controle.",
         "explicacoes": [
-          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Apoie os outros\" como peça-chave para a força de vontade como habilidade que se treina.",
-          "Na prática: Ajudar terceiros na disciplina reforça a própria rede de controle — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Apoie os outros\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"Apoie os outros\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ajudar terceiros na disciplina reforça a própria rede de controle — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"Apoie os outros\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "O corpo sustenta a vontade",
+        "text": "McGonigal lembra que sono, comida e respiração são a base da disciplina.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal coloca \"O corpo sustenta a vontade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "McGonigal lembra que sono, comida e respiração são a base da disciplina — traduzido para a prática, é o passo concreto que liga a teoria de Kelly McGonigal ao comportamento diário.",
+          "Ignorar \"O corpo sustenta a vontade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -40545,6 +40613,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "McGonigal define as três forças e o modelo de músculo.",
             "f": "O estresse é o inimigo da força de vontade; ele pede alívio imediato, não o objetivo.",
             "real": true
+          },
+          {
+            "t": "O instinto da vontade",
+            "e": "McGonigal define as três forças e o modelo de músculo.",
+            "f": "Na visão de Kelly McGonigal, o instinto da vontade é o ponto central deste capítulo de \"O Instinto da Força de Vontade\".",
+            "real": false
           }
         ]
       },
@@ -40562,6 +40636,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Aceitação",
             "e": "Por que suprimir desejos os fortalece e o que fazer.",
             "f": "Na visão de Kelly McGonigal, \"aceitação\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "A armadilha do 'não'",
+            "e": "Por que suprimir desejos os fortalece e o que fazer.",
+            "f": "Na visão de Kelly McGonigal, a armadilha do 'não' é o ponto central deste capítulo de \"O Instinto da Força de Vontade\".",
             "real": false
           }
         ]
@@ -40581,6 +40661,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como esgotamento e pressão corroem o controle.",
             "f": "O estresse é o inimigo da força de vontade; ele pede alívio imediato, não o objetivo.",
             "real": true
+          },
+          {
+            "t": "Fadiga e estresse",
+            "e": "Como esgotamento e pressão corroem o controle.",
+            "f": "Na visão de Kelly McGonigal, fadiga e estresse é o ponto central deste capítulo de \"O Instinto da Força de Vontade\".",
+            "real": false
           }
         ]
       },
@@ -40598,6 +40684,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Ativar planejamento",
             "e": "Técnica prática para ganhar distância do impulso.",
             "f": "Na visão de Kelly McGonigal, \"ativar planejamento\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "A regra de dez minutos",
+            "e": "Técnica prática para ganhar distância do impulso.",
+            "f": "Na visão de Kelly McGonigal, a regra de dez minutos é o ponto central deste capítulo de \"O Instinto da Força de Vontade\".",
             "real": false
           }
         ]
@@ -40617,6 +40709,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Uso do sistema parassimpático para recuperar controle.",
             "f": "Na visão de Kelly McGonigal, \"sinal de calma\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
             "real": false
+          },
+          {
+            "t": "Respiração e corpo",
+            "e": "Uso do sistema parassimpático para recuperar controle.",
+            "f": "Na visão de Kelly McGonigal, respiração e corpo é o ponto central deste capítulo de \"O Instinto da Força de Vontade\".",
+            "real": false
           }
         ]
       },
@@ -40635,6 +40733,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O papel do descanso na disciplina.",
             "f": "O estresse é o inimigo da força de vontade; ele pede alívio imediato, não o objetivo.",
             "real": true
+          },
+          {
+            "t": "Sono e vontade",
+            "e": "O papel do descanso na disciplina.",
+            "f": "Na visão de Kelly McGonigal, sono e vontade é o ponto central deste capítulo de \"O Instinto da Força de Vontade\".",
+            "real": false
           }
         ]
       },
@@ -40652,6 +40756,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Apoio interno",
             "e": "Por que ser gentil consigo previne recaídas.",
             "f": "Na visão de Kelly McGonigal, \"apoio interno\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Autocompaixão",
+            "e": "Por que ser gentil consigo previne recaídas.",
+            "f": "Na visão de Kelly McGonigal, autocompaixão é o ponto central deste capítulo de \"O Instinto da Força de Vontade\".",
             "real": false
           }
         ]
@@ -40671,6 +40781,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como apoiar e ser apoiado fortalece a disciplina.",
             "f": "Na visão de Kelly McGonigal, \"apoio mútuo\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
             "real": false
+          },
+          {
+            "t": "Rede social",
+            "e": "Como apoiar e ser apoiado fortalece a disciplina.",
+            "f": "Na visão de Kelly McGonigal, rede social é o ponto central deste capítulo de \"O Instinto da Força de Vontade\".",
+            "real": false
           }
         ]
       },
@@ -40688,6 +40804,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Alinhamento",
             "e": "Conectar valores de longo prazo à ação diária.",
             "f": "Na visão de Kelly McGonigal, \"alinhamento\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "O eu quero",
+            "e": "Conectar valores de longo prazo à ação diária.",
+            "f": "Na visão de Kelly McGonigal, o eu quero é o ponto central deste capítulo de \"O Instinto da Força de Vontade\".",
             "real": false
           }
         ]
@@ -40711,12 +40833,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Realizar o sonho é fácil para os predestinados",
-        "text": "Coelho mostra que o medo e a acomodação bloqueiam a maioria, não falta de sorte.",
-        "reflection": "Que medo tem impedido você de seguir sua Lenda Pessoal?"
-      },
-      {
         "type": "truth",
         "title": "O universo conspira a favor de quem age",
         "text": "Ao dar o primeiro passo, recursos e encontros aparecem de formas inesperadas.",
@@ -40724,9 +40840,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "O tesouro está no destino distante",
-        "text": "Santiago descobre que o tesouro era onde começou; a jornada é o ponto.",
-        "reflection": "Você busca longe o que talvez esteja perto de casa?"
+        "title": "Realizar o sonho é fácil para os predestinados",
+        "text": "Coelho mostra que o medo e a acomodação bloqueiam a maioria, não falta de sorte.",
+        "reflection": "Que medo tem impedido você de seguir sua Lenda Pessoal?"
       },
       {
         "type": "truth",
@@ -40736,9 +40852,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Acomodação é prudência",
-        "text": "Ficar na rotina segura many times é medo disfarçado de sensatez.",
-        "reflection": "Você chama de prudência o que é apenas conforto?"
+        "title": "O tesouro está no destino distante",
+        "text": "Santiago descobre que o tesouro era onde começou; a jornada é o ponto.",
+        "reflection": "Você busca longe o que talvez esteja perto de casa?"
       },
       {
         "type": "truth",
@@ -40748,9 +40864,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Perder é prova de erro",
-        "text": "As perdas de Santiago ensinam; o caminho errado também forma o alquimista.",
-        "reflection": "Você trata perdas como erro ou como aprendizado?"
+        "title": "Acomodação é prudência",
+        "text": "Ficar na rotina segura many times é medo disfarçado de sensatez.",
+        "reflection": "Você chama de prudência o que é apenas conforto?"
       },
       {
         "type": "truth",
@@ -40760,9 +40876,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sabedoria é dos eruditos",
-        "text": "O alquimista e o cristalheiro ensinam; sabedoria mora em quem vive.",
-        "reflection": "Você despreza lições de quem não tem títulos?"
+        "title": "Perder é prova de erro",
+        "text": "As perdas de Santiago ensinam; o caminho errado também forma o alquimista.",
+        "reflection": "Você trata perdas como erro ou como aprendizado?"
       },
       {
         "type": "truth",
@@ -40772,9 +40888,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudar de rota é fracasso",
-        "text": "Abandonar o rebanho e o amor seguro faz parte de seguir o sinal.",
-        "reflection": "Você trava por medo de parecer inconsistente?"
+        "title": "Sabedoria é dos eruditos",
+        "text": "O alquimista e o cristalheiro ensinam; sabedoria mora em quem vive.",
+        "reflection": "Você despreza lições de quem não tem títulos?"
       },
       {
         "type": "truth",
@@ -40784,9 +40900,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Mudar de rota é fracasso",
+        "text": "Abandonar o rebanho e o amor seguro faz parte de seguir o sinal.",
+        "reflection": "Você trava por medo de parecer inconsistente?"
+      },
+      {
+        "type": "truth",
+        "title": "A jornada revela o que estava dentro de você",
+        "text": "Coelho narra Santiago e a tese de que perseguir a lenda pessoal é obrigação, não luxo.",
+        "reflection": "Qual sinal do universo você vem ignorando por medo?"
+      },
+      {
+        "type": "myth",
         "title": "Riqueza e propósito são opostos",
         "text": "Realizar a Lenda traz também abundância; espiritual e material se encontram.",
         "reflection": "Você separou propósito de prosperidade sem necessidade?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Alquimista resiste ao senso comum",
+        "text": "Em \"O Alquimista\", Paulo Coelho sustenta que publicado em 1988, 'o alquimista' de paulo coelho é uma fábula curta que se tornou um dos livros mais vendidos da história — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Publicado em 1988, 'O Alquimista' de Paulo Coelho é uma fábula curta que se tornou um dos livros mais vendidos da história. A tese é espiritual e existencial: cada pessoa tem uma 'Lenda Pessoal', o caminho que só ela pode percorrer, e o universo conspira a favor de quem se lança a realizá-la. Santiago, um jovem pastor andaluz, deixa a rotina para buscar um tesouro no Egito e, no percurso, aprende que o verdadeiro tesouro está na própria jornada e na escuta dos omens. Coelho mistura misticismo sufista, alquimia e sabedoria popular para dizer que o medo de realizar o sonho pesa mais que o próprio sonho. O gancho é universal: a realização não está no destino distante, mas na coragem de seguir sinais que o mundo oferece. É literatura de propósito disfarçada de aventura. A narrativa curta esconde camadas de simbolismo sobre destino, amor e persistência que leitores de várias idades reinterpretam. Mais que fábula, é convite a ouvir a própria intuição e a coragem de abandonar a segurança pelo que chama.",
@@ -40807,32 +40941,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O medo de sofrer é pior do que o próprio sofrimento.",
         "autor": "Paulo Coelho",
         "obra": "O Alquimista"
-      },
-      {
-        "texto": "Toda a sabedoria está contida nas coisas simples.",
-        "autor": "Paulo Coelho",
-        "obra": "O Alquimista"
-      },
-      {
-        "texto": "O segredo da vida é cair e levantar-se outra vez.",
-        "autor": "Paulo Coelho",
-        "obra": "O Alquimista"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Fábula que me deu coragem de largar emprego seguro e seguir meu caminho.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Simples e profundo; li aos 20 e reler aos 40 mudou o sentido.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Alguns acham piegas, mas a mensagem de propósito permanece.",
-        "autor": "Crítico literário",
         "fonte": "Goodreads"
       }
     ],
@@ -40849,9 +40968,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque sua Lenda Pessoal",
         "text": "Identificar o que só você pode realizar é o ponto de partida da jornada.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Busque sua Lenda Pessoal\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: Identificar o que só você pode realizar é o ponto de partida da jornada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque sua Lenda Pessoal\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Busque sua Lenda Pessoal\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identificar o que só você pode realizar é o ponto de partida da jornada — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Busque sua Lenda Pessoal\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40859,9 +40978,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Leia os omens",
         "text": "O mundo envia sinais; prestar atenção abre portas fechadas pela rotina.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Leia os omens\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: O mundo envia sinais; prestar atenção abre portas fechadas pela rotina — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Leia os omens\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Leia os omens\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O mundo envia sinais; prestar atenção abre portas fechadas pela rotina — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Leia os omens\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40869,9 +40988,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Enfrente o medo",
         "text": "O medo de sofrer costuma ser maior que o sofrimento real; agir desarma-o.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Enfrente o medo\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: O medo de sofrer costuma ser maior que o sofrimento real; agir desarma-o — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Enfrente o medo\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Enfrente o medo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O medo de sofrer costuma ser maior que o sofrimento real; agir desarma-o — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Enfrente o medo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40879,9 +40998,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Viva o presente",
         "text": "A magia acontece no agora; antecipar o futuro rouba a clareza.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Viva o presente\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: A magia acontece no agora; antecipar o futuro rouba a clareza — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Viva o presente\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Viva o presente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A magia acontece no agora; antecipar o futuro rouba a clareza — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Viva o presente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40889,9 +41008,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aprenda com perdas",
         "text": "Caminhos errados ensinam a alquimia de converter chumbo em ouro interior.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Aprenda com perdas\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: Caminhos errados ensinam a alquimia de converter chumbo em ouro interior — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aprenda com perdas\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Aprenda com perdas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Caminhos errados ensinam a alquimia de converter chumbo em ouro interior — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Aprenda com perdas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40899,9 +41018,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Confie no processo",
         "text": "O universo apoia quem age; soltar o controle rígido libera fluxo.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Confie no processo\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: O universo apoia quem age; soltar o controle rígido libera fluxo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Confie no processo\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Confie no processo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O universo apoia quem age; soltar o controle rígido libera fluxo — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Confie no processo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40909,9 +41028,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não imite sonhos alheios",
         "text": "Cada Lenda é única; copiar a de outro gera vazio.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Não imite sonhos alheios\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: Cada Lenda é única; copiar a de outro gera vazio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não imite sonhos alheios\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Não imite sonhos alheios\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada Lenda é única; copiar a de outro gera vazio — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Não imite sonhos alheios\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40919,9 +41038,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conecte-se ao todo",
         "text": "Seguir a Lenda serve também à Linguagem do Mundo que une tudo.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Conecte-se ao todo\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: Seguir a Lenda serve também à Linguagem do Mundo que une tudo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conecte-se ao todo\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Conecte-se ao todo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Seguir a Lenda serve também à Linguagem do Mundo que une tudo — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Conecte-se ao todo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40929,9 +41048,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abrace a mudança",
         "text": "Abandonar o conforto conhecido é custo da descoberta, não erro.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Abrace a mudança\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: Abandonar o conforto conhecido é custo da descoberta, não erro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abrace a mudança\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Abrace a mudança\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Abandonar o conforto conhecido é custo da descoberta, não erro — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Abrace a mudança\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40939,9 +41058,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "O tesouro pode estar perto",
         "text": "A realização muitas vezes aparece onde começamos, pela transformação interna.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"O tesouro pode estar perto\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: A realização muitas vezes aparece onde começamos, pela transformação interna — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"O tesouro pode estar perto\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"O tesouro pode estar perto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A realização muitas vezes aparece onde começamos, pela transformação interna — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"O tesouro pode estar perto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -40949,9 +41068,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja antes de estar pronto",
         "text": "Esperar segurança total adia para sempre; o passo inicial atrai apoio.",
         "explicacoes": [
-          "Em \"O Alquimista\", Paulo Coelho trata \"Aja antes de estar pronto\" como peça-chave para a jornada do herói em busca de seu destino.",
-          "Na prática: Esperar segurança total adia para sempre; o passo inicial atrai apoio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja antes de estar pronto\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+          "Em \"O Alquimista\", Paulo Coelho coloca \"Aja antes de estar pronto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Esperar segurança total adia para sempre; o passo inicial atrai apoio — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"Aja antes de estar pronto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "O medo do sofrimento paralisa mais que o sofrimento",
+        "text": "Coelho alerta que o que trava a jornada é a imagem do fracasso, não o fracasso real.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho coloca \"O medo do sofrimento paralisa mais que o sofrimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Coelho alerta que o que trava a jornada é a imagem do fracasso, não o fracasso real — traduzido para a prática, é o passo concreto que liga a teoria de Paulo Coelho ao comportamento diário.",
+          "Ignorar \"O medo do sofrimento paralisa mais que o sofrimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -40985,6 +41114,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Santiago encontra o rei de Salem e ouve sobre sua Lenda Pessoal.",
             "f": "Na visão de Paulo Coelho, \"o chamado\" é parte essencial da proposta de \"O Alquimista\".",
             "real": false
+          },
+          {
+            "t": "O pastor e o rei",
+            "e": "Santiago encontra o rei de Salem e ouve sobre sua Lenda Pessoal.",
+            "f": "Na visão de Paulo Coelho, o pastor e o rei é o ponto central deste capítulo de \"O Alquimista\".",
+            "real": false
           }
         ]
       },
@@ -41002,6 +41137,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Primeiro sacrifício",
             "e": "Ele deixa a segurança para cruzar o estreito em direção ao Egito.",
             "f": "Na visão de Paulo Coelho, \"primeiro sacrifício\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "A venda dos rebanhos",
+            "e": "Ele deixa a segurança para cruzar o estreito em direção ao Egito.",
+            "f": "Na visão de Paulo Coelho, a venda dos rebanhos é o ponto central deste capítulo de \"O Alquimista\".",
             "real": false
           }
         ]
@@ -41021,6 +41162,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Perde tudo para um ladrão; a acomodação tenta seduzi-lo.",
             "f": "Na visão de Paulo Coelho, \"trabalho no cristal\" é parte essencial da proposta de \"O Alquimista\".",
             "real": false
+          },
+          {
+            "t": "O mercado de Tanger",
+            "e": "Perde tudo para um ladrão; a acomodação tenta seduzi-lo.",
+            "f": "Na visão de Paulo Coelho, o mercado de Tanger é o ponto central deste capítulo de \"O Alquimista\".",
+            "real": false
           }
         ]
       },
@@ -41038,6 +41185,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Reinvestir",
             "e": "Aprende que pequenas mudanças transformam um negócio e a si.",
             "f": "Na visão de Paulo Coelho, \"reinvestir\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "O cristalheiro",
+            "e": "Aprende que pequenas mudanças transformam um negócio e a si.",
+            "f": "Na visão de Paulo Coelho, o cristalheiro é o ponto central deste capítulo de \"O Alquimista\".",
             "real": false
           }
         ]
@@ -41057,6 +41210,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "No deserto, encontra amor e a Linguagem do Mundo.",
             "f": "Na visão de Paulo Coelho, \"omens\" é parte essencial da proposta de \"O Alquimista\".",
             "real": false
+          },
+          {
+            "t": "O deserto e Fatima",
+            "e": "No deserto, encontra amor e a Linguagem do Mundo.",
+            "f": "Na visão de Paulo Coelho, o deserto e Fatima é o ponto central deste capítulo de \"O Alquimista\".",
+            "real": false
           }
         ]
       },
@@ -41074,6 +41233,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Leitura dos sinais",
             "e": "O mestre ensina converter chumbo em ouro e medo em coragem.",
             "f": "Na visão de Paulo Coelho, \"leitura dos sinais\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "O alquimista",
+            "e": "O mestre ensina converter chumbo em ouro e medo em coragem.",
+            "f": "Na visão de Paulo Coelho, o alquimista é o ponto central deste capítulo de \"O Alquimista\".",
             "real": false
           }
         ]
@@ -41093,6 +41258,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Próximo ao objetivo, é testado a confiar contra a lógica.",
             "f": "Na visão de Paulo Coelho, \"entrega\" é parte essencial da proposta de \"O Alquimista\".",
             "real": false
+          },
+          {
+            "t": "A prova final",
+            "e": "Próximo ao objetivo, é testado a confiar contra a lógica.",
+            "f": "Na visão de Paulo Coelho, a prova final é o ponto central deste capítulo de \"O Alquimista\".",
+            "real": false
           }
         ]
       },
@@ -41110,6 +41281,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Realização",
             "e": "Descobre que o tesouro estava onde começou sua jornada.",
             "f": "Na visão de Paulo Coelho, \"realização\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "O tesouro",
+            "e": "Descobre que o tesouro estava onde começou sua jornada.",
+            "f": "Na visão de Paulo Coelho, o tesouro é o ponto central deste capítulo de \"O Alquimista\".",
             "real": false
           }
         ]
@@ -41129,6 +41306,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A fábula encerra com a tese de que seguir a Lenda é viver inteiro.",
             "f": "Quando você quer alguma coisa, todo o universo conspira para que você realize o seu desejo.",
             "real": true
+          },
+          {
+            "t": "A mensagem",
+            "e": "A fábula encerra com a tese de que seguir a Lenda é viver inteiro.",
+            "f": "Na visão de Paulo Coelho, a mensagem é o ponto central deste capítulo de \"O Alquimista\".",
+            "real": false
           }
         ]
       }
@@ -41151,12 +41334,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Ofensas dizem respeito a nós",
-        "text": "Ruiz explica que o que os outros dizem reflete o próprio 'sonho', não quem ouve.",
-        "reflection": "Você leva para o lado pessoal o que é problema alheio?"
-      },
-      {
         "type": "truth",
         "title": "A palavra é poder criador",
         "text": "Usada com cuidado, ela cura; usada mal, envenena a si e aos outros.",
@@ -41164,9 +41341,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Assumir o pior evita surpresas",
-        "text": "Fazer suposições gera conflito; perguntar direto dissipa ilusões.",
-        "reflection": "Você supõe em vez de perguntar e se frustra?"
+        "title": "Ofensas dizem respeito a nós",
+        "text": "Ruiz explica que o que os outros dizem reflete o próprio 'sonho', não quem ouve.",
+        "reflection": "Você leva para o lado pessoal o que é problema alheio?"
       },
       {
         "type": "truth",
@@ -41176,9 +41353,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Dar o melhor é ser perfeito",
-        "text": "O quarto acordo pede esforço honesto conforme o momento, não perfeição.",
-        "reflection": "Você confunde dar o melhor com nunca errar?"
+        "title": "Assumir o pior evita surpresas",
+        "text": "Fazer suposições gera conflito; perguntar direto dissipa ilusões.",
+        "reflection": "Você supõe em vez de perguntar e se frustra?"
       },
       {
         "type": "truth",
@@ -41188,9 +41365,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudar exige mudar os outros",
-        "text": "Ruiz propõe mudar a própria interpretação, não o comportamento alheio.",
-        "reflection": "Você tenta consertar o outro em vez de si?"
+        "title": "Dar o melhor é ser perfeito",
+        "text": "O quarto acordo pede esforço honesto conforme o momento, não perfeição.",
+        "reflection": "Você confunde dar o melhor com nunca errar?"
       },
       {
         "type": "truth",
@@ -41200,9 +41377,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "A verdade é uma só e fixa",
-        "text": "Cada um vive seu próprio 'sonho'; verdades são perspectivas.",
-        "reflection": "Você impõe sua verdade como única?"
+        "title": "Mudar exige mudar os outros",
+        "text": "Ruiz propõe mudar a própria interpretação, não o comportamento alheio.",
+        "reflection": "Você tenta consertar o outro em vez de si?"
       },
       {
         "type": "truth",
@@ -41212,9 +41389,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sozinho não dá para ser feliz",
-        "text": "Liberdade emocional é interna; depende de acordos consigo, não de elogios.",
-        "reflection": "Você depende de validação alheia para se sentir bem?"
+        "title": "A verdade é uma só e fixa",
+        "text": "Cada um vive seu próprio 'sonho'; verdades são perspectivas.",
+        "reflection": "Você impõe sua verdade como única?"
       },
       {
         "type": "truth",
@@ -41224,9 +41401,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Sozinho não dá para ser feliz",
+        "text": "Liberdade emocional é interna; depende de acordos consigo, não de elogios.",
+        "reflection": "Você depende de validação alheia para se sentir bem?"
+      },
+      {
+        "type": "truth",
+        "title": "Quatro acordos curam a guerra consigo",
+        "text": "Ruiz propõe ser impecável com a palavra, não levar nada pessoal, não fazer suposições e dar o máximo.",
+        "reflection": "Qual desses acordos você quebra diariamente sem notar?"
+      },
+      {
+        "type": "myth",
         "title": "O 'dever' é lei absoluta",
         "text": "Muitos deveres são mandamentos do sonho coletivo, não necessidade real.",
         "reflection": "Você obedece deveres que nunca escolheu?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de As Quatro Verdades: Um Livro de Sabedoria Tolteca resiste ao senso comum",
+        "text": "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz sustenta que don miguel ruiz, descendente de toltecas, escreve 'as quatro verdades' (the four agreements) como um código de conduta baseado na sabedoria ancestral mexicana — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Don Miguel Ruiz, descendente de toltecas, escreve 'As Quatro Verdades' (The Four Agreements) como um código de conduta baseado na sabedoria ancestral mexicana. A tese é que a maior parte do sofrimento humano vem de um 'sonho' coletivo de crenças limitantes que absorvemos na infância, e que podemos acordar desse pesadelo vivendo quatro acordos: ser impecável com a palavra, não levar nada para o lado pessoal, não fazer suposições e sempre dar o melhor de si. Ruiz argumenta que a palavra é poder mágico que cria ou destrói, e que a maioria das ofensas reflete o outro, não a nós. O gancho é libertador: a paz não exige mudar o mundo, apenas desarmar as interpretações que nos aprisionam. É um manual de liberdade emocional enxuto e atemporal. Escrito em tom de sabedoria ancestral, o livro é curto mas exige prática contínua dos acordos no dia a dia. Ruiz convida o leitor a despertar do 'sonho' coletivo e recuperar a liberdade emocional que a sociedade adormeceu.",
@@ -41247,33 +41442,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Não faça suposições. Comunique-se com os outros o quanto puder.",
         "autor": "Don Miguel Ruiz",
         "obra": "The Four Agreements"
-      },
-      {
-        "texto": "Faça sempre o seu melhor, independentemente das circunstâncias.",
-        "autor": "Don Miguel Ruiz",
-        "obra": "The Four Agreements"
-      },
-      {
-        "texto": "Estamos sonhando o sonho da sociedade; podemos acordar e sonhar de novo.",
-        "autor": "Don Miguel Ruiz",
-        "obra": "The Four Agreements"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Pequeno e transformador; relição do não-pessoal me salvou relacionamentos.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Sabedoria tolteca acessível; leitura rápida com impacto duradouro.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "Os quatro acordos viraram meu filtro diário de decisões.",
-        "autor": "Leitor",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -41289,9 +41469,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja impecável com a palavra",
         "text": "Use a palavra para edificar; evite falar contra si ou murmurar dos outros.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Seja impecável com a palavra\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Use a palavra para edificar; evite falar contra si ou murmurar dos outros — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja impecável com a palavra\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Seja impecável com a palavra\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use a palavra para edificar; evite falar contra si ou murmurar dos outros — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Seja impecável com a palavra\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41299,9 +41479,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não leve nada para o pessoal",
         "text": "O que os outros fazem é deles; soltar o pessoal é ganhar liberdade.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Não leve nada para o pessoal\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: O que os outros fazem é deles; soltar o pessoal é ganhar liberdade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não leve nada para o pessoal\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Não leve nada para o pessoal\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O que os outros fazem é deles; soltar o pessoal é ganhar liberdade — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Não leve nada para o pessoal\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41309,9 +41489,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não faça suposições",
         "text": "Pergunte e comunique claro para não alimentar ilusões e conflitos.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Não faça suposições\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Pergunte e comunique claro para não alimentar ilusões e conflitos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não faça suposições\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Não faça suposições\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pergunte e comunique claro para não alimentar ilusões e conflitos — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Não faça suposições\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41319,9 +41499,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dê sempre o seu melhor",
         "text": "Conforme suas condições do momento, faça o máximo sem cobrar perfeição.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Dê sempre o seu melhor\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Conforme suas condições do momento, faça o máximo sem cobrar perfeição — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dê sempre o seu melhor\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Dê sempre o seu melhor\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conforme suas condições do momento, faça o máximo sem cobrar perfeição — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Dê sempre o seu melhor\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41329,9 +41509,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desperte do sonho coletivo",
         "text": "Questionar crenças absorvidas é o primeiro passo para sair do pesadelo.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Desperte do sonho coletivo\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Questionar crenças absorvidas é o primeiro passo para sair do pesadelo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desperte do sonho coletivo\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Desperte do sonho coletivo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Questionar crenças absorvidas é o primeiro passo para sair do pesadelo — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Desperte do sonho coletivo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41339,9 +41519,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cale o juiz interno",
         "text": "Reduzir a autocrítica constante alivia o inferno pessoal que criamos.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Cale o juiz interno\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Reduzir a autocrítica constante alivia o inferno pessoal que criamos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cale o juiz interno\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Cale o juiz interno\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduzir a autocrítica constante alivia o inferno pessoal que criamos — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Cale o juiz interno\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41349,9 +41529,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite a perspectiva alheia",
         "text": "Reconhecer que cada um tem seu sonho reduz o desejo de converter.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Aceite a perspectiva alheia\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Reconhecer que cada um tem seu sonho reduz o desejo de converter — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite a perspectiva alheia\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Aceite a perspectiva alheia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer que cada um tem seu sonho reduz o desejo de converter — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Aceite a perspectiva alheia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41359,9 +41539,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite a fofoca",
         "text": "Falar mal usa a palavra para destruir; impecabilidade protege a todos.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Evite a fofoca\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Falar mal usa a palavra para destruir; impecabilidade protege a todos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite a fofoca\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Evite a fofoca\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Falar mal usa a palavra para destruir; impecabilidade protege a todos — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Evite a fofoca\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41369,9 +41549,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique o silêncio interior",
         "text": "Menos ruído mental abre espaço para viver os acordos de fato.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Pratique o silêncio interior\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Menos ruído mental abre espaço para viver os acordos de fato — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique o silêncio interior\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Pratique o silêncio interior\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Menos ruído mental abre espaço para viver os acordos de fato — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Pratique o silêncio interior\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41379,9 +41559,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tolera a imperfeição",
         "text": "Os acordos são prática contínua, não meta de perfeição instantânea.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Tolera a imperfeição\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Os acordos são prática contínua, não meta de perfeição instantânea — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Tolera a imperfeição\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Tolera a imperfeição\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Os acordos são prática contínua, não meta de perfeição instantânea — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Tolera a imperfeição\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41389,9 +41569,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Liberte-se de deveres falsos",
         "text": "Examinar regras internas revela mandamentos que pode descartar.",
         "explicacoes": [
-          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Liberte-se de deveres falsos\" como peça-chave para os quatro acordos da sabedoria tolteca.",
-          "Na prática: Examinar regras internas revela mandamentos que pode descartar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Liberte-se de deveres falsos\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Liberte-se de deveres falsos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Examinar regras internas revela mandamentos que pode descartar — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Liberte-se de deveres falsos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Faça o melhor que puder, a cada instante",
+        "text": "Ruiz encerra com o quarto acordo: a entrega total dissolve a necessidade de perfeição.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz coloca \"Faça o melhor que puder, a cada instante\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ruiz encerra com o quarto acordo: a entrega total dissolve a necessidade de perfeição — traduzido para a prática, é o passo concreto que liga a teoria de Don Miguel Ruiz ao comportamento diário.",
+          "Ignorar \"Faça o melhor que puder, a cada instante\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -41425,6 +41615,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Ruiz explica o 'sonho' coletivo de crenças que aprendemos sem escolha.",
             "f": "Na visão de Don Miguel Ruiz, \"o pesadelo humano\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
             "real": false
+          },
+          {
+            "t": "O sonho do planeta",
+            "e": "Ruiz explica o 'sonho' coletivo de crenças que aprendemos sem escolha.",
+            "f": "Na visão de Don Miguel Ruiz, o sonho do planeta é o ponto central deste capítulo de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
           }
         ]
       },
@@ -41442,6 +41638,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Criação e destruição",
             "e": "A palavra como poder mágico que cria realidade e sofrimento.",
             "f": "Na visão de Don Miguel Ruiz, \"criação e destruição\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "O dom da palavra",
+            "e": "A palavra como poder mágico que cria realidade e sofrimento.",
+            "f": "Na visão de Don Miguel Ruiz, o dom da palavra é o ponto central deste capítulo de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
             "real": false
           }
         ]
@@ -41461,6 +41663,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Ser impecável com a palavra em detalhe e prática.",
             "f": "Na visão de Don Miguel Ruiz, \"falar com integridade\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
             "real": false
+          },
+          {
+            "t": "O primeiro acordo",
+            "e": "Ser impecável com a palavra em detalhe e prática.",
+            "f": "Na visão de Don Miguel Ruiz, o primeiro acordo é o ponto central deste capítulo de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
           }
         ]
       },
@@ -41478,6 +41686,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Liberdade",
             "e": "Não levar nada para o pessoal liberta do veneno alheio.",
             "f": "Na visão de Don Miguel Ruiz, \"liberdade\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "O segundo acordo",
+            "e": "Não levar nada para o pessoal liberta do veneno alheio.",
+            "f": "Na visão de Don Miguel Ruiz, o segundo acordo é o ponto central deste capítulo de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
             "real": false
           }
         ]
@@ -41497,6 +41711,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Evitar suposições por comunicação direta.",
             "f": "Na visão de Don Miguel Ruiz, \"perguntar\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
             "real": false
+          },
+          {
+            "t": "O terceiro acordo",
+            "e": "Evitar suposições por comunicação direta.",
+            "f": "Na visão de Don Miguel Ruiz, o terceiro acordo é o ponto central deste capítulo de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
           }
         ]
       },
@@ -41514,6 +41734,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Sem perfeição",
             "e": "Dar o melhor de si sem a armadilha da perfeição.",
             "f": "Na visão de Don Miguel Ruiz, \"sem perfeição\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "O quarto acordo",
+            "e": "Dar o melhor de si sem a armadilha da perfeição.",
+            "f": "Na visão de Don Miguel Ruiz, o quarto acordo é o ponto central deste capítulo de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
             "real": false
           }
         ]
@@ -41533,6 +41759,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como o juiz e a vítima internos nos mantêm no sonho.",
             "f": "Na visão de Don Miguel Ruiz, \"vítima\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
             "real": false
+          },
+          {
+            "t": "A domesticação",
+            "e": "Como o juiz e a vítima internos nos mantêm no sonho.",
+            "f": "Na visão de Don Miguel Ruiz, a domesticação é o ponto central deste capítulo de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
           }
         ]
       },
@@ -41551,6 +41783,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Praticar os acordos para despertar gradualmente.",
             "f": "Na visão de Don Miguel Ruiz, \"despertar\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
             "real": false
+          },
+          {
+            "t": "Rompendo o sonho",
+            "e": "Praticar os acordos para despertar gradualmente.",
+            "f": "Na visão de Don Miguel Ruiz, rompendo o sonho é o ponto central deste capítulo de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
           }
         ]
       },
@@ -41568,6 +41806,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Estado natural",
             "e": "A liberdade emocional como estado presente, não futuro.",
             "f": "Na visão de Don Miguel Ruiz, \"estado natural\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "O céu no aqui",
+            "e": "A liberdade emocional como estado presente, não futuro.",
+            "f": "Na visão de Don Miguel Ruiz, o céu no aqui é o ponto central deste capítulo de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
             "real": false
           }
         ]
@@ -41591,12 +41835,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Sucesso exige lutar e forçar",
-        "text": "Chopra afirma que o esforço contra a corrente esgota; alinhar-se ao fluxo atrai.",
-        "reflection": "Você força demais onde poderia alinhar-se ao fluxo?"
-      },
-      {
         "type": "truth",
         "title": "A potencialidade pura habita o silêncio",
         "text": "A mente quieta acessa o campo de onde nascem todas as possibilidades.",
@@ -41604,9 +41842,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Dar esvazia quem dá",
-        "text": "A lei do dar e receber mostra que doar mantém o fluxo da abundância.",
-        "reflection": "Você retém por medo de perder o que tem?"
+        "title": "Sucesso exige lutar e forçar",
+        "text": "Chopra afirma que o esforço contra a corrente esgota; alinhar-se ao fluxo atrai.",
+        "reflection": "Você força demais onde poderia alinhar-se ao fluxo?"
       },
       {
         "type": "truth",
@@ -41616,9 +41854,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Controle total traz segurança",
-        "text": "Querer controlar tudo gera ansiedade; o desapego libera melhores resultados.",
-        "reflection": "Seu controle excessivo tem custado paz?"
+        "title": "Dar esvazia quem dá",
+        "text": "A lei do dar e receber mostra que doar mantém o fluxo da abundância.",
+        "reflection": "Você retém por medo de perder o que tem?"
       },
       {
         "type": "truth",
@@ -41628,9 +41866,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Intenção sozinha não faz nada",
-        "text": "Chopra sustenta que intenção focada no campo quântico influencia a matéria.",
-        "reflection": "Você subestima o poder de uma intenção clara?"
+        "title": "Controle total traz segurança",
+        "text": "Querer controlar tudo gera ansiedade; o desapego libera melhores resultados.",
+        "reflection": "Seu controle excessivo tem custado paz?"
       },
       {
         "type": "truth",
@@ -41640,9 +41878,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Propósito é raro e distante",
-        "text": "O dharma é encontrado servindo com o que se é naturalmente bom.",
-        "reflection": "Você procura propósito longe do que já sabe fazer?"
+        "title": "Intenção sozinha não faz nada",
+        "text": "Chopra sustenta que intenção focada no campo quântico influencia a matéria.",
+        "reflection": "Você subestima o poder de uma intenção clara?"
       },
       {
         "type": "truth",
@@ -41652,9 +41890,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Espiritualidade e sucesso se opõem",
-        "text": "Chopra une ambos: o desejo alinhado ao dharma é espiritualmente sadio.",
-        "reflection": "Você separou realização material de sentido?"
+        "title": "Propósito é raro e distante",
+        "text": "O dharma é encontrado servindo com o que se é naturalmente bom.",
+        "reflection": "Você procura propósito longe do que já sabe fazer?"
       },
       {
         "type": "truth",
@@ -41664,9 +41902,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Espiritualidade e sucesso se opõem",
+        "text": "Chopra une ambos: o desejo alinhado ao dharma é espiritualmente sadio.",
+        "reflection": "Você separou realização material de sentido?"
+      },
+      {
+        "type": "truth",
+        "title": "Sucesso segue leis espirituais de dar e receber",
+        "text": "Chopra une propósito, atenção plena e generosidade como motor da abundância.",
+        "reflection": "Você busca sucesso por agarramento ou por entrega?"
+      },
+      {
+        "type": "myth",
         "title": "Mudar exige esforço hercúleo",
         "text": "Pequenas práticas diárias das leis movem mais que revoluções exaustas.",
         "reflection": "Você espera transformação dramática e ignora o diário?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de As 7 Leis Espirituais do Sucesso resiste ao senso comum",
+        "text": "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra sustenta que deepak chopra reúne em 'as 7 leis espirituais do sucesso' uma síntese de filosofia vedanta e física quântica aplicada à realização humana — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Deepak Chopra reúne em 'As 7 Leis Espirituais do Sucesso' uma síntese de filosofia vedanta e física quântica aplicada à realização humana. A tese central é que o sucesso não é perseguição ansiosa, mas fluxo natural quando nos alinhamos a princípios do universo: potencialidade pura, dar e receber, carma (causa e efeito), esforço sem esforço (menor resistência), intenção e desejo, desapego e propósito (dharma). Chopra argumenta que querer controlar tudo gera sofrimento e que a mente em silêncio acessa campos de puro potencial. O gancho é sedutor: pare de forçar; ao sincronizar-se com a inteligência da natureza, a abundância chega. Cada lei traz uma prática diária. O livro mistura espiritualidade oriental e linguagem de autoajuda americana, direcionado a quem busca prosperidade com sentido, não apenas acúmulo. Entre ciência e misticismo, Chopra oferece uma prática diária para cada lei, tornando a leitura experiencial. Sua mensagem é que prosperidade e paz não se opõem, mas fluem quando nos alinhamos à inteligência da natureza.",
@@ -41687,33 +41943,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A lei do dar e receber: o universo opera por troca constante.",
         "autor": "Deepak Chopra",
         "obra": "The Seven Spiritual Laws of Success"
-      },
-      {
-        "texto": "Quando você quer uma coisa com desapego, o universo conspira.",
-        "autor": "Deepak Chopra",
-        "obra": "The Seven Spiritual Laws of Success"
-      },
-      {
-        "texto": "O esforço sem esforço é agir com a inteligência da natureza, não contra ela.",
-        "autor": "Deepak Chopra",
-        "obra": "The Seven Spiritual Laws of Success"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Leitura curta que reorientou como encaro prosperidade e paz.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Mistura espiritualidade e prática; as leis cabem num cartão.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "Cética no início, mas a lei do dar e receber pegou comigo.",
-        "autor": "Leitora",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -41729,9 +41970,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive a potencialidade pura",
         "text": "Reservar silêncio diário conecta à fonte de onde vêm as ideias.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Cultive a potencialidade pura\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Reservar silêncio diário conecta à fonte de onde vêm as ideias — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive a potencialidade pura\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Cultive a potencialidade pura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reservar silêncio diário conecta à fonte de onde vêm as ideias — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Cultive a potencialidade pura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41739,9 +41980,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique dar e receber",
         "text": "Oferecer generosamente mantém o fluxo que traz abundância de volta.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Pratique dar e receber\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Oferecer generosamente mantém o fluxo que traz abundância de volta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique dar e receber\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Pratique dar e receber\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Oferecer generosamente mantém o fluxo que traz abundância de volta — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Pratique dar e receber\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41749,9 +41990,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja consciente do carma",
         "text": "Toda escolha tem efeito; semear boa causa atrai bom resultado.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Aja consciente do carma\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Toda escolha tem efeito; semear boa causa atrai bom resultado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja consciente do carma\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Aja consciente do carma\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Toda escolha tem efeito; semear boa causa atrai bom resultado — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Aja consciente do carma\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41759,9 +42000,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque o esforço sem esforço",
         "text": "Trabalhar com a corrente, não contra, economiza energia e atrai sucesso.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Busque o esforço sem esforço\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Trabalhar com a corrente, não contra, economiza energia e atrai sucesso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque o esforço sem esforço\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Busque o esforço sem esforço\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trabalhar com a corrente, não contra, economiza energia e atrai sucesso — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Busque o esforço sem esforço\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41769,9 +42010,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fixe intenções claras",
         "text": "Declarar o desejo no campo quântico dá direção à atenção e à ação.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Fixe intenções claras\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Declarar o desejo no campo quântico dá direção à atenção e à ação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fixe intenções claras\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Fixe intenções claras\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Declarar o desejo no campo quântico dá direção à atenção e à ação — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Fixe intenções claras\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41779,9 +42020,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Exercite o desapego",
         "text": "Soltar a exigência do resultado libera ansiedade e melhora desfechos.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Exercite o desapego\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Soltar a exigência do resultado libera ansiedade e melhora desfechos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Exercite o desapego\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Exercite o desapego\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Soltar a exigência do resultado libera ansiedade e melhora desfechos — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Exercite o desapego\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41789,9 +42030,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Encontre seu dharma",
         "text": "Servir com o que é naturalmente seu alinha propósito e prosperidade.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Encontre seu dharma\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Servir com o que é naturalmente seu alinha propósito e prosperidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Encontre seu dharma\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Encontre seu dharma\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Servir com o que é naturalmente seu alinha propósito e prosperidade — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Encontre seu dharma\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41799,9 +42040,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Observe sincronicidades",
         "text": "Tratar coincidências como guia afina a escuta da inteligência natural.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Observe sincronicidades\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Tratar coincidências como guia afina a escuta da inteligência natural — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Observe sincronicidades\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Observe sincronicidades\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tratar coincidências como guia afina a escuta da inteligência natural — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Observe sincronicidades\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41809,9 +42050,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha a abundância em fluxo",
         "text": "Circular recursos evita a estagnação que bloqueia novas entradas.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Mantenha a abundância em fluxo\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Circular recursos evita a estagnação que bloqueia novas entradas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha a abundância em fluxo\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Mantenha a abundância em fluxo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Circular recursos evita a estagnação que bloqueia novas entradas — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Mantenha a abundância em fluxo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41819,9 +42060,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Silencie para criar",
         "text": "A mente em paz acessa soluções que o barulho esconde.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Silencie para criar\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: A mente em paz acessa soluções que o barulho esconde — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Silencie para criar\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Silencie para criar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A mente em paz acessa soluções que o barulho esconde — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Silencie para criar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -41829,9 +42070,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Una propósito e prosperidade",
         "text": "Desejo alinhado ao bem coletivo é espiritualmente saudável e eficaz.",
         "explicacoes": [
-          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Una propósito e prosperidade\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
-          "Na prática: Desejo alinhado ao bem coletivo é espiritualmente saudável e eficaz — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Una propósito e prosperidade\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"Una propósito e prosperidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desejo alinhado ao bem coletivo é espiritualmente saudável e eficaz — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"Una propósito e prosperidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "A intenção precede a manifestação",
+        "text": "Chopra sustenta que clareza de propósito atrai as condições de realização.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra coloca \"A intenção precede a manifestação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Chopra sustenta que clareza de propósito atrai as condições de realização — traduzido para a prática, é o passo concreto que liga a teoria de Deepak Chopra ao comportamento diário.",
+          "Ignorar \"A intenção precede a manifestação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -41865,6 +42116,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A lei de acessar o campo silencioso onde tudo é possível.",
             "f": "Na visão de Deepak Chopra, \"criação\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
             "real": false
+          },
+          {
+            "t": "Potencialidade pura",
+            "e": "A lei de acessar o campo silencioso onde tudo é possível.",
+            "f": "Na visão de Deepak Chopra, potencialidade pura é o ponto central deste capítulo de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -41882,6 +42139,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Generosidade",
             "e": "A circulação como base da abundância.",
             "f": "Na visão de Deepak Chopra, \"generosidade\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Dar e receber",
+            "e": "A circulação como base da abundância.",
+            "f": "Na visão de Deepak Chopra, dar e receber é o ponto central deste capítulo de \"As 7 Leis Espirituais do Sucesso\".",
             "real": false
           }
         ]
@@ -41901,6 +42164,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Causa e efeito aplicados à intenção e à ação.",
             "f": "Na visão de Deepak Chopra, \"retorno\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
             "real": false
+          },
+          {
+            "t": "Carma",
+            "e": "Causa e efeito aplicados à intenção e à ação.",
+            "f": "Na visão de Deepak Chopra, carma é o ponto central deste capítulo de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -41918,6 +42187,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Economia de energia",
             "e": "O esforço sem esforço sincronizado com a natureza.",
             "f": "Na visão de Deepak Chopra, \"economia de energia\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Menor resistência",
+            "e": "O esforço sem esforço sincronizado com a natureza.",
+            "f": "Na visão de Deepak Chopra, menor resistência é o ponto central deste capítulo de \"As 7 Leis Espirituais do Sucesso\".",
             "real": false
           }
         ]
@@ -41937,6 +42212,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Focar intenção no campo quântico para materializar.",
             "f": "No silêncio da mente habita o campo de todas as possibilidades.",
             "real": true
+          },
+          {
+            "t": "Intenção e desejo",
+            "e": "Focar intenção no campo quântico para materializar.",
+            "f": "Na visão de Deepak Chopra, intenção e desejo é o ponto central deste capítulo de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -41954,6 +42235,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Resultado",
             "e": "Soltar o resultado para atrair mais do que o apegado.",
             "f": "Na visão de Deepak Chopra, \"resultado\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Desapego",
+            "e": "Soltar o resultado para atrair mais do que o apegado.",
+            "f": "Na visão de Deepak Chopra, desapego é o ponto central deste capítulo de \"As 7 Leis Espirituais do Sucesso\".",
             "real": false
           }
         ]
@@ -41973,6 +42260,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Propósito e serviço como expressão natural.",
             "f": "Na visão de Deepak Chopra, \"serviço\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
             "real": false
+          },
+          {
+            "t": "Dharma",
+            "e": "Propósito e serviço como expressão natural.",
+            "f": "Na visão de Deepak Chopra, dharma é o ponto central deste capítulo de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -41991,6 +42284,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Exercícios resumidos para cada lei.",
             "f": "Na visão de Deepak Chopra, \"aplicação\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
             "real": false
+          },
+          {
+            "t": "Práticas diárias",
+            "e": "Exercícios resumidos para cada lei.",
+            "f": "Na visão de Deepak Chopra, práticas diárias é o ponto central deste capítulo de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -42008,6 +42307,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Paz",
             "e": "Integração das leis numa vida de abundância serena.",
             "f": "Na visão de Deepak Chopra, \"paz\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "O sucesso como fluxo",
+            "e": "Integração das leis numa vida de abundância serena.",
+            "f": "Na visão de Deepak Chopra, o sucesso como fluxo é o ponto central deste capítulo de \"As 7 Leis Espirituais do Sucesso\".",
             "real": false
           }
         ]
@@ -42031,12 +42336,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "A cabeça é um bom arquivo",
-        "text": "Allen mostra que a mente lembra mal; capturar externamente libera atenção.",
-        "reflection": "Quantas tarefas você carrega na cabeça sem confiar a um sistema?"
-      },
-      {
         "type": "truth",
         "title": "Estresse vem de itens abertos",
         "text": "Compromissos vagos não fechados geram tensão invisível e contínua.",
@@ -42044,9 +42343,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Priorizar basta para agir",
-        "text": "Sem a próxima ação concreta, prioridade vira paralisia.",
-        "reflection": "Você tem prioridades mas falta o próximo passo?"
+        "title": "A cabeça é um bom arquivo",
+        "text": "Allen mostra que a mente lembra mal; capturar externamente libera atenção.",
+        "reflection": "Quantas tarefas você carrega na cabeça sem confiar a um sistema?"
       },
       {
         "type": "truth",
@@ -42056,9 +42355,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Fazer mais é ser produtivo",
-        "text": "GTD visa liberdade mental para estar presente, não volume.",
-        "reflection": "Você confunde produtividade com acúmulo de tarefas?"
+        "title": "Priorizar basta para agir",
+        "text": "Sem a próxima ação concreta, prioridade vira paralisia.",
+        "reflection": "Você tem prioridades mas falta o próximo passo?"
       },
       {
         "type": "truth",
@@ -42068,9 +42367,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Ideias soltas não atrapalham",
-        "text": "Toda ideia sem destino rouba microatenção o tempo todo.",
-        "reflection": "Você subestima o custo das ideias soltas?"
+        "title": "Fazer mais é ser produtivo",
+        "text": "GTD visa liberdade mental para estar presente, não volume.",
+        "reflection": "Você confunde produtividade com acúmulo de tarefas?"
       },
       {
         "type": "truth",
@@ -42080,9 +42379,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Delegar é perder controle",
-        "text": "Allen usa 'esperando' para acompanhar sem microgerenciar.",
-        "reflection": "Você resiste a delegar por medo de perder o fio?"
+        "title": "Ideias soltas não atrapalham",
+        "text": "Toda ideia sem destino rouba microatenção o tempo todo.",
+        "reflection": "Você subestima o custo das ideias soltas?"
       },
       {
         "type": "truth",
@@ -42092,9 +42391,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Projetos são a lista principal",
-        "text": "Projetos andam por próximas ações, não por intenções vagas.",
-        "reflection": "Seus projetos têm resultados e próximos passos?"
+        "title": "Delegar é perder controle",
+        "text": "Allen usa 'esperando' para acompanhar sem microgerenciar.",
+        "reflection": "Você resiste a delegar por medo de perder o fio?"
       },
       {
         "type": "truth",
@@ -42104,9 +42403,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Projetos são a lista principal",
+        "text": "Projetos andam por próximas ações, não por intenções vagas.",
+        "reflection": "Seus projetos têm resultados e próximos passos?"
+      },
+      {
+        "type": "truth",
+        "title": "Mente vazia vem de capturar tudo num sistema",
+        "text": "Allen ensina que confiar a tarefas a listas externas libera a atenção para o presente.",
+        "reflection": "Sua cabeça é o lugar certo para guardar compromissos?"
+      },
+      {
+        "type": "myth",
         "title": "Organizar é perda de tempo",
         "text": "Organizar bem economiza tempo de decisão repetida depois.",
         "reflection": "Você gasta mais tempo decidindo do que organizando?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Getting Things Done: A Arte da Produtividade sem Estresse resiste ao senso comum",
+        "text": "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen sustenta que david allen revolucionou a produtividade com 'getting things done' (gtd), um método baseado numa ideia simples e profunda: a mente é para ter ideias, não para guardá-las — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "David Allen revolucionou a produtividade com 'Getting Things Done' (GTD), um método baseado numa ideia simples e profunda: a mente é para ter ideias, não para guardá-las. A tese é que o estresse e a procrastinação vêm de compromissos vagos e não fechados guardados na cabeça; ao capturar tudo num sistema externo confiável e decidir a próxima ação de cada item, ganha-se clareza e foco. O processo tem cinco etapas — capturar, clarificar, organizar, refletir e engajar — e distingue o que é 'fazer' de 'algum dia/talvez'. Allen defende que produtividade real é liberdade para estar presente, não fazer mais. O gancho é prático: sua cabeça não é arquivo; confie a ela um sistema e recupere a capacidade de pensar no que importa. Allen detalha como aplicar o método em equipes e na vida pessoal, com exemplos concretos de listas e revisões. O livro virou referência mundial porque resolve o problema real: a mente não foi feita para ser arquivo.",
@@ -42127,33 +42444,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A próxima ação é a chave de tudo; sem ela, nada se move.",
         "autor": "David Allen",
         "obra": "Getting Things Done"
-      },
-      {
-        "texto": "Produtividade é a capacidade de fazer o que você decidiu, quando decidiu.",
-        "autor": "David Allen",
-        "obra": "Getting Things Done"
-      },
-      {
-        "texto": "Uma revisão semanal é o que mantém o sistema vivo e confiável.",
-        "autor": "David Allen",
-        "obra": "Getting Things Done"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Depois de implementar a revisão semanal, parei de esquecer compromissos.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "O conceito da próxima ação mudou minha execução no trabalho.",
-        "autor": "Gerente de projetos",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Método que funciona sem app específico; papel e caneta bastam.",
         "autor": "Leitor",
-        "fonte": "Amazon"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -42169,9 +42471,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capture tudo",
         "text": "Anote cada compromisso, ideia e pendência num coletor único confiável.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Capture tudo\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Anote cada compromisso, ideia e pendência num coletor único confiável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Capture tudo\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Capture tudo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Anote cada compromisso, ideia e pendência num coletor único confiável — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Capture tudo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42179,9 +42481,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Clarifique a próxima ação",
         "text": "Para cada item, defina a ação física seguinte ou descarte-o.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Clarifique a próxima ação\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Para cada item, defina a ação física seguinte ou descarte-o — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Clarifique a próxima ação\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Clarifique a próxima ação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Para cada item, defina a ação física seguinte ou descarte-o — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Clarifique a próxima ação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42189,9 +42491,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Organize por contexto",
         "text": "Listas por local e ferramenta tornam a execução automática.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Organize por contexto\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Listas por local e ferramenta tornam a execução automática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Organize por contexto\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Organize por contexto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Listas por local e ferramenta tornam a execução automática — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Organize por contexto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42199,9 +42501,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça a revisão semanal",
         "text": "Um ritual semanal mantém o sistema atualizado e a confiança intacta.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Faça a revisão semanal\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Um ritual semanal mantém o sistema atualizado e a confiança intacta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça a revisão semanal\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Faça a revisão semanal\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Um ritual semanal mantém o sistema atualizado e a confiança intacta — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Faça a revisão semanal\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42209,9 +42511,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aplique a regra de dois minutos",
         "text": "Se leva menos de dois minutos, execute imediatamente.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Aplique a regra de dois minutos\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Se leva menos de dois minutos, execute imediatamente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aplique a regra de dois minutos\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Aplique a regra de dois minutos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Se leva menos de dois minutos, execute imediatamente — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Aplique a regra de dois minutos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42219,9 +42521,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Separe 'algum dia/talvez'",
         "text": "Guardar o não-agora fora da lista de ação reduz ruído.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Separe 'algum dia/talvez'\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Guardar o não-agora fora da lista de ação reduz ruído — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Separe 'algum dia/talvez'\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Separe 'algum dia/talvez'\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Guardar o não-agora fora da lista de ação reduz ruído — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Separe 'algum dia/talvez'\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42229,9 +42531,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a lista 'esperando'",
         "text": "Acompanhar delegações sem microgerenciar mantém o controle.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Use a lista 'esperando'\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Acompanhar delegações sem microgerenciar mantém o controle — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a lista 'esperando'\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Use a lista 'esperando'\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acompanhar delegações sem microgerenciar mantém o controle — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Use a lista 'esperando'\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42239,9 +42541,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina resultados de projeto",
         "text": "Cada projeto precisa de resultado desejado e próximas ações.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Defina resultados de projeto\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Cada projeto precisa de resultado desejado e próximas ações — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina resultados de projeto\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Defina resultados de projeto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada projeto precisa de resultado desejado e próximas ações — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Defina resultados de projeto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42249,9 +42551,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Libere a mente",
         "text": "Confiar o armazenamento a um sistema devolve capacidade de pensar.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Libere a mente\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Confiar o armazenamento a um sistema devolve capacidade de pensar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Libere a mente\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Libere a mente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Confiar o armazenamento a um sistema devolve capacidade de pensar — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Libere a mente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42259,9 +42561,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Esteja presente",
         "text": "GTD visa liberdade para focar no que está à frente, não multitarefa.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Esteja presente\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: GTD visa liberdade para focar no que está à frente, não multitarefa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Esteja presente\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Esteja presente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "GTD visa liberdade para focar no que está à frente, não multitarefa — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Esteja presente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42269,9 +42571,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Feche os ciclos",
         "text": "Concluir e arquivar itens evita a tensão de compromissos abertos.",
         "explicacoes": [
-          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Feche os ciclos\" como peça-chave para o sistema de organização para a mente livre.",
-          "Na prática: Concluir e arquivar itens evita a tensão de compromissos abertos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Feche os ciclos\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Feche os ciclos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Concluir e arquivar itens evita a tensão de compromissos abertos — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Feche os ciclos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Revisão semanal mantém a mente limpa",
+        "text": "Allen defende uma triagem fixa para evitar acúmulo de pendências na cabeça.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen coloca \"Revisão semanal mantém a mente limpa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Allen defende uma triagem fixa para evitar acúmulo de pendências na cabeça — traduzido para a prática, é o passo concreto que liga a teoria de David Allen ao comportamento diário.",
+          "Ignorar \"Revisão semanal mantém a mente limpa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -42305,6 +42617,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Allen introduz a ideia de externalizar a memória para clareza.",
             "f": "Na visão de David Allen, \"clareza\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
             "real": false
+          },
+          {
+            "t": "A prótese do cérebro",
+            "e": "Allen introduz a ideia de externalizar a memória para clareza.",
+            "f": "Na visão de David Allen, a prótese do cérebro é o ponto central deste capítulo de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
           }
         ]
       },
@@ -42322,6 +42640,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Vazio mental",
             "e": "Coletar tudo que demanda atenção num único lugar.",
             "f": "Na visão de David Allen, \"vazio mental\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Capturar",
+            "e": "Coletar tudo que demanda atenção num único lugar.",
+            "f": "Na visão de David Allen, capturar é o ponto central deste capítulo de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
             "real": false
           }
         ]
@@ -42341,6 +42665,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Decidir significado e próxima ação de cada item.",
             "f": "Na visão de David Allen, \"descarte\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
             "real": false
+          },
+          {
+            "t": "Clarificar",
+            "e": "Decidir significado e próxima ação de cada item.",
+            "f": "Na visão de David Allen, clarificar é o ponto central deste capítulo de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
           }
         ]
       },
@@ -42358,6 +42688,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Listas",
             "e": "Listas de projetos, ação, esperando e algum dia.",
             "f": "Na visão de David Allen, \"listas\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Organizar",
+            "e": "Listas de projetos, ação, esperando e algum dia.",
+            "f": "Na visão de David Allen, organizar é o ponto central deste capítulo de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
             "real": false
           }
         ]
@@ -42377,6 +42713,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A revisão semanal como manutenção do sistema.",
             "f": "Na visão de David Allen, \"confiança\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
             "real": false
+          },
+          {
+            "t": "Refletir",
+            "e": "A revisão semanal como manutenção do sistema.",
+            "f": "Na visão de David Allen, refletir é o ponto central deste capítulo de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
           }
         ]
       },
@@ -42394,6 +42736,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Foco",
             "e": "Escolher a ação certa pelo contexto e energia.",
             "f": "Na visão de David Allen, \"foco\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Engajar",
+            "e": "Escolher a ação certa pelo contexto e energia.",
+            "f": "Na visão de David Allen, engajar é o ponto central deste capítulo de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
             "real": false
           }
         ]
@@ -42413,6 +42761,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Estruturar resultados e passos de projetos.",
             "f": "Na visão de David Allen, \"planos\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
             "real": false
+          },
+          {
+            "t": "Projetos",
+            "e": "Estruturar resultados e passos de projetos.",
+            "f": "Na visão de David Allen, projetos é o ponto central deste capítulo de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
           }
         ]
       },
@@ -42431,6 +42785,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como GTD libera presença e reduz ansiedade.",
             "f": "Na visão de David Allen, \"calma\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
             "real": false
+          },
+          {
+            "t": "O estado de fluxo",
+            "e": "Como GTD libera presença e reduz ansiedade.",
+            "f": "Na visão de David Allen, o estado de fluxo é o ponto central deste capítulo de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
           }
         ]
       },
@@ -42448,6 +42808,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Hábito",
             "e": "Passos para iniciar o método na vida real.",
             "f": "Na visão de David Allen, \"hábito\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Implementando",
+            "e": "Passos para iniciar o método na vida real.",
+            "f": "Na visão de David Allen, implementando é o ponto central deste capítulo de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
             "real": false
           }
         ]
@@ -42471,12 +42837,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Produtividade é fazer mais",
-        "text": "Bailey conclui que é fazer o que importa com atenção, não acumular tarefas.",
-        "reflection": "Você mede produtividade por volume ou por relevância?"
-      },
-      {
         "type": "truth",
         "title": "Atenção vale mais que tempo",
         "text": "Horas livres sem foco viram nada; atenção converte tempo em resultado.",
@@ -42484,9 +42844,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Multitarefa funciona",
-        "text": "Os testes mostram que trocar de tarefa destrói foco e qualidade.",
-        "reflection": "Você se orgulha de multitarefa sem notar o custo?"
+        "title": "Produtividade é fazer mais",
+        "text": "Bailey conclui que é fazer o que importa com atenção, não acumular tarefas.",
+        "reflection": "Você mede produtividade por volume ou por relevância?"
       },
       {
         "type": "truth",
@@ -42496,9 +42856,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "A app certa resolve",
-        "text": "Nenhuma ferramenta supera gerenciar os três recursos básicos.",
-        "reflection": "Você caça app nova em vez de gerir atenção?"
+        "title": "Multitarefa funciona",
+        "text": "Os testes mostram que trocar de tarefa destrói foco e qualidade.",
+        "reflection": "Você se orgulha de multitarefa sem notar o custo?"
       },
       {
         "type": "truth",
@@ -42508,9 +42868,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Trabalhar mais horas entrega mais",
-        "text": "Bailey provou que além de certo ponto, horas extras reduzem retorno.",
-        "reflection": "Você confunde horas à mesa com resultado entregue?"
+        "title": "A app certa resolve",
+        "text": "Nenhuma ferramenta supera gerenciar os três recursos básicos.",
+        "reflection": "Você caça app nova em vez de gerir atenção?"
       },
       {
         "type": "truth",
@@ -42520,9 +42880,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Checar e-mail rápido não custa",
-        "text": "Interrupções fragmentam o cérebro por muito além do minuto.",
-        "reflection": "Você acha que 'só olhar' o celular é grátis?"
+        "title": "Trabalhar mais horas entrega mais",
+        "text": "Bailey provou que além de certo ponto, horas extras reduzem retorno.",
+        "reflection": "Você confunde horas à mesa com resultado entregue?"
       },
       {
         "type": "truth",
@@ -42532,9 +42892,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Informação é sempre útil",
-        "text": "Dietas de informação mostraram ganho de clareza ao consumir menos.",
-        "reflection": "Você consome conteúdo que não serve a nada?"
+        "title": "Checar e-mail rápido não custa",
+        "text": "Interrupções fragmentam o cérebro por muito além do minuto.",
+        "reflection": "Você acha que 'só olhar' o celular é grátis?"
       },
       {
         "type": "truth",
@@ -42544,9 +42904,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Informação é sempre útil",
+        "text": "Dietas de informação mostraram ganho de clareza ao consumir menos.",
+        "reflection": "Você consome conteúdo que não serve a nada?"
+      },
+      {
+        "type": "truth",
+        "title": "Produtividade sem propósito é ruído",
+        "text": "Bailey propõe pausar o tempo para descobrir o que realmente merece ser feito.",
+        "reflection": "Você é ocupado com o urgente ou com o essencial?"
+      },
+      {
+        "type": "myth",
         "title": "Foco é traço fixo",
         "text": "Atenção é treinável; reduzir distrações a melhora visivelmente.",
         "reflection": "Você culpa 'falta de foco' sem treiná-lo?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa resiste ao senso comum",
+        "text": "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey sustenta que chris bailey virou cobaia da própria produtividade por um ano e narra os achados em 'o projeto produtividade' — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Chris Bailey virou cobaia da própria produtividade por um ano e narra os achados em 'O Projeto Produtividade'. A tese é honesta: produtividade não é fazer mais, é fazer o que importa, e ela depende de três recursos — tempo, atenção e energia. Bailey testou jejum de tecnologia, horas extremas de trabalho, diets de informação e descobriu que atenção supera tempo: horas livres viram nada sem foco. Ele defende o 'pareamento intencional' (alinhar tarefa, tempo, energia e atenção) e mostra que intervalos, sono e monotarefa ganham de multitarefa. O gancho é desmistificar hacks: o segredo não é uma app, é gerenciar a atenção. Livro de experimentos reais, fala a quem busca foco num mundo de distrações. Os experimentos incluem semanas sem tecnologia, dietas de informação e jornadas extremas, todos narrados com honestidade sobre o que falhou. O resultado é um guia baseado em evidência pessoal e não em promessas de produtividade mágica.",
@@ -42567,33 +42945,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Trabalhar mais horas raramente entrega proporcionalmente mais.",
         "autor": "Chris Bailey",
         "obra": "The Productivity Project"
-      },
-      {
-        "texto": "A monotarefa derrota a multitarefa em quase todo cenário.",
-        "autor": "Chris Bailey",
-        "obra": "The Productivity Project"
-      },
-      {
-        "texto": "Você não precisa de mais tempo; precisa de mais atenção.",
-        "autor": "Chris Bailey",
-        "obra": "The Productivity Project"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Gostei que ele testou na própria pele; dados reais, não palestra.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "A parte da atenção valer mais que tempo mudou meu dia.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "Leitura leve e aplicável; ótimo para quem vive de notificação.",
-        "autor": "Leitor",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -42609,9 +42972,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja a atenção",
         "text": "Trate atenção como recurso finito; corte notificações e decisões triviais.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Proteja a atenção\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Trate atenção como recurso finito; corte notificações e decisões triviais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja a atenção\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Proteja a atenção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trate atenção como recurso finito; corte notificações e decisões triviais — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Proteja a atenção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42619,9 +42982,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Gerencie energia",
         "text": "Agende tarefas difíceis nos picos de energia e leves nos vales.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Gerencie energia\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Agende tarefas difíceis nos picos de energia e leves nos vales — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Gerencie energia\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Gerencie energia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Agende tarefas difíceis nos picos de energia e leves nos vales — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Gerencie energia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42629,9 +42992,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique monotarefa",
         "text": "Uma tarefa por vez entrega mais e com melhor qualidade que multitarefa.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Pratique monotarefa\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Uma tarefa por vez entrega mais e com melhor qualidade que multitarefa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique monotarefa\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Pratique monotarefa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma tarefa por vez entrega mais e com melhor qualidade que multitarefa — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Pratique monotarefa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42639,9 +43002,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pareie intencionalmente",
         "text": "Alinhar tarefa, horário, energia e atenção multiplica o resultado.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Pareie intencionalmente\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Alinhar tarefa, horário, energia e atenção multiplica o resultado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pareie intencionalmente\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Pareie intencionalmente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Alinhar tarefa, horário, energia e atenção multiplica o resultado — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Pareie intencionalmente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42649,9 +43012,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça pausas",
         "text": "Intervalos regulares sustentam foco ao longo do dia.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Faça pausas\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Intervalos regulares sustentam foco ao longo do dia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça pausas\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Faça pausas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Intervalos regulares sustentam foco ao longo do dia — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Faça pausas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42659,9 +43022,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza o ruído informacional",
         "text": "Consumir menos conteúdo eleva a clareza e o pensamento.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Reduza o ruído informacional\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Consumir menos conteúdo eleva a clareza e o pensamento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza o ruído informacional\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Reduza o ruído informacional\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Consumir menos conteúdo eleva a clareza e o pensamento — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Reduza o ruído informacional\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42669,9 +43032,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o devaneio",
         "text": "Ócio estratégico recarrega criatividade e atenção.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Use o devaneio\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Ócio estratégico recarrega criatividade e atenção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o devaneio\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Use o devaneio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ócio estratégico recarrega criatividade e atenção — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Use o devaneio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42679,9 +43042,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Limite horas extras",
         "text": "Além do ponto ótimo, mais horas diminuem a produtividade real.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Limite horas extras\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Além do ponto ótimo, mais horas diminuem a produtividade real — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Limite horas extras\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Limite horas extras\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Além do ponto ótimo, mais horas diminuem a produtividade real — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Limite horas extras\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42689,9 +43052,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje o dia à noite",
         "text": "Decidir à noite o essencial libera atenção pela manhã.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Planeje o dia à noite\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Decidir à noite o essencial libera atenção pela manhã — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje o dia à noite\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Planeje o dia à noite\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Decidir à noite o essencial libera atenção pela manhã — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Planeje o dia à noite\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42699,9 +43062,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça por relevância",
         "text": "Avalie o dia pelo que importou, não pelo que foi feito.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Meça por relevância\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Avalie o dia pelo que importou, não pelo que foi feito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça por relevância\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Meça por relevância\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Avalie o dia pelo que importou, não pelo que foi feito — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Meça por relevância\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -42709,9 +43072,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine o foco",
         "text": "Reduzir distrações progressivamente fortalece a atenção.",
         "explicacoes": [
-          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Treine o foco\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
-          "Na prática: Reduzir distrações progressivamente fortalece a atenção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine o foco\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Treine o foco\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduzir distrações progressivamente fortalece a atenção — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Treine o foco\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Atenção é o recurso mais escasso",
+        "text": "Bailey conclui que proteger o foco vale mais que qualquer nova ferramenta.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey coloca \"Atenção é o recurso mais escasso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Bailey conclui que proteger o foco vale mais que qualquer nova ferramenta — traduzido para a prática, é o passo concreto que liga a teoria de Chris Bailey ao comportamento diário.",
+          "Ignorar \"Atenção é o recurso mais escasso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -42745,6 +43118,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Bailey apresenta o projeto de virar cobaia da produtividade.",
             "f": "Na visão de Chris Bailey, \"hipóteses\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
             "real": false
+          },
+          {
+            "t": "O ano de experimentos",
+            "e": "Bailey apresenta o projeto de virar cobaia da produtividade.",
+            "f": "Na visão de Chris Bailey, o ano de experimentos é o ponto central deste capítulo de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
           }
         ]
       },
@@ -42763,6 +43142,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Os três recursos que definem produtividade real.",
             "f": "Atenção é o recurso mais valioso que temos, e o mais desperdiçado.",
             "real": true
+          },
+          {
+            "t": "Tempo, atenção, energia",
+            "e": "Os três recursos que definem produtividade real.",
+            "f": "Na visão de Chris Bailey, tempo, atenção, energia é o ponto central deste capítulo de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
           }
         ]
       },
@@ -42780,6 +43165,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Custo",
             "e": "Resultados de afastar telas e notificações.",
             "f": "Na visão de Chris Bailey, \"custo\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Jejum de tecnologia",
+            "e": "Resultados de afastar telas e notificações.",
+            "f": "Na visão de Chris Bailey, jejum de tecnologia é o ponto central deste capítulo de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
             "real": false
           }
         ]
@@ -42799,6 +43190,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O que acontece ao forçar jornadas longas.",
             "f": "Na visão de Chris Bailey, \"energia\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
             "real": false
+          },
+          {
+            "t": "Horas extremas",
+            "e": "O que acontece ao forçar jornadas longas.",
+            "f": "Na visão de Chris Bailey, horas extremas é o ponto central deste capítulo de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
           }
         ]
       },
@@ -42816,6 +43213,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Clareza",
             "e": "Consumir menos para pensar melhor.",
             "f": "Na visão de Chris Bailey, \"clareza\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Dieta de informação",
+            "e": "Consumir menos para pensar melhor.",
+            "f": "Na visão de Chris Bailey, dieta de informação é o ponto central deste capítulo de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
             "real": false
           }
         ]
@@ -42835,6 +43238,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Testes contra a multitarefa.",
             "f": "Na visão de Chris Bailey, \"qualidade\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
             "real": false
+          },
+          {
+            "t": "Monotarefa",
+            "e": "Testes contra a multitarefa.",
+            "f": "Na visão de Chris Bailey, monotarefa é o ponto central deste capítulo de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
           }
         ]
       },
@@ -42852,6 +43261,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Recuperação",
             "e": "Como descanso sustenta atenção.",
             "f": "Na visão de Chris Bailey, \"recuperação\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Pausas e sono",
+            "e": "Como descanso sustenta atenção.",
+            "f": "Na visão de Chris Bailey, pausas e sono é o ponto central deste capítulo de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
             "real": false
           }
         ]
@@ -42871,6 +43286,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Alinhar os quatro fatores para execução ótima.",
             "f": "Na visão de Chris Bailey, \"resultado\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
             "real": false
+          },
+          {
+            "t": "Pareamento intencional",
+            "e": "Alinhar os quatro fatores para execução ótima.",
+            "f": "Na visão de Chris Bailey, pareamento intencional é o ponto central deste capítulo de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
           }
         ]
       },
@@ -42888,6 +43309,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Mitos",
             "e": "Síntese do que vale e do que é mito.",
             "f": "Na visão de Chris Bailey, \"mitos\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Conclusões",
+            "e": "Síntese do que vale e do que é mito.",
+            "f": "Na visão de Chris Bailey, conclusões é o ponto central deste capítulo de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
             "real": false
           }
         ]
@@ -42911,12 +43338,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Confiança vem antes da ação",
-        "text": "Harris mostra que agir primeiro, com medo, é o caminho; esperar confiança paralisa.",
-        "reflection": "Você espera sentir segurança antes de fazer o que importa?"
-      },
-      {
         "type": "truth",
         "title": "A confiança é irrelevante",
         "text": "O que importa é agir por valores, independentemente do nível de confiança.",
@@ -42924,9 +43345,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Pensamentos negativos são verdades",
-        "text": "Defusão ensina ver pensamentos como eventos mentais, não comandos.",
-        "reflection": "Você obedece a pensamentos de 'não sou capaz'?"
+        "title": "Confiança vem antes da ação",
+        "text": "Harris mostra que agir primeiro, com medo, é o caminho; esperar confiança paralisa.",
+        "reflection": "Você espera sentir segurança antes de fazer o que importa?"
       },
       {
         "type": "truth",
@@ -42936,9 +43357,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sentir medo significa que não dá",
-        "text": "Medo acompanha ação importante; ausência dele não é pré-requisito.",
-        "reflection": "Você leu o medo como sinal de incapacidade?"
+        "title": "Pensamentos negativos são verdades",
+        "text": "Defusão ensina ver pensamentos como eventos mentais, não comandos.",
+        "reflection": "Você obedece a pensamentos de 'não sou capaz'?"
       },
       {
         "type": "truth",
@@ -42948,9 +43369,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Autoafirmação cura insegurança",
-        "text": "Repetir frases positivas pode aumentar a luta interna, não resolvê-la.",
-        "reflection": "Você mascara insegurança com frases vazias?"
+        "title": "Sentir medo significa que não dá",
+        "text": "Medo acompanha ação importante; ausência dele não é pré-requisito.",
+        "reflection": "Você leu o medo como sinal de incapacidade?"
       },
       {
         "type": "truth",
@@ -42960,9 +43381,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Evitar o medo protege",
-        "text": "Evitar reforça o medo; enfrentar guiado por valores o enfraquece.",
-        "reflection": "Sua evitação tem alimentado o que teme?"
+        "title": "Autoafirmação cura insegurança",
+        "text": "Repetir frases positivas pode aumentar a luta interna, não resolvê-la.",
+        "reflection": "Você mascara insegurança com frases vazias?"
       },
       {
         "type": "truth",
@@ -42972,9 +43393,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudar a mente muda a vida",
-        "text": "Harris foca em mudar a relação com a mente, não nela mesma.",
-        "reflection": "Você tenta apagar pensamentos em vez de mudar a relação?"
+        "title": "Evitar o medo protege",
+        "text": "Evitar reforça o medo; enfrentar guiado por valores o enfraquece.",
+        "reflection": "Sua evitação tem alimentado o que teme?"
       },
       {
         "type": "truth",
@@ -42984,9 +43405,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Mudar a mente muda a vida",
+        "text": "Harris foca em mudar a relação com a mente, não nela mesma.",
+        "reflection": "Você tenta apagar pensamentos em vez de mudar a relação?"
+      },
+      {
+        "type": "truth",
+        "title": "Ansiedade é aceitação, não controle",
+        "text": "Harris usa a TCC e o mindfulness para mostrar que lutar contra o medo o amplia.",
+        "reflection": "Você tenta vencer o medo ou aprender a caminhar com ele?"
+      },
+      {
+        "type": "myth",
         "title": "Coragem é ausência de medo",
         "text": "Coragem é avançar carregando o medo, não estar livre dele.",
         "reflection": "Você espera ficar sem medo para ser corajoso?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança resiste ao senso comum",
+        "text": "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris sustenta que 'a lacuna da confiança', de russ harris, usa a terapia de aceitação e compromisso (act) para explicar por que a falta de confiança paralisa e como superá-la — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "'A Lacuna da Confiança', de Russ Harris, usa a Terapia de Aceitação e Compromisso (ACT) para explicar por que a falta de confiança paralisa e como superá-la. A tese é contraintuitiva: confiança não vem antes da ação, vem dela — ou melhor, a confiança é irrelevante; o que importa é agir guiado por valores, mesmo com medo e dúvida presentes. Harris desmonta a 'armadilha da confiança': esperar sentir-se seguro para agir garante estagnação. Ele ensina defusão cognitiva (ver pensamentos como eventos mentais, não verdades), expansão emocional (abrir espaço para a ansiedade) e conexão com valores. O gancho é libertador: não precisa vencer a insegurança para viver plenamente; basta carregá-la e seguir em direção ao que importa. Usando a Terapia de Aceitação e Compromisso, o autor entrega exercícios de defusão e expansão em linguagem acessível. Sua tese libertadora é que confiança é irrelevante: o que importa é agir pelos valores mesmo carregando o medo.",
@@ -43007,33 +43446,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Pensamentos são eventos mentais, não comandos que você precisa obedecer.",
         "autor": "Russ Harris",
         "obra": "The Confidence Gap"
-      },
-      {
-        "texto": "Abra espaço para a ansiedade; lutar contra ela a torna mais forte.",
-        "autor": "Russ Harris",
-        "obra": "The Confidence Gap"
-      },
-      {
-        "texto": "Ação guiada por valores, não por emoções, é a saída da lacuna.",
-        "autor": "Russ Harris",
-        "obra": "The Confidence Gap"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "ACT explicado sem jargão; finalmente entendi por que não agia.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "A ideia de que confiança é irrelevante me libertou de apresentações.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "Prático e compassivo; usei as técnicas de defusão com clientes.",
-        "autor": "Psicólogo",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -43049,9 +43473,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja antes da confiança",
         "text": "Não espere sentir segurança; mova-se em direção aos valores mesmo com medo.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Aja antes da confiança\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Não espere sentir segurança; mova-se em direção aos valores mesmo com medo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja antes da confiança\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Aja antes da confiança\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não espere sentir segurança; mova-se em direção aos valores mesmo com medo — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Aja antes da confiança\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43059,9 +43483,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a defusão",
         "text": "Rotule pensamentos como 'estou tendo o pensamento de...' para desarmá-los.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Pratique a defusão\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Rotule pensamentos como 'estou tendo o pensamento de...' para desarmá-los — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a defusão\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Pratique a defusão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Rotule pensamentos como 'estou tendo o pensamento de...' para desarmá-los — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Pratique a defusão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43069,9 +43493,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Expanda a emoção",
         "text": "Abra espaço interno para a ansiedade em vez de lutar contra ela.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Expanda a emoção\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Abra espaço interno para a ansiedade em vez de lutar contra ela — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Expanda a emoção\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Expanda a emoção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Abra espaço interno para a ansiedade em vez de lutar contra ela — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Expanda a emoção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43079,9 +43503,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conecte-se a valores",
         "text": "Definir o que importa dá bússola quando a confiança falta.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Conecte-se a valores\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Definir o que importa dá bússola quando a confiança falta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conecte-se a valores\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Conecte-se a valores\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Definir o que importa dá bússola quando a confiança falta — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Conecte-se a valores\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43089,9 +43513,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Note a armadilha",
         "text": "Reconhecer 'preciso de confiança para agir' é o primeiro passo de saída.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Note a armadilha\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Reconhecer 'preciso de confiança para agir' é o primeiro passo de saída — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Note a armadilha\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Note a armadilha\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer 'preciso de confiança para agir' é o primeiro passo de saída — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Note a armadilha\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43099,9 +43523,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o desconforto",
         "text": "Desconforto acompanhando ação importante é dado, não erro.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Aceite o desconforto\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Desconforto acompanhando ação importante é dado, não erro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o desconforto\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Aceite o desconforto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desconforto acompanhando ação importante é dado, não erro — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Aceite o desconforto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43109,9 +43533,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use compromisso",
         "text": "Comprometer-se com a ação supera o estado emocional variável.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Use compromisso\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Comprometer-se com a ação supera o estado emocional variável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use compromisso\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Use compromisso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comprometer-se com a ação supera o estado emocional variável — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Use compromisso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43119,9 +43543,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Observe, não obedeça",
         "text": "Ver a mente como comentarista reduz sua autoridade sobre você.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Observe, não obedeça\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Ver a mente como comentarista reduz sua autoridade sobre você — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Observe, não obedeça\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Observe, não obedeça\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ver a mente como comentarista reduz sua autoridade sobre você — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Observe, não obedeça\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43129,9 +43553,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Enfrente a evitação",
         "text": "Identificar o que você evita por medo e aproximar-se gradualmente.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Enfrente a evitação\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Identificar o que você evita por medo e aproximar-se gradualmente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Enfrente a evitação\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Enfrente a evitação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identificar o que você evita por medo e aproximar-se gradualmente — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Enfrente a evitação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43139,9 +43563,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Celebre passos pequenos",
         "text": "Reconhecer avanços reforça a disposição de agir com medo.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Celebre passos pequenos\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Reconhecer avanços reforça a disposição de agir com medo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Celebre passos pequenos\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Celebre passos pequenos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer avanços reforça a disposição de agir com medo — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Celebre passos pequenos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43149,9 +43573,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Coragem é carregar o medo",
         "text": "Avançar apesar do medo é a definição prática de coragem.",
         "explicacoes": [
-          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Coragem é carregar o medo\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
-          "Na prática: Avançar apesar do medo é a definição prática de coragem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Coragem é carregar o medo\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"Coragem é carregar o medo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Avançar apesar do medo é a definição prática de coragem — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"Coragem é carregar o medo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "O medo perde força quando observado",
+        "text": "Harris mostra que defusar a emoção a torna gerenciável, não ameaçadora.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris coloca \"O medo perde força quando observado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Harris mostra que defusar a emoção a torna gerenciável, não ameaçadora — traduzido para a prática, é o passo concreto que liga a teoria de Russ Harris ao comportamento diário.",
+          "Ignorar \"O medo perde força quando observado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -43185,6 +43619,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Harris descreve como esperar confiança paralisa a vida.",
             "f": "Na visão de Russ Harris, \"a paralisia\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
             "real": false
+          },
+          {
+            "t": "A armadilha",
+            "e": "Harris descreve como esperar confiança paralisa a vida.",
+            "f": "Na visão de Russ Harris, a armadilha é o ponto central deste capítulo de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
           }
         ]
       },
@@ -43202,6 +43642,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Normalidade",
             "e": "Como o cérebro gera ansiedade e por que ela acompanha ação.",
             "f": "Na visão de Russ Harris, \"normalidade\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          },
+          {
+            "t": "A ciência do medo",
+            "e": "Como o cérebro gera ansiedade e por que ela acompanha ação.",
+            "f": "Na visão de Russ Harris, a ciência do medo é o ponto central deste capítulo de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
             "real": false
           }
         ]
@@ -43221,6 +43667,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Técnicas para ver pensamentos como eventos, não verdades.",
             "f": "Na visão de Russ Harris, \"distância\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
             "real": false
+          },
+          {
+            "t": "Defusão",
+            "e": "Técnicas para ver pensamentos como eventos, não verdades.",
+            "f": "Na visão de Russ Harris, defusão é o ponto central deste capítulo de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
           }
         ]
       },
@@ -43238,6 +43690,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Aceitação",
             "e": "Acolher emoções difíceis em vez de evitá-las.",
             "f": "Na visão de Russ Harris, \"aceitação\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          },
+          {
+            "t": "Expansão",
+            "e": "Acolher emoções difíceis em vez de evitá-las.",
+            "f": "Na visão de Russ Harris, expansão é o ponto central deste capítulo de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
             "real": false
           }
         ]
@@ -43257,6 +43715,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Descobrir o que importa para dar direção à ação.",
             "f": "Na visão de Russ Harris, \"compromisso\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
             "real": false
+          },
+          {
+            "t": "Valores",
+            "e": "Descobrir o que importa para dar direção à ação.",
+            "f": "Na visão de Russ Harris, valores é o ponto central deste capítulo de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
           }
         ]
       },
@@ -43275,6 +43739,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mover-se pelos valores mesmo com medo presente.",
             "f": "Ação guiada por valores, não por emoções, é a saída da lacuna.",
             "real": true
+          },
+          {
+            "t": "Ação engajada",
+            "e": "Mover-se pelos valores mesmo com medo presente.",
+            "f": "Na visão de Russ Harris, ação engajada é o ponto central deste capítulo de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
           }
         ]
       },
@@ -43292,6 +43762,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Processo",
             "e": "Por que buscar confiança fixa falha e o que fazer.",
             "f": "Na visão de Russ Harris, \"processo\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          },
+          {
+            "t": "O mito da autoestima",
+            "e": "Por que buscar confiança fixa falha e o que fazer.",
+            "f": "Na visão de Russ Harris, o mito da autoestima é o ponto central deste capítulo de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
             "real": false
           }
         ]
@@ -43311,6 +43787,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Reduzir evitação progressivamente para recuperar vida.",
             "f": "Na visão de Russ Harris, \"liberdade\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
             "real": false
+          },
+          {
+            "t": "Enfrentando evitação",
+            "e": "Reduzir evitação progressivamente para recuperar vida.",
+            "f": "Na visão de Russ Harris, enfrentando evitação é o ponto central deste capítulo de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
           }
         ]
       },
@@ -43328,6 +43810,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Valores",
             "e": "Integrar as ferramentas numa prática contínua.",
             "f": "Na visão de Russ Harris, \"valores\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          },
+          {
+            "t": "Vivendo a lacuna",
+            "e": "Integrar as ferramentas numa prática contínua.",
+            "f": "Na visão de Russ Harris, vivendo a lacuna é o ponto central deste capítulo de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
             "real": false
           }
         ]
