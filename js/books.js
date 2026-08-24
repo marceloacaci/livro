@@ -44207,57 +44207,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Pratique a presença informal",
-        "text": "Use atividades comuns — louça, caminhada — como momento de atenção."
+        "text": "Use atividades comuns — louça, caminhada — como momento de atenção.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Pratique a presença informal\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: Use atividades comuns — louça, caminhada — como momento de atenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a presença informal\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Saia do piloto automático",
-        "text": "Notar que está no automático já é o primeiro passo de volta."
+        "text": "Notar que está no automático já é o primeiro passo de volta.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Saia do piloto automático\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: Notar que está no automático já é o primeiro passo de volta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Saia do piloto automático\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Ancore no corpo",
-        "text": "Sentir o corpo traz a mente de volta ao presente."
+        "text": "Sentir o corpo traz a mente de volta ao presente.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Ancore no corpo\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: Sentir o corpo traz a mente de volta ao presente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ancore no corpo\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Use a respiração",
-        "text": "A respiração é âncora portátil disponível a qualquer hora."
+        "text": "A respiração é âncora portátil disponível a qualquer hora.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Use a respiração\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: A respiração é âncora portátil disponível a qualquer hora — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a respiração\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Observe sem julgar",
-        "text": "Notar pensamentos e sensações sem rotulá-los libera tensão."
+        "text": "Notar pensamentos e sensações sem rotulá-los libera tensão.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Observe sem julgar\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: Notar pensamentos e sensações sem rotulá-los libera tensão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Observe sem julgar\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Aceite o que é",
-        "text": "Acolher a experiência como é reduz a luta interna."
+        "text": "Acolher a experiência como é reduz a luta interna.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Aceite o que é\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: Acolher a experiência como é reduz a luta interna — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o que é\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Comece pequeno",
-        "text": "Poucos minutos já treinam o músculo da atenção."
+        "text": "Poucos minutos já treinam o músculo da atenção.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Comece pequeno\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: Poucos minutos já treinam o músculo da atenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece pequeno\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Traga gentileza",
-        "text": "Tratar-se com bondade sustenta a prática sem culpa."
+        "text": "Tratar-se com bondade sustenta a prática sem culpa.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Traga gentileza\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: Tratar-se com bondade sustenta a prática sem culpa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Traga gentileza\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Encontre o profundo no trivial",
-        "text": "O sagrado habita o detalhe quando se presta atenção."
+        "text": "O sagrado habita o detalhe quando se presta atenção.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Encontre o profundo no trivial\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: O sagrado habita o detalhe quando se presta atenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Encontre o profundo no trivial\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Persista sem pressa",
-        "text": "Mindfulness amadurece com continuidade, não intensidade."
+        "text": "Mindfulness amadurece com continuidade, não intensidade.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Persista sem pressa\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: Mindfulness amadurece com continuidade, não intensidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Persista sem pressa\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Enfrente, não fuja",
-        "text": "Presença é clareza diante da realidade, não fuga."
+        "text": "Presença é clareza diante da realidade, não fuga.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Enfrente, não fuja\" como peça-chave para a cura pela mente e o poder da crença.",
+          "Na prática: Presença é clareza diante da realidade, não fuga — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Enfrente, não fuja\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -44279,72 +44334,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Acordar",
         "text": "Kabat-Zinn abre convidando a sair do piloto automático.",
         "points": [
-          "Presença",
-          "Autopiloto"
+          {
+            "t": "Presença",
+            "e": "Kabat-Zinn abre convidando a sair do piloto automático.",
+            "f": "Na visão de Jon Kabat-Zinn, \"presença\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Autopiloto",
+            "e": "Kabat-Zinn abre convidando a sair do piloto automático.",
+            "f": "Na visão de Jon Kabat-Zinn, \"autopiloto\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O que é mindfulness",
         "text": "Atenção no agora sem julgamento, definida com simplicidade.",
         "points": [
-          "Definição",
-          "Sem julgar"
+          {
+            "t": "Definição",
+            "e": "Atenção no agora sem julgamento, definida com simplicidade.",
+            "f": "Na visão de Jon Kabat-Zinn, \"definição\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Sem julgar",
+            "e": "Atenção no agora sem julgamento, definida com simplicidade.",
+            "f": "Na visão de Jon Kabat-Zinn, \"sem julgar\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O corpo",
         "text": "O corpo como âncora da atenção.",
         "points": [
-          "Ancoragem",
-          "Sensação"
+          {
+            "t": "Ancoragem",
+            "e": "O corpo como âncora da atenção.",
+            "f": "Na visão de Jon Kabat-Zinn, \"ancoragem\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Sensação",
+            "e": "O corpo como âncora da atenção.",
+            "f": "Na visão de Jon Kabat-Zinn, \"sensação\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A respiração",
         "text": "A respiração como prática portátil.",
         "points": [
-          "Âncora",
-          "Calma"
+          {
+            "t": "Âncora",
+            "e": "A respiração como prática portátil.",
+            "f": "Na visão de Jon Kabat-Zinn, \"âncora\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Calma",
+            "e": "A respiração como prática portátil.",
+            "f": "Na visão de Jon Kabat-Zinn, \"calma\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Sem julgamento",
         "text": "Observar experiências sem rotulá-las.",
         "points": [
-          "Acolhimento",
-          "Clareza"
+          {
+            "t": "Acolhimento",
+            "e": "Observar experiências sem rotulá-las.",
+            "f": "Na visão de Jon Kabat-Zinn, \"acolhimento\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Clareza",
+            "e": "Observar experiências sem rotulá-las.",
+            "f": "Na visão de Jon Kabat-Zinn, \"clareza\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Práticas informais",
         "text": "Mindfulness na louça, caminhada e rotina.",
         "points": [
-          "Trivial",
-          "Profundidade"
+          {
+            "t": "Trivial",
+            "e": "Mindfulness na louça, caminhada e rotina.",
+            "f": "Na visão de Jon Kabat-Zinn, \"trivial\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Profundidade",
+            "e": "Mindfulness na louça, caminhada e rotina.",
+            "f": "Na visão de Jon Kabat-Zinn, \"profundidade\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Gentileza",
         "text": "A bondade consigo sustenta a prática.",
         "points": [
-          "Autocuidado",
-          "Persistência"
+          {
+            "t": "Autocuidado",
+            "e": "A bondade consigo sustenta a prática.",
+            "f": "Na visão de Jon Kabat-Zinn, \"autocuidado\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Persistência",
+            "e": "A bondade consigo sustenta a prática.",
+            "f": "Na visão de Jon Kabat-Zinn, \"persistência\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O agora",
         "text": "O presente como única porta da vida.",
         "points": [
-          "Presente",
-          "Vida"
+          {
+            "t": "Presente",
+            "e": "O presente como única porta da vida.",
+            "f": "A atenção plena é a única porta para a vida que está acontecendo agora.",
+            "real": true
+          },
+          {
+            "t": "Vida",
+            "e": "O presente como única porta da vida.",
+            "f": "Na visão de Jon Kabat-Zinn, \"vida\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Integrar",
         "text": "Levar presença para relações e trabalho.",
         "points": [
-          "Relação",
-          "Trabalho"
+          {
+            "t": "Relação",
+            "e": "Levar presença para relações e trabalho.",
+            "f": "Na visão de Jon Kabat-Zinn, \"relação\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Trabalho",
+            "e": "Levar presença para relações e trabalho.",
+            "f": "Na visão de Jon Kabat-Zinn, \"trabalho\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -44502,57 +44647,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Compre o mercado",
-        "text": "Fundos indexados de baixo custo entregam o retorno do mercado como um todo."
+        "text": "Fundos indexados de baixo custo entregam o retorno do mercado como um todo.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Compre o mercado\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Fundos indexados de baixo custo entregam o retorno do mercado como um todo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Compre o mercado\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Minimize custos",
-        "text": "Taxas e impostos são certos; reduzi-los é a alavanca que você controla."
+        "text": "Taxas e impostos são certos; reduzi-los é a alavanca que você controla.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Minimize custos\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Taxas e impostos são certos; reduzi-los é a alavanca que você controla — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Minimize custos\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Diversifique amplamente",
-        "text": "Ter o índice inteiro elimina o risco de escolha individual errada."
+        "text": "Ter o índice inteiro elimina o risco de escolha individual errada.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Diversifique amplamente\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Ter o índice inteiro elimina o risco de escolha individual errada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diversifique amplamente\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Fique investido",
-        "text": "Tempo no mercado supera tentativas de acertar o momento."
+        "text": "Tempo no mercado supera tentativas de acertar o momento.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Fique investido\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Tempo no mercado supera tentativas de acertar o momento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fique investido\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Evite fundos ativos caros",
-        "text": "O prêmio de gestão raramente se paga no longo prazo."
+        "text": "O prêmio de gestão raramente se paga no longo prazo.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Evite fundos ativos caros\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: O prêmio de gestão raramente se paga no longo prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite fundos ativos caros\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Reinvista dividendos",
-        "text": "Juros compostos sobre proventos aceleram o patrimônio."
+        "text": "Juros compostos sobre proventos aceleram o patrimônio.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Reinvista dividendos\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Juros compostos sobre proventos aceleram o patrimônio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reinvista dividendos\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Ignora o ruído",
-        "text": "Notícias diárias não mudam a estratégia de longo prazo."
+        "text": "Notícias diárias não mudam a estratégia de longo prazo.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Ignora o ruído\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Notícias diárias não mudam a estratégia de longo prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ignora o ruído\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Tenha paciência",
-        "text": "Décadas de permanência colhem o crescimento real."
+        "text": "Décadas de permanência colhem o crescimento real.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Tenha paciência\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Décadas de permanência colhem o crescimento real — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Tenha paciência\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Cuidado com conflitos",
-        "text": "Vendedores podem ter interesse oposto ao seu; leia o custo."
+        "text": "Vendedores podem ter interesse oposto ao seu; leia o custo.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Cuidado com conflitos\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Vendedores podem ter interesse oposto ao seu; leia o custo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuidado com conflitos\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Simplicidade vence",
-        "text": "Estratégia simples supera táticas sofisticadas para a maioria."
+        "text": "Estratégia simples supera táticas sofisticadas para a maioria.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Simplicidade vence\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Estratégia simples supera táticas sofisticadas para a maioria — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Simplicidade vence\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Aceite o retorno médio",
-        "text": "Casar com o mercado entrega o que a maioria persegue em vão."
+        "text": "Casar com o mercado entrega o que a maioria persegue em vão.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Aceite o retorno médio\" como peça-chave para investir no longo prazo com custos baixos (indexação).",
+          "Na prática: Casar com o mercado entrega o que a maioria persegue em vão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o retorno médio\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -44574,72 +44774,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A tese central",
         "text": "Bogle apresenta o caso dos fundos indexados de baixo custo.",
         "points": [
-          "Índice",
-          "Custo"
+          {
+            "t": "Índice",
+            "e": "Bogle apresenta o caso dos fundos indexados de baixo custo.",
+            "f": "Fundos ativos, em média, entregam menos que o índice por causa das taxas.",
+            "real": true
+          },
+          {
+            "t": "Custo",
+            "e": "Bogle apresenta o caso dos fundos indexados de baixo custo.",
+            "f": "No investimento, o que você controla é o custo; o resto é esperança.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O que você controla",
         "text": "Custo, tempo e diversificação como alavancas reais.",
         "points": [
-          "Controle",
-          "Incerteza"
+          {
+            "t": "Controle",
+            "e": "Custo, tempo e diversificação como alavancas reais.",
+            "f": "No investimento, o que você controla é o custo; o resto é esperança.",
+            "real": true
+          },
+          {
+            "t": "Incerteza",
+            "e": "Custo, tempo e diversificação como alavancas reais.",
+            "f": "Na visão de John C. Bogle, \"incerteza\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A matemática dos custos",
         "text": "Como taxas corroem o retorno ao longo do tempo.",
         "points": [
-          "Taxas",
-          "Erosão"
+          {
+            "t": "Taxas",
+            "e": "Como taxas corroem o retorno ao longo do tempo.",
+            "f": "Fundos ativos, em média, entregam menos que o índice por causa das taxas.",
+            "real": true
+          },
+          {
+            "t": "Erosão",
+            "e": "Como taxas corroem o retorno ao longo do tempo.",
+            "f": "Na visão de John C. Bogle, \"erosão\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Fundos ativos vs índice",
         "text": "Por que ativos raramente vencem líquido de custos.",
         "points": [
-          "Comparação",
-          "Prêmio"
+          {
+            "t": "Comparação",
+            "e": "Por que ativos raramente vencem líquido de custos.",
+            "f": "Fundos ativos, em média, entregam menos que o índice por causa das taxas.",
+            "real": true
+          },
+          {
+            "t": "Prêmio",
+            "e": "Por que ativos raramente vencem líquido de custos.",
+            "f": "Na visão de John C. Bogle, \"prêmio\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Diversificação",
         "text": "Ter o mercado inteiro para eliminar risco de escolha.",
         "points": [
-          "Amplitude",
-          "Risco"
+          {
+            "t": "Amplitude",
+            "e": "Ter o mercado inteiro para eliminar risco de escolha.",
+            "f": "Na visão de John C. Bogle, \"amplitude\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          },
+          {
+            "t": "Risco",
+            "e": "Ter o mercado inteiro para eliminar risco de escolha.",
+            "f": "Na visão de John C. Bogle, \"risco\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Tempo no mercado",
         "text": "Permanência vs tentativa de timing.",
         "points": [
-          "Paciência",
-          "Timing"
+          {
+            "t": "Paciência",
+            "e": "Permanência vs tentativa de timing.",
+            "f": "O tempo no mercado vence o timing de mercado.",
+            "real": true
+          },
+          {
+            "t": "Timing",
+            "e": "Permanência vs tentativa de timing.",
+            "f": "Não tente vencer o mercado; junte-se a ele.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O mito do retorno passado",
         "text": "Histórico não garante futuro.",
         "points": [
-          "História",
-          "Cuidado"
+          {
+            "t": "História",
+            "e": "Histórico não garante futuro.",
+            "f": "Na visão de John C. Bogle, \"história\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          },
+          {
+            "t": "Cuidado",
+            "e": "Histórico não garante futuro.",
+            "f": "Na visão de John C. Bogle, \"cuidado\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Simplicidade",
         "text": "Estratégia simples supera complexidade para maioria.",
         "points": [
-          "Simples",
-          "Eficaz"
+          {
+            "t": "Simples",
+            "e": "Estratégia simples supera complexidade para maioria.",
+            "f": "Na visão de John C. Bogle, \"simples\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          },
+          {
+            "t": "Eficaz",
+            "e": "Estratégia simples supera complexidade para maioria.",
+            "f": "Na visão de John C. Bogle, \"eficaz\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O plano do cidadão",
         "text": "Como montar carteira de senso comum e seguir.",
         "points": [
-          "Plano",
-          "Disciplina"
+          {
+            "t": "Plano",
+            "e": "Como montar carteira de senso comum e seguir.",
+            "f": "Na visão de John C. Bogle, \"plano\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina",
+            "e": "Como montar carteira de senso comum e seguir.",
+            "f": "Na visão de John C. Bogle, \"disciplina\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -44797,57 +45087,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Separe investir de especular",
-        "text": "Investimento exige análise e margem; especulação é aposta."
+        "text": "Investimento exige análise e margem; especulação é aposta.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Separe investir de especular\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Investimento exige análise e margem; especulação é aposta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Separe investir de especular\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Use a margem de segurança",
-        "text": "Compre bem abaixo do valor intrínseco para proteger contra erro."
+        "text": "Compre bem abaixo do valor intrínseco para proteger contra erro.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Use a margem de segurança\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Compre bem abaixo do valor intrínseco para proteger contra erro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a margem de segurança\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Trate o Sr. Mercado como servo",
-        "text": "Aceite seus preços apenas quando favoráveis, ignore o resto."
+        "text": "Aceite seus preços apenas quando favoráveis, ignore o resto.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Trate o Sr. Mercado como servo\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Aceite seus preços apenas quando favoráveis, ignore o resto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trate o Sr. Mercado como servo\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Conheça seu perfil",
-        "text": "Defensivo foca em segurança; entusiasta pesquisa ativamente."
+        "text": "Defensivo foca em segurança; entusiasta pesquisa ativamente.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Conheça seu perfil\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Defensivo foca em segurança; entusiasta pesquisa ativamente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça seu perfil\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Diversifique com princípio",
-        "text": "Proteção prudente, não medo, justifica diversificação."
+        "text": "Proteção prudente, não medo, justifica diversificação.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Diversifique com princípio\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Proteção prudente, não medo, justifica diversificação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diversifique com princípio\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Estude o balanço",
-        "text": "Análise fundamentos antes de confiar no preço de tela."
+        "text": "Análise fundamentos antes de confiar no preço de tela.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Estude o balanço\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Análise fundamentos antes de confiar no preço de tela — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estude o balanço\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Mantenha o longo prazo",
-        "text": "Horizonte amplo revela valor e suaviza volatilidade."
+        "text": "Horizonte amplo revela valor e suaviza volatilidade.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Mantenha o longo prazo\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Horizonte amplo revela valor e suaviza volatilidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha o longo prazo\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Desconfie da multidão",
-        "text": "Euforia e pânico coletivos são más referências."
+        "text": "Euforia e pânico coletivos são más referências.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Desconfie da multidão\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Euforia e pânico coletivos são más referências — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desconfie da multidão\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Tenha disciplina emocional",
-        "text": "Não reaja ao humor do mercado; siga o critério."
+        "text": "Não reaja ao humor do mercado; siga o critério.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Tenha disciplina emocional\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Não reaja ao humor do mercado; siga o critério — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Tenha disciplina emocional\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Evite promessas de guru",
-        "text": "Foque em processo repetível, não em profecias."
+        "text": "Foque em processo repetível, não em profecias.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Evite promessas de guru\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Foque em processo repetível, não em profecias — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite promessas de guru\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Calcule o valor intrínseco",
-        "text": "Preço é oferta; valor exige cálculo próprio e paciência."
+        "text": "Preço é oferta; valor exige cálculo próprio e paciência.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Calcule o valor intrínseco\" como peça-chave para a análise fundamental e a margem de segurança.",
+          "Na prática: Preço é oferta; valor exige cálculo próprio e paciência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Calcule o valor intrínseco\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -44869,72 +45214,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Investimento vs especulação",
         "text": "Graham define as fronteiras e alerta contra confusão.",
         "points": [
-          "Definição",
-          "Risco"
+          {
+            "t": "Definição",
+            "e": "Graham define as fronteiras e alerta contra confusão.",
+            "f": "Investimento é a operação que, após análise, promete segurança de principal e retorno adequado.",
+            "real": true
+          },
+          {
+            "t": "Risco",
+            "e": "Graham define as fronteiras e alerta contra confusão.",
+            "f": "Na visão de Benjamin Graham, \"risco\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Sr. Mercado",
         "text": "A personificação do mercado volátil e irracional.",
         "points": [
-          "Parceiro",
-          "Volatilidade"
+          {
+            "t": "Parceiro",
+            "e": "A personificação do mercado volátil e irracional.",
+            "f": "O Sr. Mercado é o seu parceiro, não seu guia; ele serve a você, não o contrário.",
+            "real": true
+          },
+          {
+            "t": "Volatilidade",
+            "e": "A personificação do mercado volátil e irracional.",
+            "f": "No curto prazo, o mercado é uma máquina de votação; no longo, é de pesagem.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A margem de segurança",
         "text": "O princípio que protege contra erro e azar.",
         "points": [
-          "Valor",
-          "Proteção"
+          {
+            "t": "Valor",
+            "e": "O princípio que protege contra erro e azar.",
+            "f": "A margem de segurança é o princípio central que transforma incerteza em proteção.",
+            "real": true
+          },
+          {
+            "t": "Proteção",
+            "e": "O princípio que protege contra erro e azar.",
+            "f": "Investimento é a operação que, após análise, promete segurança de principal e retorno adequado.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O investidor defensivo",
         "text": "Estratégia de simplicidade e segurança.",
         "points": [
-          "Simplicidade",
-          "Segurança"
+          {
+            "t": "Simplicidade",
+            "e": "Estratégia de simplicidade e segurança.",
+            "f": "O investidor que não consegue suportar uma queda de 50% não deveria estar em ações.",
+            "real": true
+          },
+          {
+            "t": "Segurança",
+            "e": "Estratégia de simplicidade e segurança.",
+            "f": "A margem de segurança é o princípio central que transforma incerteza em proteção.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O investidor entusiasta",
         "text": "Pesquisa ativa com critério e disciplina.",
         "points": [
-          "Pesquisa",
-          "Critério"
+          {
+            "t": "Pesquisa",
+            "e": "Pesquisa ativa com critério e disciplina.",
+            "f": "O investidor que não consegue suportar uma queda de 50% não deveria estar em ações.",
+            "real": true
+          },
+          {
+            "t": "Critério",
+            "e": "Pesquisa ativa com critério e disciplina.",
+            "f": "Na visão de Benjamin Graham, \"critério\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Análise de balanço",
         "text": "Como ler fundamentos com sobriedade.",
         "points": [
-          "Fundamentos",
-          "Balanço"
+          {
+            "t": "Fundamentos",
+            "e": "Como ler fundamentos com sobriedade.",
+            "f": "Investimento é a operação que, após análise, promete segurança de principal e retorno adequado.",
+            "real": true
+          },
+          {
+            "t": "Balanço",
+            "e": "Como ler fundamentos com sobriedade.",
+            "f": "Na visão de Benjamin Graham, \"balanço\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Diversificação",
         "text": "Proteção prudente adequadamente usada.",
         "points": [
-          "Proteção",
-          "Princípio"
+          {
+            "t": "Proteção",
+            "e": "Proteção prudente adequadamente usada.",
+            "f": "A margem de segurança é o princípio central que transforma incerteza em proteção.",
+            "real": true
+          },
+          {
+            "t": "Princípio",
+            "e": "Proteção prudente adequadamente usada.",
+            "f": "Na visão de Benjamin Graham, \"princípio\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Longo prazo",
         "text": "Por que o horizonte amplo favorece o racional.",
         "points": [
-          "Horizonte",
-          "Valor"
+          {
+            "t": "Horizonte",
+            "e": "Por que o horizonte amplo favorece o racional.",
+            "f": "No curto prazo, o mercado é uma máquina de votação; no longo, é de pesagem.",
+            "real": true
+          },
+          {
+            "t": "Valor",
+            "e": "Por que o horizonte amplo favorece o racional.",
+            "f": "Na visão de Benjamin Graham, \"valor\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Disciplina emocional",
         "text": "Manter o plano contra a multidão.",
         "points": [
-          "Emoção",
-          "Plano"
+          {
+            "t": "Emoção",
+            "e": "Manter o plano contra a multidão.",
+            "f": "Na visão de Benjamin Graham, \"emoção\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          },
+          {
+            "t": "Plano",
+            "e": "Manter o plano contra a multidão.",
+            "f": "Na visão de Benjamin Graham, \"plano\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          }
         ]
       }
     ]
