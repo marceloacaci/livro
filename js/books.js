@@ -51458,62 +51458,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "A pirâmide das disfunções",
-        "text": "Cinco níveis encadeados; resolver a base resolve o topo."
+        "text": "Cinco níveis encadeados; resolver a base resolve o topo.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"A pirâmide das disfunções\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Cinco níveis encadeados; resolver a base resolve o topo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"A pirâmide das disfunções\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Construa confiança",
-        "text": "Vulnerabilidade e honestidade são a fundação de qualquer time."
+        "text": "Vulnerabilidade e honestidade são a fundação de qualquer time.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Construa confiança\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Vulnerabilidade e honestidade são a fundação de qualquer time — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa confiança\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Abrace o conflito",
-        "text": "Discutir ideias com vigor esclarece e evita erro silencioso."
+        "text": "Discutir ideias com vigor esclarece e evita erro silencioso.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Abrace o conflito\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Discutir ideias com vigor esclarece e evita erro silencioso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abrace o conflito\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Busque compromisso",
-        "text": "Ouça, debata e feche alinhado; consenso não é exigido."
+        "text": "Ouça, debata e feche alinhado; consenso não é exigido.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Busque compromisso\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Ouça, debata e feche alinhado; consenso não é exigido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque compromisso\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Cobrança mútua",
-        "text": "Pares que se responsabilizam valem mais que vigilância."
+        "text": "Pares que se responsabilizam valem mais que vigilância.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Cobrança mútua\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Pares que se responsabilizam valem mais que vigilância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cobrança mútua\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Foque em resultados",
-        "text": "O time existe para entregar; glória individual é secundária."
+        "text": "O time existe para entregar; glória individual é secundária.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Foque em resultados\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: O time existe para entregar; glória individual é secundária — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque em resultados\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Evite team building falso",
-        "text": "Trabalho duro e verdade curam mais que dinâmicas de palco."
+        "text": "Trabalho duro e verdade curam mais que dinâmicas de palco.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Evite team building falso\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Trabalho duro e verdade curam mais que dinâmicas de palco — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite team building falso\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Líder planta confiança",
-        "text": "O líder modela vulnerabilidade para o time seguir."
+        "text": "O líder modela vulnerabilidade para o time seguir.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Líder planta confiança\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: O líder modela vulnerabilidade para o time seguir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Líder planta confiança\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Não tolere sob desempenho",
-        "text": "Tolerar falha infeta o grupo; cobrar é cuidar."
+        "text": "Tolerar falha infeta o grupo; cobrar é cuidar.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Não tolere sob desempenho\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Tolerar falha infeta o grupo; cobrar é cuidar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não tolere sob desempenho\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Clareza antes de velocidade",
-        "text": "Decisão compreendida é decisão cumprida."
+        "text": "Decisão compreendida é decisão cumprida.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Clareza antes de velocidade\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Decisão compreendida é decisão cumprida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Clareza antes de velocidade\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Conversa difícil em dia",
-        "text": "Adie a conversa difícil e pague juros de juro composto."
+        "text": "Adie a conversa difícil e pague juros de juro composto.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Conversa difícil em dia\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Adie a conversa difícil e pague juros de juro composto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conversa difícil em dia\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Talento precisa de saúde",
-        "text": "Sem coesão, o gênio vira atrito; processo libera o talento."
+        "text": "Sem coesão, o gênio vira atrito; processo libera o talento.",
+        "explicacoes": [
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Talento precisa de saúde\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
+          "Na prática: Sem coesão, o gênio vira atrito; processo libera o talento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Talento precisa de saúde\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -51535,81 +51595,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Nova CEO",
         "text": "Kathryn assume empresa com time brilhante e profundamente disfuncional.",
         "points": [
-          "O desafio",
-          "Estrelas",
-          "O diagnóstico"
+          {
+            "t": "O desafio",
+            "e": "Kathryn assume empresa com time brilhante e profundamente disfuncional.",
+            "f": "Na visão de Patrick Lencioni, \"o desafio\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Estrelas",
+            "e": "Kathryn assume empresa com time brilhante e profundamente disfuncional.",
+            "f": "Na visão de Patrick Lencioni, \"estrelas\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "O diagnóstico",
+            "e": "Kathryn assume empresa com time brilhante e profundamente disfuncional.",
+            "f": "Na visão de Patrick Lencioni, \"o diagnóstico\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Pirâmide",
         "text": "Lencioni apresenta as cinco disfunções encadeadas do time.",
         "points": [
-          "Cinco níveis",
-          "A base",
-          "O topo"
+          {
+            "t": "Cinco níveis",
+            "e": "Lencioni apresenta as cinco disfunções encadeadas do time.",
+            "f": "Na visão de Patrick Lencioni, \"cinco níveis\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "A base",
+            "e": "Lencioni apresenta as cinco disfunções encadeadas do time.",
+            "f": "Na visão de Patrick Lencioni, \"a base\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "O topo",
+            "e": "Lencioni apresenta as cinco disfunções encadeadas do time.",
+            "f": "Na visão de Patrick Lencioni, \"o topo\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Ausência de Confiança",
         "text": "Sem vulnerabilidade, ninguém admite erro nem pede ajuda.",
         "points": [
-          "Vulnerabilidade",
-          "Medo",
-          "Base"
+          {
+            "t": "Vulnerabilidade",
+            "e": "Sem vulnerabilidade, ninguém admite erro nem pede ajuda.",
+            "f": "A confiança começa quando nos permitimos ser vulneráveis.",
+            "real": true
+          },
+          {
+            "t": "Medo",
+            "e": "Sem vulnerabilidade, ninguém admite erro nem pede ajuda.",
+            "f": "Na visão de Patrick Lencioni, \"medo\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Base",
+            "e": "Sem vulnerabilidade, ninguém admite erro nem pede ajuda.",
+            "f": "Na visão de Patrick Lencioni, \"base\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Medo do Conflito",
         "text": "Falsa harmonia esconde divergência e gera erro silencioso.",
         "points": [
-          "Falsa paz",
-          "Conflito",
-          "Clareza"
+          {
+            "t": "Falsa paz",
+            "e": "Falsa harmonia esconde divergência e gera erro silencioso.",
+            "f": "O conflito saudável é o que separa um time de um grupo de estranhos educados.",
+            "real": true
+          },
+          {
+            "t": "Conflito",
+            "e": "Falsa harmonia esconde divergência e gera erro silencioso.",
+            "f": "Na visão de Patrick Lencioni, \"conflito\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Clareza",
+            "e": "Falsa harmonia esconde divergência e gera erro silencioso.",
+            "f": "Na visão de Patrick Lencioni, \"clareza\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Falta de Compromisso",
         "text": "Sem debate real, a decisão não é abraçada por ninguém.",
         "points": [
-          "Alinhamento",
-          "Consenso",
-          "Decisão"
+          {
+            "t": "Alinhamento",
+            "e": "Sem debate real, a decisão não é abraçada por ninguém.",
+            "f": "Não é a falta de talento que destrói as equipes, é a falta de saúde relacional.",
+            "real": true
+          },
+          {
+            "t": "Consenso",
+            "e": "Sem debate real, a decisão não é abraçada por ninguém.",
+            "f": "Na visão de Patrick Lencioni, \"consenso\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Decisão",
+            "e": "Sem debate real, a decisão não é abraçada por ninguém.",
+            "f": "Na visão de Patrick Lencioni, \"decisão\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Aversão à Responsabilidade",
         "text": "Pares que não se cobram deixam a falha se repetir.",
         "points": [
-          "Cobrança",
-          "Pares",
-          "Padrão"
+          {
+            "t": "Cobrança",
+            "e": "Pares que não se cobram deixam a falha se repetir.",
+            "f": "Na visão de Patrick Lencioni, \"cobrança\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Pares",
+            "e": "Pares que não se cobram deixam a falha se repetir.",
+            "f": "Na visão de Patrick Lencioni, \"pares\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Padrão",
+            "e": "Pares que não se cobram deixam a falha se repetir.",
+            "f": "Na visão de Patrick Lencioni, \"padrão\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Desatenção aos Resultados",
         "text": "Glória individual substitui o objetivo coletivo do time.",
         "points": [
-          "Coletivo",
-          "Ego",
-          "Resultado"
+          {
+            "t": "Coletivo",
+            "e": "Glória individual substitui o objetivo coletivo do time.",
+            "f": "Equipes que não se cobram mutuamente não entregam resultados de verdade.",
+            "real": true
+          },
+          {
+            "t": "Ego",
+            "e": "Glória individual substitui o objetivo coletivo do time.",
+            "f": "Na visão de Patrick Lencioni, \"ego\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Resultado",
+            "e": "Glória individual substitui o objetivo coletivo do time.",
+            "f": "Na visão de Patrick Lencioni, \"resultado\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A Virada",
         "text": "Kathryn conserta cada nível com trabalho duro e honestidade.",
         "points": [
-          "Prática",
-          "Mudança",
-          "Confiança"
+          {
+            "t": "Prática",
+            "e": "Kathryn conserta cada nível com trabalho duro e honestidade.",
+            "f": "Na visão de Patrick Lencioni, \"prática\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Mudança",
+            "e": "Kathryn conserta cada nível com trabalho duro e honestidade.",
+            "f": "Na visão de Patrick Lencioni, \"mudança\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Confiança",
+            "e": "Kathryn conserta cada nível com trabalho duro e honestidade.",
+            "f": "A confiança começa quando nos permitimos ser vulneráveis.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O Modelo em Ação",
         "text": "Lencioni entrega o guia prático para aplicar a pirâmide.",
         "points": [
-          "Guia",
-          "Aplicação",
-          "Time"
+          {
+            "t": "Guia",
+            "e": "Lencioni entrega o guia prático para aplicar a pirâmide.",
+            "f": "Na visão de Patrick Lencioni, \"guia\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Aplicação",
+            "e": "Lencioni entrega o guia prático para aplicar a pirâmide.",
+            "f": "Na visão de Patrick Lencioni, \"aplicação\" é parte essencial da proposta de \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Time",
+            "e": "Lencioni entrega o guia prático para aplicar a pirâmide.",
+            "f": "O conflito saudável é o que separa um time de um grupo de estranhos educados.",
+            "real": true
+          }
         ]
       }
     ]
@@ -51768,62 +51963,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Empatia tática",
-        "text": "Conecte-se emocionalmente; não confunda com ser bonzinho."
+        "text": "Conecte-se emocionalmente; não confunda com ser bonzinho.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Empatia tática\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Conecte-se emocionalmente; não confunda com ser bonzinho — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Empatia tática\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Técnica do espelhamento",
-        "text": "Repita a última palavra para fazer o outro elaborar."
+        "text": "Repita a última palavra para fazer o outro elaborar.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Técnica do espelhamento\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Repita a última palavra para fazer o outro elaborar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Técnica do espelhamento\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Pergunta calibrada",
-        "text": "Comece com \"como\" ou \"o que\" para dar controle ao outro."
+        "text": "Comece com \"como\" ou \"o que\" para dar controle ao outro.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Pergunta calibrada\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Comece com \"como\" ou \"o que\" para dar controle ao outro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pergunta calibrada\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Busque o não",
-        "text": "O não revela o que o outro realmente quer; não tema."
+        "text": "O não revela o que o outro realmente quer; não tema.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Busque o não\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: O não revela o que o outro realmente quer; não tema — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque o não\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Labelize emoções",
-        "text": "Nomeie o sentimento para reduzir tensão e ganhar abertura."
+        "text": "Nomeie o sentimento para reduzir tensão e ganhar abertura.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Labelize emoções\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Nomeie o sentimento para reduzir tensão e ganhar abertura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Labelize emoções\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use o rói-rói",
-        "text": "Repita \"é difícil para mim\" para extrair concessão sem ataque."
+        "text": "Repita \"é difícil para mim\" para extrair concessão sem ataque.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Use o rói-rói\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Repita \"é difícil para mim\" para extrair concessão sem ataque — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o rói-rói\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Mapeie BATNA e ANI",
-        "text": "Saiba sua melhor alternativa e o ponto de não acordo."
+        "text": "Saiba sua melhor alternativa e o ponto de não acordo.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Mapeie BATNA e ANI\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Saiba sua melhor alternativa e o ponto de não acordo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mapeie BATNA e ANI\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Evite dividir por dois",
-        "text": "Meio-termo nem sempre é justo; busque valor, não metade."
+        "text": "Meio-termo nem sempre é justo; busque valor, não metade.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Evite dividir por dois\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Meio-termo nem sempre é justo; busque valor, não metade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite dividir por dois\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Ouça para entender",
-        "text": "Ouvir de verdade extrai mais que falar convencendo."
+        "text": "Ouvir de verdade extrai mais que falar convencendo.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Ouça para entender\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Ouvir de verdade extrai mais que falar convencendo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ouça para entender\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Silêncio estratégico",
-        "text": "Pausas desconfortáveis forçam o outro a preencher e ceder."
+        "text": "Pausas desconfortáveis forçam o outro a preencher e ceder.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Silêncio estratégico\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Pausas desconfortáveis forçam o outro a preencher e ceder — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Silêncio estratégico\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Sim, e... não",
-        "text": "Substitua o não fechado por abertura que convide à solução."
+        "text": "Substitua o não fechado por abertura que convide à solução.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Sim, e... não\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Substitua o não fechado por abertura que convide à solução — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sim, e... não\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Prepare-se antes",
-        "text": "Negociação se ganha no planejamento, não na mesa."
+        "text": "Negociação se ganha no planejamento, não na mesa.",
+        "explicacoes": [
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Prepare-se antes\" como peça-chave para a negociação de alto risco pela empatia tática.",
+          "Na prática: Negociação se ganha no planejamento, não na mesa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Prepare-se antes\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -51845,81 +52100,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Negociador do FBI",
         "text": "Voss conta sua origem nas negociações de reféns de vida ou morte.",
         "points": [
-          "Reféns",
-          "Origem",
-          "A lição"
+          {
+            "t": "Reféns",
+            "e": "Voss conta sua origem nas negociações de reféns de vida ou morte.",
+            "f": "Na visão de Chris Voss, \"reféns\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "Origem",
+            "e": "Voss conta sua origem nas negociações de reféns de vida ou morte.",
+            "f": "Na visão de Chris Voss, \"origem\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "A lição",
+            "e": "Voss conta sua origem nas negociações de reféns de vida ou morte.",
+            "f": "Na visão de Chris Voss, \"a lição\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Falácia da Dividir por Dois",
         "text": "O meio-termo nem sempre é justo; busque valor real.",
         "points": [
-          "Meio-termo",
-          "Valor",
-          "ANI"
+          {
+            "t": "Meio-termo",
+            "e": "O meio-termo nem sempre é justo; busque valor real.",
+            "f": "Dividir por dois raramente é justo; busque o acordo que cria valor.",
+            "real": true
+          },
+          {
+            "t": "Valor",
+            "e": "O meio-termo nem sempre é justo; busque valor real.",
+            "f": "Na visão de Chris Voss, \"valor\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "ANI",
+            "e": "O meio-termo nem sempre é justo; busque valor real.",
+            "f": "Na visão de Chris Voss, \"ani\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Arte de Dizer Não",
         "text": "O não revela o que o outro quer; não se deve temê-lo.",
         "points": [
-          "Não",
-          "Descoberta",
-          "Abertura"
+          {
+            "t": "Não",
+            "e": "O não revela o que o outro quer; não se deve temê-lo.",
+            "f": "Fazer o outro dizer não é derrota; é o começo da descoberta do que ele quer.",
+            "real": true
+          },
+          {
+            "t": "Descoberta",
+            "e": "O não revela o que o outro quer; não se deve temê-lo.",
+            "f": "Na visão de Chris Voss, \"descoberta\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "Abertura",
+            "e": "O não revela o que o outro quer; não se deve temê-lo.",
+            "f": "Na visão de Chris Voss, \"abertura\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O Espelhamento",
         "text": "Repetir a última palavra provoca resposta e elaboração.",
         "points": [
-          "Espelho",
-          "Silêncio",
-          "Abertura"
+          {
+            "t": "Espelho",
+            "e": "Repetir a última palavra provoca resposta e elaboração.",
+            "f": "O espelhamento faz a outra pessoa se sentir ouvida e abrir mais.",
+            "real": true
+          },
+          {
+            "t": "Silêncio",
+            "e": "Repetir a última palavra provoca resposta e elaboração.",
+            "f": "Na visão de Chris Voss, \"silêncio\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "Abertura",
+            "e": "Repetir a última palavra provoca resposta e elaboração.",
+            "f": "Na visão de Chris Voss, \"abertura\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Perguntas Calibradas",
         "text": "Perguntas com \"como\" e \"o que\" dão controle ao outro.",
         "points": [
-          "Como",
-          "O que",
-          "Controle"
+          {
+            "t": "Como",
+            "e": "Perguntas com \"como\" e \"o que\" dão controle ao outro.",
+            "f": "Na visão de Chris Voss, \"como\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "O que",
+            "e": "Perguntas com \"como\" e \"o que\" dão controle ao outro.",
+            "f": "Na visão de Chris Voss, \"o que\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "Controle",
+            "e": "Perguntas com \"como\" e \"o que\" dão controle ao outro.",
+            "f": "Na visão de Chris Voss, \"controle\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Labelizar Emoções",
         "text": "Nomear sentimentos acalma e abre o diálogo difícil.",
         "points": [
-          "Label",
-          "Emoção",
-          "Calma"
+          {
+            "t": "Label",
+            "e": "Nomear sentimentos acalma e abre o diálogo difícil.",
+            "f": "Na visão de Chris Voss, \"label\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "Emoção",
+            "e": "Nomear sentimentos acalma e abre o diálogo difícil.",
+            "f": "Negociação não é sobre lógica, é sobre emoção e conexão.",
+            "real": true
+          },
+          {
+            "t": "Calma",
+            "e": "Nomear sentimentos acalma e abre o diálogo difícil.",
+            "f": "Na visão de Chris Voss, \"calma\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Rói-rói",
         "text": "Repetir \"é difícil para mim\" extrai concessão sem agressão.",
         "points": [
-          "Rói-rói",
-          "Pressão",
-          "Concessão"
+          {
+            "t": "Rói-rói",
+            "e": "Repetir \"é difícil para mim\" extrai concessão sem agressão.",
+            "f": "Na visão de Chris Voss, \"rói-rói\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "Pressão",
+            "e": "Repetir \"é difícil para mim\" extrai concessão sem agressão.",
+            "f": "Na visão de Chris Voss, \"pressão\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "Concessão",
+            "e": "Repetir \"é difícil para mim\" extrai concessão sem agressão.",
+            "f": "Na visão de Chris Voss, \"concessão\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — BATNA e Preparação",
         "text": "Mapear alternativas e limite antes de sentar à mesa.",
         "points": [
-          "BATNA",
-          "ANI",
-          "Plano"
+          {
+            "t": "BATNA",
+            "e": "Mapear alternativas e limite antes de sentar à mesa.",
+            "f": "Na visão de Chris Voss, \"batna\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "ANI",
+            "e": "Mapear alternativas e limite antes de sentar à mesa.",
+            "f": "Na visão de Chris Voss, \"ani\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "Plano",
+            "e": "Mapear alternativas e limite antes de sentar à mesa.",
+            "f": "Na visão de Chris Voss, \"plano\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Negociação na Vida",
         "text": "Voss aplica as táticas a salário, relacionamento e compras.",
         "points": [
-          "Salário",
-          "Casa",
-          "Vida"
+          {
+            "t": "Salário",
+            "e": "Voss aplica as táticas a salário, relacionamento e compras.",
+            "f": "Negociação não é sobre lógica, é sobre emoção e conexão.",
+            "real": true
+          },
+          {
+            "t": "Casa",
+            "e": "Voss aplica as táticas a salário, relacionamento e compras.",
+            "f": "Na visão de Chris Voss, \"casa\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          },
+          {
+            "t": "Vida",
+            "e": "Voss aplica as táticas a salário, relacionamento e compras.",
+            "f": "Na visão de Chris Voss, \"vida\" é parte essencial da proposta de \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -52078,62 +52468,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Virtude é a felicidade",
-        "text": "A mente em paz consigo mesma vale mais que qualquer posse."
+        "text": "A mente em paz consigo mesma vale mais que qualquer posse.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Virtude é a felicidade\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: A mente em paz consigo mesma vale mais que qualquer posse — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Virtude é a felicidade\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Autossuficiência",
-        "text": "Dependa de si; quem precisa do externo nunca é livre."
+        "text": "Dependa de si; quem precisa do externo nunca é livre.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Autossuficiência\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Dependa de si; quem precisa do externo nunca é livre — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Autossuficiência\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Use o tempo",
-        "text": "Tempo é finito; invista-o com consciência, não o desperdice."
+        "text": "Tempo é finito; invista-o com consciência, não o desperdice.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Use o tempo\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Tempo é finito; invista-o com consciência, não o desperdice — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o tempo\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Premeditatio malorum",
-        "text": "Antecipe adversidades para domar o pânico do imprevisto."
+        "text": "Antecipe adversidades para domar o pânico do imprevisto.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Premeditatio malorum\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Antecipe adversidades para domar o pânico do imprevisto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Premeditatio malorum\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Moderação",
-        "text": "Controle o desejo; quem manda no impulso manda em si."
+        "text": "Controle o desejo; quem manda no impulso manda em si.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Moderação\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Controle o desejo; quem manda no impulso manda em si — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Moderação\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Despreze o status",
-        "text": "Vaidade de honrarias é prisão disfarçada de glória."
+        "text": "Vaidade de honrarias é prisão disfarçada de glória.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Despreze o status\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Vaidade de honrarias é prisão disfarçada de glória — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Despreze o status\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Aceite a morte",
-        "text": "Finitude bem vista libera o presente de cada dia."
+        "text": "Finitude bem vista libera o presente de cada dia.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Aceite a morte\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Finitude bem vista libera o presente de cada dia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite a morte\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Viva, não apenas exista",
-        "text": "Plenitude é presença, não acúmulo de dias."
+        "text": "Plenitude é presença, não acúmulo de dias.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Viva, não apenas exista\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Plenitude é presença, não acúmulo de dias — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva, não apenas exista\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Filosofia na prática",
-        "text": "Refletir e agir diariamente é o exercício, não a teoria."
+        "text": "Refletir e agir diariamente é o exercício, não a teoria.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Filosofia na prática\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Refletir e agir diariamente é o exercício, não a teoria — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Filosofia na prática\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Natureza como guia",
-        "text": "Razão e simplicidade alinhadas à natureza trazem ordem."
+        "text": "Razão e simplicidade alinhadas à natureza trazem ordem.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Natureza como guia\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Razão e simplicidade alinhadas à natureza trazem ordem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Natureza como guia\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Prazer certo",
-        "text": "Prazeres em medida nutrem; desmedidos escravizam."
+        "text": "Prazeres em medida nutrem; desmedidos escravizam.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Prazer certo\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Prazeres em medida nutrem; desmedidos escravizam — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Prazer certo\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Liberdade interna",
-        "text": "Liberdade real é não depender do que pode ser tirado."
+        "text": "Liberdade real é não depender do que pode ser tirado.",
+        "explicacoes": [
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Liberdade interna\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
+          "Na prática: Liberdade real é não depender do que pode ser tirado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Liberdade interna\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -52155,81 +52605,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Que é a Vida Feliz",
         "text": "Séneca define felicidade como virtude e paz interior, não bens.",
         "points": [
-          "Virtude",
-          "Paz",
-          "Definição"
+          {
+            "t": "Virtude",
+            "e": "Séneca define felicidade como virtude e paz interior, não bens.",
+            "f": "A vida feliz é a que está de acordo com a sua própria natureza.",
+            "real": true
+          },
+          {
+            "t": "Paz",
+            "e": "Séneca define felicidade como virtude e paz interior, não bens.",
+            "f": "Na visão de Séneca, \"paz\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Definição",
+            "e": "Séneca define felicidade como virtude e paz interior, não bens.",
+            "f": "Na visão de Séneca, \"definição\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Contra a Riqueza",
         "text": "Mais bens trazem mais ansiedade; a cobiça não se sacia.",
         "points": [
-          "Cobiça",
-          "Ansiedade",
-          "Dependência"
+          {
+            "t": "Cobiça",
+            "e": "Mais bens trazem mais ansiedade; a cobiça não se sacia.",
+            "f": "Na visão de Séneca, \"cobiça\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Ansiedade",
+            "e": "Mais bens trazem mais ansiedade; a cobiça não se sacia.",
+            "f": "Na visão de Séneca, \"ansiedade\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Dependência",
+            "e": "Mais bens trazem mais ansiedade; a cobiça não se sacia.",
+            "f": "Na visão de Séneca, \"dependência\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Uso do Tempo",
         "text": "Tempo é o único bem que não voltará; usá-lo é viver.",
         "points": [
-          "Finito",
-          "Consciência",
-          "Vida"
+          {
+            "t": "Finito",
+            "e": "Tempo é o único bem que não voltará; usá-lo é viver.",
+            "f": "Não é que tenhamos pouco tempo, é que perdemos muito dele.",
+            "real": true
+          },
+          {
+            "t": "Consciência",
+            "e": "Tempo é o único bem que não voltará; usá-lo é viver.",
+            "f": "Duvide de quem tem sorte demais por muito tempo.",
+            "real": true
+          },
+          {
+            "t": "Vida",
+            "e": "Tempo é o único bem que não voltará; usá-lo é viver.",
+            "f": "A vida feliz é a que está de acordo com a sua própria natureza.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Liberdade Interior",
         "text": "Quem não depende do externo é livre mesmo na prisão.",
         "points": [
-          "Autossuficiência",
-          "Interno",
-          "Livre"
+          {
+            "t": "Autossuficiência",
+            "e": "Quem não depende do externo é livre mesmo na prisão.",
+            "f": "Na visão de Séneca, \"autossuficiência\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Interno",
+            "e": "Quem não depende do externo é livre mesmo na prisão.",
+            "f": "Na visão de Séneca, \"interno\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Livre",
+            "e": "Quem não depende do externo é livre mesmo na prisão.",
+            "f": "Na visão de Séneca, \"livre\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Premeditatio Malorum",
         "text": "Antecipar o mal tira seu poder e treina a resistência.",
         "points": [
-          "Antever",
-          "Treino",
-          "Coragem"
+          {
+            "t": "Antever",
+            "e": "Antecipar o mal tira seu poder e treina a resistência.",
+            "f": "Na visão de Séneca, \"antever\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Treino",
+            "e": "Antecipar o mal tira seu poder e treina a resistência.",
+            "f": "Na visão de Séneca, \"treino\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Coragem",
+            "e": "Antecipar o mal tira seu poder e treina a resistência.",
+            "f": "Na visão de Séneca, \"coragem\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Moderação e Prazer",
         "text": "Prazer em medida nutre; desmedido escraviza a mente.",
         "points": [
-          "Medida",
-          "Vício",
-          "Equilíbrio"
+          {
+            "t": "Medida",
+            "e": "Prazer em medida nutre; desmedido escraviza a mente.",
+            "f": "Na visão de Séneca, \"medida\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Vício",
+            "e": "Prazer em medida nutre; desmedido escraviza a mente.",
+            "f": "Na visão de Séneca, \"vício\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Equilíbrio",
+            "e": "Prazer em medida nutre; desmedido escraviza a mente.",
+            "f": "Na visão de Séneca, \"equilíbrio\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Medo da Morte",
         "text": "Aceitar a finitude é o que libera o presente real.",
         "points": [
-          "Finitude",
-          "Presente",
-          "Liberdade"
+          {
+            "t": "Finitude",
+            "e": "Aceitar a finitude é o que libera o presente real.",
+            "f": "Na visão de Séneca, \"finitude\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Presente",
+            "e": "Aceitar a finitude é o que libera o presente real.",
+            "f": "Na visão de Séneca, \"presente\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Aceitar a finitude é o que libera o presente real.",
+            "f": "Na visão de Séneca, \"liberdade\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Viver, não Existir",
         "text": "Plenitude é presença consciente, não acúmulo de dias.",
         "points": [
-          "Presença",
-          "Plenitude",
-          "Dias"
+          {
+            "t": "Presença",
+            "e": "Plenitude é presença consciente, não acúmulo de dias.",
+            "f": "Na visão de Séneca, \"presença\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Plenitude",
+            "e": "Plenitude é presença consciente, não acúmulo de dias.",
+            "f": "Na visão de Séneca, \"plenitude\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Dias",
+            "e": "Plenitude é presença consciente, não acúmulo de dias.",
+            "f": "Na visão de Séneca, \"dias\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — A Filosofia como Exercício",
         "text": "Refletir e agir diariamente é a prática que molda a alma.",
         "points": [
-          "Prática",
-          "Hábito",
-          "Alma"
+          {
+            "t": "Prática",
+            "e": "Refletir e agir diariamente é a prática que molda a alma.",
+            "f": "Na visão de Séneca, \"prática\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Hábito",
+            "e": "Refletir e agir diariamente é a prática que molda a alma.",
+            "f": "Na visão de Séneca, \"hábito\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          },
+          {
+            "t": "Alma",
+            "e": "Refletir e agir diariamente é a prática que molda a alma.",
+            "f": "Na visão de Séneca, \"alma\" é parte essencial da proposta de \"A Vida Feliz: Cartas e Diálogos Estoicos\".",
+            "real": false
+          }
         ]
       }
     ]
