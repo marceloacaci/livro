@@ -49943,62 +49943,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Identifique a lacuna",
-        "text": "Meça a diferença entre o retorno do mercado e o seu; aí está o comportamento."
+        "text": "Meça a diferença entre o retorno do mercado e o seu; aí está o comportamento.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Identifique a lacuna\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Meça a diferença entre o retorno do mercado e o seu; aí está o comportamento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Identifique a lacuna\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Você é o inimigo",
-        "text": "Reconhecer que o pior erro vem de dentro é o primeiro passo."
+        "text": "Reconhecer que o pior erro vem de dentro é o primeiro passo.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Você é o inimigo\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Reconhecer que o pior erro vem de dentro é o primeiro passo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Você é o inimigo\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Decida por princípios",
-        "text": "Regras escritas substituem o palpite emocional na hora."
+        "text": "Regras escritas substituem o palpite emocional na hora.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Decida por princípios\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Regras escritas substituem o palpite emocional na hora — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Decida por princípios\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Desaceler e pergunte por quê",
-        "text": "Uma pausa antes de agir evita a decisão automática errada."
+        "text": "Uma pausa antes de agir evita a decisão automática errada.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Desaceler e pergunte por quê\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Uma pausa antes de agir evita a decisão automática errada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desaceler e pergunte por quê\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Não venda no pânico",
-        "text": "Quedas são temporais; realizar o prejuízo trava o dano."
+        "text": "Quedas são temporais; realizar o prejuízo trava o dano.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Não venda no pânico\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Quedas são temporais; realizar o prejuízo trava o dano — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não venda no pânico\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Não compre na euforia",
-        "text": "Entusiasmo de massa costuma marcar o topo, não a entrada."
+        "text": "Entusiasmo de massa costuma marcar o topo, não a entrada.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Não compre na euforia\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Entusiasmo de massa costuma marcar o topo, não a entrada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não compre na euforia\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Simplifique o plano",
-        "text": "Menos complexidade, mais aderência; o simples é o que se cumpre."
+        "text": "Menos complexidade, mais aderência; o simples é o que se cumpre.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Simplifique o plano\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Menos complexidade, mais aderência; o simples é o que se cumpre — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Simplifique o plano\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Use o desenho",
-        "text": "Visualizar a decisão ajuda a ver o óbvio que a emoção esconde."
+        "text": "Visualizar a decisão ajuda a ver o óbvio que a emoção esconde.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Use o desenho\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Visualizar a decisão ajuda a ver o óbvio que a emoção esconde — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o desenho\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Foque no comportamento",
-        "text": "Produtos importam menos que a disciplina de segui-los."
+        "text": "Produtos importam menos que a disciplina de segui-los.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Foque no comportamento\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Produtos importam menos que a disciplina de segui-los — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque no comportamento\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Aceite a incerteza",
-        "text": "Controle sua reação, não o mercado; isso já é grande vantagem."
+        "text": "Controle sua reação, não o mercado; isso já é grande vantagem.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Aceite a incerteza\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Controle sua reação, não o mercado; isso já é grande vantagem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite a incerteza\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Automatize o bom",
-        "text": "Aportes e rebalanceamento automáticos reduzem a tentação de errar."
+        "text": "Aportes e rebalanceamento automáticos reduzem a tentação de errar.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Automatize o bom\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Aportes e rebalanceamento automáticos reduzem a tentação de errar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Automatize o bom\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Pequenas mudanças, grandes efeitos",
-        "text": "Ajustar hábitos de escolha vale mais que caçar a dica perfeita."
+        "text": "Ajustar hábitos de escolha vale mais que caçar a dica perfeita.",
+        "explicacoes": [
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Pequenas mudanças, grandes efeitos\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
+          "Na prática: Ajustar hábitos de escolha vale mais que caçar a dica perfeita — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pequenas mudanças, grandes efeitos\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -50020,81 +50080,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Lacuna do Comportamento",
         "text": "Richards nomeia a distância entre saber e agir, e mostra seu custo.",
         "points": [
-          "Saber vs. agir",
-          "O custo emocional",
-          "A lacuna"
+          {
+            "t": "Saber vs. agir",
+            "e": "Richards nomeia a distância entre saber e agir, e mostra seu custo.",
+            "f": "A lacuna entre o que sabemos que deveríamos fazer e o que fazemos é onde o dinheiro se perde.",
+            "real": true
+          },
+          {
+            "t": "O custo emocional",
+            "e": "Richards nomeia a distância entre saber e agir, e mostra seu custo.",
+            "f": "Na visão de Carl Richards, \"o custo emocional\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "A lacuna",
+            "e": "Richards nomeia a distância entre saber e agir, e mostra seu custo.",
+            "f": "Na visão de Carl Richards, \"a lacuna\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Por Que Agimos Mal",
         "text": "Medo e ganância sequestram a decisão racional nas pontas do ciclo.",
         "points": [
-          "Medo na queda",
-          "Euforia no topo",
-          "Cérebro antigo"
+          {
+            "t": "Medo na queda",
+            "e": "Medo e ganância sequestram a decisão racional nas pontas do ciclo.",
+            "f": "Na visão de Carl Richards, \"medo na queda\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Euforia no topo",
+            "e": "Medo e ganância sequestram a decisão racional nas pontas do ciclo.",
+            "f": "Na visão de Carl Richards, \"euforia no topo\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Cérebro antigo",
+            "e": "Medo e ganância sequestram a decisão racional nas pontas do ciclo.",
+            "f": "Na visão de Carl Richards, \"cérebro antigo\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Poder do Desenho",
         "text": "Ilustrações simples tornam o óbvio visível e memorável.",
         "points": [
-          "Guardanapo",
-          "Clareza visual",
-          "Memória"
+          {
+            "t": "Guardanapo",
+            "e": "Ilustrações simples tornam o óbvio visível e memorável.",
+            "f": "Na visão de Carl Richards, \"guardanapo\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Clareza visual",
+            "e": "Ilustrações simples tornam o óbvio visível e memorável.",
+            "f": "Na visão de Carl Richards, \"clareza visual\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Memória",
+            "e": "Ilustrações simples tornam o óbvio visível e memorável.",
+            "f": "Na visão de Carl Richards, \"memória\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Princípios, não Previsões",
         "text": "Decidir por regras supera tentar prever um futuro incerto.",
         "points": [
-          "Regras",
-          "Incerteza",
-          "Constância"
+          {
+            "t": "Regras",
+            "e": "Decidir por regras supera tentar prever um futuro incerto.",
+            "f": "Não tente adivinhar o futuro; decida com base em princípios.",
+            "real": true
+          },
+          {
+            "t": "Incerteza",
+            "e": "Decidir por regras supera tentar prever um futuro incerto.",
+            "f": "Na visão de Carl Richards, \"incerteza\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Constância",
+            "e": "Decidir por regras supera tentar prever um futuro incerto.",
+            "f": "Na visão de Carl Richards, \"constância\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Desacelerar",
         "text": "A pausa antes de agir é a ferramenta contra o erro automático.",
         "points": [
-          "Perguntar por quê",
-          "Pausa",
-          "Consciência"
+          {
+            "t": "Perguntar por quê",
+            "e": "A pausa antes de agir é a ferramenta contra o erro automático.",
+            "f": "Na visão de Carl Richards, \"perguntar por quê\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Pausa",
+            "e": "A pausa antes de agir é a ferramenta contra o erro automático.",
+            "f": "Na visão de Carl Richards, \"pausa\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Consciência",
+            "e": "A pausa antes de agir é a ferramenta contra o erro automático.",
+            "f": "Na visão de Carl Richards, \"consciência\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O Pânico e a Euforia",
         "text": "Reconhecer as duas emoções protege o retorno de longo prazo.",
         "points": [
-          "Vender no fundo",
-          "Comprar no topo",
-          "O oposto"
+          {
+            "t": "Vender no fundo",
+            "e": "Reconhecer as duas emoções protege o retorno de longo prazo.",
+            "f": "Na visão de Carl Richards, \"vender no fundo\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Comprar no topo",
+            "e": "Reconhecer as duas emoções protege o retorno de longo prazo.",
+            "f": "Na visão de Carl Richards, \"comprar no topo\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "O oposto",
+            "e": "Reconhecer as duas emoções protege o retorno de longo prazo.",
+            "f": "Na visão de Carl Richards, \"o oposto\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Planos Simples",
         "text": "O plano cumprível vale mais que o brilhante e abandonado.",
         "points": [
-          "Simplicidade",
-          "Aderência",
-          "Execução"
+          {
+            "t": "Simplicidade",
+            "e": "O plano cumprível vale mais que o brilhante e abandonado.",
+            "f": "Planos simples vencem porque são os que conseguimos seguir.",
+            "real": true
+          },
+          {
+            "t": "Aderência",
+            "e": "O plano cumprível vale mais que o brilhante e abandonado.",
+            "f": "Na visão de Carl Richards, \"aderência\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Execução",
+            "e": "O plano cumprível vale mais que o brilhante e abandonado.",
+            "f": "Na visão de Carl Richards, \"execução\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Mudanças Pequenas",
         "text": "Ajustar hábitos de decisão rende mais que caçar a ação ideal.",
         "points": [
-          "Hábito",
-          "Efeito composto",
-          "Controle"
+          {
+            "t": "Hábito",
+            "e": "Ajustar hábitos de decisão rende mais que caçar a ação ideal.",
+            "f": "Na visão de Carl Richards, \"hábito\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Efeito composto",
+            "e": "Ajustar hábitos de decisão rende mais que caçar a ação ideal.",
+            "f": "Na visão de Carl Richards, \"efeito composto\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Controle",
+            "e": "Ajustar hábitos de decisão rende mais que caçar a ação ideal.",
+            "f": "Na visão de Carl Richards, \"controle\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O Controle que Existe",
         "text": "Richards conclui: controle sua reação, não o mercado, e estará à frente.",
         "points": [
-          "Reação",
-          "Humildade",
-          "Vantagem"
+          {
+            "t": "Reação",
+            "e": "Richards conclui: controle sua reação, não o mercado, e estará à frente.",
+            "f": "Na visão de Carl Richards, \"reação\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Humildade",
+            "e": "Richards conclui: controle sua reação, não o mercado, e estará à frente.",
+            "f": "Na visão de Carl Richards, \"humildade\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Vantagem",
+            "e": "Richards conclui: controle sua reação, não o mercado, e estará à frente.",
+            "f": "Na visão de Carl Richards, \"vantagem\" é parte essencial da proposta de \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -50253,62 +50448,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Automatize tudo",
-        "text": "Configure débitos para investimento e contas; a disciplina vira sistema."
+        "text": "Configure débitos para investimento e contas; a disciplina vira sistema.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Automatize tudo\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Configure débitos para investimento e contas; a disciplina vira sistema — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Automatize tudo\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Não corte cafezinho",
-        "text": "Foque nos grandes alavancadores: salário, investimento cedo, taxas."
+        "text": "Foque nos grandes alavancadores: salário, investimento cedo, taxas.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Não corte cafezinho\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Foque nos grandes alavancadores: salário, investimento cedo, taxas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não corte cafezinho\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Negocie seu salário",
-        "text": "Aumento de 10% supera anos de pequena economia; prepare e peça."
+        "text": "Aumento de 10% supera anos de pequena economia; prepare e peça.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Negocie seu salário\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Aumento de 10% supera anos de pequena economia; prepare e peça — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Negocie seu salário\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Fundo de emergência",
-        "text": "Reserva de 3 a 6 meses evita vender investimentos no pior momento."
+        "text": "Reserva de 3 a 6 meses evita vender investimentos no pior momento.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Fundo de emergência\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Reserva de 3 a 6 meses evita vender investimentos no pior momento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fundo de emergência\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Poupe para o que importa",
-        "text": "Gaste com consciência nas prioridades; sem culpa no resto."
+        "text": "Gaste com consciência nas prioridades; sem culpa no resto.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Poupe para o que importa\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Gaste com consciência nas prioridades; sem culpa no resto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Poupe para o que importa\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use cartão com inteligência",
-        "text": "Pague à vista, colha pontos e proteção; não financie dívida."
+        "text": "Pague à vista, colha pontos e proteção; não financie dívida.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Use cartão com inteligência\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Pague à vista, colha pontos e proteção; não financie dívida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use cartão com inteligência\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Comece cedo e pouco",
-        "text": "Juro composto recompensa o tempo mais que o valor inicial."
+        "text": "Juro composto recompensa o tempo mais que o valor inicial.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Comece cedo e pouco\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Juro composto recompensa o tempo mais que o valor inicial — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece cedo e pouco\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Invista em indexado barato",
-        "text": "Fundo de baixo custo e automático supera a maioria dos ativos."
+        "text": "Fundo de baixo custo e automático supera a maioria dos ativos.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Invista em indexado barato\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Fundo de baixo custo e automático supera a maioria dos ativos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Invista em indexado barato\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Converse sobre dinheiro",
-        "text": "Alinhe o casal em metas; o silêncio gera conflito e erro."
+        "text": "Alinhe o casal em metas; o silêncio gera conflito e erro.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Converse sobre dinheiro\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Alinhe o casal em metas; o silêncio gera conflito e erro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Converse sobre dinheiro\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Estruture contas",
-        "text": "Contas de gastos, investimento e diversão separam o dinheiro por função."
+        "text": "Contas de gastos, investimento e diversão separam o dinheiro por função.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Estruture contas\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Contas de gastos, investimento e diversão separam o dinheiro por função — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estruture contas\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Evite taxas altas",
-        "text": "Cada taxa come retorno; prefira opções de custo mínimo."
+        "text": "Cada taxa come retorno; prefira opções de custo mínimo.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Evite taxas altas\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Cada taxa come retorno; prefira opções de custo mínimo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite taxas altas\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Riqueza é estilo de vida",
-        "text": "Rico é quem desenha a vida que quer, com consciência, não de restrição."
+        "text": "Rico é quem desenha a vida que quer, com consciência, não de restrição.",
+        "explicacoes": [
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Riqueza é estilo de vida\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
+          "Na prática: Rico é quem desenha a vida que quer, com consciência, não de restrição — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Riqueza é estilo de vida\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -50330,81 +50585,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Omita os Mitos",
         "text": "Sethi destrói a ideia de que ficar rico exige restrição tediosa.",
         "points": [
-          "Mitologia",
-          "Liberdade",
-          "Ação"
+          {
+            "t": "Mitologia",
+            "e": "Sethi destrói a ideia de que ficar rico exige restrição tediosa.",
+            "f": "Na visão de Ramit Sethi, \"mitologia\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Sethi destrói a ideia de que ficar rico exige restrição tediosa.",
+            "f": "Na visão de Ramit Sethi, \"liberdade\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Ação",
+            "e": "Sethi destrói a ideia de que ficar rico exige restrição tediosa.",
+            "f": "Na visão de Ramit Sethi, \"ação\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Contas e Automação",
         "text": "Estruture contas de gastos, investimento e diversão e automatize.",
         "points": [
-          "Três contas",
-          "Débito automático",
-          "Sistema"
+          {
+            "t": "Três contas",
+            "e": "Estruture contas de gastos, investimento e diversão e automatize.",
+            "f": "Na visão de Ramit Sethi, \"três contas\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Débito automático",
+            "e": "Estruture contas de gastos, investimento e diversão e automatize.",
+            "f": "Na visão de Ramit Sethi, \"débito automático\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Sistema",
+            "e": "Estruture contas de gastos, investimento e diversão e automatize.",
+            "f": "Na visão de Ramit Sethi, \"sistema\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Fundo de Emergência",
         "text": "Reserva de 3 a 6 meses antes de qualquer investimento arriscado.",
         "points": [
-          "Colchão",
-          "Ordem",
-          "Segurança"
+          {
+            "t": "Colchão",
+            "e": "Reserva de 3 a 6 meses antes de qualquer investimento arriscado.",
+            "f": "Na visão de Ramit Sethi, \"colchão\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Ordem",
+            "e": "Reserva de 3 a 6 meses antes de qualquer investimento arriscado.",
+            "f": "Na visão de Ramit Sethi, \"ordem\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Segurança",
+            "e": "Reserva de 3 a 6 meses antes de qualquer investimento arriscado.",
+            "f": "Na visão de Ramit Sethi, \"segurança\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Dominar o Cartão",
         "text": "Use crédito com inteligência, pague à vista e colha benefícios.",
         "points": [
-          "Pontos",
-          "Proteção",
-          "Sem dívida"
+          {
+            "t": "Pontos",
+            "e": "Use crédito com inteligência, pague à vista e colha benefícios.",
+            "f": "Na visão de Ramit Sethi, \"pontos\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Proteção",
+            "e": "Use crédito com inteligência, pague à vista e colha benefícios.",
+            "f": "Na visão de Ramit Sethi, \"proteção\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Sem dívida",
+            "e": "Use crédito com inteligência, pague à vista e colha benefícios.",
+            "f": "Na visão de Ramit Sethi, \"sem dívida\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Investir Cedo",
         "text": "Contas automáticas em indexado barato aproveitam o juro composto.",
         "points": [
-          "Indexado",
-          "Composto",
-          "Tempo"
+          {
+            "t": "Indexado",
+            "e": "Contas automáticas em indexado barato aproveitam o juro composto.",
+            "f": "Comece cedo, mesmo com pouco; o tempo fará o trabalho pesado.",
+            "real": true
+          },
+          {
+            "t": "Composto",
+            "e": "Contas automáticas em indexado barato aproveitam o juro composto.",
+            "f": "Na visão de Ramit Sethi, \"composto\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Tempo",
+            "e": "Contas automáticas em indexado barato aproveitam o juro composto.",
+            "f": "Na visão de Ramit Sethi, \"tempo\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Negociar Salário",
         "text": "A maior alavanca: prepare, pesquise e peça aumento com confiança.",
         "points": [
-          "Preparação",
-          "Pesquisa",
-          "Coragem"
+          {
+            "t": "Preparação",
+            "e": "A maior alavanca: prepare, pesquise e peça aumento com confiança.",
+            "f": "A maior alavanca da sua carreira é aprender a negociar seu salário.",
+            "real": true
+          },
+          {
+            "t": "Pesquisa",
+            "e": "A maior alavanca: prepare, pesquise e peça aumento com confiança.",
+            "f": "Na visão de Ramit Sethi, \"pesquisa\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Coragem",
+            "e": "A maior alavanca: prepare, pesquise e peça aumento com confiança.",
+            "f": "Na visão de Ramit Sethi, \"coragem\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Gastar com Consciência",
         "text": "Poupe para prioridades e gaste no resto sem culpa.",
         "points": [
-          "Prioridades",
-          "Sem culpa",
-          "Estilo"
+          {
+            "t": "Prioridades",
+            "e": "Poupe para prioridades e gaste no resto sem culpa.",
+            "f": "Na visão de Ramit Sethi, \"prioridades\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Sem culpa",
+            "e": "Poupe para prioridades e gaste no resto sem culpa.",
+            "f": "Poupe para as coisas que importam e gaste no resto sem culpa.",
+            "real": true
+          },
+          {
+            "t": "Estilo",
+            "e": "Poupe para prioridades e gaste no resto sem culpa.",
+            "f": "Na visão de Ramit Sethi, \"estilo\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Dinheiro no Casal",
         "text": "Alinhar o parceiro em metas evita conflito e erro financeiro.",
         "points": [
-          "Alinhamento",
-          "Metas",
-          "Diálogo"
+          {
+            "t": "Alinhamento",
+            "e": "Alinhar o parceiro em metas evita conflito e erro financeiro.",
+            "f": "Na visão de Ramit Sethi, \"alinhamento\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Metas",
+            "e": "Alinhar o parceiro em metas evita conflito e erro financeiro.",
+            "f": "Na visão de Ramit Sethi, \"metas\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Diálogo",
+            "e": "Alinhar o parceiro em metas evita conflito e erro financeiro.",
+            "f": "Na visão de Ramit Sethi, \"diálogo\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — A Vida Rica",
         "text": "Riqueza é desenhar a vida que se quer, não viver de migalhas.",
         "points": [
-          "Estilo de vida",
-          "Consciência",
-          "Resultado"
+          {
+            "t": "Estilo de vida",
+            "e": "Riqueza é desenhar a vida que se quer, não viver de migalhas.",
+            "f": "Na visão de Ramit Sethi, \"estilo de vida\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Consciência",
+            "e": "Riqueza é desenhar a vida que se quer, não viver de migalhas.",
+            "f": "Na visão de Ramit Sethi, \"consciência\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          },
+          {
+            "t": "Resultado",
+            "e": "Riqueza é desenhar a vida que se quer, não viver de migalhas.",
+            "f": "Na visão de Ramit Sethi, \"resultado\" é parte essencial da proposta de \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -50563,62 +50953,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "O caso LTCM",
-        "text": "A história mostra como brilho intelectual virou colapso sistêmico."
+        "text": "A história mostra como brilho intelectual virou colapso sistêmico.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"O caso LTCM\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: A história mostra como brilho intelectual virou colapso sistêmico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"O caso LTCM\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Modelos têm limites",
-        "text": "Matemática sofisticada falha nas horas em que mais importa."
+        "text": "Matemática sofisticada falha nas horas em que mais importa.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Modelos têm limites\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Matemática sofisticada falha nas horas em que mais importa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Modelos têm limites\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Cuidado com alavancagem",
-        "text": "Pouco capital e muita dívida tornam o erro fatal."
+        "text": "Pouco capital e muita dívida tornam o erro fatal.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Cuidado com alavancagem\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Pouco capital e muita dívida tornam o erro fatal — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuidado com alavancagem\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Risco de cauda",
-        "text": "Eventos raros extremos são a verdadeira ameaça aos fundos."
+        "text": "Eventos raros extremos são a verdadeira ameaça aos fundos.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Risco de cauda\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Eventos raros extremos são a verdadeira ameaça aos fundos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Risco de cauda\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Diversificação falha junto",
-        "text": "Na crise, correlações sobem e tudo cai ao mesmo tempo."
+        "text": "Na crise, correlações sobem e tudo cai ao mesmo tempo.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Diversificação falha junto\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Na crise, correlações sobem e tudo cai ao mesmo tempo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diversificação falha junto\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Liquidez é incerta",
-        "text": "Na hora de vender, a contraparte some; não conte com ela."
+        "text": "Na hora de vender, a contraparte some; não conte com ela.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Liquidez é incerta\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Na hora de vender, a contraparte some; não conte com ela — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Liquidez é incerta\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Humildade diante do risco",
-        "text": "Admitir limites do modelo evita a arrogância fatal."
+        "text": "Admitir limites do modelo evita a arrogância fatal.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Humildade diante do risco\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Admitir limites do modelo evita a arrogância fatal — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Humildade diante do risco\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Interconexão sistêmica",
-        "text": "Grandes fundos podem arrastar o sistema inteiro."
+        "text": "Grandes fundos podem arrastar o sistema inteiro.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Interconexão sistêmica\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Grandes fundos podem arrastar o sistema inteiro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Interconexão sistêmica\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Árbitragem não é grátis",
-        "text": "Estratégia aparentemente segura vira armadilha em massa."
+        "text": "Estratégia aparentemente segura vira armadilha em massa.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Árbitragem não é grátis\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Estratégia aparentemente segura vira armadilha em massa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Árbitragem não é grátis\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Capital próprio protege",
-        "text": "Margem de capital é o amortecedor contra o improvável."
+        "text": "Margem de capital é o amortecedor contra o improvável.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Capital próprio protege\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Margem de capital é o amortecedor contra o improvável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Capital próprio protege\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "O mercado erra",
-        "text": "Pânico e irracionalidade dominam em extremos."
+        "text": "Pânico e irracionalidade dominam em extremos.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"O mercado erra\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: Pânico e irracionalidade dominam em extremos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"O mercado erra\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Lição para reguladores",
-        "text": "O too big to fail exige atenção e capital de proteção."
+        "text": "O too big to fail exige atenção e capital de proteção.",
+        "explicacoes": [
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Lição para reguladores\" como peça-chave para a história e a psicologia por trás de Wall Street.",
+          "Na prática: O too big to fail exige atenção e capital de proteção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Lição para reguladores\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -50640,81 +51090,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Os Fundadores",
         "text": "Lowenstein apresenta os mentes brilhantes, incluindo dois futuros Nobel.",
         "points": [
-          "Mérick",
-          "Nobel",
-          "A promessa"
+          {
+            "t": "Mérick",
+            "e": "Lowenstein apresenta os mentes brilhantes, incluindo dois futuros Nobel.",
+            "f": "Na visão de Roger Lowenstein, \"mérick\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Nobel",
+            "e": "Lowenstein apresenta os mentes brilhantes, incluindo dois futuros Nobel.",
+            "f": "Na visão de Roger Lowenstein, \"nobel\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "A promessa",
+            "e": "Lowenstein apresenta os mentes brilhantes, incluindo dois futuros Nobel.",
+            "f": "Na visão de Roger Lowenstein, \"a promessa\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Teoria por Trás",
         "text": "Explica arbitragem e a moderna teoria de portfólio de forma acessível.",
         "points": [
-          "Arbitragem",
-          "Markowitz",
-          "Modelos"
+          {
+            "t": "Arbitragem",
+            "e": "Explica arbitragem e a moderna teoria de portfólio de forma acessível.",
+            "f": "Na visão de Roger Lowenstein, \"arbitragem\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Markowitz",
+            "e": "Explica arbitragem e a moderna teoria de portfólio de forma acessível.",
+            "f": "Na visão de Roger Lowenstein, \"markowitz\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Modelos",
+            "e": "Explica arbitragem e a moderna teoria de portfólio de forma acessível.",
+            "f": "Os modelos funcionavam até pararem de funcionar, exatamente quando mais importava.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Auge",
         "text": "Retornos estupendos atraem capital e alimentam a confiança excessiva.",
         "points": [
-          "Retornos",
-          "Confiança",
-          "Crescimento"
+          {
+            "t": "Retornos",
+            "e": "Retornos estupendos atraem capital e alimentam a confiança excessiva.",
+            "f": "Na visão de Roger Lowenstein, \"retornos\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Confiança",
+            "e": "Retornos estupendos atraem capital e alimentam a confiança excessiva.",
+            "f": "Na visão de Roger Lowenstein, \"confiança\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Crescimento",
+            "e": "Retornos estupendos atraem capital e alimentam a confiança excessiva.",
+            "f": "Na visão de Roger Lowenstein, \"crescimento\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Alavancagem",
         "text": "Pouco capital próprio e muita dívida montam a bomba-relógio.",
         "points": [
-          "Dívida",
-          "Bomba",
-          "Risco"
+          {
+            "t": "Dívida",
+            "e": "Pouco capital próprio e muita dívida montam a bomba-relógio.",
+            "f": "A alavancagem transformou um erro pequeno em uma catástrofe global.",
+            "real": true
+          },
+          {
+            "t": "Bomba",
+            "e": "Pouco capital próprio e muita dívida montam a bomba-relógio.",
+            "f": "Na visão de Roger Lowenstein, \"bomba\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Risco",
+            "e": "Pouco capital próprio e muita dívida montam a bomba-relógio.",
+            "f": "O risco que não se vê é o que destrói os melhores fundos.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — 1998",
         "text": "A crise russa dispara o colapso em semanas, não anos.",
         "points": [
-          "Rússia",
-          "Pânico",
-          "Queda"
+          {
+            "t": "Rússia",
+            "e": "A crise russa dispara o colapso em semanas, não anos.",
+            "f": "Na visão de Roger Lowenstein, \"rússia\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Pânico",
+            "e": "A crise russa dispara o colapso em semanas, não anos.",
+            "f": "Na visão de Roger Lowenstein, \"pânico\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Queda",
+            "e": "A crise russa dispara o colapso em semanas, não anos.",
+            "f": "Na visão de Roger Lowenstein, \"queda\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — A Correlação Sobe",
         "text": "Tudo cai junto; a diversificação não protege no pico.",
         "points": [
-          "Correlação",
-          "Massa",
-          "Contágio"
+          {
+            "t": "Correlação",
+            "e": "Tudo cai junto; a diversificação não protege no pico.",
+            "f": "Na visão de Roger Lowenstein, \"correlação\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Massa",
+            "e": "Tudo cai junto; a diversificação não protege no pico.",
+            "f": "Na visão de Roger Lowenstein, \"massa\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Contágio",
+            "e": "Tudo cai junto; a diversificação não protege no pico.",
+            "f": "Na visão de Roger Lowenstein, \"contágio\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Resgate",
         "text": "O Fed organiza socorro para evitar o colapso sistêmico.",
         "points": [
-          "Fed",
-          "Socorro",
-          "Too big to fail"
+          {
+            "t": "Fed",
+            "e": "O Fed organiza socorro para evitar o colapso sistêmico.",
+            "f": "Na visão de Roger Lowenstein, \"fed\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Socorro",
+            "e": "O Fed organiza socorro para evitar o colapso sistêmico.",
+            "f": "Na visão de Roger Lowenstein, \"socorro\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Too big to fail",
+            "e": "O Fed organiza socorro para evitar o colapso sistêmico.",
+            "f": "Na visão de Roger Lowenstein, \"too big to fail\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Lições de Risco",
         "text": "Risco de cauda e humildade são as lições não aprendidas a tempo.",
         "points": [
-          "Cauda",
-          "Humildade",
-          "Modelo"
+          {
+            "t": "Cauda",
+            "e": "Risco de cauda e humildade são as lições não aprendidas a tempo.",
+            "f": "O risco que não se vê é o que destrói os melhores fundos.",
+            "real": true
+          },
+          {
+            "t": "Humildade",
+            "e": "Risco de cauda e humildade são as lições não aprendidas a tempo.",
+            "f": "Na visão de Roger Lowenstein, \"humildade\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Modelo",
+            "e": "Risco de cauda e humildade são as lições não aprendidas a tempo.",
+            "f": "Na visão de Roger Lowenstein, \"modelo\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Por Que Importa",
         "text": "O caso permanece alerta sobre arrogância e interconexão financeira.",
         "points": [
-          "Alerta",
-          "Sistema",
-          "Memória"
+          {
+            "t": "Alerta",
+            "e": "O caso permanece alerta sobre arrogância e interconexão financeira.",
+            "f": "Na visão de Roger Lowenstein, \"alerta\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Sistema",
+            "e": "O caso permanece alerta sobre arrogância e interconexão financeira.",
+            "f": "Na visão de Roger Lowenstein, \"sistema\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          },
+          {
+            "t": "Memória",
+            "e": "O caso permanece alerta sobre arrogância e interconexão financeira.",
+            "f": "Na visão de Roger Lowenstein, \"memória\" é parte essencial da proposta de \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\".",
+            "real": false
+          }
         ]
       }
     ]
