@@ -3080,95 +3080,101 @@ window.MEU_BOLSO_BOOKS=[
       {
         "type": "truth",
         "title": "Pequenas disciplinas constroem caráter",
-        "text": "Tarefas pequenas completas criam momentum para as grandes.",
-        "reflection": "Você subestima o que uma pequena rotina diária faz?"
+        "text": "Quem cumpre a tarefa mínima diária — fazer a cama, revisar a agenda — treina o cérebro a terminar o que começa e projeta ordem para o resto do dia.",
+        "reflection": "Qual pequena disciplina você pode instalar hoje para ganhar tração imediata?"
       },
       {
         "type": "myth",
         "title": "Só grandes ações importam",
-        "text": "Quem ignora o pequeno raramente sustenta o grande.",
-        "reflection": "Você já deixou o essencial pelo \"importante demais\"?"
+        "text": "Esperar o gesto heroico paralisa o cotidiano; McRaven mostra que a vitória se acumula em centenas de micro-decisões corretas, não num único ato espetacular.",
+        "reflection": "Em que área da sua vida você tem adiado tudo por falta de um \"grand finale\"?"
       },
       {
         "type": "truth",
         "title": "Ninguém vence sozinho",
-        "text": "Círculos de apoio decidem o resultado em crises.",
-        "reflection": "Você pede ajuda ou finge que dá conta?"
+        "text": "No treinamento de SEAL, o barco de quatro centenas de quilos só sai da areia se os oito remadores puxarem juntos; individualismo no coletivo é naufrágio certo.",
+        "reflection": "Quem hoje poderia ser seu \"parceiro de remo\" num projeto difícil?"
       },
       {
         "type": "myth",
         "title": "Pedir ajuda é fraqueza",
-        "text": "Pedir ajuda é reconhecer a realidade, não falhar.",
-        "reflection": "Você já afundou por orgulho de não pedir?"
+        "text": "A cultura de superheroi disfarça insegurança; admitir que não dá conta e buscar apoio é a manobra mais racional de quem quer terminar o percurso.",
+        "reflection": "Qual pedido de ajuda você tem evitado por orgulho?"
       },
       {
         "type": "truth",
-        "title": "Foco no passo vence o medo",
-        "text": "Olhar o gigante paralisa; o próximo passo move.",
-        "reflection": "Você se paralisa medindo o problema inteiro?"
+        "title": "O tamanho do coração vence o tamanho do músculo",
+        "text": "McRaven avaliava os recrutas pela disposição em não desistir, não pela estatura; entre o físico e a vontade, a vontade decide quem chega ao fim.",
+        "reflection": "Como você tem medido o potencial das pessoas (e o seu)?"
       },
       {
         "type": "myth",
-        "title": "Coragem é não sentir medo",
-        "text": "Coragem é agir com medo, não ausência dele.",
-        "reflection": "Você já não fez algo só por estar com medo?"
+        "title": "Aparência prevê desempenho",
+        "text": "Julgar pelo porte ou pelo currículo tipo \"flippers grandes\" ilude; o canal de Coronado humilhou muitos favoritos e coroou os resistentes.",
+        "reflection": "Que preconceito seu já lhe fez subestimar alguém?"
       },
       {
         "type": "truth",
-        "title": "Seguir em frente é resposta",
-        "text": "Lamento não muda resultado; ação sim.",
-        "reflection": "Você gasta energia lamentando ou agindo?"
+        "title": "A vida não é justa — seguir em frente é a resposta",
+        "text": "Quem lamenta a injustiça gasta a energia que deveria usar para agir; aceitar o improvável e remar é a única saída prática.",
+        "reflection": "Em que situação você tem trocado ação por queixa?"
       },
       {
         "type": "myth",
         "title": "A vida deve ser justa",
-        "text": "Esperar justiça trava quem podia avançar.",
-        "reflection": "Você já parou à espera de o que \"era justo\"?"
+        "text": "A expectativa de justiça paralisante alimenta vítimas; o mundo real premia quem avança apesar do erro alheio, não quem espera reparação.",
+        "reflection": "O que mudaria se você assumisse que ninguém vai \"consertar\" o injusto por você?"
       },
       {
         "type": "truth",
-        "title": "O último esforço decide",
-        "text": "Cansaço é onde a maioria desiste e poucos vencem.",
-        "reflection": "Você costuma parar na hora que mais importa?"
+        "title": "O fracasso pode fortalecer",
+        "text": "Os \"circos\" — castigos extras de SEAL — separavam os que desistem dos que ficam; a adversidade repetida constrói músculo emocional.",
+        "reflection": "Qual fracasso recente você ainda não transformou em musculatura?"
       },
       {
         "type": "myth",
-        "title": "Esforço extra é exagero",
-        "text": "Os 10% finais costumam ser a diferença real.",
-        "reflection": "Você já ficou a um passo de vencer?"
+        "title": "Fracasso é o fim",
+        "text": "Rotular uma queda como definitiva cria profecia autorrealizável; McRaven virou os castigos em laboratório de resistência, não em sentença.",
+        "reflection": "Como você reenquadra uma falha para que ela não seja final?"
       },
       {
         "type": "truth",
-        "title": "Erguer outros fortalece você",
-        "text": "Esperança e apoio movem grupos e a si mesmo.",
-        "reflection": "Você já foi sustentado por quem acreditou em você?"
+        "title": "Ousar grande transforma",
+        "text": "Descer o obstáculo de cabeça é preferir o risco calculado à paralisia; quem nunca se arrisca fica travado na margem.",
+        "reflection": "Qual \"obstáculo\" você poderia enfrentar de frente esta semana?"
       },
       {
         "type": "myth",
-        "title": "Cada um por si",
-        "text": "Quem levanta o outro constrói quem o levanta.",
-        "reflection": "Você já cresceu por causa de alguém?"
+        "title": "Segurança é prudência",
+        "text": "Confundir prudência com imobilismo mata oportunidades; risco bem medido é ferramenta de quem avança, não inimigo.",
+        "reflection": "Onde sua \"precaução\" tem sido desculpa para não tentar?"
       },
       {
         "type": "truth",
-        "title": "Disciplina simples libera o resto",
-        "text": "Uma tarefa pequena cumprida abre espaço para as grandes.",
-        "reflection": "Você deixa o essencial para \"quando der\"?"
+        "title": "Esperança move pessoas",
+        "text": "McRaven encerra o livro defendendo que a esperança é a força mais poderosa do universo; líderes que a erguem mudam o rumo de equipes.",
+        "reflection": "A quem você pode devolver um pouco de esperança hoje?"
       },
       {
         "type": "myth",
-        "title": "Líder manda, não serve",
-        "text": "Servir é a forma mais alta de liderar, segundo McRaven.",
-        "reflection": "Você lidera mandando ou ajudando?"
+        "title": "Realismo é descrença",
+        "text": "Confundir ceticismo com maturidade gera cinismo tóxico; esperança fundamentada move mais do que pessimismo elegante.",
+        "reflection": "Seu \"realismo\" tem ajudado ou paralisado quem está ao seu redor?"
       },
       {
         "type": "truth",
-        "title": "Cansaço revela o caráter",
-        "text": "Quem sustenta o esforço no fim é quem chega.",
-        "reflection": "Você cede quando o cansaço bate?"
+        "title": "Nunca tocar o sino",
+        "text": "O sino em SEAL significava desistir para sempre; suportar mais um minuto de adversidade costuma ser a linha entre o meio e o fim.",
+        "reflection": "Em que frente você está tentado a \"tocar o sino\" — e o que custaria segurar um pouco mais?"
+      },
+      {
+        "type": "myth",
+        "title": "Saber quando parar é sabedoria",
+        "text": "Há sim limites legítimos, mas confundir exaustão temporária com fim real é a desculpa preferida de quem desiste cedo demais.",
+        "reflection": "Como distinguir \"pare por bem\" de \"estou fugindo do desconforto\"?"
       }
     ],
-    "summary": "Em \"Faça Sua Cama\" (Make Your Bed, 2017), o almirante de esquadra William H. McRaven — ex-comandante das Operações Especiais da Marinha dos EUA e quem liderou a operação que matou Osama bin Laden — transforma seu discurso de formatura na Universidade do Texas, que viralizou com dezenas de milhões de visualizações, em dez lições extraídas do treinamento de Navy SEAL. Cada capítulo parte de uma provação real dos treinamentos em Coronado — acordar às 5h30, rolar na areia, enfrentar os \"circos\" punitivos, não tocar o sino que significa desistência — para extrair uma verdade sobre liderança, resiliência e caráter. A tese central é simples e contraintuitiva: as grandes mudanças de vida começam em disciplinas minúsculas e diárias. Fazer a cama de manhã não muda o mundo, mas prova a si mesmo que você cumpre o que propõe e encadeia a próxima vitória. McRaven estende a lógica à vida civil: encontre quem reme com você, não julgue pelas aparências, enfrente os bullies, assuma riscos de cabeça e, sobretudo, nunca toque o sino. Não é um manual de produtividade; é um tratado de como a ordem, a coragem e a esperança sustentam quem enfrenta dias difíceis.",
+    "summary": "Make Your Bed — nascido do discurso de formatura da Universidade do Texas em 2014, o almirante William H. McRaven condensa décadas de comando nas Forças Especiais da Marinha dos EUA em dez lições sobre como mudar o mundo começando pelo básico. Cada capítulo parte de uma provação real do treinamento de SEAL — acordar às 23h para nadar no canal de Coronado, carregar o barco de quase quatrocentos quilos, enfrentar os instrutores \"tubarão\" — e extrai dela uma aplicação prática para a vida civil: liderança, resiliência, trabalho em equipe e esperança. McRaven sustenta que grandes transformações nascem de pequenas disciplinas diárias e que o caráter se forja nos momentos mais escuros. Com mais de dez milhões de exemplares vendidos e traduções para dezenas de idiomas, virou manual de liderança para formandos, gestores e qualquer um que queira transformar intenção em ação concreta. Não é um tratado de estratégia, mas um lembrete contundente: a ordem externa reflete a ordem interna — e arrumar a própria cama já é o primeiro passo para mudar o mundo.",
     "color": "#1f3a5f",
     "file": "livro.html#arrume-sua-cama",
     "citacoes": [
@@ -3178,20 +3184,20 @@ window.MEU_BOLSO_BOOKS=[
         "obra": "Make Your Bed"
       },
       {
-        "texto": "O que começa aqui pode, de fato, mudar o mundo — e a pergunta é: como o mundo será depois que você o mudar?",
+        "texto": "Se você quer mudar o mundo, encontre alguém para ajudá-lo a remar.",
         "autor": "William H. McRaven",
         "obra": "Make Your Bed"
       },
       {
-        "texto": "Não desista jamais: se você tocar a campainha, não precisa mais enfrentar os nadadores no frio — mas também sai do jogo.",
+        "texto": "Nunca, jamais toque o sino.",
         "autor": "William H. McRaven",
         "obra": "Make Your Bed"
       }
     ],
     "citacoesTerceiros": [
       {
-        "texto": "Exquisitely simple... superb, smart, and succinct ideas.",
-        "autor": "Leitor",
+        "texto": "Exquisitely simple... superb, smart, and succinct ideas that stay with you long after the speech ends.",
+        "autor": "Editorial",
         "fonte": "Amazon"
       },
       {
@@ -3210,416 +3216,542 @@ window.MEU_BOLSO_BOOKS=[
     "ensinamentos": [
       {
         "number": "1",
-        "title": "Comece o dia arrumando a cama",
-        "text": "Uma tarefa pequena e completa de imediato dá a sensação de vitória logo cedo.",
+        "title": "Comece o dia com uma tarefa concluída",
+        "text": "Arrumar a cama pela manhã cria uma primeira conquista tangível; psicologicamente, isso eleva a autoeficácia e encoraja a encarar as próximas tarefas do dia com confiança em vez de procrastinação.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Comece o dia arrumando a cama\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Uma tarefa pequena e completa de imediato dá a sensação de vitória logo cedo — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Comece o dia arrumando a cama\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Uma vitória de manhã reduz a resistência às tarefas seguintes.",
+          "Ordem visual no quarto traduz-se em clareza mental para decidir.",
+          "Se o dia desmoronar, você volta para casa a uma cama feita — um refúgio mínimo."
         ]
       },
       {
         "number": "2",
-        "title": "Você não pode sozinho — procure ajuda",
-        "text": "Ninguém vence sozinho; círculos de apoio decidem o resultado.",
+        "title": "Você não pode fazer tudo sozinho",
+        "text": "No barco de quase quatrocentos quilos, oito remadores só saem da areia se puxarem juntos; pedir e oferecer ajuda não é fraqueza, é a própria mecânica da sobrevivência coletiva.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Você não pode sozinho — procure ajuda\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Ninguém vence sozinho; círculos de apoio decidem o resultado — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Você não pode sozinho — procure ajuda\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Círculos de apoio decidem quem chega ao fim.",
+          "Admitir limite abre espaço para complementaridade.",
+          "Quem apoia hoje é apoiado amanhã na mesma corrente."
         ]
       },
       {
         "number": "3",
-        "title": "Medir o tamanho do adversário só cansa",
-        "text": "Quem foca no obstáculo gigante paralisa; foque no próximo passo.",
+        "title": "Meça as pessoas pelo coração, não pelo porte",
+        "text": "McRaven ignorava o físico e procurava quem não desistia; entre estatura e vontade, a vontade decide. Julgar por aparência ou currículo ilude e desperdiça talento.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Medir o tamanho do adversário só cansa\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Quem foca no obstáculo gigante paralisa; foque no próximo passo — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Medir o tamanho do adversário só cansa\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Disposição supera talento bruto sob pressão.",
+          "Preconceito de superfície esconde potencial.",
+          "Liderança exige enxergar esforço, não rótulo."
         ]
       },
       {
         "number": "4",
         "title": "A vida não é justa — siga em frente",
-        "text": "Esperar justiça trava a ação; quem avança aprende a lidar com o injusto.",
+        "text": "Esperar justiça trava a ação; quem avança aprende a lidar com o injusto enquanto o lamentador fica para trás. Aceitar o improvável libera energia para remar.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"A vida não é justa — siga em frente\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Esperar justiça trava a ação; quem avança aprende a lidar com o injusto — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"A vida não é justa — siga em frente\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Lamento não altera o resultado, apenas drena.",
+          "Seguir em frente é a única resposta útil.",
+          "Resiliência nasce da aceitação, não da revolta ociosa."
         ]
       },
       {
         "number": "5",
-        "title": "Não tema o risco calculado",
-        "text": "Quem nunca se arrisca fica parado; coragem medida abre caminhos.",
+        "title": "O fracasso pode torná-lo mais forte",
+        "text": "Os \"circos\" — castigos extras — separavam os que desistem dos que ficam; a adversidade repetida constrói músculo emocional. Falhar bem é treino disfarçado de punição.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Não tema o risco calculado\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Quem nunca se arrisca fica parado; coragem medida abre caminhos — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Não tema o risco calculado\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Cada queda bem processada vira preparo.",
+          "Evitar o risco evita também o crescimento.",
+          "Resistência é músculo que só cresce sob carga."
         ]
       },
       {
         "number": "6",
-        "title": "Empurre quando estiver exausto",
-        "text": "Os últimos 10% do esforço costumam decidir a vitória.",
+        "title": "Ouse grandes coisas com risco calculado",
+        "text": "Descer o obstáculo de cabeça é preferir o risco medido à paralisia; quem nunca se arrisca fica travado na margem enquanto outros avançam.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Empurre quando estiver exausto\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Os últimos 10% do esforço costumam decidir a vitória — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Empurre quando estiver exausto\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Risco calculado é ferramenta, não inimigo.",
+          "Imobilismo disfarçado de \"precação\" mata chances.",
+          "Ação vence a dúvida paralisante."
         ]
       },
       {
         "number": "7",
-        "title": "Tenha esperança e levante os outros",
-        "text": "Esperança e encorajamento são forças que mudam pessoas e situações.",
+        "title": "Enfrente os tubarões de frente",
+        "text": "Os instrutores \"tubarão\" testavam se o recruta recuava; enfrentar o medo — e não fugir dele — separa quem é levado a sério de quem se esconde.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Tenha esperança e levante os outros\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Esperança e encorajamento são forças que mudam pessoas e situações — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Tenha esperança e levante os outros\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Coragem é agir com medo, não sem ele.",
+          "Evitar o confronto saudável custa respeito.",
+          "Quem recua treina o medo a comandar."
         ]
       },
       {
         "number": "8",
-        "title": "Comece pelo simples",
-        "text": "A primeira vitória pequena destrava todo o resto do dia.",
+        "title": "Seja o melhor nos momentos mais escuros",
+        "text": "Nos turnos das 23h, quando o corpo pede desistência, a qualidade da resposta define o caráter; insistir no padrão alto no cansaço é o teste real da liderança.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Comece pelo simples\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "A primeira vitória pequena destrava todo o resto do dia — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Comece pelo simples\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "O padrão sob estresse revela quem você é.",
+          "Cansaço é onde a maioria abandona.",
+          "Constância no fim separa médios de excelentes."
         ]
       },
       {
         "number": "9",
-        "title": "Força está na equipe",
-        "text": "Ninguém passa sozinho pelo difícil; apoio decide o resultado.",
+        "title": "Dê esperança e levante os outros",
+        "text": "McRaven encerra defendendo que a esperança é a força mais poderosa do universo; quem a ergue move nações e equipes, e ainda fortalece a si mesmo.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Força está na equipe\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Ninguém passa sozinho pelo difícil; apoio decide o resultado — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Força está na equipe\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Quem anima o outro fortalece a si.",
+          "Esperança move grupos em crise.",
+          "Liderança é servir e erguer, não mandar."
         ]
       },
       {
         "number": "10",
-        "title": "Foco no próximo passo",
-        "text": "Medir o gigante paralisa; o passo move.",
+        "title": "Nunca, jamais toque o sino",
+        "text": "O sino em SEAL significava desistir para sempre; suportar mais um minuto de adversidade costuma ser a linha entre o meio e o fim. A persistência é a decisão diária de não parar.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Foco no próximo passo\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Medir o gigante paralisa; o passo move — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Foco no próximo passo\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Desistir é irreversível; segurar é temporário.",
+          "Quase todo fim vem um pouco depois de querer parar.",
+          "Reserva extra decide quem chega."
         ]
       },
       {
         "number": "11",
-        "title": "Aja com medo",
-        "text": "Coragem é agir sentindo medo, não ausência dele.",
+        "title": "Cuide de quem divide a jornada",
+        "text": "O companheiro ao lado carrega parte do peso invisível; cuidar dele é cuidar da própria chegada. Relações de confiança são infraestrutura de qualquer missão.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Aja com medo\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "Coragem é agir sentindo medo, não ausência dele — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Aja com medo\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Laço verdadeiro se forma na adversidade.",
+          "Confiança multiplica a força bruta.",
+          "Quem cuida do grupo é cuidado de volta."
         ]
       },
       {
         "number": "12",
-        "title": "Reserva decide o fim",
-        "text": "O último esforço separa quem chega de quem desiste.",
+        "title": "Transforme intenção em ação mínima",
+        "text": "Discurso inspirador não muda mundo; a cama feita sim. Reduzir a intenção a um ato concreto e imediato é o antídoto contra a paralisia da grandeza.",
         "explicacoes": [
-          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Reserva decide o fim\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
-          "O último esforço separa quem chega de quem desiste — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
-          "Ignorar \"Reserva decide o fim\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
+          "Inspiração sem ato evapora.",
+          "Ato mínimo gera ímpeto.",
+          "Grandeza se constrói em tijolos pequenos."
         ]
       }
     ],
     "chapters": [
       {
-        "title": "Capítulo 1 — Arrume a cama",
-        "text": "A primeira lição de SEAL: comece com uma vitória pequena.",
+        "title": "Capítulo 1 — Comece o dia com uma tarefa concluída",
+        "text": "A primeira lição de SEAL começa antes do treino: ao arrumar a cama, você completa a primeira tarefa do dia e prova a si mesmo que consegue terminar o que começa.",
         "points": [
           {
-            "t": "Vitória de manhã encoraja",
-            "e": "A primeira lição de SEAL: comece com uma vitória pequena.",
+            "t": "A cama feita é a primeira vitória",
+            "e": "McRaven abre o livro com a rotina de SEAL: arrumar a cama cria uma conquista tangível que eleva a autoeficácia logo ao acordar.",
             "f": "Se você quer mudar o mundo, comece arrumando sua cama. Quem não faz as coisas pequenas direito, nunca fará as grandes.",
-            "real": true
+            "real": "Se você quer mudar o mundo, comece arrumando sua cama. Quem não faz as coisas pequenas direito, nunca fará as grandes."
           },
           {
-            "t": "Ordem externa ajuda",
-            "e": "A primeira lição de SEAL: comece com uma vitória pequena.",
-            "f": "Se você quer mudar o mundo, comece arrumando sua cama. Quem não faz as coisas pequenas direito, nunca fará as grandes.",
-            "real": true
-          },
-          {
-            "t": "Tarefa feita cedo prova que você cumpre",
-            "e": "A primeira lição de SEAL: comece com uma vitória pequena.",
-            "f": "Na visão de William H. McRaven, tarefa feita cedo prova que você cumpre.",
+            "t": "Efeito cascata de micro-vitórias",
+            "e": "Cada tarefa concluída reduz a procrastinação e cria um ciclo positivo que sustenta o resto do dia com menos resistência.",
+            "f": "Pequenas tarefas concluídas geram o ímpeto para enfrentar desafios maiores ao longo do dia.",
             "real": false
           },
           {
-            "t": "Pequeno ritual estrutura o dia",
-            "e": "A primeira lição de SEAL: comece com uma vitória pequena.",
-            "f": "Na visão de William H. McRaven, pequeno ritual estrutura o dia.",
+            "t": "Ordem externa, clareza interna",
+            "e": "Um ambiente arrumado devolve ao cérebro o senso de controle necessário para decidir com calma.",
+            "f": "Na visão de McRaven, a ordem no quarto traduz-se em ordem na mente antes de qualquer batalha.",
             "real": false
           },
           {
-            "t": "Começar pelo simples destrava o resto",
-            "e": "A primeira lição de SEAL: comece com uma vitória pequena.",
-            "f": "Na visão de William H. McRaven, começar pelo simples destrava o resto.",
+            "t": "Refúgio mínimo ao fim do dia",
+            "e": "Se tudo der errado, voltar para uma cama feita é um consolo concreto que evita o colapso total.",
+            "f": "Ao fim de um dia ruim, uma cama feita é um sinal de que algo foi controlado.",
             "real": false
           },
           {
-            "t": "Cama feita é metáfora de responsabilidade",
-            "e": "A primeira lição de SEAL: comece com uma vitória pequena.",
-            "f": "Na visão de William H. McRaven, cama feita é metáfora de responsabilidade.",
+            "t": "Símbolo de responsabilidade",
+            "e": "A cama é a metáfora diária de que você responde pelo seu próprio espaço e pelas suas escolhas.",
+            "f": "Arrumar a cama é assumir, todas as manhãs, a autoria da própria vida.",
+            "real": false
+          },
+          {
+            "t": "Treino de término",
+            "e": "Repetir o ato de terminar algo pequeno treina o cérebro a não deixar tarefas pela metade.",
+            "f": "O hábito de concluir o mínimo prepara para concluir o máximo sob pressão.",
             "real": false
           }
         ]
       },
       {
-        "title": "Capítulo 2 — Ajuda e amizade",
-        "text": "Ninguém passa sozinho pelo difícil.",
+        "title": "Capítulo 2 — Você não pode fazer tudo sozinho",
+        "text": "Ninguém passa sozinho pelo difícil; o barco de areia só sai com oito remadores puxando junto, e pedir ajuda é a manobra mais racional de quem quer terminar.",
         "points": [
+          {
+            "t": "O barco de quatrocentos quilos",
+            "e": "A embarcação de SEAL exige os oito remadores em sincronia; individualismos a afundam na areia.",
+            "f": "Se você quer mudar o mundo, encontre alguém para ajudá-lo a remar.",
+            "real": true
+          },
           {
             "t": "Pedir ajuda é força",
-            "e": "Ninguém passa sozinho pelo difícil.",
-            "f": "O que começa aqui pode, de fato, mudar o mundo — e a pergunta é: como o mundo será depois que você o mudar?",
+            "e": "Admitir limite abre espaço para complementaridade em vez de fingir onipotência.",
+            "f": "Na visão de McRaven, reconhecer que não dá sozinho é o primeiro passo da liderança.",
+            "real": false
+          },
+          {
+            "t": "Time vence a crise",
+            "e": "Grupos coesos superam indivíduos talentosos porém isolados em situações de estresse.",
+            "f": "Quem rema junto chega; quem rema sozinho naufraga.",
+            "real": false
+          },
+          {
+            "t": "Confiança multiplica força",
+            "e": "Confiar no outro libera energia que seria gasta em defesa e suspeita.",
+            "f": "Laços de confiança são a alavanca da performance coletiva.",
+            "real": false
+          },
+          {
+            "t": "Apoie para ser apoiado",
+            "e": "Cuidar do companheiro de jornada é a forma mais segura de garantir apoio quando precisar.",
+            "f": "Quem estende a mão recebe a mão estendida no momento crítico.",
+            "real": false
+          },
+          {
+            "t": "Solidão é risco operacional",
+            "e": "Isolar-se em missões difíceis aumenta a chance de erro fatal por falta de ponto cego alheio.",
+            "f": "Sozinho, o erro não tem quem avise; em dupla, há quem corrija.",
+            "real": false
+          }
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Só o tamanho do coração importa",
+        "text": "McRaven avaliava recrutas pela disposição de não desistir, não pela estatura; entre físico e vontade, a vontade decide quem chega ao fim.",
+        "points": [
+          {
+            "t": "Coração sobre porte",
+            "e": "O canal de Coronado humilhou favoritos de físico e coroou os resilientes; o critério real era a vontade.",
+            "f": "Meça uma pessoa pelo tamanho do coração, não pelo tamanho das nadadeiras.",
             "real": true
           },
           {
-            "t": "Time vence crise",
-            "e": "Ninguém passa sozinho pelo difícil.",
-            "f": "Na visão de William H. McRaven, time vence crise.",
+            "t": "Preconceito de superfície ilude",
+            "e": "Julgar pelo corpo ou currículo esconde talento e preserva medíocres bem-aparamentados.",
+            "f": "Aparência é o pior critério para prever desempenho sob fogo.",
             "real": false
           },
           {
-            "t": "Confiança no outro multiplica a força",
-            "e": "Ninguém passa sozinho pelo difícil.",
-            "f": "Na visão de William H. McRaven, confiança no outro multiplica a força.",
+            "t": "Vontade decide sob pressão",
+            "e": "Quando o cansaço bate, só quem quer de fato continua; o resto desiste com desculpa nobre.",
+            "f": "Entre o capaz e o obstinado, a obstinação vence o cansaço.",
             "real": false
           },
           {
-            "t": "Laço verdadeiro se forma na adversidade",
-            "e": "Ninguém passa sozinho pelo difícil.",
-            "f": "Na visão de William H. McRaven, laço verdadeiro se forma na adversidade.",
+            "t": "Potencial se mede por esforço",
+            "e": "Quem insiste revela capacidade que exames iniciais não capturam.",
+            "f": "Esforço sustentado é a melhor proxy de potencial real.",
             "real": false
           },
           {
-            "t": "Quem apoia recebe apoio",
-            "e": "Ninguém passa sozinho pelo difícil.",
-            "f": "Na visão de William H. McRaven, quem apoia recebe apoio.",
+            "t": "Liderança enxerga esforço",
+            "e": "Bons líderes premiam disposição, não rótulo, e assim retêm quem faz a diferença.",
+            "f": "Enxergar suor e não status é vantagem competitiva de equipe.",
             "real": false
           },
           {
-            "t": "Solidão no combate é risco",
-            "e": "Ninguém passa sozinho pelo difícil.",
-            "f": "Na visão de William H. McRaven, solidão no combate é risco.",
+            "t": "Autoimagem de coração",
+            "e": "Acreditar que o tamanho do seu coração é a métrica liberta do complexo de inferioridade.",
+            "f": "Quem se mede pelo empenho deixa de se comparar por aparência.",
             "real": false
           }
         ]
       },
       {
-        "title": "Capítulo 3 — O barco vale mais",
-        "text": "Cuidar do grupo antes de si mesmo.",
+        "title": "Capítulo 4 — A vida não é justa, siga em frente",
+        "text": "Esperar justiça paralisa a ação; quem avança aprende a conviver com o injusto enquanto o lamentador fica para trás. Aceitar o improvável libera energia para remar.",
         "points": [
           {
-            "t": "Grupo antes do eu",
-            "e": "Cuidar do grupo antes de si mesmo.",
-            "f": "Não desista jamais: se você tocar a campainha, não precisa mais enfrentar os nadadores no frio — mas também sai do jogo.",
+            "t": "Lamento não muda resultado",
+            "e": "Investir energia em queixa é energia subtraída da ação que poderia reverter o quadro.",
+            "f": "Get over being a sugar cookie and keep moving forward.",
             "real": true
           },
           {
-            "t": "Servir fortalece",
-            "e": "Cuidar do grupo antes de si mesmo.",
-            "f": "Na visão de William H. McRaven, servir fortalece.",
+            "t": "Seguir é a resposta útil",
+            "e": "Diante da injustiça, a única saída prática é avançar, não exigir reparação imediata.",
+            "f": "Quem segue em frente deixa para trás quem exigia explicações.",
             "real": false
           },
           {
-            "t": "Missão coletiva supera ambição pessoal",
-            "e": "Cuidar do grupo antes de si mesmo.",
-            "f": "Na visão de William H. McRaven, missão coletiva supera ambição pessoal.",
+            "t": "Resiliência nasce da aceitação",
+            "e": "Aceitar que o mundo é assim libera o foco do \"por quê\" para o \"e agora\".",
+            "f": "Aceitar o improvável troca indignação por passo seguinte.",
             "real": false
           },
           {
-            "t": "Líder carrega o time nas costas",
-            "e": "Cuidar do grupo antes de si mesmo.",
-            "f": "Na visão de William H. McRaven, líder carrega o time nas costas.",
+            "t": "Injustiça como constante",
+            "e": "Tratar injustiça como exceção gera choque paralisante; tratá-la como regra aciona o modo solução.",
+            "f": "Quem espera justiça fica parado; quem não espera, caminha.",
             "real": false
           },
           {
-            "t": "Quem cuida do grupo é cuidado de volta",
-            "e": "Cuidar do grupo antes de si mesmo.",
-            "f": "Na visão de William H. McRaven, quem cuida do grupo é cuidado de volta.",
+            "t": "Foco no que controla",
+            "e": "Direcionar energia ao que está ao alcance, não ao que deveria ser, protege a sanidade.",
+            "f": "Controle interno substitui a exigência de mundo justo.",
             "real": false
           },
           {
-            "t": "Bem comum protege o indivíduo",
-            "e": "Cuidar do grupo antes de si mesmo.",
-            "f": "Na visão de William H. McRaven, bem comum protege o indivíduo.",
+            "t": "Modelo para outros",
+            "e": "Quem segue em frente sob injustiça vira referência silenciosa de resistência para o grupo.",
+            "f": "Seguir em frente é liderança de exemplo sob adversidade.",
             "real": false
           }
         ]
       },
       {
-        "title": "Capítulo 4 — O obstáculo",
-        "text": "Não medir o gigante; focar no passo.",
+        "title": "Capítulo 5 — O fracasso pode torná-lo mais forte",
+        "text": "Os \"circos\" — castigos extras de SEAL — separavam os que desistem dos que ficam; a adversidade repetida constrói músculo emocional. Falhar bem é treino disfarçado de punição.",
         "points": [
           {
-            "t": "Foco no passo",
-            "e": "Não medir o gigante; focar no passo.",
-            "f": "Não desista jamais: se você tocar a campainha, não precisa mais enfrentar os nadadores no frio — mas também sai do jogo.",
+            "t": "Os circos como laboratório",
+            "e": "Os castigos extras eram onde se descobria quem resistia além do previsto.",
+            "f": "Se você quer mudar o mundo, não tema os circos.",
             "real": true
           },
           {
-            "t": "Amar o desafio",
-            "e": "Não medir o gigante; focar no passo.",
-            "f": "Na visão de William H. McRaven, amar o desafio.",
+            "t": "Falha bem processada vira preparo",
+            "e": "Cada queda analisada vira antecipação de erro futuro; o erro deixa de ser fim.",
+            "f": "Quem processa a falha constrói vantagem para a próxima.",
             "real": false
           },
           {
-            "t": "Tamanho do problema não muda a ação",
-            "e": "Não medir o gigante; focar no passo.",
-            "f": "Na visão de William H. McRaven, tamanho do problema não muda a ação.",
+            "t": "Evitar risco evita crescimento",
+            "e": "Quem se protege demais também se impede de descobrir seus limites reais.",
+            "f": "Imobilismo seguro é crescimento congelado.",
             "real": false
           },
           {
-            "t": "Dividir o impossível em passos torna possível",
-            "e": "Não medir o gigante; focar no passo.",
-            "f": "Na visão de William H. McRaven, dividir o impossível em passos torna possível.",
+            "t": "Resistência é músculo",
+            "e": "Só cresce sob carga repetida; conforto contínuo atrofia a capacidade de suportar.",
+            "f": "Adversidade doseada constrói capacidade de suportar mais.",
             "real": false
           },
           {
-            "t": "Resistência vence pânico",
-            "e": "Não medir o gigante; focar no passo.",
-            "f": "Na visão de William H. McRaven, resistência vence pânico.",
+            "t": "Vergonha como dado",
+            "e": "O constrangamento do castigo, bem absorvido, perde poder de paralisar.",
+            "f": "Quem desdramatiza o erro perde o medo de tentar.",
             "real": false
           },
           {
-            "t": "O obstáculo treina quem enfrenta",
-            "e": "Não medir o gigante; focar no passo.",
-            "f": "Na visão de William H. McRaven, o obstáculo treina quem enfrenta.",
+            "t": "Limiar mais alto",
+            "e": "Quem sobreviveu aos circos amplia o que considera \"suportável\", ganhando margem.",
+            "f": "O teto de tolerância sobe a cada adversidade bem vivida.",
             "real": false
           }
         ]
       },
       {
-        "title": "Capítulo 5 — Injustiça e risco",
-        "text": "Seguir em frente apesar da injustiça e do medo.",
+        "title": "Capítulo 6 — Ouse grandes coisas",
+        "text": "Descer o obstáculo de cabeça é preferir o risco medido à paralisia; quem nunca se arrisca fica travado na margem enquanto outros avançam.",
         "points": [
           {
-            "t": "Lamento não ajuda",
-            "e": "Seguir em frente apesar da injustiça e do medo.",
-            "f": "Na visão de William H. McRaven, lamento não ajuda.",
+            "t": "Descer de cabeça",
+            "e": "A manobra ousada no obstáculo ganhava tempo que a cautela perderia.",
+            "f": "Se você quer mudar o mundo, desça o obstáculo de cabeça.",
+            "real": true
+          },
+          {
+            "t": "Risco calculado é ferramenta",
+            "e": "Medir probabilidade e impacto transforma risco em alavanca, não em ameaça.",
+            "f": "Quem calcula o risco usa-o a favor, não contra.",
             "real": false
           },
           {
-            "t": "Risco calculado",
-            "e": "Seguir em frente apesar da injustiça e do medo.",
-            "f": "Na visão de William H. McRaven, risco calculado.",
+            "t": "Paralisia disfarçada de prudência",
+            "e": "Muita \"precação\" é medo de agir com roupagem racional.",
+            "f": "Imobilismo elegante ainda é imobilismo.",
             "real": false
           },
           {
-            "t": "Esperar justiça paralisa quem age",
-            "e": "Seguir em frente apesar da injustiça e do medo.",
-            "f": "Na visão de William H. McRaven, esperar justiça paralisa quem age.",
+            "t": "Ação vence dúvida",
+            "e": "Decidir e executar dissipa a ansiedade que a espera infinita alimenta.",
+            "f": "Quem age troca incerteza por aprendizado real.",
             "real": false
           },
           {
-            "t": "Coragem é agir com medo, não sem ele",
-            "e": "Seguir em frente apesar da injustiça e do medo.",
-            "f": "Na visão de William H. McRaven, coragem é agir com medo, não sem ele.",
+            "t": "Margem cansa quem fica",
+            "e": "Observar de fora o avanço alheio gera arrependimento pior que o risco.",
+            "f": "Ficar na margem custa mais do que tentar.",
             "real": false
           },
           {
-            "t": "Risco evitado é chance perdida",
-            "e": "Seguir em frente apesar da injustiça e do medo.",
-            "f": "Na visão de William H. McRaven, risco evitado é chance perdida.",
-            "real": false
-          },
-          {
-            "t": "Seguir é a resposta à injustiça",
-            "e": "Seguir em frente apesar da injustiça e do medo.",
-            "f": "Na visão de William H. McRaven, seguir é a resposta à injustiça.",
+            "t": "Coragem como hábito",
+            "e": "Repetir ousadias pequenas treina a coragem para as decisivas.",
+            "f": "Ousar em escala baixa prepara para ousar em escala alta.",
             "real": false
           }
         ]
       },
       {
-        "title": "Capítulo 6 — O último esforço",
-        "text": "Empurrar quando todos querem parar.",
+        "title": "Capítulo 7 — Enfrente os tubarões",
+        "text": "Os instrutores \"tubarão\" testavam se o recruta recuava; enfrentar o medo — e não fugir dele — separa quem é levado a sério de quem se esconde atrás de desculpas.",
         "points": [
+          {
+            "t": "Os tubarões são testes",
+            "e": "Os instrutores provocavam para medir se o recruta recuava sob pressão.",
+            "f": "Se você quer mudar o mundo, não recue diante dos tubarões.",
+            "real": true
+          },
+          {
+            "t": "Coragem com medo",
+            "e": "Atuar apesar do medo é a definição operacional de coragem, não sua ausência.",
+            "f": "Quem age com medo ainda é corajoso.",
+            "real": false
+          },
+          {
+            "t": "Fugir treina o medo",
+            "e": "Recuar uma vez torna o recuo o caminho padrão diante de pressão.",
+            "f": "Evitar o confronto saudável treina a submissão.",
+            "real": false
+          },
+          {
+            "t": "Enfrentar conquista respeito",
+            "e": "Quem sustenta posição sob ataque passa a ser levado a sério pelo grupo.",
+            "f": "Respeito se conquista sustentando posto sob fogo.",
+            "real": false
+          },
+          {
+            "t": "Medo como dado",
+            "e": "Sentir medo é informação, não comando; pode-se agir tendo medo.",
+            "f": "Medo avisa, não proíbe; decisão própria decide.",
+            "real": false
+          },
+          {
+            "t": "Confronto saudável",
+            "e": "Enfrentar pessoa ou problema com calma resolve mais do que esquiva educada.",
+            "f": "Quem enfrenta resolve; quem foge acumula.",
+            "real": false
+          }
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Seja o melhor nos momentos mais escuros",
+        "text": "Nos turnos das 23h, quando o corpo pede desistência, a qualidade da resposta define o caráter; insistir no padrão alto no cansaço é o teste real da liderança.",
+        "points": [
+          {
+            "t": "Padrão sob estresse",
+            "e": "O que se entrega no cansaço revela o padrão real, não o dos dias fáceis.",
+            "f": "Seja o seu melhor nos momentos mais sombrios.",
+            "real": true
+          },
           {
             "t": "Cansaço é onde se desiste",
-            "e": "Empurrar quando todos querem parar.",
-            "f": "Na visão de William H. McRaven, cansaço é onde se desiste.",
+            "e": "A maioria abandona no limite; quem segura rompe o ponto de virada.",
+            "f": "Quase todo fim vem um pouco depois de querer parar.",
             "real": false
           },
           {
-            "t": "Reserva extra decide",
-            "e": "Empurrar quando todos querem parar.",
-            "f": "Na visão de William H. McRaven, reserva extra decide.",
+            "t": "Constância no fim",
+            "e": "Manter qualidade na reta final separa os que chegam dos que quase chegaram.",
+            "f": "O último esforço decide o resultado final.",
             "real": false
           },
           {
-            "t": "Fôlego final separa quem chega de quem desiste",
-            "e": "Empurrar quando todos querem parar.",
-            "f": "Na visão de William H. McRaven, fôlego final separa quem chega de quem desiste.",
+            "t": "Caráter em privado",
+            "e": "Ninguém vê o turno das 23h; mesmo assim, o padrão ali definido vaza para o público.",
+            "f": "Quem é no escuro é quem será sob holofote.",
             "real": false
           },
           {
-            "t": "Quem reserva energia vence o fim",
-            "e": "Empurrar quando todos querem parar.",
-            "f": "Na visão de William H. McRaven, quem reserva energia vence o fim.",
+            "t": "Reserva extra",
+            "e": "Quem guarda energia para o fim vence quem esgotou no meio.",
+            "f": "Reserva bem dosada decide quem cruza a linha.",
             "real": false
           },
           {
-            "t": "O último passo é o mais importante",
-            "e": "Empurrar quando todos querem parar.",
-            "f": "Na visão de William H. McRaven, o último passo é o mais importante.",
-            "real": false
-          },
-          {
-            "t": "Constância no cansaço define o resultado",
-            "e": "Empurrar quando todos querem parar.",
-            "f": "Na visão de William H. McRaven, constância no cansaço define o resultado.",
+            "t": "Liderança no cansaço",
+            "e": "O grupo espelha o tom do líder sob pressão; calma no caos é contágio útil.",
+            "f": "Líder tranquilo no estresse transmite estabilidade à equipe.",
             "real": false
           }
         ]
       },
       {
-        "title": "Capítulo 7 — Esperança",
-        "text": "Erguer os outros como forma de liderança.",
+        "title": "Capítulo 9 — Dê esperança e levante os outros",
+        "text": "McRaven encerra o livro defendendo que a esperança é a força mais poderosa do universo; quem a ergue move nações e equipes, e ainda fortalece a si mesmo.",
         "points": [
           {
-            "t": "Animar fortalece",
-            "e": "Erguer os outros como forma de liderança.",
-            "f": "O que começa aqui pode, de fato, mudar o mundo — e a pergunta é: como o mundo será depois que você o mudar?",
+            "t": "Esperança como força",
+            "e": "Para McRaven, a esperança supera armas e planos porque move quem estava parado.",
+            "f": "A esperança é a força mais poderosa do universo.",
             "real": true
           },
           {
-            "t": "Esperança move grupos",
-            "e": "Erguer os outros como forma de liderança.",
-            "f": "Na visão de William H. McRaven, esperança move grupos.",
+            "t": "Erguer outros fortalece você",
+            "e": "Quem anima o outro ancora seu próprio propósito e ganha rede de apoio.",
+            "f": "Levantar o outro é, no fundo, sustentar a si.",
             "real": false
           },
           {
-            "t": "Líder que ergue outros multiplica força",
-            "e": "Erguer os outros como forma de liderança.",
-            "f": "Na visão de William H. McRaven, líder que ergue outros multiplica força.",
+            "t": "Esperança move equipes",
+            "e": "Times com senso de possibilidade superam times mais dotados porém cínicos.",
+            "f": "Quem oferece esperança lidera sem precisar de cargo.",
             "real": false
           },
           {
-            "t": "Palavra certa no momento certo muda tudo",
-            "e": "Erguer os outros como forma de liderança.",
-            "f": "Na visão de William H. McRaven, palavra certa no momento certo muda tudo.",
+            "t": "Combate ao cinismo",
+            "e": "Substituir descrença por esperança fundamentada libera energia coletiva.",
+            "f": "Cinismo paralisa; esperança aciona.",
             "real": false
           },
           {
-            "t": "Esperança contagia quem está ao lado",
-            "e": "Erguer os outros como forma de liderança.",
-            "f": "Na visão de William H. McRaven, esperança contagia quem está ao lado.",
+            "t": "Legado de esperança",
+            "e": "A esperança que se planta sobrevive ao mensageiro e segue movendo outros.",
+            "f": "Quem semeia esperança colhe movimento alheio duradouro.",
             "real": false
           },
           {
-            "t": "Inspirar é a última missão do líder",
-            "e": "Erguer os outros como forma de liderança.",
-            "f": "Na visão de William H. McRaven, inspirar é a última missão do líder.",
+            "t": "Liderança é servir",
+            "e": "Erguer os outros é a forma mais alta de liderança — servir, não mandar.",
+            "f": "Liderança de verdade se mede por quem ela eleva.",
+            "real": false
+          }
+        ]
+      },
+      {
+        "title": "Capítulo 10 — Nunca, jamais toque o sino",
+        "text": "O sino em SEAL significava desistir para sempre; suportar mais um minuto de adversidade costuma ser a linha entre o meio e o fim. A persistência é a decisão diária de não parar.",
+        "points": [
+          {
+            "t": "O sino é irreversível",
+            "e": "Tocar o sino encerrava a participação para sempre; parar tinha preço definitivo.",
+            "f": "Nunca, jamais toque o sino.",
+            "real": true
+          },
+          {
+            "t": "Segurar é temporário",
+            "e": "A vontade de desistir passa; a desistência não. Aguentar mais um minuto muda o desfecho.",
+            "f": "Quase todo fim vem logo após querer parar.",
+            "real": false
+          },
+          {
+            "t": "Persistência diária",
+            "e": "Não é um traço, é uma escolha repetida a cada amanhecer de não parar.",
+            "f": "Seguir é decisão de hoje, renovada amanhã.",
+            "real": false
+          },
+          {
+            "t": "Reserva decide",
+            "e": "Quem guarda fôlego para o fim chega; quem esgotou no meio observa.",
+            "f": "A reserva final separa quem termina de quem quase terminou.",
+            "real": false
+          },
+          {
+            "t": "Exemplo para o grupo",
+            "e": "Quem não toca o sino inspira os que estavam na borda da desistência.",
+            "f": "Persistir é liderança silenciosa que segura a equipe.",
+            "real": false
+          },
+          {
+            "t": "Sentido além da dor",
+            "e": "Manter o porquê maior em mente dilui o peso do sacrificio imediato.",
+            "f": "Quem tem porquê segura o como sob dor.",
             "real": false
           }
         ]
