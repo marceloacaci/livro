@@ -13252,5 +13252,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Evidência."
       }
     ]
+  },
+  {
+    "id": "olson",
+    "slug": "a-pequena-borda",
+    "title": "The Slight Edge",
+    "titlePt": "A Pequena Borda",
+    "author": "Jeff Olson",
+    "year": "2005",
+    "editionYear": "2011",
+    "publisher": "Success Books / Gente",
+    "pages": "288",
+    "genre": "Hábitos / Sucesso",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/olson-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Pequeno composto vence",
+        "text": "Ações simples repetidas mudam tudo.",
+        "reflection": "O que você faz todo dia?"
+      },
+      {
+        "type": "myth",
+        "title": "Grande virada importa",
+        "text": "Mudança vem de soma, não de salto.",
+        "reflection": "Você espera o grande passo?"
+      },
+      {
+        "type": "truth",
+        "title": "Escolha a borda",
+        "text": "Pequenas vantagens acumulam.",
+        "reflection": "Sua borda é positiva?"
+      },
+      {
+        "type": "myth",
+        "title": "Resultado é rápido",
+        "text": "Tempo revela o efeito.",
+        "reflection": "Você desiste cedo?"
+      },
+      {
+        "type": "truth",
+        "title": "Foco no processo",
+        "text": "Dia a dia decide destino.",
+        "reflection": "Você cuida do meio?"
+      },
+      {
+        "type": "myth",
+        "title": "Sorte define",
+        "text": "Consistência supera azar.",
+        "reflection": "Você culpa sorte?"
+      }
+    ],
+    "summary": "Jeff Olson mostra que o sucesso é fruto de pequenas ações diárias repetidas ao longo do tempo, e que a 'borda sutil' separa quem chega de quem desiste.",
+    "color": "#27ae60",
+    "file": "livro.html#a-pequena-borda",
+    "citacoes": [
+      {
+        "texto": "Pequenas ações repetidas levam a resultados extraordinários.",
+        "autor": "Jeff Olson",
+        "obra": "The Slight Edge"
+      },
+      {
+        "texto": "O tempo é o campo de jogo.",
+        "autor": "Jeff Olson",
+        "obra": "The Slight Edge"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Clássico de hábitos e consistência.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Adote o pequeno",
+        "text": "Uma ação mínima diária.",
+        "explicacoes": [
+          "Fácil sustenta.",
+          "Composto cresce.",
+          "Frequência vence."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Escolha a borda",
+        "text": "Lado positivo sempre.",
+        "explicacoes": [
+          "Negativo also composta.",
+          "Direção importa.",
+          "Soma decide."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Persista no tempo",
+        "text": "Resultado tarda, vem.",
+        "explicacoes": [
+          "Desista cedo = zero.",
+          "Seguir = colhe.",
+          "Paciência paga."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Pequeno",
+        "texto": "Composto vence."
+      },
+      {
+        "titulo": "Borda",
+        "texto": "Direção certa."
+      },
+      {
+        "titulo": "Tempo",
+        "texto": "Revela."
+      }
+    ]
+  },
+  {
+    "id": "rubin",
+    "slug": "melhor-que-antes",
+    "title": "Better Than Before",
+    "titlePt": "Melhor Que Antes",
+    "author": "Gretchen Rubin",
+    "year": "2015",
+    "editionYear": "2015",
+    "publisher": "Crown / Sextante",
+    "pages": "304",
+    "genre": "Hábitos / Comportamento",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/rubin-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Conheça seu tipo",
+        "text": "Como você muda varia por perfil.",
+        "reflection": "Você sabe seu padrão?"
+      },
+      {
+        "type": "myth",
+        "title": "Receita única",
+        "text": "Estratégia depende de quem.",
+        "reflection": "Você copia alheio?"
+      },
+      {
+        "type": "truth",
+        "title": "Estrutura ajuda",
+        "text": "Ambiente e regra externa sustentam.",
+        "reflection": "Sua rotina se apoia em quê?"
+      },
+      {
+        "type": "myth",
+        "title": "Força vence",
+        "text": "Sistema poupa vontade.",
+        "reflection": "Você gasta força à toa?"
+      },
+      {
+        "type": "truth",
+        "title": "Pequeno começo",
+        "text": "Hábito se constrói em fatias.",
+        "reflection": "Você tenta tudo junto?"
+      },
+      {
+        "type": "myth",
+        "title": "Prazer garantido",
+        "text": "Construir dá atrito inicial.",
+        "reflection": "Você foge do incômodo?"
+      }
+    ],
+    "summary": "Gretchen Rubin estuda como as pessoas formam hábitos e propõe estratégias segundo o próprio perfil, com foco em estrutura, absténdencias e pequenas vitórias.",
+    "color": "#8e44ad",
+    "file": "livro.html#melhor-que-antes",
+    "citacoes": [
+      {
+        "texto": "O que você faz todo dia importa mais que o que você faz de vez em quando.",
+        "autor": "Gretchen Rubin",
+        "obra": "Better Than Before"
+      },
+      {
+        "texto": "Conheça suas tendências de habilidade.",
+        "autor": "Gretchen Rubin",
+        "obra": "Better Than Before"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pesquisa prática de hábitos.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Identifique perfil",
+        "text": "Como você muda melhor.",
+        "explicacoes": [
+          "Estratégia certa.",
+          "Copia erra.",
+          "Autoatende."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Crie estrutura",
+        "text": "Regras e ambiente fixos.",
+        "explicacoes": [
+          "Vontade poupada.",
+          "Automático ajuda.",
+          "Consistência sobe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Comece pequeno",
+        "text": "Fatia viável primeiro.",
+        "explicacoes": [
+          "Atrito baixo.",
+          "Vitória cedo.",
+          "Hábito pega."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Perfil",
+        "texto": "Estratégia certa."
+      },
+      {
+        "titulo": "Estrutura",
+        "texto": "Poupa vontade."
+      },
+      {
+        "titulo": "Pequeno",
+        "texto": "Pega."
+      }
+    ]
+  },
+  {
+    "id": "baumeister",
+    "slug": "forca-de-vontade",
+    "title": "Willpower",
+    "titlePt": "Força de Vontade",
+    "author": "Roy F. Baumeister",
+    "year": "2011",
+    "editionYear": "2012",
+    "publisher": "Penguin / LeYa",
+    "pages": "304",
+    "genre": "Hábitos / Autocontrole",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/baumeister-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Força é finita",
+        "text": "Múscu lo esgota no dia.",
+        "reflection": "Você gasta cedo?"
+      },
+      {
+        "type": "myth",
+        "title": "Vontade infinita",
+        "text": "Cansa como músculo.",
+        "reflection": "Você cobra demais?"
+      },
+      {
+        "type": "truth",
+        "title": "Hábito poupa",
+        "text": "Automatizar libera recursos.",
+        "reflection": "Você automatiza?"
+      },
+      {
+        "type": "myth",
+        "title": "Decidir sempre",
+        "text": "Rotina evita gasto.",
+        "reflection": "Você decide o trivial?"
+      },
+      {
+        "type": "truth",
+        "title": "Glicose ajuda",
+        "text": "Energia física sustenta foco.",
+        "reflection": "Você cuida da base?"
+      },
+      {
+        "type": "myth",
+        "title": "Só esforço",
+        "text": "Ambiente e descanso contam.",
+        "reflection": "Você só tenta?"
+      }
+    ],
+    "summary": "Baumeister e Tierney explicam a força de vontade como recurso limitado que se esgota, mostrando como hábitos, energia e ambiente a preservam.",
+    "color": "#2980b9",
+    "file": "livro.html#forca-de-vontade",
+    "citacoes": [
+      {
+        "texto": "A força de vontade é como um músculo que cansa.",
+        "autor": "Roy Baumeister",
+        "obra": "Willpower"
+      },
+      {
+        "texto": "Formar hábito economiza autocontrole.",
+        "autor": "Roy Baumeister",
+        "obra": "Willpower"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Síntese de pesquisa em autocontrole.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Preserve o recurso",
+        "text": "Não cobre tudo de uma vez.",
+        "explicacoes": [
+          "Cansa cedo.",
+          "Priorize.",
+          "Poupe."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Automatize",
+        "text": "Hábito tira decisão.",
+        "explicacoes": [
+          "Vontade livre.",
+          "Rotina ajuda.",
+          "Foco sobra."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Cuide da base",
+        "text": "Sono, comida, pausa.",
+        "explicacoes": [
+          "Energia sustenta.",
+          "Canal baixo.",
+          "Foco cai."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Finita",
+        "texto": "Cansa."
+      },
+      {
+        "titulo": "Hábito",
+        "texto": "Poupa."
+      },
+      {
+        "titulo": "Base",
+        "texto": "Sustenta."
+      }
+    ]
+  },
+  {
+    "id": "heath",
+    "slug": "decisivo",
+    "title": "Switch",
+    "titlePt": "Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil",
+    "author": "Chip & Dan Heath",
+    "year": "2010",
+    "editionYear": "2010",
+    "publisher": "Crown Business / Campus",
+    "pages": "320",
+    "genre": "Mudança / Comportamento",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/heath-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mude a situação",
+        "text": "Ambiente vence resistência.",
+        "reflection": "Você muda cenário?"
+      },
+      {
+        "type": "myth",
+        "title": "Convencer basta",
+        "text": "Racional não move sozinho.",
+        "reflection": "Você só explica?"
+      },
+      {
+        "type": "truth",
+        "title": "Elefante e condutor",
+        "text": "Emoção e razão juntas.",
+        "reflection": "Sua emoção ajuda?"
+      },
+      {
+        "type": "myth",
+        "title": "Falta de vontade",
+        "text": "Caminho fácil resolve.",
+        "reflection": "Você culpa a vontade?"
+      },
+      {
+        "type": "truth",
+        "title": "Celebre o pequeno",
+        "text": "Sinal de progresso move.",
+        "reflection": "Você mostra avanço?"
+      },
+      {
+        "type": "myth",
+        "title": "Plano geral",
+        "text": "Passos claros conduzem.",
+        "reflection": "Seu caminho é vago?"
+      }
+    ],
+    "summary": "Os irmãos Heath usam a metáfora do elefante (emoção) e do condutor (razão) para ensinar a mudar comportamentos difíceis moldando ambiente, motivação e rota.",
+    "color": "#d35400",
+    "file": "livro.html#decisivo",
+    "citacoes": [
+      {
+        "texto": "Para mudar, direcione o elefante, motive o condutor e clareie o caminho.",
+        "autor": "Chip & Dan Heath",
+        "obra": "Switch"
+      },
+      {
+        "texto": "O que parece falta de vontade é falta de caminho claro.",
+        "autor": "Chip & Dan Heath",
+        "obra": "Switch"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Manual de mudança comportamental.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Mova o elefante",
+        "text": "Emoção a favor.",
+        "explicacoes": [
+          "Sentido motiva.",
+          "Medo trava.",
+          "Conexão ajuda."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Clareie rota",
+        "text": "Passos próximos e visíveis.",
+        "explicacoes": [
+          "Vago não anda.",
+          "Marco guia.",
+          "Direção clara."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Molde ambiente",
+        "text": "Caminho fácil para o bem.",
+        "explicacoes": [
+          "Difícil afasta.",
+          "Fácil atrai.",
+          "Hábito pega."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Elefante",
+        "texto": "Emoção."
+      },
+      {
+        "titulo": "Rota",
+        "texto": "Clareia."
+      },
+      {
+        "titulo": "Ambiente",
+        "texto": "Facilita."
+      }
+    ]
+  },
+  {
+    "id": "pink",
+    "slug": "drive-a-surpreendente-verdade",
+    "title": "Drive",
+    "titlePt": "Drive: A Surpreendente Verdade sobre o que nos Motiva",
+    "author": "Daniel H. Pink",
+    "year": "2009",
+    "editionYear": "2011",
+    "publisher": "Riverhead / Agir",
+    "pages": "272",
+    "genre": "Motivação / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/pink-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Autonomia motiva",
+        "text": "Controle do fazer engaja.",
+        "reflection": "Você manda no seu?"
+      },
+      {
+        "type": "myth",
+        "title": "Recompensa move",
+        "text": "Extrínseca limita tarefa complexa.",
+        "reflection": "Você só paga?"
+      },
+      {
+        "type": "truth",
+        "title": "Maestria atrai",
+        "text": "Melhorar por si move.",
+        "reflection": "Você busca evoluir?"
+      },
+      {
+        "type": "myth",
+        "title": "Dinheiro basta",
+        "text": "Além do suficiente, sentido pesa.",
+        "reflection": "Salário preenche?"
+      },
+      {
+        "type": "truth",
+        "title": "Propósito sustenta",
+        "text": "Porquê grande dura.",
+        "reflection": "Seu trabalho tem sentido?"
+      },
+      {
+        "type": "myth",
+        "title": "Controle serve",
+        "text": "Microgerência desmotiva.",
+        "reflection": "Você vigia ou confia?"
+      }
+    ],
+    "summary": "Daniel Pink revela que para tarefas cognitivas a motivação vem de autonomia, maestria e propósito, não de recompensas externas tradicionais.",
+    "color": "#16a085",
+    "file": "livro.html#drive-a-surpreendente-verdade",
+    "citacoes": [
+      {
+        "texto": "A recompensa extrínseca pode sufocar a motivação intrínseca.",
+        "autor": "Daniel Pink",
+        "obra": "Drive"
+      },
+      {
+        "texto": "Autonomia, maestria e propósito dirigem.",
+        "autor": "Daniel Pink",
+        "obra": "Drive"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Leitura obrigatória de gestão moderna.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Dê autonomia",
+        "text": "Controle de tempo, técnica, equipe.",
+        "explicacoes": [
+          "Engajamento sobe.",
+          "Confiança cresce.",
+          "Dono faz."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Busque maestria",
+        "text": "Desafio que aprimora.",
+        "explicacoes": [
+          "Melhorar atrai.",
+          "Flow aparece.",
+          "Sentido vem."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Ligue propósito",
+        "text": "Porquê maior que você.",
+        "explicacoes": [
+          "Duração longa.",
+          "Valor move.",
+          "Legado."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Autonomia",
+        "texto": "Engaja."
+      },
+      {
+        "titulo": "Maestria",
+        "texto": "Atrai."
+      },
+      {
+        "titulo": "Propósito",
+        "texto": "Sustenta."
+      }
+    ]
+  },
+  {
+    "id": "grant",
+    "slug": "dar-e-receber",
+    "title": "Give and Take",
+    "titlePt": "Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso",
+    "author": "Adam Grant",
+    "year": "2013",
+    "editionYear": "2014",
+    "publisher": "Viking / Sextante",
+    "pages": "320",
+    "genre": "Comportamento / Sucesso",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/grant-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Dar pode vencer",
+        "text": "Generosos estratégicos chegam ao topo.",
+        "reflection": "Você dá com inteligência?"
+      },
+      {
+        "type": "myth",
+        "title": "Dar é ingênuo",
+        "text": "Dar certo supera explorador.",
+        "reflection": "Você acha que perde?"
+      },
+      {
+        "type": "truth",
+        "title": "Rede de dar",
+        "text": "Confiança gera retorno.",
+        "reflection": "Sua rede retribui?"
+      },
+      {
+        "type": "myth",
+        "title": "Levar sempre ganha",
+        "text": "Taker isola no longo prazo.",
+        "reflection": "Você só leva?"
+      },
+      {
+        "type": "truth",
+        "title": "Matcher equilibra",
+        "text": "Reciprocidade sustenta troca.",
+        "reflection": "Você retribui?"
+      },
+      {
+        "type": "myth",
+        "title": "Sucesso é só individual",
+        "text": "Quem apóia importa.",
+        "reflection": "Você reconhece apoio?"
+      }
+    ],
+    "summary": "Adam Grant classifica pessoas em dar, receber e trocar, mostrando que dar de forma estratégica pode levar ao sucesso sustentável.",
+    "color": "#c0392b",
+    "file": "livro.html#dar-e-receber",
+    "citacoes": [
+      {
+        "texto": "Os maiores sucessos são generosos estratégicos.",
+        "autor": "Adam Grant",
+        "obra": "Give and Take"
+      },
+      {
+        "texto": "Dar pode ser a vantagem competitiva.",
+        "autor": "Adam Grant",
+        "obra": "Give and Take"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pesquisa de comportamento organizacional.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Dê com critério",
+        "text": "Gereroso mas não otário.",
+        "explicacoes": [
+          "Protege tempo.",
+          "Escolhe quem.",
+          "Retorno vem."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Construa confiança",
+        "text": "Reputação de dar atrai.",
+        "explicacoes": [
+          "Rede ajuda.",
+          "Porta abre.",
+          "Longo prazo."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Acolha matcher",
+        "text": "Reciprocidade mantém troca.",
+        "explicacoes": [
+          "Equilíbrio dura.",
+          "Sem abuso.",
+          "Parceria."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Dar",
+        "texto": "Estratégico vence."
+      },
+      {
+        "titulo": "Confiança",
+        "texto": "Atrai."
+      },
+      {
+        "titulo": "Rede",
+        "texto": "Sustenta."
+      }
+    ]
+  },
+  {
+    "id": "hsieh",
+    "slug": "entrega-feliz",
+    "title": "Delivering Happiness",
+    "titlePt": "Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito",
+    "author": "Tony Hsieh",
+    "year": "2010",
+    "editionYear": "2011",
+    "publisher": "Business Plus / Sextante",
+    "pages": "272",
+    "genre": "Cultura / Negócios",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/hsieh-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Cultura é vantagem",
+        "text": "Ambiente feliz retém e vende.",
+        "reflection": "Sua cultura ajuda?"
+      },
+      {
+        "type": "myth",
+        "title": "Lucro vem primeiro",
+        "text": "Propósito atrai cliente fiel.",
+        "reflection": "Você só mira lucro?"
+      },
+      {
+        "type": "truth",
+        "title": "Servir encanta",
+        "text": "Atendimento surpreende fideliza.",
+        "reflection": "Você encanta?"
+      },
+      {
+        "type": "myth",
+        "title": "Crescer é tudo",
+        "text": "Felicidade do time importa.",
+        "reflection": "Sua equipe está bem?"
+      },
+      {
+        "type": "truth",
+        "title": "Propósito move",
+        "text": "Sentido alinha todos.",
+        "reflection": "Seu time acredita?"
+      },
+      {
+        "type": "myth",
+        "title": "Regras engessam",
+        "text": "Liberdade cria dono.",
+        "reflection": "Você engessa?"
+      }
+    ],
+    "summary": "Tony Hsieh conta a trajetória da Zappos e defende que felicidade de clientes e colaboradores é a base de um negócio duradouro e lucrativo.",
+    "color": "#27ae60",
+    "file": "livro.html#entrega-feliz",
+    "citacoes": [
+      {
+        "texto": "Aproveite o caminho, não só o destino.",
+        "autor": "Tony Hsieh",
+        "obra": "Delivering Happiness"
+      },
+      {
+        "texto": "Cultura é a vantagem competitiva final.",
+        "autor": "Tony Hsieh",
+        "obra": "Delivering Happiness"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Caso Zappos de cultura e serviço.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Encante cliente",
+        "text": "Atendimento além do esperado.",
+        "explicacoes": [
+          "Fideliza.",
+          "Boca a boca.",
+          "Valor sobe."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Cuide cultura",
+        "text": "Time feliz entrega mais.",
+        "explicacoes": [
+          "Retenção sobe.",
+          "Clima ajuda.",
+          "Resultado vem."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Tenha propósito",
+        "text": "Sentido comum guia.",
+        "explicacoes": [
+          "Alinhamento.",
+          "Decisão fácil.",
+          "Duração."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Cultura",
+        "texto": "Vantagem."
+      },
+      {
+        "titulo": "Encantar",
+        "texto": "Fideliza."
+      },
+      {
+        "titulo": "Propósito",
+        "texto": "Alinha."
+      }
+    ]
+  },
+  {
+    "id": "mullainathan",
+    "slug": "escassez",
+    "title": "Scarcity",
+    "titlePt": "Escassez: Por que Tanto de Pouco Ainda é Pouco",
+    "author": "Sendhil Mullainathan",
+    "year": "2013",
+    "editionYear": "2014",
+    "publisher": "Times Books / Encontro",
+    "pages": "320",
+    "genre": "Comportamento / Economia",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/mullainathan-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Escassez rouba mente",
+        "text": "Foco estreito consome banda.",
+        "reflection": "Você age no aperto?"
+      },
+      {
+        "type": "myth",
+        "title": "Pobreza é vício",
+        "text": "Falta de margem distorce.",
+        "reflection": "Você julga ou entende?"
+      },
+      {
+        "type": "truth",
+        "title": "Folga libera",
+        "text": "Margem evita espiral.",
+        "reflection": "Você deixa folga?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais esforço resolve",
+        "text": "Cognição sobrecarregada falha.",
+        "reflection": "Você cobra mais?"
+      },
+      {
+        "type": "truth",
+        "title": "Túnel estreita",
+        "text": "Urgência cega o resto.",
+        "reflection": "Você só vê o fogo?"
+      },
+      {
+        "type": "myth",
+        "title": "Basta querer",
+        "text": "Contexto sabota vontade.",
+        "reflection": "Você culpa a vontade?"
+      }
+    ],
+    "summary": "Mullainathan e Shafir mostram como a escassez (de dinheiro, tempo, comida) reduz a 'largura de banda' mental, gerando ciclos de má decisão.",
+    "color": "#8e44ad",
+    "file": "livro.html#escassez",
+    "citacoes": [
+      {
+        "texto": "A escassez captura a mente.",
+        "autor": "Sendhil Mullainathan",
+        "obra": "Scarcity"
+      },
+      {
+        "texto": "Falta de folga cria espiral.",
+        "autor": "Sendhil Mullainathan",
+        "obra": "Scarcity"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Economia comportamental da pobreza.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Crie folga",
+        "text": "Margem de manobra.",
+        "explicacoes": [
+          "Banda livre.",
+          "Decisão melhora.",
+          "Espira cede."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Evite túnel",
+        "text": "Veja além do urgente.",
+        "explicacoes": [
+          "Urgência cega.",
+          "Plano amplo.",
+          "Foco útil."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Automatize",
+        "text": "Regra tira carga mental.",
+        "explicacoes": [
+          "Cognição livre.",
+          "Erro cai.",
+          "Rotina ajuda."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Folga",
+        "texto": "Libera mente."
+      },
+      {
+        "titulo": "Túnel",
+        "texto": "Estreita."
+      },
+      {
+        "titulo": "Automatizar",
+        "texto": "Poupa."
+      }
+    ]
   }
 ];
