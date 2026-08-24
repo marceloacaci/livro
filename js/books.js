@@ -10805,62 +10805,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Mapeie o loop do hábito",
-        "text": "Identifique gatilho, rotina e recompensa. Sem mapear, não há mudança."
+        "text": "Identifique gatilho, rotina e recompensa. Sem mapear, não há mudança.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Mapeie o loop do hábito\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Identifique gatilho, rotina e recompensa. Sem mapear, não há mudança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mapeie o loop do hábito\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Substitua a rotina",
-        "text": "Mantenha gatilho e recompensa; troque só o comportamento do meio."
+        "text": "Mantenha gatilho e recompensa; troque só o comportamento do meio.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Substitua a rotina\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Mantenha gatilho e recompensa; troque só o comportamento do meio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Substitua a rotina\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Descubra a recompensa real",
-        "text": "Experimente recompensas diferentes para entender o que o cérebro busca."
+        "text": "Experimente recompensas diferentes para entender o que o cérebro busca.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Descubra a recompensa real\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Experimente recompensas diferentes para entender o que o cérebro busca — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Descubra a recompensa real\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Planeje o inflection point",
-        "text": "Decida antecipadamente como agir numa situação de tensão; vontade vira hábito."
+        "text": "Decida antecipadamente como agir numa situação de tensão; vontade vira hábito.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Planeje o inflection point\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Decida antecipadamente como agir numa situação de tensão; vontade vira hábito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje o inflection point\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Use um hábito-âncora",
-        "text": "Mude um hábito central e outros positivos tendem a seguir."
+        "text": "Mude um hábito central e outros positivos tendem a seguir.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Use um hábito-âncora\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Mude um hábito central e outros positivos tendem a seguir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use um hábito-âncora\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Treine força de vontade",
-        "text": "Pequenos exercícios de autocontrole fortalecem a capacidade geral."
+        "text": "Pequenos exercícios de autocontrole fortalecem a capacidade geral.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Treine força de vontade\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Pequenos exercícios de autocontrole fortalecem a capacidade geral — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine força de vontade\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Crie gatilhos visíveis",
-        "text": "Ambiente que lembra a rotina certa ajuda a manter o loop."
+        "text": "Ambiente que lembra a rotina certa ajuda a manter o loop.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Crie gatilhos visíveis\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Ambiente que lembra a rotina certa ajuda a manter o loop — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie gatilhos visíveis\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Busque comunidade e fé",
-        "text": "Apoio social e propósito aumentam drasticamente o sucesso."
+        "text": "Apoio social e propósito aumentam drasticamente o sucesso.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Busque comunidade e fé\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Apoio social e propósito aumentam drasticamente o sucesso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque comunidade e fé\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Aproveite crises",
-        "text": "Momentos de ruptura são oportunidades de reescrever culturas e rotinas."
+        "text": "Momentos de ruptura são oportunidades de reescrever culturas e rotinas.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Aproveite crises\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Momentos de ruptura são oportunidades de reescrever culturas e rotinas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aproveite crises\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Conheça os hábitos da organização",
-        "text": "Entenda as rotinas coletivas para liderar ou mudar uma empresa."
+        "text": "Entenda as rotinas coletivas para liderar ou mudar uma empresa.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Conheça os hábitos da organização\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Entenda as rotinas coletivas para liderar ou mudar uma empresa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça os hábitos da organização\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Não confie só na razão",
-        "text": "O cérebro cansado cede ao automático; desenhe o ambiente a favor."
+        "text": "O cérebro cansado cede ao automático; desenhe o ambiente a favor.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Não confie só na razão\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: O cérebro cansado cede ao automático; desenhe o ambiente a favor — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não confie só na razão\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Medir para consolidar",
-        "text": "Acompanhar a execução reforça o loop e evita recaídas."
+        "text": "Acompanhar a execução reforça o loop e evita recaídas.",
+        "explicacoes": [
+          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Medir para consolidar\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
+          "Na prática: Acompanhar a execução reforça o loop e evita recaídas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Medir para consolidar\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -10882,72 +10942,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O loop do hábito",
         "text": "Duhigg explica a neurociência de gatilho, rotina e recompensa com o caso de Lisa e seu exercício.",
         "points": [
-          "Como o cérebro automatiza",
-          "O caso Lisa",
-          "A estrutura do loop"
+          {
+            "t": "Como o cérebro automatiza",
+            "e": "Duhigg explica a neurociência de gatilho, rotina e recompensa com o caso de Lisa e seu exercício.",
+            "f": "Esta é a base de como os hábitos funcionam: o cérebro entra em modo automático e se recusa a participar da decisão.",
+            "real": true
+          },
+          {
+            "t": "O caso Lisa",
+            "e": "Duhigg explica a neurociência de gatilho, rotina e recompensa com o caso de Lisa e seu exercício.",
+            "f": "Você não pode extinguir um hábito, apenas substituir a rotina.",
+            "real": true
+          },
+          {
+            "t": "A estrutura do loop",
+            "e": "Duhigg explica a neurociência de gatilho, rotina e recompensa com o caso de Lisa e seu exercício.",
+            "f": "A força de vontade torna-se um hábito quando se escolhe um comportamento de antemão e segue a rotina num ponto de inflexão.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O cérebro faminto de hábitos",
         "text": "Por que o cérebro prefere o modo automático e como isso poupa energia.",
         "points": [
-          "Economia neural",
-          "Basal ganglia",
-          "Vantagem evolutiva"
+          {
+            "t": "Economia neural",
+            "e": "Por que o cérebro prefere o modo automático e como isso poupa energia.",
+            "f": "Esta é a base de como os hábitos funcionam: o cérebro entra em modo automático e se recusa a participar da decisão.",
+            "real": true
+          },
+          {
+            "t": "Basal ganglia",
+            "e": "Por que o cérebro prefere o modo automático e como isso poupa energia.",
+            "f": "Os hábitos-âncora mudam estruturas inteiras porque reconfiguram o que é esperado.",
+            "real": true
+          },
+          {
+            "t": "Vantagem evolutiva",
+            "e": "Por que o cérebro prefere o modo automático e como isso poupa energia.",
+            "f": "Na visão de Charles Duhigg, \"vantagem evolutiva\" é parte essencial da proposta de \"O Poder do Hábito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Golden Rule dos hábitos",
         "text": "A regra de ouro: substituir a rotina mantendo gatilho e recompensa. Caso do Alcoólicos Anônimos.",
         "points": [
-          "Regra de ouro",
-          "Fé e comunidade",
-          "Recompensa emocional"
+          {
+            "t": "Regra de ouro",
+            "e": "A regra de ouro: substituir a rotina mantendo gatilho e recompensa. Caso do Alcoólicos Anônimos.",
+            "f": "Esta é a base de como os hábitos funcionam: o cérebro entra em modo automático e se recusa a participar da decisão.",
+            "real": true
+          },
+          {
+            "t": "Fé e comunidade",
+            "e": "A regra de ouro: substituir a rotina mantendo gatilho e recompensa. Caso do Alcoólicos Anônimos.",
+            "f": "Os hábitos-âncora mudam estruturas inteiras porque reconfiguram o que é esperado.",
+            "real": true
+          },
+          {
+            "t": "Recompensa emocional",
+            "e": "A regra de ouro: substituir a rotina mantendo gatilho e recompensa. Caso do Alcoólicos Anônimos.",
+            "f": "Na visão de Charles Duhigg, \"recompensa emocional\" é parte essencial da proposta de \"O Poder do Hábito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Hábitos-âncora",
         "text": "Como um hábito central reordena o resto, exemplificado por Michael Phelps e a segurança de minas.",
         "points": [
-          "Phelps e a rotina mental",
-          "Keystone habits",
-          "Efeito cascata"
+          {
+            "t": "Phelps e a rotina mental",
+            "e": "Como um hábito central reordena o resto, exemplificado por Michael Phelps e a segurança de minas.",
+            "f": "Os hábitos-âncora mudam estruturas inteiras porque reconfiguram o que é esperado.",
+            "real": true
+          },
+          {
+            "t": "Keystone habits",
+            "e": "Como um hábito central reordena o resto, exemplificado por Michael Phelps e a segurança de minas.",
+            "f": "Esta é a base de como os hábitos funcionam: o cérebro entra em modo automático e se recusa a participar da decisão.",
+            "real": true
+          },
+          {
+            "t": "Efeito cascata",
+            "e": "Como um hábito central reordena o resto, exemplificado por Michael Phelps e a segurança de minas.",
+            "f": "Na visão de Charles Duhigg, \"efeito cascata\" é parte essencial da proposta de \"O Poder do Hábito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A Starbucks e a força de vontade",
         "text": "Como a empresa treina autocontrole como hábito em seus funcionários.",
         "points": [
-          "LATTE e roteiros",
-          "Inflection points",
-          "Vontade treinável"
+          {
+            "t": "LATTE e roteiros",
+            "e": "Como a empresa treina autocontrole como hábito em seus funcionários.",
+            "f": "A força de vontade torna-se um hábito quando se escolhe um comportamento de antemão e segue a rotina num ponto de inflexão.",
+            "real": true
+          },
+          {
+            "t": "Inflection points",
+            "e": "Como a empresa treina autocontrole como hábito em seus funcionários.",
+            "f": "Na visão de Charles Duhigg, \"inflection points\" é parte essencial da proposta de \"O Poder do Hábito\".",
+            "real": false
+          },
+          {
+            "t": "Vontade treinável",
+            "e": "Como a empresa treina autocontrole como hábito em seus funcionários.",
+            "f": "Na visão de Charles Duhigg, \"vontade treinável\" é parte essencial da proposta de \"O Poder do Hábito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O poder da crise",
         "text": "Por que crises permitem reescrever hábitos organizacionais, com o caso Rhode Island Hospital.",
         "points": [
-          "Janela de mudança",
-          "Cultura e segurança",
-          "Liderança"
+          {
+            "t": "Janela de mudança",
+            "e": "Por que crises permitem reescrever hábitos organizacionais, com o caso Rhode Island Hospital.",
+            "f": "A mudança parece impossível até alguém mostrar o caminho — então torna-se inevitável.",
+            "real": true
+          },
+          {
+            "t": "Cultura e segurança",
+            "e": "Por que crises permitem reescrever hábitos organizacionais, com o caso Rhode Island Hospital.",
+            "f": "Na visão de Charles Duhigg, \"cultura e segurança\" é parte essencial da proposta de \"O Poder do Hábito\".",
+            "real": false
+          },
+          {
+            "t": "Liderança",
+            "e": "Por que crises permitem reescrever hábitos organizacionais, com o caso Rhode Island Hospital.",
+            "f": "Na visão de Charles Duhigg, \"liderança\" é parte essencial da proposta de \"O Poder do Hábito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Hábitos de mercado",
         "text": "Como o Febreze foi redesenhado após descobrir o gatilho do cheio e a recompensa.",
         "points": [
-          "Falha inicial",
-          "Gatilho de cheiro",
-          "Recompensa percebida"
+          {
+            "t": "Falha inicial",
+            "e": "Como o Febreze foi redesenhado após descobrir o gatilho do cheio e a recompensa.",
+            "f": "Esta é a base de como os hábitos funcionam: o cérebro entra em modo automático e se recusa a participar da decisão.",
+            "real": true
+          },
+          {
+            "t": "Gatilho de cheiro",
+            "e": "Como o Febreze foi redesenhado após descobrir o gatilho do cheio e a recompensa.",
+            "f": "Os hábitos-âncora mudam estruturas inteiras porque reconfiguram o que é esperado.",
+            "real": true
+          },
+          {
+            "t": "Recompensa percebida",
+            "e": "Como o Febreze foi redesenhado após descobrir o gatilho do cheio e a recompensa.",
+            "f": "Na visão de Charles Duhigg, \"recompensa percebida\" é parte essencial da proposta de \"O Poder do Hábito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Hábitos sociais",
         "text": "Movimentos como o boicote a Montgomery mostram hábitos coletivos e pressão de pares.",
         "points": [
-          "Rosa Parks",
-          "Pares e mudança",
-          "Hábito social"
+          {
+            "t": "Rosa Parks",
+            "e": "Movimentos como o boicote a Montgomery mostram hábitos coletivos e pressão de pares.",
+            "f": "Esta é a base de como os hábitos funcionam: o cérebro entra em modo automático e se recusa a participar da decisão.",
+            "real": true
+          },
+          {
+            "t": "Pares e mudança",
+            "e": "Movimentos como o boicote a Montgomery mostram hábitos coletivos e pressão de pares.",
+            "f": "Os hábitos-âncora mudam estruturas inteiras porque reconfiguram o que é esperado.",
+            "real": true
+          },
+          {
+            "t": "Hábito social",
+            "e": "Movimentos como o boicote a Montgomery mostram hábitos coletivos e pressão de pares.",
+            "f": "Você não pode extinguir um hábito, apenas substituir a rotina.",
+            "real": true
+          }
         ]
       }
     ]
@@ -11111,62 +11291,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Assuma o comando",
-        "text": "Você, e não terceiros, deve entender e decidir sobre seu dinheiro."
+        "text": "Você, e não terceiros, deve entender e decidir sobre seu dinheiro.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Assuma o comando\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Você, e não terceiros, deve entender e decidir sobre seu dinheiro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma o comando\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Monte reserva de emergência",
-        "text": "Guarde de 6 a 8 meses de despesas para proteger-se de imprevistos."
+        "text": "Guarde de 6 a 8 meses de despesas para proteger-se de imprevistos.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Monte reserva de emergência\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Guarde de 6 a 8 meses de despesas para proteger-se de imprevistos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Monte reserva de emergência\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Elimine dívida de consumo",
-        "text": "Quite cartões e financiamentos; juros compostos contra você destroem patrimônio."
+        "text": "Quite cartões e financiamentos; juros compostos contra você destroem patrimônio.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Elimine dívida de consumo\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Quite cartões e financiamentos; juros compostos contra você destroem patrimônio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Elimine dívida de consumo\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Valorize-se no trabalho",
-        "text": "Negocie salário com base no que vale; autoestima atrai melhores condições."
+        "text": "Negocie salário com base no que vale; autoestima atrai melhores condições.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Valorize-se no trabalho\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Negocie salário com base no que vale; autoestima atrai melhores condições — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize-se no trabalho\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Proteja com seguros",
-        "text": "Vida, saúde e invalidez são a base da segurança familiar."
+        "text": "Vida, saúde e invalidez são a base da segurança familiar.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Proteja com seguros\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Vida, saúde e invalidez são a base da segurança familiar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja com seguros\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Faça documentos legais",
-        "text": "Testamento, procuração e diretrizes de saúde protegem a família."
+        "text": "Testamento, procuração e diretrizes de saúde protegem a família.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Faça documentos legais\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Testamento, procuração e diretrizes de saúde protegem a família — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça documentos legais\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Poupe para aposentadoria cedo",
-        "text": "Mulheres vivem mais; começar tarde reduz a liberdade futura."
+        "text": "Mulheres vivem mais; começar tarde reduz a liberdade futura.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Poupe para aposentadoria cedo\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Mulheres vivem mais; começar tarde reduz a liberdade futura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Poupe para aposentadoria cedo\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Pessoas antes de coisas",
-        "text": "Cuidar de si e dos seus antes de acumular bens evita arrependimentos."
+        "text": "Cuidar de si e dos seus antes de acumular bens evita arrependimentos.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Pessoas antes de coisas\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Cuidar de si e dos seus antes de acumular bens evita arrependimentos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pessoas antes de coisas\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Converse sobre dinheiro no casal",
-        "text": "Transparência previne vulnerabilidade e conflitos."
+        "text": "Transparência previne vulnerabilidade e conflitos.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Converse sobre dinheiro no casal\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Transparência previne vulnerabilidade e conflitos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Converse sobre dinheiro no casal\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Não compre por aprovação",
-        "text": "Separe necessidade de vaidade; compras para agradar terceiros são armadilhas."
+        "text": "Separe necessidade de vaidade; compras para agradar terceiros são armadilhas.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Não compre por aprovação\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Separe necessidade de vaidade; compras para agradar terceiros são armadilhas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não compre por aprovação\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Aprenda a investir",
-        "text": "Participação ativa no mercado é essencial; não terceirize por timidez."
+        "text": "Participação ativa no mercado é essencial; não terceirize por timidez.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Aprenda a investir\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Participação ativa no mercado é essencial; não terceirize por timidez — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aprenda a investir\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Responsa, não se culpe",
-        "text": "Assuma a realidade financeira e aja; culpa paralisa, responsabilidade move."
+        "text": "Assuma a realidade financeira e aja; culpa paralisa, responsabilidade move.",
+        "explicacoes": [
+          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Responsa, não se culpe\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
+          "Na prática: Assuma a realidade financeira e aja; culpa paralisa, responsabilidade move — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Responsa, não se culpe\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -11188,72 +11428,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Por que as mulheres e o dinheiro",
         "text": "Orman expõe a desigualdade e a necessidade de a mulher comandar suas finanças.",
         "points": [
-          "Desigualdade de renda",
-          "Vulnerabilidade histórica",
-          "O chamado à ação"
+          {
+            "t": "Desigualdade de renda",
+            "e": "Orman expõe a desigualdade e a necessidade de a mulher comandar suas finanças.",
+            "f": "Pessoas primeiro, depois dinheiro, depois coisas. Não importa o que você ganhe, se a ordem estiver errada.",
+            "real": true
+          },
+          {
+            "t": "Vulnerabilidade histórica",
+            "e": "Orman expõe a desigualdade e a necessidade de a mulher comandar suas finanças.",
+            "f": "Na visão de Suze Orman, \"vulnerabilidade histórica\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "O chamado à ação",
+            "e": "Orman expõe a desigualdade e a necessidade de a mulher comandar suas finanças.",
+            "f": "Na visão de Suze Orman, \"o chamado à ação\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Fique na sua própria verdade",
         "text": "Assumir a realidade financeira sem negação é o primeiro passo.",
         "points": [
-          "Responsabilidade",
-          "Fim da negação",
-          "Poder pessoal"
+          {
+            "t": "Responsabilidade",
+            "e": "Assumir a realidade financeira sem negação é o primeiro passo.",
+            "f": "Você tem o poder de controlar sua vida financeira, mas precisa ficar na sua própria verdade.",
+            "real": true
+          },
+          {
+            "t": "Fim da negação",
+            "e": "Assumir a realidade financeira sem negação é o primeiro passo.",
+            "f": "Na visão de Suze Orman, \"fim da negação\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Poder pessoal",
+            "e": "Assumir a realidade financeira sem negação é o primeiro passo.",
+            "f": "Na visão de Suze Orman, \"poder pessoal\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Pessoas, dinheiro, coisas",
         "text": "A ordem de prioridades que protege relacionamentos e liberdade.",
         "points": [
-          "A regra das prioridades",
-          "Coisas vs segurança",
-          "Generosidade saudável"
+          {
+            "t": "A regra das prioridades",
+            "e": "A ordem de prioridades que protege relacionamentos e liberdade.",
+            "f": "Pessoas primeiro, depois dinheiro, depois coisas. Não importa o que você ganhe, se a ordem estiver errada.",
+            "real": true
+          },
+          {
+            "t": "Coisas vs segurança",
+            "e": "A ordem de prioridades que protege relacionamentos e liberdade.",
+            "f": "Na visão de Suze Orman, \"coisas vs segurança\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Generosidade saudável",
+            "e": "A ordem de prioridades que protege relacionamentos e liberdade.",
+            "f": "Na visão de Suze Orman, \"generosidade saudável\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A palavra D (dívida)",
         "text": "Como destruir dívidas de consumo e por que elas sabotam mulheres.",
         "points": [
-          "Juros compostos",
-          "Plano de quitação",
-          "Cartão como inimigo"
+          {
+            "t": "Juros compostos",
+            "e": "Como destruir dívidas de consumo e por que elas sabotam mulheres.",
+            "f": "O cartão de crédito é a maior arma contra a mulher que não entende juros compostos.",
+            "real": true
+          },
+          {
+            "t": "Plano de quitação",
+            "e": "Como destruir dívidas de consumo e por que elas sabotam mulheres.",
+            "f": "Na visão de Suze Orman, \"plano de quitação\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Cartão como inimigo",
+            "e": "Como destruir dívidas de consumo e por que elas sabotam mulheres.",
+            "f": "Você merece se tratar como alguém que vale o que ganha — e merece ganhar o que vale.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A reserva de emergência",
         "text": "Por que 6 a 8 meses de despesas guardadas são essenciais.",
         "points": [
-          "Proteção contra imprevistos",
-          "Onde guardar",
-          "Quantia certa"
+          {
+            "t": "Proteção contra imprevistos",
+            "e": "Por que 6 a 8 meses de despesas guardadas são essenciais.",
+            "f": "O cartão de crédito é a maior arma contra a mulher que não entende juros compostos.",
+            "real": true
+          },
+          {
+            "t": "Onde guardar",
+            "e": "Por que 6 a 8 meses de despesas guardadas são essenciais.",
+            "f": "Na visão de Suze Orman, \"onde guardar\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Quantia certa",
+            "e": "Por que 6 a 8 meses de despesas guardadas são essenciais.",
+            "f": "Na visão de Suze Orman, \"quantia certa\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Proteção: seguros e documentos",
         "text": "Seguros e testamentos que salvam famílias de colapsos.",
         "points": [
-          "Tipos de seguro",
-          "Testamento e procuração",
-          "Diretriz de saúde"
+          {
+            "t": "Tipos de seguro",
+            "e": "Seguros e testamentos que salvam famílias de colapsos.",
+            "f": "Na visão de Suze Orman, \"tipos de seguro\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Testamento e procuração",
+            "e": "Seguros e testamentos que salvam famílias de colapsos.",
+            "f": "Na visão de Suze Orman, \"testamento e procuração\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Diretriz de saúde",
+            "e": "Seguros e testamentos que salvam famílias de colapsos.",
+            "f": "Na visão de Suze Orman, \"diretriz de saúde\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Aposentadoria e o futuro",
         "text": "Planejar décadas a mais de vida exige poupança antecipada.",
         "points": [
-          "Horizonte feminino",
-          "Começar cedo",
-          "Contas específicas"
+          {
+            "t": "Horizonte feminino",
+            "e": "Planejar décadas a mais de vida exige poupança antecipada.",
+            "f": "Na visão de Suze Orman, \"horizonte feminino\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Começar cedo",
+            "e": "Planejar décadas a mais de vida exige poupança antecipada.",
+            "f": "Na visão de Suze Orman, \"começar cedo\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Contas específicas",
+            "e": "Planejar décadas a mais de vida exige poupança antecipada.",
+            "f": "Na visão de Suze Orman, \"contas específicas\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Casamento, divórcio e dinheiro",
         "text": "Transparência e proteção em relacionamentos.",
         "points": [
-          "Conversa no casal",
-          "Riscos de dependência",
-          "Saída protegida"
+          {
+            "t": "Conversa no casal",
+            "e": "Transparência e proteção em relacionamentos.",
+            "f": "Pessoas primeiro, depois dinheiro, depois coisas. Não importa o que você ganhe, se a ordem estiver errada.",
+            "real": true
+          },
+          {
+            "t": "Riscos de dependência",
+            "e": "Transparência e proteção em relacionamentos.",
+            "f": "Na visão de Suze Orman, \"riscos de dependência\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          },
+          {
+            "t": "Saída protegida",
+            "e": "Transparência e proteção em relacionamentos.",
+            "f": "Na visão de Suze Orman, \"saída protegida\" é parte essencial da proposta de \"A Mulher e o Dinheiro\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -11417,62 +11777,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Mapeie sua vida financeira",
-        "text": "Reúna todos os dados de ganhos e gastos num retrato honesto."
+        "text": "Reúna todos os dados de ganhos e gastos num retrato honesto.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Mapeie sua vida financeira\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Reúna todos os dados de ganhos e gastos num retrato honesto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mapeie sua vida financeira\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Calcule o salário real por hora",
-        "text": "Desconte os custos de trabalhar para saber quanto sua hora vale."
+        "text": "Desconte os custos de trabalhar para saber quanto sua hora vale.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Calcule o salário real por hora\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Desconte os custos de trabalhar para saber quanto sua hora vale — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Calcule o salário real por hora\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Transforme gastos em horas de vida",
-        "text": "Toda compra vira tempo da sua existência; julgue-a por esse custo."
+        "text": "Toda compra vira tempo da sua existência; julgue-a por esse custo.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Transforme gastos em horas de vida\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Toda compra vira tempo da sua existência; julgue-a por esse custo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Transforme gastos em horas de vida\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Faça gráficos de fluxo",
-        "text": "Visualizar entrada e saída revela para onde sua vida escorre."
+        "text": "Visualizar entrada e saída revela para onde sua vida escorre.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Faça gráficos de fluxo\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Visualizar entrada e saída revela para onde sua vida escorre — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça gráficos de fluxo\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Questione a linha do suficiente",
-        "text": "Defina um teto de necessidade para parar a corrida do mais."
+        "text": "Defina um teto de necessidade para parar a corrida do mais.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Questione a linha do suficiente\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Defina um teto de necessidade para parar a corrida do mais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Questione a linha do suficiente\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Reduza despesas com consciência",
-        "text": "Cortar o supérfluo libera tempo e recursos para o que importa."
+        "text": "Cortar o supérfluo libera tempo e recursos para o que importa.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Reduza despesas com consciência\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Cortar o supérfluo libera tempo e recursos para o que importa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza despesas com consciência\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Aumente o valor da vida",
-        "text": "Invista em saúde, relações e propósito, não só em bens."
+        "text": "Invista em saúde, relações e propósito, não só em bens.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Aumente o valor da vida\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Invista em saúde, relações e propósito, não só em bens — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aumente o valor da vida\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Busque renda passiva",
-        "text": "Construa investimentos que paguem suas contas sem sua presença."
+        "text": "Construa investimentos que paguem suas contas sem sua presença.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Busque renda passiva\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Construa investimentos que paguem suas contas sem sua presença — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque renda passiva\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Atinga a independência",
-        "text": "Quando a renda de investimentos cobre os custos, você é livre."
+        "text": "Quando a renda de investimentos cobre os custos, você é livre.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Atinga a independência\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Quando a renda de investimentos cobre os custos, você é livre — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Atinga a independência\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Viva de propósito",
-        "text": "Use o tempo recuperado para o que dá sentido à vida."
+        "text": "Use o tempo recuperado para o que dá sentido à vida.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Viva de propósito\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Use o tempo recuperado para o que dá sentido à vida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva de propósito\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Pratique simplicidade voluntária",
-        "text": "Escolha ter menos para ser mais; não é privação, é direção."
+        "text": "Escolha ter menos para ser mais; não é privação, é direção.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Pratique simplicidade voluntária\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Escolha ter menos para ser mais; não é privação, é direção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique simplicidade voluntária\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Questione o consumismo",
-        "text": "Desafie a crença de que mais coisas igual mais felicidade."
+        "text": "Desafie a crença de que mais coisas igual mais felicidade.",
+        "explicacoes": [
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Questione o consumismo\" como peça-chave para a liberdade financeira através de gastos conscientes.",
+          "Na prática: Desafie a crença de que mais coisas igual mais felicidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Questione o consumismo\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -11494,72 +11914,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O problema e a promessa",
         "text": "Apresenta a ideia de dinheiro como vida e a promessa de liberdade.",
         "points": [
-          "Dinheiro como energia",
-          "A ilusão do mais",
-          "A promessa"
+          {
+            "t": "Dinheiro como energia",
+            "e": "Apresenta a ideia de dinheiro como vida e a promessa de liberdade.",
+            "f": "O dinheiro é algo pelo qual trocamos partes de nossas vidas que nunca recuperaremos.",
+            "real": true
+          },
+          {
+            "t": "A ilusão do mais",
+            "e": "Apresenta a ideia de dinheiro como vida e a promessa de liberdade.",
+            "f": "Menos coisas, mais vida: a simplicidade voluntária é liberdade disfarçada de renúncia.",
+            "real": true
+          },
+          {
+            "t": "A promessa",
+            "e": "Apresenta a ideia de dinheiro como vida e a promessa de liberdade.",
+            "f": "Na visão de Vicki Robin, \"a promessa\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Reúna seus dados",
         "text": "Etapa 1: retrato honesto de ganhos e gastos de toda a vida.",
         "points": [
-          "Coletar extratos",
-          "Honestidade total",
-          "Ponto de partida"
+          {
+            "t": "Coletar extratos",
+            "e": "Etapa 1: retrato honesto de ganhos e gastos de toda a vida.",
+            "f": "Na visão de Vicki Robin, \"coletar extratos\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Honestidade total",
+            "e": "Etapa 1: retrato honesto de ganhos e gastos de toda a vida.",
+            "f": "Na visão de Vicki Robin, \"honestidade total\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Ponto de partida",
+            "e": "Etapa 1: retrato honesto de ganhos e gastos de toda a vida.",
+            "f": "A linha de \"o suficiente\" é o ponto onde parar de correr atrás de mais.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O salário por hora real",
         "text": "Etapa 2: descontar custos de trabalhar para achar o valor real da hora.",
         "points": [
-          "Custos ocultos",
-          "Hora líquida",
-          "A matemática choca"
+          {
+            "t": "Custos ocultos",
+            "e": "Etapa 2: descontar custos de trabalhar para achar o valor real da hora.",
+            "f": "Na visão de Vicki Robin, \"custos ocultos\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Hora líquida",
+            "e": "Etapa 2: descontar custos de trabalhar para achar o valor real da hora.",
+            "f": "Na visão de Vicki Robin, \"hora líquida\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "A matemática choca",
+            "e": "Etapa 2: descontar custos de trabalhar para achar o valor real da hora.",
+            "f": "Na visão de Vicki Robin, \"a matemática choca\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Gastos em horas de vida",
         "text": "Etapa 3: converter cada compra em tempo de existência.",
         "points": [
-          "Traduzir preço",
-          "Julgar por tempo",
-          "Mudança de lente"
+          {
+            "t": "Traduzir preço",
+            "e": "Etapa 3: converter cada compra em tempo de existência.",
+            "f": "A pergunta não é quanto você ganha, mas quanto de sua vida você está vendendo.",
+            "real": true
+          },
+          {
+            "t": "Julgar por tempo",
+            "e": "Etapa 3: converter cada compra em tempo de existência.",
+            "f": "Menos coisas, mais vida: a simplicidade voluntária é liberdade disfarçada de renúncia.",
+            "real": true
+          },
+          {
+            "t": "Mudança de lente",
+            "e": "Etapa 3: converter cada compra em tempo de existência.",
+            "f": "Na visão de Vicki Robin, \"mudança de lente\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Os gráficos de fluxo",
         "text": "Etapa 4: visualizar para onde a vida financeira escorre.",
         "points": [
-          "Desenhar gráfico",
-          "Padrões visíveis",
-          "Consciência"
+          {
+            "t": "Desenhar gráfico",
+            "e": "Etapa 4: visualizar para onde a vida financeira escorre.",
+            "f": "Na visão de Vicki Robin, \"desenhar gráfico\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Padrões visíveis",
+            "e": "Etapa 4: visualizar para onde a vida financeira escorre.",
+            "f": "Na visão de Vicki Robin, \"padrões visíveis\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Consciência",
+            "e": "Etapa 4: visualizar para onde a vida financeira escorre.",
+            "f": "Na visão de Vicki Robin, \"consciência\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — A linha do suficiente",
         "text": "Etapas 5 e 6: reduzir despesas e definir o teto do necessário.",
         "points": [
-          "Cortar supérfluo",
-          "O suficiente",
-          "Libertação"
+          {
+            "t": "Cortar supérfluo",
+            "e": "Etapas 5 e 6: reduzir despesas e definir o teto do necessário.",
+            "f": "A linha de \"o suficiente\" é o ponto onde parar de correr atrás de mais.",
+            "real": true
+          },
+          {
+            "t": "O suficiente",
+            "e": "Etapas 5 e 6: reduzir despesas e definir o teto do necessário.",
+            "f": "Na visão de Vicki Robin, \"o suficiente\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Libertação",
+            "e": "Etapas 5 e 6: reduzir despesas e definir o teto do necessário.",
+            "f": "Na visão de Vicki Robin, \"libertação\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Valorizar a vida",
         "text": "Etapa 7: aumentar o valor da existência além do consumo.",
         "points": [
-          "Saúde e laços",
-          "Propósito",
-          "Tempo recuperado"
+          {
+            "t": "Saúde e laços",
+            "e": "Etapa 7: aumentar o valor da existência além do consumo.",
+            "f": "A pergunta não é quanto você ganha, mas quanto de sua vida você está vendendo.",
+            "real": true
+          },
+          {
+            "t": "Propósito",
+            "e": "Etapa 7: aumentar o valor da existência além do consumo.",
+            "f": "Menos coisas, mais vida: a simplicidade voluntária é liberdade disfarçada de renúncia.",
+            "real": true
+          },
+          {
+            "t": "Tempo recuperado",
+            "e": "Etapa 7: aumentar o valor da existência além do consumo.",
+            "f": "Na visão de Vicki Robin, \"tempo recuperado\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Renda passiva e independência",
         "text": "Etapas 8 e 9: investir para renda e atingir a liberdade financeira.",
         "points": [
-          "Investir com senso",
-          "Ponto de independência",
-          "Viver de escolha"
+          {
+            "t": "Investir com senso",
+            "e": "Etapas 8 e 9: investir para renda e atingir a liberdade financeira.",
+            "f": "Quando sua renda de investimentos iguala suas despesas, você é financeiramente independente.",
+            "real": true
+          },
+          {
+            "t": "Ponto de independência",
+            "e": "Etapas 8 e 9: investir para renda e atingir a liberdade financeira.",
+            "f": "A linha de \"o suficiente\" é o ponto onde parar de correr atrás de mais.",
+            "real": true
+          },
+          {
+            "t": "Viver de escolha",
+            "e": "Etapas 8 e 9: investir para renda e atingir a liberdade financeira.",
+            "f": "Na visão de Vicki Robin, \"viver de escolha\" é parte essencial da proposta de \"Seu Dinheiro ou Sua Vida\".",
+            "real": false
+          }
         ]
       }
     ]
