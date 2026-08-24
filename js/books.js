@@ -38927,57 +38927,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Prepare antes de agir",
-        "text": "A fase de preparação define sucesso; listar motivos e obstáculos antecipa o caminho."
+        "text": "A fase de preparação define sucesso; listar motivos e obstáculos antecipa o caminho.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Prepare antes de agir\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: A fase de preparação define sucesso; listar motivos e obstáculos antecipa o caminho — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Prepare antes de agir\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Formalize a resolução",
-        "text": "Comprometer-se por escrito e publicamente eleva a aderência."
+        "text": "Comprometer-se por escrito e publicamente eleva a aderência.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Formalize a resolução\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Comprometer-se por escrito e publicamente eleva a aderência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Formalize a resolução\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Suba com substituição",
-        "text": "Trocar o comportamento antigo por um novo ocupa o espaço deixado."
+        "text": "Trocar o comportamento antigo por um novo ocupa o espaço deixado.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Suba com substituição\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Trocar o comportamento antigo por um novo ocupa o espaço deixado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Suba com substituição\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Mapeie gatilhos",
-        "text": "Identificar pessoas, lugares e emoções de risco permite planejar defesas."
+        "text": "Identificar pessoas, lugares e emoções de risco permite planejar defesas.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Mapeie gatilhos\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Identificar pessoas, lugares e emoções de risco permite planejar defesas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mapeie gatilhos\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Construa rede de apoio",
-        "text": "Envolver aliados aumenta drasticamente as chances de manter a mudança."
+        "text": "Envolver aliados aumenta drasticamente as chances de manter a mudança.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Construa rede de apoio\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Envolver aliados aumenta drasticamente as chances de manter a mudança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa rede de apoio\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Antecipe a recaída",
-        "text": "Ter um plano de volta ao método tira o peso moral do tropeço."
+        "text": "Ter um plano de volta ao método tira o peso moral do tropeço.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Antecipe a recaída\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Ter um plano de volta ao método tira o peso moral do tropeço — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Antecipe a recaída\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Comemore marcos",
-        "text": "Recompensas em 30, 60 e 90 dias mantêm o motor emocional ligado."
+        "text": "Recompensas em 30, 60 e 90 dias mantêm o motor emocional ligado.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Comemore marcos\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Recompensas em 30, 60 e 90 dias mantêm o motor emocional ligado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comemore marcos\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Escreva o plano",
-        "text": "Registro detalhado triplica a adesão comparado a intenção mental."
+        "text": "Registro detalhado triplica a adesão comparado a intenção mental.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Escreva o plano\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Registro detalhado triplica a adesão comparado a intenção mental — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escreva o plano\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Foque em 90 dias",
-        "text": "Adotar o horizonte realista reduz cobranças prematuras e abandono."
+        "text": "Adotar o horizonte realista reduz cobranças prematuras e abandono.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Foque em 90 dias\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Adotar o horizonte realista reduz cobranças prematuras e abandono — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque em 90 dias\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Reconheça a fase atual",
-        "text": "Saber se está preparando ou mantendo evita aplicar a tática errada."
+        "text": "Saber se está preparando ou mantendo evita aplicar a tática errada.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Reconheça a fase atual\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Saber se está preparando ou mantendo evita aplicar a tática errada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reconheça a fase atual\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Use falhas como dados",
-        "text": "Cada recuo revela o gatilho; ajustar o plano é parte do processo."
+        "text": "Cada recuo revela o gatilho; ajustar o plano é parte do processo.",
+        "explicacoes": [
+          "Em \"Changeology: 5 Passos para Mudar Qualquer Comportamento\", John C. Norcross trata \"Use falhas como dados\" como peça-chave para a ciência de mudar hábitos de forma realista.",
+          "Na prática: Cada recuo revela o gatilho; ajustar o plano é parte do processo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use falhas como dados\" aplica a ciência de mudar hábitos de forma realista de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -38999,72 +39054,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Por que mudamos",
         "text": "Norcross abre revisando a ciência de como comportamentos se alteram.",
         "points": [
-          "Mitologia da vontade",
-          "O que a pesquisa mostra"
+          {
+            "t": "Mitologia da vontade",
+            "e": "Norcross abre revisando a ciência de como comportamentos se alteram.",
+            "f": "Mudança duradoura é um processo, não um evento de pura vontade.",
+            "real": true
+          },
+          {
+            "t": "O que a pesquisa mostra",
+            "e": "Norcross abre revisando a ciência de como comportamentos se alteram.",
+            "f": "Na visão de John C. Norcross, \"o que a pesquisa mostra\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Preparar-se",
         "text": "A fase inicial de clarificar motivos e obstáculos.",
         "points": [
-          "Autoavaliação",
-          "Lista de benefícios"
+          {
+            "t": "Autoavaliação",
+            "e": "A fase inicial de clarificar motivos e obstáculos.",
+            "f": "Na visão de John C. Norcross, \"autoavaliação\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Lista de benefícios",
+            "e": "A fase inicial de clarificar motivos e obstáculos.",
+            "f": "Na visão de John C. Norcross, \"lista de benefícios\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Resolver-se",
         "text": "Como comprometer-se de forma formal e pública.",
         "points": [
-          "Contrato de mudança",
-          "Compromisso social"
+          {
+            "t": "Contrato de mudança",
+            "e": "Como comprometer-se de forma formal e pública.",
+            "f": "Mudança duradoura é um processo, não um evento de pura vontade.",
+            "real": true
+          },
+          {
+            "t": "Compromisso social",
+            "e": "Como comprometer-se de forma formal e pública.",
+            "f": "Na visão de John C. Norcross, \"compromisso social\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Subir",
         "text": "Executar a ação trocando comportamentos.",
         "points": [
-          "Substituição",
-          "Primeiros 30 dias"
+          {
+            "t": "Substituição",
+            "e": "Executar a ação trocando comportamentos.",
+            "f": "Na visão de John C. Norcross, \"substituição\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Primeiros 30 dias",
+            "e": "Executar a ação trocando comportamentos.",
+            "f": "Noventa dias de prática consistente costumam consolidar o novo comportamento.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Gatilhos e defesas",
         "text": "Mapear situações de risco e planejar respostas.",
         "points": [
-          "Mapa de gatilhos",
-          "Planos de contingência"
+          {
+            "t": "Mapa de gatilhos",
+            "e": "Mapear situações de risco e planejar respostas.",
+            "f": "Na visão de John C. Norcross, \"mapa de gatilhos\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Planos de contingência",
+            "e": "Mapear situações de risco e planejar respostas.",
+            "f": "Na visão de John C. Norcross, \"planos de contingência\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Manter",
         "text": "Estratégias para os 60 a 90 dias de consolidação.",
         "points": [
-          "Recompensas",
-          "Rede de apoio"
+          {
+            "t": "Recompensas",
+            "e": "Estratégias para os 60 a 90 dias de consolidação.",
+            "f": "Na visão de John C. Norcross, \"recompensas\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Rede de apoio",
+            "e": "Estratégias para os 60 a 90 dias de consolidação.",
+            "f": "Quem tenta sozinho falha mais; apoio não é fraqueza, é estratégia.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Recaída",
         "text": "A recaída como dado estatístico e como voltar.",
         "points": [
-          "Curva esperada",
-          "Plano de retorno"
+          {
+            "t": "Curva esperada",
+            "e": "A recaída como dado estatístico e como voltar.",
+            "f": "Na visão de John C. Norcross, \"curva esperada\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Plano de retorno",
+            "e": "A recaída como dado estatístico e como voltar.",
+            "f": "Quase todo mundo recai; o que separa os bem-sucedidos é voltar ao plano.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Terminar",
         "text": "Quando a mudança vira identidade estável.",
         "points": [
-          "Nova identidade",
-          "Prevenção de longo prazo"
+          {
+            "t": "Nova identidade",
+            "e": "Quando a mudança vira identidade estável.",
+            "f": "Na visão de John C. Norcross, \"nova identidade\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Prevenção de longo prazo",
+            "e": "Quando a mudança vira identidade estável.",
+            "f": "Na visão de John C. Norcross, \"prevenção de longo prazo\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Aplicações",
         "text": "Exemplos em peso, álcool, estudo e relações.",
         "points": [
-          "Casos reais",
-          "Ajustes por área"
+          {
+            "t": "Casos reais",
+            "e": "Exemplos em peso, álcool, estudo e relações.",
+            "f": "Na visão de John C. Norcross, \"casos reais\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          },
+          {
+            "t": "Ajustes por área",
+            "e": "Exemplos em peso, álcool, estudo e relações.",
+            "f": "Na visão de John C. Norcross, \"ajustes por área\" é parte essencial da proposta de \"Changeology: 5 Passos para Mudar Qualquer Comportamento\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -39222,57 +39367,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Identifique as três forças",
-        "text": "Reconhecer 'eu vou', 'eu não' e 'eu quero' ajuda a treinar cada uma conscientemente."
+        "text": "Reconhecer 'eu vou', 'eu não' e 'eu quero' ajuda a treinar cada uma conscientemente.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Identifique as três forças\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Reconhecer 'eu vou', 'eu não' e 'eu quero' ajuda a treinar cada uma conscientemente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Identifique as três forças\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Use a regra de dez minutos",
-        "text": "Adiar a tentação por dez minutos dá tempo ao cérebro planejador assumir."
+        "text": "Adiar a tentação por dez minutos dá tempo ao cérebro planejador assumir.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Use a regra de dez minutos\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Adiar a tentação por dez minutos dá tempo ao cérebro planejador assumir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a regra de dez minutos\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Respire para acalmar",
-        "text": "Respirações lentas ativam o freio parassimpático e recuperam o controle."
+        "text": "Respirações lentas ativam o freio parassimpático e recuperam o controle.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Respire para acalmar\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Respirações lentas ativam o freio parassimpático e recuperam o controle — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Respire para acalmar\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Aceite, não suprima",
-        "text": "Notar o impulso sem agir o desarma mais do que tentar apagá-lo."
+        "text": "Notar o impulso sem agir o desarma mais do que tentar apagá-lo.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Aceite, não suprima\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Notar o impulso sem agir o desarma mais do que tentar apagá-lo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite, não suprima\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Durma para disciplinar",
-        "text": "Sono adequado é pré-requisito fisiológico da força de vontade."
+        "text": "Sono adequado é pré-requisito fisiológico da força de vontade.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Durma para disciplinar\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Sono adequado é pré-requisito fisiológico da força de vontade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Durma para disciplinar\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Conecte-se ao propósito",
-        "text": "O 'eu quero' sustenta o 'eu não'; lembrar o porquê renova a energia."
+        "text": "O 'eu quero' sustenta o 'eu não'; lembrar o porquê renova a energia.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Conecte-se ao propósito\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: O 'eu quero' sustenta o 'eu não'; lembrar o porquê renova a energia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conecte-se ao propósito\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Evite a fadiga de decisão",
-        "text": "Reduza escolhas irrelevantes para preservar disciplina às importantes."
+        "text": "Reduza escolhas irrelevantes para preservar disciplina às importantes.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Evite a fadiga de decisão\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Reduza escolhas irrelevantes para preservar disciplina às importantes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite a fadiga de decisão\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Pratique autocompaixão",
-        "text": "Tratar-se bem após o tropeço reduz estresse e previne cascata de cedência."
+        "text": "Tratar-se bem após o tropeço reduz estresse e previne cascata de cedência.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Pratique autocompaixão\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Tratar-se bem após o tropeço reduz estresse e previne cascata de cedência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique autocompaixão\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Mapeie gatilhos de estresse",
-        "text": "Saber quando o estresse dispara ajuda a preparar pausas preventivas."
+        "text": "Saber quando o estresse dispara ajuda a preparar pausas preventivas.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Mapeie gatilhos de estresse\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Saber quando o estresse dispara ajuda a preparar pausas preventivas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mapeie gatilhos de estresse\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Treine como músculo",
-        "text": "Pequenos exercícios diários de autocontrole fortalecem a capacidade geral."
+        "text": "Pequenos exercícios diários de autocontrole fortalecem a capacidade geral.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Treine como músculo\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Pequenos exercícios diários de autocontrole fortalecem a capacidade geral — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine como músculo\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Apoie os outros",
-        "text": "Ajudar terceiros na disciplina reforça a própria rede de controle."
+        "text": "Ajudar terceiros na disciplina reforça a própria rede de controle.",
+        "explicacoes": [
+          "Em \"O Instinto da Força de Vontade\", Kelly McGonigal trata \"Apoie os outros\" como peça-chave para a força de vontade como habilidade que se treina.",
+          "Na prática: Ajudar terceiros na disciplina reforça a própria rede de controle — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Apoie os outros\" aplica a força de vontade como habilidade que se treina de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -39294,72 +39494,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O instinto da vontade",
         "text": "McGonigal define as três forças e o modelo de músculo.",
         "points": [
-          "Eu vou, não, quero",
-          "Força como músculo"
+          {
+            "t": "Eu vou, não, quero",
+            "e": "McGonigal define as três forças e o modelo de músculo.",
+            "f": "A força de vontade funciona como um músculo: fadiga com o uso, mas se fortalece com o treino.",
+            "real": true
+          },
+          {
+            "t": "Força como músculo",
+            "e": "McGonigal define as três forças e o modelo de músculo.",
+            "f": "O estresse é o inimigo da força de vontade; ele pede alívio imediato, não o objetivo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A armadilha do 'não'",
         "text": "Por que suprimir desejos os fortalece e o que fazer.",
         "points": [
-          "Ironia da supressão",
-          "Aceitação"
+          {
+            "t": "Ironia da supressão",
+            "e": "Por que suprimir desejos os fortalece e o que fazer.",
+            "f": "Na visão de Kelly McGonigal, \"ironia da supressão\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Aceitação",
+            "e": "Por que suprimir desejos os fortalece e o que fazer.",
+            "f": "Na visão de Kelly McGonigal, \"aceitação\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Fadiga e estresse",
         "text": "Como esgotamento e pressão corroem o controle.",
         "points": [
-          "Efeito de fadiga",
-          "Estresse vs objetivo"
+          {
+            "t": "Efeito de fadiga",
+            "e": "Como esgotamento e pressão corroem o controle.",
+            "f": "A força de vontade funciona como um músculo: fadiga com o uso, mas se fortalece com o treino.",
+            "real": true
+          },
+          {
+            "t": "Estresse vs objetivo",
+            "e": "Como esgotamento e pressão corroem o controle.",
+            "f": "O estresse é o inimigo da força de vontade; ele pede alívio imediato, não o objetivo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A regra de dez minutos",
         "text": "Técnica prática para ganhar distância do impulso.",
         "points": [
-          "Adiar",
-          "Ativar planejamento"
+          {
+            "t": "Adiar",
+            "e": "Técnica prática para ganhar distância do impulso.",
+            "f": "Você não precisa vencer o impulso, apenas notá-lo e esperar dez minutos.",
+            "real": true
+          },
+          {
+            "t": "Ativar planejamento",
+            "e": "Técnica prática para ganhar distância do impulso.",
+            "f": "Na visão de Kelly McGonigal, \"ativar planejamento\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Respiração e corpo",
         "text": "Uso do sistema parassimpático para recuperar controle.",
         "points": [
-          "Respiração lenta",
-          "Sinal de calma"
+          {
+            "t": "Respiração lenta",
+            "e": "Uso do sistema parassimpático para recuperar controle.",
+            "f": "Na visão de Kelly McGonigal, \"respiração lenta\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Sinal de calma",
+            "e": "Uso do sistema parassimpático para recuperar controle.",
+            "f": "Na visão de Kelly McGonigal, \"sinal de calma\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Sono e vontade",
         "text": "O papel do descanso na disciplina.",
         "points": [
-          "Privação",
-          "Recuperação"
+          {
+            "t": "Privação",
+            "e": "O papel do descanso na disciplina.",
+            "f": "A força de vontade funciona como um músculo: fadiga com o uso, mas se fortalece com o treino.",
+            "real": true
+          },
+          {
+            "t": "Recuperação",
+            "e": "O papel do descanso na disciplina.",
+            "f": "O estresse é o inimigo da força de vontade; ele pede alívio imediato, não o objetivo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Autocompaixão",
         "text": "Por que ser gentil consigo previne recaídas.",
         "points": [
-          "Culpa sabota",
-          "Apoio interno"
+          {
+            "t": "Culpa sabota",
+            "e": "Por que ser gentil consigo previne recaídas.",
+            "f": "Na visão de Kelly McGonigal, \"culpa sabota\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Apoio interno",
+            "e": "Por que ser gentil consigo previne recaídas.",
+            "f": "Na visão de Kelly McGonigal, \"apoio interno\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Rede social",
         "text": "Como apoiar e ser apoiado fortalece a disciplina.",
         "points": [
-          "Contágio",
-          "Apoio mútuo"
+          {
+            "t": "Contágio",
+            "e": "Como apoiar e ser apoiado fortalece a disciplina.",
+            "f": "Na visão de Kelly McGonigal, \"contágio\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Apoio mútuo",
+            "e": "Como apoiar e ser apoiado fortalece a disciplina.",
+            "f": "Na visão de Kelly McGonigal, \"apoio mútuo\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O eu quero",
         "text": "Conectar valores de longo prazo à ação diária.",
         "points": [
-          "Propósito",
-          "Alinhamento"
+          {
+            "t": "Propósito",
+            "e": "Conectar valores de longo prazo à ação diária.",
+            "f": "Na visão de Kelly McGonigal, \"propósito\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Alinhamento",
+            "e": "Conectar valores de longo prazo à ação diária.",
+            "f": "Na visão de Kelly McGonigal, \"alinhamento\" é parte essencial da proposta de \"O Instinto da Força de Vontade\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -39517,57 +39807,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Busque sua Lenda Pessoal",
-        "text": "Identificar o que só você pode realizar é o ponto de partida da jornada."
+        "text": "Identificar o que só você pode realizar é o ponto de partida da jornada.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Busque sua Lenda Pessoal\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: Identificar o que só você pode realizar é o ponto de partida da jornada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque sua Lenda Pessoal\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Leia os omens",
-        "text": "O mundo envia sinais; prestar atenção abre portas fechadas pela rotina."
+        "text": "O mundo envia sinais; prestar atenção abre portas fechadas pela rotina.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Leia os omens\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: O mundo envia sinais; prestar atenção abre portas fechadas pela rotina — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Leia os omens\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Enfrente o medo",
-        "text": "O medo de sofrer costuma ser maior que o sofrimento real; agir desarma-o."
+        "text": "O medo de sofrer costuma ser maior que o sofrimento real; agir desarma-o.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Enfrente o medo\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: O medo de sofrer costuma ser maior que o sofrimento real; agir desarma-o — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Enfrente o medo\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Viva o presente",
-        "text": "A magia acontece no agora; antecipar o futuro rouba a clareza."
+        "text": "A magia acontece no agora; antecipar o futuro rouba a clareza.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Viva o presente\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: A magia acontece no agora; antecipar o futuro rouba a clareza — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva o presente\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Aprenda com perdas",
-        "text": "Caminhos errados ensinam a alquimia de converter chumbo em ouro interior."
+        "text": "Caminhos errados ensinam a alquimia de converter chumbo em ouro interior.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Aprenda com perdas\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: Caminhos errados ensinam a alquimia de converter chumbo em ouro interior — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aprenda com perdas\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Confie no processo",
-        "text": "O universo apoia quem age; soltar o controle rígido libera fluxo."
+        "text": "O universo apoia quem age; soltar o controle rígido libera fluxo.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Confie no processo\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: O universo apoia quem age; soltar o controle rígido libera fluxo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Confie no processo\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Não imite sonhos alheios",
-        "text": "Cada Lenda é única; copiar a de outro gera vazio."
+        "text": "Cada Lenda é única; copiar a de outro gera vazio.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Não imite sonhos alheios\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: Cada Lenda é única; copiar a de outro gera vazio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não imite sonhos alheios\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Conecte-se ao todo",
-        "text": "Seguir a Lenda serve também à Linguagem do Mundo que une tudo."
+        "text": "Seguir a Lenda serve também à Linguagem do Mundo que une tudo.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Conecte-se ao todo\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: Seguir a Lenda serve também à Linguagem do Mundo que une tudo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conecte-se ao todo\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Abrace a mudança",
-        "text": "Abandonar o conforto conhecido é custo da descoberta, não erro."
+        "text": "Abandonar o conforto conhecido é custo da descoberta, não erro.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Abrace a mudança\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: Abandonar o conforto conhecido é custo da descoberta, não erro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abrace a mudança\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "O tesouro pode estar perto",
-        "text": "A realização muitas vezes aparece onde começamos, pela transformação interna."
+        "text": "A realização muitas vezes aparece onde começamos, pela transformação interna.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"O tesouro pode estar perto\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: A realização muitas vezes aparece onde começamos, pela transformação interna — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"O tesouro pode estar perto\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Aja antes de estar pronto",
-        "text": "Esperar segurança total adia para sempre; o passo inicial atrai apoio."
+        "text": "Esperar segurança total adia para sempre; o passo inicial atrai apoio.",
+        "explicacoes": [
+          "Em \"O Alquimista\", Paulo Coelho trata \"Aja antes de estar pronto\" como peça-chave para a jornada do herói em busca de seu destino.",
+          "Na prática: Esperar segurança total adia para sempre; o passo inicial atrai apoio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja antes de estar pronto\" aplica a jornada do herói em busca de seu destino de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -39589,72 +39934,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O pastor e o rei",
         "text": "Santiago encontra o rei de Salem e ouve sobre sua Lenda Pessoal.",
         "points": [
-          "O sonho repetido",
-          "O chamado"
+          {
+            "t": "O sonho repetido",
+            "e": "Santiago encontra o rei de Salem e ouve sobre sua Lenda Pessoal.",
+            "f": "É a possibilidade de realizar um sonho que torna a vida interessante.",
+            "real": true
+          },
+          {
+            "t": "O chamado",
+            "e": "Santiago encontra o rei de Salem e ouve sobre sua Lenda Pessoal.",
+            "f": "Na visão de Paulo Coelho, \"o chamado\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A venda dos rebanhos",
         "text": "Ele deixa a segurança para cruzar o estreito em direção ao Egito.",
         "points": [
-          "Sair da rotina",
-          "Primeiro sacrifício"
+          {
+            "t": "Sair da rotina",
+            "e": "Ele deixa a segurança para cruzar o estreito em direção ao Egito.",
+            "f": "Na visão de Paulo Coelho, \"sair da rotina\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "Primeiro sacrifício",
+            "e": "Ele deixa a segurança para cruzar o estreito em direção ao Egito.",
+            "f": "Na visão de Paulo Coelho, \"primeiro sacrifício\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O mercado de Tanger",
         "text": "Perde tudo para um ladrão; a acomodação tenta seduzi-lo.",
         "points": [
-          "A perda",
-          "Trabalho no cristal"
+          {
+            "t": "A perda",
+            "e": "Perde tudo para um ladrão; a acomodação tenta seduzi-lo.",
+            "f": "Na visão de Paulo Coelho, \"a perda\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "Trabalho no cristal",
+            "e": "Perde tudo para um ladrão; a acomodação tenta seduzi-lo.",
+            "f": "Na visão de Paulo Coelho, \"trabalho no cristal\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O cristalheiro",
         "text": "Aprende que pequenas mudanças transformam um negócio e a si.",
         "points": [
-          "Inovação",
-          "Reinvestir"
+          {
+            "t": "Inovação",
+            "e": "Aprende que pequenas mudanças transformam um negócio e a si.",
+            "f": "Na visão de Paulo Coelho, \"inovação\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "Reinvestir",
+            "e": "Aprende que pequenas mudanças transformam um negócio e a si.",
+            "f": "Na visão de Paulo Coelho, \"reinvestir\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O deserto e Fatima",
         "text": "No deserto, encontra amor e a Linguagem do Mundo.",
         "points": [
-          "Amor sem posse",
-          "Omens"
+          {
+            "t": "Amor sem posse",
+            "e": "No deserto, encontra amor e a Linguagem do Mundo.",
+            "f": "Na visão de Paulo Coelho, \"amor sem posse\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "Omens",
+            "e": "No deserto, encontra amor e a Linguagem do Mundo.",
+            "f": "Na visão de Paulo Coelho, \"omens\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O alquimista",
         "text": "O mestre ensina converter chumbo em ouro e medo em coragem.",
         "points": [
-          "Alquimia interior",
-          "Leitura dos sinais"
+          {
+            "t": "Alquimia interior",
+            "e": "O mestre ensina converter chumbo em ouro e medo em coragem.",
+            "f": "Na visão de Paulo Coelho, \"alquimia interior\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "Leitura dos sinais",
+            "e": "O mestre ensina converter chumbo em ouro e medo em coragem.",
+            "f": "Na visão de Paulo Coelho, \"leitura dos sinais\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A prova final",
         "text": "Próximo ao objetivo, é testado a confiar contra a lógica.",
         "points": [
-          "Fé",
-          "Entrega"
+          {
+            "t": "Fé",
+            "e": "Próximo ao objetivo, é testado a confiar contra a lógica.",
+            "f": "Na visão de Paulo Coelho, \"fé\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "Entrega",
+            "e": "Próximo ao objetivo, é testado a confiar contra a lógica.",
+            "f": "Na visão de Paulo Coelho, \"entrega\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O tesouro",
         "text": "Descobre que o tesouro estava onde começou sua jornada.",
         "points": [
-          "Retorno",
-          "Realização"
+          {
+            "t": "Retorno",
+            "e": "Descobre que o tesouro estava onde começou sua jornada.",
+            "f": "Na visão de Paulo Coelho, \"retorno\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "Realização",
+            "e": "Descobre que o tesouro estava onde começou sua jornada.",
+            "f": "Na visão de Paulo Coelho, \"realização\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — A mensagem",
         "text": "A fábula encerra com a tese de que seguir a Lenda é viver inteiro.",
         "points": [
-          "Propósito",
-          "Universo"
+          {
+            "t": "Propósito",
+            "e": "A fábula encerra com a tese de que seguir a Lenda é viver inteiro.",
+            "f": "Na visão de Paulo Coelho, \"propósito\" é parte essencial da proposta de \"O Alquimista\".",
+            "real": false
+          },
+          {
+            "t": "Universo",
+            "e": "A fábula encerra com a tese de que seguir a Lenda é viver inteiro.",
+            "f": "Quando você quer alguma coisa, todo o universo conspira para que você realize o seu desejo.",
+            "real": true
+          }
         ]
       }
     ]
