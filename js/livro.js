@@ -427,8 +427,7 @@
 
   // B7 — Copiar Citação: amarra listeners (delegação) nos containers que têm citações
   bindCopiarCitacao(document.getElementById('sobreContent'));
-  var ideasScope = document.getElementById('ideiasContent') || document.getElementById('ideias');
-  bindCopiarCitacao(ideiasScope);
+  bindCopiarCitacao(document.getElementById('ideiasContent') || document.getElementById('ideias'));
 
   // B6 — Barra de progresso de leitura + B8 — Modo Leitura Focada
   var progressBar = document.getElementById('readingProgress');
