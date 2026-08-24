@@ -14284,5 +14284,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Poupa."
       }
     ]
+  },
+  {
+    "id": "covey8",
+    "slug": "o-8o-habito",
+    "title": "The 8th Habit",
+    "titlePt": "O 8º Hábito: Da Eficácia à Grandeza",
+    "author": "Stephen R. Covey",
+    "year": "2004",
+    "editionYear": "2005",
+    "publisher": "Free Press / BestSeller",
+    "pages": "416",
+    "genre": "Hábitos / Liderança",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/covey8-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Voz precede hábito",
+        "text": "Encontrar voz leva à grandeza.",
+        "reflection": "Você sabe sua voz?"
+      },
+      {
+        "type": "myth",
+        "title": "Hábitos bastam",
+        "text": "Eficácia não é suficiente hoje.",
+        "reflection": "Você parou no básico?"
+      },
+      {
+        "type": "truth",
+        "title": "Inspirar é líder",
+        "text": "Modelar grandeza move.",
+        "reflection": "Você inspira?"
+      },
+      {
+        "type": "myth",
+        "title": "Gerenciar basta",
+        "text": "Liderar é guiar, não controlar.",
+        "reflection": "Você manda ou conduz?"
+      },
+      {
+        "type": "truth",
+        "title": "Talento único",
+        "text": "Cada um tem contribuição.",
+        "reflection": "Qual sua dádiva?"
+      },
+      {
+        "type": "myth",
+        "title": "Conforme-se",
+        "text": "Grandeza é escolha.",
+        "reflection": "Você conforma?"
+      }
+    ],
+    "summary": "Stephen Covey estende os 7 hábitos para um 8º: encontrar sua voz e inspirar outros a encontrarem a deles, movendo de eficácia para grandeza.",
+    "color": "#2980b9",
+    "file": "livro.html#o-8o-habito",
+    "citacoes": [
+      {
+        "texto": "O 8º hábito é encontrar sua voz e inspirar os outros a encontrar a deles.",
+        "autor": "Stephen Covey",
+        "obra": "The 8th Habit"
+      },
+      {
+        "texto": "Da eficácia à grandeza.",
+        "autor": "Stephen Covey",
+        "obra": "The 8th Habit"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Sequência do clássico das eficácias.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Encontre voz",
+        "text": "Dádiva, paixão, necessidade, consciência.",
+        "explicacoes": [
+          "Voz é propósito.",
+          "Clareza move.",
+          "Contribuição única."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Inspire",
+        "text": "Lidere modelando grandeza.",
+        "explicacoes": [
+          "Exemplo atrai.",
+          "Confiança cresce.",
+          "Time sobe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Alinhe",
+        "text": "Voz com missão coletiva.",
+        "explicacoes": [
+          "Sentido comum.",
+          "Esforço soma.",
+          "Grandeza emerge."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Voz",
+        "texto": "Propósito."
+      },
+      {
+        "titulo": "Inspirar",
+        "texto": "Conduz."
+      },
+      {
+        "titulo": "Grandeza",
+        "texto": "Escolha."
+      }
+    ]
+  },
+  {
+    "id": "collins",
+    "slug": "empresas-feitas-para-vencer",
+    "title": "Good to Great",
+    "titlePt": "Empresas Feitas para Vencer",
+    "author": "Jim Collins",
+    "year": "2001",
+    "editionYear": "2011",
+    "publisher": "HarperBusiness / Campus",
+    "pages": "320",
+    "genre": "Negócios / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 4 milhões",
+    "cover": "img/collins-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Firmeza conta",
+        "text": "Líderes nivel-5 humildes e duros.",
+        "reflection": "Você une humildade e foco?"
+      },
+      {
+        "type": "myth",
+        "title": "Visão de super-herói",
+        "text": "Liderança quieta vence.",
+        "reflection": "Você busca palco?"
+      },
+      {
+        "type": "truth",
+        "title": "Primeiro quem",
+        "text": "Pessoas certas antes do rumo.",
+        "reflection": "Você tem a equipe?"
+      },
+      {
+        "type": "myth",
+        "title": "Tecnologia salva",
+        "text": "Disciplina usa tech, não vice.",
+        "reflection": "Você culpa falta de tech?"
+      },
+      {
+        "type": "truth",
+        "title": "Foco na janela",
+        "text": "O quê a empresa faz melhor.",
+        "reflection": "Sua empresa sabe não fazer?"
+      },
+      {
+        "type": "myth",
+        "title": "Crescer rápido",
+        "text": "Disciplina de世界卫生组织和o lento.",
+        "reflection": "Você força crescimento?"
+      }
+    ],
+    "summary": "Jim Collins investiga empresas que deram o salto de medianas para excelentes e extrai princípios como líderes nível 5, disciplina e 'conceito da janela-e-espelho'.",
+    "color": "#27ae60",
+    "file": "livro.html#empresas-feitas-para-vencer",
+    "citacoes": [
+      {
+        "texto": "As empresas excelentes tinham líderes nível 5.",
+        "autor": "Jim Collins",
+        "obra": "Good to Great"
+      },
+      {
+        "texto": "Primeiro quem, depois o quê.",
+        "autor": "Jim Collins",
+        "obra": "Good to Great"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Estudo de gestão mais citado da década.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Líder nível 5",
+        "text": "Humildade + vontade férrea.",
+        "explicacoes": [
+          "Crédito à equipe.",
+          "Responsabilidade assume.",
+          "Resultado vem."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Primeiro quem",
+        "text": "Time certo no ônibus.",
+        "explicacoes": [
+          "Pessoas antes.",
+          "Rumo depois.",
+          "Execução sobe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Enfrente os fatos",
+        "text": "Espelho na culpa, janela no mérito.",
+        "explicacoes": [
+          "Realismo duro.",
+          "Humildade guia.",
+          "Aprende erro."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Nível 5",
+        "texto": "Humilde e duro."
+      },
+      {
+        "titulo": "Quem",
+        "texto": "Antes do quê."
+      },
+      {
+        "titulo": "Espelho",
+        "texto": "Responsabilidade."
+      }
+    ]
+  },
+  {
+    "id": "christensen2",
+    "slug": "o-dilema-da-inovacao",
+    "title": "The Innovator's Dilemma",
+    "titlePt": "O Dilema da Inovação",
+    "author": "Clayton M. Christensen",
+    "year": "1997",
+    "editionYear": "2011",
+    "publisher": "Harvard Business Review / M. Books",
+    "pages": "320",
+    "genre": "Negócios / Inovação",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/christensen2-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Boas práticas matam",
+        "text": "Ouvir cliente leva a perder novo.",
+        "reflection": "Você ignora mercado novo?"
+      },
+      {
+        "type": "myth",
+        "title": "Foco no topo",
+        "text": "Baixo pode destruir líder.",
+        "reflection": "Você desdenha simples?"
+      },
+      {
+        "type": "truth",
+        "title": "Inovação de ruptura",
+        "text": "Simples e barato desloca.",
+        "reflection": "Você vê a ruptura?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais recurso vence",
+        "text": "Birateiro ágil surpreende.",
+        "reflection": "Você confia só em escala?"
+      },
+      {
+        "type": "truth",
+        "title": "Separar equipes",
+        "text": "Nova unidade protege inovação.",
+        "reflection": "Sua estrutura esmaga novo?"
+      },
+      {
+        "type": "myth",
+        "title": "Qualidade sempre ganha",
+        "text": "Bom o suficiente vence.",
+        "reflection": "Você super-engenharia?"
+      }
+    ],
+    "summary": "Clayton Christensen explica por que empresas bem geridas falham diante de inovações de ruptura, e como criar estruturas para capturá-las.",
+    "color": "#8e44ad",
+    "file": "livro.html#o-dilema-da-inovacao",
+    "citacoes": [
+      {
+        "texto": "As boas práticas de gestão levam ao fracasso diante da ruptura.",
+        "autor": "Clayton Christensen",
+        "obra": "The Innovator's Dilemma"
+      },
+      {
+        "texto": "A inovação de ruptura vem por baixo.",
+        "autor": "Clayton Christensen",
+        "obra": "The Innovator's Dilemma"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Marco da estratégia de inovação.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Veja ruptura",
+        "text": "Simples que cresce mercado.",
+        "explicacoes": [
+          "Ameaça silenciosa.",
+          "Sinal cedo.",
+          "Decisão antecipa."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Unidade separada",
+        "text": "Proteja o novo da matriz.",
+        "explicacoes": [
+          "Budget próprio.",
+          "Liberdade cria.",
+          "Risco isolado."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Ouça mercado novo",
+        "text": "Cliente pequeno hoje vira grande.",
+        "explicacoes": [
+          "Semente cresce.",
+          "Foco duplo.",
+          "Futuro protege."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Ruptura",
+        "texto": "Por baixo."
+      },
+      {
+        "titulo": "Separar",
+        "texto": "Protege."
+      },
+      {
+        "titulo": "Novo",
+        "texto": "Ouça."
+      }
+    ]
+  },
+  {
+    "id": "godin2",
+    "slug": "isso-e-marketing",
+    "title": "This Is Marketing",
+    "titlePt": "Isso é Marketing: Você Não Pode Enganar o Tempo Todo",
+    "author": "Seth Godin",
+    "year": "2018",
+    "editionYear": "2019",
+    "publisher": "Portfolio / DVS",
+    "pages": "320",
+    "genre": "Marketing / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/godin2-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mude pessoas",
+        "text": "Marketing serve a quem quer mudar.",
+        "reflection": "Seu produto muda?"
+      },
+      {
+        "type": "myth",
+        "title": "Manipular vende",
+        "text": "Confiança vence longo prazo.",
+        "reflection": "Você manipula?"
+      },
+      {
+        "type": "truth",
+        "title": "Nicho pequeno",
+        "text": "Mínimo viável de quem importa.",
+        "reflection": "Você fala com todos?"
+      },
+      {
+        "type": "myth",
+        "title": "Alcance enorme",
+        "text": "Poucos certos superam.",
+        "reflection": "Você busca massa?"
+      },
+      {
+        "type": "truth",
+        "title": "História conecta",
+        "text": "Sentido atrai lealdade.",
+        "reflection": "Sua marca tem sentido?"
+      },
+      {
+        "type": "myth",
+        "title": "Vender é suficiente",
+        "text": "Servir importa mais.",
+        "reflection": "Você serve ou só vende?"
+      }
+    ],
+    "summary": "Seth Godin redefine marketing como serviço: encontrar pessoas que querem mudar e ajudá-las, com empatia e histórias, não persuasão rasteira.",
+    "color": "#2980b9",
+    "file": "livro.html#isso-e-marketing",
+    "citacoes": [
+      {
+        "texto": "Marketing é o generoso ato de ajudar quem quer ser ajudado.",
+        "autor": "Seth Godin",
+        "obra": "This Is Marketing"
+      },
+      {
+        "texto": "Não minta, não engane, não manipule.",
+        "autor": "Seth Godin",
+        "obra": "This Is Marketing"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Visão humana de marketing.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Sirva nicho",
+        "text": "Quem quer mudar.",
+        "explicacoes": [
+          "Público certo.",
+          "Mensagem clara.",
+          "Lealdade nasce."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Conte histórias",
+        "text": "Sentido sobre features.",
+        "explicacoes": [
+          "Conexão emocional.",
+          "Memória fixa.",
+          "Confiança sobe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Ganhe confiança",
+        "text": "Promessa cumprida.",
+        "explicacoes": [
+          "Reputação dura.",
+          "Boca a boca.",
+          "Mercado ajuda."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Servir",
+        "texto": "Não vender."
+      },
+      {
+        "titulo": "Nicho",
+        "texto": "Certo."
+      },
+      {
+        "titulo": "História",
+        "texto": "Conecta."
+      }
+    ]
+  },
+  {
+    "id": "brown2",
+    "slug": "coragem",
+    "title": "Daring Greatly",
+    "titlePt": "Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos",
+    "author": "Brené Brown",
+    "year": "2012",
+    "editionYear": "2015",
+    "publisher": "Gotham / Sextante",
+    "pages": "320",
+    "genre": "Autoajuda / Vulnerabilidade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 3 milhões",
+    "cover": "img/brown2-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Vulnerabilidade é coragem",
+        "text": "Expôr-se é ato de força.",
+        "reflection": "Você se esconde?"
+      },
+      {
+        "type": "myth",
+        "title": "Vulnerável é fraco",
+        "text": "Abrir-se fortalece vínculo.",
+        "reflection": "Você confunde com fraqueza?"
+      },
+      {
+        "type": "truth",
+        "title": "Vergonha paralisa",
+        "text": "Nomear vergonha liberta.",
+        "reflection": "A vergonha manda em você?"
+      },
+      {
+        "type": "myth",
+        "title": "Perfeição protege",
+        "text": "Armadura isola.",
+        "reflection": "Sua armadura custa caro?"
+      },
+      {
+        "type": "truth",
+        "title": "Pertencimento real",
+        "text": "Ser visto como é.",
+        "reflection": "Você se esconde para caber?"
+      },
+      {
+        "type": "myth",
+        "title": "Controle evita dor",
+        "text": "Controle ilusório cansa.",
+        "reflection": "Você tenta controlar?"
+      }
+    ],
+    "summary": "Brené Brown mostra que a disposição de se mostrar vulnerável é a medida da coragem, base para relacionamentos, liderança e criatividade autênticos.",
+    "color": "#d35400",
+    "file": "livro.html#coragem",
+    "citacoes": [
+      {
+        "texto": "Coragem é vulnerabilidade posta em ação.",
+        "autor": "Brené Brown",
+        "obra": "Daring Greatly"
+      },
+      {
+        "texto": "Você é o que teme e o que deseja.",
+        "autor": "Brené Brown",
+        "obra": "Daring Greatly"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Ted de vulnerabilidade entre mais vistos.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Abra-se",
+        "text": "Mostre-se sem armadura.",
+        "explicacoes": [
+          "Vínculo real.",
+          "Força disfarçada.",
+          "Confiança cresce."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Nomeie vergonha",
+        "text": "Reconhecer desarma.",
+        "explicacoes": [
+          "Padrão cai.",
+          "Fala sai.",
+          "Liberdade vem."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Viva valor",
+        "text": "Mesmo com medo.",
+        "explicacoes": [
+          "Coragem não é ausência.",
+          "Agir mesmo assim.",
+          "Vida inteira."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Vulnerável",
+        "texto": "Forte."
+      },
+      {
+        "titulo": "Vergonha",
+        "texto": "Nomear."
+      },
+      {
+        "titulo": "Valor",
+        "texto": "Agir."
+      }
+    ]
+  },
+  {
+    "id": "ericsson",
+    "slug": "peak",
+    "title": "Peak",
+    "titlePt": "Peak: Como a Maestria em Tudo o que Fazemos",
+    "author": "Anders Ericsson",
+    "year": "2016",
+    "editionYear": "2017",
+    "publisher": "Eamon Dolan / Sextante",
+    "pages": "336",
+    "genre": "Hábitos / Performance",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/ericsson-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Prática deliberada",
+        "text": "Tipo específico gera maestria.",
+        "reflection": "Sua prática é deliberada?"
+      },
+      {
+        "type": "myth",
+        "title": "10 mil horas mágica",
+        "text": "Qualidade da prática importa.",
+        "reflection": "Você repete sem foco?"
+      },
+      {
+        "type": "truth",
+        "title": "Feedback imediato",
+        "text": "Correção durante o fazer.",
+        "reflection": "Você corrige na hora?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento nato",
+        "text": "Estrutura cerebral se forma.",
+        "reflection": "Você culpa dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Zona além conforto",
+        "text": "Erro leve sustenta ganho.",
+        "reflection": "Você evita errar?"
+      },
+      {
+        "type": "myth",
+        "title": "Qualquer prática serve",
+        "text": "Vaga não muda.",
+        "reflection": "Você treina no automático?"
+      }
+    ],
+    "summary": "Anders Ericsson, o pesquisador por trás do conceito de 10 mil horas, detalha o que realmente faz a maestria: prática deliberada com feedback e desafio.",
+    "color": "#16a085",
+    "file": "livro.html#peak",
+    "citacoes": [
+      {
+        "texto": "Não existe talento natural; há prática deliberada.",
+        "autor": "Anders Ericsson",
+        "obra": "Peak"
+      },
+      {
+        "texto": "A prática deliberada constrói o cérebro.",
+        "autor": "Anders Ericsson",
+        "obra": "Peak"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Base científica da maestria.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Pratique deliberado",
+        "text": "Meta, foco, correção.",
+        "explicacoes": [
+          "Não é repetir.",
+          "É ajustar.",
+          "Ganho vem."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Busque mestre",
+        "text": "Feedback de quem sabe.",
+        "explicacoes": [
+          "Caminho certo.",
+          "Erro cedo.",
+          "Acelera."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Fique na borda",
+        "text": "Levemente além do domínio.",
+        "explicacoes": [
+          "Desconforto certo.",
+          "Cresce.",
+          "Estagna não."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Deliberada",
+        "texto": "Não repetir."
+      },
+      {
+        "titulo": "Feedback",
+        "texto": "Corrige."
+      },
+      {
+        "titulo": "Borda",
+        "texto": "Cresce."
+      }
+    ]
+  },
+  {
+    "id": "twenge",
+    "slug": "igen",
+    "title": "iGen",
+    "titlePt": "iGen: Por que os Superconectados Estão Mudando",
+    "author": "Jean M. Twenge",
+    "year": "2017",
+    "editionYear": "2019",
+    "publisher": "Atria / Penso",
+    "pages": "416",
+    "genre": "Comportamento / Sociedade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/twenge-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Tela muda mente",
+        "text": "Smartphone reconfigura infância.",
+        "reflection": "Você mede tela?"
+      },
+      {
+        "type": "myth",
+        "title": "Só ferramenta",
+        "text": "Uso intenso afeta humor.",
+        "reflection": "Sua tela ajuda ou consome?"
+      },
+      {
+        "type": "truth",
+        "title": "Ansiedade sobe",
+        "text": "Comparação social pesa.",
+        "reflection": "Você se compara?"
+      },
+      {
+        "type": "myth",
+        "title": "Conectar une",
+        "text": "Virtual substitui presença mal.",
+        "reflection": "Sua presença é real?"
+      },
+      {
+        "type": "truth",
+        "title": "Sono piora",
+        "text": "Tela à noite derruba.",
+        "reflection": "Você usa à noite?"
+      },
+      {
+        "type": "myth",
+        "title": "Geração igual",
+        "text": "iGen difere das anteriores.",
+        "reflection": "Você trata iguais?"
+      }
+    ],
+    "summary": "Jean Twenge analisa a geração nascida com smartphone, mostrando mudanças reais em bem-estar, atenção e relacionamentos, com implicações para pais e educadores.",
+    "color": "#c0392b",
+    "file": "livro.html#igen",
+    "citacoes": [
+      {
+        "texto": "O smartphone redefiniu a adolescência.",
+        "autor": "Jean Twenge",
+        "obra": "iGen"
+      },
+      {
+        "texto": "Tela à noite rouba sono e humor.",
+        "autor": "Jean Twenge",
+        "obra": "iGen"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pesquisa de dados generacionais.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Limite tela",
+        "text": "Horários e lugares sem tela.",
+        "explicacoes": [
+          "Sono melhora.",
+          "Foco sobra.",
+          "Presença volta."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Presença real",
+        "text": "Encontro cara a cara.",
+        "explicacoes": [
+          "Vínculo forte.",
+          "Comparação cai.",
+          "Humor sobe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Durma bem",
+        "text": "Tela fora do quarto.",
+        "explicacoes": [
+          "Luz atrapalha.",
+          "Rotina ajuda.",
+          "Dia rende."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Tela",
+        "texto": "Medir."
+      },
+      {
+        "titulo": "Presença",
+        "texto": "Real."
+      },
+      {
+        "titulo": "Sono",
+        "texto": "Base."
+      }
+    ]
+  },
+  {
+    "id": "harris",
+    "slug": "so-respira",
+    "title": "10% Happier",
+    "titlePt": "Só Respira: Como a Meditação Me Salvou da Loucura",
+    "author": "Dan Harris",
+    "year": "2014",
+    "editionYear": "2015",
+    "publisher": "It Books / Sextante",
+    "pages": "256",
+    "genre": "Mindfulness / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/harris-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Meditar ajuda",
+        "text": "Atenção treinada reduz caos.",
+        "reflection": "Você treina mente?"
+      },
+      {
+        "type": "myth",
+        "title": "Mística demais",
+        "text": "Prática laica funciona.",
+        "reflection": "Você rejeita por rótulo?"
+      },
+      {
+        "type": "truth",
+        "title": "Foco reduz reação",
+        "text": "Pausa antes de agir.",
+        "reflection": "Você reage no impulso?"
+      },
+      {
+        "type": "myth",
+        "title": "Bastava força",
+        "text": "Atenção é músculo.",
+        "reflection": "Você só tenta?"
+      },
+      {
+        "type": "truth",
+        "title": "Pequeno diário",
+        "text": "Minutos contam.",
+        "reflection": "Você acha que precisa horas?"
+      },
+      {
+        "type": "myth",
+        "title": "Vazio igual",
+        "text": "Silêncio ativo muda.",
+        "reflection": "Você confunde com nada?"
+      }
+    ],
+    "summary": "Dan Harris, jornalista cético, relata como a meditação mindfulness o tirou do piloto automático e reduziu ansiedade, sem misticismo.",
+    "color": "#27ae60",
+    "file": "livro.html#so-respira",
+    "citacoes": [
+      {
+        "texto": "A meditação me fez 10% mais feliz e menos idiota.",
+        "autor": "Dan Harris",
+        "obra": "10% Happier"
+      },
+      {
+        "texto": "Treine a atenção como músculo.",
+        "autor": "Dan Harris",
+        "obra": "10% Happier"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Porta de entrada cética ao mindfulness.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Medite pouco",
+        "text": "5 a 10 minutos diários.",
+        "explicacoes": [
+          "Começo fácil.",
+          "Consistência vence.",
+          "Efeito soma."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Note pensamento",
+        "text": "Observar sem seguir.",
+        "explicacoes": [
+          "Distância útil.",
+          "Reação cai.",
+          "Clareza sobra."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Respire no gatilho",
+        "text": "Pausa antes de agir.",
+        "explicacoes": [
+          "Imãde responde.",
+          "Escolha aparece.",
+          "Calma ajuda."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Meditar",
+        "texto": "Laico."
+      },
+      {
+        "titulo": "Notar",
+        "texto": "Solta."
+      },
+      {
+        "titulo": "Pausa",
+        "texto": "Responde."
+      }
+    ]
   }
 ];
