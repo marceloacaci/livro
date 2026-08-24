@@ -7895,5 +7895,188 @@ window.MEU_BOLSO_BOOKS=[
         "fonte": "Anúncio de venda"
       }
     ]
+  },
+  {
+    "id": "kiyosaki",
+    "slug": "pai-rico-pai-pobre",
+    "title": "Rich Dad Poor Dad",
+    "titlePt": "Pai Rico, Pai Pobre",
+    "author": "Robert T. Kiyosaki",
+    "year": "1997",
+    "editionYear": "2017",
+    "publisher": "Plata Publishing / Alta Books",
+    "pages": "207",
+    "genre": "Finanças pessoais / Educação financeira",
+    "language": "Inglês",
+    "copiesSold": "Mais de 32 milhões",
+    "cover": "img/kiyosaki-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      { type: 'truth', title: 'Os ricos não trabalham por dinheiro — fazem o dinheiro trabalhar', text: 'Kiyosaki distingue emprego (trocar tempo por salário) de investimento (ativos que geram fluxo).', reflection: 'Você compra tempo ou vende tempo? Qual a proporção?' },
+      { type: 'myth', title: 'Estudar muito garante riqueza', text: 'Notas boas ajudam, mas educação financeira é o que separa quem acumula de quem estagna.', reflection: 'Você aprendeu finanças na escola ou por conta própria?' },
+      { type: 'truth', title: 'Ativos colocam dinheiro no seu bolso; passivos tiram', text: 'A casa própria nem sempre é ativo — depende se ela gera ou consome caixa.', reflection: 'Seus bens geram renda ou só custo?' },
+      { type: 'myth', title: 'Quitar tudo e ficar sem dívida é o ápice', text: 'Para Kiyosaki, usar crédito barato para alavancar ativos pode superar o medo da dívida.', reflection: 'Você foge de toda dívida ou usa a boa a seu favor?' },
+      { type: 'truth', title: 'Inteligência financeira vale mais que salário alto', text: 'Saber ler balanços e fluxos supera ganhar muito e gastar tudo.', reflection: 'Você entende para onde seu dinheiro vai cada mês?' },
+      { type: 'myth', title: 'O caminho seguro é estudar, trabalhar e aposentar', text: 'Esse roteiro deixou gerações reféns de previdências frágeis.', reflection: 'Seu plano de longo prazo depende de terceiros?' }
+    ],
+    "summary": "Por meio da história de dois pais — um pobre e um rico —, Robert Kiyosaki ensina que a escola não ensina a ficar rico. O livro defende a construção de ativos que geram renda passiva e a mudança de mentalidade sobre trabalho, dinheiro e liberdade.",
+    "color": "#16a085",
+    "file": "livro.html#pai-rico-pai-pobre",
+    "citacoes": [
+      { "texto": "Os ricos não trabalham por dinheiro. O dinheiro trabalha para eles.", "autor": "Robert Kiyosaki", "obra": "Rich Dad Poor Dad" },
+      { "texto": "Não diga 'Eu não posso pagar'. Diga 'Como eu poderia pagar?'.", "autor": "Robert Kiyosaki", "obra": "Rich Dad Poor Dad" },
+      { "texto": "O medo e a ganância fazem as pessoas agirem sem pensar.", "autor": "Robert Kiyosaki", "obra": "Rich Dad Poor Dad" }
+    ],
+    "citacoesTerceiros": [
+      { "texto": "Um dos livros de finanças mais vendidos e traduzidos do mundo, com mais de 32 milhões de cópias.", "autor": "Editora Alta Books", "fonte": "Dados de vendas" }
+    ],
+    "sections": ["sobre", "ensinamentos", "ideias", "verdadesmitos", "reflexoes"],
+    "ensinamentos": [
+      { "number": "1", "title": "Aprenda a diferença entre ativo e passivo", "text": "Ativo coloca dinheiro no bolso; passivo o tira. Foque em adquirir ativos.", "explicacoes": ["Liste tudo que tem e classifique: gera renda ou gera despesa?", "A maioria dos 'bens' que as pessoas orgulha são passivos disfarçados.", "A liberdade vem de ter ativos suficientes para cobrir os passivos."] },
+      { "number": "2", "title": "Construa inteligência financeira", "text": "Leia demonstrativos, entenda impostos e fluxo de caixa antes de investir.", "explicacoes": ["Contabilidade, investimento, mercado e lei são os pilares.", "Quem não entende seu próprio fluxo fica refém de consultores.", "Estude 15 minutos por dia sobre finanças."] },
+      { "number": "3", "title": "Use o crédito como ferramenta", "text": "Crédito barato bem usado alavanca ativos; mal usado destrói patrimônio.", "explicacoes": ["Dívida boa financia ativo que paga a si mesma.", "Dívida ruim financia consumo que desvaloriza.", "Pague a si mesmo primeiro, antes das despesas."] },
+      { "number": "4", "title": "Trabalhe para aprender, não só para ganhar", "text": "Busque habilidades que abrem portas, não apenas salários.", "explicacoes": ["Especialização demais pode limitar opções.", "Saber de vendas, marketing e finanças multiplica valor.", "O aprendizado composto vale mais que o bônus anual."] }
+    ],
+    "ideias": [
+      { "titulo": "Mentalidade de dono", "texto": "Pense como quem possui o negócio, não como quem ocupa um cargo." },
+      { "titulo": "Rendimento passivo", "texto": "O objetivo final é receber sem estar presente trocando tempo por dinheiro." },
+      { "titulo": "Coragem de errar", "texto": "Quem nunca tenta investir nunca aprende o que o livro ensina." }
+    ]
+  },
+  {
+    "id": "babilonia",
+    "slug": "o-homem-mais-rico-da-babilonia",
+    "title": "The Richest Man in Babylon",
+    "titlePt": "O Homem Mais Rico da Babilônia",
+    "author": "George S. Clason",
+    "year": "1926",
+    "editionYear": "2002",
+    "publisher": "Penguin / Citadel Press",
+    "pages": "144",
+    "genre": "Finanças pessoais / Clássico",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/babilonia-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      { type: 'truth', title: 'Pague a si mesmo primeiro (10% da renda)', text: 'Guardar uma parte antes de qualquer despesa é a regra de ouro da Babilônia.', reflection: 'Você reserva antes ou só guarda o que sobra?' },
+      { type: 'myth', title: 'Riqueza exige sorte ou nascimento nobre', text: 'As parábolas mostram que disciplina vence sorte.', reflection: 'Você culpa a sorte ou assume a rotina?' },
+      { type: 'truth', title: 'Faça o dinheiro multiplicar-se', text: 'Deixar parado não basta; investir com cautela faz crescer.', reflection: 'Seu dinheiro guardado trabalha ou dorme?' },
+      { type: 'myth', title: 'Endividar-se para oportunidade é sábio', text: 'Clason alerta que dívida sem controle devora o futuro.', reflection: 'Sua dívida financia sonho ou ilusão?' },
+      { type: 'truth', title: 'Proteja seu tesouro de perdas', text: 'Seguro e cautela evitam perder tudo em golpes.', reflection: 'Você protege o que conquistou?' },
+      { type: 'myth', title: 'Consultor sábio garante lucro', text: 'Nem toda dica de "especialista" serve ao seu bolso.', reflection: 'Você segue conselho ou avalia o risco?' }
+    ],
+    "summary": "Escrito em parábolas ambientadas na Babilônia antiga, o clássico de Clason condensa regras atemporais de poupança, investimento e prosperidade em linguagem simples e memorável.",
+    "color": "#d35400",
+    "file": "livro.html#o-homem-mais-rico-da-babilonia",
+    "citacoes": [
+      { "texto": "Uma parte de tudo o que você ganha é sua para guardar.", "autor": "George Clason", "obra": "The Richest Man in Babylon" },
+      { "texto": "Oportunidade é um visitante que não volta.", "autor": "George Clason", "obra": "The Richest Man in Babylon" }
+    ],
+    "citacoesTerceiros": [
+      { "texto": "Clássico de 1926 ainda recomendado por educadores financeiros pela clareza das parábolas.", "autor": "Crítica", "fonte": "Resenhas" }
+    ],
+    "sections": ["sobre", "ensinamentos", "ideias", "verdadesmitos", "reflexoes"],
+    "ensinamentos": [
+      { "number": "1", "title": "Guarde 10% de tudo que ganha", "text": "Pague a si mesmo primeiro, antes das contas.", "explicacoes": ["O hábito vale mais que o valor inicial.", "10% é indolor e composto vira fortuna.", "Trate a reserva como conta intocável."] },
+      { "number": "2", "title": "Controle os gastos", "text": "Viva dentro do que sobra após guardar os 10%.", "explicacoes": ["Despesas incham para consumir a renda.", "Orçamento é liberdade, não privação.", "Corte o supérfluo antes de tocar no essencial."] },
+      { "number": "3", "title": "Multiplique o tesouro", "text": "Empreste a juros ou invista em ativos que rendem.", "explicacoes": ["Dinheiro parado perde para a inflação.", "Busque retorno seguro e composto.", "Reinvestir acelera a roda."] }
+    ],
+    "ideias": [
+      { "titulo": "Disciplina antes de talento", "texto": "A regra dos 10% funciona para qualquer renda." },
+      { "titulo": "Paciência composta", "texto": "Pouco e constante vence muito e tardio." },
+      { "titulo": "Sabedoria sobre sorte", "texto": "Prosperidade vem de hábito, não de acaso." }
+    ]
+  },
+  {
+    "id": "atomic",
+    "slug": "habitos-atomicos",
+    "title": "Atomic Habits",
+    "titlePt": "Hábitos Atômicos",
+    "author": "James Clear",
+    "year": "2018",
+    "editionYear": "2018",
+    "publisher": "Avery / Independente",
+    "pages": "320",
+    "genre": "Hábitos / Produtividade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 15 milhões",
+    "cover": "img/atomic-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      { type: 'truth', title: 'Pequenas melhorias compostas geram grandes resultados', text: '1% ao dia vira 37x em um ano segundo a matemática dos hábitos.', reflection: 'O que 1% melhor hoje somaria em um ano?' },
+      { type: 'myth', title: 'Mudança exige transformação radical', text: 'Começos dramáticos raramente colam; sistemas pequenos duram.', reflection: 'Você busca o heroico ou o sustentável?' },
+      { type: 'truth', title: 'Foco no sistema, não na meta', text: 'Metas definem direção; sistemas entregam resultado.', reflection: 'Você tem um sistema ou só uma esperança?' },
+      { type: 'myth', title: 'Motivação sustenta o hábito', text: 'Disciplina de ambiente vence a vontade frágil.', reflection: 'Você conta com força de vontade ou facilita o caminho?' },
+      { type: 'truth', title: 'Ambiente vence a força de vontade', text: 'Torne o bom fácil e o ruim difícil.', reflection: 'Seu ambiente ajuda ou sabota?' },
+      { type: 'myth', title: 'Identidade não importa', text: 'Agir como a pessoa que você quer ser ancora o hábito.', reflection: 'Você diz "estou tentando" ou "sou"?' }
+    ],
+    "summary": "James Clear mostra como pequenas mudanças diárias, aplicadas com consistência e apoiadas por um bom ambiente, se acumulam em resultados notáveis. O livro oferece o sistema das 4 leis da mudança de comportamento.",
+    "color": "#2980b9",
+    "file": "livro.html#habitos-atomicos",
+    "citacoes": [
+      { "texto": "Você não eleva o nível de seus sucessos, e sim o nível de seus sistemas.", "autor": "James Clear", "obra": "Atomic Habits" },
+      { "texto": "Não subestime o poder de pequenas melhorias diárias.", "autor": "James Clear", "obra": "Atomic Habits" }
+    ],
+    "citacoesTerceiros": [
+      { "texto": "Um dos livros de hábitos mais vendidos da década, com milhões de leitores.", "autor": "Editora", "fonte": "Dados de vendas" }
+    ],
+    "sections": ["sobre", "ensinamentos", "ideias", "verdadesmitos", "reflexoes"],
+    "ensinamentos": [
+      { "number": "1", "title": "Torne óbvio (Lei 1)", "text": "Use empilhamento de hábitos e ambiente visível.", "explicacoes": ["Lembrete + comportamento já existente ancora o novo.", "O gatilho deve ser claro e no caminho.", "Ocultar o ruim reduz tentação."] },
+      { "number": "2", "title": "Torne atraente (Lei 2)", "text": "Vincule prazer ao hábito desejado.", "explicacoes": ["Dopamina antecipada motiva a ação.", "Associação tentadora acelera o início.", "Ceremonial torna rotina agradável."] },
+      { "number": "3", "title": "Torne fácil (Lei 3)", "text": "Reduza o atrito do comportamento certo.", "explicacoes": ["Regra dos 2 minutos: comece pequeno.", "Menos passos, mais execução.", "Automatizar elimina decisão."] },
+      { "number": "4", "title": "Torne satisfatório (Lei 4)", "text": "Recompense imediatamente para fechar o ciclo.", "explicacoes": ["Reforço rápido fixa o hábito.", "Rastrear visualmente motiva.", "Sentir progresso sustenta."] }
+    ],
+    "ideias": [
+      { "titulo": "Identidade primeiro", "texto": "Decida quem quer ser e deixe os hábitos provarem." },
+      { "titulo": "Composto do hábito", "texto": "Pequeno e diário vence grande e raro." },
+      { "titulo": "Arquiteto do ambiente", "texto": "Mude o contexto, não só a mente." }
+    ]
+  },
+  {
+    "id": "duhigg",
+    "slug": "o-poder-do-habito",
+    "title": "The Power of Habit",
+    "titlePt": "O Poder do Hábito",
+    "author": "Charles Duhigg",
+    "year": "2012",
+    "editionYear": "2012",
+    "publisher": "Random House / Objetiva",
+    "pages": "371",
+    "genre": "Hábitos / Psicologia",
+    "language": "Inglês",
+    "copiesSold": "Mais de 10 milhões",
+    "cover": "img/duhigg-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      { type: 'truth', title: 'Hábito segue o loop cue-rotina-recompensa', text: 'Identificar o gatilho e a recompensa permite reprogramar.', reflection: 'Qual o gatilho do seu hábito automático?' },
+      { type: 'myth', title: 'Hábitos são destinos inalteráveis', text: 'A rotina pode mudar mantendo gatilho e recompensa.', reflection: 'Você tenta eliminar ou substituir?' },
+      { type: 'truth', title: 'Vontade é limitada e treinável', text: 'Força de vontade cansa, mas se fortalece com prática.', reflection: 'Você gasta vontade em batalhas pequenas?' },
+      { type: 'myth', title: 'Mudança é só questão de decisão', text: 'Sem entender o loop, a decisão isolada falha.', reflection: 'Você decide ou mapeia o padrão?' },
+      { type: 'truth', title: 'Hábitos organizacionais moldam mercados', text: 'Empresas inteiras giram em torno de loops coletivos.', reflection: 'Seu time tem rotinas que ajudam ou prejudicam?' },
+      { type: 'myth', title: 'Recompensa deve ser abstrata', text: 'Recompensa concreta e imediata ancora melhor.', reflection: 'Sua recompensa é real ou vaga?' }
+    ],
+    "summary": "Charles Duhigg investiga a ciência dos hábitos individuais, organizacionais e sociais, revelando o ciclo neurológico que os sustenta e como reescrevê-lo para mudar comportamentos duradouros.",
+    "color": "#8e44ad",
+    "file": "livro.html#o-poder-do-habito",
+    "citacoes": [
+      { "texto": "Os hábitos não desaparecem, mas podem ser substituídos.", "autor": "Charles Duhigg", "obra": "The Power of Habit" },
+      { "texto": "Esta é a regra de ouro da mudança de hábito: mantenha o gatilho, entregue a recompensa, mude a rotina.", "autor": "Charles Duhigg", "obra": "The Power of Habit" }
+    ],
+    "citacoesTerceiros": [
+      { "texto": "Best-seller que popularizou o modelo de hábito na imprensa de negócios.", "autor": "Resenha", "fonte": "Mídia" }
+    ],
+    "sections": ["sobre", "ensinamentos", "ideias", "verdadesmitos", "reflexoes"],
+    "ensinamentos": [
+      { "number": "1", "title": "Mapeie o loop", "text": "Anota gatilho, rotina e recompensa por uma semana.", "explicacoes": ["Consciência precede mudança.", "O gatilho costuma ser emocional ou temporal.", "A recompensa explica por que insistimos."] },
+      { "number": "2", "title": "Substitua a rotina", "text": "Mantenha gatilho e recompensa; troque só o meio.", "explicacoes": ["Tentar extinguir raramente funciona.", "A nova rotina precisa entregar a mesma recompensa.", "Plano de execução reduz hesitação."] },
+      { "number": "3", "title": "Crave uma crença", "text": "Fé de que a mudança é possível sustenta nos dias difíceis.", "explicacoes": ["Comunidade reforça a crença.", "Pequenas vitórias validam o caminho.", "Crer antecipa a persistência."] }
+    ],
+    "ideias": [
+      { "titulo": "Mapa antes da força", "texto": "Você não vence o hábito com berro, e sim com diagnóstico." },
+      { "titulo": "Substituição cirúrgica", "texto": "Muda-se a rotina, preserva-se o gancho." },
+      { "titulo": "Vontade como músculo", "texto": "Treina-se, não esgota-se." }
+    ]
   }
 ];
