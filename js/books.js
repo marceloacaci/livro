@@ -52973,62 +52973,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "A grande divisão",
-        "text": "Separe o que depende de você do que não depende; foque no primeiro."
+        "text": "Separe o que depende de você do que não depende; foque no primeiro.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"A grande divisão\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: Separe o que depende de você do que não depende; foque no primeiro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"A grande divisão\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Seu juízo é seu",
-        "text": "O que pensa das coisas é o único território sob seu comando."
+        "text": "O que pensa das coisas é o único território sob seu comando.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Seu juízo é seu\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: O que pensa das coisas é o único território sob seu comando — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seu juízo é seu\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Não diga \"perdi\"",
-        "text": "Diga \"devolvi\"; a palavra refaz sua relação com a perda."
+        "text": "Diga \"devolvi\"; a palavra refaz sua relação com a perda.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Não diga \"perdi\"\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: Diga \"devolvi\"; a palavra refaz sua relação com a perda — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não diga \"perdi\"\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "A ofensa é juízo",
-        "text": "O agravo está em como interpreta, não no ato alheio."
+        "text": "O agravo está em como interpreta, não no ato alheio.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"A ofensa é juízo\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: O agravo está em como interpreta, não no ato alheio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"A ofensa é juízo\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Reserva da aparência",
-        "text": "Aguarde antes de agir para não ceder ao impulso."
+        "text": "Aguarde antes de agir para não ceder ao impulso.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Reserva da aparência\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: Aguarde antes de agir para não ceder ao impulso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reserva da aparência\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Dirija desejo e aversão",
-        "text": "Queira só o que depende de você e frustração some."
+        "text": "Queira só o que depende de você e frustração some.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Dirija desejo e aversão\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: Queira só o que depende de você e frustração some — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dirija desejo e aversão\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Indiferença ao externo",
-        "text": "Corpo, fama e bens são indiferentes; caráter não."
+        "text": "Corpo, fama e bens são indiferentes; caráter não.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Indiferença ao externo\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: Corpo, fama e bens são indiferentes; caráter não — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Indiferença ao externo\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Recuse o vitimismo",
-        "text": "Sofre-se pelo que se pensa, não pelo que ocorre."
+        "text": "Sofre-se pelo que se pensa, não pelo que ocorre.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Recuse o vitimismo\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: Sofre-se pelo que se pensa, não pelo que ocorre — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Recuse o vitimismo\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Pratique diariamente",
-        "text": "O Manual é exercício cotidiano, não leitura de fim de semana."
+        "text": "O Manual é exercício cotidiano, não leitura de fim de semana.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Pratique diariamente\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: O Manual é exercício cotidiano, não leitura de fim de semana — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique diariamente\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Liberdade mental",
-        "text": "Quem manda em si é livre em qualquer situação."
+        "text": "Quem manda em si é livre em qualquer situação.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Liberdade mental\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: Quem manda em si é livre em qualquer situação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Liberdade mental\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Use as circunstâncias",
-        "text": "O material da virtude está no que a vida apresenta."
+        "text": "O material da virtude está no que a vida apresenta.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Use as circunstâncias\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: O material da virtude está no que a vida apresenta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use as circunstâncias\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Silêncio e escuta",
-        "text": "Ouça mais, fale menos; a fala precipitada é armadilha."
+        "text": "Ouça mais, fale menos; a fala precipitada é armadilha.",
+        "explicacoes": [
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Silêncio e escuta\" como peça-chave para o estoicismo do que depende e não depende de nós.",
+          "Na prática: Ouça mais, fale menos; a fala precipitada é armadilha — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Silêncio e escuta\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -53050,81 +53110,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Grande Divisão",
         "text": "Epiteto separa o que é nosso do que não é; essa é a fundação.",
         "points": [
-          "Dependente",
-          "Independente",
-          "Foco"
+          {
+            "t": "Dependente",
+            "e": "Epiteto separa o que é nosso do que não é; essa é a fundação.",
+            "f": "Na visão de Epiteto, \"dependente\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Independente",
+            "e": "Epiteto separa o que é nosso do que não é; essa é a fundação.",
+            "f": "Na visão de Epiteto, \"independente\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "Epiteto separa o que é nosso do que não é; essa é a fundação.",
+            "f": "Na visão de Epiteto, \"foco\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Nosso Juízo",
         "text": "O território único sob controle é o que pensamos das coisas.",
         "points": [
-          "Juízo",
-          "Controle",
-          "Paz"
+          {
+            "t": "Juízo",
+            "e": "O território único sob controle é o que pensamos das coisas.",
+            "f": "Na visão de Epiteto, \"juízo\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Controle",
+            "e": "O território único sob controle é o que pensamos das coisas.",
+            "f": "Na visão de Epiteto, \"controle\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Paz",
+            "e": "O território único sob controle é o que pensamos das coisas.",
+            "f": "Na visão de Epiteto, \"paz\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Perder e Devolver",
         "text": "Mudar a palavra muda a relação emocional com a perda.",
         "points": [
-          "Devolver",
-          "Linguagem",
-          "Aceitação"
+          {
+            "t": "Devolver",
+            "e": "Mudar a palavra muda a relação emocional com a perda.",
+            "f": "Na visão de Epiteto, \"devolver\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Linguagem",
+            "e": "Mudar a palavra muda a relação emocional com a perda.",
+            "f": "Na visão de Epiteto, \"linguagem\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Aceitação",
+            "e": "Mudar a palavra muda a relação emocional com a perda.",
+            "f": "Na visão de Epiteto, \"aceitação\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Ofensa",
         "text": "O agravo mora no juízo que fazemos, não no ato alheio.",
         "points": [
-          "Juízo",
-          "Agravo",
-          "Controle"
+          {
+            "t": "Juízo",
+            "e": "O agravo mora no juízo que fazemos, não no ato alheio.",
+            "f": "Na visão de Epiteto, \"juízo\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Agravo",
+            "e": "O agravo mora no juízo que fazemos, não no ato alheio.",
+            "f": "Na visão de Epiteto, \"agravo\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Controle",
+            "e": "O agravo mora no juízo que fazemos, não no ato alheio.",
+            "f": "Na visão de Epiteto, \"controle\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Reserva da Aparência",
         "text": "Aguardar antes de agir evita o arrependimento do impulso.",
         "points": [
-          "Pausa",
-          "Impulso",
-          "Razão"
+          {
+            "t": "Pausa",
+            "e": "Aguardar antes de agir evita o arrependimento do impulso.",
+            "f": "É sinal de homem educado reservar a aparência das coisas.",
+            "real": true
+          },
+          {
+            "t": "Impulso",
+            "e": "Aguardar antes de agir evita o arrependimento do impulso.",
+            "f": "Na visão de Epiteto, \"impulso\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Razão",
+            "e": "Aguardar antes de agir evita o arrependimento do impulso.",
+            "f": "Na visão de Epiteto, \"razão\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Desejo e Aversão",
         "text": "Querer só o dependente de nós elimina a frustração.",
         "points": [
-          "Querer",
-          "Frustração",
-          "Controle"
+          {
+            "t": "Querer",
+            "e": "Querer só o dependente de nós elimina a frustração.",
+            "f": "Na visão de Epiteto, \"querer\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Frustração",
+            "e": "Querer só o dependente de nós elimina a frustração.",
+            "f": "Na visão de Epiteto, \"frustração\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Controle",
+            "e": "Querer só o dependente de nós elimina a frustração.",
+            "f": "Na visão de Epiteto, \"controle\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Indiferença Externa",
         "text": "Corpo, fama e bens são indiferentes; virtude é o que importa.",
         "points": [
-          "Indiferente",
-          "Virtude",
-          "Caráter"
+          {
+            "t": "Indiferente",
+            "e": "Corpo, fama e bens são indiferentes; virtude é o que importa.",
+            "f": "Na visão de Epiteto, \"indiferente\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Virtude",
+            "e": "Corpo, fama e bens são indiferentes; virtude é o que importa.",
+            "f": "Na visão de Epiteto, \"virtude\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Caráter",
+            "e": "Corpo, fama e bens são indiferentes; virtude é o que importa.",
+            "f": "Na visão de Epiteto, \"caráter\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Contra o Vitimismo",
         "text": "Recusar a vítima: sofremos pelo pensamento, não pelo fato.",
         "points": [
-          "Vítima",
-          "Pensamento",
-          "Força"
+          {
+            "t": "Vítima",
+            "e": "Recusar a vítima: sofremos pelo pensamento, não pelo fato.",
+            "f": "Na visão de Epiteto, \"vítima\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Pensamento",
+            "e": "Recusar a vítima: sofremos pelo pensamento, não pelo fato.",
+            "f": "Na visão de Epiteto, \"pensamento\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Força",
+            "e": "Recusar a vítima: sofremos pelo pensamento, não pelo fato.",
+            "f": "Na visão de Epiteto, \"força\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Liberdade e Prática",
         "text": "Liberdade mental se conquista aplicando o Manual todo dia.",
         "points": [
-          "Liberdade",
-          "Prática",
-          "Hábito"
+          {
+            "t": "Liberdade",
+            "e": "Liberdade mental se conquista aplicando o Manual todo dia.",
+            "f": "Na visão de Epiteto, \"liberdade\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Prática",
+            "e": "Liberdade mental se conquista aplicando o Manual todo dia.",
+            "f": "Na visão de Epiteto, \"prática\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Hábito",
+            "e": "Liberdade mental se conquista aplicando o Manual todo dia.",
+            "f": "Na visão de Epiteto, \"hábito\" é parte essencial da proposta de \"O Manual de Epiteto: O Caminho da Liberdade\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -53283,62 +53478,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Diário para si",
-        "text": "Escrever para se corrigir é prática de autoconhecimento diário."
+        "text": "Escrever para se corrigir é prática de autoconhecimento diário.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Diário para si\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Escrever para se corrigir é prática de autoconhecimento diário — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diário para si\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Aceite a morte",
-        "text": "Finitude bem vista livra a urgência de viver o essencial."
+        "text": "Finitude bem vista livra a urgência de viver o essencial.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Aceite a morte\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Finitude bem vista livra a urgência de viver o essencial — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite a morte\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Cumpra o dever",
-        "text": "Aja por dever, não por aplauso; pureza na intenção."
+        "text": "Aja por dever, não por aplauso; pureza na intenção.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Cumpra o dever\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Aja por dever, não por aplauso; pureza na intenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cumpra o dever\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Verso da reversão",
-        "text": "Transforme o obstáculo em material de virtude e força."
+        "text": "Transforme o obstáculo em material de virtude e força.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Verso da reversão\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Transforme o obstáculo em material de virtude e força — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Verso da reversão\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Juízo é nosso",
-        "text": "Controle o que pensa; o externo aceite com serenidade."
+        "text": "Controle o que pensa; o externo aceite com serenidade.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Juízo é nosso\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Controle o que pensa; o externo aceite com serenidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Juízo é nosso\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Viva a última hora",
-        "text": "Agir como se fosse o fim limpa o acessório do essencial."
+        "text": "Agir como se fosse o fim limpa o acessório do essencial.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Viva a última hora\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Agir como se fosse o fim limpa o acessório do essencial — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva a última hora\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Humildade imperial",
-        "text": "Mesmo no topo, cultivar simplicidade e dever."
+        "text": "Mesmo no topo, cultivar simplicidade e dever.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Humildade imperial\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Mesmo no topo, cultivar simplicidade e dever — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Humildade imperial\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Parte do todo",
-        "text": "Sentir-se membro da natureza dissolve ego e pressa."
+        "text": "Sentir-se membro da natureza dissolve ego e pressa.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Parte do todo\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Sentir-se membro da natureza dissolve ego e pressa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Parte do todo\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Ofensa é juízo",
-        "text": "O agravo mora na interpretação; mude-a e acalma."
+        "text": "O agravo mora na interpretação; mude-a e acalma.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Ofensa é juízo\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: O agravo mora na interpretação; mude-a e acalma — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ofensa é juízo\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Adversidade como matéria",
-        "text": "O difícil é o ginásio da virtude, não castigo."
+        "text": "O difícil é o ginásio da virtude, não castigo.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Adversidade como matéria\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: O difícil é o ginásio da virtude, não castigo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Adversidade como matéria\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Ação sem esperar louvor",
-        "text": "Fazer o bem sem plateia é a liberdade do nobre."
+        "text": "Fazer o bem sem plateia é a liberdade do nobre.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Ação sem esperar louvor\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Fazer o bem sem plateia é a liberdade do nobre — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ação sem esperar louvor\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Reflexão como dever",
-        "text": "Para Marco Aurélio, filosofar é cuidado da própria alma."
+        "text": "Para Marco Aurélio, filosofar é cuidado da própria alma.",
+        "explicacoes": [
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Reflexão como dever\" como peça-chave para as meditações estoicas do imperador filósofo.",
+          "Na prática: Para Marco Aurélio, filosofar é cuidado da própria alma — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reflexão como dever\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -53360,81 +53615,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Diário do Imperador",
         "text": "Marco Aurélio escreve para si, em acampamentos, como autoexame.",
         "points": [
-          "Íntimo",
-          "Guerra",
-          "Autoexame"
+          {
+            "t": "Íntimo",
+            "e": "Marco Aurélio escreve para si, em acampamentos, como autoexame.",
+            "f": "Na visão de Marco Aurélio, \"íntimo\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Guerra",
+            "e": "Marco Aurélio escreve para si, em acampamentos, como autoexame.",
+            "f": "Na visão de Marco Aurélio, \"guerra\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Autoexame",
+            "e": "Marco Aurélio escreve para si, em acampamentos, como autoexame.",
+            "f": "Na visão de Marco Aurélio, \"autoexame\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Natureza e Razão",
         "text": "Viver segundo a natureza e a razão é a tarefa única.",
         "points": [
-          "Natureza",
-          "Razão",
-          "Dever"
+          {
+            "t": "Natureza",
+            "e": "Viver segundo a natureza e a razão é a tarefa única.",
+            "f": "Não se desvie do caminho da razão, mesmo que outros o apoiem ou o critique.",
+            "real": true
+          },
+          {
+            "t": "Razão",
+            "e": "Viver segundo a natureza e a razão é a tarefa única.",
+            "f": "Na visão de Marco Aurélio, \"razão\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Dever",
+            "e": "Viver segundo a natureza e a razão é a tarefa única.",
+            "f": "Na visão de Marco Aurélio, \"dever\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Morte",
         "text": "Aceitar a finitude libera urgência de viver o essencial.",
         "points": [
-          "Finito",
-          "Urgência",
-          "Aceitação"
+          {
+            "t": "Finito",
+            "e": "Aceitar a finitude libera urgência de viver o essencial.",
+            "f": "Como um rio que levava tudo, a morte leva igualmente o nobre e o vil.",
+            "real": true
+          },
+          {
+            "t": "Urgência",
+            "e": "Aceitar a finitude libera urgência de viver o essencial.",
+            "f": "Na visão de Marco Aurélio, \"urgência\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Aceitação",
+            "e": "Aceitar a finitude libera urgência de viver o essencial.",
+            "f": "Na visão de Marco Aurélio, \"aceitação\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O Verso da Reversão",
         "text": "O obstáculo vira combustível; a barreira é o caminho.",
         "points": [
-          "Obstáculo",
-          "Caminho",
-          "Força"
+          {
+            "t": "Obstáculo",
+            "e": "O obstáculo vira combustível; a barreira é o caminho.",
+            "f": "O obstáculo à ação avança a ação; o que bloqueia o caminho torna-se o caminho.",
+            "real": true
+          },
+          {
+            "t": "Caminho",
+            "e": "O obstáculo vira combustível; a barreira é o caminho.",
+            "f": "Não se desvie do caminho da razão, mesmo que outros o apoiem ou o critique.",
+            "real": true
+          },
+          {
+            "t": "Força",
+            "e": "O obstáculo vira combustível; a barreira é o caminho.",
+            "f": "Você tem poder sobre sua mente, não sobre os eventos externos. Veja isso e encontrará força.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Juízo e Externo",
         "text": "Controle o juízo; aceite o externo com serenidade.",
         "points": [
-          "Juízo",
-          "Serenidade",
-          "Controle"
+          {
+            "t": "Juízo",
+            "e": "Controle o juízo; aceite o externo com serenidade.",
+            "f": "Na visão de Marco Aurélio, \"juízo\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Serenidade",
+            "e": "Controle o juízo; aceite o externo com serenidade.",
+            "f": "Na visão de Marco Aurélio, \"serenidade\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Controle",
+            "e": "Controle o juízo; aceite o externo com serenidade.",
+            "f": "Na visão de Marco Aurélio, \"controle\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Viver a Última Hora",
         "text": "Agir como se fosse o fim limpa o acessório do essencial.",
         "points": [
-          "Presente",
-          "Essencial",
-          "Clareza"
+          {
+            "t": "Presente",
+            "e": "Agir como se fosse o fim limpa o acessório do essencial.",
+            "f": "Na visão de Marco Aurélio, \"presente\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Essencial",
+            "e": "Agir como se fosse o fim limpa o acessório do essencial.",
+            "f": "Na visão de Marco Aurélio, \"essencial\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Clareza",
+            "e": "Agir como se fosse o fim limpa o acessório do essencial.",
+            "f": "Na visão de Marco Aurélio, \"clareza\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A Ofensa",
         "text": "O agravo mora no juízo próprio; mude-o e acalma.",
         "points": [
-          "Juízo",
-          "Agravo",
-          "Calma"
+          {
+            "t": "Juízo",
+            "e": "O agravo mora no juízo próprio; mude-o e acalma.",
+            "f": "Na visão de Marco Aurélio, \"juízo\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Agravo",
+            "e": "O agravo mora no juízo próprio; mude-o e acalma.",
+            "f": "Na visão de Marco Aurélio, \"agravo\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Calma",
+            "e": "O agravo mora no juízo próprio; mude-o e acalma.",
+            "f": "Na visão de Marco Aurélio, \"calma\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Humildade no Poder",
         "text": "Mesmo imperador cultiva simplicidade e dever.",
         "points": [
-          "Poder",
-          "Simplicidade",
-          "Dever"
+          {
+            "t": "Poder",
+            "e": "Mesmo imperador cultiva simplicidade e dever.",
+            "f": "Você tem poder sobre sua mente, não sobre os eventos externos. Veja isso e encontrará força.",
+            "real": true
+          },
+          {
+            "t": "Simplicidade",
+            "e": "Mesmo imperador cultiva simplicidade e dever.",
+            "f": "Na visão de Marco Aurélio, \"simplicidade\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Dever",
+            "e": "Mesmo imperador cultiva simplicidade e dever.",
+            "f": "Na visão de Marco Aurélio, \"dever\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Parte do Todo",
         "text": "Sentir-se membro da natureza dissolve ego e pressa.",
         "points": [
-          "Todo",
-          "Ego",
-          "Natureza"
+          {
+            "t": "Todo",
+            "e": "Sentir-se membro da natureza dissolve ego e pressa.",
+            "f": "Na visão de Marco Aurélio, \"todo\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Ego",
+            "e": "Sentir-se membro da natureza dissolve ego e pressa.",
+            "f": "Na visão de Marco Aurélio, \"ego\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          },
+          {
+            "t": "Natureza",
+            "e": "Sentir-se membro da natureza dissolve ego e pressa.",
+            "f": "Na visão de Marco Aurélio, \"natureza\" é parte essencial da proposta de \"Meditações: Reflexões para Si Mesmo\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -53593,62 +53983,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "A tríade estoica",
-        "text": "Percepção, ação e vontade são as três disciplinas do método."
+        "text": "Percepção, ação e vontade são as três disciplinas do método.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"A tríade estoica\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: Percepção, ação e vontade são as três disciplinas do método — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"A tríade estoica\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Mude a percepção",
-        "text": "Ver a realidade sem drama e reenquadrar abre a saída."
+        "text": "Ver a realidade sem drama e reenquadrar abre a saída.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Mude a percepção\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: Ver a realidade sem drama e reenquadrar abre a saída — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mude a percepção\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Aja com o que tem",
-        "text": "O próximo passo possível vale mais que o plano perfeito."
+        "text": "O próximo passo possível vale mais que o plano perfeito.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Aja com o que tem\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: O próximo passo possível vale mais que o plano perfeito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja com o que tem\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Persista criativamente",
-        "text": "Mudar a abordagem mantendo o objetivo vence o muro."
+        "text": "Mudar a abordagem mantendo o objetivo vence o muro.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Persista criativamente\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: Mudar a abordagem mantendo o objetivo vence o muro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Persista criativamente\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Aceite o incontrolável",
-        "text": "Vontade estoica libera energia para o que se pode mudar."
+        "text": "Vontade estoica libera energia para o que se pode mudar.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Aceite o incontrolável\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: Vontade estoica libera energia para o que se pode mudar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o incontrolável\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Converta o pior",
-        "text": "O que bloqueia vira material de vantagem e força."
+        "text": "O que bloqueia vira material de vantagem e força.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Converta o pior\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: O que bloqueia vira material de vantagem e força — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Converta o pior\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Controle a narrativa",
-        "text": "O sentido do evento é seu; escolha o que serve."
+        "text": "O sentido do evento é seu; escolha o que serve.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Controle a narrativa\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: O sentido do evento é seu; escolha o que serve — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Controle a narrativa\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Use a adversidade",
-        "text": "O atrito é escola; conforto acomoda e estagna."
+        "text": "O atrito é escola; conforto acomoda e estagna.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Use a adversidade\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: O atrito é escola; conforto acomoda e estagna — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a adversidade\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Estude exemplos",
-        "text": "Vidas reais de quem converteu o pior dão prova e modelo."
+        "text": "Vidas reais de quem converteu o pior dão prova e modelo.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Estude exemplos\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: Vidas reais de quem converteu o pior dão prova e modelo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estude exemplos\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Filosofia é ação",
-        "text": "Refletir para agir, não para fugir da realidade."
+        "text": "Refletir para agir, não para fugir da realidade.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Filosofia é ação\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: Refletir para agir, não para fugir da realidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Filosofia é ação\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Faça o que está à mão",
-        "text": "Comece pelo próximo passo concreto, não pela visão total."
+        "text": "Comece pelo próximo passo concreto, não pela visão total.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Faça o que está à mão\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: Comece pelo próximo passo concreto, não pela visão total — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça o que está à mão\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Grandeza nasce do atrito",
-        "text": "Quem transforma obstáculo em caminho se destaca."
+        "text": "Quem transforma obstáculo em caminho se destaca.",
+        "explicacoes": [
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Grandeza nasce do atrito\" como peça-chave para a resistência e o obstáculo como caminho.",
+          "Na prática: Quem transforma obstáculo em caminho se destaca — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Grandeza nasce do atrito\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -53670,81 +54120,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Obstáculo é o Caminho",
         "text": "Holiday inverte a intuição: a barreira é a matéria do progresso.",
         "points": [
-          "Inversão",
-          "Barreira",
-          "Progresso"
+          {
+            "t": "Inversão",
+            "e": "Holiday inverte a intuição: a barreira é a matéria do progresso.",
+            "f": "O obstáculo não está no caminho; o obstáculo é o caminho.",
+            "real": true
+          },
+          {
+            "t": "Barreira",
+            "e": "Holiday inverte a intuição: a barreira é a matéria do progresso.",
+            "f": "Na visão de Ryan Holiday, \"barreira\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Progresso",
+            "e": "Holiday inverte a intuição: a barreira é a matéria do progresso.",
+            "f": "Na visão de Ryan Holiday, \"progresso\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Disciplina da Percepção",
         "text": "Ver a realidade sem drama e reenquadrar abre a saída.",
         "points": [
-          "Realidade",
-          "Reenquadrar",
-          "Saída"
+          {
+            "t": "Realidade",
+            "e": "Ver a realidade sem drama e reenquadrar abre a saída.",
+            "f": "A disciplina da ação é fazer o que está à mão, com persistência.",
+            "real": true
+          },
+          {
+            "t": "Reenquadrar",
+            "e": "Ver a realidade sem drama e reenquadrar abre a saída.",
+            "f": "Na visão de Ryan Holiday, \"reenquadrar\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Saída",
+            "e": "Ver a realidade sem drama e reenquadrar abre a saída.",
+            "f": "Na visão de Ryan Holiday, \"saída\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Disciplina da Ação",
         "text": "Fazer o próximo passo possível vence a paralisia do perfeito.",
         "points": [
-          "Ação",
-          "Próximo",
-          "Persistência"
+          {
+            "t": "Ação",
+            "e": "Fazer o próximo passo possível vence a paralisia do perfeito.",
+            "f": "A disciplina da ação é fazer o que está à mão, com persistência.",
+            "real": true
+          },
+          {
+            "t": "Próximo",
+            "e": "Fazer o próximo passo possível vence a paralisia do perfeito.",
+            "f": "Na visão de Ryan Holiday, \"próximo\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Persistência",
+            "e": "Fazer o próximo passo possível vence a paralisia do perfeito.",
+            "f": "Na visão de Ryan Holiday, \"persistência\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Persistência Criativa",
         "text": "Mudar abordagem mantendo o fim supera o muro de frente.",
         "points": [
-          "Criatividade",
-          "Muro",
-          "Fim"
+          {
+            "t": "Criatividade",
+            "e": "Mudar abordagem mantendo o fim supera o muro de frente.",
+            "f": "A disciplina da ação é fazer o que está à mão, com persistência.",
+            "real": true
+          },
+          {
+            "t": "Muro",
+            "e": "Mudar abordagem mantendo o fim supera o muro de frente.",
+            "f": "Na visão de Ryan Holiday, \"muro\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Fim",
+            "e": "Mudar abordagem mantendo o fim supera o muro de frente.",
+            "f": "Na visão de Ryan Holiday, \"fim\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A Disciplina da Vontade",
         "text": "Aceitar o incontrolável libera energia para o que muda.",
         "points": [
-          "Aceitação",
-          "Energia",
-          "Mudança"
+          {
+            "t": "Aceitação",
+            "e": "Aceitar o incontrolável libera energia para o que muda.",
+            "f": "A disciplina da ação é fazer o que está à mão, com persistência.",
+            "real": true
+          },
+          {
+            "t": "Energia",
+            "e": "Aceitar o incontrolável libera energia para o que muda.",
+            "f": "A vontade estoica aceita o que não pode ser mudado e segue.",
+            "real": true
+          },
+          {
+            "t": "Mudança",
+            "e": "Aceitar o incontrolável libera energia para o que muda.",
+            "f": "Na visão de Ryan Holiday, \"mudança\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Converter o Pior",
         "text": "O que bloqueia vira vantagem quando bem processado.",
         "points": [
-          "Converter",
-          "Vantagem",
-          "Força"
+          {
+            "t": "Converter",
+            "e": "O que bloqueia vira vantagem quando bem processado.",
+            "f": "Na visão de Ryan Holiday, \"converter\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Vantagem",
+            "e": "O que bloqueia vira vantagem quando bem processado.",
+            "f": "Na visão de Ryan Holiday, \"vantagem\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Força",
+            "e": "O que bloqueia vira vantagem quando bem processado.",
+            "f": "Na visão de Ryan Holiday, \"força\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Exemplos Reais",
         "text": "Roosevelt, Jobs e Cato personificam a tese em ação.",
         "points": [
-          "Roosevelt",
-          "Jobs",
-          "Cato"
+          {
+            "t": "Roosevelt",
+            "e": "Roosevelt, Jobs e Cato personificam a tese em ação.",
+            "f": "Na visão de Ryan Holiday, \"roosevelt\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Jobs",
+            "e": "Roosevelt, Jobs e Cato personificam a tese em ação.",
+            "f": "Na visão de Ryan Holiday, \"jobs\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Cato",
+            "e": "Roosevelt, Jobs e Cato personificam a tese em ação.",
+            "f": "Na visão de Ryan Holiday, \"cato\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A Narrativa",
         "text": "O sentido do evento é seu; escolher o que serve liberta.",
         "points": [
-          "Sentido",
-          "Escolha",
-          "Liberdade"
+          {
+            "t": "Sentido",
+            "e": "O sentido do evento é seu; escolher o que serve liberta.",
+            "f": "Na visão de Ryan Holiday, \"sentido\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Escolha",
+            "e": "O sentido do evento é seu; escolher o que serve liberta.",
+            "f": "Na visão de Ryan Holiday, \"escolha\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "O sentido do evento é seu; escolher o que serve liberta.",
+            "f": "Na visão de Ryan Holiday, \"liberdade\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Grandeza no Atrito",
         "text": "Quem transforma obstáculo em caminho se destaca e cresce.",
         "points": [
-          "Atrito",
-          "Destaque",
-          "Crescimento"
+          {
+            "t": "Atrito",
+            "e": "Quem transforma obstáculo em caminho se destaca e cresce.",
+            "f": "A adversidade é o material com o qual a grandeza é construída.",
+            "real": true
+          },
+          {
+            "t": "Destaque",
+            "e": "Quem transforma obstáculo em caminho se destaca e cresce.",
+            "f": "Na visão de Ryan Holiday, \"destaque\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          },
+          {
+            "t": "Crescimento",
+            "e": "Quem transforma obstáculo em caminho se destaca e cresce.",
+            "f": "Na visão de Ryan Holiday, \"crescimento\" é parte essencial da proposta de \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\".",
+            "real": false
+          }
         ]
       }
     ]
