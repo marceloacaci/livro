@@ -58539,57 +58539,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Entenda o mecanismo",
-        "text": "Saber o que cortisol faz ajuda a não tratar estresse como frescura."
+        "text": "Saber o que cortisol faz ajuda a não tratar estresse como frescura.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Entenda o mecanismo\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Saber o que cortisol faz ajuda a não tratar estresse como frescura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda o mecanismo\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Busque controle",
-        "text": "Decidir a própria rotina reduz dano tanto quanto remédio."
+        "text": "Decidir a própria rotina reduz dano tanto quanto remédio.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Busque controle\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Decidir a própria rotina reduz dano tanto quanto remédio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque controle\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Mova o corpo",
-        "text": "Exercício é a \"fuga\" que o metabolismo espera para limpar o hormônio."
+        "text": "Exercício é a \"fuga\" que o metabolismo espera para limpar o hormônio.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Mova o corpo\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Exercício é a \"fuga\" que o metabolismo espera para limpar o hormônio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mova o corpo\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Cultive vínculos",
-        "text": "Apoio social e toque baixam cortisol na prática, não na teoria."
+        "text": "Apoio social e toque baixam cortisol na prática, não na teoria.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Cultive vínculos\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Apoio social e toque baixam cortisol na prática, não na teoria — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive vínculos\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Durma de verdade",
-        "text": "Sono é o desligamento noturno que o sistema precisa para curar."
+        "text": "Sono é o desligamento noturno que o sistema precisa para curar.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Durma de verdade\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Sono é o desligamento noturno que o sistema precisa para curar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Durma de verdade\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Ria e brinque",
-        "text": "Humor e lazer são válvulas reais; trate-os como saúde."
+        "text": "Humor e lazer são válvulas reais; trate-os como saúde.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Ria e brinque\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Humor e lazer são válvulas reais; trate-os como saúde — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ria e brinque\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Torne o dia previsível",
-        "text": "Rotina e aviso reduzem a incerteza que mantém o alerta ligado."
+        "text": "Rotina e aviso reduzem a incerteza que mantém o alerta ligado.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Torne o dia previsível\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Rotina e aviso reduzem a incerteza que mantém o alerta ligado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Torne o dia previsível\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Desligue de propósito",
-        "text": "Hobby e natureza resetam; não espere o colapso para parar."
+        "text": "Hobby e natureza resetam; não espere o colapso para parar.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Desligue de propósito\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Hobby e natureza resetam; não espere o colapso para parar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desligue de propósito\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Corte o crônico",
-        "text": "Identifique o gatilho diário e remova ou limite o que puder."
+        "text": "Identifique o gatilho diário e remova ou limite o que puder.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Corte o crônico\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Identifique o gatilho diário e remova ou limite o que puder — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Corte o crônico\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Não ignore o corpo",
-        "text": "Sintoma físico sob estresse é biológico; leve a sério."
+        "text": "Sintoma físico sob estresse é biológico; leve a sério.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Não ignore o corpo\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Sintoma físico sob estresse é biológico; leve a sério — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não ignore o corpo\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Aceite o agudo",
-        "text": "Susto pontual é normal; o perigo é quando ele nunca desliga."
+        "text": "Susto pontual é normal; o perigo é quando ele nunca desliga.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Aceite o agudo\" como peça-chave para o estresse, a biologia e a decisão humana.",
+          "Na prática: Susto pontual é normal; o perigo é quando ele nunca desliga — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o agudo\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "citacoes": [
@@ -58641,64 +58696,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A zebra e o leão",
         "text": "Estresse agudo salva; o problema humano é o disparo que não cessa.",
         "points": [
-          "Agudo vs crônico",
-          "Por que a zebra relaxa"
+          {
+            "t": "Agudo vs crônico",
+            "e": "Estresse agudo salva; o problema humano é o disparo que não cessa.",
+            "f": "A zebra que escapa do leão relaxa minutos depois; nós, não. É esse não-relaxar que nos adoece.",
+            "real": true
+          },
+          {
+            "t": "Por que a zebra relaxa",
+            "e": "Estresse agudo salva; o problema humano é o disparo que não cessa.",
+            "f": "Na visão de Robert M. Sapolsky, \"por que a zebra relaxa\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O sistema de alerta",
         "text": "Cortisol e adrenalina preparam o corpo para luta ou fuga.",
         "points": [
-          "Hormônios na ação",
-          "Corpo em prontidão"
+          {
+            "t": "Hormônios na ação",
+            "e": "Cortisol e adrenalina preparam o corpo para luta ou fuga.",
+            "f": "Se você é incapaz de ligar e desligar o sistema de estresse, vira presa de você mesmo.",
+            "real": true
+          },
+          {
+            "t": "Corpo em prontidão",
+            "e": "Cortisol e adrenalina preparam o corpo para luta ou fuga.",
+            "f": "O corpo foi feito para correr do predador, não para ler 200 e-mails ameaçadores por dia.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Quando não desliga",
         "text": "Estresse diário corrói coração, imunidade e cérebro.",
         "points": [
-          "Dano contínuo",
-          "Alerta sem fim"
+          {
+            "t": "Dano contínuo",
+            "e": "Estresse diário corrói coração, imunidade e cérebro.",
+            "f": "Na visão de Robert M. Sapolsky, \"dano contínuo\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          },
+          {
+            "t": "Alerta sem fim",
+            "e": "Estresse diário corrói coração, imunidade e cérebro.",
+            "f": "Na visão de Robert M. Sapolsky, \"alerta sem fim\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O papel do controle",
         "text": "Quem decide sofre menos; o passivo paga o preço biológico.",
         "points": [
-          "Controle como escudo",
-          "Decidir protege"
+          {
+            "t": "Controle como escudo",
+            "e": "Quem decide sofre menos; o passivo paga o preço biológico.",
+            "f": "O estresse não é o que machuca; é o estresse ao qual você não pode dar fim, nem controle, que destrói.",
+            "real": true
+          },
+          {
+            "t": "Decidir protege",
+            "e": "Quem decide sofre menos; o passivo paga o preço biológico.",
+            "f": "O que protege não é evitar o estresse, mas ter controle, vínculo e um fim claro para ele.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Sociedade e estresse",
         "text": "Incerteza, hierarquia e isolamento amplificam a resposta.",
         "points": [
-          "Fator social",
-          "Vínculo acalma"
+          {
+            "t": "Fator social",
+            "e": "Incerteza, hierarquia e isolamento amplificam a resposta.",
+            "f": "O estresse não é o que machuca; é o estresse ao qual você não pode dar fim, nem controle, que destrói.",
+            "real": true
+          },
+          {
+            "t": "Vínculo acalma",
+            "e": "Incerteza, hierarquia e isolamento amplificam a resposta.",
+            "f": "O que protege não é evitar o estresse, mas ter controle, vínculo e um fim claro para ele.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Corpo sob cerco",
         "text": "Úlceras, pressão e memória sofrem com o cortisol de longo prazo.",
         "points": [
-          "Órgãos afetados",
-          "Preço real"
+          {
+            "t": "Órgãos afetados",
+            "e": "Úlceras, pressão e memória sofrem com o cortisol de longo prazo.",
+            "f": "O corpo foi feito para correr do predador, não para ler 200 e-mails ameaçadores por dia.",
+            "real": true
+          },
+          {
+            "t": "Preço real",
+            "e": "Úlceras, pressão e memória sofrem com o cortisol de longo prazo.",
+            "f": "Na visão de Robert M. Sapolsky, \"preço real\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O que ajuda",
         "text": "Exercício, sono, riso, toque e previsibilidade desligam o sistema.",
         "points": [
-          "Válvulas reais",
-          "Resetar o corpo"
+          {
+            "t": "Válvulas reais",
+            "e": "Exercício, sono, riso, toque e previsibilidade desligam o sistema.",
+            "f": "Na visão de Robert M. Sapolsky, \"válvulas reais\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          },
+          {
+            "t": "Resetar o corpo",
+            "e": "Exercício, sono, riso, toque e previsibilidade desligam o sistema.",
+            "f": "O corpo foi feito para correr do predador, não para ler 200 e-mails ameaçadores por dia.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Viver menos estressado",
         "text": "Mudar gatilho e rotina vale mais que remédio pontual.",
         "points": [
-          "Prática diária",
-          "Saúde sustentável"
+          {
+            "t": "Prática diária",
+            "e": "Mudar gatilho e rotina vale mais que remédio pontual.",
+            "f": "Na visão de Robert M. Sapolsky, \"prática diária\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          },
+          {
+            "t": "Saúde sustentável",
+            "e": "Mudar gatilho e rotina vale mais que remédio pontual.",
+            "f": "Na visão de Robert M. Sapolsky, \"saúde sustentável\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -58818,57 +58953,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Saiba que a tela treina",
-        "text": "Reconhecer o efeito é o primeiro passo para não ser seu resultado."
+        "text": "Reconhecer o efeito é o primeiro passo para não ser seu resultado.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Saiba que a tela treina\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Reconhecer o efeito é o primeiro passo para não ser seu resultado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Saiba que a tela treina\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Separe leitura profunda",
-        "text": "Reserve tempo de livro/papel longe de notificações."
+        "text": "Reserve tempo de livro/papel longe de notificações.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Separe leitura profunda\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Reserve tempo de livro/papel longe de notificações — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Separe leitura profunda\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Feche as abas",
-        "text": "Uma tarefa de cada vez recupera o foco fragmentado."
+        "text": "Uma tarefa de cada vez recupera o foco fragmentado.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Feche as abas\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Uma tarefa de cada vez recupera o foco fragmentado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Feche as abas\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Escreva para pensar",
-        "text": "Redigir à mão ou longo organiza melhor que responder rápido."
+        "text": "Redigir à mão ou longo organiza melhor que responder rápido.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Escreva para pensar\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Redigir à mão ou longo organiza melhor que responder rápido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escreva para pensar\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Memorize o essencial",
-        "text": "Guardar núcleo interno fortalece o raciocínio, não só buscar."
+        "text": "Guardar núcleo interno fortalece o raciocínio, não só buscar.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Memorize o essencial\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Guardar núcleo interno fortalece o raciocínio, não só buscar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Memorize o essencial\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Cuidado do reflexo",
-        "text": "Clique automático cansa a atenção; pause antes de abrir."
+        "text": "Clique automático cansa a atenção; pause antes de abrir.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Cuidado do reflexo\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Clique automático cansa a atenção; pause antes de abrir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuidado do reflexo\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Use a rede com intenção",
-        "text": "Acesse para algo e saia; não naufrague no feed."
+        "text": "Acesse para algo e saia; não naufrague no feed.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Use a rede com intenção\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Acesse para algo e saia; não naufrague no feed — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a rede com intenção\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Recupere o silêncio",
-        "text": "Períodos offline são onde a síntese acontece de fato."
+        "text": "Períodos offline são onde a síntese acontece de fato.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Recupere o silêncio\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Períodos offline são onde a síntese acontece de fato — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Recupere o silêncio\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Leia devagar",
-        "text": "Ler linear treina o músculo do pensamento crítico."
+        "text": "Ler linear treina o músculo do pensamento crítico.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Leia devagar\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Ler linear treina o músculo do pensamento crítico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Leia devagar\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Aceite a troca",
-        "text": "Toda comodidade tem custo de atenção; escolha pagar menos."
+        "text": "Toda comodidade tem custo de atenção; escolha pagar menos.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Aceite a troca\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Toda comodidade tem custo de atenção; escolha pagar menos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite a troca\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Proteja a mente",
-        "text": "Tratar atenção como recurso finito muda o uso diário."
+        "text": "Tratar atenção como recurso finito muda o uso diário.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Proteja a mente\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
+          "Na prática: Tratar atenção como recurso finito muda o uso diário — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja a mente\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "citacoes": [
@@ -58920,64 +59110,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A mão que treme",
         "text": "A memória pessoal de Carr: a concentração sumiu com a tela.",
         "points": [
-          "Perda percebida",
-          "O antes e o depois"
+          {
+            "t": "Perda percebida",
+            "e": "A memória pessoal de Carr: a concentração sumiu com a tela.",
+            "f": "Na visão de Nicholas Carr, \"perda percebida\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          },
+          {
+            "t": "O antes e o depois",
+            "e": "A memória pessoal de Carr: a concentração sumiu com a tela.",
+            "f": "Na visão de Nicholas Carr, \"o antes e o depois\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O cérebro maleável",
         "text": "Neuroplasticidade: o uso remodela a mente, inclusive a leitura.",
         "points": [
-          "Mente que muda",
-          "Uso molda"
+          {
+            "t": "Mente que muda",
+            "e": "Neuroplasticidade: o uso remodela a mente, inclusive a leitura.",
+            "f": "Fora de vista, fora da mente; ao ter tudo à mão, paramos de pensar por nós mesmos.",
+            "real": true
+          },
+          {
+            "t": "Uso molda",
+            "e": "Neuroplasticidade: o uso remodela a mente, inclusive a leitura.",
+            "f": "A internet não está apenas mudando o que lemos; está mudando a forma como nosso cérebro processa o que lê.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A tela contra o livro",
         "text": "Ler linear vs escanear; a diferença no pensamento crítico.",
         "points": [
-          "Leitura profunda",
-          "Tela fragmenta"
+          {
+            "t": "Leitura profunda",
+            "e": "Ler linear vs escanear; a diferença no pensamento crítico.",
+            "f": "A leitura profunda é um músculo; se não o exercitarmos, ele atrofia.",
+            "real": true
+          },
+          {
+            "t": "Tela fragmenta",
+            "e": "Ler linear vs escanear; a diferença no pensamento crítico.",
+            "f": "A máquina de escrever não mudou como pensamos; a tela interativa, sim.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A história da tecnologia",
         "text": "Do livro à máquina: cada meio reconfigurou o cérebro.",
         "points": [
-          "Meio como molde",
-          "Ferramenta muda"
+          {
+            "t": "Meio como molde",
+            "e": "Do livro à máquina: cada meio reconfigurou o cérebro.",
+            "f": "A internet não está apenas mudando o que lemos; está mudando a forma como nosso cérebro processa o que lê.",
+            "real": true
+          },
+          {
+            "t": "Ferramenta muda",
+            "e": "Do livro à máquina: cada meio reconfigurou o cérebro.",
+            "f": "Na visão de Nicholas Carr, \"ferramenta muda\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A atenção vendida",
         "text": "A economia do clique lucra com sua dispersão, não com foco.",
         "points": [
-          "Atenção como bem",
-          "Feed lucra"
+          {
+            "t": "Atenção como bem",
+            "e": "A economia do clique lucra com sua dispersão, não com foco.",
+            "f": "Trocamos a sabedoria pela informação, e a atenção pelo reflexo.",
+            "real": true
+          },
+          {
+            "t": "Feed lucra",
+            "e": "A economia do clique lucra com sua dispersão, não com foco.",
+            "f": "Na visão de Nicholas Carr, \"feed lucra\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Memória externalizada",
         "text": "Tudo na nuvem enfraquece o domínio interno do saber.",
         "points": [
-          "Memória de fora",
-          "Saber menor"
+          {
+            "t": "Memória de fora",
+            "e": "Tudo na nuvem enfraquece o domínio interno do saber.",
+            "f": "Fora de vista, fora da mente; ao ter tudo à mão, paramos de pensar por nós mesmos.",
+            "real": true
+          },
+          {
+            "t": "Saber menor",
+            "e": "Tudo na nuvem enfraquece o domínio interno do saber.",
+            "f": "Na visão de Nicholas Carr, \"saber menor\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O custo invisível",
         "text": "Velocidade troca profundidade; o preço aparece devagar.",
         "points": [
-          "Troca silenciosa",
-          "Rapidez cara"
+          {
+            "t": "Troca silenciosa",
+            "e": "Velocidade troca profundidade; o preço aparece devagar.",
+            "f": "Na visão de Nicholas Carr, \"troca silenciosa\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          },
+          {
+            "t": "Rapidez cara",
+            "e": "Velocidade troca profundidade; o preço aparece devagar.",
+            "f": "Na visão de Nicholas Carr, \"rapidez cara\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Recuperar o foco",
         "text": "Prática de leitura profunda e offline reconstrói a atenção.",
         "points": [
-          "Músculo recuperado",
-          "Foco de volta"
+          {
+            "t": "Músculo recuperado",
+            "e": "Prática de leitura profunda e offline reconstrói a atenção.",
+            "f": "A leitura profunda é um músculo; se não o exercitarmos, ele atrofia.",
+            "real": true
+          },
+          {
+            "t": "Foco de volta",
+            "e": "Prática de leitura profunda e offline reconstrói a atenção.",
+            "f": "Na visão de Nicholas Carr, \"foco de volta\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -59097,57 +59367,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Nomeie a emoção",
-        "text": "Identificar o que sente devolve o leme à razão antes do estrago."
+        "text": "Identificar o que sente devolve o leme à razão antes do estrago.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Nomeie a emoção\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: Identificar o que sente devolve o leme à razão antes do estrago — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Nomeie a emoção\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Pare antes de agir",
-        "text": "A pausa de um segundo quebra o sequestro da amígdala."
+        "text": "A pausa de um segundo quebra o sequestro da amígdala.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Pare antes de agir\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: A pausa de um segundo quebra o sequestro da amígdala — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pare antes de agir\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Treine empatia",
-        "text": "Ler o outro como ele se sente reduz atrito e abre diálogo."
+        "text": "Ler o outro como ele se sente reduz atrito e abre diálogo.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Treine empatia\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: Ler o outro como ele se sente reduz atrito e abre diálogo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine empatia\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Regule o impulso",
-        "text": "Conter a reação evita erros que inteligência não impede."
+        "text": "Conter a reação evita erros que inteligência não impede.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Regule o impulso\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: Conter a reação evita erros que inteligência não impede — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Regule o impulso\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Mantenha motivo",
-        "text": "Propósito sustenta esforço quando o ânimo falta."
+        "text": "Propósito sustenta esforço quando o ânimo falta.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Mantenha motivo\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: Propósito sustenta esforço quando o ânimo falta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha motivo\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Acalme o estresse",
-        "text": "Respirar antes de decidir protege a qualidade da escolha."
+        "text": "Respirar antes de decidir protege a qualidade da escolha.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Acalme o estresse\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: Respirar antes de decidir protege a qualidade da escolha — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acalme o estresse\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Escute para entender",
-        "text": "Ouvir sem preparar resposta melhora relações e negócios."
+        "text": "Ouvir sem preparar resposta melhora relações e negócios.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Escute para entender\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: Ouvir sem preparar resposta melhora relações e negócios — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escute para entender\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Aprenda cedo, melhore tarde",
-        "text": "EQ se forma na infância, mas adulto ainda treina."
+        "text": "EQ se forma na infância, mas adulto ainda treina.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Aprenda cedo, melhore tarde\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: EQ se forma na infância, mas adulto ainda treina — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aprenda cedo, melhore tarde\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Use em liderança",
-        "text": "Time segue quem acalma e entende, não só quem ordena."
+        "text": "Time segue quem acalma e entende, não só quem ordena.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Use em liderança\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: Time segue quem acalma e entende, não só quem ordena — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use em liderança\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Cuide do corpo",
-        "text": "Sono e movimento estabilizam o emocional base."
+        "text": "Sono e movimento estabilizam o emocional base.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Cuide do corpo\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: Sono e movimento estabilizam o emocional base — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuide do corpo\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Pratique todo dia",
-        "text": "Pequenos atos de consciência reconstroem o padrão emocional."
+        "text": "Pequenos atos de consciência reconstroem o padrão emocional.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Pratique todo dia\" como peça-chave para a inteligência emocional como chave do sucesso.",
+          "Na prática: Pequenos atos de consciência reconstroem o padrão emocional — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique todo dia\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "citacoes": [
@@ -59199,64 +59524,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O QI e o destino",
         "text": "Nota alta prevê pouco; o resto é emoção bem conduzida.",
         "points": [
-          "Além do QI",
-          "Sucesso estranho"
+          {
+            "t": "Além do QI",
+            "e": "Nota alta prevê pouco; o resto é emoção bem conduzida.",
+            "f": "Na visão de Daniel Goleman, \"além do qi\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Sucesso estranho",
+            "e": "Nota alta prevê pouco; o resto é emoção bem conduzida.",
+            "f": "O que conta no sucesso raramente é o QI; é a inteligência emocional que decide.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O cérebro emocional",
         "text": "Amígdala e córtex: o centro que sequestra a razão em segundos.",
         "points": [
-          "Dois centros",
-          "Razão sitiada"
+          {
+            "t": "Dois centros",
+            "e": "Amígdala e córtex: o centro que sequestra a razão em segundos.",
+            "f": "O que conta no sucesso raramente é o QI; é a inteligência emocional que decide.",
+            "real": true
+          },
+          {
+            "t": "Razão sitiada",
+            "e": "Amígdala e córtex: o centro que sequestra a razão em segundos.",
+            "f": "Num momento de paixão, as pessoas inteligentes fazem coisas estúpidas; a emoção sequestra a razão.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O seqüestro",
         "text": "Raiva ou pânico tomam a decisão antes do pensar.",
         "points": [
-          "Amígdala na frente",
-          "Impulso manda"
+          {
+            "t": "Amígdala na frente",
+            "e": "Raiva ou pânico tomam a decisão antes do pensar.",
+            "f": "Na visão de Daniel Goleman, \"amígdala na frente\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Impulso manda",
+            "e": "Raiva ou pânico tomam a decisão antes do pensar.",
+            "f": "Na visão de Daniel Goleman, \"impulso manda\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Conheça a si",
         "text": "Autoconsciência é a base das outras quatro competências.",
         "points": [
-          "Ver a emoção",
-          "Nomear ajuda"
+          {
+            "t": "Ver a emoção",
+            "e": "Autoconsciência é a base das outras quatro competências.",
+            "f": "Num momento de paixão, as pessoas inteligentes fazem coisas estúpidas; a emoção sequestra a razão.",
+            "real": true
+          },
+          {
+            "t": "Nomear ajuda",
+            "e": "Autoconsciência é a base das outras quatro competências.",
+            "f": "Na visão de Daniel Goleman, \"nomear ajuda\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Segurar o impulso",
         "text": "Autorregulação evita erros que inteligência sozinha não evita.",
         "points": [
-          "Freio útil",
-          "Pausa salva"
+          {
+            "t": "Freio útil",
+            "e": "Autorregulação evita erros que inteligência sozinha não evita.",
+            "f": "Na visão de Daniel Goleman, \"freio útil\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Pausa salva",
+            "e": "Autorregulação evita erros que inteligência sozinha não evita.",
+            "f": "Na visão de Daniel Goleman, \"pausa salva\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Ler o outro",
         "text": "Empatia reduz atrito e abre portas em relação e trabalho.",
         "points": [
-          "Sentir o outro",
-          "Escuta útil"
+          {
+            "t": "Sentir o outro",
+            "e": "Empatia reduz atrito e abre portas em relação e trabalho.",
+            "f": "Na visão de Daniel Goleman, \"sentir o outro\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Escuta útil",
+            "e": "Empatia reduz atrito e abre portas em relação e trabalho.",
+            "f": "Na visão de Daniel Goleman, \"escuta útil\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Habilidade social",
         "text": "Influenciar e lidar com gente é competência treinável.",
         "points": [
-          "Conviver bem",
-          "Time segue"
+          {
+            "t": "Conviver bem",
+            "e": "Influenciar e lidar com gente é competência treinável.",
+            "f": "A empatia não é luxo social; é a habilidade que faz relações e equipes funcionarem.",
+            "real": true
+          },
+          {
+            "t": "Time segue",
+            "e": "Influenciar e lidar com gente é competência treinável.",
+            "f": "Na visão de Daniel Goleman, \"time segue\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Treinar a EQ",
         "text": "Adulto aprende com prática diária; não é traço fixo.",
         "points": [
-          "Mudar dá",
-          "Prática reconstrói"
+          {
+            "t": "Mudar dá",
+            "e": "Adulto aprende com prática diária; não é traço fixo.",
+            "f": "Na visão de Daniel Goleman, \"mudar dá\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Prática reconstrói",
+            "e": "Adulto aprende com prática diária; não é traço fixo.",
+            "f": "Na visão de Daniel Goleman, \"prática reconstrói\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          }
         ]
       }
     ]
