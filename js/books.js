@@ -10156,5 +10156,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Identidade em ação."
       }
     ]
+  },
+  {
+    "id": "hill",
+    "slug": "pense-e-enriquecca",
+    "title": "Think and Grow Rich",
+    "titlePt": "Pense e Enriqueça",
+    "author": "Napoleon Hill",
+    "year": "1937",
+    "editionYear": "2015",
+    "publisher": "The Ralston Society / Fundamento",
+    "pages": "320",
+    "genre": "Finanças / Mentalidade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 100 milhões",
+    "cover": "img/hill-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Desejo ardente gera ação",
+        "text": "Obsessão clara move passos concretos.",
+        "reflection": "Quão forte é seu desejo?"
+      },
+      {
+        "type": "myth",
+        "title": "Sorte faz riqueza",
+        "text": "Oportunidade preparada encontra quem busca.",
+        "reflection": "Você espera ou prepara?"
+      },
+      {
+        "type": "truth",
+        "title": "Fé em si sustenta",
+        "text": "Crença precede resultado visível.",
+        "reflection": "Você acredita antes de ver?"
+      },
+      {
+        "type": "myth",
+        "title": "Conhecimento basta",
+        "text": "Ação organizada converte saber em riqueza.",
+        "reflection": "Você sabe mas não age?"
+      },
+      {
+        "type": "truth",
+        "title": "Mestres aceleram",
+        "text": "Mentoria concentra aprendizado.",
+        "reflection": "Quem orienta você?"
+      },
+      {
+        "type": "myth",
+        "title": "Riqueza é azar",
+        "text": "Princípios repetíveis constroem.",
+        "reflection": "Você culpa ou aplica?"
+      }
+    ],
+    "summary": "Napoleon Hill sintetizou princípios de homens ricos em 13 passos mentais para riqueza, enfatizando desejo, fé, persistência e plano definido.",
+    "color": "#d35400",
+    "file": "livro.html#pense-e-enriquecca",
+    "citacoes": [
+      {
+        "texto": "O que a mente do homem pode conceber e crer, ela pode alcançar.",
+        "autor": "Napoleon Hill",
+        "obra": "Think and Grow Rich"
+      },
+      {
+        "texto": "A persistência é o mestre do destino.",
+        "autor": "Napoleon Hill",
+        "obra": "Think and Grow Rich"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Um dos livros de autoajuda mais vendidos da história.",
+        "autor": "Editora",
+        "fonte": "Dados de vendas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Desejo definido",
+        "text": "Escreva a meta e prazo.",
+        "explicacoes": [
+          "Clareza focaliza.",
+          "Sem prazo, desejo esfria.",
+          "Especificidade move."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Plano e ação",
+        "text": "Transforme intenção em passos.",
+        "explicacoes": [
+          "Plano sem ação é sonho.",
+          "Iterar corrige.",
+          "Movimento gera."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Persista",
+        "text": "Recusa em desistir diante de não.",
+        "explicacoes": [
+          "Não é fim, é desvio.",
+          "Resiliência vence.",
+          "Tempo favorece."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Desejo claro",
+        "texto": "Foco que move."
+      },
+      {
+        "titulo": "Fé",
+        "texto": "Crer antecede."
+      },
+      {
+        "titulo": "Persistência",
+        "texto": "Mestre do destino."
+      }
+    ]
+  },
+  {
+    "id": "gawande",
+    "slug": "o-checklist-do-sucesso",
+    "title": "The Checklist Manifesto",
+    "titlePt": "O Checklist do Sucesso",
+    "author": "Atul Gawande",
+    "year": "2009",
+    "editionYear": "2010",
+    "publisher": "Metropolitan Books / Agir",
+    "pages": "224",
+    "genre": "Hábitos / Sistemas",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/gawande-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Listas simples salvam",
+        "text": "Checklist previne erros complexos.",
+        "reflection": "O que você esquece sem lista?"
+      },
+      {
+        "type": "myth",
+        "title": "Especialistas não erram",
+        "text": "Fadiga e rotina falham sem apoio.",
+        "reflection": "Você confia só na memória?"
+      },
+      {
+        "type": "truth",
+        "title": "Processo reduz caos",
+        "text": "Passos fixos libertam atenção.",
+        "reflection": "Seu trabalho tem ritual?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais regras complicam",
+        "text": "Checklist enxuto ajuda, longo atrapalha.",
+        "reflection": "Sua lista serve ou pesa?"
+      },
+      {
+        "type": "truth",
+        "title": "Time se alinha",
+        "text": "Lista compartilhada sincroniza.",
+        "reflection": "Sua equipe repete o mesmo?"
+      },
+      {
+        "type": "myth",
+        "title": "Informal é suficiente",
+        "text": "Acordo explícito evita falha.",
+        "reflection": "Você deixa ao acaso?"
+      }
+    ],
+    "summary": "Atul Gawande mostra como listas de verificação simples reduzem erros em cirurgia, aviação e negócios, provando que o processo bem desenhado salva resultados.",
+    "color": "#27ae60",
+    "file": "livro.html#o-checklist-do-sucesso",
+    "citacoes": [
+      {
+        "texto": "Bom processo bate talento sob pressão.",
+        "autor": "Atul Gawande",
+        "obra": "The Checklist Manifesto"
+      },
+      {
+        "texto": "A simplicidade salva vidas.",
+        "autor": "Atul Gawande",
+        "obra": "The Checklist Manifesto"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Ad dotado em hospitais e equipes de alto risco.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Crie checklist",
+        "text": "Liste o essencial do processo.",
+        "explicacoes": [
+          "Enxuto funciona.",
+          "Repete o certo.",
+          "Libera memória."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Padronize",
+        "text": "Mesmo passo toda vez.",
+        "explicacoes": [
+          "Consistência reduz erro.",
+          "Equipe alinhada.",
+          "Qualidade sobe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Revise",
+        "text": "Ajuste a lista com uso.",
+        "explicacoes": [
+          "Realidade corrige.",
+          "Melhoria contínua.",
+          "Vivo, não dogma."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Simples",
+        "texto": "Menos erro."
+      },
+      {
+        "titulo": "Processo",
+        "texto": "Libera atenção."
+      },
+      {
+        "titulo": "Padrão",
+        "texto": "Repete acerto."
+      }
+    ]
+  },
+  {
+    "id": "duckworth",
+    "slug": "grit-paixao-e-perseveranca",
+    "title": "Grit",
+    "titlePt": "Grit: Paixão e Perseverança",
+    "author": "Angela Duckworth",
+    "year": "2016",
+    "editionYear": "2016",
+    "publisher": "Scribner / Objetiva",
+    "pages": "352",
+    "genre": "Hábitos / Performance",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/duckworth-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Grit vence talento",
+        "text": "Paixão sustentada supera domo.",
+        "reflection": "Você desiste cedo?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento decide sucesso",
+        "text": "Esforço duradouro pesa mais.",
+        "reflection": "Você culpa falta de dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Paixão é prática",
+        "text": "Interesse cultivado vira propósito.",
+        "reflection": "Seu interesse é estável?"
+      },
+      {
+        "type": "myth",
+        "title": "Motivação vem de fora",
+        "text": "Sentido interno sustenta.",
+        "reflection": "Você espera empurrão?"
+      },
+      {
+        "type": "truth",
+        "title": "Crescimento com esforço",
+        "text": "Dificuldade fortalece, não afasta.",
+        "reflection": "Você foge do difícil?"
+      },
+      {
+        "type": "myth",
+        "title": "Genialidade é dom",
+        "text": "Prática deliberada forma mestres.",
+        "reflection": "Você treina ou confia?"
+      }
+    ],
+    "summary": "Angela Duckworth demonstra que a combinação de paixão e perseverança a longo prazo (grit) prevê sucesso melhor que talento bruto em diversas áreas.",
+    "color": "#2980b9",
+    "file": "livro.html#grit-paixao-e-perseveranca",
+    "citacoes": [
+      {
+        "texto": "O talento é quanto você tem; o grit é quanto você usa.",
+        "autor": "Angela Duckworth",
+        "obra": "Grit"
+      },
+      {
+        "texto": "O esforço conta duas vezes.",
+        "autor": "Angela Duckworth",
+        "obra": "Grit"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pesquisa premiada em psicologia da performance.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Cultive interesse",
+        "text": "Explore até achar o que importa.",
+        "explicacoes": [
+          "Paixão precede.",
+          "Curiosidade guia.",
+          "Tempo revela."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Pratique deliberado",
+        "text": "Foco em fraqueza com feedback.",
+        "explicacoes": [
+          "Desconforto cresce.",
+          "Erro ensina.",
+          "Melhora em si."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Mantenha propósito",
+        "text": "Ligue esforço a algo maior.",
+        "explicacoes": [
+          "Sentido sustenta.",
+          "Persistência ganha.",
+          "Legado move."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Grit",
+        "texto": "Paixão + perseverança."
+      },
+      {
+        "titulo": "Prática",
+        "texto": "Esforço duplica."
+      },
+      {
+        "titulo": "Propósito",
+        "texto": "Sustenta longo prazo."
+      }
+    ]
+  },
+  {
+    "id": "taleb",
+    "slug": "antifragil",
+    "title": "Antifragile",
+    "titlePt": "Antifrágil: Coisas que se Beneficiam com o Caos",
+    "author": "Nassim Nicholas Taleb",
+    "year": "2012",
+    "editionYear": "2014",
+    "publisher": "Random House / Elsewhere",
+    "pages": "519",
+    "genre": "Comportamento / Resiliência",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/taleb-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Caos pode fortalecer",
+        "text": "Antifrágil melhora com estresse.",
+        "reflection": "A adversidade te enfraquece?"
+      },
+      {
+        "type": "myth",
+        "title": "Estabilidade é ideal",
+        "text": "Fragiliza quem evita choque.",
+        "reflection": "Você protege demais?"
+      },
+      {
+        "type": "truth",
+        "title": "Opção assimétrica",
+        "text": "Perda limitada, ganho aberto.",
+        "reflection": "Seu risco é assimétrico?"
+      },
+      {
+        "type": "myth",
+        "title": "Previsão controla",
+        "text": "Planejar o imprevisível erra.",
+        "reflection": "Você prevê ou se prepara?"
+      },
+      {
+        "type": "truth",
+        "title": "Pele no jogo",
+        "text": "Quem arrisca próprio capital decide melhor.",
+        "reflection": "Você tem pele no jogo?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais dados = seguro",
+        "text": "Ruído confunde mais que ajuda.",
+        "reflection": "Você coleta ou entende?"
+      }
+    ],
+    "summary": "Taleb propõe a antifragilidade: sistemas que ganham com volatilidade e erro, em oposição ao frágil e ao meramente robusto, aplicando a finanças e vida.",
+    "color": "#8e44ad",
+    "file": "livro.html#antifragil",
+    "citacoes": [
+      {
+        "texto": "Algumas coisas se beneficiam com o caos.",
+        "autor": "Nassim Taleb",
+        "obra": "Antifragile"
+      },
+      {
+        "texto": "O que não o mata deve torná-lo mais forte.",
+        "autor": "Nassim Taleb",
+        "obra": "Antifragile"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Influente em risco e resiliência sistêmica.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Busque assimetria",
+        "text": "Perda limitada, ganho ilimitado.",
+        "explicacoes": [
+          "Opções ajudam.",
+          "Risco calculado.",
+          "Upside aberto."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Exponha-se a choques",
+        "text": "Pequenos estresses fortalecem.",
+        "explicacoes": [
+          "Treino de incerteza.",
+          "Evitar apodrece.",
+          "Adaptação cresce."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Pele no jogo",
+        "text": "Responsabilidade própria guia.",
+        "explicacoes": [
+          "Decisão honesta.",
+          "Risco alinhado.",
+          "Cuidado sobe."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Antifrágil",
+        "texto": "Caos fortalece."
+      },
+      {
+        "titulo": "Assimetria",
+        "texto": "Risco inteligente."
+      },
+      {
+        "titulo": "Pele no jogo",
+        "texto": "Decisão honesta."
+      }
+    ]
+  },
+  {
+    "id": "senge",
+    "slug": "a-quinta-disciplina",
+    "title": "The Fifth Discipline",
+    "titlePt": "A Quinta Disciplina",
+    "author": "Peter M. Senge",
+    "year": "1990",
+    "editionYear": "2006",
+    "publisher": "Doubleday / BestSeller",
+    "pages": "424",
+    "genre": "Aprendizagem / Organizações",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/senge-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Organizações aprendem",
+        "text": "Sistemas mudam comportamento coletivo.",
+        "reflection": "Seu time aprende ou repete?"
+      },
+      {
+        "type": "myth",
+        "title": "Problema é isolado",
+        "text": "Causa está na estrutura, não na pessoa.",
+        "reflection": "Você culpa indivíduo?"
+      },
+      {
+        "type": "truth",
+        "title": "Pensamento sistêmico",
+        "text": "Relações explicam o todo.",
+        "reflection": "Você vê conexões?"
+      },
+      {
+        "type": "myth",
+        "title": "Solução rápida dura",
+        "text": "Remendo ignora loop causal.",
+        "reflection": "Seu conserto é temporário?"
+      },
+      {
+        "type": "truth",
+        "title": "Modelos mentais",
+        "text": "Crenças limitam ação.",
+        "reflection": "Seu modelo serve?"
+      },
+      {
+        "type": "myth",
+        "title": "Visão vem de cima",
+        "text": "Compartilhada engaja a todos.",
+        "reflection": "Todos têm a mesma visão?"
+      }
+    ],
+    "summary": "Peter Senge descreve a organização que aprende através de cinco disciplinas, com destaque ao pensamento sistêmico para evitar soluções que pioram o problema.",
+    "color": "#c0392b",
+    "file": "livro.html#a-quinta-disciplina",
+    "citacoes": [
+      {
+        "texto": "A maior barreira é a visão de curto prazo.",
+        "autor": "Peter Senge",
+        "obra": "The Fifth Discipline"
+      },
+      {
+        "texto": "Aprender é a única vantagem sustentável.",
+        "autor": "Peter Senge",
+        "obra": "The Fifth Discipline"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Clássico de gestão e aprendizagem organizacional.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Pense sistemicamente",
+        "text": "Mapeie relações e loops.",
+        "explicacoes": [
+          "Causa não óbvia.",
+          "Efeito atrasa.",
+          "Visão ampla."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Reveja modelos",
+        "text": "Questione crenças que guiam.",
+        "explicacoes": [
+          "Cegueira de padrão.",
+          "Novo quadro.",
+          "Ação muda."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Construa visão comum",
+        "text": "Alinhe propósito do grupo.",
+        "explicacoes": [
+          "Engajamento sobe.",
+          "Direção única.",
+          "Esforço soma."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Sistemas",
+        "texto": "Relação explica."
+      },
+      {
+        "titulo": "Modelos",
+        "texto": "Crença guia."
+      },
+      {
+        "titulo": "Visão comum",
+        "texto": "Grupo alinhado."
+      }
+    ]
+  },
+  {
+    "id": "csikszentmihalyi",
+    "slug": "flow-a-psicologia-da-experiencia-otima",
+    "title": "Flow",
+    "titlePt": "Flow: A Psicologia da Experiência Ótima",
+    "author": "Mihaly Csikszentmihalyi",
+    "year": "1990",
+    "editionYear": "2008",
+    "publisher": "Harper Perennial / Rocco",
+    "pages": "336",
+    "genre": "Psicologia / Foco",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/csikszentmihalyi-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Foco gera felicidade",
+        "text": "Flow é imersão que satisfaz.",
+        "reflection": "Você já perdeu o tempo no que faz?"
+      },
+      {
+        "type": "myth",
+        "title": "Prazer é felicidade",
+        "text": "Dopamina rápida não sustenta.",
+        "reflection": "Você confunde divertir e realizar?"
+      },
+      {
+        "type": "truth",
+        "title": "Desafio equilibrado",
+        "text": "Skill e dificuldade iguais geram flow.",
+        "reflection": "Sua tarefa é fácil ou caótica?"
+      },
+      {
+        "type": "myth",
+        "title": "Relaxar basta",
+        "text": "Atividade com propósito preenche.",
+        "reflection": "Ocio vazio cansa?"
+      },
+      {
+        "type": "truth",
+        "title": "Metas claras ajudam",
+        "text": "Feedback imediato mantém foco.",
+        "reflection": "Você sabe se avança?"
+      },
+      {
+        "type": "myth",
+        "title": "Multitarefa dá flow",
+        "text": "Atenção dividida quebra imersão.",
+        "reflection": "Você fragmenta o foco?"
+      }
+    ],
+    "summary": "Csikszentmihalyi descreve o estado de flow, em que desafio e habilidade se equilibram, gerando satisfação profunda e produtividade em qualquer atividade.",
+    "color": "#16a085",
+    "file": "livro.html#flow-a-psicologia-da-experiencia-otima",
+    "citacoes": [
+      {
+        "texto": "O controle da consciência determina a qualidade da vida.",
+        "autor": "Mihaly Csikszentmihalyi",
+        "obra": "Flow"
+      },
+      {
+        "texto": "A felicidade flui da atividade plena.",
+        "autor": "Mihaly Csikszentmihalyi",
+        "obra": "Flow"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Fundamento da psicologia positiva.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Equilibre desafio",
+        "text": "Ajuste dificuldade à skill.",
+        "explicacoes": [
+          "Tédio ou ansiedade saem.",
+          "Flow aparece.",
+          "Calibre seguido."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Defina metas claras",
+        "text": "Saber o alvo e o progresso.",
+        "explicacoes": [
+          "Feedback guia.",
+          "Imersão cresce.",
+          "Direção mantém."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Treine atenção",
+        "text": "Uma coisa por vez.",
+        "explicacoes": [
+          "Foco sustenta flow.",
+          "Ruído quebra.",
+          "Prática amplia."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Flow",
+        "texto": "Equilíbrio gera."
+      },
+      {
+        "titulo": "Foco único",
+        "texto": "Atenção plena."
+      },
+      {
+        "titulo": "Feedback",
+        "texto": "Sabe avançar."
+      }
+    ]
+  },
+  {
+    "id": "robbins",
+    "slug": "desperte-o-gigante-interior",
+    "title": "Awaken the Giant Within",
+    "titlePt": "Desperte o Gigante Interior",
+    "author": "Tony Robbins",
+    "year": "1991",
+    "editionYear": "1992",
+    "publisher": "Simon & Schuster / Objetiva",
+    "pages": "544",
+    "genre": "Autoajuda / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 5 milhões",
+    "cover": "img/robbins-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Decisão muda tudo",
+        "text": "Compromisso real altera trajetória.",
+        "reflection": "Você decide ou hesita?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudança leva anos",
+        "text": "Virada instantânea é possível.",
+        "reflection": "Você espera devagar?"
+      },
+      {
+        "type": "truth",
+        "title": "Estado controla",
+        "text": "Fisiologia e foco ditam ação.",
+        "reflection": "Seu estado favorece?"
+      },
+      {
+        "type": "myth",
+        "title": "Ambiente culpa",
+        "text": "Significado que damos rege.",
+        "reflection": "Você reage ou interpreta?"
+      },
+      {
+        "type": "truth",
+        "title": "Vocabulário molda",
+        "text": "Como nomeamos sentimentos os cria.",
+        "reflection": "Suas palavras ajudam?"
+      },
+      {
+        "type": "myth",
+        "title": "Força de vontade basta",
+        "text": "Sistema e ambiente sustentam.",
+        "reflection": "Você só tenta?"
+      }
+    ],
+    "summary": "Tony Robbins entrega ferramentas de mudança imediata: controlar estado, crenças e estratégias para assumir o comando da própria vida.",
+    "color": "#d35400",
+    "file": "livro.html#desperte-o-gigante-interior",
+    "citacoes": [
+      {
+        "texto": "Você deve tomar decisões como se sua vida dependesse disso.",
+        "autor": "Tony Robbins",
+        "obra": "Awaken the Giant Within"
+      },
+      {
+        "texto": "O destino é controlado pela decisão, não pelo acaso.",
+        "autor": "Tony Robbins",
+        "obra": "Awaken the Giant Within"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Coach de impacto global há décadas.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Tome decisão",
+        "text": "Compromisso irreversível.",
+        "explicacoes": [
+          "Hesitação paralisa.",
+          "Decisão move.",
+          "Rumo trava."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Mude seu estado",
+        "text": "Fisiologia e foco intencionais.",
+        "explicacoes": [
+          "Corpo guia emoção.",
+          "Respiro altera.",
+          "Ação segue."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Reframe crenças",
+        "text": "Substitua limitante por útil.",
+        "explicacoes": [
+          "Crença dirige.",
+          "Nova história.",
+          "Comportamento muda."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Decisão",
+        "texto": "Vira o jogo."
+      },
+      {
+        "titulo": "Estado",
+        "texto": "Corpo guia."
+      },
+      {
+        "titulo": "Crença",
+        "texto": "Nova história."
+      }
+    ]
+  },
+  {
+    "id": "kondo",
+    "slug": "a-magica-da-arrumacao",
+    "title": "The Life-Changing Magic of Tidying Up",
+    "titlePt": "A Mágica da Arrumação",
+    "author": "Marie Kondo",
+    "year": "2011",
+    "editionYear": "2014",
+    "publisher": "Ten Speed Press / Sextante",
+    "pages": "224",
+    "genre": "Hábitos / Simplicidade",
+    "language": "Japonês/Inglês",
+    "copiesSold": "Mais de 10 milhões",
+    "cover": "img/kondo-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Guarde o que alegra",
+        "text": "Critério de alegria descarta excesso.",
+        "reflection": "Seus objetos alegram?"
+      },
+      {
+        "type": "myth",
+        "title": "Organizar por categoria de lugar",
+        "text": "Por categoria (roupa, livro) funciona.",
+        "reflection": "Você organiza por cômodo?"
+      },
+      {
+        "type": "truth",
+        "title": "Menos é mais foco",
+        "text": "Ambiente enxuto clareia mente.",
+        "reflection": "Sua casa pesa?"
+      },
+      {
+        "type": "myth",
+        "title": "Guardar para o futuro",
+        "text": "Pode ser nunca usado.",
+        "reflection": "Você acumula 'talvez'?"
+      },
+      {
+        "type": "truth",
+        "title": "Ritual importa",
+        "text": "Respeitar objetos muda relação.",
+        "reflection": "Você agradece o que tem?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais posse = segurança",
+        "text": "Excesso gera ansiedade.",
+        "reflection": "Seu acúmulo protege ou sufoca?"
+      }
+    ],
+    "summary": "Marie Kondo apresenta o método KonMari: descartar por categoria, guardar só o que gera alegria, e transformar casa e mente através da arrumação.",
+    "color": "#27ae60",
+    "file": "livro.html#a-magica-da-arrumacao",
+    "citacoes": [
+      {
+        "texto": "Guardar só o que desperta alegria.",
+        "autor": "Marie Kondo",
+        "obra": "The Life-Changing Magic of Tidying Up"
+      },
+      {
+        "texto": "A ordem muda a vida.",
+        "autor": "Marie Kondo",
+        "obra": "The Life-Changing Magic of Tidying Up"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Fenômeno global de organização.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Por categoria",
+        "text": "Roupa, livro, papel, komono, sentimental.",
+        "explicacoes": [
+          "Lugar engana.",
+          "Volume aparece.",
+          "Fim completo."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Critério alegria",
+        "text": "Só o que acende fica.",
+        "explicacoes": [
+          "Decisão rápida.",
+          "Excesso sai.",
+          "Vínculo limpo."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Armazene certo",
+        "text": "De pé, visível, por tipo.",
+        "explicacoes": [
+          "Acesso fácil.",
+          "Ordem dura.",
+          "Casa respira."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Alegria",
+        "texto": "Filtro único."
+      },
+      {
+        "titulo": "Categoria",
+        "texto": "Não por cômodo."
+      },
+      {
+        "titulo": "Menos",
+        "texto": "Mente clara."
+      }
+    ]
   }
 ];
