@@ -31809,12 +31809,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Análise basta para mudar",
-        "text": "Heath mostra que o lado racional sozinho não move ninguém; a emoção conta.",
-        "reflection": "Você acha que \"entender\" já muda comportamento?"
-      },
-      {
         "type": "truth",
         "title": "Rider e Elephant coexistem",
         "text": "Razão e emoção disputam; mudança exige lidar com ambos.",
@@ -31822,9 +31816,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Falta de informação paralisa",
-        "text": "Ter mais dados raramente resolve; o problema é direção e energia.",
-        "reflection": "Você acumula dados e não age?"
+        "title": "Análise basta para mudar",
+        "text": "Heath mostra que o lado racional sozinho não move ninguém; a emoção conta.",
+        "reflection": "Você acha que \"entender\" já muda comportamento?"
       },
       {
         "type": "truth",
@@ -31834,9 +31828,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudança exige grande choque",
-        "text": "Pequenas mudanças de ambiente e pontos brilhantes funcionam.",
-        "reflection": "Você espera a crise para mudar?"
+        "title": "Falta de informação paralisa",
+        "text": "Ter mais dados raramente resolve; o problema é direção e energia.",
+        "reflection": "Você acumula dados e não age?"
       },
       {
         "type": "truth",
@@ -31846,9 +31840,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Opções amplas são melhores",
-        "text": "Muitas opções paralisam; \"achatar\" ajuda a decidir.",
-        "reflection": "Você se perde em demasia de escolhas?"
+        "title": "Mudança exige grande choque",
+        "text": "Pequenas mudanças de ambiente e pontos brilhantes funcionam.",
+        "reflection": "Você espera a crise para mudar?"
       },
       {
         "type": "truth",
@@ -31858,9 +31852,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Hábito é só repetição",
-        "text": "Hábito exige ambiente que sustente a ação automática.",
-        "reflection": "Você repete sem sustentar o contexto?"
+        "title": "Opções amplas são melhores",
+        "text": "Muitas opções paralisam; \"achatar\" ajuda a decidir.",
+        "reflection": "Você se perde em demasia de escolhas?"
       },
       {
         "type": "truth",
@@ -31870,9 +31864,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudança é individual",
-        "text": "Cultura e ambiente coletivo pesam tanto quanto a vontade.",
-        "reflection": "Você culpa o indivíduo e ignora o sistema?"
+        "title": "Hábito é só repetição",
+        "text": "Hábito exige ambiente que sustente a ação automática.",
+        "reflection": "Você repete sem sustentar o contexto?"
       },
       {
         "type": "truth",
@@ -31882,15 +31876,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Esperar motivação",
-        "text": "Ação gera motivação; não espere o elefante se animar primeiro.",
-        "reflection": "Você espera querer para começar?"
+        "title": "Mudança é individual",
+        "text": "Cultura e ambiente coletivo pesam tanto quanto a vontade.",
+        "reflection": "Você culpa o indivíduo e ignora o sistema?"
       },
       {
         "type": "truth",
         "title": "Pequenas vitórias somam",
         "text": "Sucessos pequenos alimentam o elefante e mantêm a rota.",
         "reflection": "Você despreza vitórias que não são grandiosas?"
+      },
+      {
+        "type": "myth",
+        "title": "Esperar motivação",
+        "text": "Ação gera motivação; não espere o elefante se animar primeiro.",
+        "reflection": "Você espera querer para começar?"
+      },
+      {
+        "type": "truth",
+        "title": "Decisões melhores ampliam opções e dissipam viés",
+        "text": "Heath propõe WRAP — ampliar, realidade, distância, preparar — para fugir da autoconfirmação.",
+        "reflection": "Você decide com o primeiro instinto ou com um processo?"
       }
     ],
     "summary": "Chip e Dan Heath, em \"Decisivo\" (Switch), pegam emprestada a metáfora do elefante e do condutor para explicar por que mudar é tão difícil — e como conseguir. Inspirados na pesquisa de psicologia do comportamento, os autores estruturam a mudança em três frentes: Dirija o Rider (o lado racional, que precisa de direção clara), Motive o Elephant (o emocional, que fornece energia) e Molde o Path (o ambiente, que facilita ou bloqueia). A tese: a paralisia vem do conflito entre razão e emoção, e a solução é agir nas três ao mesmo tempo. O gancho prático inclui \"achatar e ampliar\" as escolhas, buscar \"pontos brilhantes\" e \"construir hábitos\". O livro é um manual de mudança organizacional e pessoal ancorado em casos reais, útil tanto para líderes quanto para quem quer transformar um hábito próprio de uma vez por todas. O livro mostra que mudança real exige agir nas três frentes ao mesmo tempo, e não confiar apenas em mais informação ou em mais força de vontade.",
@@ -31911,33 +31917,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Procure os pontos brilhantes — o que já funciona em algum lugar.",
         "autor": "Chip & Dan Heath",
         "obra": "Decisivo"
-      },
-      {
-        "texto": "Muitas opções paralisam; achete a escolha.",
-        "autor": "Chip & Dan Heath",
-        "obra": "Decisivo"
-      },
-      {
-        "texto": "A mudança é difícil porque o elefante e o rider divergem.",
-        "autor": "Chip & Dan Heath",
-        "obra": "Decisivo"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O framework Rider/Elephant/Path é o mais útil que já vi para gestão de mudança.",
-        "autor": "Consultor",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Usei os pontos brilhantes na minha equipe e resolvemos em semanas.",
-        "autor": "Líder",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Leitura obrigatória para quem lida com resistência organizacional.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -31953,9 +31944,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dirija o Rider",
         "text": "Dê direção clara e específica; evite metas vagas que paralisam.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Dirija o Rider\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Dê direção clara e específica; evite metas vagas que paralisam — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dirija o Rider\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Dirija o Rider\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dê direção clara e específica; evite metas vagas que paralisam — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Dirija o Rider\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31963,9 +31954,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Motive o Elephant",
         "text": "Encontre o que emociona; a energia vem do sentir, não só do saber.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Motive o Elephant\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Encontre o que emociona; a energia vem do sentir, não só do saber — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Motive o Elephant\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Motive o Elephant\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Encontre o que emociona; a energia vem do sentir, não só do saber — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Motive o Elephant\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31973,9 +31964,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Molde o Path",
         "text": "Mude o ambiente para que o certo seja o caminho fácil.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Molde o Path\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Mude o ambiente para que o certo seja o caminho fácil — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Molde o Path\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Molde o Path\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mude o ambiente para que o certo seja o caminho fácil — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Molde o Path\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31983,9 +31974,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Achate as escolhas",
         "text": "Reduza opções para decidir melhor; menos é mais aqui.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Achate as escolhas\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Reduza opções para decidir melhor; menos é mais aqui — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Achate as escolhas\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Achate as escolhas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduza opções para decidir melhor; menos é mais aqui — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Achate as escolhas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31993,9 +31984,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque pontos brilhantes",
         "text": "Copie o que já funciona em algum contexto similar.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Busque pontos brilhantes\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Copie o que já funciona em algum contexto similar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque pontos brilhantes\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Busque pontos brilhantes\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Copie o que já funciona em algum contexto similar — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Busque pontos brilhantes\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32003,9 +31994,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa hábitos",
         "text": "Automatize a mudança para que ela não dependa de esforço.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Construa hábitos\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Automatize a mudança para que ela não dependa de esforço — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa hábitos\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Construa hábitos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Automatize a mudança para que ela não dependa de esforço — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Construa hábitos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32013,9 +32004,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a identidade",
         "text": "Ancore a mudança em \"eu sou\" para sustentar o elefante.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Use a identidade\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Ancore a mudança em \"eu sou\" para sustentar o elefante — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a identidade\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Use a identidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ancore a mudança em \"eu sou\" para sustentar o elefante — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Use a identidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32023,9 +32014,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Celebre pequenas vitórias",
         "text": "Sucessos pequenos mantêm a energia do elefante.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Celebre pequenas vitórias\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Sucessos pequenos mantêm a energia do elefante — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Celebre pequenas vitórias\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Celebre pequenas vitórias\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sucessos pequenos mantêm a energia do elefante — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Celebre pequenas vitórias\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32033,9 +32024,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tire atrito do caminho",
         "text": "Remova barreiras que tornam o novo comportamento difícil.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Tire atrito do caminho\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Remova barreiras que tornam o novo comportamento difícil — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Tire atrito do caminho\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Tire atrito do caminho\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Remova barreiras que tornam o novo comportamento difícil — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Tire atrito do caminho\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32043,9 +32034,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Envolva a cultura",
         "text": "Mudança coletiva precisa de norma e apoio do grupo.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Envolva a cultura\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Mudança coletiva precisa de norma e apoio do grupo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Envolva a cultura\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Envolva a cultura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mudança coletiva precisa de norma e apoio do grupo — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Envolva a cultura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32053,9 +32044,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece agindo",
         "text": "Ação gera motivação; não espere o animo perfeito.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Comece agindo\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Ação gera motivação; não espere o animo perfeito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece agindo\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Comece agindo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ação gera motivação; não espere o animo perfeito — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Comece agindo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32063,9 +32054,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça o path",
         "text": "Acompanhe se o ambiente está facilitando ou bloqueando.",
         "explicacoes": [
-          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Meça o path\" como peça-chave em torno de fazer ideias pegar e mudanças durareiras.",
-          "Na prática: Acompanhe se o ambiente está facilitando ou bloqueando — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça o path\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath coloca \"Meça o path\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acompanhe se o ambiente está facilitando ou bloqueando — traduzido para a prática, é o passo concreto que liga a teoria de Chip & Dan Heath ao comportamento diário.",
+          "Ignorar \"Meça o path\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -32319,12 +32310,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Dinheiro motiva sempre",
-        "text": "Pink mostra que para tarefas cognitivas, bônus pode reduzir o desempenho.",
-        "reflection": "Você acha que só dinheiro move as pessoas?"
-      },
-      {
         "type": "truth",
         "title": "Autonomia engaja",
         "text": "Controle sobre o trabalho é um dos três motores reais da motivação.",
@@ -32332,9 +32317,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Carrots and sticks funcionam",
-        "text": "Recompensa e punição matam a motivação intrínseca em tarefas criativas.",
-        "reflection": "Você tenta \"comprar\" esforço que exige mente?"
+        "title": "Dinheiro motiva sempre",
+        "text": "Pink mostra que para tarefas cognitivas, bônus pode reduzir o desempenho.",
+        "reflection": "Você acha que só dinheiro move as pessoas?"
       },
       {
         "type": "truth",
@@ -32344,9 +32329,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tarefa simples = tarefa complexa",
-        "text": "O que vale para tarefa mecânica falha para cognitiva; são diferentes.",
-        "reflection": "Você aplica a mesma gestão a tudo?"
+        "title": "Carrots and sticks funcionam",
+        "text": "Recompensa e punição matam a motivação intrínseca em tarefas criativas.",
+        "reflection": "Você tenta \"comprar\" esforço que exige mente?"
       },
       {
         "type": "truth",
@@ -32356,9 +32341,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Motivação é externa",
-        "text": "A intrínseca (autonomia, maestria, propósito) supera a extrínseca.",
-        "reflection": "Você ignora o que move por dentro?"
+        "title": "Tarefa simples = tarefa complexa",
+        "text": "O que vale para tarefa mecânica falha para cognitiva; são diferentes.",
+        "reflection": "Você aplica a mesma gestão a tudo?"
       },
       {
         "type": "truth",
@@ -32368,9 +32353,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Punição corrige",
-        "text": "Castigo externaliza a motivação e corrói o interesse real.",
-        "reflection": "Você puniu e perdeu o interesse da pessoa?"
+        "title": "Motivação é externa",
+        "text": "A intrínseca (autonomia, maestria, propósito) supera a extrínseca.",
+        "reflection": "Você ignora o que move por dentro?"
       },
       {
         "type": "truth",
@@ -32380,9 +32365,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Metas rígidas ajudam",
-        "text": "Metas absurdas induzem comportamento antiético e atalhos.",
-        "reflection": "Suas metas forçam atalhos ruins?"
+        "title": "Punição corrige",
+        "text": "Castigo externaliza a motivação e corrói o interesse real.",
+        "reflection": "Você puniu e perdeu o interesse da pessoa?"
       },
       {
         "type": "truth",
@@ -32392,15 +32377,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Motivação se impõe",
-        "text": "Não se impõe; cria-se ambiente onde a pessoa se autoimpulsiona.",
-        "reflection": "Você tenta empurrar em vez de habilitar?"
+        "title": "Metas rígidas ajudam",
+        "text": "Metas absurdas induzem comportamento antiético e atalhos.",
+        "reflection": "Suas metas forçam atalhos ruins?"
       },
       {
         "type": "truth",
         "title": "Sentido retém talento",
         "text": "Propósito retém pessoas melhores que bônus pontuais.",
         "reflection": "Seu time fica pelo salário ou pelo sentido?"
+      },
+      {
+        "type": "myth",
+        "title": "Motivação se impõe",
+        "text": "Não se impõe; cria-se ambiente onde a pessoa se autoimpulsiona.",
+        "reflection": "Você tenta empurrar em vez de habilitar?"
+      },
+      {
+        "type": "truth",
+        "title": "Autonomia, maestria e propósito movem mais que dinheiro",
+        "text": "Pink mostra que a motivação intrínseca supera a recompensa extrínseca em tarefas cognitivas.",
+        "reflection": "Quanto do seu esforço vem de pagamento e quanto de significado?"
       }
     ],
     "summary": "Daniel Pink, em \"Drive\", revisa o que realmente nos motiva e destrói o senso comum de que recompensas e punições (\"carrots and sticks\") funcionam para trabalho complexo. Com base na ciência da motivação, ele propõe que o motor humano moderno é o \"Motivo 3.0\": Autonomia (controle sobre o que, como, quando e com quem), Maestria (o impulso de melhorar) e Propósito (servir a algo maior). A tese central: para tarefas que exigem pensamento, incentivos financeiros podem até piorar o desempenho; o que engaja é a liberdade, o crescimento e o sentido. O gancho é revolucionário para empresas e pais: pare de manipular e passe a criar condições para as pessoas se autoimpulsionarem. Pink mostra, com estudos, como líderes, professores e pais podem substituir controle por autonomia e assim reter talento e despertar o melhor esforço de cada um. A implicação é profunda: para trabalho que exige criatividade, líderes e pais devem trocar controle por condições de autonomia, maestria e propósito.",
@@ -32421,33 +32418,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Para tarefas que exigem pensamento, recompensas podem piorar o desempenho.",
         "autor": "Daniel H. Pink",
         "obra": "Drive"
-      },
-      {
-        "texto": "As cenouras e os paus estão obsoletas para o trabalho moderno.",
-        "autor": "Daniel H. Pink",
-        "obra": "Drive"
-      },
-      {
-        "texto": "As pessoas querem dirigir a própria vida e melhorar em algo que importa.",
-        "autor": "Daniel H. Pink",
-        "obra": "Drive"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Mudou como conduzo minha equipe: menos bônus, mais autonomia.",
-        "autor": "Gerente",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "A ciência da motivação explicada sem enrolação.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "O capítulo sobre metas tóxicas deveria ser leitura de todo diretor.",
-        "autor": "Leitor",
-        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -32463,9 +32445,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ofereça autonomia",
         "text": "Deixe pessoas decidirem o quê, como, quando e com quem trabalhar.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Ofereça autonomia\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Deixe pessoas decidirem o quê, como, quando e com quem trabalhar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ofereça autonomia\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Ofereça autonomia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Deixe pessoas decidirem o quê, como, quando e com quem trabalhar — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Ofereça autonomia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32473,9 +32455,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive maestria",
         "text": "Crie espaço e feedback para as pessoas melhorarem continuamente.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Cultive maestria\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Crie espaço e feedback para as pessoas melhorarem continuamente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive maestria\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Cultive maestria\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Crie espaço e feedback para as pessoas melhorarem continuamente — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Cultive maestria\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32483,9 +32465,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conecte ao propósito",
         "text": "Mostre como o trabalho serve a algo maior que o lucro.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Conecte ao propósito\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Mostre como o trabalho serve a algo maior que o lucro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conecte ao propósito\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Conecte ao propósito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mostre como o trabalho serve a algo maior que o lucro — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Conecte ao propósito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32493,9 +32475,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza carrots/sticks",
         "text": "Substitua controle por condições de motivação intrínseca.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Reduza carrots/sticks\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Substitua controle por condições de motivação intrínseca — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza carrots/sticks\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Reduza carrots/sticks\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Substitua controle por condições de motivação intrínseca — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Reduza carrots/sticks\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32503,9 +32485,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite metas tóxicas",
         "text": "Metas absurdas geram atalhos; use objetivos desafiadores e justos.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Evite metas tóxicas\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Metas absurdas geram atalhos; use objetivos desafiadores e justos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite metas tóxicas\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Evite metas tóxicas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Metas absurdas geram atalhos; use objetivos desafiadores e justos — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Evite metas tóxicas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32513,9 +32495,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dê feedback rápido",
         "text": "Maestria depende de saber logo se está melhorando.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Dê feedback rápido\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Maestria depende de saber logo se está melhorando — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dê feedback rápido\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Dê feedback rápido\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Maestria depende de saber logo se está melhorando — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Dê feedback rápido\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32523,9 +32505,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina Type I",
         "text": "Atraia e desenvolva quem busca sentido, não só recompensa.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Defina Type I\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Atraia e desenvolva quem busca sentido, não só recompensa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina Type I\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Defina Type I\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Atraia e desenvolva quem busca sentido, não só recompensa — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Defina Type I\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32533,9 +32515,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Liberte o tempo",
         "text": "Bloquear tempo para trabalho autodirigido gera inovação.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Liberte o tempo\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Bloquear tempo para trabalho autodirigido gera inovação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Liberte o tempo\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Liberte o tempo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Bloquear tempo para trabalho autodirigido gera inovação — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Liberte o tempo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32543,9 +32525,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use \"20% time\"",
         "text": "Tempo livre para projetos próprios aumenta engajamento.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Use \"20% time\"\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Tempo livre para projetos próprios aumenta engajamento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use \"20% time\"\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Use \"20% time\"\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tempo livre para projetos próprios aumenta engajamento — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Use \"20% time\"\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32553,9 +32535,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça o certo",
         "text": "Avalie autonomia e crescimento, não só número de saída.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Meça o certo\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Avalie autonomia e crescimento, não só número de saída — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça o certo\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Meça o certo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Avalie autonomia e crescimento, não só número de saída — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Meça o certo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32563,9 +32545,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Explique o porquê",
         "text": "Pais e chefes devem dar razão, não só ordem.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Explique o porquê\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Pais e chefes devem dar razão, não só ordem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Explique o porquê\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Explique o porquê\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pais e chefes devem dar razão, não só ordem — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Explique o porquê\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32573,9 +32555,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Confie nas pessoas",
         "text": "Motivação intrínseca floresce onde há confiança, não vigilância.",
         "explicacoes": [
-          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Confie nas pessoas\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
-          "Na prática: Motivação intrínseca floresce onde há confiança, não vigilância — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Confie nas pessoas\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink coloca \"Confie nas pessoas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Motivação intrínseca floresce onde há confiança, não vigilância — traduzido para a prática, é o passo concreto que liga a teoria de Daniel H. Pink ao comportamento diário.",
+          "Ignorar \"Confie nas pessoas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -32829,12 +32811,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Generosos ficam no fundo",
-        "text": "Grant prova que doadores lideram tanto o topo quanto a base.",
-        "reflection": "Você assume que ajudar atrapalha o sucesso?"
-      },
-      {
         "type": "truth",
         "title": "Estilo de reciprocidade importa",
         "text": "Doador, tomador ou trocador prediz extremos de sucesso.",
@@ -32842,9 +32818,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sucesso é só competência",
-        "text": "O padrão de dar/receber explica mais os extremos que a habilidade.",
-        "reflection": "Você ignorou redes e reputação no sucesso?"
+        "title": "Generosos ficam no fundo",
+        "text": "Grant prova que doadores lideram tanto o topo quanto a base.",
+        "reflection": "Você assume que ajudar atrapalha o sucesso?"
       },
       {
         "type": "truth",
@@ -32854,9 +32830,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Toda generosidade é boa",
-        "text": "Doadores que se deixam sugar fracassam; limites importam.",
-        "reflection": "Você confunde dar com se anular?"
+        "title": "Sucesso é só competência",
+        "text": "O padrão de dar/receber explica mais os extremos que a habilidade.",
+        "reflection": "Você ignorou redes e reputação no sucesso?"
       },
       {
         "type": "truth",
@@ -32866,9 +32842,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Trocadores são neutros",
-        "text": "Trocadores equilibram, mas raramente atingem os extremos do doador.",
-        "reflection": "Você só \"se der, leva\" e perde oportunidades?"
+        "title": "Toda generosidade é boa",
+        "text": "Doadores que se deixam sugar fracassam; limites importam.",
+        "reflection": "Você confunde dar com se anular?"
       },
       {
         "type": "truth",
@@ -32878,9 +32854,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tomadores ganham no curto prazo",
-        "text": "No longo prazo, tomadores perdem confiança e redes.",
-        "reflection": "Você notou tomadores isolados com o tempo?"
+        "title": "Trocadores são neutros",
+        "text": "Trocadores equilibram, mas raramente atingem os extremos do doador.",
+        "reflection": "Você só \"se der, leva\" e perde oportunidades?"
       },
       {
         "type": "truth",
@@ -32890,9 +32866,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Networking é manipular",
-        "text": "Relações genuínas de dar superam táticas de explorar contatos.",
-        "reflection": "Você trata rede como transação?"
+        "title": "Tomadores ganham no curto prazo",
+        "text": "No longo prazo, tomadores perdem confiança e redes.",
+        "reflection": "Você notou tomadores isolados com o tempo?"
       },
       {
         "type": "truth",
@@ -32902,15 +32878,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Caridade no trabalho é fraqueza",
-        "text": "Mentoria e ajuda constroem autoridade e influência.",
-        "reflection": "Você evita ajudar para \"não parecer fraco\"?"
+        "title": "Networking é manipular",
+        "text": "Relações genuínas de dar superam táticas de explorar contatos.",
+        "reflection": "Você trata rede como transação?"
       },
       {
         "type": "truth",
         "title": "Limites sustentam",
         "text": "Dizer não a pedidos errados protege a capacidade de dar certo.",
         "reflection": "Você protege seu tempo para dar bem?"
+      },
+      {
+        "type": "myth",
+        "title": "Caridade no trabalho é fraqueza",
+        "text": "Mentoria e ajuda constroem autoridade e influência.",
+        "reflection": "Você evita ajudar para \"não parecer fraco\"?"
+      },
+      {
+        "type": "truth",
+        "title": "Dar sem medo de receber gera redes de sucesso",
+        "text": "Grant distingue doadores, parecistas e recebedores e prova que doadores estratégicos vencem no longo prazo.",
+        "reflection": "Sua rede é feita de troca ou só de pedidos?"
       }
     ],
     "summary": "Adam Grant, em \"Dar e Receber\" (Give and Take), propõe uma ideia provocadora: nas relações de trabalho, as pessoas se dividem em doadores, tomadores e trocadores — e os doadores não estão condenados ao fundo do poço. Na verdade, eles aparecem tanto no último quanto no primeiro lugar. A tese central é que o estilo de reciprocidade importa mais que a competência para explicar o sucesso extremo. Doadores bem-sucedidos ajudam sem esperar retorno imediato, mas protegem seu tempo e energia; doadores fracassados se deixam explorar. Grant mostra como a generosidade estratégica, combinada a limites, cria redes poderosas e reputação duradoura. O gancho: dar pode ser a estratégia mais egoísta e eficaz que existe — desde que feito com inteligência. O livro usa dados de carreiras reais para mostrar que ajudar, com critério, supera tanto o egoísmo quanto a autossacrifício. O livro usa dados reais de carreiras para mostrar que ajudar, com critério e limites, supera tanto o egoísmo quanto o autossacrifício crônico.",
@@ -32931,16 +32919,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O sucesso extremo se explica mais pelo estilo de reciprocidade que pela competência.",
         "autor": "Adam Grant",
         "obra": "Dar e Receber"
-      },
-      {
-        "texto": "Doadores bem-sucedidos ajudam sem esperar, mas protegem seu tempo.",
-        "autor": "Adam Grant",
-        "obra": "Dar e Receber"
-      },
-      {
-        "texto": "Quem pede ajuda constrói laços mais fortes do que quem só oferece.",
-        "autor": "Adam Grant",
-        "obra": "Dar e Receber"
       }
     ],
     "citacoesTerceiros": [
@@ -32951,13 +32929,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "A distinção doador fracassado vs. bem-sucedido é ouro.",
-        "autor": "Empreendedor",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Grant usa dados reais; não é autoajuda de palestra.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -32973,9 +32946,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Identifique seu estilo",
         "text": "Saiba se você é doador, tomador ou trocador nas relações.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Identifique seu estilo\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Saiba se você é doador, tomador ou trocador nas relações — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Identifique seu estilo\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Identifique seu estilo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saiba se você é doador, tomador ou trocador nas relações — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Identifique seu estilo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32983,9 +32956,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dê com estratégia",
         "text": "Ajude de forma que multiplique impacto, não apenas esgote você.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Dê com estratégia\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Ajude de forma que multiplique impacto, não apenas esgote você — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dê com estratégia\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Dê com estratégia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ajude de forma que multiplique impacto, não apenas esgote você — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Dê com estratégia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -32993,9 +32966,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja seu tempo",
         "text": "Doadores precisam de limites para não virar \"train wreck\".",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Proteja seu tempo\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Doadores precisam de limites para não virar \"train wreck\" — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja seu tempo\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Proteja seu tempo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Doadores precisam de limites para não virar \"train wreck\" — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Proteja seu tempo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33003,9 +32976,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa reputação",
         "text": "Ser visto como doador atrai oportunidades e parceiros.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Construa reputação\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Ser visto como doador atrai oportunidades e parceiros — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa reputação\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Construa reputação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ser visto como doador atrai oportunidades e parceiros — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Construa reputação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33013,9 +32986,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aprenda a pedir",
         "text": "Pedir ajuda fortalece laços e acelera seu aprendizado.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Aprenda a pedir\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Pedir ajuda fortalece laços e acelera seu aprendizado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aprenda a pedir\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Aprenda a pedir\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pedir ajuda fortalece laços e acelera seu aprendizado — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Aprenda a pedir\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33023,9 +32996,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mentore",
         "text": "Ensinar consolida autoridade e expande sua rede real.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Mentore\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Ensinar consolida autoridade e expande sua rede real — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mentore\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Mentore\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ensinar consolida autoridade e expande sua rede real — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Mentore\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33033,9 +33006,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite tomadores",
         "text": "Identifique e limite quem só extrai sem retribuir.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Evite tomadores\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Identifique e limite quem só extrai sem retribuir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite tomadores\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Evite tomadores\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identifique e limite quem só extrai sem retribuir — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Evite tomadores\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33043,9 +33016,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie cultura de dar",
         "text": "Times que doam cooperam mais e performam melhor.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Crie cultura de dar\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Times que doam cooperam mais e performam melhor — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie cultura de dar\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Crie cultura de dar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Times que doam cooperam mais e performam melhor — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Crie cultura de dar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33053,9 +33026,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pense no longo prazo",
         "text": "Generosidade rende dividendos anos depois, não amanhã.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Pense no longo prazo\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Generosidade rende dividendos anos depois, não amanhã — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pense no longo prazo\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Pense no longo prazo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Generosidade rende dividendos anos depois, não amanhã — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Pense no longo prazo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33063,9 +33036,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Combine dar e dizer não",
         "text": "Generosidade sem fronteira destrói o doador.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Combine dar e dizer não\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Generosidade sem fronteira destrói o doador — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Combine dar e dizer não\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Combine dar e dizer não\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Generosidade sem fronteira destrói o doador — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Combine dar e dizer não\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33073,9 +33046,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize trocas justas",
         "text": "Trocadores têm lugar, mas o doador vence nos extremos.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Valorize trocas justas\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Trocadores têm lugar, mas o doador vence nos extremos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize trocas justas\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Valorize trocas justas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trocadores têm lugar, mas o doador vence nos extremos — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Valorize trocas justas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33083,9 +33056,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Veja dar como investimento",
         "text": "Ajuda bem-feita é das estratégias mais lucrativas que existem.",
         "explicacoes": [
-          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Veja dar como investimento\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
-          "Na prática: Ajuda bem-feita é das estratégias mais lucrativas que existem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Veja dar como investimento\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant coloca \"Veja dar como investimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ajuda bem-feita é das estratégias mais lucrativas que existem — traduzido para a prática, é o passo concreto que liga a teoria de Adam Grant ao comportamento diário.",
+          "Ignorar \"Veja dar como investimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -33339,12 +33312,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Lucro vem antes de cultura",
-        "text": "Hsieh mostra que cultura forte precede e sustenta o lucro.",
-        "reflection": "Você corta cultura para \"salvar\" resultado?"
-      },
-      {
         "type": "truth",
         "title": "Felicidade é modelo",
         "text": "Tratar bem pessoas é estratégia competitiva, não caridade.",
@@ -33352,9 +33319,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Clientes querem só preço",
-        "text": "A Zappos provou que experiência e WOW vencem o menor preço.",
-        "reflection": "Você compete só por preço?"
+        "title": "Lucro vem antes de cultura",
+        "text": "Hsieh mostra que cultura forte precede e sustenta o lucro.",
+        "reflection": "Você corta cultura para \"salvar\" resultado?"
       },
       {
         "type": "truth",
@@ -33364,9 +33331,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Cultura é parede",
-        "text": "Valores escritos sem prática são decorativos; Hsieh os vive.",
-        "reflection": "Seus valores estão na parede ou na rotina?"
+        "title": "Clientes querem só preço",
+        "text": "A Zappos provou que experiência e WOW vencem o menor preço.",
+        "reflection": "Você compete só por preço?"
       },
       {
         "type": "truth",
@@ -33376,9 +33343,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Vender a empresa é o fim",
-        "text": "Hsieh mostra que o propósito segue além do exit bilionário.",
-        "reflection": "Você parou de buscar sentido após o sucesso?"
+        "title": "Cultura é parede",
+        "text": "Valores escritos sem prática são decorativos; Hsieh os vive.",
+        "reflection": "Seus valores estão na parede ou na rotina?"
       },
       {
         "type": "truth",
@@ -33388,9 +33355,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Controle gera eficiência",
-        "text": "Liberdade e holacracia engajam mais que microgestão.",
-        "reflection": "Você controla demais e perde engajamento?"
+        "title": "Vender a empresa é o fim",
+        "text": "Hsieh mostra que o propósito segue além do exit bilionário.",
+        "reflection": "Você parou de buscar sentido após o sucesso?"
       },
       {
         "type": "truth",
@@ -33400,9 +33367,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Crescer é só escala",
-        "text": "Hsieh protege a cultura mesmo crescendo; escala sem alma falha.",
-        "reflection": "Seu crescimento corroeu a essência?"
+        "title": "Controle gera eficiência",
+        "text": "Liberdade e holacracia engajam mais que microgestão.",
+        "reflection": "Você controla demais e perde engajamento?"
       },
       {
         "type": "truth",
@@ -33412,15 +33379,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Felicidade é moleza",
-        "text": "Entregar felicidade exige disciplina e padrões altos de serviço.",
-        "reflection": "Você confunde felicidade com relaxo?"
+        "title": "Crescer é só escala",
+        "text": "Hsieh protege a cultura mesmo crescendo; escala sem alma falha.",
+        "reflection": "Seu crescimento corroeu a essência?"
       },
       {
         "type": "truth",
         "title": "WOW é sistemático",
         "text": "Surpreender o cliente é desenhado, não sorte.",
         "reflection": "Você deixa o WOW ao acaso?"
+      },
+      {
+        "type": "myth",
+        "title": "Felicidade é moleza",
+        "text": "Entregar felicidade exige disciplina e padrões altos de serviço.",
+        "reflection": "Você confunde felicidade com relaxo?"
+      },
+      {
+        "type": "truth",
+        "title": "Feliz é propósito alinhado a negócio e cultura",
+        "text": "Hsieh defende que lucro e paixão não se opõem quando a cultura é o próprio produto.",
+        "reflection": "Sua empresa vende algo ou vive um ideal?"
       }
     ],
     "summary": "Tony Hsieh, o lendário CEO da Zappos, conta em \"Entrega Feliz\" (Delivering Happiness) a trajetória do empreendedor que vendeu a LinkExchange ao Yahoo e construiu uma das culturas corporativas mais admiradas do mundo. A tese central é que a felicidade não é um brinde, é um modelo de negócios: tratar clientes e colaboradores com autenticidade, propósito e liberdade gera lucro sustentável. Hsieh defende que o serviço excepcional e a cultura forte são vantagens competitivas, e propõe dez valores essenciais (como \"entregue WOW\", \"crie diversão e um pouco de esquisitice\", \"construa uma cultura aberta e honesta\"). O gancho: quando você coloca a felicidade das pessoas acima das métricas de curto prazo, os resultados financeiros seguem. Mais que uma autobiografia, é um manifesto de que propósito e lucro podem andar juntos quando a cultura é levada a sério. Mais que uma autobiografia, é um manifesto de que propósito e lucro caminham juntos quando a cultura é levada a sério e não só declarada.",
@@ -33441,16 +33420,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Entregue WOW através do serviço.",
         "autor": "Tony Hsieh",
         "obra": "Entrega Feliz"
-      },
-      {
-        "texto": "Uma grande cultura é a vantagem competitiva definitiva.",
-        "autor": "Tony Hsieh",
-        "obra": "Entrega Feliz"
-      },
-      {
-        "texto": "Não busque lucro diretamente; busque propósito e ele segue.",
-        "autor": "Tony Hsieh",
-        "obra": "Entrega Feliz"
       }
     ],
     "citacoesTerceiros": [
@@ -33461,13 +33430,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "Mais história inspiradora que manual, mas vale cada página.",
-        "autor": "Empreendedor",
+        "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Usei os dez valores como base da minha startup.",
-        "autor": "Fundador",
-        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -33483,9 +33447,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina valores reais",
         "text": "Crie poucos valores e os viva na prática, não na parede.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Defina valores reais\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Crie poucos valores e os viva na prática, não na parede — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina valores reais\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Defina valores reais\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Crie poucos valores e os viva na prática, não na parede — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Defina valores reais\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33493,9 +33457,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entregue WOW",
         "text": "Surpreenda o cliente com algo além do combinado sempre que possível.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Entregue WOW\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Surpreenda o cliente com algo além do combinado sempre que possível — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entregue WOW\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Entregue WOW\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Surpreenda o cliente com algo além do combinado sempre que possível — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Entregue WOW\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33503,9 +33467,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Contrate por cultura",
         "text": "O encaixe cultural pesa mais que o currículo brilhante.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Contrate por cultura\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: O encaixe cultural pesa mais que o currículo brilhante — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Contrate por cultura\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Contrate por cultura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O encaixe cultural pesa mais que o currículo brilhante — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Contrate por cultura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33513,9 +33477,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja autêntico",
         "text": "Comunique-se com genuinidade; pessoas sentem a diferença.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Seja autêntico\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Comunique-se com genuinidade; pessoas sentem a diferença — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja autêntico\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Seja autêntico\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comunique-se com genuinidade; pessoas sentem a diferença — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Seja autêntico\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33523,9 +33487,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja a cultura",
         "text": "Cresça sem diluir os princípios que te definem.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Proteja a cultura\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Cresça sem diluir os princípios que te definem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja a cultura\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Proteja a cultura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cresça sem diluir os princípios que te definem — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Proteja a cultura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33533,9 +33497,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dê liberdade",
         "text": "Equipes autônomas entregam mais que microgerenciadas.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Dê liberdade\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Equipes autônomas entregam mais que microgerenciadas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dê liberdade\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Dê liberdade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Equipes autônomas entregam mais que microgerenciadas — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Dê liberdade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33543,9 +33507,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conecte ao propósito",
         "text": "Mostre sentido maior que o produto para engajar.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Conecte ao propósito\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Mostre sentido maior que o produto para engajar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conecte ao propósito\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Conecte ao propósito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mostre sentido maior que o produto para engajar — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Conecte ao propósito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33553,9 +33517,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Transparência",
         "text": "Abertura e honesta constroem confiança duradoura.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Transparência\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Abertura e honesta constroem confiança duradoura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Transparência\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Transparência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Abertura e honesta constroem confiança duradoura — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Transparência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33563,9 +33527,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça felicidade",
         "text": "Acompanhe satisfação de cliente e colaborador como KPI.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Meça felicidade\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Acompanhe satisfação de cliente e colaborador como KPI — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça felicidade\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Meça felicidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acompanhe satisfação de cliente e colaborador como KPI — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Meça felicidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33573,9 +33537,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pense longo prazo",
         "text": "Resultado de curto prazo não justifica quebrar a cultura.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Pense longo prazo\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Resultado de curto prazo não justifica quebrar a cultura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pense longo prazo\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Pense longo prazo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Resultado de curto prazo não justifica quebrar a cultura — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Pense longo prazo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33583,9 +33547,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie diversão",
         "text": "Ambiente leve e criativo sustenta energia e ideias.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Crie diversão\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Ambiente leve e criativo sustenta energia e ideias — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie diversão\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Crie diversão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ambiente leve e criativo sustenta energia e ideias — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Crie diversão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -33593,9 +33557,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sirva as pessoas",
         "text": "Colocar pessoas acima de métricas gera lucro sustentável.",
         "explicacoes": [
-          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Sirva as pessoas\" como peça-chave para a felicidade como modelo de negócio e cultura.",
-          "Na prática: Colocar pessoas acima de métricas gera lucro sustentável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sirva as pessoas\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh coloca \"Sirva as pessoas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Colocar pessoas acima de métricas gera lucro sustentável — traduzido para a prática, é o passo concreto que liga a teoria de Tony Hsieh ao comportamento diário.",
+          "Ignorar \"Sirva as pessoas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -33849,12 +33813,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "dinheiro",
     "myths": [
       {
-        "type": "myth",
-        "title": "Pobreza é má gestão",
-        "text": "Mullainathan mostra que a mente sob escassez decide pior por sobrecarga.",
-        "reflection": "Você julga pobres sem ver o túnel cognitivo?"
-      },
-      {
         "type": "truth",
         "title": "Escassez rouba banda",
         "text": "A falta reduz largura mental disponível para tudo mais.",
@@ -33862,9 +33820,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Ricos não têm escassez",
-        "text": "Eles sofrem escassez de tempo com os mesmos efeitos mentais.",
-        "reflection": "Você acha que só falta de dinheiro drena?"
+        "title": "Pobreza é má gestão",
+        "text": "Mullainathan mostra que a mente sob escassez decide pior por sobrecarga.",
+        "reflection": "Você julga pobres sem ver o túnel cognitivo?"
       },
       {
         "type": "truth",
@@ -33874,9 +33832,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Basta tentar mais",
-        "text": "Mais esforço sob escassez aprofunda o ciclo de erro.",
-        "reflection": "Você tenta forçar quando deveria folgar?"
+        "title": "Ricos não têm escassez",
+        "text": "Eles sofrem escassez de tempo com os mesmos efeitos mentais.",
+        "reflection": "Você acha que só falta de dinheiro drena?"
       },
       {
         "type": "truth",
@@ -33886,9 +33844,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Decisão ruim é caráter",
-        "text": "É efeito da largura mental tomada, não fraqueza moral.",
-        "reflection": "Você culpa caráter por erro de contexto?"
+        "title": "Basta tentar mais",
+        "text": "Mais esforço sob escassez aprofunda o ciclo de erro.",
+        "reflection": "Você tenta forçar quando deveria folgar?"
       },
       {
         "type": "truth",
@@ -33898,9 +33856,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Informação resolve",
-        "text": "Mais dados não compensam a banda mental tomada.",
-        "reflection": "Você empilha informação e decide pior?"
+        "title": "Decisão ruim é caráter",
+        "text": "É efeito da largura mental tomada, não fraqueza moral.",
+        "reflection": "Você culpa caráter por erro de contexto?"
       },
       {
         "type": "truth",
@@ -33910,9 +33868,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tempo e dinheiro iguais",
-        "text": "A escassez de um não substitui a do outro; ambas drenam.",
-        "reflection": "Você troca tempo por dinheiro sem medir custo mental?"
+        "title": "Informação resolve",
+        "text": "Mais dados não compensam a banda mental tomada.",
+        "reflection": "Você empilha informação e decide pior?"
       },
       {
         "type": "truth",
@@ -33922,15 +33880,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Ajuda é só grana",
-        "text": "Programas que reduzem banda mental falham; precisam de folga.",
-        "reflection": "Sua ajuda aumenta ou alivia a sobrecarga?"
+        "title": "Tempo e dinheiro iguais",
+        "text": "A escassez de um não substitui a do outro; ambas drenam.",
+        "reflection": "Você troca tempo por dinheiro sem medir custo mental?"
       },
       {
         "type": "truth",
         "title": "Prevenção vale",
         "text": "Construir reserva antes da crise é a defesa real.",
         "reflection": "Você espera a crise para criar folga?"
+      },
+      {
+        "type": "myth",
+        "title": "Ajuda é só grana",
+        "text": "Programas que reduzem banda mental falham; precisam de folga.",
+        "reflection": "Sua ajuda aumenta ou alivia a sobrecarga?"
+      },
+      {
+        "type": "truth",
+        "title": "Escassez rouba largura de banda mental",
+        "text": "Mullainathan prova que quem tem pouco de tempo ou dinheiro pensa pior, não por burrice.",
+        "reflection": "Onde sua mente está ocupada demais para decidir bem?"
       }
     ],
     "summary": "Sendhil Mullainathan e Eldar Shafir, em \"Escassez\", revelam um insight comportamental poderoso: a falta de algo — dinheiro, tempo, calorias, companhia — não apenas restringe recursos, ela rouba a largura de banda mental. A tese central é que a escassez cria um \"túnel\" cognitivo: focamos no que falta e perdemos de vista o resto, tomando decisões piores e ficando presos num ciclo de pobreza ou corrida contra o relógio. Os autores mostram que ricos também sofrem escassez de tempo, e que a solução não é \"tentar mais\", mas construir folga (slack) e desenhar sistemas que protejam o cérebro sobrecarregado. O gancho: escassez não é sobre ter pouco, é sobre o que ter pouco faz com a mente. É um livro essencial para quem quer entender por que pessoas inteligentes tomam decisões aparentemente irracionais sob pressão. É um livro essencial para entender por que pessoas inteligentes tomam decisões aparentemente irracionais quando a mente está ocupada pela falta.",
@@ -33951,16 +33921,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Quando nos falta algo, construímos um túnel e perdemos o resto.",
         "autor": "Sendhil Mullainathan",
         "obra": "Escassez"
-      },
-      {
-        "texto": "A escassez de tempo aflige ricos tanto quanto a de dinheiro aflige pobres.",
-        "autor": "Sendhil Mullainathan",
-        "obra": "Escassez"
-      },
-      {
-        "texto": "Folga é o antídoto contra o ciclo da escassez.",
-        "autor": "Sendhil Mullainathan",
-        "obra": "Escassez"
       }
     ],
     "citacoesTerceiros": [
@@ -33971,13 +33931,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "A parte sobre túnel cognitivo mudou como vejo pobreza.",
-        "autor": "Sociólogo",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Ciência comportamental séria e acessível.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -33993,9 +33948,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda o túnel",
         "text": "Reconheça quando a escassez estreita seu raciocínio.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Entenda o túnel\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Reconheça quando a escassez estreita seu raciocínio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda o túnel\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Entenda o túnel\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça quando a escassez estreita seu raciocínio — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Entenda o túnel\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34003,9 +33958,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie folga",
         "text": "Reserve tempo e dinheiro para evitar o limite crítico.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Crie folga\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Reserve tempo e dinheiro para evitar o limite crítico — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie folga\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Crie folga\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reserve tempo e dinheiro para evitar o limite crítico — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Crie folga\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34013,9 +33968,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Automatize decisões",
         "text": "Reduza escolhas quando a mente já está sobrecarregada.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Automatize decisões\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Reduza escolhas quando a mente já está sobrecarregada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Automatize decisões\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Automatize decisões\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduza escolhas quando a mente já está sobrecarregada — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Automatize decisões\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34023,9 +33978,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não julgue o pobre",
         "text": "Erros sob escassez são cognitivos, não morais.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Não julgue o pobre\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Erros sob escassez são cognitivos, não morais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não julgue o pobre\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Não julgue o pobre\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Erros sob escassez são cognitivos, não morais — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Não julgue o pobre\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34033,9 +33988,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja a banda",
         "text": "Reduza ruído e interrupções em momentos de aperto.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Proteja a banda\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Reduza ruído e interrupções em momentos de aperto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja a banda\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Proteja a banda\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduza ruído e interrupções em momentos de aperto — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Proteja a banda\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34043,9 +33998,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje a largura",
         "text": "Decida coisas importantes fora do túnel de urgência.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Planeje a largura\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Decida coisas importantes fora do túnel de urgência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje a largura\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Planeje a largura\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Decida coisas importantes fora do túnel de urgência — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Planeje a largura\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34053,9 +34008,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite o ciclo",
         "text": "Pequenas reservas quebram a autorepetição da pobreza.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Evite o ciclo\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Pequenas reservas quebram a autorepetição da pobreza — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite o ciclo\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Evite o ciclo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenas reservas quebram a autorepetição da pobreza — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Evite o ciclo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34063,9 +34018,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use lembretes",
         "text": "Sistemas externos compensam a memória tomada.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Use lembretes\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Sistemas externos compensam a memória tomada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use lembretes\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Use lembretes\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sistemas externos compensam a memória tomada — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Use lembretes\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34073,9 +34028,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desenhe escolhas",
         "text": "Torne o certo fácil quando a mente está ocupada.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Desenhe escolhas\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Torne o certo fácil quando a mente está ocupada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desenhe escolhas\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Desenhe escolhas\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Torne o certo fácil quando a mente está ocupada — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Desenhe escolhas\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34083,9 +34038,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Separe urgência de importância",
         "text": "O túnel confunde as duas; force a separação.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Separe urgência de importância\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: O túnel confunde as duas; force a separação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Separe urgência de importância\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Separe urgência de importância\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O túnel confunde as duas; force a separação — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Separe urgência de importância\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34093,9 +34048,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize slack",
         "text": "Folga não é desperdício; é seguro cognitivo.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Valorize slack\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Folga não é desperdício; é seguro cognitivo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize slack\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Valorize slack\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Folga não é desperdício; é seguro cognitivo — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Valorize slack\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34103,9 +34058,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ajude com estrutura",
         "text": "Boa ajuda reduz carga mental, não só repassa recurso.",
         "explicacoes": [
-          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Ajude com estrutura\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
-          "Na prática: Boa ajuda reduz carga mental, não só repassa recurso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ajude com estrutura\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan coloca \"Ajude com estrutura\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Boa ajuda reduz carga mental, não só repassa recurso — traduzido para a prática, é o passo concreto que liga a teoria de Sendhil Mullainathan ao comportamento diário.",
+          "Ignorar \"Ajude com estrutura\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -34359,12 +34314,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Eficácia basta",
-        "text": "Covey argumenta que o mundo mudou; eficácia vira base, não destino.",
-        "reflection": "Você parou em \"ser eficiente\" e perdeu sentido?"
-      },
-      {
         "type": "truth",
         "title": "Encontre sua voz",
         "text": "A grandeza vem de descobrir o que só você pode oferecer.",
@@ -34372,9 +34321,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Liderança é cargo",
-        "text": "Liderança é influência e voz, não título nem hierarquia.",
-        "reflection": "Você espera cargo para liderar?"
+        "title": "Eficácia basta",
+        "text": "Covey argumenta que o mundo mudou; eficácia vira base, não destino.",
+        "reflection": "Você parou em \"ser eficiente\" e perdeu sentido?"
       },
       {
         "type": "truth",
@@ -34384,9 +34333,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Talento define tudo",
-        "text": "Voz exige alinhar talento, paixão, necessidade e consciência.",
-        "reflection": "Você tem talento mas falta paixão ou sentido?"
+        "title": "Liderança é cargo",
+        "text": "Liderança é influência e voz, não título nem hierarquia.",
+        "reflection": "Você espera cargo para liderar?"
       },
       {
         "type": "truth",
@@ -34396,9 +34345,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Significância é luxo",
-        "text": "Covey trata sentido como necessidade humana básica, não extra.",
-        "reflection": "Você posterga o \"porquê\" da vida?"
+        "title": "Talento define tudo",
+        "text": "Voz exige alinhar talento, paixão, necessidade e consciência.",
+        "reflection": "Você tem talento mas falta paixão ou sentido?"
       },
       {
         "type": "truth",
@@ -34408,9 +34357,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudança é externa",
-        "text": "A grandeza exige mudança interna antes da externa.",
-        "reflection": "Você tenta mudar o mundo sem se mudar?"
+        "title": "Significância é luxo",
+        "text": "Covey trata sentido como necessidade humana básica, não extra.",
+        "reflection": "Você posterga o \"porquê\" da vida?"
       },
       {
         "type": "truth",
@@ -34420,9 +34369,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Só para líderes",
-        "text": "O 8º hábito é para qualquer um que queira ser necessário.",
-        "reflection": "Você reservou liderança só para chefes?"
+        "title": "Mudança é externa",
+        "text": "A grandeza exige mudança interna antes da externa.",
+        "reflection": "Você tenta mudar o mundo sem se mudar?"
       },
       {
         "type": "truth",
@@ -34432,15 +34381,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Voz é autoajuda",
-        "text": "Covey ancora a voz em serviço e responsabilidade, não ego.",
-        "reflection": "Você confunde voz com vaidade?"
+        "title": "Só para líderes",
+        "text": "O 8º hábito é para qualquer um que queira ser necessário.",
+        "reflection": "Você reservou liderança só para chefes?"
       },
       {
         "type": "truth",
         "title": "Da eficácia à grandeza",
         "text": "O salto do 7º ao 8º hábito é de útil para significativo.",
         "reflection": "Você está útil mas não significativo?"
+      },
+      {
+        "type": "myth",
+        "title": "Voz é autoajuda",
+        "text": "Covey ancora a voz em serviço e responsabilidade, não ego.",
+        "reflection": "Você confunde voz com vaidade?"
+      },
+      {
+        "type": "truth",
+        "title": "Da eficácia à grandeza exige voz e encontro",
+        "text": "Covey estende os 7 hábitos ao propósito único que só você pode realizar.",
+        "reflection": "Você é eficiente no alheio e omisso no seu chamado?"
       }
     ],
     "summary": "Stephen Covey, em \"O 8º Hábito\", dá continuidade a \"Os 7 Hábitos\" partindo de uma constatação: a eficácia não basta mais num mundo de mudança acelerada. O gancho central é encontrar sua voz — o que ele chama de \"grandeza\" — e ajudar os outros a encontrar a deles. Os sete hábitos levam à eficácia; o oitavo leva à plenitude e à liderança. Covey estrutura o caminho em quatro dimensões (corpo/fazer, mente/aprender, coração/amar, espírito/ver) e propõe que a voz emerge quando você alinha talento, paixão, necessidade e consciência. A tese: o desafio não é apenas \"ser eficaz\", mas \"ser necessário\" — contribuir com o que só você pode dar. É um chamado à liderança pessoal e à significância que convida cada leitor a sair da mediocridade útil e entregar algo realmente próprio ao mundo. É um chamado à liderança pessoal e à significância que convida cada leitor a sair da mediocridade útil e entregar algo realmente próprio ao mundo.",
@@ -34461,16 +34422,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O oitavo hábito é da eficácia à grandeza.",
         "autor": "Stephen R. Covey",
         "obra": "O 8º Hábito"
-      },
-      {
-        "texto": "Liderança é comunicação inspirante de uma pessoa para outra.",
-        "autor": "Stephen R. Covey",
-        "obra": "O 8º Hábito"
-      },
-      {
-        "texto": "Você foi enviado a esta terra com um dom único.",
-        "autor": "Stephen R. Covey",
-        "obra": "O 8º Hábito"
       }
     ],
     "citacoesTerceiros": [
@@ -34481,13 +34432,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "A parte sobre as quatro dimensões me reorganizou.",
-        "autor": "Líder",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Idealista demais para alguns, inspirador para mim.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -34503,9 +34449,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Domine os 7 primeiro",
         "text": "O 8º hábito constrói sobre a eficácia dos sete anteriores.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Domine os 7 primeiro\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: O 8º hábito constrói sobre a eficácia dos sete anteriores — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Domine os 7 primeiro\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Domine os 7 primeiro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O 8º hábito constrói sobre a eficácia dos sete anteriores — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Domine os 7 primeiro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34513,9 +34459,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque sua voz",
         "text": "Descubra o que só você pode oferecer ao mundo.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Busque sua voz\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Descubra o que só você pode oferecer ao mundo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque sua voz\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Busque sua voz\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Descubra o que só você pode oferecer ao mundo — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Busque sua voz\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34523,9 +34469,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Alinhe as quatro dimensões",
         "text": "Cuide corpo, mente, coração e espírito em equilíbrio.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Alinhe as quatro dimensões\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Cuide corpo, mente, coração e espírito em equilíbrio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Alinhe as quatro dimensões\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Alinhe as quatro dimensões\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cuide corpo, mente, coração e espírito em equilíbrio — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Alinhe as quatro dimensões\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34533,9 +34479,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cruze talento e paixão",
         "text": "Voz nasce onde você é bom e gosta de fazer.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Cruze talento e paixão\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Voz nasce onde você é bom e gosta de fazer — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cruze talento e paixão\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Cruze talento e paixão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Voz nasce onde você é bom e gosta de fazer — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Cruze talento e paixão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34543,9 +34489,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Atenda uma necessidade",
         "text": "Sua voz precisa servir a algo que o mundo pede.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Atenda uma necessidade\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Sua voz precisa servir a algo que o mundo pede — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Atenda uma necessidade\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Atenda uma necessidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sua voz precisa servir a algo que o mundo pede — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Atenda uma necessidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34553,9 +34499,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ouça a consciência",
         "text": "Use a bússola interna para decidir com integridade.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Ouça a consciência\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Use a bússola interna para decidir com integridade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ouça a consciência\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Ouça a consciência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use a bússola interna para decidir com integridade — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Ouça a consciência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34563,9 +34509,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Empodere outros",
         "text": "Ajude cada pessoa ao redor a encontrar sua voz.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Empodere outros\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Ajude cada pessoa ao redor a encontrar sua voz — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Empodere outros\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Empodere outros\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ajude cada pessoa ao redor a encontrar sua voz — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Empodere outros\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34573,9 +34519,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Lidere por influência",
         "text": "Liderança é exemplo e serviço, não autoridade.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Lidere por influência\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Liderança é exemplo e serviço, não autoridade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Lidere por influência\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Lidere por influência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Liderança é exemplo e serviço, não autoridade — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Lidere por influência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34583,9 +34529,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie confiança",
         "text": "Ambientes de confiança liberam o potencial alheio.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Crie confiança\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Ambientes de confiança liberam o potencial alheio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie confiança\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Crie confiança\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ambientes de confiança liberam o potencial alheio — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Crie confiança\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34593,9 +34539,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque significância",
         "text": "Vá além do útil; procure ser necessário.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Busque significância\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Vá além do útil; procure ser necessário — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque significância\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Busque significância\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vá além do útil; procure ser necessário — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Busque significância\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34603,9 +34549,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a inteireza",
         "text": "Voz requer coerência entre o que pensa, diz e faz.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Pratique a inteireza\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: Voz requer coerência entre o que pensa, diz e faz — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a inteireza\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Pratique a inteireza\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Voz requer coerência entre o que pensa, diz e faz — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Pratique a inteireza\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -34613,9 +34559,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sirva",
         "text": "A grandeza se mede pelo serviço prestado, não pelo status.",
         "explicacoes": [
-          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Sirva\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
-          "Na prática: A grandeza se mede pelo serviço prestado, não pelo status — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sirva\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey coloca \"Sirva\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A grandeza se mede pelo serviço prestado, não pelo status — traduzido para a prática, é o passo concreto que liga a teoria de Stephen R. Covey ao comportamento diário.",
+          "Ignorar \"Sirva\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -34875,12 +34821,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Tecnologia é o segredo",
-        "text": "Collins mostra que tecnologia acelera, mas não causa a excelência.",
-        "reflection": "Você culpa a falta de tech pelo fracasso?"
-      },
-      {
         "type": "truth",
         "title": "Liderança de Nível 5",
         "text": "Líderes humildes e obstinados lideram a virada para a grandeza.",
@@ -34888,9 +34828,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sorte explica tudo",
-        "text": "Empresas great não foram mais sortudas; usaram a realidade melhor.",
-        "reflection": "Você atribui o sucesso alheio à sorte?"
+        "title": "Tecnologia é o segredo",
+        "text": "Collins mostra que tecnologia acelera, mas não causa a excelência.",
+        "reflection": "Você culpa a falta de tech pelo fracasso?"
       },
       {
         "type": "truth",
@@ -34900,9 +34840,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Grandes líderes são carismáticos",
-        "text": "Nível 5 são discretos; carisma não é pré-requisito.",
-        "reflection": "Você confunde palco com liderança?"
+        "title": "Sorte explica tudo",
+        "text": "Empresas great não foram mais sortudas; usaram a realidade melhor.",
+        "reflection": "Você atribui o sucesso alheio à sorte?"
       },
       {
         "type": "truth",
@@ -34912,9 +34852,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Fusões salvam",
-        "text": "Collins achou que aquisições raramente causaram a virada.",
-        "reflection": "Você aposta em compra em vez de melhorar?"
+        "title": "Grandes líderes são carismáticos",
+        "text": "Nível 5 são discretos; carisma não é pré-requisito.",
+        "reflection": "Você confunde palco com liderança?"
       },
       {
         "type": "truth",
@@ -34924,9 +34864,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Precisa de pessoas primeiro",
-        "text": "Collins diz: primeiro quem (as certas), depois o quê.",
-        "reflection": "Você define estratégia antes das pessoas certas?"
+        "title": "Fusões salvam",
+        "text": "Collins achou que aquisições raramente causaram a virada.",
+        "reflection": "Você aposta em compra em vez de melhorar?"
       },
       {
         "type": "truth",
@@ -34936,9 +34876,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Visão grandiosa inicial",
-        "text": "A visão emergiu do ouriço, não veio de um líder visionário.",
-        "reflection": "Você inventa visão sem base real?"
+        "title": "Precisa de pessoas primeiro",
+        "text": "Collins diz: primeiro quem (as certas), depois o quê.",
+        "reflection": "Você define estratégia antes das pessoas certas?"
       },
       {
         "type": "truth",
@@ -34948,15 +34888,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudança radical",
-        "text": "Transformação foi gradativa e silenciosa, não explosiva.",
-        "reflection": "Você espera revolução em vez de passos?"
+        "title": "Visão grandiosa inicial",
+        "text": "A visão emergiu do ouriço, não veio de um líder visionário.",
+        "reflection": "Você inventa visão sem base real?"
       },
       {
         "type": "truth",
         "title": "Disciplina sobreciona",
         "text": "Aplicar os princípios com disciplina vence o talento isolado.",
         "reflection": "Você tem princípios sem disciplina de aplicar?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudança radical",
+        "text": "Transformação foi gradativa e silenciosa, não explosiva.",
+        "reflection": "Você espera revolução em vez de passos?"
+      },
+      {
+        "type": "truth",
+        "title": "Grandeza é disciplined people, thought, action",
+        "text": "Collins mostra que empresas vencedoras somam rigor às pessoas certas, sem heroísmo de CEO.",
+        "reflection": "Sua equipe é excelente apesar ou por causa da disciplina?"
       }
     ],
     "summary": "Jim Collins, em \"Empresas Feitas para Vencer\" (Good to Great), passou cinco anos estudando 1.435 empresas para responder: o que faz uma boa empresa se tornar excelente e sustentar resultados por 15 anos? A tese central é que a grandeza não depende de sorte, setor ou tecnologia, e sim de disciplina. Entre os achados: a \"Liderança de Nível 5\" (humildade + vontade feroz), o \"Conceito do Ouriço\" (o cruzamento entre paixão, o que você faz melhor e o que move sua economia), a \"Parábola do Flywheel\" (acumular momentum), o \"Paradoxo de Stockdale\" (enfrentar a dura realidade sem perder a fé) e a \"Cultura de Disciplina\". O gancho: empresas medianas viram extraordinárias por escolhas duras e consistentes, não por grandes golpes. Um clássico da estratégia baseado em dados rigorosos e aplicável também à carreira pessoal. Um clássico da estratégia baseado em dados rigorosos, cujas lições valem tanto para empresas quanto para a carreira pessoal de qualquer um.",
@@ -34977,33 +34929,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O Conceito do Ouriço: o que você pode ser o melhor do mundo?",
         "autor": "Jim Collins",
         "obra": "Empresas Feitas para Vencer"
-      },
-      {
-        "texto": "A excelência é uma trajetória de flywheel, não de alavanca.",
-        "autor": "Jim Collins",
-        "obra": "Empresas Feitas para Vencer"
-      },
-      {
-        "texto": "Você deve enfrentar os fatos brutais da realidade, não importa quão dolorosos.",
-        "autor": "Jim Collins",
-        "obra": "Empresas Feitas para Vencer"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O capítulo sobre Nível 5 deveria ser leitura obrigatória de RH.",
-        "autor": "Executivo",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Dados rigorosos; não é mais uma teoria de consultoria.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "O flywheel mudou como explico crescimento à minha equipe.",
-        "autor": "Empreendedor",
-        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -35019,9 +34956,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja Nível 5",
         "text": "Combine humildade genuína com vontade feroz de resultado.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Seja Nível 5\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Combine humildade genuína com vontade feroz de resultado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja Nível 5\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Seja Nível 5\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Combine humildade genuína com vontade feroz de resultado — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Seja Nível 5\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35029,9 +34966,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina o Ouriço",
         "text": "Concentre-se onde paixão, excelência e economia se cruzam.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Defina o Ouriço\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Concentre-se onde paixão, excelência e economia se cruzam — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina o Ouriço\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Defina o Ouriço\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Concentre-se onde paixão, excelência e economia se cruzam — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Defina o Ouriço\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35039,9 +34976,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Coloque as pessoas certas",
         "text": "Primeiro quem, depois o quê; o time certo muda tudo.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Coloque as pessoas certas\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Primeiro quem, depois o quê; o time certo muda tudo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Coloque as pessoas certas\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Coloque as pessoas certas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Primeiro quem, depois o quê; o time certo muda tudo — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Coloque as pessoas certas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35049,9 +34986,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Gire o flywheel",
         "text": "Acumule momentum pequeno e constante, não busque golpe.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Gire o flywheel\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Acumule momentum pequeno e constante, não busque golpe — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Gire o flywheel\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Gire o flywheel\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acumule momentum pequeno e constante, não busque golpe — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Gire o flywheel\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35059,9 +34996,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Encare a realidade",
         "text": "Use o Paradoxo de Stockdale: fatos brutais + fé.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Encare a realidade\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Use o Paradoxo de Stockdale: fatos brutais + fé — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Encare a realidade\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Encare a realidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use o Paradoxo de Stockdale: fatos brutais + fé — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Encare a realidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35069,9 +35006,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie cultura de disciplina",
         "text": "Estrutura leve com pessoas autodisciplinadas.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Crie cultura de disciplina\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Estrutura leve com pessoas autodisciplinadas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie cultura de disciplina\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Crie cultura de disciplina\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estrutura leve com pessoas autodisciplinadas — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Crie cultura de disciplina\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35079,9 +35016,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não dependa de tech",
         "text": "Use tecnologia como acelerador, depois de definir estratégia.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Não dependa de tech\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Use tecnologia como acelerador, depois de definir estratégia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não dependa de tech\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Não dependa de tech\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use tecnologia como acelerador, depois de definir estratégia — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Não dependa de tech\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35089,9 +35026,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite alavancas mágicas",
         "text": "Desconfie de soluções milagrosas e fusões salvadoras.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Evite alavancas mágicas\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Desconfie de soluções milagrosas e fusões salvadoras — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite alavancas mágicas\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Evite alavancas mágicas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desconfie de soluções milagrosas e fusões salvadoras — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Evite alavancas mágicas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35099,9 +35036,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha a fé",
         "text": "Sem perder esperança mesmo diante de fatos difíceis.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Mantenha a fé\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Sem perder esperança mesmo diante de fatos difíceis — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha a fé\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Mantenha a fé\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sem perder esperança mesmo diante de fatos difíceis — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Mantenha a fé\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35109,9 +35046,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque no essencial",
         "text": "Diga não a oportunidades fora do ouriço.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Foque no essencial\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Diga não a oportunidades fora do ouriço — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque no essencial\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Foque no essencial\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Diga não a oportunidades fora do ouriço — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Foque no essencial\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35119,9 +35056,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça a disciplina",
         "text": "Acompanhe se os princípios são aplicados consistentemente.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Meça a disciplina\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Acompanhe se os princípios são aplicados consistentemente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça a disciplina\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Meça a disciplina\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acompanhe se os princípios são aplicados consistentemente — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Meça a disciplina\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35129,9 +35066,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pense em 15 anos",
         "text": "Excelência se mede em décadas, não trimestres.",
         "explicacoes": [
-          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Pense em 15 anos\" como peça-chave para o que transforma empresas boas em extraordinárias.",
-          "Na prática: Excelência se mede em décadas, não trimestres — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pense em 15 anos\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+          "Em \"Empresas Feitas para Vencer\", Jim Collins coloca \"Pense em 15 anos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Excelência se mede em décadas, não trimestres — traduzido para a prática, é o passo concreto que liga a teoria de Jim Collins ao comportamento diário.",
+          "Ignorar \"Pense em 15 anos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -35385,12 +35322,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Empresas bem geridas não falham",
-        "text": "Christensen prova que gestão excelente precede a queda por ruptura.",
-        "reflection": "Você acha que \"ouvir o cliente\" sempre salva?"
-      },
-      {
         "type": "truth",
         "title": "Inovação de ruptura existe",
         "text": "Tecnologia simples nos nichos destrói líderes do topo.",
@@ -35398,9 +35329,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Ouvir cliente basta",
-        "text": "Clientes atuais pedem o topo; ninguém pede a ruptura cedo.",
-        "reflection": "Seus clientes definem sua cegueira?"
+        "title": "Empresas bem geridas não falham",
+        "text": "Christensen prova que gestão excelente precede a queda por ruptura.",
+        "reflection": "Você acha que \"ouvir o cliente\" sempre salva?"
       },
       {
         "type": "truth",
@@ -35410,9 +35341,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Qualidade sempre vence",
-        "text": "Ruptura vence por conveniência/preço, não por qualidade.",
-        "reflection": "Você assume que o melhor produto ganha?"
+        "title": "Ouvir cliente basta",
+        "text": "Clientes atuais pedem o topo; ninguém pede a ruptura cedo.",
+        "reflection": "Seus clientes definem sua cegueira?"
       },
       {
         "type": "truth",
@@ -35422,9 +35353,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Fracasso é incompetência",
-        "text": "Líderes fizeram tudo certo e ainda perderam; é estrutural.",
-        "reflection": "Você culpa gestores sem ver o modelo?"
+        "title": "Qualidade sempre vence",
+        "text": "Ruptura vence por conveniência/preço, não por qualidade.",
+        "reflection": "Você assume que o melhor produto ganha?"
       },
       {
         "type": "truth",
@@ -35434,9 +35365,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Pesquisa evita surpresas",
-        "text": "Pesquisa focada no atual não prevê o mercado de ruptura.",
-        "reflection": "Sua pesquisa mede só o cliente de hoje?"
+        "title": "Fracasso é incompetência",
+        "text": "Líderes fizeram tudo certo e ainda perderam; é estrutural.",
+        "reflection": "Você culpa gestores sem ver o modelo?"
       },
       {
         "type": "truth",
@@ -35446,9 +35377,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Grandes sempre lideram",
-        "text": "Líderes perdem justamente por proteger o lucro atual.",
-        "reflection": "Seu sucesso atual te impede de mudar?"
+        "title": "Pesquisa evita surpresas",
+        "text": "Pesquisa focada no atual não prevê o mercado de ruptura.",
+        "reflection": "Sua pesquisa mede só o cliente de hoje?"
       },
       {
         "type": "truth",
@@ -35458,15 +35389,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tecnologia nova = risco",
-        "text": "A ruptura é arriscada, mas ignorá-la é mais fatal.",
-        "reflection": "Você evita a ruptura por medo e perde?"
+        "title": "Grandes sempre lideram",
+        "text": "Líderes perdem justamente por proteger o lucro atual.",
+        "reflection": "Seu sucesso atual te impede de mudar?"
       },
       {
         "type": "truth",
         "title": "Rede de valor",
         "text": "O cliente e a cadeia puxam a empresa para o topo, cegando-a.",
         "reflection": "Sua rede de valor te prende ao atual?"
+      },
+      {
+        "type": "myth",
+        "title": "Tecnologia nova = risco",
+        "text": "A ruptura é arriscada, mas ignorá-la é mais fatal.",
+        "reflection": "Você evita a ruptura por medo e perde?"
+      },
+      {
+        "type": "truth",
+        "title": "Inovações destroem líderes que ignoram o novo",
+        "text": "Christensen explica o dilema: tecnologias simples invadem por baixo e superam o establishment.",
+        "reflection": "Você está cego à mudança que ameaça seu modelo?"
       }
     ],
     "summary": "Clayton Christensen, em \"O Dilema da Inovação\" (The Innovator's Dilemma), responde a uma pergunta incomoda: por que empresas bem geridas — que ouvem clientes e investem em pesquisa — ainda assim fracassam diante de certas inovações? A tese central é a \"inovação de ruptura\" (disruptiva): tecnologias piores no início, mas mais baratas ou simples, começam nos nichos e acabam destruindo líderes que focam no topo. O dilemma é que fazer o \"certo\" pelo cliente atual leva a empresa a ignorar o mercado emergente. Christensen mostra que o processo de alocação de recursos e a escuta excessiva do cliente atual condenam gigantes. O gancho: a boa gestão, levada ao extremo, pode ser a causa do colapso. Leitura obrigatória para quem quer evitar ser canibalizado por um concorrente aparentemente inferior. Leitura obrigatória para quem quer evitar ser canibalizado por um concorrente aparentemente inferior e proteger a própria relevância no futuro. A obra ensina a reconhecer cedo os sinais de ruptura e a agir antes que seja tarde demais.",
@@ -35487,33 +35430,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Ouvir o cliente atual é exatamente o que nos cega para a ruptura.",
         "autor": "Clayton M. Christensen",
         "obra": "O Dilema da Inovação"
-      },
-      {
-        "texto": "O processo de alocação de recursos decide o futuro mais que a estratégia.",
-        "autor": "Clayton M. Christensen",
-        "obra": "O Dilema da Inovação"
-      },
-      {
-        "texto": "Crie uma unidade independente para a inovação disruptiva.",
-        "autor": "Clayton M. Christensen",
-        "obra": "O Dilema da Inovação"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro mais influente sobre estratégia que já li.",
-        "autor": "Executivo",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Explica por que minha empresa dominante perdeu o bonde.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "A distinção ruptura/sustentação deveria estar em todo MBA.",
-        "autor": "Consultor",
-        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -35529,9 +35457,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda ruptura",
         "text": "Aprenda a diferença entre inovação sustentadora e disruptiva.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Entenda ruptura\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Aprenda a diferença entre inovação sustentadora e disruptiva — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda ruptura\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Entenda ruptura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aprenda a diferença entre inovação sustentadora e disruptiva — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Entenda ruptura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35539,9 +35467,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não confie só no cliente",
         "text": "Ouça, mas proteja espaço para o mercado que ainda não pede.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Não confie só no cliente\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Ouça, mas proteja espaço para o mercado que ainda não pede — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não confie só no cliente\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Não confie só no cliente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ouça, mas proteja espaço para o mercado que ainda não pede — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Não confie só no cliente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35549,9 +35477,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Vigie o nicho",
         "text": "Concorrentes \"inferiores\" nos nichos podem virar ameaça.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Vigie o nicho\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Concorrentes \"inferiores\" nos nichos podem virar ameaça — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Vigie o nicho\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Vigie o nicho\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Concorrentes \"inferiores\" nos nichos podem virar ameaça — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Vigie o nicho\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35559,9 +35487,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mude alocação",
         "text": "Direcione recursos para projetos de ruptura, não só lucro atual.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Mude alocação\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Direcione recursos para projetos de ruptura, não só lucro atual — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mude alocação\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Mude alocação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Direcione recursos para projetos de ruptura, não só lucro atual — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Mude alocação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35569,9 +35497,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie unidade autônoma",
         "text": "Separe a inovação disruptiva da estrutura principal.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Crie unidade autônoma\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Separe a inovação disruptiva da estrutura principal — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie unidade autônoma\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Crie unidade autônoma\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Separe a inovação disruptiva da estrutura principal — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Crie unidade autônoma\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35579,9 +35507,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estude a rede de valor",
         "text": "Saiba como clientes e cadeia limitam seu movimento.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Estude a rede de valor\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Saiba como clientes e cadeia limitam seu movimento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estude a rede de valor\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Estude a rede de valor\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saiba como clientes e cadeia limitam seu movimento — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Estude a rede de valor\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35589,9 +35517,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abra mão do topo",
         "text": "Ruptura exige atender o \"pior\" mercado primeiro.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Abra mão do topo\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Ruptura exige atender o \"pior\" mercado primeiro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abra mão do topo\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Abra mão do topo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ruptura exige atender o \"pior\" mercado primeiro — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Abra mão do topo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35599,9 +35527,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Presuma o ciclo",
         "text": "Onde o recurso vai hoje define sua sobrevivência amanhã.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Presuma o ciclo\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Onde o recurso vai hoje define sua sobrevivência amanhã — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Presuma o ciclo\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Presuma o ciclo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Onde o recurso vai hoje define sua sobrevivência amanhã — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Presuma o ciclo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35609,9 +35537,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Teste cedo",
         "text": "Experimente mercados emergentes antes que dominem.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Teste cedo\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Experimente mercados emergentes antes que dominem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Teste cedo\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Teste cedo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Experimente mercados emergentes antes que dominem — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Teste cedo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35619,9 +35547,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja o novo",
         "text": "Não deixe o processo atual matar a novidade no berço.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Proteja o novo\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Não deixe o processo atual matar a novidade no berço — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja o novo\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Proteja o novo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não deixe o processo atual matar a novidade no berço — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Proteja o novo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35629,9 +35557,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reconheça o dilemma",
         "text": "Fazer o certo hoje pode ser errado para o futuro.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Reconheça o dilemma\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Fazer o certo hoje pode ser errado para o futuro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reconheça o dilemma\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Reconheça o dilemma\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Fazer o certo hoje pode ser errado para o futuro — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Reconheça o dilemma\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35639,9 +35567,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje a morte",
         "text": "Líderes devem canibalizar-se antes dos outros.",
         "explicacoes": [
-          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Planeje a morte\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
-          "Na prática: Líderes devem canibalizar-se antes dos outros — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje a morte\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen coloca \"Planeje a morte\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Líderes devem canibalizar-se antes dos outros — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Planeje a morte\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
