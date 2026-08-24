@@ -33017,62 +33017,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Entenda o túnel",
-        "text": "Reconheça quando a escassez estreita seu raciocínio."
+        "text": "Reconheça quando a escassez estreita seu raciocínio.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Entenda o túnel\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Reconheça quando a escassez estreita seu raciocínio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda o túnel\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Crie folga",
-        "text": "Reserve tempo e dinheiro para evitar o limite crítico."
+        "text": "Reserve tempo e dinheiro para evitar o limite crítico.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Crie folga\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Reserve tempo e dinheiro para evitar o limite crítico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie folga\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Automatize decisões",
-        "text": "Reduza escolhas quando a mente já está sobrecarregada."
+        "text": "Reduza escolhas quando a mente já está sobrecarregada.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Automatize decisões\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Reduza escolhas quando a mente já está sobrecarregada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Automatize decisões\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Não julgue o pobre",
-        "text": "Erros sob escassez são cognitivos, não morais."
+        "text": "Erros sob escassez são cognitivos, não morais.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Não julgue o pobre\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Erros sob escassez são cognitivos, não morais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não julgue o pobre\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Proteja a banda",
-        "text": "Reduza ruído e interrupções em momentos de aperto."
+        "text": "Reduza ruído e interrupções em momentos de aperto.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Proteja a banda\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Reduza ruído e interrupções em momentos de aperto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja a banda\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Planeje a largura",
-        "text": "Decida coisas importantes fora do túnel de urgência."
+        "text": "Decida coisas importantes fora do túnel de urgência.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Planeje a largura\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Decida coisas importantes fora do túnel de urgência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje a largura\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Evite o ciclo",
-        "text": "Pequenas reservas quebram a autorepetição da pobreza."
+        "text": "Pequenas reservas quebram a autorepetição da pobreza.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Evite o ciclo\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Pequenas reservas quebram a autorepetição da pobreza — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite o ciclo\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Use lembretes",
-        "text": "Sistemas externos compensam a memória tomada."
+        "text": "Sistemas externos compensam a memória tomada.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Use lembretes\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Sistemas externos compensam a memória tomada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use lembretes\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Desenhe escolhas",
-        "text": "Torne o certo fácil quando a mente está ocupada."
+        "text": "Torne o certo fácil quando a mente está ocupada.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Desenhe escolhas\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Torne o certo fácil quando a mente está ocupada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desenhe escolhas\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Separe urgência de importância",
-        "text": "O túnel confunde as duas; force a separação."
+        "text": "O túnel confunde as duas; force a separação.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Separe urgência de importância\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: O túnel confunde as duas; force a separação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Separe urgência de importância\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Valorize slack",
-        "text": "Folga não é desperdício; é seguro cognitivo."
+        "text": "Folga não é desperdício; é seguro cognitivo.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Valorize slack\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Folga não é desperdício; é seguro cognitivo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize slack\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Ajude com estrutura",
-        "text": "Boa ajuda reduz carga mental, não só repassa recurso."
+        "text": "Boa ajuda reduz carga mental, não só repassa recurso.",
+        "explicacoes": [
+          "Em \"Escassez: Por que Tanto de Pouco Ainda é Pouco\", Sendhil Mullainathan trata \"Ajude com estrutura\" como peça-chave para a escassez e como ela rouba a largura de banda mental.",
+          "Na prática: Boa ajuda reduz carga mental, não só repassa recurso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ajude com estrutura\" aplica a escassez e como ela rouba a largura de banda mental de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -33094,81 +33154,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O que é escassez",
         "text": "Os autores definem escassez como sensação de ter menos que o necessário.",
         "points": [
-          "Definição",
-          "Recurso",
-          "Sentir"
+          {
+            "t": "Definição",
+            "e": "Os autores definem escassez como sensação de ter menos que o necessário.",
+            "f": "A escassez não é sobre ter pouco; é sobre o que ter pouco faz com a mente.",
+            "real": true
+          },
+          {
+            "t": "Recurso",
+            "e": "Os autores definem escassez como sensação de ter menos que o necessário.",
+            "f": "A escassez rouba nossa largura de banda mental.",
+            "real": true
+          },
+          {
+            "t": "Sentir",
+            "e": "Os autores definem escassez como sensação de ter menos que o necessário.",
+            "f": "A escassez de tempo aflige ricos tanto quanto a de dinheiro aflige pobres.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O túnel",
         "text": "Como o foco no que falta estreita a percepção do resto.",
         "points": [
-          "Foco",
-          "Cegueira",
-          "Custo"
+          {
+            "t": "Foco",
+            "e": "Como o foco no que falta estreita a percepção do resto.",
+            "f": "Quando nos falta algo, construímos um túnel e perdemos o resto.",
+            "real": true
+          },
+          {
+            "t": "Cegueira",
+            "e": "Como o foco no que falta estreita a percepção do resto.",
+            "f": "Na visão de Sendhil Mullainathan, \"cegueira\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          },
+          {
+            "t": "Custo",
+            "e": "Como o foco no que falta estreita a percepção do resto.",
+            "f": "Na visão de Sendhil Mullainathan, \"custo\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A banda tomada",
         "text": "A largura mental consumida pela escassez reduz o pensamento.",
         "points": [
-          "Largura",
-          "Sobrecarga",
-          "Erro"
+          {
+            "t": "Largura",
+            "e": "A largura mental consumida pela escassez reduz o pensamento.",
+            "f": "A escassez rouba nossa largura de banda mental.",
+            "real": true
+          },
+          {
+            "t": "Sobrecarga",
+            "e": "A largura mental consumida pela escassez reduz o pensamento.",
+            "f": "Na visão de Sendhil Mullainathan, \"sobrecarga\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          },
+          {
+            "t": "Erro",
+            "e": "A largura mental consumida pela escassez reduz o pensamento.",
+            "f": "Na visão de Sendhil Mullainathan, \"erro\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Escassez de dinheiro",
         "text": "Por que pobres decidem pior sob pressão financeira.",
         "points": [
-          "Pobreza",
-          "Ciclo",
-          "Julgamento"
+          {
+            "t": "Pobreza",
+            "e": "Por que pobres decidem pior sob pressão financeira.",
+            "f": "A escassez de tempo aflige ricos tanto quanto a de dinheiro aflige pobres.",
+            "real": true
+          },
+          {
+            "t": "Ciclo",
+            "e": "Por que pobres decidem pior sob pressão financeira.",
+            "f": "Folga é o antídoto contra o ciclo da escassez.",
+            "real": true
+          },
+          {
+            "t": "Julgamento",
+            "e": "Por que pobres decidem pior sob pressão financeira.",
+            "f": "A escassez não é sobre ter pouco; é sobre o que ter pouco faz com a mente.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Escassez de tempo",
         "text": "Ricos e ocupados também sofrem o mesmo efeito mental.",
         "points": [
-          "Tempo",
-          "Agenda",
-          "Túnel"
+          {
+            "t": "Tempo",
+            "e": "Ricos e ocupados também sofrem o mesmo efeito mental.",
+            "f": "A escassez de tempo aflige ricos tanto quanto a de dinheiro aflige pobres.",
+            "real": true
+          },
+          {
+            "t": "Agenda",
+            "e": "Ricos e ocupados também sofrem o mesmo efeito mental.",
+            "f": "A escassez não é sobre ter pouco; é sobre o que ter pouco faz com a mente.",
+            "real": true
+          },
+          {
+            "t": "Túnel",
+            "e": "Ricos e ocupados também sofrem o mesmo efeito mental.",
+            "f": "A escassez rouba nossa largura de banda mental.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O ciclo da escassez",
         "text": "Como pouco hoje gera menos amanhã de forma autorepetida.",
         "points": [
-          "Autorepetição",
-          "Armadilha",
-          "Folga"
+          {
+            "t": "Autorepetição",
+            "e": "Como pouco hoje gera menos amanhã de forma autorepetida.",
+            "f": "Folga é o antídoto contra o ciclo da escassez.",
+            "real": true
+          },
+          {
+            "t": "Armadilha",
+            "e": "Como pouco hoje gera menos amanhã de forma autorepetida.",
+            "f": "A escassez não é sobre ter pouco; é sobre o que ter pouco faz com a mente.",
+            "real": true
+          },
+          {
+            "t": "Folga",
+            "e": "Como pouco hoje gera menos amanhã de forma autorepetida.",
+            "f": "A escassez rouba nossa largura de banda mental.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Soluções: folga",
         "text": "Construir slack para proteger a mente e as decisões.",
         "points": [
-          "Slack",
-          "Reserva",
-          "Defesa"
+          {
+            "t": "Slack",
+            "e": "Construir slack para proteger a mente e as decisões.",
+            "f": "Folga é o antídoto contra o ciclo da escassez.",
+            "real": true
+          },
+          {
+            "t": "Reserva",
+            "e": "Construir slack para proteger a mente e as decisões.",
+            "f": "Na visão de Sendhil Mullainathan, \"reserva\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          },
+          {
+            "t": "Defesa",
+            "e": "Construir slack para proteger a mente e as decisões.",
+            "f": "Na visão de Sendhil Mullainathan, \"defesa\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Sistemas e políticas",
         "text": "Como desenhar ajuda e regras que respeitam a banda.",
         "points": [
-          "Design",
-          "Política",
-          "Estrutura"
+          {
+            "t": "Design",
+            "e": "Como desenhar ajuda e regras que respeitam a banda.",
+            "f": "Na visão de Sendhil Mullainathan, \"design\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          },
+          {
+            "t": "Política",
+            "e": "Como desenhar ajuda e regras que respeitam a banda.",
+            "f": "Na visão de Sendhil Mullainathan, \"política\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          },
+          {
+            "t": "Estrutura",
+            "e": "Como desenhar ajuda e regras que respeitam a banda.",
+            "f": "Na visão de Sendhil Mullainathan, \"estrutura\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Viva com folga",
         "text": "Aplicar o conceito à própria vida para decidir melhor.",
         "points": [
-          "Vida",
-          "Hábito",
-          "Largura"
+          {
+            "t": "Vida",
+            "e": "Aplicar o conceito à própria vida para decidir melhor.",
+            "f": "Folga é o antídoto contra o ciclo da escassez.",
+            "real": true
+          },
+          {
+            "t": "Hábito",
+            "e": "Aplicar o conceito à própria vida para decidir melhor.",
+            "f": "Na visão de Sendhil Mullainathan, \"hábito\" é parte essencial da proposta de \"Escassez: Por que Tanto de Pouco Ainda é Pouco\".",
+            "real": false
+          },
+          {
+            "t": "Largura",
+            "e": "Aplicar o conceito à própria vida para decidir melhor.",
+            "f": "A escassez rouba nossa largura de banda mental.",
+            "real": true
+          }
         ]
       }
     ]
@@ -33332,62 +33527,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Domine os 7 primeiro",
-        "text": "O 8º hábito constrói sobre a eficácia dos sete anteriores."
+        "text": "O 8º hábito constrói sobre a eficácia dos sete anteriores.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Domine os 7 primeiro\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: O 8º hábito constrói sobre a eficácia dos sete anteriores — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Domine os 7 primeiro\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Busque sua voz",
-        "text": "Descubra o que só você pode oferecer ao mundo."
+        "text": "Descubra o que só você pode oferecer ao mundo.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Busque sua voz\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Descubra o que só você pode oferecer ao mundo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque sua voz\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Alinhe as quatro dimensões",
-        "text": "Cuide corpo, mente, coração e espírito em equilíbrio."
+        "text": "Cuide corpo, mente, coração e espírito em equilíbrio.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Alinhe as quatro dimensões\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Cuide corpo, mente, coração e espírito em equilíbrio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Alinhe as quatro dimensões\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Cruze talento e paixão",
-        "text": "Voz nasce onde você é bom e gosta de fazer."
+        "text": "Voz nasce onde você é bom e gosta de fazer.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Cruze talento e paixão\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Voz nasce onde você é bom e gosta de fazer — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cruze talento e paixão\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Atenda uma necessidade",
-        "text": "Sua voz precisa servir a algo que o mundo pede."
+        "text": "Sua voz precisa servir a algo que o mundo pede.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Atenda uma necessidade\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Sua voz precisa servir a algo que o mundo pede — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Atenda uma necessidade\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Ouça a consciência",
-        "text": "Use a bússola interna para decidir com integridade."
+        "text": "Use a bússola interna para decidir com integridade.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Ouça a consciência\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Use a bússola interna para decidir com integridade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ouça a consciência\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Empodere outros",
-        "text": "Ajude cada pessoa ao redor a encontrar sua voz."
+        "text": "Ajude cada pessoa ao redor a encontrar sua voz.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Empodere outros\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Ajude cada pessoa ao redor a encontrar sua voz — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Empodere outros\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Lidere por influência",
-        "text": "Liderança é exemplo e serviço, não autoridade."
+        "text": "Liderança é exemplo e serviço, não autoridade.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Lidere por influência\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Liderança é exemplo e serviço, não autoridade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Lidere por influência\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Crie confiança",
-        "text": "Ambientes de confiança liberam o potencial alheio."
+        "text": "Ambientes de confiança liberam o potencial alheio.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Crie confiança\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Ambientes de confiança liberam o potencial alheio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie confiança\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Busque significância",
-        "text": "Vá além do útil; procure ser necessário."
+        "text": "Vá além do útil; procure ser necessário.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Busque significância\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Vá além do útil; procure ser necessário — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque significância\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Pratique a inteireza",
-        "text": "Voz requer coerência entre o que pensa, diz e faz."
+        "text": "Voz requer coerência entre o que pensa, diz e faz.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Pratique a inteireza\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: Voz requer coerência entre o que pensa, diz e faz — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a inteireza\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Sirva",
-        "text": "A grandeza se mede pelo serviço prestado, não pelo status."
+        "text": "A grandeza se mede pelo serviço prestado, não pelo status.",
+        "explicacoes": [
+          "Em \"O 8º Hábito: Da Eficácia à Grandeza\", Stephen R. Covey trata \"Sirva\" como peça-chave para as 8 hábitos das famílias funcionais e unidas.",
+          "Na prática: A grandeza se mede pelo serviço prestado, não pelo status — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sirva\" aplica as 8 hábitos das famílias funcionais e unidas de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -33409,82 +33664,222 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O fim da eficácia",
         "text": "Covey argumenta que eficácia virou piso, não teto, no mundo novo.",
         "points": [
-          "Mudança",
-          "Eficácia",
-          "Necessidade"
+          {
+            "t": "Mudança",
+            "e": "Covey argumenta que eficácia virou piso, não teto, no mundo novo.",
+            "f": "A eficácia não basta mais; o desafio é a grandeza.",
+            "real": true
+          },
+          {
+            "t": "Eficácia",
+            "e": "Covey argumenta que eficácia virou piso, não teto, no mundo novo.",
+            "f": "O oitavo hábito é da eficácia à grandeza.",
+            "real": true
+          },
+          {
+            "t": "Necessidade",
+            "e": "Covey argumenta que eficácia virou piso, não teto, no mundo novo.",
+            "f": "Na visão de Stephen R. Covey, \"necessidade\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O 8º Hábito definido",
         "text": "Encontrar a voz e empoderar a voz alheia como essência.",
         "points": [
-          "Voz",
-          "Grandeza",
-          "Liderança"
+          {
+            "t": "Voz",
+            "e": "Encontrar a voz e empoderar a voz alheia como essência.",
+            "f": "O oitavo hábito é da eficácia à grandeza.",
+            "real": true
+          },
+          {
+            "t": "Grandeza",
+            "e": "Encontrar a voz e empoderar a voz alheia como essência.",
+            "f": "A eficácia não basta mais; o desafio é a grandeza.",
+            "real": true
+          },
+          {
+            "t": "Liderança",
+            "e": "Encontrar a voz e empoderar a voz alheia como essência.",
+            "f": "Liderança é comunicação inspirante de uma pessoa para outra.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — As quatro dimensões",
         "text": "Corpo, mente, coração e espírito que sustentam a voz.",
         "points": [
-          "Fazer",
-          "Aprender",
-          "Amar",
-          "Ver"
+          {
+            "t": "Fazer",
+            "e": "Corpo, mente, coração e espírito que sustentam a voz.",
+            "f": "Na visão de Stephen R. Covey, \"fazer\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Aprender",
+            "e": "Corpo, mente, coração e espírito que sustentam a voz.",
+            "f": "Na visão de Stephen R. Covey, \"aprender\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Amar",
+            "e": "Corpo, mente, coração e espírito que sustentam a voz.",
+            "f": "Na visão de Stephen R. Covey, \"amar\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Ver",
+            "e": "Corpo, mente, coração e espírito que sustentam a voz.",
+            "f": "Na visão de Stephen R. Covey, \"ver\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O modelo da voz",
         "text": "Cruzar talento, paixão, necessidade e consciência.",
         "points": [
-          "Talento",
-          "Paixão",
-          "Necessidade"
+          {
+            "t": "Talento",
+            "e": "Cruzar talento, paixão, necessidade e consciência.",
+            "f": "Na visão de Stephen R. Covey, \"talento\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Paixão",
+            "e": "Cruzar talento, paixão, necessidade e consciência.",
+            "f": "Na visão de Stephen R. Covey, \"paixão\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Necessidade",
+            "e": "Cruzar talento, paixão, necessidade e consciência.",
+            "f": "Na visão de Stephen R. Covey, \"necessidade\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Visão e disciplina",
         "text": "Como traduzir a voz em direção e execução.",
         "points": [
-          "Visão",
-          "Disciplina",
-          "Ação"
+          {
+            "t": "Visão",
+            "e": "Como traduzir a voz em direção e execução.",
+            "f": "Na visão de Stephen R. Covey, \"visão\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina",
+            "e": "Como traduzir a voz em direção e execução.",
+            "f": "Na visão de Stephen R. Covey, \"disciplina\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Ação",
+            "e": "Como traduzir a voz em direção e execução.",
+            "f": "Na visão de Stephen R. Covey, \"ação\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Paixão e consciência",
         "text": "O coração e o espírito como bússola da decisão.",
         "points": [
-          "Paixão",
-          "Consciência",
-          "Integridade"
+          {
+            "t": "Paixão",
+            "e": "O coração e o espírito como bússola da decisão.",
+            "f": "Na visão de Stephen R. Covey, \"paixão\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Consciência",
+            "e": "O coração e o espírito como bússola da decisão.",
+            "f": "Na visão de Stephen R. Covey, \"consciência\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Integridade",
+            "e": "O coração e o espírito como bússola da decisão.",
+            "f": "Na visão de Stephen R. Covey, \"integridade\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Empoderando outros",
         "text": "Liderança como servir para que outros achem a voz.",
         "points": [
-          "Serviço",
-          "Confiança",
-          "Influência"
+          {
+            "t": "Serviço",
+            "e": "Liderança como servir para que outros achem a voz.",
+            "f": "Encontre sua voz e ajude os outros a encontrar a deles.",
+            "real": true
+          },
+          {
+            "t": "Confiança",
+            "e": "Liderança como servir para que outros achem a voz.",
+            "f": "Na visão de Stephen R. Covey, \"confiança\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Influência",
+            "e": "Liderança como servir para que outros achem a voz.",
+            "f": "Na visão de Stephen R. Covey, \"influência\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Confiança e cultura",
         "text": "Ambientes de confiança liberam potencial coletivo.",
         "points": [
-          "Confiança",
-          "Cultura",
-          "Potencial"
+          {
+            "t": "Confiança",
+            "e": "Ambientes de confiança liberam potencial coletivo.",
+            "f": "Na visão de Stephen R. Covey, \"confiança\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Cultura",
+            "e": "Ambientes de confiança liberam potencial coletivo.",
+            "f": "Na visão de Stephen R. Covey, \"cultura\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          },
+          {
+            "t": "Potencial",
+            "e": "Ambientes de confiança liberam potencial coletivo.",
+            "f": "Na visão de Stephen R. Covey, \"potencial\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Da grandeza à significância",
         "text": "Encerra o chamado a ser necessário e não apenas útil.",
         "points": [
-          "Significância",
-          "Legado",
-          "Servir"
+          {
+            "t": "Significância",
+            "e": "Encerra o chamado a ser necessário e não apenas útil.",
+            "f": "A eficácia não basta mais; o desafio é a grandeza.",
+            "real": true
+          },
+          {
+            "t": "Legado",
+            "e": "Encerra o chamado a ser necessário e não apenas útil.",
+            "f": "O oitavo hábito é da eficácia à grandeza.",
+            "real": true
+          },
+          {
+            "t": "Servir",
+            "e": "Encerra o chamado a ser necessário e não apenas útil.",
+            "f": "Na visão de Stephen R. Covey, \"servir\" é parte essencial da proposta de \"O 8º Hábito: Da Eficácia à Grandeza\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -33648,62 +34043,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Seja Nível 5",
-        "text": "Combine humildade genuína com vontade feroz de resultado."
+        "text": "Combine humildade genuína com vontade feroz de resultado.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Seja Nível 5\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Combine humildade genuína com vontade feroz de resultado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja Nível 5\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Defina o Ouriço",
-        "text": "Concentre-se onde paixão, excelência e economia se cruzam."
+        "text": "Concentre-se onde paixão, excelência e economia se cruzam.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Defina o Ouriço\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Concentre-se onde paixão, excelência e economia se cruzam — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina o Ouriço\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Coloque as pessoas certas",
-        "text": "Primeiro quem, depois o quê; o time certo muda tudo."
+        "text": "Primeiro quem, depois o quê; o time certo muda tudo.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Coloque as pessoas certas\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Primeiro quem, depois o quê; o time certo muda tudo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Coloque as pessoas certas\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Gire o flywheel",
-        "text": "Acumule momentum pequeno e constante, não busque golpe."
+        "text": "Acumule momentum pequeno e constante, não busque golpe.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Gire o flywheel\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Acumule momentum pequeno e constante, não busque golpe — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Gire o flywheel\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Encare a realidade",
-        "text": "Use o Paradoxo de Stockdale: fatos brutais + fé."
+        "text": "Use o Paradoxo de Stockdale: fatos brutais + fé.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Encare a realidade\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Use o Paradoxo de Stockdale: fatos brutais + fé — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Encare a realidade\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Crie cultura de disciplina",
-        "text": "Estrutura leve com pessoas autodisciplinadas."
+        "text": "Estrutura leve com pessoas autodisciplinadas.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Crie cultura de disciplina\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Estrutura leve com pessoas autodisciplinadas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie cultura de disciplina\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Não dependa de tech",
-        "text": "Use tecnologia como acelerador, depois de definir estratégia."
+        "text": "Use tecnologia como acelerador, depois de definir estratégia.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Não dependa de tech\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Use tecnologia como acelerador, depois de definir estratégia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não dependa de tech\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Evite alavancas mágicas",
-        "text": "Desconfie de soluções milagrosas e fusões salvadoras."
+        "text": "Desconfie de soluções milagrosas e fusões salvadoras.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Evite alavancas mágicas\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Desconfie de soluções milagrosas e fusões salvadoras — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite alavancas mágicas\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Mantenha a fé",
-        "text": "Sem perder esperança mesmo diante de fatos difíceis."
+        "text": "Sem perder esperança mesmo diante de fatos difíceis.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Mantenha a fé\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Sem perder esperança mesmo diante de fatos difíceis — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha a fé\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Foque no essencial",
-        "text": "Diga não a oportunidades fora do ouriço."
+        "text": "Diga não a oportunidades fora do ouriço.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Foque no essencial\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Diga não a oportunidades fora do ouriço — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque no essencial\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Meça a disciplina",
-        "text": "Acompanhe se os princípios são aplicados consistentemente."
+        "text": "Acompanhe se os princípios são aplicados consistentemente.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Meça a disciplina\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Acompanhe se os princípios são aplicados consistentemente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça a disciplina\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Pense em 15 anos",
-        "text": "Excelência se mede em décadas, não trimestres."
+        "text": "Excelência se mede em décadas, não trimestres.",
+        "explicacoes": [
+          "Em \"Empresas Feitas para Vencer\", Jim Collins trata \"Pense em 15 anos\" como peça-chave para o que transforma empresas boas em extraordinárias.",
+          "Na prática: Excelência se mede em décadas, não trimestres — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense em 15 anos\" aplica o que transforma empresas boas em extraordinárias de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -33725,81 +34180,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Boas e grandes",
         "text": "Collins apresenta a pesquisa e a pergunta central do livro.",
         "points": [
-          "Pesquisa",
-          "Pergunta",
-          "Método"
+          {
+            "t": "Pesquisa",
+            "e": "Collins apresenta a pesquisa e a pergunta central do livro.",
+            "f": "Boas empresas não se tornam excelentes por causa da sorte.",
+            "real": true
+          },
+          {
+            "t": "Pergunta",
+            "e": "Collins apresenta a pesquisa e a pergunta central do livro.",
+            "f": "Na visão de Jim Collins, \"pergunta\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Método",
+            "e": "Collins apresenta a pesquisa e a pergunta central do livro.",
+            "f": "Na visão de Jim Collins, \"método\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Liderança de Nível 5",
         "text": "O perfil humilde e obstinado que lidera a virada.",
         "points": [
-          "Humildade",
-          "Vontade",
-          "Perfil"
+          {
+            "t": "Humildade",
+            "e": "O perfil humilde e obstinado que lidera a virada.",
+            "f": "Líderes de Nível 5 combinam humildade pessoal com vontade profissional.",
+            "real": true
+          },
+          {
+            "t": "Vontade",
+            "e": "O perfil humilde e obstinado que lidera a virada.",
+            "f": "Na visão de Jim Collins, \"vontade\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Perfil",
+            "e": "O perfil humilde e obstinado que lidera a virada.",
+            "f": "Na visão de Jim Collins, \"perfil\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Primeiro quem, depois o quê",
         "text": "Colocar as pessoas certas antes da estratégia.",
         "points": [
-          "Time",
-          "Ordem",
-          "Decisão"
+          {
+            "t": "Time",
+            "e": "Colocar as pessoas certas antes da estratégia.",
+            "f": "Na visão de Jim Collins, \"time\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Ordem",
+            "e": "Colocar as pessoas certas antes da estratégia.",
+            "f": "Na visão de Jim Collins, \"ordem\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Decisão",
+            "e": "Colocar as pessoas certas antes da estratégia.",
+            "f": "Na visão de Jim Collins, \"decisão\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Conceito do Ouriço",
         "text": "Foco no cruzamento de paixão, excelência e economia.",
         "points": [
-          "Paixão",
-          "Melhor",
-          "Economia"
+          {
+            "t": "Paixão",
+            "e": "Foco no cruzamento de paixão, excelência e economia.",
+            "f": "O Conceito do Ouriço: o que você pode ser o melhor do mundo?",
+            "real": true
+          },
+          {
+            "t": "Melhor",
+            "e": "Foco no cruzamento de paixão, excelência e economia.",
+            "f": "Na visão de Jim Collins, \"melhor\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Economia",
+            "e": "Foco no cruzamento de paixão, excelência e economia.",
+            "f": "Na visão de Jim Collins, \"economia\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Cultura de disciplina",
         "text": "Pessoas disciplinadas em estrutura livre.",
         "points": [
-          "Disciplina",
-          "Liberdade",
-          "Foco"
+          {
+            "t": "Disciplina",
+            "e": "Pessoas disciplinadas em estrutura livre.",
+            "f": "Na visão de Jim Collins, \"disciplina\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Pessoas disciplinadas em estrutura livre.",
+            "f": "Na visão de Jim Collins, \"liberdade\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "Pessoas disciplinadas em estrutura livre.",
+            "f": "Na visão de Jim Collins, \"foco\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O papel da tecnologia",
         "text": "Tech como acelerador, não causa da excelência.",
         "points": [
-          "Acelerador",
-          "Ordem",
-          "Limite"
+          {
+            "t": "Acelerador",
+            "e": "Tech como acelerador, não causa da excelência.",
+            "f": "Na visão de Jim Collins, \"acelerador\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Ordem",
+            "e": "Tech como acelerador, não causa da excelência.",
+            "f": "Na visão de Jim Collins, \"ordem\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Limite",
+            "e": "Tech como acelerador, não causa da excelência.",
+            "f": "Na visão de Jim Collins, \"limite\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A alavanca do acelerador",
         "text": "Por que a \"alavanca mágica\" falha e o flywheel funciona.",
         "points": [
-          "Alavanca",
-          "Flywheel",
-          "Momentum"
+          {
+            "t": "Alavanca",
+            "e": "Por que a \"alavanca mágica\" falha e o flywheel funciona.",
+            "f": "A excelência é uma trajetória de flywheel, não de alavanca.",
+            "real": true
+          },
+          {
+            "t": "Flywheel",
+            "e": "Por que a \"alavanca mágica\" falha e o flywheel funciona.",
+            "f": "Na visão de Jim Collins, \"flywheel\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Momentum",
+            "e": "Por que a \"alavanca mágica\" falha e o flywheel funciona.",
+            "f": "Na visão de Jim Collins, \"momentum\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O Paradoxo de Stockdale",
         "text": "Enfrentar a realidade brutal sem perder a fé.",
         "points": [
-          "Realidade",
-          "Fé",
-          "Paradoxo"
+          {
+            "t": "Realidade",
+            "e": "Enfrentar a realidade brutal sem perder a fé.",
+            "f": "Você deve enfrentar os fatos brutais da realidade, não importa quão dolorosos.",
+            "real": true
+          },
+          {
+            "t": "Fé",
+            "e": "Enfrentar a realidade brutal sem perder a fé.",
+            "f": "Na visão de Jim Collins, \"fé\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Paradoxo",
+            "e": "Enfrentar a realidade brutal sem perder a fé.",
+            "f": "Na visão de Jim Collins, \"paradoxo\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Da boa à grande",
         "text": "Síntese dos princípios e o caminho de décadas.",
         "points": [
-          "Síntese",
-          "Tempo",
-          "Disciplina"
+          {
+            "t": "Síntese",
+            "e": "Síntese dos princípios e o caminho de décadas.",
+            "f": "Na visão de Jim Collins, \"síntese\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Tempo",
+            "e": "Síntese dos princípios e o caminho de décadas.",
+            "f": "Na visão de Jim Collins, \"tempo\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina",
+            "e": "Síntese dos princípios e o caminho de décadas.",
+            "f": "Na visão de Jim Collins, \"disciplina\" é parte essencial da proposta de \"Empresas Feitas para Vencer\".",
+            "real": false
+          }
         ]
       }
     ]
