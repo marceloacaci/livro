@@ -17380,5 +17380,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Âncora."
       }
     ]
+  },
+  {
+    "id": "bogle",
+    "slug": "o-pequeno-livro-do-senso-comum",
+    "title": "The Little Book of Common Sense Investing",
+    "titlePt": "O Pequeno Livro do Senso Comum",
+    "author": "John C. Bogle",
+    "year": "2007",
+    "editionYear": "2017",
+    "publisher": "Wiley / Pearson",
+    "pages": "240",
+    "genre": "Finanças / Investimentos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/bogle-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Índice vence",
+        "text": "Fundos passivos batem ativos.",
+        "reflection": "Você paga para perder?"
+      },
+      {
+        "type": "myth",
+        "title": "Gerente supera",
+        "text": "Maioria perde do mercado.",
+        "reflection": "Você confia em guru?"
+      },
+      {
+        "type": "truth",
+        "title": "Custo corrói",
+        "text": "Taxa baixa mantém retorno.",
+        "reflection": "Você olha custo?"
+      },
+      {
+        "type": "myth",
+        "title": "Taxa não importa",
+        "text": "Longo prazo amplia perda.",
+        "reflection": "Você ignora taxa?"
+      },
+      {
+        "type": "truth",
+        "title": "Tempo no mercado",
+        "text": "Ficar vence tempo.",
+        "reflection": "Você tenta acertar?"
+      },
+      {
+        "type": "myth",
+        "title": "Escolher hora",
+        "text": "Mercado não prevê.",
+        "reflection": "Você tenta timer?"
+      }
+    ],
+    "summary": "John Bogle, fundador da Vanguard, defende investir em fundos indexados de baixo custo e manter no longo prazo, deixando o mercado trabalhar por você.",
+    "color": "#2980b9",
+    "file": "livro.html#o-pequeno-livro-do-senso-comum",
+    "citacoes": [
+      {
+        "texto": "Não tente vencer o mercado; possua o mercado.",
+        "autor": "John Bogle",
+        "obra": "Little Book of Common Sense Investing"
+      },
+      {
+        "texto": "Custos baixos são a única vantagem garantida.",
+        "autor": "John Bogle",
+        "obra": "Little Book of Common Sense Investing"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pai dos fundos indexados.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Índice",
+        "text": "Mercado inteiro, baixo custo.",
+        "explicacoes": [
+          "Diversifica.",
+          "Custo baixo.",
+          "Bate maioria."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Fique",
+        "text": "Décadas, não dias.",
+        "explicacoes": [
+          "Juros compostos.",
+          "Emoção fora.",
+          "Real colhe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Custo baixo",
+        "text": "Taxa come retorno.",
+        "explicacoes": [
+          "Poupar taxa.",
+          "Mais sobra.",
+          "Longo paga."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Índice",
+        "texto": "Passivo."
+      },
+      {
+        "titulo": "Ficar",
+        "texto": "Longo."
+      },
+      {
+        "titulo": "Custo",
+        "texto": "Importa."
+      }
+    ]
+  },
+  {
+    "id": "graham",
+    "slug": "o-investidor-inteligente",
+    "title": "The Intelligent Investor",
+    "titlePt": "O Investidor Inteligente",
+    "author": "Benjamin Graham",
+    "year": "1949",
+    "editionYear": "2003",
+    "publisher": "HarperBusiness / Nova Fronteira",
+    "pages": "640",
+    "genre": "Finanças / Investimentos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/graham-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Margem de segurança",
+        "text": "Compre com folga de preço.",
+        "reflection": "Você paga caro?"
+      },
+      {
+        "type": "myth",
+        "title": "Prever mercado",
+        "text": "Ninguém prevê.",
+        "reflection": "Você acha que prevê?"
+      },
+      {
+        "type": "truth",
+        "title": "Sr. Mercado",
+        "text": "Use volatilidade a favor.",
+        "reflection": "Você deixa emoção mandar?"
+      },
+      {
+        "type": "myth",
+        "title": "Dica vale",
+        "text": "Análise própria manda.",
+        "reflection": "Você segue dica?"
+      },
+      {
+        "type": "truth",
+        "title": "Investidor não especulador",
+        "text": "Dono, não apostador.",
+        "reflection": "Você é dono?"
+      },
+      {
+        "type": "myth",
+        "title": "Rápido enriquece",
+        "text": "Disciplina no longo.",
+        "reflection": "Você quer rápido?"
+      }
+    ],
+    "summary": "Benjamin Graham estabelece os princípios do investimento em valor: margem de segurança, análise e postura de dono, não de especulador.",
+    "color": "#27ae60",
+    "file": "livro.html#o-investidor-inteligente",
+    "citacoes": [
+      {
+        "texto": "O investimento é mais sobre gerenciar risco que sobre gerar retorno.",
+        "autor": "Benjamin Graham",
+        "obra": "The Intelligent Investor"
+      },
+      {
+        "texto": "Margem de segurança é o segredo.",
+        "autor": "Benjamin Graham",
+        "obra": "The Intelligent Investor"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Melhor livro de investimento já escrito, segundo Buffett.",
+        "autor": "Buffett",
+        "fonte": "Prefácio"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Margem segurança",
+        "text": "Preço abaixo do valor.",
+        "explicacoes": [
+          "Protege queda.",
+          "Compra bem.",
+          "Dorme."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Sr. Mercado",
+        "text": "Volatilidade é oportunidade.",
+        "explicacoes": [
+          "Emoção fora.",
+          "Barato aproveita.",
+          "Vende caro."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Seja dono",
+        "text": "Analise como negócio.",
+        "explicacoes": [
+          "Dica sai.",
+          "Razão manda.",
+          "Longo dura."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Margem",
+        "texto": "Segurança."
+      },
+      {
+        "titulo": "Mercado",
+        "texto": "Oportunidade."
+      },
+      {
+        "titulo": "Dono",
+        "texto": "Analisa."
+      }
+    ]
+  },
+  {
+    "id": "malkiel",
+    "slug": "um-passo-a-frente-de-wall-street",
+    "title": "A Random Walk Down Wall Street",
+    "titlePt": "Um Passo à Frente de Wall Street",
+    "author": "Burton G. Malkiel",
+    "year": "1973",
+    "editionYear": "2019",
+    "publisher": "W. W. Norton / Campus",
+    "pages": "496",
+    "genre": "Finanças / Investimentos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/malkiel-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mercado eficiente",
+        "text": "Preço reflete info.",
+        "reflection": "Você acha que bate?"
+      },
+      {
+        "type": "myth",
+        "title": "Chart vence",
+        "text": "Técnico não supera.",
+        "reflection": "Você usa gráfico?"
+      },
+      {
+        "type": "truth",
+        "title": "Índice simples",
+        "text": "Passivo bate ativo.",
+        "reflection": "Você paga gestor?"
+      },
+      {
+        "type": "myth",
+        "title": "Dica certa",
+        "text": "Sorte, não skill.",
+        "reflection": "Você confia em dica?"
+      },
+      {
+        "type": "truth",
+        "title": "Rebalancear",
+        "text": "Voltar à alocação.",
+        "reflection": "Você rebalanceia?"
+      },
+      {
+        "type": "myth",
+        "title": "Tempo certo",
+        "text": "No mercado vence.",
+        "reflection": "Você tenta timer?"
+      }
+    ],
+    "summary": "Burton Malkiel argumenta que tentar superar o mercado via análise técnica ou fundamental é inútil para a maioria, e defende diversificação em índices.",
+    "color": "#8e44ad",
+    "file": "livro.html#um-passo-a-frente-de-wall-street",
+    "citacoes": [
+      {
+        "texto": "A única certeza é que o investidor passivo vence a maioria.",
+        "autor": "Burton Malkiel",
+        "obra": "A Random Walk Down Wall Street"
+      },
+      {
+        "texto": "Não existe almoço grátis no mercado.",
+        "autor": "Burton Malkiel",
+        "obra": "A Random Walk Down Wall Street"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Clássico da finança acadêmica.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Índice",
+        "text": "Mercado, baixo custo.",
+        "explicacoes": [
+          "Diversifica.",
+          "Bate ativo.",
+          "Custo baixo."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Rebalanceie",
+        "text": "Ajuste anual.",
+        "explicacoes": [
+          "Risco controla.",
+          "Compra barato.",
+          "Vende caro."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Ignora ruído",
+        "text": "Dica e gráfico não vencem.",
+        "explicacoes": [
+          "Foco longo.",
+          "Custo baixo.",
+          "Real colhe."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Índice",
+        "texto": "Passivo."
+      },
+      {
+        "titulo": "Rebalancear",
+        "texto": "Ajusta."
+      },
+      {
+        "titulo": "Ruído",
+        "texto": "Ignora."
+      }
+    ]
+  },
+  {
+    "id": "klarman",
+    "slug": "margem-de-seguranca",
+    "title": "Margin of Safety",
+    "titlePt": "Margem de Segurança: Filosofia de Investimento em Valor de Mercado",
+    "author": "Seth A. Klarman",
+    "year": "1991",
+    "editionYear": "2011",
+    "publisher": "HarperCollins / Instituto Standard",
+    "pages": "280",
+    "genre": "Finanças / Investimentos",
+    "language": "Inglês",
+    "copiesSold": "Raro (usado caro)",
+    "cover": "img/klarman-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Margem ampla",
+        "text": "Folga grande contra erro.",
+        "reflection": "Você compra apertado?"
+      },
+      {
+        "type": "myth",
+        "title": "Mercado sempre certo",
+        "text": "Preço erra muito.",
+        "reflection": "Você segue preço?"
+      },
+      {
+        "type": "truth",
+        "title": "Risco primeiro",
+        "text": "Preservar antes de ganhar.",
+        "reflection": "Você foca retorno?"
+      },
+      {
+        "type": "myth",
+        "title": "Alavancar vale",
+        "text": "Alavanca destrói.",
+        "reflection": "Você usa alavanca?"
+      },
+      {
+        "type": "truth",
+        "title": "Paciência paga",
+        "text": "Esperar oportunidade.",
+        "reflection": "Você compra qualquer dia?"
+      },
+      {
+        "type": "myth",
+        "title": "Tudo analisar",
+        "text": "Ficar de fora é ok.",
+        "reflection": "Você se obriga a comprar?"
+      }
+    ],
+    "summary": "Seth Klarman detalha a filosofia de valor com margem de segurança ampla, foco em risco e paciência para agir só quando a margem existe.",
+    "color": "#d35400",
+    "file": "livro.html#margem-de-seguranca",
+    "citacoes": [
+      {
+        "texto": "Valor é o que você paga, preço é o que você recebe.",
+        "autor": "Seth Klarman",
+        "obra": "Margin of Safety"
+      },
+      {
+        "texto": "A margem de segurança protege contra erro e azar.",
+        "autor": "Seth Klarman",
+        "obra": "Margin of Safety"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Livro de investimento mais caro do usado.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Margem ampla",
+        "text": "Folga grande no preço.",
+        "explicacoes": [
+          "Erro tolera.",
+          "Queda protege.",
+          "Dorme."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Risco primeiro",
+        "text": "Preservar capital.",
+        "explicacoes": [
+          "Retorno depois.",
+          "Sobrevive.",
+          "Longo dura."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Paciência",
+        "text": "Só com margem.",
+        "explicacoes": [
+          "Fora é ok.",
+          "Oportunidade espera.",
+          "Disciplina sobe."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Margem",
+        "texto": "Ampla."
+      },
+      {
+        "titulo": "Risco",
+        "texto": "Primeiro."
+      },
+      {
+        "titulo": "Paciência",
+        "texto": "Espera."
+      }
+    ]
+  },
+  {
+    "id": "lynch",
+    "slug": "um-investidor-antes-de-tudo",
+    "title": "One Up on Wall Street",
+    "titlePt": "Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado",
+    "author": "Peter Lynch",
+    "year": "1989",
+    "editionYear": "2000",
+    "publisher": "Simon & Schuster / Campus",
+    "pages": "304",
+    "genre": "Finanças / Investimentos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/lynch-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Você sabe antes",
+        "text": "Vida dá dicas reais.",
+        "reflection": "Você usa o que vê?"
+      },
+      {
+        "type": "myth",
+        "title": "Precisa de guru",
+        "text": "Sua observação vale.",
+        "reflection": "Você espera especialista?"
+      },
+      {
+        "type": "truth",
+        "title": "Categoria ajuda",
+        "text": "Tipo de ação guia.",
+        "reflection": "Você classifica?"
+      },
+      {
+        "type": "myth",
+        "title": "Prever economia",
+        "text": "Empresa importa.",
+        "reflection": "Você prevê macro?"
+      },
+      {
+        "type": "truth",
+        "title": "Pesquise a empresa",
+        "text": "Conhecer o negócio.",
+        "reflection": "Você compra sem saber?"
+      },
+      {
+        "type": "myth",
+        "title": "Dividendo só",
+        "text": "Crescimento também conta.",
+        "reflection": "Você só olha yield?"
+      }
+    ],
+    "summary": "Peter Lynch ensina o investidor comum a usar o que já observa no dia a dia para encontrar boas empresas antes de Wall Street.",
+    "color": "#16a085",
+    "file": "livro.html#um-investidor-antes-de-tudo",
+    "citacoes": [
+      {
+        "texto": "Conheça a empresa antes de comprar a ação.",
+        "autor": "Peter Lynch",
+        "obra": "One Up on Wall Street"
+      },
+      {
+        "texto": "O investidor comum tem vantagem sobre os pros.",
+        "autor": "Peter Lynch",
+        "obra": "One Up on Wall Street"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Clássico de investimento para leigos.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Use o que vê",
+        "text": "Vida é fonte de ideia.",
+        "explicacoes": [
+          "Antes do mercado.",
+          "Real observa.",
+          "Vantagem sua."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Conheça empresa",
+        "text": "Negócio antes de ação.",
+        "explicacoes": [
+          "Risco cai.",
+          "Decisão clara.",
+          "Dorme."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Categorize",
+        "text": "Tipo guia a expectativa.",
+        "explicacoes": [
+          "Ciclo entende.",
+          "Paciência certa.",
+          "Resultado vem."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Observar",
+        "texto": "Vantagem."
+      },
+      {
+        "titulo": "Empresa",
+        "texto": "Conhecer."
+      },
+      {
+        "titulo": "Categoria",
+        "texto": "Guia."
+      }
+    ]
+  },
+  {
+    "id": "dalio",
+    "slug": "principios",
+    "title": "Principles",
+    "titlePt": "Princípios: Vida e Trabalho",
+    "author": "Ray Dalio",
+    "year": "2017",
+    "editionYear": "2018",
+    "publisher": "Simon & Schuster / Objetiva",
+    "pages": "592",
+    "genre": "Finanças / Princípios",
+    "language": "Inglês",
+    "copiesSold": "Mais de 5 milhões",
+    "cover": "img/dalio-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Sistema de princípios",
+        "text": "Regras claras guiam.",
+        "reflection": "Você tem princípios?"
+      },
+      {
+        "type": "myth",
+        "title": "Intuição basta",
+        "text": "Sistema bate feeling.",
+        "reflection": "Você decide no feeling?"
+      },
+      {
+        "type": "truth",
+        "title": "Falha é dado",
+        "text": "Erro ajusta princípio.",
+        "reflection": "Você esconde erro?"
+      },
+      {
+        "type": "myth",
+        "title": "Ter razão",
+        "text": "Achar melhor importa.",
+        "reflection": "Você defende ego?"
+      },
+      {
+        "type": "truth",
+        "title": "Radicalmente aberto",
+        "text": "Ouvir crítica melhora.",
+        "reflection": "Você ouve?"
+      },
+      {
+        "type": "myth",
+        "title": "Controle tudo",
+        "text": "Máquina decide melhor.",
+        "reflection": "Você quer mandar?"
+      }
+    ],
+    "summary": "Ray Dalio compartilha os princípios que regem sua vida e o Bridgewater: decisões baseadas em sistemas, erro como dado e mente radicalmente aberta.",
+    "color": "#c0392b",
+    "file": "livro.html#principios",
+    "citacoes": [
+      {
+        "texto": "Dê o poder a uma máquina bem desenhada, não ao seu ego.",
+        "autor": "Ray Dalio",
+        "obra": "Principles"
+      },
+      {
+        "texto": "A dor + reflexão = progresso.",
+        "autor": "Ray Dalio",
+        "obra": "Principles"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Maior fundo de hedge do mundo por trás.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Princípios",
+        "text": "Regras escritas.",
+        "explicacoes": [
+          "Decisão clara.",
+          "Repete certo.",
+          "Escala."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Erro é dado",
+        "text": "Ajuste o sistema.",
+        "explicacoes": [
+          "Melhora.",
+          "Não culpa.",
+          "Evolui."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Mente aberta",
+        "text": "Ouvir para decidir bem.",
+        "explicacoes": [
+          "Viés cai.",
+          "Melhor sai.",
+          "Time sobe."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Princípios",
+        "texto": "Sistema."
+      },
+      {
+        "titulo": "Erro",
+        "texto": "Dado."
+      },
+      {
+        "titulo": "Aberto",
+        "texto": "Ouvir."
+      }
+    ]
+  },
+  {
+    "id": "marks",
+    "slug": "o-mais-importante-para-o-investidor",
+    "title": "The Most Important Thing",
+    "titlePt": "O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais",
+    "author": "Howard Marks",
+    "year": "2011",
+    "editionYear": "2012",
+    "publisher": "Columbia Business School / Instituto Standard",
+    "pages": "208",
+    "genre": "Finanças / Investimentos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/marks-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Segundo nível",
+        "text": "Pensar além do óbvio.",
+        "reflection": "Você pensa diferente?"
+      },
+      {
+        "type": "myth",
+        "title": "Consenso ganha",
+        "text": "Maioria não supera.",
+        "reflection": "Você segue manada?"
+      },
+      {
+        "type": "truth",
+        "title": "Risco é ciclo",
+        "text": "Onde no ciclo importa.",
+        "reflection": "Você nota o ciclo?"
+      },
+      {
+        "type": "myth",
+        "title": "Seguro rende",
+        "text": "Segurança exige preço.",
+        "reflection": "Você paga caro por seguro?"
+      },
+      {
+        "type": "truth",
+        "title": "Contra a manada",
+        "text": "Oportunidade no extremo.",
+        "reflection": "Você compra quando todos vendem?"
+      },
+      {
+        "type": "myth",
+        "title": "Prever tudo",
+        "text": "Ciclo basta ler.",
+        "reflection": "Você acha que sabe tudo?"
+      }
+    ],
+    "summary": "Howard Marks reúne memos sobre o que realmente importa no investimento: pensamento de segunda ordem, ciclos de risco e deslocamento da manada.",
+    "color": "#2980b9",
+    "file": "livro.html#o-mais-importante-para-o-investidor",
+    "citacoes": [
+      {
+        "texto": "O mais importante é o pensamento de segunda ordem.",
+        "autor": "Howard Marks",
+        "obra": "The Most Important Thing"
+      },
+      {
+        "texto": "É impossível prever, mas é essencial se preparar para o ciclo.",
+        "autor": "Howard Marks",
+        "obra": "The Most Important Thing"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Compilado de memos de investimento.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Segunda ordem",
+        "text": "Pensar além do óbvio.",
+        "explicacoes": [
+          "Borda real.",
+          "Manada sai.",
+          "Vantagem."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Ciclo",
+        "text": "Onde está importa.",
+        "explicacoes": [
+          "Risco lê.",
+          "Preço certo.",
+          "Tempo ajuda."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Contra mão",
+        "text": "Extremo é chance.",
+        "explicacoes": [
+          "Medo aproveita.",
+          "Cobiça foge.",
+          "Compra bem."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Segunda ordem",
+        "texto": "Diferente."
+      },
+      {
+        "titulo": "Ciclo",
+        "texto": "Ler."
+      },
+      {
+        "titulo": "Contra",
+        "texto": "Chance."
+      }
+    ]
+  },
+  {
+    "id": "ellis",
+    "slug": "vencendo-o-jogo-dos-perdedores",
+    "title": "Winning the Loser's Game",
+    "titlePt": "Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer",
+    "author": "Charles D. Ellis",
+    "year": "1985",
+    "editionYear": "2017",
+    "publisher": "McGraw-Hill / Campus",
+    "pages": "224",
+    "genre": "Finanças / Investimentos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/ellis-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Jogo é perdedor",
+        "text": "Tentar vencer custa.",
+        "reflection": "Você tenta vencer?"
+      },
+      {
+        "type": "myth",
+        "title": "Bater mercado",
+        "text": "Plano passivo melhor.",
+        "reflection": "Você paga para tentar?"
+      },
+      {
+        "type": "truth",
+        "title": "Política de ativo",
+        "text": "Alocação decide tudo.",
+        "reflection": "Você tem plano?"
+      },
+      {
+        "type": "myth",
+        "title": "Escolha ação",
+        "text": "Asset allocation reina.",
+        "reflection": "Você foca em ação?"
+      },
+      {
+        "type": "truth",
+        "title": "Disciplina longa",
+        "text": "Plano e fique.",
+        "reflection": "Você muda todo dia?"
+      },
+      {
+        "type": "myth",
+        "title": "Ativo vence",
+        "text": "Custo derruba ativo.",
+        "reflection": "Você ignora custo?"
+      }
+    ],
+    "summary": "Charles Ellis mostra que o investimento é um 'jogo de perdedores' onde tentar superar o mercado raramente compensa; o segredo é política de ativos e disciplina.",
+    "color": "#27ae60",
+    "file": "livro.html#vencendo-o-jogo-dos-perdedores",
+    "citacoes": [
+      {
+        "texto": "Para a maioria, o jogo é perder tentando vencer.",
+        "autor": "Charles Ellis",
+        "obra": "Winning the Loser's Game"
+      },
+      {
+        "texto": "A alocação de ativos explica a maior parte do retorno.",
+        "autor": "Charles Ellis",
+        "obra": "Winning the Loser's Game"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Clássico de estratégia de longo prazo.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Política ativo",
+        "text": "Plano de alocação.",
+        "explicacoes": [
+          "Decide retorno.",
+          "Risco controla.",
+          "Clareza."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Não tente vencer",
+        "text": "Passivo bate.",
+        "explicacoes": [
+          "Custo baixo.",
+          "Tempo ajuda.",
+          "Real colhe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Disciplina",
+        "text": "Fique no plano.",
+        "explicacoes": [
+          "Emoção fora.",
+          "Rebalanceia.",
+          "Longo dura."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Alocação",
+        "texto": "Plano."
+      },
+      {
+        "titulo": "Não vencer",
+        "texto": "Passivo."
+      },
+      {
+        "titulo": "Disciplina",
+        "texto": "Fica."
+      }
+    ]
   }
 ];
