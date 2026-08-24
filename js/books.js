@@ -56003,62 +56003,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "A equação do limite",
-        "text": "Limite = (Potencial - Crença) / Método; mude crença e método."
+        "text": "Limite = (Potencial - Crença) / Método; mude crença e método.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"A equação do limite\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Limite = (Potencial - Crença) / Método; mude crença e método — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"A equação do limite\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Ninguém é ruim de aprender",
-        "text": "Quase todos foram mal treinados; capacidade existe."
+        "text": "Quase todos foram mal treinados; capacidade existe.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Ninguém é ruim de aprender\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Quase todos foram mal treinados; capacidade existe — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ninguém é ruim de aprender\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Vencedores dos inimigos",
-        "text": "Digital, material e pessoal sabotam o aprendizado; identifique-os."
+        "text": "Digital, material e pessoal sabotam o aprendizado; identifique-os.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Vencedores dos inimigos\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Digital, material e pessoal sabotam o aprendizado; identifique-os — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Vencedores dos inimigos\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Treine o foco",
-        "text": "Atenção é músculo; ambiente e hábito definem a concentração."
+        "text": "Atenção é músculo; ambiente e hábito definem a concentração.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Treine o foco\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Atenção é músculo; ambiente e hábito definem a concentração — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine o foco\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Leitura rápida",
-        "text": "Técnica de aceleração com retenção supera a leitura arrastada."
+        "text": "Técnica de aceleração com retenção supera a leitura arrastada.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Leitura rápida\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Técnica de aceleração com retenção supera a leitura arrastada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Leitura rápida\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Palácio da memória",
-        "text": "Ancore informação em espaços conhecidos para recordar."
+        "text": "Ancore informação em espaços conhecidos para recordar.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Palácio da memória\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Ancore informação em espaços conhecidos para recordar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Palácio da memória\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Corpo nutre mente",
-        "text": "Sono, água e movimento são parte do método de aprender."
+        "text": "Sono, água e movimento são parte do método de aprender.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Corpo nutre mente\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Sono, água e movimento são parte do método de aprender — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Corpo nutre mente\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Ambiente importa",
-        "text": "Meio digital, material e pessoal apoiam ou sabotam o foco."
+        "text": "Meio digital, material e pessoal apoiam ou sabotam o foco.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Ambiente importa\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Meio digital, material e pessoal apoiam ou sabotam o foco — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ambiente importa\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Mude a crença",
-        "text": "Frases limitantes viram profecia; reescreva a fala interna."
+        "text": "Frases limitantes viram profecia; reescreva a fala interna.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Mude a crença\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Frases limitantes viram profecia; reescreva a fala interna — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mude a crença\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Cérebro é músculo",
-        "text": "Treinado, cresce; prática deliberada expande a capacidade."
+        "text": "Treinado, cresce; prática deliberada expande a capacidade.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Cérebro é músculo\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Treinado, cresce; prática deliberada expande a capacidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cérebro é músculo\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Foco profundo",
-        "text": "Sem distração, o aprendizado se consolida de verdade."
+        "text": "Sem distração, o aprendizado se consolida de verdade.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Foco profundo\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Sem distração, o aprendizado se consolida de verdade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foco profundo\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Método sobre talento",
-        "text": "Repetição e técnica explicam o gênio mais que dom isolado."
+        "text": "Repetição e técnica explicam o gênio mais que dom isolado.",
+        "explicacoes": [
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Método sobre talento\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
+          "Na prática: Repetição e técnica explicam o gênio mais que dom isolado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Método sobre talento\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -56080,81 +56140,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Equação do Limite",
         "text": "Kwik apresenta Limite = (Potencial - Crença) / Método.",
         "points": [
-          "Equação",
-          "Crença",
-          "Método"
+          {
+            "t": "Equação",
+            "e": "Kwik apresenta Limite = (Potencial - Crença) / Método.",
+            "f": "Limite é igual a potencialidade menos crenças, dividido pelo método.",
+            "real": true
+          },
+          {
+            "t": "Crença",
+            "e": "Kwik apresenta Limite = (Potencial - Crença) / Método.",
+            "f": "Na visão de Jim Kwik, \"crença\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Método",
+            "e": "Kwik apresenta Limite = (Potencial - Crença) / Método.",
+            "f": "Na visão de Jim Kwik, \"método\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Os Inimigos",
         "text": "Digital, material e pessoal sabotam o aprendizado diário.",
         "points": [
-          "Digital",
-          "Material",
-          "Pessoal"
+          {
+            "t": "Digital",
+            "e": "Digital, material e pessoal sabotam o aprendizado diário.",
+            "f": "Na visão de Jim Kwik, \"digital\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Material",
+            "e": "Digital, material e pessoal sabotam o aprendizado diário.",
+            "f": "Na visão de Jim Kwik, \"material\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Pessoal",
+            "e": "Digital, material e pessoal sabotam o aprendizado diário.",
+            "f": "Na visão de Jim Kwik, \"pessoal\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Cérebro Músculo",
         "text": "Treinado com método, a capacidade se expande.",
         "points": [
-          "Músculo",
-          "Treino",
-          "Expansão"
+          {
+            "t": "Músculo",
+            "e": "Treinado com método, a capacidade se expande.",
+            "f": "Seu cérebro é um músculo; treinado da maneira certa, ele cresce.",
+            "real": true
+          },
+          {
+            "t": "Treino",
+            "e": "Treinado com método, a capacidade se expande.",
+            "f": "Na visão de Jim Kwik, \"treino\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Expansão",
+            "e": "Treinado com método, a capacidade se expande.",
+            "f": "Na visão de Jim Kwik, \"expansão\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Foco Profundo",
         "text": "Atenção é treinável; distração anula o aprendizado.",
         "points": [
-          "Foco",
-          "Distração",
-          "Treino"
+          {
+            "t": "Foco",
+            "e": "Atenção é treinável; distração anula o aprendizado.",
+            "f": "A distração é o assassino do aprendizado profundo.",
+            "real": true
+          },
+          {
+            "t": "Distração",
+            "e": "Atenção é treinável; distração anula o aprendizado.",
+            "f": "Na visão de Jim Kwik, \"distração\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Treino",
+            "e": "Atenção é treinável; distração anula o aprendizado.",
+            "f": "Na visão de Jim Kwik, \"treino\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Leitura Rápida",
         "text": "Técnica de aceleração com retenção supera o arrastado.",
         "points": [
-          "Velocidade",
-          "Retenção",
-          "Técnica"
+          {
+            "t": "Velocidade",
+            "e": "Técnica de aceleração com retenção supera o arrastado.",
+            "f": "Na visão de Jim Kwik, \"velocidade\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Retenção",
+            "e": "Técnica de aceleração com retenção supera o arrastado.",
+            "f": "Na visão de Jim Kwik, \"retenção\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Técnica",
+            "e": "Técnica de aceleração com retenção supera o arrastado.",
+            "f": "Na visão de Jim Kwik, \"técnica\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Palácio da Memória",
         "text": "Ancorar info em lugares conhecidos dispara a recordação.",
         "points": [
-          "Ancorar",
-          "Lugares",
-          "Recordar"
+          {
+            "t": "Ancorar",
+            "e": "Ancorar info em lugares conhecidos dispara a recordação.",
+            "f": "Não existe pessoa ruim de memória, existe pessoa que não foi ensinada a usá-la.",
+            "real": true
+          },
+          {
+            "t": "Lugares",
+            "e": "Ancorar info em lugares conhecidos dispara a recordação.",
+            "f": "Na visão de Jim Kwik, \"lugares\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Recordar",
+            "e": "Ancorar info em lugares conhecidos dispara a recordação.",
+            "f": "Na visão de Jim Kwik, \"recordar\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Corpo e Mente",
         "text": "Sono, água e movimento são parte do método de aprender.",
         "points": [
-          "Sono",
-          "Água",
-          "Movimento"
+          {
+            "t": "Sono",
+            "e": "Sono, água e movimento são parte do método de aprender.",
+            "f": "Na visão de Jim Kwik, \"sono\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Água",
+            "e": "Sono, água e movimento são parte do método de aprender.",
+            "f": "Na visão de Jim Kwik, \"água\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Movimento",
+            "e": "Sono, água e movimento são parte do método de aprender.",
+            "f": "Na visão de Jim Kwik, \"movimento\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Ambiente",
         "text": "Meio digital, material e pessoal apoiam ou sabotam o foco.",
         "points": [
-          "Meio",
-          "Apoio",
-          "Sabotagem"
+          {
+            "t": "Meio",
+            "e": "Meio digital, material e pessoal apoiam ou sabotam o foco.",
+            "f": "Na visão de Jim Kwik, \"meio\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Apoio",
+            "e": "Meio digital, material e pessoal apoiam ou sabotam o foco.",
+            "f": "Na visão de Jim Kwik, \"apoio\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Sabotagem",
+            "e": "Meio digital, material e pessoal apoiam ou sabotam o foco.",
+            "f": "Na visão de Jim Kwik, \"sabotagem\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Sem Limites",
         "text": "Mudar crença e adotar método derruba o teto da performance.",
         "points": [
-          "Crença",
-          "Método",
-          "Performance"
+          {
+            "t": "Crença",
+            "e": "Mudar crença e adotar método derruba o teto da performance.",
+            "f": "Na visão de Jim Kwik, \"crença\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          },
+          {
+            "t": "Método",
+            "e": "Mudar crença e adotar método derruba o teto da performance.",
+            "f": "Limite é igual a potencialidade menos crenças, dividido pelo método.",
+            "real": true
+          },
+          {
+            "t": "Performance",
+            "e": "Mudar crença e adotar método derruba o teto da performance.",
+            "f": "Na visão de Jim Kwik, \"performance\" é parte essencial da proposta de \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -56274,57 +56469,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Leia a lei todo dia",
-        "text": "Repita a mensagem escolhida em voz alta todas as manhãs e noites até virar costume."
+        "text": "Repita a mensagem escolhida em voz alta todas as manhãs e noites até virar costume.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Leia a lei todo dia\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: Repita a mensagem escolhida em voz alta todas as manhãs e noites até virar costume — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Leia a lei todo dia\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Ame antes de agir",
-        "text": "A fundação de qualquer conquista é a boa vontade sincera para com os outros e consigo."
+        "text": "A fundação de qualquer conquista é a boa vontade sincera para com os outros e consigo.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Ame antes de agir\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: A fundação de qualquer conquista é a boa vontade sincera para com os outros e consigo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ame antes de agir\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Persista até virar hábito",
-        "text": "A mudança exige centenas de repetições; não avalie pelo primeiro dia."
+        "text": "A mudança exige centenas de repetições; não avalie pelo primeiro dia.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Persista até virar hábito\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: A mudança exige centenas de repetições; não avalie pelo primeiro dia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Persista até virar hábito\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Levante sempre",
-        "text": "Após cada tropeço, o ato de levantar vale mais que a queda anterior."
+        "text": "Após cada tropeço, o ato de levantar vale mais que a queda anterior.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Levante sempre\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: Após cada tropeço, o ato de levantar vale mais que a queda anterior — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Levante sempre\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Pratique a gratidão",
-        "text": "Listar motivos de agradecimento diário desloca a mente da escassez para a abundância."
+        "text": "Listar motivos de agradecimento diário desloca a mente da escassez para a abundância.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Pratique a gratidão\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: Listar motivos de agradecimento diário desloca a mente da escassez para a abundância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a gratidão\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Controle o tempo",
-        "text": "Divida o dia em porções e proteja a primeira para o que importa de verdade."
+        "text": "Divida o dia em porções e proteja a primeira para o que importa de verdade.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Controle o tempo\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: Divida o dia em porções e proteja a primeira para o que importa de verdade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Controle o tempo\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Aja com medo",
-        "text": "A coragem não é ausência de medo, é movimento mesmo sentindo-o."
+        "text": "A coragem não é ausência de medo, é movimento mesmo sentindo-o.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Aja com medo\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: A coragem não é ausência de medo, é movimento mesmo sentindo-o — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja com medo\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Silencie a dúvida",
-        "text": "A voz interna que diz \"não vai dar\" deve ser substituída pela ação imediata."
+        "text": "A voz interna que diz \"não vai dar\" deve ser substituída pela ação imediata.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Silencie a dúvida\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: A voz interna que diz \"não vai dar\" deve ser substituída pela ação imediata — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Silencie a dúvida\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Sirva para receber",
-        "text": "Oferecer valor primeiro cria reciprocidade sólida e duradoura."
+        "text": "Oferecer valor primeiro cria reciprocidade sólida e duradoura.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Sirva para receber\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: Oferecer valor primeiro cria reciprocidade sólida e duradoura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sirva para receber\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Celebre o pequeno",
-        "text": "Reconhecer a vitória mínima mantém acesa a motivação para a próxima."
+        "text": "Reconhecer a vitória mínima mantém acesa a motivação para a próxima.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Celebre o pequeno\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: Reconhecer a vitória mínima mantém acesa a motivação para a próxima — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Celebre o pequeno\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Renove-se todo dia",
-        "text": "Trate cada manhã como um nascimento: ontem acabou, hoje recomeça limpo."
+        "text": "Trate cada manhã como um nascimento: ontem acabou, hoje recomeça limpo.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Renove-se todo dia\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
+          "Na prática: Trate cada manhã como um nascimento: ontem acabou, hoje recomeça limpo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Renove-se todo dia\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "citacoes": [
@@ -56376,64 +56626,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O encontro com o velho",
         "text": "Hafid recebe os pergaminhos de um vendedor próspero e descobre que a riqueza é ensinável.",
         "points": [
-          "A pobreza como estado temporário",
-          "O segredo está nos pergaminhos"
+          {
+            "t": "A pobreza como estado temporário",
+            "e": "Hafid recebe os pergaminhos de um vendedor próspero e descobre que a riqueza é ensinável.",
+            "f": "Na visão de Og Mandino, \"a pobreza como estado temporário\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "O segredo está nos pergaminhos",
+            "e": "Hafid recebe os pergaminhos de um vendedor próspero e descobre que a riqueza é ensinável.",
+            "f": "Na visão de Og Mandino, \"o segredo está nos pergaminhos\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O primeiro pergaminho: ame",
         "text": "A lei da benevolência abre o caminho: ninguém vende a quem não confia.",
         "points": [
-          "Amar como estratégia",
-          "Confiança gera negócio"
+          {
+            "t": "Amar como estratégia",
+            "e": "A lei da benevolência abre o caminho: ninguém vende a quem não confia.",
+            "f": "Na visão de Og Mandino, \"amar como estratégia\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Confiança gera negócio",
+            "e": "A lei da benevolência abre o caminho: ninguém vende a quem não confia.",
+            "f": "Na visão de Og Mandino, \"confiança gera negócio\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A repetição sagrada",
         "text": "Cada lei deve ser lida trinta vezes ao dia por trinta dias para virar costume.",
         "points": [
-          "O cabo de aço do hábito",
-          "Tempo como aliado"
+          {
+            "t": "O cabo de aço do hábito",
+            "e": "Cada lei deve ser lida trinta vezes ao dia por trinta dias para virar costume.",
+            "f": "Comece hoje. Cada dia que eu atraso é um dia perdido, e ao perder um dia, eu quebro o hábito de vencer.",
+            "real": true
+          },
+          {
+            "t": "Tempo como aliado",
+            "e": "Cada lei deve ser lida trinta vezes ao dia por trinta dias para virar costume.",
+            "f": "Na visão de Og Mandino, \"tempo como aliado\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Levante e siga",
         "text": "A queda não encerra a jornada; o ato de levantar é a vitória real.",
         "points": [
-          "A honra na recomeço",
-          "Persistência sobre perfeição"
+          {
+            "t": "A honra na recomeço",
+            "e": "A queda não encerra a jornada; o ato de levantar é a vitória real.",
+            "f": "Fracassar não é vergonha se eu me levantar e sigo em frente. Há mais honra em uma queda e uma recomeço do que em cento passos sem tropeço.",
+            "real": true
+          },
+          {
+            "t": "Persistência sobre perfeição",
+            "e": "A queda não encerra a jornada; o ato de levantar é a vitória real.",
+            "f": "Na visão de Og Mandino, \"persistência sobre perfeição\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A gratidão diária",
         "text": "Agradecer realinha o foco e afasta a mentalidade de escassez.",
         "points": [
-          "Gratidão como lente",
-          "Abundância percebida"
+          {
+            "t": "Gratidão como lente",
+            "e": "Agradecer realinha o foco e afasta a mentalidade de escassez.",
+            "f": "Na visão de Og Mandino, \"gratidão como lente\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Abundância percebida",
+            "e": "Agradecer realinha o foco e afasta a mentalidade de escassez.",
+            "f": "Na visão de Og Mandino, \"abundância percebida\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Aja com medo",
         "text": "A coragem é movimento apesar do pânico; a paralisia é o inimigo.",
         "points": [
-          "Medo como ruído",
-          "Ação como remédio"
+          {
+            "t": "Medo como ruído",
+            "e": "A coragem é movimento apesar do pânico; a paralisia é o inimigo.",
+            "f": "Na visão de Og Mandino, \"medo como ruído\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Ação como remédio",
+            "e": "A coragem é movimento apesar do pânico; a paralisia é o inimigo.",
+            "f": "Na visão de Og Mandino, \"ação como remédio\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Sirva para prosperar",
         "text": "Quem entrega valor primeiro colhe reciprocidade duradoura.",
         "points": [
-          "Servir como alavanca",
-          "Reciprocidade real"
+          {
+            "t": "Servir como alavanca",
+            "e": "Quem entrega valor primeiro colhe reciprocidade duradoura.",
+            "f": "Na visão de Og Mandino, \"servir como alavanca\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Reciprocidade real",
+            "e": "Quem entrega valor primeiro colhe reciprocidade duradoura.",
+            "f": "Na visão de Og Mandino, \"reciprocidade real\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Renove-se amanhã",
         "text": "Cada manhã apaga o ontem; a disciplina recomeça limpa.",
         "points": [
-          "O dia como nascimento",
-          "Recomeço como hábito"
+          {
+            "t": "O dia como nascimento",
+            "e": "Cada manhã apaga o ontem; a disciplina recomeça limpa.",
+            "f": "Na visão de Og Mandino, \"o dia como nascimento\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Recomeço como hábito",
+            "e": "Cada manhã apaga o ontem; a disciplina recomeça limpa.",
+            "f": "Comece hoje. Cada dia que eu atraso é um dia perdido, e ao perder um dia, eu quebro o hábito de vencer.",
+            "real": true
+          }
         ]
       }
     ]
@@ -56553,57 +56883,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Assuma a culpa",
-        "text": "Quando algo falha, pergunte o que você, líder, deixou de fazer ou comunicar."
+        "text": "Quando algo falha, pergunte o que você, líder, deixou de fazer ou comunicar.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Assuma a culpa\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Quando algo falha, pergunte o que você, líder, deixou de fazer ou comunicar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma a culpa\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Simplifique o plano",
-        "text": "Reduza etapas até que qualquer um na linha de frente entenda e execute."
+        "text": "Reduza etapas até que qualquer um na linha de frente entenda e execute.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Simplifique o plano\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Reduza etapas até que qualquer um na linha de frente entenda e execute — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Simplifique o plano\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Descentralize o comando",
-        "text": "Treine sublíderes a decidir; controle central morre sob carga."
+        "text": "Treine sublíderes a decidir; controle central morre sob carga.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Descentralize o comando\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Treine sublíderes a decidir; controle central morre sob carga — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Descentralize o comando\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Planeje, mas flexibilize",
-        "text": "Tenha rota e reserva; o campo reescreve o roteiro toda hora."
+        "text": "Tenha rota e reserva; o campo reescreve o roteiro toda hora.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Planeje, mas flexibilize\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Tenha rota e reserva; o campo reescreve o roteiro toda hora — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje, mas flexibilize\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Priorize com crueldade",
-        "text": "Corte o secundário; foque a energia no pouco que decide o resultado."
+        "text": "Corte o secundário; foque a energia no pouco que decide o resultado.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Priorize com crueldade\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Corte o secundário; foque a energia no pouco que decide o resultado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Priorize com crueldade\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Mantenha frente unida",
-        "text": "Debata à vontade, mas após decidir todos puxam o mesmo barco."
+        "text": "Debata à vontade, mas após decidir todos puxam o mesmo barco.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Mantenha frente unida\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Debata à vontade, mas após decidir todos puxam o mesmo barco — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha frente unida\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Decida sem certeza",
-        "text": "Informação incompleta é a regra; atrase a decisão só se o custo for alto."
+        "text": "Informação incompleta é a regra; atrase a decisão só se o custo for alto.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Decida sem certeza\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Informação incompleta é a regra; atrase a decisão só se o custo for alto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Decida sem certeza\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Cobre alto",
-        "text": "Padrão exigido é sinal de respeito; baixar o nível corrói a equipe."
+        "text": "Padrão exigido é sinal de respeito; baixar o nível corrói a equipe.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Cobre alto\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Padrão exigido é sinal de respeito; baixar o nível corrói a equipe — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cobre alto\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Creia na missão",
-        "text": "Conviction transmite convicção; time sem fé no porquê não sustenta o difícil."
+        "text": "Conviction transmite convicção; time sem fé no porquê não sustenta o difícil.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Creia na missão\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Conviction transmite convicção; time sem fé no porquê não sustenta o difícil — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Creia na missão\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Discipline-se",
-        "text": "Rotina e autocontrole do líder ditam o teto da equipe inteira."
+        "text": "Rotina e autocontrole do líder ditam o teto da equipe inteira.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Discipline-se\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Rotina e autocontrole do líder ditam o teto da equipe inteira — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Discipline-se\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Faça a tarefa humilde",
-        "text": "Estar disposto ao trabalho menor mantém autoridade moral e contato com a realidade."
+        "text": "Estar disposto ao trabalho menor mantém autoridade moral e contato com a realidade.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Faça a tarefa humilde\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
+          "Na prática: Estar disposto ao trabalho menor mantém autoridade moral e contato com a realidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça a tarefa humilde\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "citacoes": [
@@ -56655,64 +57040,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O campo de batalha",
         "text": "A operação em Ramadi mostra por que o comando decide a vida ou a morte.",
         "points": [
-          "Guerra como laboratório",
-          "Erro de líder custa tudo"
+          {
+            "t": "Guerra como laboratório",
+            "e": "A operação em Ramadi mostra por que o comando decide a vida ou a morte.",
+            "f": "Na visão de Jocko Willink e Leif Babin, \"guerra como laboratório\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          },
+          {
+            "t": "Erro de líder custa tudo",
+            "e": "A operação em Ramadi mostra por que o comando decide a vida ou a morte.",
+            "f": "A propriedade extrema exige que líderes assumam a responsabilidade total por tudo em sua esfera de influência.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Propriedade extrema",
         "text": "O princípio central: o líder é dono de cada resultado da equipe.",
         "points": [
-          "Culpar é perder",
-          "Assumir é poder corrigir"
+          {
+            "t": "Culpar é perder",
+            "e": "O princípio central: o líder é dono de cada resultado da equipe.",
+            "f": "A propriedade extrema exige que líderes assumam a responsabilidade total por tudo em sua esfera de influência.",
+            "real": true
+          },
+          {
+            "t": "Assumir é poder corrigir",
+            "e": "O princípio central: o líder é dono de cada resultado da equipe.",
+            "f": "Na visão de Jocko Willink e Leif Babin, \"assumir é poder corrigir\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Nenhuma tarefa é pequena",
         "text": "O comandante que faz o serviço humilde mantém autoridade moral.",
         "points": [
-          "Humildade como poder",
-          "Perto da linha de frente"
+          {
+            "t": "Humildade como poder",
+            "e": "O comandante que faz o serviço humilde mantém autoridade moral.",
+            "f": "Não há más equipes, apenas líderes ruins. E nenhuma equipe pode superar a habilidade ou o compromisso de seu líder.",
+            "real": true
+          },
+          {
+            "t": "Perto da linha de frente",
+            "e": "O comandante que faz o serviço humilde mantém autoridade moral.",
+            "f": "Se você quer ser um líder à frente, deve ser capaz de fazer as tarefas de seus subordinados, não importa quão humildes.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Crer",
         "text": "Convicção do líder contagia; time sem fé não segura o difícil.",
         "points": [
-          "Fé na missão",
-          "Conviction transmite"
+          {
+            "t": "Fé na missão",
+            "e": "Convicção do líder contagia; time sem fé não segura o difícil.",
+            "f": "Na visão de Jocko Willink e Leif Babin, \"fé na missão\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          },
+          {
+            "t": "Conviction transmite",
+            "e": "Convicção do líder contagia; time sem fé não segura o difícil.",
+            "f": "Na visão de Jocko Willink e Leif Babin, \"conviction transmite\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Simplificar",
         "text": "Planos enxutos sobrevivem ao caos; complexidade é inimiga da execução.",
         "points": [
-          "Menos etapas",
-          "Clareza sob fogo"
+          {
+            "t": "Menos etapas",
+            "e": "Planos enxutos sobrevivem ao caos; complexidade é inimiga da execução.",
+            "f": "Na visão de Jocko Willink e Leif Babin, \"menos etapas\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          },
+          {
+            "t": "Clareza sob fogo",
+            "e": "Planos enxutos sobrevivem ao caos; complexidade é inimiga da execução.",
+            "f": "Na visão de Jocko Willink e Leif Babin, \"clareza sob fogo\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Priorizar e executar",
         "text": "Escolher o vital e dizer não ao resto é a decisão do líder.",
         "points": [
-          "Dizer não",
-          "Foco no essencial"
+          {
+            "t": "Dizer não",
+            "e": "Escolher o vital e dizer não ao resto é a decisão do líder.",
+            "f": "Na visão de Jocko Willink e Leif Babin, \"dizer não\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          },
+          {
+            "t": "Foco no essencial",
+            "e": "Escolher o vital e dizer não ao resto é a decisão do líder.",
+            "f": "Na visão de Jocko Willink e Leif Babin, \"foco no essencial\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Frente unida",
         "text": "Debater à vontade, mas alinhar após a decisão mantém a equipe inteira.",
         "points": [
-          "Unidade pós-debate",
-          "Fissura perde"
+          {
+            "t": "Unidade pós-debate",
+            "e": "Debater à vontade, mas alinhar após a decisão mantém a equipe inteira.",
+            "f": "Se você quer ser um líder à frente, deve ser capaz de fazer as tarefas de seus subordinados, não importa quão humildes.",
+            "real": true
+          },
+          {
+            "t": "Fissura perde",
+            "e": "Debater à vontade, mas alinhar após a decisão mantém a equipe inteira.",
+            "f": "Na visão de Jocko Willink e Leif Babin, \"fissura perde\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Disciplina igual liberdade",
         "text": "Autocontrole diário é o que liberta o líder das circunstâncias.",
         "points": [
-          "Rotina como liberdade",
-          "Controle de si"
+          {
+            "t": "Rotina como liberdade",
+            "e": "Autocontrole diário é o que liberta o líder das circunstâncias.",
+            "f": "Disciplina iguala liberdade. A liberdade de escolher, de agir, só existe sob o teto da autodisciplina.",
+            "real": true
+          },
+          {
+            "t": "Controle de si",
+            "e": "Autocontrole diário é o que liberta o líder das circunstâncias.",
+            "f": "Quando as circunstâncias parecem fora de controle, fique calmo e concentre-se no que pode controlar: a si mesmo.",
+            "real": true
+          }
         ]
       }
     ]
