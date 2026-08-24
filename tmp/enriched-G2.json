@@ -1,0 +1,4922 @@
+[
+  {
+    "id": "hill",
+    "summary": "Think and Grow Rich (1937) é o resultado de vinte anos de estudo que Napoleon Hill conduziu a mando do magnata Andrew Carnegie, entrevistando mais de quinhentos homens de sucesso — Ford, Edison, Rockefeller, entre outros. O gancho central não é \"fique rico rápido\", e sim que a riqueza material é consequência de uma mente disciplinada e orientada por um propósito definido. Hill codifica treze princípios: desejo ardente, fé, autossugestão, conhecimento especializado, imaginação, planejamento organizado, decisão, persistência, a \"mente mestra\" (master mind), a transmutação do sexo, a mente subconsciente, o cérebro como retransmissor e o sexto sentido. A tese é que o pensamento sustentado e emocionalmente carregado molda o meio material através da fé e da ação persistente. Embora criticado por misturar autoajuda com pseudociência e por oferecer pouca evidência empírica, o livro antecipou a psicologia do objetivo e da visualização e segue como um dos mais vendidos de todos os tempos. Sua força está em transformar vagas aspirações em \"fim principal definido\" e em tratar persistência como diferencial maior que talento.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Riqueza vem de sorte ou herança",
+        "text": "A maioria dos ricos entrevistados por Hill começou pobre; ele argumenta que o ambiente favorável é construído, não recebido.",
+        "reflection": "Você atribui seu progresso ao acaso ou a escolhas concretas?"
+      },
+      {
+        "type": "truth",
+        "title": "Desejo ardente move montanhas",
+        "text": "Hill coloca o desejo definido e emocionalmente carregado como o ponto de partida; sem obsessão saudável, nenhum plano vinga.",
+        "reflection": "Qual é o seu desejo que resiste ao cansaço de anos?"
+      },
+      {
+        "type": "myth",
+        "title": "Conhecimento formal garante sucesso",
+        "text": "Diplomas sem aplicação são inertes; Hill distingue \"conhecimento geral\" de \"conhecimento especializado\" vendável.",
+        "reflection": "Você acumula certificados ou converte saber em valor?"
+      },
+      {
+        "type": "truth",
+        "title": "Fé é estado mental treinável",
+        "text": "A fé, para Hill, é sugestão repetida ao subconsciente, não misticismo; autossugestão a constrói.",
+        "reflection": "Você alimenta sua mente com crenças úteis ou sabotadoras?"
+      },
+      {
+        "type": "myth",
+        "title": "Planejar sozinho basta",
+        "text": "O planejamento organizado exige ação e, idealmente, uma \"mente mestra\" de pessoas alinhadas.",
+        "reflection": "Seus planos saem do papel ou morrem na intenção?"
+      },
+      {
+        "type": "truth",
+        "title": "Persistência vence talento",
+        "text": "Hill lista a persistência como a marca dos que chegam; o desistente raramente falha por incapacidade.",
+        "reflection": "Quantas vezes você desistiu a um passo do resultado?"
+      },
+      {
+        "type": "myth",
+        "title": "O subconsciente é passivo",
+        "text": "Pelo contrário, ele retransmite e atrai conforme a carga emocional que você lhe envia.",
+        "reflection": "Que comandos você repete à sua mente todo dia?"
+      },
+      {
+        "type": "truth",
+        "title": "A mente mestra multiplica forças",
+        "text": "Duas ou mais mentes alinhadas criam uma terceira inteligência superior à soma.",
+        "reflection": "Com quem você se associa para pensar maior?"
+      },
+      {
+        "type": "myth",
+        "title": "Decisão é para depois",
+        "text": "Hill observa que os fracassados decidem devagar e mudam rápido; os bem-sucedidos decidem rápido.",
+        "reflection": "Você posterga decisões ou as toma e sustenta?"
+      },
+      {
+        "type": "truth",
+        "title": "Imaginação cria riqueza",
+        "text": "A imaginação sintética e criativa é a oficina onde planos nascem antes da realidade.",
+        "reflection": "Você exercita a imaginação ou só consome ideias alheias?"
+      },
+      {
+        "type": "myth",
+        "title": "Sexo é só biologia",
+        "text": "Hill trata a energia sexual transmutada como combustível de criatividade e ambição.",
+        "reflection": "Você canaliza sua energia ou a dispersa?"
+      },
+      {
+        "type": "truth",
+        "title": "O \"sexto sentido\" é fruto de prática",
+        "text": "A intuição descrita surge após anos alinhando consciência e subconsciente.",
+        "reflection": "Você cultiva silêncio para ouvir sua intuição?"
+      },
+      {
+        "type": "myth",
+        "title": "Pensar positivo resolve tudo",
+        "text": "Hill exige ação organizada e persistência; pensamento sem execução é sonho ocioso.",
+        "reflection": "Seu otimismo vem acompanhado de rotina de execução?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Defina um fim principal",
+        "text": "Escreva um objetivo único e definido, com prazo e preço a pagar. Meta vaga não mobiliza o subconsciente nem atrai recursos."
+      },
+      {
+        "number": "2",
+        "title": "Alimente a fé por autossugestão",
+        "text": "Repita seu objetivo em voz alta, com emoção, todos os dias, até que a crença vire convicção automática."
+      },
+      {
+        "number": "3",
+        "title": "Crie uma mente mestra",
+        "text": "Reúna pessoas de confiança e complementares para pensar e agir em conjunto com propósito comum."
+      },
+      {
+        "number": "4",
+        "title": "Acumule conhecimento especializado",
+        "text": "Aprenda o que o mercado paga e aplique-o; conhecimento geral serve pouco sem utilidade prática."
+      },
+      {
+        "number": "5",
+        "title": "Planeje organizadamente",
+        "text": "Transforme o desejo em planos concretos, por escrito, e inicie a execução imediata."
+      },
+      {
+        "number": "6",
+        "title": "Decida rápido e mude devagar",
+        "text": "Tome resoluções com segurança e sustente-as; indecisão crônica drena energia e credibilidade."
+      },
+      {
+        "number": "7",
+        "title": "Pratique a persistência",
+        "text": "Quando o plano falha, ajuste a tática mas nunca abandone o objetivo principal."
+      },
+      {
+        "number": "8",
+        "title": "Use a imaginação como oficina",
+        "text": "Reserve tempo para combinar ideias conhecidas em soluções novas e vendáveis."
+      },
+      {
+        "number": "9",
+        "title": "Transmute a energia sexual",
+        "text": "Canalize o desejo e a vitalidade para criatividade, trabalho e relacionamentos construtivos."
+      },
+      {
+        "number": "10",
+        "title": "Domine o subconsciente",
+        "text": "Envie a ele apenas comandos claros e emocionais; ele não distingue realidade de crença repetida."
+      },
+      {
+        "number": "11",
+        "title": "Exija de si antes dos outros",
+        "text": "A disciplina pessoal é a base de toda liderança e de toda riqueza sustentável."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "O que a mente do homem pode conceber e crer, ela pode alcançar.",
+        "autor": "Napoleon Hill",
+        "obra": "Think and Grow Rich"
+      },
+      {
+        "texto": "Desejo ardente de realizar é o ponto de partida de toda realização.",
+        "autor": "Napoleon Hill",
+        "obra": "Think and Grow Rich"
+      },
+      {
+        "texto": "A persistência é um estado da mente que pode ser cultivado por esforço e definição de propósito.",
+        "autor": "Napoleon Hill",
+        "obra": "Think and Grow Rich"
+      },
+      {
+        "texto": "Não espere pela oportunidade ideal; ela raramente vem. Construa-a com o que tem.",
+        "autor": "Napoleon Hill",
+        "obra": "Think and Grow Rich"
+      },
+      {
+        "texto": "Quem fracassa deve culpar apenas a si mesmo.",
+        "autor": "Napoleon Hill",
+        "obra": "Think and Grow Rich"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Leitura obrigatória para quem quer disciplina mental, ainda que o tom seja datado e místico.",
+        "autor": "Leitor",
+        "fonte": "Amazon BR"
+      },
+      {
+        "texto": "O capítulo sobre a mente mestra vale por todo o livro de gestão que já li.",
+        "autor": "Crítico",
+        "fonte": "Goodreads"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O Poder do Desejo",
+        "text": "Hill abre definindo que riqueza começa com um desejo ardente e específico, não com dinheiro. Ele pede que o leitor fixe uma quantia exata e um prazo.",
+        "points": [
+          "O \"fim principal definido\".",
+          "Por que vaguidão sabota o subconsciente."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — Fé",
+        "text": "Trata a fé como estado mental treinável por autossugestão repetida. A convicção emocional precede a realização material.",
+        "points": [
+          "Autossugestão como ferramenta.",
+          "Fé versus dúvida paralisante."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Autossugestão",
+        "text": "Explica como impressões repetidas penetram o subconsciente e moldam hábitos. O capítulo é o mecanismo prático da fé.",
+        "points": [
+          "O papel do subconsciente.",
+          "Comando diário do objetivo."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Conhecimento Especializado",
+        "text": "Distingue conhecimento geral de conhecimento aplicável e vendável. Hill manda buscar especialistas, não virar especialista em tudo.",
+        "points": [
+          "Conhecimento vs aplicação.",
+          "A \"mente mestra\" de consultores."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Imaginação",
+        "text": "Apresenta a imaginação sintética (recombinar o conhecido) e a criativa (novo absoluto). Toda riqueza nasce aqui antes de existir.",
+        "points": [
+          "Duas formas de imaginação.",
+          "Ideias como base de planos."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Planejamento Organizado",
+        "text": "Ensina converter desejo em planos escritos e iniciar a ação. Sem organização, o entusiasmo evapora.",
+        "points": [
+          "Plano por escrito.",
+          "Ação imediata."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Decisão",
+        "text": "Mostra que líderes decidem rápido e mudam devagar; seguidores hesitam e se deixam influenciar.",
+        "points": [
+          "Indecisão como fraqueza.",
+          "Autossuficiência de opinião."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Persistência",
+        "text": "Descreve a persistência como hábito cultivável e o maior divisor de águas entre fracasso e sucesso.",
+        "points": [
+          "Sintomas de falta de persistência.",
+          "Como desenvolver a tenacidade."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gawande",
+    "summary": "The Checklist Manifesto (2009) é a investigação do cirurgião Atul Gawande sobre por que profissionais altamente treinados ainda cometem erros evitáveis — e como uma ferramenta humilde resolve o problema: a lista de verificação (checklist). O gancho central é que a complexidade dos campos modernos (medicina, aviação, construção, investimentos) ultrapassou a capacidade da memória e da disciplina individual; o cérebro simplesmente não retém tudo sob pressão. Gawande relata a criação e os testes do checklist cirúrgico da OMS, que cortou mortes e complicações em dezenas de hospitais ao redor do mundo. Ele distingue dois tipos de lista — \"FAÇA-VERIFICANDO\" (read-do), em que se lê e executa, e \"VERIFIQUE-FEITO\" (do-confirm), em que se faz e confirma — e defende que o valor não está em substituir o julgamento, mas em libertá-lo da sobrecarga de rotinas. O livro é também uma meditação sobre a humildade profissional: admitir que até especialistas precisam de auxílio externo para não falhar no básico é, paradoxalmente, o que eleva a excelência.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Especialistas não erram no básico",
+        "text": "Estudos mostram falhas por esquecer passos simples mesmo entre cirurgiões veteranos.",
+        "reflection": "Você confia demais na sua memória sob pressão?"
+      },
+      {
+        "type": "truth",
+        "title": "Listas gerenciam complexidade",
+        "text": "Checklists compensam limitações cognitivas e garantem que o essencial não seja pulado.",
+        "reflection": "Onde sua operação depende do \"lembrete mental\"?"
+      },
+      {
+        "type": "myth",
+        "title": "Checklist engessa a autonomia",
+        "text": "Bem desenhada, ela libera atenção para decisões de alto nível, não as substitui.",
+        "reflection": "Sua rotina sufoca ou libera seu julgamento?"
+      },
+      {
+        "type": "truth",
+        "title": "A comunicação é o elo frágil",
+        "text": "O checklist da OMS obriga a se apresentar pela equipe, reduzindo erros de coordenação.",
+        "reflection": "Sua equipe se conhece e alinha antes de agir?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais regras sempre ajudam",
+        "text": "Listas longas e burocráticas são ignoradas; o ideal é o mínimo que salva vidas.",
+        "reflection": "Suas listas são enxutas ou peso morto?"
+      },
+      {
+        "type": "truth",
+        "title": "Há dois tipos de checklist",
+        "text": "\"Faça-verificando\" e \"verifique-feito\" servem a momentos diferentes do fluxo.",
+        "reflection": "Você usa o tipo certo para cada etapa?"
+      },
+      {
+        "type": "myth",
+        "title": "Erro é falha de caráter",
+        "text": "Gawande mostra que erros sistêmicos vencem até os mais cuidadosos sem apoio de processo.",
+        "reflection": "Você culpa pessoas em vez de consertar o sistema?"
+      },
+      {
+        "type": "truth",
+        "title": "Humildade eleva a excelência",
+        "text": "Admitir a necessidade de ajuda externa é o que separa times seguros dos frágeis.",
+        "reflection": "Sua cultura permite pedir apoio sem vergonha?"
+      },
+      {
+        "type": "myth",
+        "title": "Tecnologia resolve tudo",
+        "text": "Sem disciplina de processo, equipamentos sofisticados apenas acrescentam complexidade.",
+        "reflection": "Você compra ferramenta em vez de consertar método?"
+      },
+      {
+        "type": "truth",
+        "title": "O básico salva mais que o heroico",
+        "text": "Confirmar alergia e antibiótico profilático previne mais mortes que cirurgias espetaculares.",
+        "reflection": "Você subestima o básico executado bem?"
+      },
+      {
+        "type": "myth",
+        "title": "Treino individual basta",
+        "text": "A aviação aprendeu que equipes com checklist superam pilotos isolados geniais.",
+        "reflection": "Seu time treina processo ou só indivíduos?"
+      },
+      {
+        "type": "truth",
+        "title": "Simplicidade é estratégia",
+        "text": "A lista da OMS tem poucos itens e funciona em favelas e hospitais de ponta igualmente.",
+        "reflection": "Sua solução funciona em contextos distintos?"
+      },
+      {
+        "type": "myth",
+        "title": "Culpar resolve o próximo erro",
+        "text": "A análise sem culpa (blameless) extrai a causa real e previne repetição.",
+        "reflection": "Você investiga causas ou caça culpados?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Aceite a limitação cognitiva",
+        "text": "Reconheça que nenhum especialista retém todo passo crítico sob estresse."
+      },
+      {
+        "number": "2",
+        "title": "Crie checklists enxutos",
+        "text": "Liste só o essencial que, se pulado, causa dano; o resto vai à memória."
+      },
+      {
+        "number": "3",
+        "title": "Escolha o tipo certo",
+        "text": "Use \"faça-verificando\" para execução linear e \"verifique-feito\" para confirmação posterior."
+      },
+      {
+        "number": "4",
+        "title": "Padronize a comunicação",
+        "text": "Comece com apresentação da equipe e confirmação de papéis para evitar silêncios fatais."
+      },
+      {
+        "number": "5",
+        "title": "Teste em campo real",
+        "text": "Valide a lista em condições reais antes de decretá-la obrigatória."
+      },
+      {
+        "number": "6",
+        "title": "Não burocratize",
+        "text": "Listas longas são rejeitadas; menos itens, mais adesão."
+      },
+      {
+        "number": "7",
+        "title": "Libere o julgamento",
+        "text": "Use a lista para o básico e reserve atenção para o que exige criatividade."
+      },
+      {
+        "number": "8",
+        "title": "Meça resultados",
+        "text": "Acompanhe taxas de infecção, erro ou retrabalho para provar o valor."
+      },
+      {
+        "number": "9",
+        "title": "Institucionalize sem culpa",
+        "text": "Erros devem gerar ajuste de processo, não punição que esconde a causa."
+      },
+      {
+        "number": "10",
+        "title": "Adapte ao contexto",
+        "text": "A mesma lógica serve a hospitais, obras, escritórios e lares."
+      },
+      {
+        "number": "11",
+        "title": "Lidere pela humildade",
+        "text": "Quem manda usar lista e também a segue transforma a cultura."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "A lista de verificação é uma ferramenta que compensa as limitações do cérebro humano.",
+        "autor": "Atul Gawande",
+        "obra": "The Checklist Manifesto"
+      },
+      {
+        "texto": "Avançamos ao ponto em que o desafio não é o conhecimento, é a execução.",
+        "autor": "Atul Gawande",
+        "obra": "The Checklist Manifesto"
+      },
+      {
+        "texto": "A humildade de usar um cartão de papel salvou mais vidas que qualquer nova tecnologia.",
+        "autor": "Atul Gawande",
+        "obra": "The Checklist Manifesto"
+      },
+      {
+        "texto": "Maus sistemas não tornam as pessoas más; apenas as deixam falhar.",
+        "autor": "Atul Gawande",
+        "obra": "The Checklist Manifesto"
+      },
+      {
+        "texto": "O checklist não substitui o julgamento; ele o libera.",
+        "autor": "Atul Gawande",
+        "obra": "The Checklist Manifesto"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Apliquei o checklist da OMS no meu pequeno consultório e cortei erros administrativos pela metade.",
+        "autor": "Médica",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Leitura essencial para gestores: o básico bem feito supera o heroísmo.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O Problema do Cedro",
+        "text": "Gawande narra o colapso de um edifício por uma falha simples ignorada, mostrando que complexidade vence o expertise.",
+        "points": [
+          "Complexidade moderna.",
+          "Falha do básico."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O Check-list",
+        "text": "Introduz o conceito e a história das listas na aviação, que tornou o voo comercial seguro.",
+        "points": [
+          "Origem na aviação.",
+          "Disciplina sobre heroísmo."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — O Fim da Asas do Homem",
+        "text": "Conta como a Força Aérea testou pilotos e descobriu que processo vence talento individual.",
+        "points": [
+          "Testes de piloto.",
+          "Papel do procedimento."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — A Ponta do Lápis",
+        "text": "Mostra a engenharia de uma boa lista: poucos itens, linguagem clara, fácil de usar.",
+        "points": [
+          "Design de checklist.",
+          "Menos é mais."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — O Teste da OMS",
+        "text": "Descreve a criação e os resultados do checklist cirúrgico global da Organização Mundial da Saúde.",
+        "points": [
+          "Redução de mortalidade.",
+          "Adoção em hospitais."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — O Herói e o Lápis",
+        "text": "Discute a resistência dos médicos e por que humildade melhora a prática clínica.",
+        "points": [
+          "Cultura médica.",
+          "Humildade profissional."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — A Salvação na Simplicidade",
+        "text": "Relata aplicações em construção e finanças, provando a universalidade do método.",
+        "points": [
+          "Outros setores.",
+          "Simplicidade escalável."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — O Poder do Faça e Confirme",
+        "text": "Detalha os dois tipos de lista e quando usar cada um na prática.",
+        "points": [
+          "Read-do vs do-confirm.",
+          "Momento certo da lista."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "duckworth",
+    "summary": "Grit (2016) reúne a pesquisa de Angela Duckworth mostrando que o sucesso de longo prazo depende menos de talento bruto e mais de \"grit\" — a combinação de paixão sustentada e perseverança por objetivos de longo prazo. O gancho central é a equação: habilidade = talento × esforço, e realização = habilidade × esforço; logo, o esforço entra duas vezes na conta. Duckworth revela que crianças prodígio e adultos de alto desempenho não são os mais dotados, e sim os que não desistem quando o interesse esfria. Ela integra a \"mentalidade de crescimento\" de Carol Dweck (acreditar que a capacidade se desenvolve) e propõe o \"regra da coisa difícil\" (hard thing rule) para treinar grit em família e escolas. O livro também adverte: paixão não é entusiasmo passageiro, é um compromisso duradouro com uma meta que dá sentido à vida. Duckworth reconhece que o grit não substitui oportunidade nem é desculpa para tolerar ambientes tóxicos, mas oferece um contraponto científico à fixação contemporânea em \"dom natural\" e testes de QI como destino.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Talento é o principal preditor",
+        "text": "Duckworth mostra que esforço entra duas vezes na equação do sucesso; talento sozinho estagna.",
+        "reflection": "Você cultiva esforço ou só lamenta falta de dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Grit vence dom isolado",
+        "text": "Estudos com spelling bees e militares mostram perseverança superando aptidão inicial.",
+        "reflection": "Onde você abandona justo antes de florir?"
+      },
+      {
+        "type": "myth",
+        "title": "Paixão é entusiasmo inicial",
+        "text": "Paixão real é compromisso de longo prazo, não a emoção do primeiro dia.",
+        "reflection": "Seu interesse sobrevive ao tédio do meio?"
+      },
+      {
+        "type": "truth",
+        "title": "Mentalidade de crescimento importa",
+        "text": "Crera que capacidade se desenvolve mantém o esforço quando falha.",
+        "reflection": "Você vê erro como limite ou como aprendizado?"
+      },
+      {
+        "type": "myth",
+        "title": "Apenas natos vencem",
+        "text": "Quase todo alto realizador descobriu vocação por tentativa e insistência.",
+        "reflection": "Você espera a vocação cair do céu?"
+      },
+      {
+        "type": "truth",
+        "title": "O tédio é parte do caminho",
+        "text": "Grit é seguir quando o romance acabou e resta o trabalho diário.",
+        "reflection": "Você foge do tédio ou o atravessa?"
+      },
+      {
+        "type": "myth",
+        "title": "Esforço cego compensa",
+        "text": "Esforço sem direção cansa; precisa alinhar-se a um objetivo com sentido.",
+        "reflection": "Sua Disciplina tem para onde apontar?"
+      },
+      {
+        "type": "truth",
+        "title": "Ambiente molda o grit",
+        "text": "Culturas e pais que exigem \"coisa difícil\" desenvolvem perseverança.",
+        "reflection": "Seu entorno exige ou protege demais?"
+      },
+      {
+        "type": "myth",
+        "title": "Grit substitui oportunidade",
+        "text": "Duckworth admite que sem porta de entrada o esforço pode não render.",
+        "reflection": "Você confunde falta de chance com falta de garra?"
+      },
+      {
+        "type": "truth",
+        "title": "Interesse deve ser cultivado",
+        "text": "Paixão muitas vezes é descoberta e alimentada, não encontrada pronta.",
+        "reflection": "Você espera paixão ou a constrói?"
+      },
+      {
+        "type": "myth",
+        "title": "Só individuais vencem",
+        "text": "Coach e cultura de time sustentam o grit muito além da força de vontade solitária.",
+        "reflection": "Quem sustenta sua persistência?"
+      },
+      {
+        "type": "truth",
+        "title": "Esperança é estratégia",
+        "text": "A esperança de quem tem grit é ativa: traça rotas alternativas diante do bloqueio.",
+        "reflection": "Sua esperança planeja ou apenas deseja?"
+      },
+      {
+        "type": "myth",
+        "title": "Grit justifica sofrimento",
+        "text": "O livro alerta que perseverar em ambiente abusivo não é virtude, é autossabotagem.",
+        "reflection": "Você confunde insistência com masoquismo?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Entenda a equação do esforço",
+        "text": "Habilidade e realização dependem de esforço multiplicado, não só de dom."
+      },
+      {
+        "number": "2",
+        "title": "Defina um objetivo superior",
+        "text": "Paixão exige meta de longo prazo que dá sentido ao cotidiano."
+      },
+      {
+        "number": "3",
+        "title": "Adote a mentalidade de crescimento",
+        "text": "Crera na capacidade de desenvolver-se mantém o esforço após falhas."
+      },
+      {
+        "number": "4",
+        "title": "Pratique a regra da coisa difícil",
+        "text": "Comprometa-se com algo desafiador e sustente-o por longo tempo."
+      },
+      {
+        "number": "5",
+        "title": "Atravesse o tédio",
+        "text": "O meio do caminho é monótono; persistir ali é o músculo do grit."
+      },
+      {
+        "number": "6",
+        "title": "Cultive esperança ativa",
+        "text": "Diante de bloqueios, trace rotas alternativas em vez de desistir."
+      },
+      {
+        "number": "7",
+        "title": "Busque cultura de exigência",
+        "text": "Cerque-se de ambientes e pessoas que demandam constância."
+      },
+      {
+        "number": "8",
+        "title": "Alinhe esforço a propósito",
+        "text": "Disciplina sem direção cansa; conecte-a a um \"porquê\"."
+      },
+      {
+        "number": "9",
+        "title": "Valorize o progresso visível",
+        "text": "Marcos pequenos sustentam interesse ao longo de anos."
+      },
+      {
+        "number": "10",
+        "title": "Não romantize o sofrimento",
+        "text": "Reconheça quando o ambiente é tóxico e saia, sem rótulo de fracasso."
+      },
+      {
+        "number": "11",
+        "title": "Treine grit em crianças",
+        "text": "Escolas e pais devem ensinar perseverança, não só elogiar talento."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "O esforço conta duas vezes na equação do sucesso.",
+        "autor": "Angela Duckworth",
+        "obra": "Grit"
+      },
+      {
+        "texto": "Grit é paixão e perseverança por objetivos de longo prazo.",
+        "autor": "Angela Duckworth",
+        "obra": "Grit"
+      },
+      {
+        "texto": "Sem interesse, sem paixão sustentada; sem paixão, o esforço esfria.",
+        "autor": "Angela Duckworth",
+        "obra": "Grit"
+      },
+      {
+        "texto": "A esperança de quem tem grit é um plano, não um desejo.",
+        "autor": "Angela Duckworth",
+        "obra": "Grit"
+      },
+      {
+        "texto": "Talento é quanto você começa; grit é quanto você avança.",
+        "autor": "Angela Duckworth",
+        "obra": "Grit"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Mudou como educo meus filhos: parei de elogiar \"inteligente\" e passei a elogiar o esforço.",
+        "autor": "Mãe",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Leitura sólida, embora repita que grit não dispensa oportunidade.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — Sobre o Grit",
+        "text": "Duckworth define o conceito e conta como o descobriu estudando spelling bees e West Point.",
+        "points": [
+          "Definição de grit.",
+          "Por que o dom não basta."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — A Evidência do Grit",
+        "text": "Apresenta dados de militar, venda e academia mostrando perseverança vencendo aptidão.",
+        "points": [
+          "Estudos correlacionais.",
+          "Grit como preditor."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Como o Grit é Posto à Prova",
+        "text": "Discute o \"teste de intestino\" e a resiliência sob pressão extrema.",
+        "points": [
+          "Resistência.",
+          "Pressão prolongada."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Interesse",
+        "text": "Explica que paixão é cultivada e sustentada, não achada pronta.",
+        "points": [
+          "Descoberta de interesse.",
+          "Alimentar a chama."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Prática",
+        "text": "Mostra a prática deliberada, dolorosa e focada como geradora de maestria.",
+        "points": [
+          "Prática deliberada.",
+          "Desconforto útil."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Propósito",
+        "text": "Conecta o esforço a algo maior que o eu, o que sustenta o grit.",
+        "points": [
+          "Sentido.",
+          "Além de si."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Esperança",
+        "text": "Descreve a esperança ativa como traçar rotas alternativas diante de bloqueios.",
+        "points": [
+          "Esperança estratégica.",
+          "Planos B."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Cultivando o Grit",
+        "text": "Dá passos para pais, escolas e líderes desenvolverem perseverança.",
+        "points": [
+          "Regra da coisa difícil.",
+          "Cultura de exigência."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "taleb",
+    "summary": "Antifragile (2012) é a obra em que Nassim Nicholas Taleb batiza e desenvolve a \"antifragilidade\": a propriedade de certas coisas — organismos, empresas, ideias, sistemas — que não apenas resistem ao caos, mas melhoram com ele. O gancho central é uma lacuna no vocabulário: temos palavras para o frágil (que quebra com o estresse) e para o robusto (que resiste), mas nenhuma para o que se fortalece com o erro e a volatilidade. Taleb coloca o estresse, a falha e a incerteza como nutrientes, não inimigos. Ele propõe ferramentas práticas: a \"barbell strategy\" (combinar segurança extrema numa ponta e opcionalidade arriscada na outra, evitando o meio morto), a \"via negativa\" (melhor não fazer o que pode causar dano irreversível do que tentar prever o positivo), a \"opcionalidade\" (ter o direito, sem a obrigação, de se beneficiar do imprevisível) e o \"efeito Lindy\" (o que já dura muito tende a durar mais). Enraizado em sua filosofia dos \"cisnes negros\", o livro é um ataque à previsão e ao excesso de intervenção — do Estado ao portfólio — e um manual para desenhar uma vida e uma organização que colhem, em vez de temerem, o disorder.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Estabilidade é o objetivo",
+        "text": "Taleb argumenta que a estabilidade artificial esconde fragilidade até o colapso virar catástrofe.",
+        "reflection": "Você busca calmaria ou capacidade de absorver choque?"
+      },
+      {
+        "type": "truth",
+        "title": "Caos fortalece o antifrágil",
+        "text": "Erro, variação e estresse hormético tornam sistemas vivos mais fortes.",
+        "reflection": "Onde sua vida se fortalece com o contratempo?"
+      },
+      {
+        "type": "myth",
+        "title": "Previsão guia decisões",
+        "text": "O autor desmonta a ilusão de prever caudas grossas; foco deve ser na exposição.",
+        "reflection": "Você tenta adivinhar ou se posiciona para o imprevisível?"
+      },
+      {
+        "type": "truth",
+        "title": "Via negativa é poderosa",
+        "text": "Evitar o irreversível supera tentar engenhar o positivo incerto.",
+        "reflection": "O que você deixou de fazer para evitar dano?"
+      },
+      {
+        "type": "myth",
+        "title": "Diversificação comum basta",
+        "text": "A barbell (seguro + opção) vence a média suave que esconde risco de cauda.",
+        "reflection": "Seu portfólio tem pontas ou só meio morto?"
+      },
+      {
+        "type": "truth",
+        "title": "Opção é assimetria",
+        "text": "Ter direito sem obrigação captura upside e limita downside sistematicamente.",
+        "reflection": "Onde você tem opcionalidade real?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais intervenção é melhor",
+        "text": "Taleb culpa a \"intervenção via positiva\" por criar fragilidade sistêmica.",
+        "reflection": "Sua ação resolve ou apenas adia o colapso?"
+      },
+      {
+        "type": "truth",
+        "title": "Efeito Lindy existe",
+        "text": "O que sobreviveu muito tempo tende a persistir; novidade efêmera é suspeita.",
+        "reflection": "Você confia no durável ou na moda?"
+      },
+      {
+        "type": "myth",
+        "title": "Falha é sempre ruim",
+        "text": "Na antifragilidade, o erro barato é informação que ajusta sem destruir.",
+        "reflection": "Seus erros instruem ou apenas doem?"
+      },
+      {
+        "type": "truth",
+        "title": "Pele no jogo é essencial",
+        "text": "Quem não tem pele no jogo incentiva risco alheio e fragilidade coletiva.",
+        "reflection": "Seus conselheiros arriscam o que você arrisca?"
+      },
+      {
+        "type": "myth",
+        "title": "Robusto é o máximo",
+        "text": "Robusto apenas sobrevive; antifrágil ainda lucra com a perturbação.",
+        "reflection": "Você quer apenas sobreviver ou colher o caos?"
+      },
+      {
+        "type": "truth",
+        "title": "Less is more (via negativa)",
+        "text": "Subtrair o desnecessário frequentemente supera adicionar soluções frágeis.",
+        "reflection": "O que você pode remover em vez de acrescentar?"
+      },
+      {
+        "type": "myth",
+        "title": "Risco se elimina",
+        "text": "Risco não some, se realoca; escondê-lo aumenta o de cauda.",
+        "reflection": "Você remove risco ou o empurra para depois?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Busque a antifragilidade",
+        "text": "Projete vida e negócios para ganharem com volatilidade, não só resistirem."
+      },
+      {
+        "number": "2",
+        "title": "Use a barbell strategy",
+        "text": "Combine segurança extrema numa ponta com opções de alta recompensa na outra."
+      },
+      {
+        "number": "3",
+        "title": "Pratique a via negativa",
+        "text": "Prefira evitar danos irreversíveis a perseguir ganhos incertos."
+      },
+      {
+        "number": "4",
+        "title": "Garanta opcionalidade",
+        "text": "Mantenha o direito de se beneficiar do imprevisível sem a obrigação de sofrer."
+      },
+      {
+        "number": "5",
+        "title": "Desconfie de previsões",
+        "text": "Invista em exposição e resiliência, não em profetas de cisne negro."
+      },
+      {
+        "number": "6",
+        "title": "Aplique o efeito Lindy",
+        "text": "Valorize práticas e ideias que já provaram durabilidade."
+      },
+      {
+        "number": "7",
+        "title": "Exija pele no jogo",
+        "text": "Só confie em quem divide o risco real das próprias recomendações."
+      },
+      {
+        "number": "8",
+        "title": "Subtraia antes de somar",
+        "text": "Eliminar o desnecessário frequentemente resolve mais que novas camadas."
+      },
+      {
+        "number": "9",
+        "title": "Use estresse hormético",
+        "text": "Exponha-se a choques pequenos para construir imunidade ao grande."
+      },
+      {
+        "number": "10",
+        "title": "Evite o meio morto",
+        "text": "O \"médio\" suave esconde risco de cauda; escolha extremos assimétricos."
+      },
+      {
+        "number": "11",
+        "title": "Tolerância a erro barato",
+        "text": "Trate falha pequena como dado, não como vergonha."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Algumas coisas se beneficiam com o caos.",
+        "autor": "Nassim Nicholas Taleb",
+        "obra": "Antifragile"
+      },
+      {
+        "texto": "O que é frágil quebra com o estresse; o que é antifrágil melhora com ele.",
+        "autor": "Nassim Nicholas Taleb",
+        "obra": "Antifragile"
+      },
+      {
+        "texto": "A via negativa — evitar o que é ruim — supera a via positiva na incerteza.",
+        "autor": "Nassim Nicholas Taleb",
+        "obra": "Antifragile"
+      },
+      {
+        "texto": "A opcionalidade é estar livre para ganhar, sem estar obrigado a perder.",
+        "autor": "Nassim Nicholas Taleb",
+        "obra": "Antifragile"
+      },
+      {
+        "texto": "O que resistiu ao tempo tende a resistir mais.",
+        "autor": "Nassim Nicholas Taleb",
+        "obra": "Antifragile"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Livro denso mas transformador: mudei como penso risco e carreira.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Essencial para gestores de risco, ainda que Taleb seja provocador demais.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O que é Antifrágil",
+        "text": "Taleb nomeia a propriedade de melhorar com o estresse e explica a lacuna de vocabulário.",
+        "points": [
+          "Frágil vs robusto vs antifrágil.",
+          "Por que não tínhamos a palavra."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — Sobrevivência e Cisne Negro",
+        "text": "Conecta antifragilidade aos eventos raros e extremos que moldam a história.",
+        "points": [
+          "Caudas grossas.",
+          "Eventos extremos."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A Terceira Via",
+        "text": "Apresenta a via negativa e o princípio de não causar dano irreversível.",
+        "points": [
+          "Via negativa.",
+          "Subtrair."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Barbell e Opções",
+        "text": "Detalha a estratégia das duas pontas e o poder da opcionalidade assimétrica.",
+        "points": [
+          "Barbell strategy.",
+          "Opções reais."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — O Efeito Lindy",
+        "text": "Mostra por que a durabilidade passada indica sobrevivência futura.",
+        "points": [
+          "Tempo como filtro.",
+          "Novidade vs tradição."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Pele no Jogo",
+        "text": "Discute responsabilidade e risco compartilhado como base de sistemas saudáveis.",
+        "points": [
+          "Pele no jogo.",
+          "Incentivos."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — A Intervenção",
+        "text": "Critica a ação excessiva do Estado e dos experts que geram fragilidade.",
+        "points": [
+          "Intervenção via positiva.",
+          "Consequências."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — A Ética da Fragilidade",
+        "text": "Conclui com a moral de não transferir risco aos outros e buscar o antifrágil.",
+        "points": [
+          "Responsabilidade.",
+          "Desenho antifrágil."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "senge",
+    "summary": "The Fifth Discipline (1990) apresenta a \"organização que aprende\" através de cinco disciplinas integradas. O gancho central é que as organizações fracassam não por falta de recursos, mas por \"modelos mentais\" rígidos, ausência de \"visão compartilhada\" e pensamento sistêmico fragmentado. Peter Senge define as cinco disciplinas: (1) domínio pessoal — claridade e disciplina sobre o que realmente importa; (2) modelos mentais — expor e refinar as premissas que governam nossas ações; (3) visão compartilhada — construir aspiração coletiva genuína; (4) aprendizagem em equipe — o \"diálogo\" e a \"síncro\" que superam a soma individual; e (5) pensamento sistêmico — a \"quinta disciplina\" que integra todas as outras, enxergando padrões e atrasos em vez de eventos isolados. Senge introduz ferramentas como os \"arquétipos sistêmicos\" (ex.: \"transferir a carga\", \"corrida aos armamentos\") e a \"aliança estratégica\" entre pessoal e institucional. O livro é o texto fundador da aprendizagem organizacional e segue referência para líderes que querem organizações adaptativas num mundo de mudança acelerada.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Treinamento cria organização que aprende",
+        "text": "Senge avisa que cursos isolados não mudam a dinâmica sistêmica da empresa.",
+        "reflection": "Seus treinos mudam comportamento ou só encantam por uma semana?"
+      },
+      {
+        "type": "truth",
+        "title": "Pensamento sistêmico integra tudo",
+        "text": "A quinta disciplina é a lente que conecta as outras quatro em coerência.",
+        "reflection": "Você vê eventos ou os padrões que os geram?"
+      },
+      {
+        "type": "myth",
+        "title": "Visão vem do topo",
+        "text": "Visão compartilhada só existe quando é construída, não decretada por decreto.",
+        "reflection": "Sua equipe comprou a visão ou apenas obedece?"
+      },
+      {
+        "type": "truth",
+        "title": "Modelos mentais nos cegam",
+        "text": "Premissas ocultas determinam decisões mais que os dados.",
+        "reflection": "Que crença sua ninguém ousa questionar?"
+      },
+      {
+        "type": "myth",
+        "title": "Consenso é aprendizagem",
+        "text": "Aprender em equipe exige tensão produtiva e diálogo, não concordar para agradar.",
+        "reflection": "Sua equipe debate ou apenas concorda?"
+      },
+      {
+        "type": "truth",
+        "title": "Domínio pessoal é base",
+        "text": "Sem clareza individual sobre o que importa, nenhuma visão coletiva sustenta.",
+        "reflection": "Você sabe o que realmente quer para si?"
+      },
+      {
+        "type": "myth",
+        "title": "Soluções rápidas resolvem",
+        "text": "Atrasos sistêmicos fazem remendos curtos piorarem o problema adiante.",
+        "reflection": "Sua solução cura ou adia o sintoma?"
+      },
+      {
+        "type": "truth",
+        "title": "Atraso causa ilusão de controle",
+        "text": "Políticas parecem ineficazes por atuarem após o tempo de resposta do sistema.",
+        "reflection": "Você julga políticas pelo efeito imediato?"
+      },
+      {
+        "type": "myth",
+        "title": "Culpar o indivíduo basta",
+        "text": "Falhas sistêmicas reproduzem-se independente de quem ocupa o cargo.",
+        "reflection": "Você troca pessoas ou conserta a estrutura?"
+      },
+      {
+        "type": "truth",
+        "title": "Diálogo supera discussão",
+        "text": "No diálogo as equipes acessam inteligência coletiva maior que a soma.",
+        "reflection": "Sua reunião dialoga ou apenas discute?"
+      },
+      {
+        "type": "myth",
+        "title": "Eficiência é suficiente",
+        "text": "Otimizar partes isoladas pode destruir o desempenho do todo.",
+        "reflection": "Você otimiza a peça ou o sistema?"
+      },
+      {
+        "type": "truth",
+        "title": "Arquétipos se repetem",
+        "text": "Reconhecer padrões sistêmicos comuns antecipa crises recorrentes.",
+        "reflection": "Sua crise é sempre \"nova\"?"
+      },
+      {
+        "type": "myth",
+        "title": "Aprender é acumular",
+        "text": "Aprendizagem é mudança de capacidade de criar, não estoque de informação.",
+        "reflection": "Você coleciona conhecimento ou muda prática?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Pratique o domínio pessoal",
+        "text": "Defina claramente o que importa e cultive disciplina para persegui-lo."
+      },
+      {
+        "number": "2",
+        "title": "Exponha modelos mentais",
+        "text": "Traga à tona e teste as premissas que guiam suas decisões."
+      },
+      {
+        "number": "3",
+        "title": "Construa visão compartilhada",
+        "text": "Envolva as pessoas na criação da aspiração coletiva, não a imponha."
+      },
+      {
+        "number": "4",
+        "title": "Desenvolva aprendizagem em equipe",
+        "text": "Incentive diálogo e sincronia que ultrapassam a soma individual."
+      },
+      {
+        "number": "5",
+        "title": "Adote o pensamento sistêmico",
+        "text": "Veja padrões, ciclos e atrasos em vez de eventos isolados."
+      },
+      {
+        "number": "6",
+        "title": "Mapeie arquétipos",
+        "text": "Use padrões como \"transferir a carga\" para antecipar armadilhas."
+      },
+      {
+        "number": "7",
+        "title": "Respeite os atrasos",
+        "text": "Avalie políticas pelo efeito no tempo certo do sistema."
+      },
+      {
+        "number": "8",
+        "title": "Substitua culpa por estrutura",
+        "text": "Conserte o desenho que reproduz o erro, não só a pessoa."
+      },
+      {
+        "number": "9",
+        "title": "Alinhe pessoal e institucional",
+        "text": "A aliança estratégica sustenta engajamento de longo prazo."
+      },
+      {
+        "number": "10",
+        "title": "Troque eficiência por eficácia",
+        "text": "Otimize o todo antes de otimizar as partes."
+      },
+      {
+        "number": "11",
+        "title": "Aprenda a aprender",
+        "text": "Foque em mudar capacidade de criar, não em acumular dados."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "A organização que aprende é aquela onde as pessoas expandem continuamente sua capacidade de criar resultados que desejam.",
+        "autor": "Peter Senge",
+        "obra": "The Fifth Discipline"
+      },
+      {
+        "texto": "O pensamento sistêmico é a quinta disciplina que integra as outras.",
+        "autor": "Peter Senge",
+        "obra": "The Fifth Discipline"
+      },
+      {
+        "texto": "Modelos mentais são imagens internas que nos impedem de ver o mundo como ele é.",
+        "autor": "Peter Senge",
+        "obra": "The Fifth Discipline"
+      },
+      {
+        "texto": "Visão compartilhada não é imposta; é construída.",
+        "autor": "Peter Senge",
+        "obra": "The Fifth Discipline"
+      },
+      {
+        "texto": "Aprender em equipe começa com o diálogo, não com o consenso fingido.",
+        "autor": "Peter Senge",
+        "obra": "The Fifth Discipline"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O livro que me fez virar gestor sistêmico; li três vezes.",
+        "autor": "Executivo",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Denso mas incontornável para quem lidera organizações complexas.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — A Declaração de Interdependência",
+        "text": "Senge abre defendendo que organizações precisam aprender para sobreviver à mudança.",
+        "points": [
+          "Necessidade de aprender.",
+          "Interdependência."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — Seu Trabalho e a Você",
+        "text": "Introduz o domínio pessoal como fundação da aprendizagem organizacional.",
+        "points": [
+          "Domínio pessoal.",
+          "Clareza de propósito."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Modelos Mentais",
+        "text": "Mostra como premissas ocultas bloqueiam a percepção e a ação.",
+        "points": [
+          "Premissas ocultas.",
+          "Refinamento."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Construindo a Visão Compartilhada",
+        "text": "Descreve como alinhar aspiração individual e coletiva genuinamente.",
+        "points": [
+          "Aspiração coletiva.",
+          "Engajamento."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Aprendizagem em Equipe",
+        "text": "Ensina diálogo e sincronia que liberam inteligência do grupo.",
+        "points": [
+          "Diálogo.",
+          "Síncro."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Pensamento Sistêmico",
+        "text": "Apresenta a quinta disciplina e suas ferramentas centrais.",
+        "points": [
+          "Lente sistêmica.",
+          "Integração."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Arquétipos Sistêmicos",
+        "text": "Detalha padrões recorrentes como \"transferir a carga\" e \"corrida aos armamentos\".",
+        "points": [
+          "Padrões.",
+          "Armadilhas."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — A Estratégia da Aprendizagem",
+        "text": "Conclui com como institucionalizar a organização que aprende.",
+        "points": [
+          "Institucionalizar.",
+          "Cultura."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "csikszentmihalyi",
+    "summary": "Flow (1990) é a obra fundadora do estudo científico do \"flow\" — o estado de imersão total em que a atividade é tão envolvente que perdemos a noção do tempo e do ego. O gancho central é que a felicidade não é algo que acontece, mas algo que se constrói controlando a própria experiência; e o flow é sua via mestra. Mihaly Csikszentmihalyi mostra que o flow ocorre quando o desafio encontra a habilidade no ponto certo: desafios muito altos geram ansiedade, muito baixos geram tédio. Ele descreve as condições do estado — metas claras, feedback imediato, concentração focalizada — e como ele aparece em atividades tão distintas quanto xadrez, cirurgia, música e trabalho artesanal. O livro também advoga a \"autotelização\" (autotelicidade): realizar ações por si mesmas, não por recompensa externa, e propõe a \"complexidade\" (ordem psicológica) como antídoto à entropia da mente. Mais que autoajuda, é psicologia positiva rigorosa que dá ao leitor um mapa para desenhar uma vida com mais momentos de excelência e menos de fragmentação.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Felicidade é ter mais",
+        "text": "Csikszentmihalyi mostra que prazer e felicidade são distintos; posse raramente cria flow.",
+        "reflection": "Você confunde conforto com realização?"
+      },
+      {
+        "type": "truth",
+        "title": "Flow exige desafio igual à skill",
+        "text": "O equilíbrio entre tarefa e capacidade é o que gera imersão.",
+        "reflection": "Sua atividade te desafia no nível certo?"
+      },
+      {
+        "type": "myth",
+        "title": "Diversão é flow",
+        "text": "Diversão relaxa, mas não exige atenção plena; flow cansa e enriquece.",
+        "reflection": "Você confunde lazer com engajamento?"
+      },
+      {
+        "type": "truth",
+        "title": "Controle da atenção é poder",
+        "text": "Quem governa sua consciência governa a qualidade de vida.",
+        "reflection": "Você dirige sua atenção ou é levado por ela?"
+      },
+      {
+        "type": "myth",
+        "title": "Tédio e ansiedade são opostos que não se regulam",
+        "text": "Ambos indicam desequilíbrio ajustável subindo ou baixando o desafio.",
+        "reflection": "Você ajusta o desafio ou só reclama?"
+      },
+      {
+        "type": "truth",
+        "title": "Feedback imediato sustenta flow",
+        "text": "Saber na hora se está certo mantém a concentração viva.",
+        "reflection": "Sua atividade dá retorno rápido?"
+      },
+      {
+        "type": "myth",
+        "title": "Ego traz felicidade",
+        "text": "No flow o ego some; a identificação com o eu fragmenta a experiência.",
+        "reflection": "Você busca aprovação ou imersão?"
+      },
+      {
+        "type": "truth",
+        "title": "Autotelização libera",
+        "text": "Fazer pela atividade em si reduz a dependência de recompensa externa.",
+        "reflection": "Você age por gosto ou só por prêmio?"
+      },
+      {
+        "type": "myth",
+        "title": "Relaxar sempre ajuda",
+        "text": "A mente ociosa tende à entropia; ordem exige atividade com propósito.",
+        "reflection": "Seu descanso recarrega ou apenas dispersa?"
+      },
+      {
+        "type": "truth",
+        "title": "Complexidade é antídoto",
+        "text": "Desenvolver metas e estrutura psicológica combate a desordem mental.",
+        "reflection": "Sua mente tem ordem ou caos?"
+      },
+      {
+        "type": "myth",
+        "title": "Flow é só talento",
+        "text": "Qualquer um pode construí-lo ajustando condições da atividade.",
+        "reflection": "Você acha flow privilégio de gênios?"
+      },
+      {
+        "type": "truth",
+        "title": "Metas claras focam",
+        "text": "Saber exatamente o que fazer e porquê ancora a atenção.",
+        "reflection": "Suas tarefas têm objetivo nítido?"
+      },
+      {
+        "type": "myth",
+        "title": "Tempo voa sempre bem",
+        "text": "Flow distorce o tempo, mas só quando o desafio está calibrado.",
+        "reflection": "Você perde tempo ou investe atenção?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Busque o equilíbrio desafio-skill",
+        "text": "Calibre tarefas para que habilidade e dificuldade coincidam."
+      },
+      {
+        "number": "2",
+        "title": "Defina metas claras",
+        "text": "Objetivos nítidos ancoram a atenção e convidam ao flow."
+      },
+      {
+        "number": "3",
+        "title": "Garanta feedback rápido",
+        "text": "Crie laços de retorno imediato para sustentar concentração."
+      },
+      {
+        "number": "4",
+        "title": "Focalize a atenção",
+        "text": "Proteja a consciência de distrações para entrar em imersão."
+      },
+      {
+        "number": "5",
+        "title": "Cultive a autotelização",
+        "text": "Escolha atividades valiosas por si mesmas, não só por prêmio."
+      },
+      {
+        "number": "6",
+        "title": "Reduza a entropia mental",
+        "text": "Estruture rotinas e sentidos para evitar a desordem da mente."
+      },
+      {
+        "number": "7",
+        "title": "Abraçe a complexidade",
+        "text": "Desenvolva metas e significados que organizam a psique."
+      },
+      {
+        "number": "8",
+        "title": "Use o tédio como sinal",
+        "text": "Quando entedia, aumente o desafio; quando ansioso, treine a skill."
+      },
+      {
+        "number": "9",
+        "title": "Separar prazer de felicidade",
+        "text": "Busque realização (flow), não apenas conforto passageiro."
+      },
+      {
+        "number": "10",
+        "title": "Pratique em qualquer domínio",
+        "text": "Flow é possível em trabalho, esporte, estudo e lazer intencional."
+      },
+      {
+        "number": "11",
+        "title": "Perder o ego com graça",
+        "text": "No flow o ego se dissolve; isso é sinal de saúde, não perda."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "O controle da consciência determina a qualidade da vida.",
+        "autor": "Mihaly Csikszentmihalyi",
+        "obra": "Flow"
+      },
+      {
+        "texto": "O flow ocorre quando o desafio encontra a habilidade no ponto certo.",
+        "autor": "Mihaly Csikszentmihalyi",
+        "obra": "Flow"
+      },
+      {
+        "texto": "A felicidade não acontece; ela é construída pelo controle da própria experiência.",
+        "autor": "Mihaly Csikszentmihalyi",
+        "obra": "Flow"
+      },
+      {
+        "texto": "Quem é autotélico age pela atividade em si, não pela recompensa.",
+        "autor": "Mihaly Csikszentmihalyi",
+        "obra": "Flow"
+      },
+      {
+        "texto": "A mente em flow esquece o tempo e o eu.",
+        "autor": "Mihaly Csikszentmihalyi",
+        "obra": "Flow"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O livro que me ensinou a amar o trabalho difícil.",
+        "autor": "Psicólogo",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Clássico da psicologia positiva; leitura obrigatória.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — Felicidade é um Fluxo",
+        "text": "Csikszentmihalyi define flow e por que a felicidade se constrói, não se recebe.",
+        "points": [
+          "Definição de flow.",
+          "Felicidade ativa."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — A Anatomia do Flow",
+        "text": "Descreve as condições: metas claras, feedback, concentração, equilíbrio.",
+        "points": [
+          "Condições.",
+          "Imersão."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A Entropia da Consciência",
+        "text": "Explica como a mente tende ao caos sem ordem intencional.",
+        "points": [
+          "Desordem mental.",
+          "Atenção."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Ação e Consciência",
+        "text": "Mostra o alinhamento de fazer e perceber no estado de flow.",
+        "points": [
+          "Unidade.",
+          "Foco."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — A Personalidade Autotélica",
+        "text": "Apresenta quem age pela atividade em si e seus traços.",
+        "points": [
+          "Autotelização.",
+          "Motivação interna."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — O Fluxo nas Atividades",
+        "text": "Exemplos em trabalho, jogo, arte e esporte mostram a universalidade.",
+        "points": [
+          "Domínios.",
+          "Aplicações."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — A Complexidade",
+        "text": "Discute desenvolver a si através de metas e estrutura psicológica.",
+        "points": [
+          "Crescimento.",
+          "Ordem."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Tornar a Vida Significativa",
+        "text": "Conclui com como desenhar uma vida rica em momentos de excelência.",
+        "points": [
+          "Significado.",
+          "Projeto de vida."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "robbins",
+    "summary": "Awaken the Giant Within (1991) é o manual de transformação pessoal de Tony Robbins, que parte da premissa de que todos já possuem \"um gigante\" de potencial adormecido — e basta despertá-lo mudando o estado emocional, as crenças e as estratégias de ação. O gancho central é que o destino é decidido menos por circunstâncias e mais pelos \"modelos mentais\" e pela fisiologia que governam nossas emoções a cada instante. Robbins apresenta ferramentas concretas: o \"estado de pico\" (controlar respiração, postura e foco para mudar como se sente na hora), a \"interrupção de padrão\" para quebrar hábitos, o \"empowering beliefs\" (crenças que capacitam) em oposição às limitantes, a \"linguagem transformacional\" e o sistema de \"encerramento de valores\" (aquele onde você define a pessoa que quer ser e alinha suas regras de vida a ela). O livro mescla PNL, neurociência popular e coaching de alta performance, com exercícios de visualização e \"dúvida destrutiva vs decisão\". Embora seja exuberante e comercial, sua força prática está em tratá-lo o leitor como agente ativo de sua própria mudança imediata, sem esperar por terapia longa.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Mudança exige anos de terapia",
+        "text": "Robbins entrega ferramentas de mudança imediata em minutos, mudando estado e crença.",
+        "reflection": "Você espera anos ou intervém hoje?"
+      },
+      {
+        "type": "truth",
+        "title": "Estado emocional é controlável",
+        "text": "Fisiologia e foco alteram como você se sente na hora.",
+        "reflection": "Você governa seu estado ou ele manda em você?"
+      },
+      {
+        "type": "myth",
+        "title": "Crenças são fixas",
+        "text": "Crenças limitantes podem ser substituídas por capacitantes com prática.",
+        "reflection": "Que crença você aceita como lei sem prova?"
+      },
+      {
+        "type": "truth",
+        "title": "Interromper padrão quebra hábito",
+        "text": "Uma quebra consciente interrompe o circuito automático do vício.",
+        "reflection": "Você repete ou interrompe o padrão?"
+      },
+      {
+        "type": "myth",
+        "title": "Circunstância define resultado",
+        "text": "O modelo mental e a ação diante da mesma situação mudam o desfecho.",
+        "reflection": "Você culpa o externo ou muda a resposta?"
+      },
+      {
+        "type": "truth",
+        "title": "Linguagem molda realidade",
+        "text": "Dizer \"tenho de\" versus \"escolho\" muda o estado interno e a disposição.",
+        "reflection": "Sua linguagem empodera ou aprisiona?"
+      },
+      {
+        "type": "myth",
+        "title": "Motivação vem antes da ação",
+        "text": "Robbins inverte: ação física e estado precedem o \"sentir-se pronto\".",
+        "reflection": "Você espera motivação ou age para criá-la?"
+      },
+      {
+        "type": "truth",
+        "title": "Valores guiam decisões",
+        "text": "Quem alinha regras de vida a valores claros age com coerência.",
+        "reflection": "Seus valores guiam ou apenas decoram seu discurso?"
+      },
+      {
+        "type": "myth",
+        "title": "Dúvida é prudência",
+        "text": "A \"dúvida destrutiva\" paralisa; decisão firme libera energia.",
+        "reflection": "Sua dúvida protege ou trava?"
+      },
+      {
+        "type": "truth",
+        "title": "Visualização prepara",
+        "text": "Antecipar emoção e cenário treina o cérebro para executar.",
+        "reflection": "Você visualiza o sucesso ou o medo?"
+      },
+      {
+        "type": "myth",
+        "title": "Potencial é raro",
+        "text": "Robbins sustenta que gigante interno existe; falta despertá-lo.",
+        "reflection": "Você se acha limitado ou adormecido?"
+      },
+      {
+        "type": "truth",
+        "title": "Foco decide significado",
+        "text": "O que você atende na hora define como interpreta tudo.",
+        "reflection": "Seu foco serve ao seu objetivo?"
+      },
+      {
+        "type": "myth",
+        "title": "Autoajuda é só palestra",
+        "text": "Os exercícios pedem prática diária de estado e crença para vingar.",
+        "reflection": "Você aplica ou só consome?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Controle seu estado",
+        "text": "Use respiração, postura e foco para entrar em estado de pico."
+      },
+      {
+        "number": "2",
+        "title": "Interrompa padrões",
+        "text": "Quebre o circuito de hábitos indesejados com uma ação consciente."
+      },
+      {
+        "number": "3",
+        "title": "Substitua crenças",
+        "text": "Troque crenças limitantes por capacitantes, com repetição emocional."
+      },
+      {
+        "number": "4",
+        "title": "Use linguagem transformacional",
+        "text": "Mude \"tenho de\" por \"escolho\"; palavras mudam estado."
+      },
+      {
+        "number": "5",
+        "title": "Alinhe valores",
+        "text": "Defina quem quer ser e regras de vida coerentes com isso."
+      },
+      {
+        "number": "6",
+        "title": "Decida em vez de duvidar",
+        "text": "A decisão firme libera energia que a dúvida consome."
+      },
+      {
+        "number": "7",
+        "title": "Visualize com emoção",
+        "text": "Antecipe cenário e sentimento para treinar a execução."
+      },
+      {
+        "number": "8",
+        "title": "Aja antes de sentir",
+        "text": "Estado e ação precedem a motivação; não espere o clima."
+      },
+      {
+        "number": "9",
+        "title": "Gerencie o foco",
+        "text": "Direcione a atenção para o que serve ao seu objetivo."
+      },
+      {
+        "number": "10",
+        "title": "Pratique diariamente",
+        "text": "Os exercícios de estado e crença exigem rotina para vingar."
+      },
+      {
+        "number": "11",
+        "title": "Assuma o gigante",
+        "text": "Lembre-se de que o potencial existe; cabe despertá-lo."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "O destino é decidido pelaquilo em que você escolhe focar.",
+        "autor": "Tony Robbins",
+        "obra": "Awaken the Giant Within"
+      },
+      {
+        "texto": "Mude seu estado fisiológico e mudará sua emoção na hora.",
+        "autor": "Tony Robbins",
+        "obra": "Awaken the Giant Within"
+      },
+      {
+        "texto": "Crenças capacitantes são o motor da ação; limitantes são sua prisão.",
+        "autor": "Tony Robbins",
+        "obra": "Awaken the Giant Within"
+      },
+      {
+        "texto": "Decisão é o momento em que a dúvida destrutiva cede à ação.",
+        "autor": "Tony Robbins",
+        "obra": "Awaken the Giant Within"
+      },
+      {
+        "texto": "Você já possui um gigante adormecido; basta despertá-lo.",
+        "autor": "Tony Robbins",
+        "obra": "Awaken the Giant Within"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Li aos 18 e mudou minha trajetória; exercícios funcionam se praticados.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Exagerado às vezes, mas as ferramentas de estado são ouro.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O Gigante Adormecido",
+        "text": "Robbins afirma que o potencial está lá; basta despertá-lo com decisão.",
+        "points": [
+          "Potencial interno.",
+          "Decisão."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O Poder da Decisão",
+        "text": "Mostra como decidir rompe a dúvida e libera energia para agir.",
+        "points": [
+          "Decisão.",
+          "Ação."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — O Domínio do Estado",
+        "text": "Ensina controlar fisiologia e foco para mudar emoção instantaneamente.",
+        "points": [
+          "Estado de pico.",
+          "Fisiologia."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Crenças que Capacitam",
+        "text": "Explica substituir crenças limitantes por capacitantes.",
+        "points": [
+          "Crenças.",
+          "Mudança."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Interrupção de Padrão",
+        "text": "Apresenta a técnica de quebrar hábitos automáticos.",
+        "points": [
+          "Padrões.",
+          "Quebra."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Linguagem Transformacional",
+        "text": "Mostra como palavras moldam estado e realidade percebida.",
+        "points": [
+          "Linguagem.",
+          "Estado."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Valores e Regras",
+        "text": "Ensina alinhar regras de vida a valores definidos.",
+        "points": [
+          "Valores.",
+          "Coerência."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Visualização e Ação",
+        "text": "Conclui com exercícios de imaginar e agir para realizar metas.",
+        "points": [
+          "Visualização.",
+          "Execução."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kondo",
+    "summary": "The Life-Changing Magic of Tidying Up (2011) é o manifesto da \"Mágica da Arrumação\" de Marie Kondo, que transformou a organização doméstica em um fenômeno global. O gancho central é simples e contraintuitivo: em vez de guardar melhor, você deve descartar primeiro — e descartar por categoria, não por cômodo — mantendo apenas o que \"passa alegria\" (spark joy). Kondo parte da premissa de que acumular reflete ansiedade e que arrumar cria ritmo e espaço físico e mental para uma vida com mais clareza. Ela prescreve uma ordem de categorias — roupas, livros, papéis, \"komono\" (miscelânea) e, por fim, itens sentimentais — e ensina o método de dobrar roupas vertendo como um livro para que fiquem de pé, economizando espaço e respeitando as peças. Há também o toque espiritual peculiar: agradecer aos objetos antes de se desfazer deles, tratando-os com respeito. O livro não é sobre limpeza por estética, mas sobre decidir o que realmente importa e honrar o que fica. Críticos notam que o método exige disposição emocional e pode não caber a famílias grandes, mas sua eficácia prática é amplamente comprovada por milhões de seguidores.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Arrumar é guardar melhor",
+        "text": "Kondo inverte: primeiro descarte massivamente, depois pense em armazenar.",
+        "reflection": "Você organiza o excesso ou o elimina?"
+      },
+      {
+        "type": "truth",
+        "title": "Descarte por categoria",
+        "text": "Juntar todas as blusas de uma vez revela o volume real e facilita a escolha.",
+        "reflection": "Você separa por cômodo e nunca enxerga o total?"
+      },
+      {
+        "type": "myth",
+        "title": "Tudo tem utilidade",
+        "text": "Muita coisa é mantida por obrigação, não por alegria ou uso.",
+        "reflection": "Você guarda por culpa ou por valor?"
+      },
+      {
+        "type": "truth",
+        "title": "\"Spark joy\" filtra",
+        "text": "A pergunta \"isto me traz alegria?\" corta a indecisão rápido.",
+        "reflection": "Você sente ou apenas racionaliza a posse?"
+      },
+      {
+        "type": "myth",
+        "title": "Comece pelos sentimentais",
+        "text": "Kondo manda deixá-los por último, quando o critério já está afiado.",
+        "reflection": "Você trava nos itens emocionais primeiro?"
+      },
+      {
+        "type": "truth",
+        "title": "Dobrar verticalmente ajuda",
+        "text": "Roupas de pé poupam espaço e respeitam o tecido.",
+        "reflection": "Você empilha até esmagar as peças?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais opções trazem felicidade",
+        "text": "Menos roupas e objetos reduzem a paralisia da escolha diária.",
+        "reflection": "Seu acúmulo facilita ou atrapalha seu dia?"
+      },
+      {
+        "type": "truth",
+        "title": "Agradecer libera",
+        "text": "O gesto de gratidão torna o desapego emocionalmente leve.",
+        "reflection": "Você se desfaz com culpa ou com respeito?"
+      },
+      {
+        "type": "myth",
+        "title": "Organizar é tarefa chata",
+        "text": "Kondo trata como ritual que clareia a mente, não penitência.",
+        "reflection": "Você encara como castigo ou renovação?"
+      },
+      {
+        "type": "truth",
+        "title": "O lar reflete a mente",
+        "text": "O caos externo espelha e alimenta o interno.",
+        "reflection": "Sua casa traz paz ou dispersão?"
+      },
+      {
+        "type": "myth",
+        "title": "Comprar solução de armazenamento",
+        "text": "Comprar organizadores esconde o problema; o excesso é a causa.",
+        "reflection": "Você compra caixas ou corta o volume?"
+      },
+      {
+        "type": "truth",
+        "title": "Decisão é o músculo",
+        "text": "Cada escolha treina critério para o resto da vida.",
+        "reflection": "Você terceiriza ou decide suas posses?"
+      },
+      {
+        "type": "myth",
+        "title": "Método serve a todos iguais",
+        "text": "Kondo reconhece que famílias grandes exigem adaptação.",
+        "reflection": "Você aplica cegamente ou adapta?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Descarte antes de guardar",
+        "text": "Elimine o excesso antes de pensar em onde colocar."
+      },
+      {
+        "number": "2",
+        "title": "Por categoria, não por cômodo",
+        "text": "Reúna todas as peças de uma categoria para ver o volume real."
+      },
+      {
+        "number": "3",
+        "title": "Pergunte \"spark joy?\"",
+        "text": "Mantenha só o que traz alegria genuína ao tocar."
+      },
+      {
+        "number": "4",
+        "title": "Siga a ordem certa",
+        "text": "Roupas, livros, papéis, komono e por fim sentimentais."
+      },
+      {
+        "number": "5",
+        "title": "Dobre roupas verticalmente",
+        "text": "Peças de pé poupam espaço e preservam o tecido."
+      },
+      {
+        "number": "6",
+        "title": "Agradeça ao objecto",
+        "text": "O gesto torna o desapego leve e consciente."
+      },
+      {
+        "number": "7",
+        "title": "Corte compras por impulso",
+        "text": "Com critério afiado, entra menos coisa nova em casa."
+      },
+      {
+        "number": "8",
+        "title": "Evite organizadores novos",
+        "text": "O excesso é a causa; resolver o excesso resolve o armazenamento."
+      },
+      {
+        "number": "9",
+        "title": "Trate como ritual",
+        "text": "Arrumar vira clareza mental, não penitência doméstica."
+      },
+      {
+        "number": "10",
+        "title": "Adapte à sua casa",
+        "text": "Famílias grandes precisam de ajustes ao método."
+      },
+      {
+        "number": "11",
+        "title": "Exercite a decisão",
+        "text": "Cada escolha treina seu critério para toda a vida."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "O segredo da arrumação não é guardar, é descartar.",
+        "autor": "Marie Kondo",
+        "obra": "The Life-Changing Magic of Tidying Up"
+      },
+      {
+        "texto": "Mantenha apenas o que passa alegria.",
+        "autor": "Marie Kondo",
+        "obra": "The Life-Changing Magic of Tidying Up"
+      },
+      {
+        "texto": "Descarte por categoria, nunca por cômodo.",
+        "autor": "Marie Kondo",
+        "obra": "The Life-Changing Magic of Tidying Up"
+      },
+      {
+        "texto": "Agradeça ao objecto antes de se desfazer dele.",
+        "autor": "Marie Kondo",
+        "obra": "The Life-Changing Magic of Tidying Up"
+      },
+      {
+        "texto": "Uma casa arrumada é um espelho de uma mente clara.",
+        "autor": "Marie Kondo",
+        "obra": "The Life-Changing Magic of Tidying Up"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Depois de descartar metade do guarda-roupa, meu dia ficou mais leve.",
+        "autor": "Leitora",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Funciona de verdade, mas exige disposição emocional.",
+        "autor": "Crítica",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — Por que Arrumar Muda a Vida",
+        "text": "Kondo conecta casa em ordem a clareza mental e felicidade.",
+        "points": [
+          "Casa e mente.",
+          "Propósito."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O Método de uma Vez",
+        "text": "Defende fazer a arrumação num surto decisivo, não aos poucos.",
+        "points": [
+          "Surto.",
+          "Decisão."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Por Categoria",
+        "text": "Ensina reunir todas as peças de uma categoria antes de escolher.",
+        "points": [
+          "Volume real.",
+          "Visão."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — A Regra do \"Spark Joy\"",
+        "text": "A pergunta da alegria substitui a indecisão por critério claro.",
+        "points": [
+          "Critério.",
+          "Emoção."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — A Ordem Certa",
+        "text": "Roupas, livros, papéis, komono e sentimentais, nesta sequência.",
+        "points": [
+          "Sequência.",
+          "Dificuldade."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Como Dobrar",
+        "text": "Mostra o método vertical que poupa espaço e respeita tecido.",
+        "points": [
+          "Dobra.",
+          "Respeito."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Agradecer aos Objetos",
+        "text": "O ritual de gratidão torna o desapego consciente.",
+        "points": [
+          "Gratidão.",
+          "Desapego."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — O Lar que Reflete Você",
+        "text": "Conclui com a casa como espelho e suporte da vida desejada.",
+        "points": [
+          "Espelho.",
+          "Vida."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gerber",
+    "summary": "The E-Myth Revisited (1995) desconstrói o maior equívoco do empreendedorismo: a ideia de que quem abre um negócio é, por definição, um empreendedor. Michael Gerber introduz o \"E-Myth\" (o mito do empreendedor): a maioria das pequenas empresas nasce de técnicos apaixonados por sua área (um bom cozinheiro abre restaurante), mas que detestam gerir — e acabam escravas do próprio negócio. O gancho central é que você não deve trabalhar \"no\" negócio, mas \"pelo\" negócio, transformando-o numa organização que funciona sem você. Gerber propõe o \"Modelo de Negócio\" (Business Format) inspirado em franquias: documentar processos, padronizar, e pensar como um empreendedor (visão), gerente (sistema) e técnico (execução) ao mesmo tempo. O livro traça o ciclo de vida da empresa — incubação, criança, adolescente, adulta — e alerta para a \"curva da adolescência\", onde o caos cresce mais que a estrutura. Sua lição prática é tratar o negócio como um produto a ser desenhado, com manuais e previsibilidade, libertando o fundador. Embora focado em PMEs, seus princípios de sistema e documentação valem para qualquer organização que queira escalar.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Dono de negócio é empreendedor",
+        "text": "Gerber distingue: a maioria é \"técnico\" escravo do próprio negócio.",
+        "reflection": "Você manda ou obedece ao seu negócio?"
+      },
+      {
+        "type": "truth",
+        "title": "Trabalhe pelo negócio",
+        "text": "Construa sistema que roda sem você, não mais um emprego para si.",
+        "reflection": "Você trabalha no ou pelo negócio?"
+      },
+      {
+        "type": "myth",
+        "title": "Paixão pela técnica basta",
+        "text": "Saber cozinhar não ensina a gerir cozinha como negócio.",
+        "reflection": "Você domina a técnica mas foge da gestão?"
+      },
+      {
+        "type": "truth",
+        "title": "Padronize como franquia",
+        "text": "O modelo de franquia documenta processos que qualquer um reproduz.",
+        "reflection": "Seu negócio depende de você ou de manual?"
+      },
+      {
+        "type": "myth",
+        "title": "Crescer é sempre bom",
+        "text": "Sem sistema, crescer amplia o caos e a curva da adolescência.",
+        "reflection": "Seu crescimento tem estrutura ou só volume?"
+      },
+      {
+        "type": "truth",
+        "title": "Três papéis em um",
+        "text": "Empreendedor (visão), gerente (sistema) e técnico (execução) coexistem.",
+        "reflection": "Você exerce os três ou só o técnico?"
+      },
+      {
+        "type": "myth",
+        "title": "Intuição substitui processo",
+        "text": "Negócios que escalam dependem de manuais, não de gênio do dono.",
+        "reflection": "Seu sucesso é repetível ou sortudo?"
+      },
+      {
+        "type": "truth",
+        "title": "Documente tudo",
+        "text": "O processo escrito liberta tempo e garante consistência.",
+        "reflection": "Sua operação está na cabeça ou no papel?"
+      },
+      {
+        "type": "myth",
+        "title": "Você é insubstituível",
+        "text": "Ser insubstituível é o que impede de vender ou descansar.",
+        "reflection": "Ser vitalício é força ou prisão?"
+      },
+      {
+        "type": "truth",
+        "title": "Negócio é produto",
+        "text": "Desenhe a empresa como quem cria um artefato vendável.",
+        "reflection": "Você vende o quê além de seu tempo?"
+      },
+      {
+        "type": "myth",
+        "title": "Planilha inicial basta",
+        "text": "O plano de negócios tradicional não prepara para operar o dia a dia.",
+        "reflection": "Seu plano vira operação ou só papel?"
+      },
+      {
+        "type": "truth",
+        "title": "Sistema liberta",
+        "text": "Quem tem sistema trabalha menos e lucra mais sustentavelmente.",
+        "reflection": "Seu negócio te serve ou você a ele?"
+      },
+      {
+        "type": "myth",
+        "title": "Franquia é só para grandes",
+        "text": "O princípio de formato serve a PME de uma só loja.",
+        "reflection": "Você acha sistema coisa de gigante?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Saia do modo técnico",
+        "text": "Reconheça que saber fazer não é saber gerir um negócio."
+      },
+      {
+        "number": "2",
+        "title": "Trabalhe pelo negócio",
+        "text": "Construa sistema que opera independente da sua presença."
+      },
+      {
+        "number": "3",
+        "title": "Adote o modelo de franquia",
+        "text": "Documente processos para que qualquer um reproduza o padrão."
+      },
+      {
+        "number": "4",
+        "title": "Exerça os três papéis",
+        "text": "Una visão de empreendedor, sistema de gerente e execução de técnico."
+      },
+      {
+        "number": "5",
+        "title": "Fuja da curva da adolescência",
+        "text": "Estruture antes que o caos supere a estrutura ao crescer."
+      },
+      {
+        "number": "6",
+        "title": "Escreva manuais",
+        "text": "Processos documentados garantem consistência e liberdade."
+      },
+      {
+        "number": "7",
+        "title": "Desenhe como produto",
+        "text": "Trate a empresa como artefato a ser vendido ou escalado."
+      },
+      {
+        "number": "8",
+        "title": "Torne-se substituível",
+        "text": "Construa dependência do sistema, não da sua pessoa."
+      },
+      {
+        "number": "9",
+        "title": "Planeje a operação",
+        "text": "Vá além do plano financeiro; detalhe o dia a dia."
+      },
+      {
+        "number": "10",
+        "title": "Pense em escala",
+        "text": "Desenhe para crescer sem colapsar na complexidade."
+      },
+      {
+        "number": "11",
+        "title": "Libere seu tempo",
+        "text": "O objetivo é lucro e liberdade, não mais um emprego."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Você não está no negócio; o negócio está em você.",
+        "autor": "Michael Gerber",
+        "obra": "The E-Myth Revisited"
+      },
+      {
+        "texto": "Trabalhe pelo seu negócio, não nele.",
+        "autor": "Michael Gerber",
+        "obra": "The E-Myth Revisited"
+      },
+      {
+        "texto": "A maioria dos pequenos empresários é um técnico fingindo ser empreendedor.",
+        "autor": "Michael Gerber",
+        "obra": "The E-Myth Revisited"
+      },
+      {
+        "texto": "O modelo de franquia é a forma mais poderosa de construir um negócio.",
+        "autor": "Michael Gerber",
+        "obra": "The E-Myth Revisited"
+      },
+      {
+        "texto": "Seu negócio deve funcionar sem sua presença diária.",
+        "autor": "Michael Gerber",
+        "obra": "The E-Myth Revisited"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Me fez perceber que eu tinha um emprego, não um negócio.",
+        "autor": "Empreendedor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Leitura obrigatória antes de abrir empresa.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O E-Myth",
+        "text": "Gerber denuncia o mito de que dono é empreendedor nato.",
+        "points": [
+          "Mito.",
+          "Técnico."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O Triângulo",
+        "text": "Empreendedor, gerente e técnico que convivem no fundador.",
+        "points": [
+          "Três papéis.",
+          "Conflito."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — O Ciclo de Vida",
+        "text": "Incubação, infância, adolescência e idade adulta da empresa.",
+        "points": [
+          "Fases.",
+          "Caos."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — A Curva da Adolescência",
+        "text": "O ponto em que crescer vira caos sem sistema.",
+        "points": [
+          "Crescimento.",
+          "Estrutura."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — O Modelo de Franquia",
+        "text": "Propor documentar processos como franquias fazem.",
+        "points": [
+          "Formato.",
+          "Manual."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Trabalhe pelo Negócio",
+        "text": "Mudar de operar para desenhar o sistema.",
+        "points": [
+          "Pelo vs no.",
+          "Liberdade."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — O Negócio como Produto",
+        "text": "Desenhar a empresa como artefato vendável.",
+        "points": [
+          "Produto.",
+          "Escala."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — O Plano de Negócio",
+        "text": "Detalhar a operação diária, não só finanças.",
+        "points": [
+          "Operação.",
+          "Execução."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "rath",
+    "summary": "StrengthsFinder 2.0 (2007) é o livro-companheiro do popular teste de talentos de Tom Rath, baseado em décadas de pesquisa do Gallup. O gancho central é uma inversão da lógica tradicional de desenvolvimento: gastamos a vida tentando corrigir fraquezas, quando deveríamos identificar e investir nas poucas \"forças\" naturais que nos tornam excepcionais. Rath organiza os talentos em 34 temas (como \"Ativação\", \"Estratégico\", \"Relacionamento\", \"Realização\") e explica que força = talento natural × investimento (conhecimento e habilidade). O livro traz o código para o leitor descobrir seus cinco temas dominantes e dá orientações práticas para usá-los no trabalho, nos relacionamentos e na vida. A tese é que desempenho superior vem de estar no \"papel certo\" — onde seu talento brilha — e de cercar-se de pessoas cujas forças complementam as suas. Embora criticado por não substituir a necessidade de competência básica em áreas fracas, o StrengthsFinder mudou a cultura corporativa ao deslocar o foco do \"conserto\" para o \"aproveitamento\", com impacto mensurável em engajamento e produtividade.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Corrigir fraqueza é o caminho",
+        "text": "Rath mostra que investir em forças gera ganhos muito maiores que remediar pontos fracos.",
+        "reflection": "Você conserta ou potencializa?"
+      },
+      {
+        "type": "truth",
+        "title": "Força = talento × investimento",
+        "text": "Talento sozinho adormece sem conhecimento e prática aplicados.",
+        "reflection": "Seu dom tem investimento ou só potencial?"
+      },
+      {
+        "type": "myth",
+        "title": "Todos devem ser bons em tudo",
+        "text": "Excelência vem de dominar poucos temas, não de mediania geral.",
+        "reflection": "Você persegue o versátil ou o excepcional?"
+      },
+      {
+        "type": "truth",
+        "title": "Papel certo importa",
+        "text": "Estar onde seu talento brilha decide engajamento e resultado.",
+        "reflection": "Você está no lugar certo para seu dom?"
+      },
+      {
+        "type": "myth",
+        "title": "Autoajuda genérica serve",
+        "text": "O livro pede descoberta individual via teste, não dica universal.",
+        "reflection": "Você usa receita alheia ou seu perfil?"
+      },
+      {
+        "type": "truth",
+        "title": "Complementaridade é chave",
+        "text": "Cercar-se de forças opostas cobre pontos fracos sem tentar ser tudo.",
+        "reflection": "Sua equipe se completa ou se repete?"
+      },
+      {
+        "type": "myth",
+        "title": "Fraqueza some com esforço",
+        "text": "Melhor cercar a fraqueza do que transformá-la em força rara.",
+        "reflection": "Você tenta virar o que não é?"
+      },
+      {
+        "type": "truth",
+        "title": "Linguagem das forças ajuda",
+        "text": "Nomear temas facilita pedir e oferecer apoio no time.",
+        "reflection": "Seu time fala em forças ou defeitos?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento é suficiente",
+        "text": "Sem conhecimento e habilidade, o talento não vira desempenho.",
+        "reflection": "Você confia só no dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Engajamento vem de uso",
+        "text": "Quem aplica forças diariamente está mais engajado e produtivo.",
+        "reflection": "Seu dia usa seu melhor?"
+      },
+      {
+        "type": "myth",
+        "title": "Teste define destino",
+        "text": "O perfil é ponto de partida, não sentença imutável.",
+        "reflection": "Você se prende ao rótulo?"
+      },
+      {
+        "type": "truth",
+        "title": "Relações melhoram com forças",
+        "text": "Saber o tema do outro reduz atrito e aumenta colaboração.",
+        "reflection": "Você ajusta à força alheia?"
+      },
+      {
+        "type": "myth",
+        "title": "Feedback negativo motiva",
+        "text": "Rath prefere reforço de pontos fortes a martelar deficiências.",
+        "reflection": "Seu feedback ergue ou desmotiva?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Descubra seus temas",
+        "text": "Use o teste para identificar seus cinco talentos dominantes."
+      },
+      {
+        "number": "2",
+        "title": "Invista nas forças",
+        "text": "Aplique conhecimento e prática aos talentos naturais."
+      },
+      {
+        "number": "3",
+        "title": "Busque o papel certo",
+        "text": "Posicione-se onde seu talento se destaca."
+      },
+      {
+        "number": "4",
+        "title": "Cerque-se de complementos",
+        "text": "Monte equipe cujas forças cobrem suas fraquezas."
+      },
+      {
+        "number": "5",
+        "title": "Nomeie os temas",
+        "text": "Falar em forças melhora pedir e oferecer ajuda."
+      },
+      {
+        "number": "6",
+        "title": "Use forças todo dia",
+        "text": "Engajamento vem de aplicá-las na rotina."
+      },
+      {
+        "number": "7",
+        "title": "Cerque a fraqueza",
+        "text": "Reduza o dano de pontos fracos em vez de virá-los."
+      },
+      {
+        "number": "8",
+        "title": "Reforce positivamente",
+        "text": "Feedback em forças motiva mais que foco em déficit."
+      },
+      {
+        "number": "9",
+        "title": "Aplique em relações",
+        "text": "Conhecer o tema do outro suaviza conflitos."
+      },
+      {
+        "number": "10",
+        "title": "Trate perfil como base",
+        "text": "Use o resultado como ponto de partida, não destino."
+      },
+      {
+        "number": "11",
+        "title": "Mova para o excepcional",
+        "text": "Foque em poucos temas para ser excepcional, não mediano."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Você não pode ser bom em tudo; seja excepcional no que é seu.",
+        "autor": "Tom Rath",
+        "obra": "StrengthsFinder 2.0"
+      },
+      {
+        "texto": "Força é talento natural multiplicado por investimento.",
+        "autor": "Tom Rath",
+        "obra": "StrengthsFinder 2.0"
+      },
+      {
+        "texto": "O melhor de nós emerge quando usamos nossas forças todos os dias.",
+        "autor": "Tom Rath",
+        "obra": "StrengthsFinder 2.0"
+      },
+      {
+        "texto": "Cerque-se de pessoas cujas forças complementam as suas.",
+        "autor": "Tom Rath",
+        "obra": "StrengthsFinder 2.0"
+      },
+      {
+        "texto": "Corrigir fraqueza não cria excelência; investir em força, sim.",
+        "autor": "Tom Rath",
+        "obra": "StrengthsFinder 2.0"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Aplicamos na empresa e o clima de time melhorou visivelmente.",
+        "autor": "Gestor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "O teste vale; o livro repete bastante, mas o conceito é sólido.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O Poder das Forças",
+        "text": "Rath inverte o foco de conserto de fraqueza para investimento em força.",
+        "points": [
+          "Inversão.",
+          "Foco."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — A Ciência",
+        "text": "Base em décadas de pesquisa do Gallup sobre talento e desempenho.",
+        "points": [
+          "Pesquisa.",
+          "Dados."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Os 34 Temas",
+        "text": "Apresenta os temas de talento e como se combinam.",
+        "points": [
+          "Temas.",
+          "Combinação."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Seus Cinco Dominantes",
+        "text": "O leitor descobre seus temas principais via teste.",
+        "points": [
+          "Perfil.",
+          "Descoberta."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Força no Trabalho",
+        "text": "Como aplicar talentos para desempenho superior na função.",
+        "points": [
+          "Trabalho.",
+          "Papel."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Forças nos Relacionamentos",
+        "text": "Usar temas para colaborar e reduzir atrito.",
+        "points": [
+          "Relações.",
+          "Time."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Forças na Vida",
+        "text": "Levar o talento para escolhas pessoais e felicidade.",
+        "points": [
+          "Vida.",
+          "Sentido."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — O Plano de Ação",
+        "text": "Passos para investir nas forças nos próximos dias.",
+        "points": [
+          "Ação.",
+          "Hábito."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tracy",
+    "summary": "Eat That Frog! (2001/2007) é o clássico da produtividade de Brian Tracy, cuja regra de ouro é \"coma o sapo\": comece o dia pela tarefa mais importante, difícil e que você mais procrastina — porque, uma vez feita, nada pior pode acontecer. O gancho central é que a produtividade não é sorte nem traço de personalidade, mas resultado de hábitos e métodos repetíveis. Tracy compila 21 princípios práticos: a \"lei de Pareto\" (80% dos resultados vêm de 20% das atividades), a \"lei de Parkinson\" (o trabalho expande para ocupar o tempo disponível), planejamento diário por escrito, a matriz de priorização A-B-C-D-E, foco em \"uma coisa de cada vez\" e a disciplina de terminar o que começa. Ele enfatiza clareza de objetivos e autoresponsabilização. O livro é direto, sem jargão, e funciona como manual de ação para quem se sente sobrecarregado. Sua lição maior: o custo da procrastinação é a autoestima — adiar gera culpa, enquanto agir gera energia e confiança.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Produtividade é dom",
+        "text": "Tracy mostra que é conjunto de hábitos e métodos repetíveis, não traço inato.",
+        "reflection": "Você culpa o temperamento ou treina método?"
+      },
+      {
+        "type": "truth",
+        "title": "Coma o sapo primeiro",
+        "text": "Fazer a tarefa mais difícil cedo libera o dia e a mente.",
+        "reflection": "Qual é o seu sapo que você empurra há dias?"
+      },
+      {
+        "type": "myth",
+        "title": "Multitarefa atrapalha",
+        "text": "Tracy defende foco em uma coisa; multitarefa destrói eficiência.",
+        "reflection": "Você faz várias ou termina uma?"
+      },
+      {
+        "type": "truth",
+        "title": "Lei de Pareto vale",
+        "text": "20% das atividades geram 80% dos resultados; identifique-as.",
+        "reflection": "Você trabalha nos 20% certos?"
+      },
+      {
+        "type": "myth",
+        "title": "Planejar tira tempo",
+        "text": "Quem não planeja perde mais tempo refazendo e reagindo.",
+        "reflection": "Você acha planejar custo ou investimento?"
+      },
+      {
+        "type": "truth",
+        "title": "Clareza gera velocidade",
+        "text": "Escrever objetivos e prioridades elimina a paralisia da escolha.",
+        "reflection": "Você tem o dia mapeado por escrito?"
+      },
+      {
+        "type": "myth",
+        "title": "Urgente é importante",
+        "text": "A matriz A-B-C-D-E separa o que importa do que grita.",
+        "reflection": "Você confunde fogo com prioridade?"
+      },
+      {
+        "type": "truth",
+        "title": "Parkinson expande",
+        "text": "Sem prazo, o trabalho ocupa todo o tempo disponível.",
+        "reflection": "Você impõe prazos ou deixa o tempo mandar?"
+      },
+      {
+        "type": "myth",
+        "title": "Começar basta",
+        "text": "Terminar é a disciplina que separa sonho de resultado.",
+        "reflection": "Você termina o que começa?"
+      },
+      {
+        "type": "truth",
+        "title": "Autoresponsabilidade libera",
+        "text": "Assumir 100% da responsabilidade devolve o controle.",
+        "reflection": "Você aponta culpados ou assume o leme?"
+      },
+      {
+        "type": "myth",
+        "title": "Cansaço justifica parar",
+        "text": "Ação gera energia; esperar pelo ânimo amplia a procrastinação.",
+        "reflection": "Você espera disposição ou age para criá-la?"
+      },
+      {
+        "type": "truth",
+        "title": "Priorização é decisão",
+        "text": "Dizer não ao menor para dizer sim ao maior é a essência.",
+        "reflection": "Você sabe recusar o irrelevante?"
+      },
+      {
+        "type": "myth",
+        "title": "Fazer muito é produtivo",
+        "text": "Fazer o que importa vale mais que estar ocupado.",
+        "reflection": "Você confunde ocupação com resultado?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Identifique seu sapo",
+        "text": "Nomeie a tarefa mais importante e desagradável do dia."
+      },
+      {
+        "number": "2",
+        "title": "Faça-a primeiro",
+        "text": "Resolva o sapo antes de qualquer outra coisa."
+      },
+      {
+        "number": "3",
+        "title": "Aplique Pareto",
+        "text": "Foque nos 20% de atividades de maior retorno."
+      },
+      {
+        "number": "4",
+        "title": "Use matriz A-B-C-D-E",
+        "text": "Classifique tarefas por valor e urgência para decidir."
+      },
+      {
+        "number": "5",
+        "title": "Planeje por escrito",
+        "text": "Escreva o plano diário na véspera para começar em ação."
+      },
+      {
+        "number": "6",
+        "title": "Foque em uma coisa",
+        "text": "Evite multitarefa; termine antes de trocar."
+      },
+      {
+        "number": "7",
+        "title": "Imponha prazos",
+        "text": "Combata a lei de Parkinson com limites claros."
+      },
+      {
+        "number": "8",
+        "title": "Assuma responsabilidade",
+        "text": "100% de responsabilidade devolve o controle."
+      },
+      {
+        "number": "9",
+        "title": "Termine o que começa",
+        "text": "A disciplina de concluir gera confiança."
+      },
+      {
+        "number": "10",
+        "title": "Aprenda continuamente",
+        "text": "Leitura e estudo mantêm a vantagem competitiva."
+      },
+      {
+        "number": "11",
+        "title": "Celebre a conclusão",
+        "text": "Reforço positivo sustenta o hábito de agir."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Coma o sapo: faça a tarefa mais difícil e importante primeiro.",
+        "autor": "Brian Tracy",
+        "obra": "Eat That Frog!"
+      },
+      {
+        "texto": "A regra de Pareto se aplica a quase tudo: 20% das ações geram 80% dos resultados.",
+        "autor": "Brian Tracy",
+        "obra": "Eat That Frog!"
+      },
+      {
+        "texto": "A clareza é a palavra-chave da produtividade.",
+        "autor": "Brian Tracy",
+        "obra": "Eat That Frog!"
+      },
+      {
+        "texto": "Toda ação gera energia; a procrastinação gera cansaço.",
+        "autor": "Brian Tracy",
+        "obra": "Eat That Frog!"
+      },
+      {
+        "texto": "Você é 10 vezes mais propenso a agir quando tem clareza absoluta do objetivo.",
+        "autor": "Brian Tracy",
+        "obra": "Eat That Frog!"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O livro que me fez parar de adiar o relatório que me consumia.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Direto e prático; li e reli antes de cada semana.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — Coma o Sapo",
+        "text": "A regra central de enfrentar a tarefa mais difícil primeiro.",
+        "points": [
+          "Sapo.",
+          "Decisão."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — A Lei de Pareto",
+        "text": "Como 20% das ações geram 80% dos resultados.",
+        "points": [
+          "Prioridade.",
+          "Foco."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Planejamento",
+        "text": "Escrever o plano diário e definir prioridades A-B-C-D-E.",
+        "points": [
+          "Plano.",
+          "Clareza."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Pensar em Papel",
+        "text": "Externalizar decisões para libertar a mente.",
+        "points": [
+          "Escrita.",
+          "Foco."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Foco Único",
+        "text": "Evitar multitarefa e terminar o que começou.",
+        "points": [
+          "Uma coisa.",
+          "Conclusão."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — A Lei de Parkinson",
+        "text": "Impor prazos para conter a expansão do trabalho.",
+        "points": [
+          "Prazos.",
+          "Tempo."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Autoresponsabilidade",
+        "text": "Assumir o controle total sobre os próprios resultados.",
+        "points": [
+          "Responsabilidade.",
+          "Controle."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Ação e Energia",
+        "text": "Como agir gera disposição e vence a procrastinação.",
+        "points": [
+          "Ação.",
+          "Ânimo."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "christensen",
+    "summary": "How Will You Measure Your Life? (2012) aplica Clayton Christensen — o pai da teoria da \"inovação disruptiva\" — às grandes questões da vida pessoal. O gancho central é que as ferramentas da estratégia e da inovação que as empresas usam para decidir o que fazer também explicam por que pessoas brilhantes fracassam em casa e consigo mesmas. Christensen propõe o \"modelo de investimento de recursos\" (cada escolha aloca tempo, dinheiro e energia), a \"teoria do motor de crescimento\" (produtos certos geram feedback de clientes) e a diferença entre \"estratégia deliberada\" e \"estratégia emergente\" (o que você realmente faz, não o que planeja). Ele discute o perigo das \"métricas de erro\" (maximizar dinheiro em vez de relacionamentos), a importância de construir cultura e caráter por \"margens\" (pequenas decisões diárias), e conclui com três perguntas: como medir uma vida bem-sucedida em termos de realização, de relacionamento e de integridade. O livro é raro por unir rigor de negócios a sabedoria de vida, escrito como uma carta ao aluno ideal antes de morrer de câncer.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Dinheiro mede sucesso",
+        "text": "Christensen mostra que maximizar riqueza é \"métrica de erro\" que corrói o que importa.",
+        "reflection": "Sua métrica de sucesso é dinheiro ou sentido?"
+      },
+      {
+        "type": "truth",
+        "title": "Pequenas decisões moldam",
+        "text": "As margens do dia constroem caráter e cultura tanto quanto grandes planos.",
+        "reflection": "Suas microescolhas refletem quem quer ser?"
+      },
+      {
+        "type": "myth",
+        "title": "Estratégia planejada = realidade",
+        "text": "A estratégia emergente (o que você faz) frequentemente diverge do plano.",
+        "reflection": "Seu agir confirma ou contradiz seu plano?"
+      },
+      {
+        "type": "truth",
+        "title": "Recursos são alocados",
+        "text": "Cada escolha investe tempo/dinheiro/energia; o todo reflete a soma.",
+        "reflection": "Onde seus recursos realmente vão?"
+      },
+      {
+        "type": "myth",
+        "title": "Trabalho duro basta",
+        "text": "Esforço mal alocado afasta a família e a integridade sem aviso.",
+        "reflection": "Seu esforço aproxima ou afasta os seus?"
+      },
+      {
+        "type": "truth",
+        "title": "Motor de crescimento importa",
+        "text": "Feedback dos \"clientes\" certos sustenta propósitos duradouros.",
+        "reflection": "Quem dá o feedback que guia sua vida?"
+      },
+      {
+        "type": "myth",
+        "title": "Caráter é fixo",
+        "text": "Construir integridade exige prática nas margens, não só intenção.",
+        "reflection": "Você treina caráter ou acha que o tem?"
+      },
+      {
+        "type": "truth",
+        "title": "Relacionamento é ativo",
+        "text": "Investir nos filhos e amigos é decisão concorrente com o trabalho.",
+        "reflection": "Você investe nos seus ou só no emprego?"
+      },
+      {
+        "type": "myth",
+        "title": "Crise é o problema",
+        "text": "O declínio vem de mil pequenas concessões, não de um dia ruim.",
+        "reflection": "Você vigia as pequenas concessões?"
+      },
+      {
+        "type": "truth",
+        "title": "Integrar vida é possível",
+        "text": "Alinhar propósito, família e trabalho é a \"medida\" real.",
+        "reflection": "Sua vida se integra ou se fragmenta?"
+      },
+      {
+        "type": "myth",
+        "title": "Ambição sozinha guia",
+        "text": "Sem perguntas de fundo, a ambição vira em direção errada.",
+        "reflection": "Você sabe por que faz o que faz?"
+      },
+      {
+        "type": "truth",
+        "title": "Cultura vence regras",
+        "text": "Em caos, valores internalizados guiam melhor que manuais.",
+        "reflection": "Sua cultura sustenta decisões difíceis?"
+      },
+      {
+        "type": "myth",
+        "title": "Sucesso profissional = vida boa",
+        "text": "A pergunta final é de integridade e relacionamento, não cargo.",
+        "reflection": "Seu legado é cargo ou caráter?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Pergunte as três questões",
+        "text": "Realização, relacionamento e integridade devem guiar escolhas."
+      },
+      {
+        "number": "2",
+        "title": "Evite métricas de erro",
+        "text": "Não confunda acúmulo de riqueza com uma vida bem-sucedida."
+      },
+      {
+        "number": "3",
+        "title": "Alinhe recursos",
+        "text": "Direcione tempo, dinheiro e energia ao que realmente importa."
+      },
+      {
+        "number": "4",
+        "title": "Note a estratégia emergente",
+        "text": "Observe o que você faz de fato, não só o que planeja."
+      },
+      {
+        "number": "5",
+        "title": "Construa nas margens",
+        "text": "Pequenas decisões diárias formam caráter e cultura."
+      },
+      {
+        "number": "6",
+        "title": "Use o motor de crescimento",
+        "text": "Busque feedback dos \"clientes\" certos da sua vida."
+      },
+      {
+        "number": "7",
+        "title": "Invista em relacionamentos",
+        "text": "Trate família e amizade como concorrentes legítimos do trabalho."
+      },
+      {
+        "number": "8",
+        "title": "Treine integridade",
+        "text": "Pratique coerência nas pequenas situações difíceis."
+      },
+      {
+        "number": "9",
+        "title": "Defina sua cultura",
+        "text": "Valores internalizados guiam melhor em momentos caóticos."
+      },
+      {
+        "number": "10",
+        "title": "Equilibre ambição e sentido",
+        "text": "Ambição precisa de \"porquê\" para não se perder."
+      },
+      {
+        "number": "11",
+        "title": "Meça por legado",
+        "text": "Avalie a vida por integridade e laços, não por cargo."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Não é o que você quer fazer que importa, mas como você realmente aloca seus recursos.",
+        "autor": "Clayton Christensen",
+        "obra": "How Will You Measure Your Life?"
+      },
+      {
+        "texto": "Maximizar dinheiro é uma métrica de erro para uma vida.",
+        "autor": "Clayton Christensen",
+        "obra": "How Will You Measure Your Life?"
+      },
+      {
+        "texto": "O caráter é formado nas margens, não no centro das grandes decisões.",
+        "autor": "Clayton Christensen",
+        "obra": "How Will You Measure Your Life?"
+      },
+      {
+        "texto": "Sua estratégia emergente diz mais sobre você que seus planos.",
+        "autor": "Clayton Christensen",
+        "obra": "How Will You Measure Your Life?"
+      },
+      {
+        "texto": "Vida bem-sucedida mede-se por realização, relacionamento e integridade.",
+        "autor": "Clayton Christensen",
+        "obra": "How Will You Measure Your Life?"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O único livro de negócios que me fez chorar e repensar tudo.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Aplica teoria de inovação à vida com rara sensatez.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — Por que fracassamos",
+        "text": "Usa inovação disruptiva para explicar fracassos pessoais.",
+        "points": [
+          "Disrupção.",
+          "Vida."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O Modelo de Recursos",
+        "text": "Cada escolha aloca tempo, dinheiro e energia.",
+        "points": [
+          "Alocação.",
+          "Prioridade."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Estratégia Deliberada vs Emergente",
+        "text": "O que você faz diverge do que planeja.",
+        "points": [
+          "Realidade.",
+          "Ação."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Motor de Crescimento",
+        "text": "Feedback dos clientes certos sustenta propósitos.",
+        "points": [
+          "Feedback.",
+          "Sentido."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Métricas de Erro",
+        "text": "Riqueza como medida errada de sucesso.",
+        "points": [
+          "Métrica.",
+          "Valor."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — As Margens",
+        "text": "Pequenas decisões constroem caráter e cultura.",
+        "points": [
+          "Margins.",
+          "Hábito."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Relacionamentos",
+        "text": "Investir na família como concorrente do trabalho.",
+        "points": [
+          "Família.",
+          "Tempo."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — As Três Perguntas",
+        "text": "Realização, relacionamento e integridade como medida final.",
+        "points": [
+          "Medida.",
+          "Legado."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "ariely",
+    "summary": "Predictably Irrational (2008) reúne os experimentos de Dan Ariely que provam que somos \"previsivelmente irracionais\": não agimos como o homo economicus racional da teoria, e nossos erros não são aleatórios, seguem padrões sistemáticos. O gancho central é que o ambiente e o enquadramento (framing) moldam escolhas muito mais do que imaginamos. Ariely aborda o \"custo zero\" (o que é grátis nos seduz desproporcionalmente), o efeito âncora (primeiro preço visto vira referência), a \"relatividade\" (comparamos para decidir, não valores absolutos), o \"efeito do proprietário\" (valorizamos o que já é nosso), a \"procrastinação e autocontrole\" (preferimos o prazer agora ao ganho futuro) e como a \"expectativa\" altera percepção de prazer (vinho caro \"sabe\" melhor). O livro é uma porta de entrada à economia comportamental, mostrando como empresas, vendedores e até nós mesmos nos enganamos. A implicação prática: reconhecer os vieses é o primeiro passo para desenhar escolhas melhores — e para não ser manipulado.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Somos racionais",
+        "text": "Ariely mostra que erramos sistematicamente, não ao acaso.",
+        "reflection": "Você acha que decide pela razão ou pelo ambiente?"
+      },
+      {
+        "type": "truth",
+        "title": "Irracionalidade é previsível",
+        "text": "Nossos vieses seguem padrões estáveis e estudáveis.",
+        "reflection": "Seus erros se repetem de forma previsível?"
+      },
+      {
+        "type": "myth",
+        "title": "Grátis é sempre bom",
+        "text": "O \"custo zero\" nos faz escolher opções piores só por serem grátis.",
+        "reflection": "Você cai no grátis mesmo quando prejudica?"
+      },
+      {
+        "type": "truth",
+        "title": "Âncora define referência",
+        "text": "O primeiro preço visto distorce todo julgamento posterior.",
+        "reflection": "Seu ponto de comparação vem de onde?"
+      },
+      {
+        "type": "myth",
+        "title": "Decidimos por valor absoluto",
+        "text": "A relatividade nos faz escolher pelo contexto de comparação.",
+        "reflection": "Você compara ou avalia o valor real?"
+      },
+      {
+        "type": "truth",
+        "title": "Posse infla valor",
+        "text": "O efeito do proprietário nos faz cobrar mais pelo que já é nosso.",
+        "reflection": "Você valoriza mais o que já tem?"
+      },
+      {
+        "type": "myth",
+        "title": "Autocontrole é fácil",
+        "text": "A procrastinação mostra preferência pelo prazer imediato sobre o futuro.",
+        "reflection": "Você cede ao agora em detrimento do depois?"
+      },
+      {
+        "type": "truth",
+        "title": "Expectativa altera percepção",
+        "text": "Crer que algo é bom (ou caro) muda como o sentimos.",
+        "reflection": "Seu gosto é livre ou influenciado por crença?"
+      },
+      {
+        "type": "myth",
+        "title": "Norma social = mercado",
+        "text": "Misturar norma social e mercado destrói a generosidade.",
+        "reflection": "Você paga quem agiu por amor?"
+      },
+      {
+        "type": "truth",
+        "title": "Framing muda escolha",
+        "text": "Como a opção é apresentada pesa mais que o conteúdo.",
+        "reflection": "Sua decisão reflete o conteúdo ou a embalagem?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais opções, melhor",
+        "text": "Excesso de escolha paralisa e reduz satisfação (paradoxo).",
+        "reflection": "Demais opções ajudam ou travam você?"
+      },
+      {
+        "type": "truth",
+        "title": "Conhecer viés ajuda",
+        "text": "Reconhecer o padrão é o primeiro passo para decidir melhor.",
+        "reflection": "Você se vigia ou acha imune aos vieses?"
+      },
+      {
+        "type": "myth",
+        "title": "Preço = qualidade",
+        "text": "Muitas vezes pagamos mais por rótulo, não por mérito.",
+        "reflection": "Você confunde preço alto com qualidade?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Desconfie do grátis",
+        "text": "Avalie o custo real, não só o rótulo \"zero\"."
+      },
+      {
+        "number": "2",
+        "title": "Ancore consciente",
+        "text": "Defina sua própria referência antes de ver preços."
+      },
+      {
+        "number": "3",
+        "title": "Compare com critério",
+        "text": "Use valores absolutos, não só o contexto oferecido."
+      },
+      {
+        "number": "4",
+        "title": "Domine a posse",
+        "text": "Não inflacione o valor do que já é seu por apego."
+      },
+      {
+        "number": "5",
+        "title": "Combata a procrastinação",
+        "text": "Crie restrições de autocontrole para o futuro."
+      },
+      {
+        "number": "6",
+        "title": "Questione expectativas",
+        "text": "Separe o que gosta do que lhe disseram para gostar."
+      },
+      {
+        "number": "7",
+        "title": "Mantenha normas sociais",
+        "text": "Não transforme favores em transações."
+      },
+      {
+        "number": "8",
+        "title": "Cuidado com o framing",
+        "text": "Repense a escolha fora da embalagem sugerida."
+      },
+      {
+        "number": "9",
+        "title": "Limite opções",
+        "text": "Reduzir alternativas pode aumentar satisfação."
+      },
+      {
+        "number": "10",
+        "title": "Estude seus vieses",
+        "text": "Conhecer padrões protege contra manipulação."
+      },
+      {
+        "number": "11",
+        "title": "Separe preço de mérito",
+        "text": "Pague pelo valor real, não pelo rótulo caro."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Somos irracionais de forma previsível e sistemática.",
+        "autor": "Dan Ariely",
+        "obra": "Predictably Irrational"
+      },
+      {
+        "texto": "O que é grátis exerce um apelo emocional desproporcional.",
+        "autor": "Dan Ariely",
+        "obra": "Predictably Irrational"
+      },
+      {
+        "texto": "A primeira informação vista torna-se a âncora de todas as decisões seguintes.",
+        "autor": "Dan Ariely",
+        "obra": "Predictably Irrational"
+      },
+      {
+        "texto": "Quando somos donos de algo, seu valor para nós sobe instantaneamente.",
+        "autor": "Dan Ariely",
+        "obra": "Predictably Irrational"
+      },
+      {
+        "texto": "Nossas expectativas moldam o que sentimos, não apenas o que pensamos.",
+        "autor": "Dan Ariely",
+        "obra": "Predictably Irrational"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Depois deste livro, nunca mais vi uma promoção da mesma forma.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Divulgador brilhante da economia comportamental.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O Custo Zero",
+        "text": "Por que o grátis nos seduz e nos faz escolhas piores.",
+        "points": [
+          "Grátis.",
+          "Armadilha."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O Efeito Âncora",
+        "text": "Como o primeiro preço vista vira referência.",
+        "points": [
+          "Âncora.",
+          "Referência."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A Relatividade",
+        "text": "Decidimos por comparação, não por valor absoluto.",
+        "points": [
+          "Comparação.",
+          "Contexto."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — O Efeito do Proprietário",
+        "text": "Possuir algo infla seu valor subjetivo.",
+        "points": [
+          "Posse.",
+          "Apego."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Procrastinação",
+        "text": "Preferência pelo prazer imediato e falta de autocontrole.",
+        "points": [
+          "Adiar.",
+          "Futuro."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Expectativa",
+        "text": "Crença e preço alteram a percepção de prazer.",
+        "points": [
+          "Crença.",
+          "Percepção."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Normas Sociais vs Mercado",
+        "text": "Misturar dinheiro e afeto destrói generosidade.",
+        "points": [
+          "Normas.",
+          "Dinheiro."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Decidir Melhor",
+        "text": "Reconhecer vieses para proteger escolhas.",
+        "points": [
+          "Viés.",
+          "Defesa."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "kawasaki",
+    "summary": "The Art of the Start 2.0 (2015) é o guia atualizado de Guy Kawasaki para lançar e crescer startups, baseado em sua experiência como evangelista da Apple. O gancho central é que empreender não é sobre planos de 60 páginas, e sim sobre \"encantar\" clientes e avançar com pouco. Kawasaki organiza o livro em dez áreas: abertura (posicionamento, storytelling, \"social media\" e \"grito de guerra\"), posicionamento (\"para quem, que faz o quê, melhor que\"), arremesso (o pitch de 10/20/30 — 10 slides, 20 minutos, fonte 30), emprego de princípios (contratar \"índice de bunda\", buscar \"coração de macaco\"), arrecadação (bootstrapping e investidores), relacionamento (social media como diálogo), clique (marketing digital), mistura (modelo de negócio), chuva (parcerias) e fuga (quando pivotar ou desistir). Ele defende o \"mantra\" em vez de missão longa e o \"evangelismo\" como forma de criar apaixonados. O tom é irreverente e prático, com ênfase em ação sobre análise paralisante.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Plano de 60 páginas é essencial",
+        "text": "Kawasaki defende ação rápida e pitch enxuto, não documento pesado.",
+        "reflection": "Você escreve ou executa?"
+      },
+      {
+        "type": "truth",
+        "title": "Encantar clientes é o ponto",
+        "text": "O produto deve encantar, não apenas funcionar.",
+        "reflection": "Seu cliente é satisfeito ou encantado?"
+      },
+      {
+        "type": "myth",
+        "title": "Missão longa importa",
+        "text": "Ele prefere um \"mantra\" curto e memorável à missão burocrática.",
+        "reflection": "Sua equipe repete o mantra ou ignora a missão?"
+      },
+      {
+        "type": "truth",
+        "title": "Pitch 10/20/30 funciona",
+        "text": "10 slides, 20 minutos, fonte 30: clareza vence exaustão.",
+        "reflection": "Seu pitch respeita o limite do outro?"
+      },
+      {
+        "type": "myth",
+        "title": "Investidor resolve tudo",
+        "text": "Bootstrapping e foco no cliente valem mais que capital externo cedo.",
+        "reflection": "Você corre atrás de dinheiro ou de cliente?"
+      },
+      {
+        "type": "truth",
+        "title": "Posicionamento claro é vida",
+        "text": "Dizer para quem e o quê melhor que X define o jogo.",
+        "reflection": "Você sabe seu \"para quem e melhor que\"?"
+      },
+      {
+        "type": "myth",
+        "title": "Contratar por currículo",
+        "text": "Kawasaki sugere o \"índice de bunda\": contrate quem se encaixa na cultura.",
+        "reflection": "Você contrata CV ou encaixe?"
+      },
+      {
+        "type": "truth",
+        "title": "Social media é diálogo",
+        "text": "Usar rede só para empurrar venda afasta; conversar encanta.",
+        "reflection": "Você fala com ou para o cliente?"
+      },
+      {
+        "type": "myth",
+        "title": "Pivotar é fracasso",
+        "text": "Saber quando fugir é habilidade, não derrota.",
+        "reflection": "Você insiste ou pivota na hora certa?"
+      },
+      {
+        "type": "truth",
+        "title": "Evangelismo cria fãs",
+        "text": "Apaixonados divulgam melhor que anúncios.",
+        "reflection": "Você tem evangelistas ou apenas compradores?"
+      },
+      {
+        "type": "myth",
+        "title": "Modelo vem primeiro",
+        "text": "O encantamento antecede e molda o modelo de negócio.",
+        "reflection": "Você desenha modelo antes de encantar?"
+      },
+      {
+        "type": "truth",
+        "title": "Foco no \"porquê\" do cliente",
+        "text": "Entender a dor real supera features brilhantes.",
+        "reflection": "Você vende recurso ou resolve dor?"
+      },
+      {
+        "type": "myth",
+        "title": "Grana compra tração",
+        "text": "Tração vem de valor percebido, não de orçamento de marketing.",
+        "reflection": "Você compra atenção ou a conquista?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Defina posicionamento",
+        "text": "Para quem, que faz o quê, melhor que quem."
+      },
+      {
+        "number": "2",
+        "title": "Crie um mantra",
+        "text": "Frases curtas guiam a equipe melhor que missão longa."
+      },
+      {
+        "number": "3",
+        "title": "Monte pitch 10/20/30",
+        "text": "Clareza e respeito ao tempo do investidor."
+      },
+      {
+        "number": "4",
+        "title": "Encante o cliente",
+        "text": "Vá além da satisfação para gerar apaixonados."
+      },
+      {
+        "number": "5",
+        "title": "Contrate por encaixe",
+        "text": "Busque cultura e atitude, não só currículo."
+      },
+      {
+        "number": "6",
+        "title": "Use social como diálogo",
+        "text": "Converse, não apenas anuncie."
+      },
+      {
+        "number": "7",
+        "title": "Bootstrap quando possível",
+        "text": "Capital externo cedo nem sempre ajuda."
+      },
+      {
+        "number": "8",
+        "title": "Busque parcerias",
+        "text": "\"Chuva\" de aliados acelera sem custo alto."
+      },
+      {
+        "number": "9",
+        "title": "Saiba pivotar",
+        "text": "Reconheça quando fugir ou mudar o jogo."
+      },
+      {
+        "number": "10",
+        "title": "Evangelize",
+        "text": "Transforme usuários em divulgadores."
+      },
+      {
+        "number": "11",
+        "title": "Foque na dor real",
+        "text": "Resolva o problema do cliente, não sua ideia."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "O objetivo não é apenas satisfazer clientes, mas encantá-los.",
+        "autor": "Guy Kawasaki",
+        "obra": "The Art of the Start 2.0"
+      },
+      {
+        "texto": "O pitch perfeito: dez slides, vinte minutos, fonte trinta.",
+        "autor": "Guy Kawasaki",
+        "obra": "The Art of the Start 2.0"
+      },
+      {
+        "texto": "Não escreva uma missão de sessenta palavras; crie um mantra.",
+        "autor": "Guy Kawasaki",
+        "obra": "The Art of the Start 2.0"
+      },
+      {
+        "texto": "Empreender é uma atitude de quem avança com pouco.",
+        "autor": "Guy Kawasaki",
+        "obra": "The Art of the Start 2.0"
+      },
+      {
+        "texto": "Saber quando parar é tão importante quanto saber começar.",
+        "autor": "Guy Kawasaki",
+        "obra": "The Art of the Start 2.0"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Prático e divertido; li antes de abrir minha startup.",
+        "autor": "Empreendedor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Alguns exemplos datados, mas o núcleo é ouro.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — Abertura",
+        "text": "Posicionamento, storytelling e grito de guerra da startup.",
+        "points": [
+          "Posicionamento.",
+          "História."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — Posicionamento",
+        "text": "Para quem, que faz o quê, melhor que quem.",
+        "points": [
+          "Segmento.",
+          "Diferencial."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — O Arremesso",
+        "text": "O pitch 10/20/30 e como apresentar bem.",
+        "points": [
+          "Pitch.",
+          "Clareza."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Emprego de Princípios",
+        "text": "Contratar por encaixe e atitude.",
+        "points": [
+          "Cultura.",
+          "Time."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Arrecadação",
+        "text": "Bootstrapping e quando buscar investidor.",
+        "points": [
+          "Capital.",
+          "Sustento."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Relacionamento",
+        "text": "Social media como diálogo, não outdoor.",
+        "points": [
+          "Rede.",
+          "Conversa."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Mistura",
+        "text": "Desenhar o modelo de negócio após encantar.",
+        "points": [
+          "Modelo.",
+          "Receita."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Fuga",
+        "text": "Saber pivotar ou encerrar na hora certa.",
+        "points": [
+          "Pivot.",
+          "Sair."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tolle",
+    "summary": "The Power of Now (1997) é o livro espiritual de Eckhart Tolle que convida o leitor a libertar-se da \"identificação com a mente pensante\" e a habitar plenamente o presente — o \"Agora\". O gancho central é que a maior parte do sofrimento humano nasce do tempo psicológico: a mente revivendo o passado ou projetando o futuro, enquanto o corpo vive sempre no agora. Tolle distingue o \"você\" essencial da \"dor do corpo\" (pain-body) — a acumulação de emoções negativas não processadas que se alimenta de mais sofrimento. Ele propõe práticas de presença: observar o pensamento sem se tornar ele, sentir o corpo, aceitar o momento presente como ele é (não-resistência) e usar o silêncio. A tese é que a paz não se encontra em circunstâncias futuras, mas no alinhamento com o que já é. Embora use linguagem espiritual (não religiosa), o livro dialoga com mindfulness e neurociência da atenção, sendo um dos mais influentes da autoajuda contemporânea.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Pensar resolve tudo",
+        "text": "Tolle mostra que a mente em loop raramente traz paz, só mais pensamento.",
+        "reflection": "Você pensa para resolver ou para evitar sentir?"
+      },
+      {
+        "type": "truth",
+        "title": "O agora é tudo",
+        "text": "Passado e futuro existem só como pensamento; o corpo vive no presente.",
+        "reflection": "Você habita o presente ou o mental?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudar externo traz paz",
+        "text": "Circunstâncias melhoram, mas a mente recria inquietação sem presença.",
+        "reflection": "Você busca paz em coisas ou em estado?"
+      },
+      {
+        "type": "truth",
+        "title": "Observar pensamento liberta",
+        "text": "Ver o pensamento como objeto cria distância e escolha.",
+        "reflection": "Você é o pensamento ou quem o observa?"
+      },
+      {
+        "type": "myth",
+        "title": "Dor é só física",
+        "text": "A \"dor do corpo\" emocional não processada se alimenta de mais sofrimento.",
+        "reflection": "Sua dor tem raiz emocional não vista?"
+      },
+      {
+        "type": "truth",
+        "title": "Aceitar transforma",
+        "text": "Não-resistência ao momento presente dissipa o conflito interno.",
+        "reflection": "Você luta contra o agora ou o aceita?"
+      },
+      {
+        "type": "myth",
+        "title": "Espírito é religião",
+        "text": "Tolle fala de presença consciente, não de doutrina religiosa.",
+        "reflection": "Você associa presença a crença ou a atenção?"
+      },
+      {
+        "type": "truth",
+        "title": "Silêncio nutre",
+        "text": "O espaço sem pensamento é onde a clareza emerge.",
+        "reflection": "Seu dia tem silêncio ou só ruído?"
+      },
+      {
+        "type": "myth",
+        "title": "Eu sou meus pensamentos",
+        "text": "A essência precede o conteúdo mental passageiro.",
+        "reflection": "Você se confunde com a voz da cabeça?"
+      },
+      {
+        "type": "truth",
+        "title": "Sentir o corpo ancora",
+        "text": "Atenção ao corpo traz de volta ao presente.",
+        "reflection": "Você sente o corpo ou só a mente?"
+      },
+      {
+        "type": "myth",
+        "title": "Tempo cura",
+        "text": "O tempo psicológico alimenta a dor; presença é que cura.",
+        "reflection": "Você espera o tempo curar ou atua agora?"
+      },
+      {
+        "type": "truth",
+        "title": "Consciência é fundo",
+        "text": "Por trás do conteúdo mental há uma presença estável.",
+        "reflection": "Você busca o fundo ou a superfície?"
+      },
+      {
+        "type": "myth",
+        "title": "Focar no problema ajuda",
+        "text": "Rotular e analisar a dor frequentemente a amplia.",
+        "reflection": "Você analisa a dor ou a observe com aceitação?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Habit o agora",
+        "text": "Traga a atenção repetidamente ao presente."
+      },
+      {
+        "number": "2",
+        "title": "Observe pensamentos",
+        "text": "Veja o pensamento como objeto, não como verdade."
+      },
+      {
+        "number": "3",
+        "title": "Sinta o corpo",
+        "text": "Use a atenção corporal para ancorar no presente."
+      },
+      {
+        "number": "4",
+        "title": "Pratique não-resistência",
+        "text": "Aceite o momento como ele é para dissipar conflito."
+      },
+      {
+        "number": "5",
+        "title": "Identifique a dor do corpo",
+        "text": "Reconheça emoção acumulada sem se fundir a ela."
+      },
+      {
+        "number": "6",
+        "title": "Cultive silêncio",
+        "text": "Reserve espaço sem ruído mental diariamente."
+      },
+      {
+        "number": "7",
+        "title": "Separe eu de pensamento",
+        "text": "Lembre-se de que a essência precede a mente."
+      },
+      {
+        "number": "8",
+        "title": "Aceite o que é",
+        "text": "A luta interna some quando o presente é aceito."
+      },
+      {
+        "number": "9",
+        "title": "Reduza o tempo psicológico",
+        "text": "Menos projeção futura, mais presença."
+      },
+      {
+        "number": "10",
+        "title": "Use a respiração",
+        "text": "Respirar consciente retorna ao agora."
+      },
+      {
+        "number": "11",
+        "title": "Busque a paz interior",
+        "text": "A paz é estado, não consequência de eventos."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "O segredo da vida é morar no agora.",
+        "autor": "Eckhart Tolle",
+        "obra": "The Power of Now"
+      },
+      {
+        "texto": "O passado e o futuro não existem; só o presente é real.",
+        "autor": "Eckhart Tolle",
+        "obra": "The Power of Now"
+      },
+      {
+        "texto": "Você não é seus pensamentos; é quem os observa.",
+        "autor": "Eckhart Tolle",
+        "obra": "The Power of Now"
+      },
+      {
+        "texto": "A aceitação do momento presente dissolve o sofrimento interno.",
+        "autor": "Eckhart Tolle",
+        "obra": "The Power of Now"
+      },
+      {
+        "texto": "A mente é uma ferramenta excelente, mas um mestre terrível.",
+        "autor": "Eckhart Tolle",
+        "obra": "The Power of Now"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Mudou minha relação com a ansiedade; leitura de cabeceira.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Profundo mas exige paciência; não é autoajuda rápida.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — Você Não é sua Mente",
+        "text": "Tolle separa a essência do pensamento automático.",
+        "points": [
+          "Essência.",
+          "Mente."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — A Consciência do Agora",
+        "text": "O presente como única realidade vivível.",
+        "points": [
+          "Presente.",
+          "Realidade."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A Dor do Corpo",
+        "text": "Emoções não processadas que se alimentam de sofrimento.",
+        "points": [
+          "Dor.",
+          "Emoção."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Entrar no Agora",
+        "text": "Práticas de presença e observação.",
+        "points": [
+          "Presença.",
+          "Prática."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — O Significado de Não-Resistência",
+        "text": "Aceitar o momento para dissipar conflito.",
+        "points": [
+          "Aceitação.",
+          "Paz."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — O Tempo Psicológico",
+        "text": "Como passado e futuro alimentam a inquietação.",
+        "points": [
+          "Tempo.",
+          "Ilusão."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — O Estado de Presença",
+        "text": "Acessar a clareza além do conteúdo mental.",
+        "points": [
+          "Clareza.",
+          "Ser."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — O Caminho da Paz",
+        "text": "Integrar presença como forma de vida.",
+        "points": [
+          "Paz.",
+          "Caminho."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "semler",
+    "summary": "Maverick (1993) é a narrativa de Ricardo Semler sobre como transformou a Semco, empresa brasileira de equipamentos, em um case mundial de democratização radical do trabalho. O gancho central é que hierarquias rígidas e controle sufocam pessoas e resultados; ao devolver autonomia, a organização floresce. Semler instituiu horários flexíveis, salários decididos por comitês de funcionários, ausência de dress code, reuniões sem gravata, e o direito dos operários de inspecionar a gestão e até demitir chefes. Ele adotou a \"gestão por exceção\" (só intervém quando algo sai do padrão) e a rotação de líderes. O livro desafia o modelo tradicional de comando-e-controle, provando que confiança e transparência podem conviver com lucro. Escrito em tom irreverente e pessoal, Semler relata também sua própria crise de saúde que o levou a repensar o sentido do trabalho. A lição: organizações saudáveis tratam adultos como adultos Para líderes e profissionais, é uma prova de que confiar nas pessoas, em vez de vigiá-las, libera o melhor de cada um e amplia o desempenho coletivo.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Controle gera resultado",
+        "text": "Semler mostra que vigilância excessiva sufoca e desperdiça talento.",
+        "reflection": "Você controla pessoas ou libera competência?"
+      },
+      {
+        "type": "truth",
+        "title": "Autonomia engaja",
+        "text": "Devolver decisão aos funcionários aumenta dono da entrega.",
+        "reflection": "Sua equipe decide ou apenas obedece?"
+      },
+      {
+        "type": "myth",
+        "title": "Chefe sabe tudo",
+        "text": "Na Semco, operários avaliam e até removem líderes.",
+        "reflection": "Você acha que só o topo entende o negócio?"
+      },
+      {
+        "type": "truth",
+        "title": "Transparência confia",
+        "text": "Abrir números e salários reduz fofoca e ressentimento.",
+        "reflection": "Sua empresa esconde ou compartilha dados?"
+      },
+      {
+        "type": "myth",
+        "title": "Uniforme cria respeito",
+        "text": "Sem gravata e dress code, a Semco ganhou mais produtividade.",
+        "reflection": "Você confunde formalidade com bom trabalho?"
+      },
+      {
+        "type": "truth",
+        "title": "Gestão por exceção",
+        "text": "Líder intervém só no fora do padrão, poupando microgestão.",
+        "reflection": "Você microgerencia ou gere por exceção?"
+      },
+      {
+        "type": "myth",
+        "title": "Crescer é comandar mais",
+        "text": "Mais níveis hierárquicos aumentam ruído, não clareza.",
+        "reflection": "Sua hierarquia ajuda ou atrapalha?"
+      },
+      {
+        "type": "truth",
+        "title": "Adultos merecem confiança",
+        "text": "Tratar gente como adulto eleva responsabilidade.",
+        "reflection": "Você trata a equipe como criança ou adulto?"
+      },
+      {
+        "type": "myth",
+        "title": "Saúde vem depois",
+        "text": "A crise de Semler provou que trabalho sem sentido adoece.",
+        "reflection": "Você sacrifica saúde pela empresa?"
+      },
+      {
+        "type": "truth",
+        "title": "Lucro e liberdade coexistem",
+        "text": "Democratizar não afundou a Semco; a fortaleceu.",
+        "reflection": "Você acha autonomia cara ou lucrativa?"
+      },
+      {
+        "type": "myth",
+        "title": "Regras fixas protegem",
+        "text": "Regras rígidas travam; princípios flexíveis adaptam.",
+        "reflection": "Você tem regras ou princípios?"
+      },
+      {
+        "type": "truth",
+        "title": "Rotação amplia visão",
+        "text": "Líderes rotativos evitam silos e vícios de poder.",
+        "reflection": "Seus líderes ficam presos ao cargo?"
+      },
+      {
+        "type": "myth",
+        "title": "Engajamento se compra",
+        "text": "Sentido e voz valem mais que bônus pontual.",
+        "reflection": "Você compra lealdade ou a constrói?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Devolva autonomia",
+        "text": "Deixe a equipe decidir como entregar."
+      },
+      {
+        "number": "2",
+        "title": "Pratique gestão por exceção",
+        "text": "Intervenha só fora do padrão."
+      },
+      {
+        "number": "3",
+        "title": "Abra a transparência",
+        "text": "Compartilhe números e critérios de salário."
+      },
+      {
+        "number": "4",
+        "title": "Elimine dress code",
+        "text": "Foco no trabalho, não na aparência."
+      },
+      {
+        "number": "5",
+        "title": "Permita horário flexível",
+        "text": "Resultado importa mais que presença física."
+      },
+      {
+        "number": "6",
+        "title": "Deixe inspeções",
+        "text": "Funcionários devem poder avaliar a gestão."
+      },
+      {
+        "number": "7",
+        "title": "Trote líderes",
+        "text": "Rotação evita vícios de poder e silos."
+      },
+      {
+        "number": "8",
+        "title": "Trate adultos como tais",
+        "text": "Confiança eleva responsabilidade."
+      },
+      {
+        "number": "9",
+        "title": "Repense o sentido",
+        "text": "Trabalho precisa nutrir, não só remunerar."
+      },
+      {
+        "number": "10",
+        "title": "Menuse regras",
+        "text": "Princípios flexíveis adaptam melhor."
+      },
+      {
+        "number": "11",
+        "title": "Una lucro e liberdade",
+        "text": "Democratizar pode ser vantagem competitiva."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Trate as pessoas como adultos e elas se comportarão como adultos.",
+        "autor": "Ricardo Semler",
+        "obra": "Maverick"
+      },
+      {
+        "texto": "A gestão por exceção libera o líder para o que importa.",
+        "autor": "Ricardo Semler",
+        "obra": "Maverick"
+      },
+      {
+        "texto": "Democratizar o trabalho não afunda a empresa; a fortalece.",
+        "autor": "Ricardo Semler",
+        "obra": "Maverick"
+      },
+      {
+        "texto": "Regras rígidas travam; princípios flexíveis adaptam.",
+        "autor": "Ricardo Semler",
+        "obra": "Maverick"
+      },
+      {
+        "texto": "O trabalho sem sentido adoece mais que a falta dele.",
+        "autor": "Ricardo Semler",
+        "obra": "Maverick"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Leitura obrigatória para donos de PME no Brasil.",
+        "autor": "Empresário",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Inspirou como repensei minha própria empresa.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — A Virada",
+        "text": "Semler herda a Semco e decide mudar tudo.",
+        "points": [
+          "Herança.",
+          "Mudança."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — A Crise de Saúde",
+        "text": "O alerta que o fez repensar o sentido do trabalho.",
+        "points": [
+          "Saúde.",
+          "Sentido."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Horários e Roupas",
+        "text": "Fim de dress code e jornadas flexíveis.",
+        "points": [
+          "Flexibilidade.",
+          "Confiança."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Salários Abertos",
+        "text": "Comitês de funcionários definem remuneração.",
+        "points": [
+          "Transparência.",
+          "Equidade."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Gestão por Exceção",
+        "text": "Líder intervém só no fora do padrão.",
+        "points": [
+          "Exceção.",
+          "Liberdade."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Inspeções",
+        "text": "Operários avaliam e removem líderes.",
+        "points": [
+          "Poder.",
+          "Voz."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Rotação",
+        "text": "Líderes rotativos evitam vícios de poder.",
+        "points": [
+          "Rotação.",
+          "Visão."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — A Empresa Democrática",
+        "text": "Unir lucro, autonomia e sentido.",
+        "points": [
+          "Democracia.",
+          "Resultado."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gladwell",
+    "summary": "Outliers (2008) desconstrói a ideia de que o sucesso é puramente individual e merecido. Malcolm Gladwell mostra que \"outliers\" — os extremamente bem-sucedidos — raramente chegam sozinhos; eles são produto de uma confluência de fatores: a \"regra das 10.000 horas\" de prática deliberada, a oportunidade histórica e cultural, a herança familiar e até o mês de nascimento. O gancho central é que a sociedade adora a narrativa do gênio solitário, mas a realidade é sistêmica: Bill Gates teve acesso raro a um computador em 1968; os Beatles tocaram 1.200 noites em Hamburgo; a cultura agrícola de arroz asiática explica o desempenho em matemática. Gladwell discute ainda o \"efeito de parcela\" (o mês de corte que privilegia quem nasce no início do ano em esportes) e a \"vantagem acumulada\". O livro é um alerta contra o mito do mérito puro e um apelo a criar sistemas que distribuam oportunidades — e a reconhecer a sorte que nos formou.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Sucesso é só mérito",
+        "text": "Gladwell mostra que oportunidade e contexto pesam tanto quanto esforço.",
+        "reflection": "Você atribui tudo a mérito ou reconhece contexto?"
+      },
+      {
+        "type": "truth",
+        "title": "10.000 horas importam",
+        "text": "Prática deliberada sustenta a excelência, mas precisa de acesso.",
+        "reflection": "Você pratica com intenção ou só repete?"
+      },
+      {
+        "type": "myth",
+        "title": "Gênio nasce pronto",
+        "text": "Outliers tiveram janelas raras de prática e apoio.",
+        "reflection": "Você acha que os grandes nasceram prontos?"
+      },
+      {
+        "type": "truth",
+        "title": "Cultura influencia",
+        "text": "Herança agrícola e familiar molda disciplina e foco.",
+        "reflection": "Sua cultura ajuda ou atrapalha seu esforço?"
+      },
+      {
+        "type": "myth",
+        "title": "Mês de nascimento é irrelevante",
+        "text": "O \"efeito de parcela\" privilegia quem nasce cedo no corte.",
+        "reflection": "Sua data de corte favoreceu ou prejudicou você?"
+      },
+      {
+        "type": "truth",
+        "title": "Oportunidade histórica conta",
+        "text": "Estar no lugar e tempo certos abriu portas decisivas.",
+        "reflection": "Você já aproveitou a janela certa?"
+      },
+      {
+        "type": "myth",
+        "title": "Riqueza garante filhos",
+        "text": "Crianças de elite às vezes perdem autonomia e fogo interno.",
+        "reflection": "Dinheiro garante motivação dos filhos?"
+      },
+      {
+        "type": "truth",
+        "title": "Vantagem acumula",
+        "text": "Pequenas vantagens iniciais se multiplicam ao longo do tempo.",
+        "reflection": "Pequenas vantagens suas se multiplicaram?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento dispensa acesso",
+        "text": "Sem recurso e mentoria, talento frequentemente morre.",
+        "reflection": "Talento seu teve portas abertas?"
+      },
+      {
+        "type": "truth",
+        "title": "Sistema distribui sucesso",
+        "text": "Mudar regras de acesso amplia quem chega ao topo.",
+        "reflection": "Seu sistema abre ou fecha portas?"
+      },
+      {
+        "type": "myth",
+        "title": "Esforço individual basta",
+        "text": "O contexto familiar e escolar é decisivo e frequentemente invisível.",
+        "reflection": "Você enxerga o contexto por trás do esforço?"
+      },
+      {
+        "type": "truth",
+        "title": "Sorte é reconhecível",
+        "text": "Quem admite a sorte age com mais gratidão e estratégia.",
+        "reflection": "Você reconhece a sorte que o formou?"
+      },
+      {
+        "type": "myth",
+        "title": "Mérito puro existe",
+        "text": "A meritocracia pura ignora as bases sistêmicas do resultado.",
+        "reflection": "Você defende mérito sem ver a base?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Busque 10.000 horas",
+        "text": "Prática deliberada ainda é base de maestria."
+      },
+      {
+        "number": "2",
+        "title": "Aproveite janelas",
+        "text": "Identifique e use oportunidades históricas e locais."
+      },
+      {
+        "number": "3",
+        "title": "Entenda o efeito de parcela",
+        "text": "Saiba se cortes de idade favorecem ou não você."
+      },
+      {
+        "number": "4",
+        "title": "Valorize a cultura",
+        "text": "Reconheça como herança familiar molda hábitos."
+      },
+      {
+        "number": "5",
+        "title": "Crie acesso",
+        "text": "Abra portas para quem tem talento mas não recursos."
+      },
+      {
+        "number": "6",
+        "title": "Acumule vantagens",
+        "text": "Pequenas vantagens iniciais se multiplicam."
+      },
+      {
+        "number": "7",
+        "title": "Reconheça a sorte",
+        "text": "Admitir fortuna guia melhores escolhas."
+      },
+      {
+        "number": "8",
+        "title": "Combata o mito do mérito",
+        "text": "Veja o sistema por trás do sucesso alheio."
+      },
+      {
+        "number": "9",
+        "title": "Ofereça mentoria",
+        "text": "Apoio cedo muda a trajetória de outro."
+      },
+      {
+        "number": "10",
+        "title": "Planeje o contexto",
+        "text": "Coloque-se onde recursos e tempo existem."
+      },
+      {
+        "number": "11",
+        "title": "Distribua oportunidades",
+        "text": "Sistemas justos geram mais outliers."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Outliers não chegam sozinhos; são produto de oportunidade e prática.",
+        "autor": "Malcolm Gladwell",
+        "obra": "Outliers"
+      },
+      {
+        "texto": "A regra das dez mil horas separa o bom do excepcional.",
+        "autor": "Malcolm Gladwell",
+        "obra": "Outliers"
+      },
+      {
+        "texto": "Pessoas que chegam ao topo quase sempre tiveram uma vantagem inicial.",
+        "autor": "Malcolm Gladwell",
+        "obra": "Outliers"
+      },
+      {
+        "texto": "A cultura em que crescemos molda quanto esforço consideramos normal.",
+        "autor": "Malcolm Gladwell",
+        "obra": "Outliers"
+      },
+      {
+        "texto": "O sucesso é terra arrendada, não propriedade exclusiva.",
+        "autor": "Malcolm Gladwell",
+        "obra": "Outliers"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Me fez ver meu próprio privilégio e parar de julgar os outros.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Narrativa envolvente, embora alguns dados sejam contestados.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — A História de Roseto",
+        "text": "Um povo saudável por cultura, não genes isolados.",
+        "points": [
+          "Cultura.",
+          "Contexto."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — As 10.000 Horas",
+        "text": "Prática deliberada por trás de Bill Gates e Beatles.",
+        "points": [
+          "Prática.",
+          "Maestria."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — O Problema de Lewis Terman",
+        "text": "Alto QI não garante sucesso sem contexto.",
+        "points": [
+          "QI.",
+          "Contexto."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — O Efeito de Parcela",
+        "text": "Mês de nascimento decide vagas em esportes.",
+        "points": [
+          "Corte.",
+          "Vantagem."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — A Cultura do Arroz",
+        "text": "Herança agrícola explica desempenho em matemática.",
+        "points": [
+          "Herança.",
+          "Disciplina."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — A Vantagem Acumulada",
+        "text": "Pequenas vantagens iniciais se multiplicam.",
+        "points": [
+          "Acúmulo.",
+          "Efeito."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — O Legado",
+        "text": "História familiar molda padrões de conflito e foco.",
+        "points": [
+          "Legado.",
+          "Padrão."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — A Ilusão do Mérito",
+        "text": "Mérito puro ignora bases sistêmicas do sucesso.",
+        "points": [
+          "Mérito.",
+          "Sistema."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "coyle",
+    "summary": "The Talent Code (2009) investiga por que certos lugares e grupos produzem talento em série — de academias de tênis na Rússia a escolas de música na Inglaterra. Daniel Coyle conclui que o talento não é dom genético, e sim construído por um \"circuito de habilidade\" apoiado em três elementos: prática profunda (deep practice), ignição (uma senha cultural ou treinador que acende a motivação) e mestre (um professor que dá feedback de alta qualidade). O gancho central é a \"mielina\": cada erro corrigido e repetido envolve os neurônios em mielina, acelerando o sinal e fixando a habilidade — por isso errar do jeito certo acelera o aprendizado. Coyle descreve a \"prática profunda\" como repetição lenta, com erro e ajuste, dentro da \"zona de desconforto\". O livro é um manual de como criar ambientes (famílias, escolas, empresas) que gerem excelência reproduzível, contrastando com a ideia de \"nascido para isso\" Para líderes e profissionais, é uma prova de que confiar nas pessoas, em vez de vigiá-las, libera o melhor de cada um e amplia o desempenho coletivo.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Talento é dom genético",
+        "text": "Coyle mostra que talento é construído, não recebido por DNA.",
+        "reflection": "Você acha que nasceu ou se fez capaz?"
+      },
+      {
+        "type": "truth",
+        "title": "Mielina fixa habilidade",
+        "text": "Erro corrigido e repetido envolve neurônios e acelera o sinal.",
+        "reflection": "Seus erros estão sendo corrigidos?"
+      },
+      {
+        "type": "myth",
+        "title": "Repetição rápida ensina",
+        "text": "Prática profunda é lenta, com erro e ajuste, não automática.",
+        "reflection": "Você repete rápido ou pratica com erro?"
+      },
+      {
+        "type": "truth",
+        "title": "Errar certo acelera",
+        "text": "O erro na zona de desconforto é combustível de aprendizado.",
+        "reflection": "Você foge do erro ou o usa?"
+      },
+      {
+        "type": "myth",
+        "title": "Lugar não importa",
+        "text": "\"Sítios de talento\" compartilham ignição e mestres, não solo mágico.",
+        "reflection": "Seu ambiente estimula ou sufoca?"
+      },
+      {
+        "type": "truth",
+        "title": "Ignição é cultural",
+        "text": "Uma senha ou treinador acende a motivação duradoura.",
+        "reflection": "O que acende seu fogo interno?"
+      },
+      {
+        "type": "myth",
+        "title": "Bom professor basta",
+        "text": "Mestre dá feedback de alta qualidade, não só elogio.",
+        "reflection": "Seu feedback eleva ou acomoda?"
+      },
+      {
+        "type": "truth",
+        "title": "Zona de desconforto importa",
+        "text": "Aprender acontece na borda do que já se domina.",
+        "reflection": "Você pratica no limite ou na zona de conforto?"
+      },
+      {
+        "type": "myth",
+        "title": "Criança prodígio = adulto",
+        "text": "Muitos prodígios perdem fogo; ignição e prática sustentam.",
+        "reflection": "Prodígio precoce garante trajetória?"
+      },
+      {
+        "type": "truth",
+        "title": "Ambiente é designável",
+        "text": "Famílias e empresas podem desenhar cultura de excelência.",
+        "reflection": "Seu ambiente foi desenhado para crescer?"
+      },
+      {
+        "type": "myth",
+        "title": "Quantidade vence",
+        "text": "Qualidade da prática (profunda) supera volume bruto.",
+        "reflection": "Você faz muitas ou faz certo?"
+      },
+      {
+        "type": "truth",
+        "title": "Feedback fecha o circuito",
+        "text": "Sem resposta de alta qualidade, a mielina não se forma bem.",
+        "reflection": "Seu treino tem feedback preciso?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento se esgota",
+        "text": "Habilidade pode ser reconstruída em qualquer idade com prática certa.",
+        "reflection": "Você acha que já perdeu a chance?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Busque prática profunda",
+        "text": "Repita devagar, com erro e ajuste."
+      },
+      {
+        "number": "2",
+        "title": "Use a zona de desconforto",
+        "text": "Pratique na borda do que domina."
+      },
+      {
+        "number": "3",
+        "title": "Valorize o erro certo",
+        "text": "Errar e corrigir acelera a fixação."
+      },
+      {
+        "number": "4",
+        "title": "Encontre ignição",
+        "text": "Uma cultura ou mentor que acenda motivação."
+      },
+      {
+        "number": "5",
+        "title": "Busque mestre",
+        "text": "Feedback de alta qualidade fecha o circuito."
+      },
+      {
+        "number": "6",
+        "title": "Construa ambiente",
+        "text": "Desenhe cultura de excelência em casa ou empresa."
+      },
+      {
+        "number": "7",
+        "title": "Foque em mielina",
+        "text": "Pense no erro corrigido como investimento neural."
+      },
+      {
+        "number": "8",
+        "title": "Prefira qualidade",
+        "text": "Prática profunda supera volume bruto."
+      },
+      {
+        "number": "9",
+        "title": "Replaneje a motivação",
+        "text": "Mantenha o fogo com senhas culturais claras."
+      },
+      {
+        "number": "10",
+        "title": "Crie sítios de talento",
+        "text": "Reúna prática, ignição e mestre num lugar."
+      },
+      {
+        "number": "11",
+        "title": "Acredite na reconstrução",
+        "text": "Habilidade se refaz em qualquer idade."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "O talento é construído, não recebido.",
+        "autor": "Daniel Coyle",
+        "obra": "The Talent Code"
+      },
+      {
+        "texto": "A mielina é o isolamento que torna os circuitos do cérebro mais rápidos.",
+        "autor": "Daniel Coyle",
+        "obra": "The Talent Code"
+      },
+      {
+        "texto": "Errar do jeito certo é o combustível da prática profunda.",
+        "autor": "Daniel Coyle",
+        "obra": "The Talent Code"
+      },
+      {
+        "texto": "A prática profunda ocorre na zona de desconforto, não de conforto.",
+        "autor": "Daniel Coyle",
+        "obra": "The Talent Code"
+      },
+      {
+        "texto": "Talento emerge de um circuito: prática profunda, ignição e mestre.",
+        "autor": "Daniel Coyle",
+        "obra": "The Talent Code"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Apliquei a prática profunda com meus alunos e o progresso saltou.",
+        "autor": "Professor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Explica melhor que \"10 mil horas\" o papel do erro.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O Sítio do Talento",
+        "text": "Por que certos lugares geram excelência em série.",
+        "points": [
+          "Lugar.",
+          "Padrão."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — A Mielina",
+        "text": "Como erro corrigido isola e acelera neurônios.",
+        "points": [
+          "Mielina.",
+          "Cérebro."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Prática Profunda",
+        "text": "Repetição lenta, com erro e ajuste.",
+        "points": [
+          "Prática.",
+          "Erro."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — A Zona de Desconforto",
+        "text": "Aprender na borda do que já se domina.",
+        "points": [
+          "Zona.",
+          "Limite."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — A Ignição",
+        "text": "Senhas culturais que acendem motivação.",
+        "points": [
+          "Fogo.",
+          "Motivo."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — O Mestre",
+        "text": "Feedback de alta qualidade que fecha o circuito.",
+        "points": [
+          "Mestre.",
+          "Feedback."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Os Sítios na Prática",
+        "text": "Exemplos de academias e escolas de elite.",
+        "points": [
+          "Casos.",
+          "Aplicação."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Desenhar o Talento",
+        "text": "Criar ambientes que gerem excelência.",
+        "points": [
+          "Ambiente.",
+          "Cultura."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sinek",
+    "summary": "Start With Why (2009) apresenta o \"Círculo Dourado\" e a ideia central de que grandes líderes e organizações \"começam pelo porquê\". Simon Sinek observa que todos sabem o que fazem, alguns sabem como, mas pouquíssimos sabem por que fazem — e é o \"porquê\" (a crença, a causa) que inspira lealdade e ação, não o produto ou o preço. O gancho central vem da biologia: o cérebro límbico (emoção e decisão) não processa linguagem, por isso apelos racionais (\"o que\") convencem menos que apelos de propósito (\"porquê\"). Sinek usa exemplos como Apple, Martin Luther King e os irmãos Wright para mostrar que comunicar a partir do porquê atrai pessoas que acreditam. O livro é um manual de liderança por inSPIRAção: líderes que clarificam o propósito movem pessoas a agir por convicção, não por incentivo. A tese desafia o marketing tradicional de \"features\" e propõe que clareza de causa é vantagem competitiva duradoura.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "O que você vende importa",
+        "text": "Sinek mostra que o \"porquê\" inspira mais que o produto em si.",
+        "reflection": "Você vende o quê ou o porquê?"
+      },
+      {
+        "type": "truth",
+        "title": "Porquê move pessoas",
+        "text": "A crença e a causa geram lealdade maior que preço.",
+        "reflection": "Seu time segue por preço ou por convicção?"
+      },
+      {
+        "type": "myth",
+        "title": "Racional convence",
+        "text": "O cérebro límbico decide por emoção, não por lista de features.",
+        "reflection": "Você apela à razão ou à emoção?"
+      },
+      {
+        "type": "truth",
+        "title": "Círculo Dourado guia",
+        "text": "Começar do porquê (centro) alinha comunicação e ação.",
+        "reflection": "Sua mensagem parte do centro ou da borda?"
+      },
+      {
+        "type": "myth",
+        "title": "Líder manda, equipe obedece",
+        "text": "Liderança por inSPIRAção atrai, não comanda por medo.",
+        "reflection": "Você comanda ou inspira?"
+      },
+      {
+        "type": "truth",
+        "title": "Clareza atrai fiéis",
+        "text": "Quem sabe o porquê atrai pessoas que acreditam.",
+        "reflection": "Seu propósito atrai ou só informa?"
+      },
+      {
+        "type": "myth",
+        "title": "Features vendem sozinhas",
+        "text": "Produto bom sem causa raramente cria movimento.",
+        "reflection": "Sua oferta tem causa ou só função?"
+      },
+      {
+        "type": "truth",
+        "title": "Exemplo vem do porquê",
+        "text": "Apple e King comunicam crença antes de benefício.",
+        "reflection": "Seus exemplos partem da crença?"
+      },
+      {
+        "type": "myth",
+        "title": "Todo mundo sabe o porquê",
+        "text": "Pouquíssimos líderes articulam a causa com clareza.",
+        "reflection": "Você consegue dizer seu porquê em uma frase?"
+      },
+      {
+        "type": "truth",
+        "title": "Propósito é vantagem",
+        "text": "Clareza de causa supera concorrentes de produto igual.",
+        "reflection": "Seu propósito é diferencial ou cópia?"
+      },
+      {
+        "type": "myth",
+        "title": "Incentivo substitui sentido",
+        "text": "Bônus move pouco comparado a convicção.",
+        "reflection": "Você motiva por prêmio ou por sentido?"
+      },
+      {
+        "type": "truth",
+        "title": "Começar pelo centro alinha",
+        "text": "Decisões e comunicação coerentes nascem do porquê.",
+        "reflection": "Sua organização age alinhada ou fragmentada?"
+      },
+      {
+        "type": "myth",
+        "title": "Marketing é exterior",
+        "text": "O porquê deve viver na cultura, não só no anúncio.",
+        "reflection": "Seu propósito é cultura ou outdoor?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Descubra seu porquê",
+        "text": "Articule a crença que move sua organização."
+      },
+      {
+        "number": "2",
+        "title": "Use o Círculo Dourado",
+        "text": "Comunique do porquê para o como e o que."
+      },
+      {
+        "number": "3",
+        "title": "Lidere por inSPIRAção",
+        "text": "Atraia por convicção, não por comando."
+      },
+      {
+        "number": "4",
+        "title": "Apela ao límbico",
+        "text": "Use emoção e propósito, não só razão."
+      },
+      {
+        "number": "5",
+        "title": "Atraia fiéis",
+        "text": "Busque quem acredita, não só quem compra."
+      },
+      {
+        "number": "6",
+        "title": "Comece pelo centro",
+        "text": "Toda decisão deve nascer do propósito."
+      },
+      {
+        "number": "7",
+        "title": "Dê exemplo de causa",
+        "text": "Comunique crença antes de benefício."
+      },
+      {
+        "number": "8",
+        "title": "Clareza de propósito",
+        "text": "Uma frase de porquê alinha equipe e cliente."
+      },
+      {
+        "number": "9",
+        "title": "Diferencie por sentido",
+        "text": "Causa vira vantagem contra concorrentes iguais."
+      },
+      {
+        "number": "10",
+        "title": "Viva a cultura",
+        "text": "Propósito deve habitar a operação, não o anúncio."
+      },
+      {
+        "number": "11",
+        "title": "Mova por convicção",
+        "text": "Busque engajamento duradouro, não prêmio pontual."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Pessoas não compram o que você faz, compram o porquê você faz.",
+        "autor": "Simon Sinek",
+        "obra": "Start With Why"
+      },
+      {
+        "texto": "O Círculo Dourado: todos sabem o quê, poucos sabem o porquê.",
+        "autor": "Simon Sinek",
+        "obra": "Start With Why"
+      },
+      {
+        "texto": "Líderes que começam pelo porquê inspiram ação, não obediência.",
+        "autor": "Simon Sinek",
+        "obra": "Start With Why"
+      },
+      {
+        "texto": "O cérebro límbico decide por emoção, não por linguagem.",
+        "autor": "Simon Sinek",
+        "obra": "Start With Why"
+      },
+      {
+        "texto": "Clareza de causa é vantagem competitiva duradoura.",
+        "autor": "Simon Sinek",
+        "obra": "Start With Why"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "A palestra TED vale, e o livro aprofunda o Círculo Dourado.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Repete bastante o ponto central, mas transformador para líderes.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — Assume que você sabe",
+        "text": "Por que poucos líderes sabem o porquê.",
+        "points": [
+          "Porquê.",
+          "Lacuna."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O Círculo Dourado",
+        "text": "O modelo de comunicação do porquê ao que.",
+        "points": [
+          "Modelo.",
+          "Centro."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A Biologia",
+        "text": "Por que o cérebro límbico decide por emoção.",
+        "points": [
+          "Límbico.",
+          "Decisão."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Clareza, Disciplina, Coerência",
+        "text": "Como o porquê vira vantagem.",
+        "points": [
+          "Coerência.",
+          "Vantagem."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Liderança por InSPIRAção",
+        "text": "Atrair por convicção, não comando.",
+        "points": [
+          "Inspiração.",
+          "Liderança."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Os Irmãos Wright",
+        "text": "Exemplo de começar pelo porquê contra gigantes.",
+        "points": [
+          "Exemplo.",
+          "Causa."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Martin Luther King",
+        "text": "A mensagem de crença que moveu multidões.",
+        "points": [
+          "Crença.",
+          "Movimento."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Descubra seu Porquê",
+        "text": "Passos para articular a causa da sua organização.",
+        "points": [
+          "Descoberta.",
+          "Propósito."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "maxwell",
+    "summary": "The 21 Irrefutable Laws of Leadership (1998) sintetiza John C. Maxwell décadas de liderança em 21 \"leis\" atemporais, cada uma ilustrada com exemplos históricos e lições práticas. O gancho central é que liderança é influência, não cargo — \"se as pessoas não o seguem, você não é líder\". Entre as leis: a \"Lei do Tampo\" (a equipe não supera a capacidade do líder), a \"Lei da Influência\" (o cargo é a menor forma de liderança), a \"Lei do Processo\" (liderança se desenvolve diariamente, não num dia), a \"Lei da Navio\" (a equipe sabe quem é o capitão na crise), a \"Lei da Conexão\" (você só lidera quem tocou), a \"Lei do Cimento\" (a confiança é construída em pequenas interações), e a \"Lei do Legado\" (um líder é julgado pela capacidade de desenvolver outros). O livro é estruturado, acessível e amplamente usado em treinamentos corporativos e religiosos. Sua força está em tratar liderança como habilidade aprendível e em enfatizar caráter e desenvolvimento de pessoas acima de autoridade formal.",
+    "myths": [
+      {
+        "type": "myth",
+        "title": "Cargo faz líder",
+        "text": "Maxwell afirma que cargo é a menor forma de liderança; influência é a essência.",
+        "reflection": "Você lidera pelo cargo ou pela influência?"
+      },
+      {
+        "type": "truth",
+        "title": "Liderança é influência",
+        "text": "Se ninguém o segue, você não lidera, apenas ocupa posição.",
+        "reflection": "As pessoas o seguem por cargo ou por confiança?"
+      },
+      {
+        "type": "myth",
+        "title": "Líder nasce pronto",
+        "text": "A Lei do Processo mostra que liderança se desenvolve diariamente.",
+        "reflection": "Você acha que nasceu ou se faz líder?"
+      },
+      {
+        "type": "truth",
+        "title": "A equipe tem teto",
+        "text": "A \"Lei do Tampo\": o time não supera a capacidade do líder.",
+        "reflection": "Seu teto limita ou eleva o time?"
+      },
+      {
+        "type": "myth",
+        "title": "Crise revela qualquer um",
+        "text": "A Lei do Navio: todos sabem quem manda quando o mar agita.",
+        "reflection": "Sua equipe sabe quem é o capitão na crise?"
+      },
+      {
+        "type": "truth",
+        "title": "Conexão precede liderança",
+        "text": "Só lidera quem tocou e construiu laço real.",
+        "reflection": "Você conecta antes de pedir?"
+      },
+      {
+        "type": "myth",
+        "title": "Resultado isolado importa",
+        "text": "A Lei do Cimento: confiança se constrói em pequenas interações.",
+        "reflection": "Você cultiva confiança no dia a dia?"
+      },
+      {
+        "type": "truth",
+        "title": "Caráter sustenta",
+        "text": "Integridade é o piso sobre o qual toda liderança repousa.",
+        "reflection": "Sua liderança tem caráter ou só técnica?"
+      },
+      {
+        "type": "myth",
+        "title": "Mandar é liderar",
+        "text": "Comandar não cria seguidores; servir e inspirar, sim.",
+        "reflection": "Você manda ou serve ao time?"
+      },
+      {
+        "type": "truth",
+        "title": "Legado = desenvolver outros",
+        "text": "A Lei do Legado julga o líder por quem formou.",
+        "reflection": "Você forma líderes ou dependentes?"
+      },
+      {
+        "type": "myth",
+        "title": "Liderança é solitária",
+        "text": "O líder de sucesso constrói círculo íntimo de confiança.",
+        "reflection": "Você tem círculo de apoio ou isola?"
+      },
+      {
+        "type": "truth",
+        "title": "Foco em pessoas",
+        "text": "A Lei da Adição: líderes somam valor às pessoas.",
+        "reflection": "Você soma ou subtrai das pessoas?"
+      },
+      {
+        "type": "myth",
+        "title": "Intuição não conta",
+        "text": "A Lei da Intuição: líderes leem situações além dos dados.",
+        "reflection": "Você desenvolve leitura de contexto?"
+      }
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Lidere por influência",
+        "text": "Construa autoridade real, não só o título."
+      },
+      {
+        "number": "2",
+        "title": "Desenvolva-se diariamente",
+        "text": "Liderança é processo, não evento."
+      },
+      {
+        "number": "3",
+        "title": "Elevo o teto do time",
+        "text": "Cresça para que a equipe possa crescer."
+      },
+      {
+        "number": "4",
+        "title": "Conecte-se primeiro",
+        "text": "Toque as pessoas antes de liderá-las."
+      },
+      {
+        "number": "5",
+        "title": "Construa confiança",
+        "text": "Pequenas interações diárias cimentam lealdade."
+      },
+      {
+        "number": "6",
+        "title": "Mantenha caráter",
+        "text": "Integridade é o piso da liderança."
+      },
+      {
+        "number": "7",
+        "title": "Sirva, não só comande",
+        "text": "Liderança de serviço atrai seguidores."
+      },
+      {
+        "number": "8",
+        "title": "Forme outros líderes",
+        "text": "Seu legado é quem você desenvolve."
+      },
+      {
+        "number": "9",
+        "title": "Monte círculo íntimo",
+        "text": "Cerque-se de conselheiros de confiança."
+      },
+      {
+        "number": "10",
+        "title": "Some valor às pessoas",
+        "text": "Foque em elevar quem está ao redor."
+      },
+      {
+        "number": "11",
+        "title": "Leia a intuição",
+        "text": "Desenvolva leitura de contexto além dos dados."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Se as pessoas não o seguem, você não é um líder; apenas ocupa um cargo.",
+        "autor": "John Maxwell",
+        "obra": "The 21 Irrefutable Laws of Leadership"
+      },
+      {
+        "texto": "A verdadeira essência da liderança é a influência, nada mais.",
+        "autor": "John Maxwell",
+        "obra": "The 21 Irrefutable Laws of Leadership"
+      },
+      {
+        "texto": "A Lei do Tampo: a equipe só chega onde o líder a leva.",
+        "autor": "John Maxwell",
+        "obra": "The 21 Irrefutable Laws of Leadership"
+      },
+      {
+        "texto": "Liderança se desenvolve diariamente, não em um único dia.",
+        "autor": "John Maxwell",
+        "obra": "The 21 Irrefutable Laws of Leadership"
+      },
+      {
+        "texto": "Um líder é julgado pela capacidade de desenvolver outros líderes.",
+        "autor": "John Maxwell",
+        "obra": "The 21 Irrefutable Laws of Leadership"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Usei as 21 leis num treinamento de gestores e funcionou muito bem.",
+        "autor": "Treinador",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Bastante repetitivo, mas ótimo como manual de referência.",
+        "autor": "Crítico",
+        "fonte": "Amazon BR"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — A Lei do Tampo",
+        "text": "O time não supera a capacidade do líder.",
+        "points": [
+          "Teto.",
+          "Limite."
+        ]
+      },
+      {
+        "title": "Capítulo 2 — A Lei da Influência",
+        "text": "Cargo é a menor forma de liderança.",
+        "points": [
+          "Influência.",
+          "Cargo."
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A Lei do Processo",
+        "text": "Liderança se desenvolve diariamente.",
+        "points": [
+          "Processo.",
+          "Crescimento."
+        ]
+      },
+      {
+        "title": "Capítulo 4 — A Lei do Navio",
+        "text": "Na crise, todos sabem quem manda.",
+        "points": [
+          "Crise.",
+          "Capitão."
+        ]
+      },
+      {
+        "title": "Capítulo 5 — A Lei da Conexão",
+        "text": "Só lidera quem tocou a pessoa.",
+        "points": [
+          "Conexão.",
+          "Laço."
+        ]
+      },
+      {
+        "title": "Capítulo 6 — A Lei do Cimento",
+        "text": "Confiança se constrói em pequenas interações.",
+        "points": [
+          "Confiança.",
+          "Pequenos."
+        ]
+      },
+      {
+        "title": "Capítulo 7 — A Lei do Legado",
+        "text": "Líder é julgado por quem desenvolve.",
+        "points": [
+          "Legado.",
+          "Formação."
+        ]
+      },
+      {
+        "title": "Capítulo 8 — A Lei da Adição",
+        "text": "Líderes somam valor às pessoas ao redor.",
+        "points": [
+          "Valor.",
+          "Soma."
+        ]
+      }
+    ]
+  }
+]

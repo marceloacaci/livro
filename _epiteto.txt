@@ -1,0 +1,130 @@
+"id": "epiteto",
+    "slug": "o-manual",
+    "title": "Enchiridion",
+    "titlePt": "O Manual de Epiteto: O Caminho da Liberdade",
+    "author": "Epiteto",
+    "year": "c. 125 d.C.",
+    "editionYear": "2015",
+    "publisher": "L&PM / Martin Claret",
+    "pages": "128",
+    "genre": "Filosofia / Estoicismo",
+    "language": "Grego/Português",
+    "copiesSold": "Clássico",
+    "cover": "img/epiteto-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Distinguir controle",
+        "text": "O que é seu vs externo.",
+        "reflection": "Você se irrita com externo?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudar outros",
+        "text": "Só você muda.",
+        "reflection": "Você tenta mudar gente?"
+      },
+      {
+        "type": "truth",
+        "title": "Opinião dói",
+        "text": "Dor é julgamento.",
+        "reflection": "Você sofre pelo rótulo?"
+      },
+      {
+        "type": "myth",
+        "title": "Coisas machucam",
+        "text": "Sentido machuca.",
+        "reflection": "Você culpa objeto?"
+      },
+      {
+        "type": "truth",
+        "title": "Aceitar",
+        "text": "Real é real.",
+        "reflection": "Você briga com fato?"
+      },
+      {
+        "type": "myth",
+        "title": "Merecer",
+        "text": "Mundo não deve.",
+        "reflection": "Você cobra mundo?"
+      }
+    ],
+    "summary": "Epiteto, ex-escravo, resume o estoicismo em frases diretas: separe o que depende de você do que não depende, e encontre liberdade na resposta.",
+    "color": "#c0392b",
+    "file": "livro.html#o-manual",
+    "citacoes": [
+      {
+        "texto": "Algumas coisas estão em nosso poder, outras não.",
+        "autor": "Epiteto",
+        "obra": "Enchiridion"
+      },
+      {
+        "texto": "Não são as coisas que perturbam os homens, mas as opiniões sobre as coisas.",
+        "autor": "Epiteto",
+        "obra": "Enchiridion"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Manual estoico mais citado.",
+        "autor": "Filosofia",
+        "fonte": "Cânone"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Controle",
+        "text": "Separe o seu do externo.",
+        "explicacoes": [
+          "Externo solta.",
+          "Você foca.",
+          "Paz."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Opinião",
+        "text": "Dor é julgamento.",
+        "explicacoes": [
+          "Mudar rótulo.",
+          "Sofrer menos.",
+          "Livre."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Aceitar",
+        "text": "Fato é facto.",
+        "explicacoes": [
+          "Briga sai.",
+          "Agir no possível.",
+          "Real."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Controle",
+        "texto": "Separe."
+      },
+      {
+        "titulo": "Opinião",
+        "texto": "Dói."
+      },
+      {
+        "titulo": "Aceitar",
+        "texto": "Fato."
+      }
+    ]
+  },
+  {
+    
