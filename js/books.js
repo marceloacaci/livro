@@ -24477,57 +24477,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Defina posicionamento",
-        "text": "Para quem, que faz o quê, melhor que quem."
+        "text": "Para quem, que faz o quê, melhor que quem.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Defina posicionamento\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Para quem, que faz o quê, melhor que quem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina posicionamento\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Crie um mantra",
-        "text": "Frases curtas guiam a equipe melhor que missão longa."
+        "text": "Frases curtas guiam a equipe melhor que missão longa.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Crie um mantra\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Frases curtas guiam a equipe melhor que missão longa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie um mantra\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Monte pitch 10/20/30",
-        "text": "Clareza e respeito ao tempo do investidor."
+        "text": "Clareza e respeito ao tempo do investidor.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Monte pitch 10/20/30\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Clareza e respeito ao tempo do investidor — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Monte pitch 10/20/30\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Encante o cliente",
-        "text": "Vá além da satisfação para gerar apaixonados."
+        "text": "Vá além da satisfação para gerar apaixonados.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Encante o cliente\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Vá além da satisfação para gerar apaixonados — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Encante o cliente\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Contrate por encaixe",
-        "text": "Busque cultura e atitude, não só currículo."
+        "text": "Busque cultura e atitude, não só currículo.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Contrate por encaixe\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Busque cultura e atitude, não só currículo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Contrate por encaixe\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use social como diálogo",
-        "text": "Converse, não apenas anuncie."
+        "text": "Converse, não apenas anuncie.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Use social como diálogo\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Converse, não apenas anuncie — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use social como diálogo\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Bootstrap quando possível",
-        "text": "Capital externo cedo nem sempre ajuda."
+        "text": "Capital externo cedo nem sempre ajuda.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Bootstrap quando possível\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Capital externo cedo nem sempre ajuda — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Bootstrap quando possível\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Busque parcerias",
-        "text": "\"Chuva\" de aliados acelera sem custo alto."
+        "text": "\"Chuva\" de aliados acelera sem custo alto.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Busque parcerias\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: \"Chuva\" de aliados acelera sem custo alto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque parcerias\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Saiba pivotar",
-        "text": "Reconheça quando fugir ou mudar o jogo."
+        "text": "Reconheça quando fugir ou mudar o jogo.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Saiba pivotar\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Reconheça quando fugir ou mudar o jogo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Saiba pivotar\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Evangelize",
-        "text": "Transforme usuários em divulgadores."
+        "text": "Transforme usuários em divulgadores.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Evangelize\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Transforme usuários em divulgadores — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evangelize\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Foque na dor real",
-        "text": "Resolva o problema do cliente, não sua ideia."
+        "text": "Resolva o problema do cliente, não sua ideia.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Foque na dor real\" como peça-chave para encantar o cliente e empreender com atitude.",
+          "Na prática: Resolva o problema do cliente, não sua ideia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque na dor real\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -24549,64 +24604,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Abertura",
         "text": "Posicionamento, storytelling e grito de guerra da startup.",
         "points": [
-          "Posicionamento.",
-          "História."
+          {
+            "t": "Posicionamento.",
+            "e": "Posicionamento, storytelling e grito de guerra da startup.",
+            "f": "Na visão de Guy Kawasaki, \"posicionamento.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "História.",
+            "e": "Posicionamento, storytelling e grito de guerra da startup.",
+            "f": "Na visão de Guy Kawasaki, \"história.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Posicionamento",
         "text": "Para quem, que faz o quê, melhor que quem.",
         "points": [
-          "Segmento.",
-          "Diferencial."
+          {
+            "t": "Segmento.",
+            "e": "Para quem, que faz o quê, melhor que quem.",
+            "f": "Na visão de Guy Kawasaki, \"segmento.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Diferencial.",
+            "e": "Para quem, que faz o quê, melhor que quem.",
+            "f": "Na visão de Guy Kawasaki, \"diferencial.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Arremesso",
         "text": "O pitch 10/20/30 e como apresentar bem.",
         "points": [
-          "Pitch.",
-          "Clareza."
+          {
+            "t": "Pitch.",
+            "e": "O pitch 10/20/30 e como apresentar bem.",
+            "f": "O pitch perfeito: dez slides, vinte minutos, fonte trinta.",
+            "real": true
+          },
+          {
+            "t": "Clareza.",
+            "e": "O pitch 10/20/30 e como apresentar bem.",
+            "f": "Na visão de Guy Kawasaki, \"clareza.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Emprego de Princípios",
         "text": "Contratar por encaixe e atitude.",
         "points": [
-          "Cultura.",
-          "Time."
+          {
+            "t": "Cultura.",
+            "e": "Contratar por encaixe e atitude.",
+            "f": "Na visão de Guy Kawasaki, \"cultura.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Time.",
+            "e": "Contratar por encaixe e atitude.",
+            "f": "Na visão de Guy Kawasaki, \"time.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Arrecadação",
         "text": "Bootstrapping e quando buscar investidor.",
         "points": [
-          "Capital.",
-          "Sustento."
+          {
+            "t": "Capital.",
+            "e": "Bootstrapping e quando buscar investidor.",
+            "f": "Na visão de Guy Kawasaki, \"capital.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Sustento.",
+            "e": "Bootstrapping e quando buscar investidor.",
+            "f": "Na visão de Guy Kawasaki, \"sustento.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Relacionamento",
         "text": "Social media como diálogo, não outdoor.",
         "points": [
-          "Rede.",
-          "Conversa."
+          {
+            "t": "Rede.",
+            "e": "Social media como diálogo, não outdoor.",
+            "f": "Na visão de Guy Kawasaki, \"rede.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Conversa.",
+            "e": "Social media como diálogo, não outdoor.",
+            "f": "Na visão de Guy Kawasaki, \"conversa.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Mistura",
         "text": "Desenhar o modelo de negócio após encantar.",
         "points": [
-          "Modelo.",
-          "Receita."
+          {
+            "t": "Modelo.",
+            "e": "Desenhar o modelo de negócio após encantar.",
+            "f": "Na visão de Guy Kawasaki, \"modelo.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Receita.",
+            "e": "Desenhar o modelo de negócio após encantar.",
+            "f": "Na visão de Guy Kawasaki, \"receita.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Fuga",
         "text": "Saber pivotar ou encerrar na hora certa.",
         "points": [
-          "Pivot.",
-          "Sair."
+          {
+            "t": "Pivot.",
+            "e": "Saber pivotar ou encerrar na hora certa.",
+            "f": "Na visão de Guy Kawasaki, \"pivot.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Sair.",
+            "e": "Saber pivotar ou encerrar na hora certa.",
+            "f": "Na visão de Guy Kawasaki, \"sair.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -24759,57 +24894,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Habit o agora",
-        "text": "Traga a atenção repetidamente ao presente."
+        "text": "Traga a atenção repetidamente ao presente.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Habit o agora\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: Traga a atenção repetidamente ao presente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Habit o agora\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Observe pensamentos",
-        "text": "Veja o pensamento como objeto, não como verdade."
+        "text": "Veja o pensamento como objeto, não como verdade.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Observe pensamentos\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: Veja o pensamento como objeto, não como verdade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Observe pensamentos\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Sinta o corpo",
-        "text": "Use a atenção corporal para ancorar no presente."
+        "text": "Use a atenção corporal para ancorar no presente.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Sinta o corpo\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: Use a atenção corporal para ancorar no presente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sinta o corpo\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Pratique não-resistência",
-        "text": "Aceite o momento como ele é para dissipar conflito."
+        "text": "Aceite o momento como ele é para dissipar conflito.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Pratique não-resistência\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: Aceite o momento como ele é para dissipar conflito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique não-resistência\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Identifique a dor do corpo",
-        "text": "Reconheça emoção acumulada sem se fundir a ela."
+        "text": "Reconheça emoção acumulada sem se fundir a ela.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Identifique a dor do corpo\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: Reconheça emoção acumulada sem se fundir a ela — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Identifique a dor do corpo\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Cultive silêncio",
-        "text": "Reserve espaço sem ruído mental diariamente."
+        "text": "Reserve espaço sem ruído mental diariamente.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Cultive silêncio\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: Reserve espaço sem ruído mental diariamente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive silêncio\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Separe eu de pensamento",
-        "text": "Lembre-se de que a essência precede a mente."
+        "text": "Lembre-se de que a essência precede a mente.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Separe eu de pensamento\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: Lembre-se de que a essência precede a mente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Separe eu de pensamento\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Aceite o que é",
-        "text": "A luta interna some quando o presente é aceito."
+        "text": "A luta interna some quando o presente é aceito.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Aceite o que é\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: A luta interna some quando o presente é aceito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o que é\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Reduza o tempo psicológico",
-        "text": "Menos projeção futura, mais presença."
+        "text": "Menos projeção futura, mais presença.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Reduza o tempo psicológico\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: Menos projeção futura, mais presença — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza o tempo psicológico\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Use a respiração",
-        "text": "Respirar consciente retorna ao agora."
+        "text": "Respirar consciente retorna ao agora.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Use a respiração\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: Respirar consciente retorna ao agora — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a respiração\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Busque a paz interior",
-        "text": "A paz é estado, não consequência de eventos."
+        "text": "A paz é estado, não consequência de eventos.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Busque a paz interior\" como peça-chave para a presença no agora como caminho da paz interior.",
+          "Na prática: A paz é estado, não consequência de eventos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque a paz interior\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -24831,64 +25021,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Você Não é sua Mente",
         "text": "Tolle separa a essência do pensamento automático.",
         "points": [
-          "Essência.",
-          "Mente."
+          {
+            "t": "Essência.",
+            "e": "Tolle separa a essência do pensamento automático.",
+            "f": "Você não é seus pensamentos; é quem os observa.",
+            "real": true
+          },
+          {
+            "t": "Mente.",
+            "e": "Tolle separa a essência do pensamento automático.",
+            "f": "A mente é uma ferramenta excelente, mas um mestre terrível.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Consciência do Agora",
         "text": "O presente como única realidade vivível.",
         "points": [
-          "Presente.",
-          "Realidade."
+          {
+            "t": "Presente.",
+            "e": "O presente como única realidade vivível.",
+            "f": "O segredo da vida é morar no agora.",
+            "real": true
+          },
+          {
+            "t": "Realidade.",
+            "e": "O presente como única realidade vivível.",
+            "f": "Na visão de Eckhart Tolle, \"realidade.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Dor do Corpo",
         "text": "Emoções não processadas que se alimentam de sofrimento.",
         "points": [
-          "Dor.",
-          "Emoção."
+          {
+            "t": "Dor.",
+            "e": "Emoções não processadas que se alimentam de sofrimento.",
+            "f": "Na visão de Eckhart Tolle, \"dor.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          },
+          {
+            "t": "Emoção.",
+            "e": "Emoções não processadas que se alimentam de sofrimento.",
+            "f": "Na visão de Eckhart Tolle, \"emoção.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Entrar no Agora",
         "text": "Práticas de presença e observação.",
         "points": [
-          "Presença.",
-          "Prática."
+          {
+            "t": "Presença.",
+            "e": "Práticas de presença e observação.",
+            "f": "O segredo da vida é morar no agora.",
+            "real": true
+          },
+          {
+            "t": "Prática.",
+            "e": "Práticas de presença e observação.",
+            "f": "Na visão de Eckhart Tolle, \"prática.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O Significado de Não-Resistência",
         "text": "Aceitar o momento para dissipar conflito.",
         "points": [
-          "Aceitação.",
-          "Paz."
+          {
+            "t": "Aceitação.",
+            "e": "Aceitar o momento para dissipar conflito.",
+            "f": "A aceitação do momento presente dissolve o sofrimento interno.",
+            "real": true
+          },
+          {
+            "t": "Paz.",
+            "e": "Aceitar o momento para dissipar conflito.",
+            "f": "Na visão de Eckhart Tolle, \"paz.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O Tempo Psicológico",
         "text": "Como passado e futuro alimentam a inquietação.",
         "points": [
-          "Tempo.",
-          "Ilusão."
+          {
+            "t": "Tempo.",
+            "e": "Como passado e futuro alimentam a inquietação.",
+            "f": "Na visão de Eckhart Tolle, \"tempo.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          },
+          {
+            "t": "Ilusão.",
+            "e": "Como passado e futuro alimentam a inquietação.",
+            "f": "Na visão de Eckhart Tolle, \"ilusão.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Estado de Presença",
         "text": "Acessar a clareza além do conteúdo mental.",
         "points": [
-          "Clareza.",
-          "Ser."
+          {
+            "t": "Clareza.",
+            "e": "Acessar a clareza além do conteúdo mental.",
+            "f": "Na visão de Eckhart Tolle, \"clareza.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          },
+          {
+            "t": "Ser.",
+            "e": "Acessar a clareza além do conteúdo mental.",
+            "f": "Na visão de Eckhart Tolle, \"ser.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O Caminho da Paz",
         "text": "Integrar presença como forma de vida.",
         "points": [
-          "Paz.",
-          "Caminho."
+          {
+            "t": "Paz.",
+            "e": "Integrar presença como forma de vida.",
+            "f": "Na visão de Eckhart Tolle, \"paz.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          },
+          {
+            "t": "Caminho.",
+            "e": "Integrar presença como forma de vida.",
+            "f": "Na visão de Eckhart Tolle, \"caminho.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -25041,57 +25311,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Devolva autonomia",
-        "text": "Deixe a equipe decidir como entregar."
+        "text": "Deixe a equipe decidir como entregar.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Devolva autonomia\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Deixe a equipe decidir como entregar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Devolva autonomia\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Pratique gestão por exceção",
-        "text": "Intervenha só fora do padrão."
+        "text": "Intervenha só fora do padrão.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Pratique gestão por exceção\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Intervenha só fora do padrão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique gestão por exceção\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Abra a transparência",
-        "text": "Compartilhe números e critérios de salário."
+        "text": "Compartilhe números e critérios de salário.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Abra a transparência\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Compartilhe números e critérios de salário — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abra a transparência\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Elimine dress code",
-        "text": "Foco no trabalho, não na aparência."
+        "text": "Foco no trabalho, não na aparência.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Elimine dress code\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Foco no trabalho, não na aparência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Elimine dress code\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Permita horário flexível",
-        "text": "Resultado importa mais que presença física."
+        "text": "Resultado importa mais que presença física.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Permita horário flexível\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Resultado importa mais que presença física — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Permita horário flexível\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Deixe inspeções",
-        "text": "Funcionários devem poder avaliar a gestão."
+        "text": "Funcionários devem poder avaliar a gestão.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Deixe inspeções\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Funcionários devem poder avaliar a gestão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Deixe inspeções\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Trote líderes",
-        "text": "Rotação evita vícios de poder e silos."
+        "text": "Rotação evita vícios de poder e silos.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Trote líderes\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Rotação evita vícios de poder e silos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trote líderes\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Trate adultos como tais",
-        "text": "Confiança eleva responsabilidade."
+        "text": "Confiança eleva responsabilidade.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Trate adultos como tais\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Confiança eleva responsabilidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trate adultos como tais\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Repense o sentido",
-        "text": "Trabalho precisa nutrir, não só remunerar."
+        "text": "Trabalho precisa nutrir, não só remunerar.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Repense o sentido\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Trabalho precisa nutrir, não só remunerar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Repense o sentido\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Menuse regras",
-        "text": "Princípios flexíveis adaptam melhor."
+        "text": "Princípios flexíveis adaptam melhor.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Menuse regras\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Princípios flexíveis adaptam melhor — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Menuse regras\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Una lucro e liberdade",
-        "text": "Democratizar pode ser vantagem competitiva."
+        "text": "Democratizar pode ser vantagem competitiva.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Una lucro e liberdade\" como peça-chave para a gestão democrática e a confiança nos adultos.",
+          "Na prática: Democratizar pode ser vantagem competitiva — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Una lucro e liberdade\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -25113,64 +25438,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Virada",
         "text": "Semler herda a Semco e decide mudar tudo.",
         "points": [
-          "Herança.",
-          "Mudança."
+          {
+            "t": "Herança.",
+            "e": "Semler herda a Semco e decide mudar tudo.",
+            "f": "Na visão de Ricardo Semler, \"herança.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          },
+          {
+            "t": "Mudança.",
+            "e": "Semler herda a Semco e decide mudar tudo.",
+            "f": "Na visão de Ricardo Semler, \"mudança.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Crise de Saúde",
         "text": "O alerta que o fez repensar o sentido do trabalho.",
         "points": [
-          "Saúde.",
-          "Sentido."
+          {
+            "t": "Saúde.",
+            "e": "O alerta que o fez repensar o sentido do trabalho.",
+            "f": "Na visão de Ricardo Semler, \"saúde.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          },
+          {
+            "t": "Sentido.",
+            "e": "O alerta que o fez repensar o sentido do trabalho.",
+            "f": "O trabalho sem sentido adoece mais que a falta dele.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Horários e Roupas",
         "text": "Fim de dress code e jornadas flexíveis.",
         "points": [
-          "Flexibilidade.",
-          "Confiança."
+          {
+            "t": "Flexibilidade.",
+            "e": "Fim de dress code e jornadas flexíveis.",
+            "f": "Na visão de Ricardo Semler, \"flexibilidade.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          },
+          {
+            "t": "Confiança.",
+            "e": "Fim de dress code e jornadas flexíveis.",
+            "f": "Na visão de Ricardo Semler, \"confiança.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Salários Abertos",
         "text": "Comitês de funcionários definem remuneração.",
         "points": [
-          "Transparência.",
-          "Equidade."
+          {
+            "t": "Transparência.",
+            "e": "Comitês de funcionários definem remuneração.",
+            "f": "Na visão de Ricardo Semler, \"transparência.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          },
+          {
+            "t": "Equidade.",
+            "e": "Comitês de funcionários definem remuneração.",
+            "f": "Na visão de Ricardo Semler, \"equidade.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Gestão por Exceção",
         "text": "Líder intervém só no fora do padrão.",
         "points": [
-          "Exceção.",
-          "Liberdade."
+          {
+            "t": "Exceção.",
+            "e": "Líder intervém só no fora do padrão.",
+            "f": "A gestão por exceção libera o líder para o que importa.",
+            "real": true
+          },
+          {
+            "t": "Liberdade.",
+            "e": "Líder intervém só no fora do padrão.",
+            "f": "Na visão de Ricardo Semler, \"liberdade.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Inspeções",
         "text": "Operários avaliam e removem líderes.",
         "points": [
-          "Poder.",
-          "Voz."
+          {
+            "t": "Poder.",
+            "e": "Operários avaliam e removem líderes.",
+            "f": "Na visão de Ricardo Semler, \"poder.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          },
+          {
+            "t": "Voz.",
+            "e": "Operários avaliam e removem líderes.",
+            "f": "Na visão de Ricardo Semler, \"voz.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Rotação",
         "text": "Líderes rotativos evitam vícios de poder.",
         "points": [
-          "Rotação.",
-          "Visão."
+          {
+            "t": "Rotação.",
+            "e": "Líderes rotativos evitam vícios de poder.",
+            "f": "Na visão de Ricardo Semler, \"rotação.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          },
+          {
+            "t": "Visão.",
+            "e": "Líderes rotativos evitam vícios de poder.",
+            "f": "Na visão de Ricardo Semler, \"visão.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A Empresa Democrática",
         "text": "Unir lucro, autonomia e sentido.",
         "points": [
-          "Democracia.",
-          "Resultado."
+          {
+            "t": "Democracia.",
+            "e": "Unir lucro, autonomia e sentido.",
+            "f": "Democratizar o trabalho não afunda a empresa; a fortalece.",
+            "real": true
+          },
+          {
+            "t": "Resultado.",
+            "e": "Unir lucro, autonomia e sentido.",
+            "f": "Na visão de Ricardo Semler, \"resultado.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          }
         ]
       }
     ]
