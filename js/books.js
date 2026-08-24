@@ -51937,6 +51937,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Controle total é possível",
         "text": "Richards aceita a incerteza; controlar é a própria reação, não o mercado.",
         "reflection": "Você tenta controlar o que não pode?"
+      },
+      {
+        "type": "truth",
+        "title": "A lacuna entre saber e fazer é o problema real",
+        "text": "Richards desenha como simplificar decisões financeiras para agir melhor.",
+        "reflection": "Você sabe o que fazer e não faz por quê?"
       }
     ],
     "summary": "Carl Richards, planejador financeiro e ilustrador, escreve \"A Lacuna do Comportamento\" sobre a maior barreira entre as pessoas e o sucesso financeiro: não é falta de conhecimento, é o próprio comportamento. Richards batizou de \"behavior gap\" a distância entre o que saberíamos que deveríamos fazer e o que fazemos sob emoção. Com desenhos simples no guardanapo, ele mostra como o pânico nas quedas e a euforia nas altas destroem o retorno de longo prazo. O gancho é que o investidor é o próprio pior inimigo. Ele defende decisões baseadas em princípios e não em previsões, e ensina a desacelerar: perguntar \"por que?\" antes de cada movimento. O livro é um lembrete de que planejamento não é sobre produtos, é sobre comportamento. Com linguagem gentil e visual, Richards devolve ao leitor o controle sobre suas escolhas, provando que pequenas mudanças de hábito valem mais que qualquer dica de mercado. Richards prova, com traços no guardanapo, que a disciplina emocional supera qualquer planilha sofisticada quando o mercado aperta.",
@@ -51957,27 +51963,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Não tente adivinhar o futuro; decida com base em princípios.",
         "autor": "Carl Richards",
         "obra": "A Lacuna do Comportamento"
-      },
-      {
-        "texto": "Antes de agir, pergunte: por que estou fazendo isso?",
-        "autor": "Carl Richards",
-        "obra": "A Lacuna do Comportamento"
-      },
-      {
-        "texto": "Planos simples vencem porque são os que conseguimos seguir.",
-        "autor": "Carl Richards",
-        "obra": "A Lacuna do Comportamento"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro mais honesto sobre finanças que já li — fala de mim mesmo, não de produtos.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Poucas páginas, impacto profundo sobre os próprios erros.",
-        "autor": "Crítico de Finanças",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -51994,9 +51990,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Identifique a lacuna",
         "text": "Meça a diferença entre o retorno do mercado e o seu; aí está o comportamento.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Identifique a lacuna\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Meça a diferença entre o retorno do mercado e o seu; aí está o comportamento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Identifique a lacuna\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Identifique a lacuna\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Meça a diferença entre o retorno do mercado e o seu; aí está o comportamento — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Identifique a lacuna\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52004,9 +52000,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Você é o inimigo",
         "text": "Reconhecer que o pior erro vem de dentro é o primeiro passo.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Você é o inimigo\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Reconhecer que o pior erro vem de dentro é o primeiro passo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Você é o inimigo\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Você é o inimigo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer que o pior erro vem de dentro é o primeiro passo — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Você é o inimigo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52014,9 +52010,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Decida por princípios",
         "text": "Regras escritas substituem o palpite emocional na hora.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Decida por princípios\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Regras escritas substituem o palpite emocional na hora — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Decida por princípios\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Decida por princípios\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Regras escritas substituem o palpite emocional na hora — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Decida por princípios\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52024,9 +52020,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desaceler e pergunte por quê",
         "text": "Uma pausa antes de agir evita a decisão automática errada.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Desaceler e pergunte por quê\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Uma pausa antes de agir evita a decisão automática errada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desaceler e pergunte por quê\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Desaceler e pergunte por quê\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma pausa antes de agir evita a decisão automática errada — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Desaceler e pergunte por quê\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52034,9 +52030,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não venda no pânico",
         "text": "Quedas são temporais; realizar o prejuízo trava o dano.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Não venda no pânico\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Quedas são temporais; realizar o prejuízo trava o dano — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não venda no pânico\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Não venda no pânico\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quedas são temporais; realizar o prejuízo trava o dano — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Não venda no pânico\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52044,9 +52040,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não compre na euforia",
         "text": "Entusiasmo de massa costuma marcar o topo, não a entrada.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Não compre na euforia\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Entusiasmo de massa costuma marcar o topo, não a entrada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não compre na euforia\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Não compre na euforia\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Entusiasmo de massa costuma marcar o topo, não a entrada — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Não compre na euforia\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52054,9 +52050,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Simplifique o plano",
         "text": "Menos complexidade, mais aderência; o simples é o que se cumpre.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Simplifique o plano\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Menos complexidade, mais aderência; o simples é o que se cumpre — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Simplifique o plano\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Simplifique o plano\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Menos complexidade, mais aderência; o simples é o que se cumpre — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Simplifique o plano\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52064,9 +52060,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o desenho",
         "text": "Visualizar a decisão ajuda a ver o óbvio que a emoção esconde.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Use o desenho\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Visualizar a decisão ajuda a ver o óbvio que a emoção esconde — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o desenho\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Use o desenho\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Visualizar a decisão ajuda a ver o óbvio que a emoção esconde — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Use o desenho\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52074,9 +52070,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque no comportamento",
         "text": "Produtos importam menos que a disciplina de segui-los.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Foque no comportamento\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Produtos importam menos que a disciplina de segui-los — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque no comportamento\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Foque no comportamento\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Produtos importam menos que a disciplina de segui-los — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Foque no comportamento\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52084,9 +52080,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite a incerteza",
         "text": "Controle sua reação, não o mercado; isso já é grande vantagem.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Aceite a incerteza\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Controle sua reação, não o mercado; isso já é grande vantagem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite a incerteza\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Aceite a incerteza\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Controle sua reação, não o mercado; isso já é grande vantagem — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Aceite a incerteza\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52094,9 +52090,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Automatize o bom",
         "text": "Aportes e rebalanceamento automáticos reduzem a tentação de errar.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Automatize o bom\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Aportes e rebalanceamento automáticos reduzem a tentação de errar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Automatize o bom\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Automatize o bom\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aportes e rebalanceamento automáticos reduzem a tentação de errar — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Automatize o bom\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52104,9 +52100,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pequenas mudanças, grandes efeitos",
         "text": "Ajustar hábitos de escolha vale mais que caçar a dica perfeita.",
         "explicacoes": [
-          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards trata \"Pequenas mudanças, grandes efeitos\" como peça-chave para o dinheiro e a vida pela psicologia financeira.",
-          "Na prática: Ajustar hábitos de escolha vale mais que caçar a dica perfeita — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pequenas mudanças, grandes efeitos\" aplica o dinheiro e a vida pela psicologia financeira de forma concreta, não apenas como conceito."
+          "Em \"A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro\", Carl Richards coloca \"Pequenas mudanças, grandes efeitos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ajustar hábitos de escolha vale mais que caçar a dica perfeita — traduzido para a prática, é o passo concreto que liga a teoria de Carl Richards ao comportamento diário.",
+          "Ignorar \"Pequenas mudanças, grandes efeitos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -52442,6 +52438,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Rico é viver de restrição",
         "text": "Sethi defende uma vida rica de verdade, com escolhas conscientes, não de privação.",
         "reflection": "Você confunde riqueza com abstinência?"
+      },
+      {
+        "type": "truth",
+        "title": "Riqueza é sistema automatizado, não privação",
+        "text": "Sethi defende investir cedo, negociar salário e gastar com consciência, sem culpa.",
+        "reflection": "Você corta café ou aumenta receita?"
       }
     ],
     "summary": "Ramit Sethi, em \"Eu te Ensino a Ficar Rico\", quebra o tom moralista das finanças pessoais e fala a língua de quem tem 20 e poucos anos. Sua premissa é libertadora: você não precisa cortar cafezinho; precisa automatizar as finanças e focar nos grandes alavancadores — negociação de salário, investimento cedo e redução de taxas. Sethi ensina a \"poupar para o que importa\" sem culpa, estruturando contas automáticas de gastos, investimento e diversão. O gancho é a automação: quando o dinheiro se move sozinho para os lugares certos, a disciplina deixa de ser esforço. Ele aborda crédito, investimentos indexados, negociação de aumento e até como conversar com o parceiro sobre dinheiro, sempre com linguagem irreverente e prática. Não é sobre viver de migalhas, é sobre desenhar uma vida rica de verdade — com consciência, não com restrição. Um manual de ação em seis semanas para quem quer resultado sem austereidade tediosa.",
@@ -52462,27 +52464,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A maior alavanca da sua carreira é aprender a negociar seu salário.",
         "autor": "Ramit Sethi",
         "obra": "Eu te Ensino a Ficar Rico"
-      },
-      {
-        "texto": "Poupe para as coisas que importam e gaste no resto sem culpa.",
-        "autor": "Ramit Sethi",
-        "obra": "Eu te Ensino a Ficar Rico"
-      },
-      {
-        "texto": "Comece cedo, mesmo com pouco; o tempo fará o trabalho pesado.",
-        "autor": "Ramit Sethi",
-        "obra": "Eu te Ensino a Ficar Rico"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "A primeira vez que finanças pessoais fizeram sentido para a minha geração.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Irreverente e prático; funciona porque tira a culpa do meio.",
-        "autor": "Crítico de Finanças",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -52499,9 +52491,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Automatize tudo",
         "text": "Configure débitos para investimento e contas; a disciplina vira sistema.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Automatize tudo\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Configure débitos para investimento e contas; a disciplina vira sistema — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Automatize tudo\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Automatize tudo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Configure débitos para investimento e contas; a disciplina vira sistema — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Automatize tudo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52509,9 +52501,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não corte cafezinho",
         "text": "Foque nos grandes alavancadores: salário, investimento cedo, taxas.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Não corte cafezinho\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Foque nos grandes alavancadores: salário, investimento cedo, taxas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não corte cafezinho\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Não corte cafezinho\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foque nos grandes alavancadores: salário, investimento cedo, taxas — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Não corte cafezinho\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52519,9 +52511,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Negocie seu salário",
         "text": "Aumento de 10% supera anos de pequena economia; prepare e peça.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Negocie seu salário\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Aumento de 10% supera anos de pequena economia; prepare e peça — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Negocie seu salário\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Negocie seu salário\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aumento de 10% supera anos de pequena economia; prepare e peça — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Negocie seu salário\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52529,9 +52521,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fundo de emergência",
         "text": "Reserva de 3 a 6 meses evita vender investimentos no pior momento.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Fundo de emergência\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Reserva de 3 a 6 meses evita vender investimentos no pior momento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fundo de emergência\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Fundo de emergência\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reserva de 3 a 6 meses evita vender investimentos no pior momento — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Fundo de emergência\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52539,9 +52531,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Poupe para o que importa",
         "text": "Gaste com consciência nas prioridades; sem culpa no resto.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Poupe para o que importa\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Gaste com consciência nas prioridades; sem culpa no resto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Poupe para o que importa\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Poupe para o que importa\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Gaste com consciência nas prioridades; sem culpa no resto — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Poupe para o que importa\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52549,9 +52541,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use cartão com inteligência",
         "text": "Pague à vista, colha pontos e proteção; não financie dívida.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Use cartão com inteligência\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Pague à vista, colha pontos e proteção; não financie dívida — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use cartão com inteligência\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Use cartão com inteligência\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pague à vista, colha pontos e proteção; não financie dívida — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Use cartão com inteligência\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52559,9 +52551,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece cedo e pouco",
         "text": "Juro composto recompensa o tempo mais que o valor inicial.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Comece cedo e pouco\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Juro composto recompensa o tempo mais que o valor inicial — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece cedo e pouco\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Comece cedo e pouco\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Juro composto recompensa o tempo mais que o valor inicial — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Comece cedo e pouco\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52569,9 +52561,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Invista em indexado barato",
         "text": "Fundo de baixo custo e automático supera a maioria dos ativos.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Invista em indexado barato\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Fundo de baixo custo e automático supera a maioria dos ativos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Invista em indexado barato\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Invista em indexado barato\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Fundo de baixo custo e automático supera a maioria dos ativos — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Invista em indexado barato\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52579,9 +52571,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Converse sobre dinheiro",
         "text": "Alinhe o casal em metas; o silêncio gera conflito e erro.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Converse sobre dinheiro\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Alinhe o casal em metas; o silêncio gera conflito e erro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Converse sobre dinheiro\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Converse sobre dinheiro\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Alinhe o casal em metas; o silêncio gera conflito e erro — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Converse sobre dinheiro\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52589,9 +52581,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estruture contas",
         "text": "Contas de gastos, investimento e diversão separam o dinheiro por função.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Estruture contas\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Contas de gastos, investimento e diversão separam o dinheiro por função — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estruture contas\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Estruture contas\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Contas de gastos, investimento e diversão separam o dinheiro por função — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Estruture contas\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52599,9 +52591,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite taxas altas",
         "text": "Cada taxa come retorno; prefira opções de custo mínimo.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Evite taxas altas\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Cada taxa come retorno; prefira opções de custo mínimo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite taxas altas\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Evite taxas altas\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada taxa come retorno; prefira opções de custo mínimo — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Evite taxas altas\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -52609,9 +52601,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Riqueza é estilo de vida",
         "text": "Rico é quem desenha a vida que quer, com consciência, não de restrição.",
         "explicacoes": [
-          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi trata \"Riqueza é estilo de vida\" como peça-chave para o dinheiro inteligente e automatizado para jovens.",
-          "Na prática: Rico é quem desenha a vida que quer, com consciência, não de restrição — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Riqueza é estilo de vida\" aplica o dinheiro inteligente e automatizado para jovens de forma concreta, não apenas como conceito."
+          "Em \"Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens\", Ramit Sethi coloca \"Riqueza é estilo de vida\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Rico é quem desenha a vida que quer, com consciência, não de restrição — traduzido para a prática, é o passo concreto que liga a teoria de Ramit Sethi ao comportamento diário.",
+          "Ignorar \"Riqueza é estilo de vida\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -52947,6 +52939,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Resgate do Estado é normal",
         "text": "O socorro do Fed foi excepcional e revelou o perigo do too big to fail.",
         "reflection": "Você conta com resgate alheio?"
+      },
+      {
+        "type": "truth",
+        "title": "Gênios também quebram com alavancagem cega",
+        "text": "Lowenstein narra o colapso do LTCM para mostrar que modelo matemático não doma o risco.",
+        "reflection": "Você confia demais no seu modelo em dias de pânico?"
       }
     ],
     "summary": "Roger Lowenstein, em \"Quando Gênio Falhou\", conta a fascinante e trágica história do Long-Term Capital Management, o fundo de arbitragem fundado por geniais matemáticos e dois ganhadores do Nobel de Economia. Em poucos anos, o LTCM alcançou retornos estupendos usando modelos de risco sofisticadíssimos — e então, em 1998, quase derrubou o sistema financeiro global ao desmoronar em semanas. O gancho é uma lição sobre arrogância e risco: o melhor cérebro do mundo não bate a incerteza dos mercados. Lowenstein detalha como a alavancagem extrema e a cegueira ao \"risco de cauda\" transformaram um modelo brilhante em bomba-relógio. O livro é jornalismo narrativo de alta qualidade, explica os derivativos e a teoria moderna de portfólio de forma acessível, e serve como alerta eterno de que o risco que não se vê é o que destrói. Leitura essencial para entender por que reguladores e bancos centrais temem o \"too big to fail\".",
@@ -52967,27 +52965,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A alavancagem transformou um erro pequeno em uma catástrofe global.",
         "autor": "Roger Lowenstein",
         "obra": "Quando Gênio Falhou"
-      },
-      {
-        "texto": "O risco que não se vê é o que destrói os melhores fundos.",
-        "autor": "Roger Lowenstein",
-        "obra": "Quando Gênio Falhou"
-      },
-      {
-        "texto": "A diversificação falha quando todas as correlações sobem de uma vez.",
-        "autor": "Roger Lowenstein",
-        "obra": "Quando Gênio Falhou"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O melhor livro de finanças já escrito — um thriller real sobre arrogância e risco.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Jornalismo narrativo impecável que explica derivativos sem perder o fôlego.",
-        "autor": "Crítico Financeiro",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -53004,9 +52992,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "O caso LTCM",
         "text": "A história mostra como brilho intelectual virou colapso sistêmico.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"O caso LTCM\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: A história mostra como brilho intelectual virou colapso sistêmico — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"O caso LTCM\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"O caso LTCM\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A história mostra como brilho intelectual virou colapso sistêmico — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"O caso LTCM\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53014,9 +53002,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Modelos têm limites",
         "text": "Matemática sofisticada falha nas horas em que mais importa.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Modelos têm limites\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Matemática sofisticada falha nas horas em que mais importa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Modelos têm limites\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Modelos têm limites\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Matemática sofisticada falha nas horas em que mais importa — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Modelos têm limites\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53024,9 +53012,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuidado com alavancagem",
         "text": "Pouco capital e muita dívida tornam o erro fatal.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Cuidado com alavancagem\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Pouco capital e muita dívida tornam o erro fatal — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuidado com alavancagem\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Cuidado com alavancagem\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pouco capital e muita dívida tornam o erro fatal — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Cuidado com alavancagem\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53034,9 +53022,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Risco de cauda",
         "text": "Eventos raros extremos são a verdadeira ameaça aos fundos.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Risco de cauda\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Eventos raros extremos são a verdadeira ameaça aos fundos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Risco de cauda\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Risco de cauda\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Eventos raros extremos são a verdadeira ameaça aos fundos — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Risco de cauda\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53044,9 +53032,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diversificação falha junto",
         "text": "Na crise, correlações sobem e tudo cai ao mesmo tempo.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Diversificação falha junto\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Na crise, correlações sobem e tudo cai ao mesmo tempo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diversificação falha junto\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Diversificação falha junto\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Na crise, correlações sobem e tudo cai ao mesmo tempo — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Diversificação falha junto\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53054,9 +53042,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Liquidez é incerta",
         "text": "Na hora de vender, a contraparte some; não conte com ela.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Liquidez é incerta\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Na hora de vender, a contraparte some; não conte com ela — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Liquidez é incerta\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Liquidez é incerta\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Na hora de vender, a contraparte some; não conte com ela — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Liquidez é incerta\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53064,9 +53052,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Humildade diante do risco",
         "text": "Admitir limites do modelo evita a arrogância fatal.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Humildade diante do risco\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Admitir limites do modelo evita a arrogância fatal — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Humildade diante do risco\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Humildade diante do risco\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Admitir limites do modelo evita a arrogância fatal — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Humildade diante do risco\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53074,9 +53062,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Interconexão sistêmica",
         "text": "Grandes fundos podem arrastar o sistema inteiro.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Interconexão sistêmica\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Grandes fundos podem arrastar o sistema inteiro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Interconexão sistêmica\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Interconexão sistêmica\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Grandes fundos podem arrastar o sistema inteiro — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Interconexão sistêmica\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53084,9 +53072,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Árbitragem não é grátis",
         "text": "Estratégia aparentemente segura vira armadilha em massa.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Árbitragem não é grátis\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Estratégia aparentemente segura vira armadilha em massa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Árbitragem não é grátis\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Árbitragem não é grátis\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estratégia aparentemente segura vira armadilha em massa — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Árbitragem não é grátis\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53094,9 +53082,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capital próprio protege",
         "text": "Margem de capital é o amortecedor contra o improvável.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Capital próprio protege\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Margem de capital é o amortecedor contra o improvável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Capital próprio protege\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Capital próprio protege\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Margem de capital é o amortecedor contra o improvável — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Capital próprio protege\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53104,9 +53092,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "O mercado erra",
         "text": "Pânico e irracionalidade dominam em extremos.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"O mercado erra\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: Pânico e irracionalidade dominam em extremos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"O mercado erra\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"O mercado erra\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pânico e irracionalidade dominam em extremos — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"O mercado erra\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53114,9 +53102,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Lição para reguladores",
         "text": "O too big to fail exige atenção e capital de proteção.",
         "explicacoes": [
-          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein trata \"Lição para reguladores\" como peça-chave para a história e a psicologia por trás de Wall Street.",
-          "Na prática: O too big to fail exige atenção e capital de proteção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Lição para reguladores\" aplica a história e a psicologia por trás de Wall Street de forma concreta, não apenas como conceito."
+          "Em \"Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management\", Roger Lowenstein coloca \"Lição para reguladores\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O too big to fail exige atenção e capital de proteção — traduzido para a prática, é o passo concreto que liga a teoria de Roger Lowenstein ao comportamento diário.",
+          "Ignorar \"Lição para reguladores\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -53452,6 +53440,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Harmonia aparente é saúde",
         "text": "Sorrisos forçados escondem descompromisso; verdade dói e cura.",
         "reflection": "Sua equipe é honesta ou polida?"
+      },
+      {
+        "type": "truth",
+        "title": "Equipes falham por desconfiança, não por falta de skill",
+        "text": "Lencioni lista as cinco disfunções começando na ausência de segurança psicológica.",
+        "reflection": "Sua equipe discute o real ou apenas concorda?"
       }
     ],
     "summary": "Patrick Lencioni, em \"As 5 Disfunções de uma Equipe\", conta a história fictícia da CEO Kathryn Petersen, que assume uma empresa de tecnologia com um time brilhante e disfuncional. Por meio de uma narrativa cativante, ele revela a \"pirâmide das cinco disfunções\": ausência de confiança, medo do conflito, falta de compromisso, aversão à responsabilidade e desatenção aos resultados. A tese é que equipes não falham por falta de talento, mas por falta de saúde relacional. O gancho é contraintuitivo: confiança verdadeira nasce da vulnerabilidade, não de team building superficial. Lencioni oferece um modelo prático para consertar cada nível, mostrando que o conflito saudável e a responsabilidade mútua produzem resultados. Mais do que um livro de gestão, é um espelho para qualquer líder que confunde educação com harmonia falsa. Leitura obrigatória para quem lidera pessoas e quer transformar um grupo de estrelas solitárias em um time de verdade. A lição prática vale tanto para conselhos de empresa quanto para famílias que fingem entrosamento enquanto evitam a conversa difícil.",
@@ -53472,27 +53466,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O conflito saudável é o que separa um time de um grupo de estranhos educados.",
         "autor": "Patrick Lencioni",
         "obra": "As 5 Disfunções de uma Equipe"
-      },
-      {
-        "texto": "Equipes que não se cobram mutuamente não entregam resultados de verdade.",
-        "autor": "Patrick Lencioni",
-        "obra": "As 5 Disfunções de uma Equipe"
-      },
-      {
-        "texto": "A harmonia falsa é o maior inimigo do desempenho real.",
-        "autor": "Patrick Lencioni",
-        "obra": "As 5 Disfunções de uma Equipe"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro de liderança mais útil que já li — lições que apliquei na mesma semana.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Narrativa que prende e um modelo prático que funciona de verdade.",
-        "autor": "Crítico de Gestão",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -53509,9 +53493,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A pirâmide das disfunções",
         "text": "Cinco níveis encadeados; resolver a base resolve o topo.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"A pirâmide das disfunções\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Cinco níveis encadeados; resolver a base resolve o topo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"A pirâmide das disfunções\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"A pirâmide das disfunções\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cinco níveis encadeados; resolver a base resolve o topo — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"A pirâmide das disfunções\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53519,9 +53503,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa confiança",
         "text": "Vulnerabilidade e honestidade são a fundação de qualquer time.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Construa confiança\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Vulnerabilidade e honestidade são a fundação de qualquer time — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa confiança\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Construa confiança\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vulnerabilidade e honestidade são a fundação de qualquer time — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Construa confiança\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53529,9 +53513,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abrace o conflito",
         "text": "Discutir ideias com vigor esclarece e evita erro silencioso.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Abrace o conflito\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Discutir ideias com vigor esclarece e evita erro silencioso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abrace o conflito\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Abrace o conflito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Discutir ideias com vigor esclarece e evita erro silencioso — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Abrace o conflito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53539,9 +53523,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque compromisso",
         "text": "Ouça, debata e feche alinhado; consenso não é exigido.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Busque compromisso\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Ouça, debata e feche alinhado; consenso não é exigido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque compromisso\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Busque compromisso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ouça, debata e feche alinhado; consenso não é exigido — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Busque compromisso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53549,9 +53533,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cobrança mútua",
         "text": "Pares que se responsabilizam valem mais que vigilância.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Cobrança mútua\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Pares que se responsabilizam valem mais que vigilância — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cobrança mútua\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Cobrança mútua\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pares que se responsabilizam valem mais que vigilância — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Cobrança mútua\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53559,9 +53543,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque em resultados",
         "text": "O time existe para entregar; glória individual é secundária.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Foque em resultados\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: O time existe para entregar; glória individual é secundária — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque em resultados\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Foque em resultados\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O time existe para entregar; glória individual é secundária — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Foque em resultados\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53569,9 +53553,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite team building falso",
         "text": "Trabalho duro e verdade curam mais que dinâmicas de palco.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Evite team building falso\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Trabalho duro e verdade curam mais que dinâmicas de palco — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite team building falso\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Evite team building falso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trabalho duro e verdade curam mais que dinâmicas de palco — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Evite team building falso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53579,9 +53563,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Líder planta confiança",
         "text": "O líder modela vulnerabilidade para o time seguir.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Líder planta confiança\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: O líder modela vulnerabilidade para o time seguir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Líder planta confiança\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Líder planta confiança\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O líder modela vulnerabilidade para o time seguir — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Líder planta confiança\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53589,9 +53573,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não tolere sob desempenho",
         "text": "Tolerar falha infeta o grupo; cobrar é cuidar.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Não tolere sob desempenho\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Tolerar falha infeta o grupo; cobrar é cuidar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não tolere sob desempenho\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Não tolere sob desempenho\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tolerar falha infeta o grupo; cobrar é cuidar — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Não tolere sob desempenho\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53599,9 +53583,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Clareza antes de velocidade",
         "text": "Decisão compreendida é decisão cumprida.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Clareza antes de velocidade\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Decisão compreendida é decisão cumprida — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Clareza antes de velocidade\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Clareza antes de velocidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Decisão compreendida é decisão cumprida — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Clareza antes de velocidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53609,9 +53593,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conversa difícil em dia",
         "text": "Adie a conversa difícil e pague juros de juro composto.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Conversa difícil em dia\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Adie a conversa difícil e pague juros de juro composto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conversa difícil em dia\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Conversa difícil em dia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Adie a conversa difícil e pague juros de juro composto — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Conversa difícil em dia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -53619,9 +53603,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Talento precisa de saúde",
         "text": "Sem coesão, o gênio vira atrito; processo libera o talento.",
         "explicacoes": [
-          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni trata \"Talento precisa de saúde\" como peça-chave para a saúde das equipes e os cinco vícios disfuncionais.",
-          "Na prática: Sem coesão, o gênio vira atrito; processo libera o talento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Talento precisa de saúde\" aplica a saúde das equipes e os cinco vícios disfuncionais de forma concreta, não apenas como conceito."
+          "Em \"As 5 Disfunções de uma Equipe: Um Guia de Liderança\", Patrick Lencioni coloca \"Talento precisa de saúde\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sem coesão, o gênio vira atrito; processo libera o talento — traduzido para a prática, é o passo concreto que liga a teoria de Patrick Lencioni ao comportamento diário.",
+          "Ignorar \"Talento precisa de saúde\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -53957,6 +53941,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acordo sempre é vitória",
         "text": "Mau acordo destrói valor; saber sair às vezes ganha mais.",
         "reflection": "Você fecha qualquer acordo por orgulho?"
+      },
+      {
+        "type": "truth",
+        "title": "Negociar é escutar taticamente, não apertar",
+        "text": "Voss usa a 'pergunta tagarela' e o espelhamento para extrair o sim.",
+        "reflection": "Você tenta convencer ou faz o outro se convencer?"
       }
     ],
     "summary": "Chris Voss, ex-negociador do FBI e chefe da equipe de reféns, escreve \"Nunca Divida por Dois\" trazendo as táticas de negociação de vida ou morte para o mundo dos negócios e da vida diária. Sua premissa central: a negociação não é sobre lógica fria, é sobre emoção e conexão. Voss introduz a \"técnica do espelhamento\" (repetir a última palavra para provocar resposta), a \"pergunta tardigrado\" (calibrada para fazer o outro sentir controle) e o \"rói-rói\" (repetir \"é difícil para mim\" para extrair concessão). O maior insight é a \"sim, e\" em vez de \"não\": levar o outro a dizer não é o caminho para descobrir o que ele realmente quer. O gancho é que a empatia tática — não a agressividade — é a arma dos melhores negociadores. Com histórias reais de resgate de reféns, Voss prova que quem ouve melhor e labeliza as emoções ganha mais. Um manual prático e surpreendente de influência humana.",
@@ -53977,27 +53967,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O espelhamento faz a outra pessoa se sentir ouvida e abrir mais.",
         "autor": "Chris Voss",
         "obra": "Nunca Divida por Dois"
-      },
-      {
-        "texto": "Dividir por dois raramente é justo; busque o acordo que cria valor.",
-        "autor": "Chris Voss",
-        "obra": "Nunca Divida por Dois"
-      },
-      {
-        "texto": "Quem ouve de verdade negocia melhor que quem fala sem parar.",
-        "autor": "Chris Voss",
-        "obra": "Nunca Divida por Dois"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Apliquei o espelhamento na mesma semana e fechei negócio que estava travado.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Histórias de reféns que ensinam mais que qualquer curso de vendas.",
-        "autor": "Crítico de Negociação",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -54014,9 +53994,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Empatia tática",
         "text": "Conecte-se emocionalmente; não confunda com ser bonzinho.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Empatia tática\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Conecte-se emocionalmente; não confunda com ser bonzinho — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Empatia tática\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Empatia tática\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conecte-se emocionalmente; não confunda com ser bonzinho — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Empatia tática\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54024,9 +54004,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Técnica do espelhamento",
         "text": "Repita a última palavra para fazer o outro elaborar.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Técnica do espelhamento\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Repita a última palavra para fazer o outro elaborar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Técnica do espelhamento\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Técnica do espelhamento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Repita a última palavra para fazer o outro elaborar — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Técnica do espelhamento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54034,9 +54014,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pergunta calibrada",
         "text": "Comece com \"como\" ou \"o que\" para dar controle ao outro.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Pergunta calibrada\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Comece com \"como\" ou \"o que\" para dar controle ao outro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pergunta calibrada\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Pergunta calibrada\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comece com \"como\" ou \"o que\" para dar controle ao outro — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Pergunta calibrada\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54044,9 +54024,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque o não",
         "text": "O não revela o que o outro realmente quer; não tema.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Busque o não\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: O não revela o que o outro realmente quer; não tema — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque o não\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Busque o não\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O não revela o que o outro realmente quer; não tema — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Busque o não\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54054,9 +54034,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Labelize emoções",
         "text": "Nomeie o sentimento para reduzir tensão e ganhar abertura.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Labelize emoções\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Nomeie o sentimento para reduzir tensão e ganhar abertura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Labelize emoções\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Labelize emoções\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Nomeie o sentimento para reduzir tensão e ganhar abertura — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Labelize emoções\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54064,9 +54044,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o rói-rói",
         "text": "Repita \"é difícil para mim\" para extrair concessão sem ataque.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Use o rói-rói\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Repita \"é difícil para mim\" para extrair concessão sem ataque — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o rói-rói\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Use o rói-rói\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Repita \"é difícil para mim\" para extrair concessão sem ataque — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Use o rói-rói\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54074,9 +54054,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mapeie BATNA e ANI",
         "text": "Saiba sua melhor alternativa e o ponto de não acordo.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Mapeie BATNA e ANI\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Saiba sua melhor alternativa e o ponto de não acordo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mapeie BATNA e ANI\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Mapeie BATNA e ANI\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saiba sua melhor alternativa e o ponto de não acordo — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Mapeie BATNA e ANI\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54084,9 +54064,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite dividir por dois",
         "text": "Meio-termo nem sempre é justo; busque valor, não metade.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Evite dividir por dois\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Meio-termo nem sempre é justo; busque valor, não metade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite dividir por dois\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Evite dividir por dois\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Meio-termo nem sempre é justo; busque valor, não metade — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Evite dividir por dois\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54094,9 +54074,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ouça para entender",
         "text": "Ouvir de verdade extrai mais que falar convencendo.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Ouça para entender\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Ouvir de verdade extrai mais que falar convencendo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ouça para entender\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Ouça para entender\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ouvir de verdade extrai mais que falar convencendo — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Ouça para entender\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54104,9 +54084,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Silêncio estratégico",
         "text": "Pausas desconfortáveis forçam o outro a preencher e ceder.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Silêncio estratégico\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Pausas desconfortáveis forçam o outro a preencher e ceder — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Silêncio estratégico\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Silêncio estratégico\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pausas desconfortáveis forçam o outro a preencher e ceder — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Silêncio estratégico\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54114,9 +54094,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sim, e... não",
         "text": "Substitua o não fechado por abertura que convide à solução.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Sim, e... não\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Substitua o não fechado por abertura que convide à solução — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sim, e... não\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Sim, e... não\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Substitua o não fechado por abertura que convide à solução — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Sim, e... não\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54124,9 +54104,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Prepare-se antes",
         "text": "Negociação se ganha no planejamento, não na mesa.",
         "explicacoes": [
-          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss trata \"Prepare-se antes\" como peça-chave para a negociação de alto risco pela empatia tática.",
-          "Na prática: Negociação se ganha no planejamento, não na mesa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Prepare-se antes\" aplica a negociação de alto risco pela empatia tática de forma concreta, não apenas como conceito."
+          "Em \"Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI\", Chris Voss coloca \"Prepare-se antes\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Negociação se ganha no planejamento, não na mesa — traduzido para a prática, é o passo concreto que liga a teoria de Chris Voss ao comportamento diário.",
+          "Ignorar \"Prepare-se antes\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -54462,6 +54442,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sorte define a boa vida",
         "text": "Virtude independe de sorte; externos podem falhar sem abalar.",
         "reflection": "Você delega sua paz à sorte?"
+      },
+      {
+        "type": "truth",
+        "title": "A vida feliz é sobriedade voluntária e razão",
+        "text": "Séneca ensina a desprezar o excesso e treinar a morte para viver livre.",
+        "reflection": "Você possui as coisas ou elas o possuem?"
       }
     ],
     "summary": "Séneca, o filósofo estoico e conselheiro de Nero, escreveu \"Da Vida Feliz\" (De Vita Beata) e cartas que hoje reunimos sob o tema da vida feliz e virtuosa. Sua tese é direta: a felicidade não está em bens externos, mas na virtude e na mente em paz consigo mesma. Séneca ataca a busca por riqueza e status como fontes de ansiedade, e defende a \"vida de acordo com a natureza\" — simples, moderada e livre do medo da morte. O gancho é que a verdadeira liberdade é interior: quem depende de coisas externas jamais é livre. Ele aconselha a prática diária da autossuficiência, o uso consciente do tempo e a preparação para a adversidade (premeditatio malorum). Com prosa afiada e atualíssima, Séneca fala a quem corre atrás de sucesso e esquece de viver. Leitura essencial do estoicismo prático, é um lembrete de que a felicidade é um exercício, não um destino que se compra.",
@@ -54482,27 +54468,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Aquele que não governa a si mesmo é escravo das suas paixões.",
         "autor": "Séneca",
         "obra": "Cartas a Lucílio"
-      },
-      {
-        "texto": "Duvide de quem tem sorte demais por muito tempo.",
-        "autor": "Séneca",
-        "obra": "Da Vida Feliz"
-      },
-      {
-        "texto": "É próprio de espírito grande desprezar os acidentes externos.",
-        "autor": "Séneca",
-        "obra": "Da Vida Feliz"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Séneca escreve como se morasse no nosso século — atualíssimo e cortante.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "O estoico mais legível; cada carta é um choque de lucidez.",
-        "autor": "Crítico Filosófico",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -54519,9 +54495,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Virtude é a felicidade",
         "text": "A mente em paz consigo mesma vale mais que qualquer posse.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Virtude é a felicidade\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: A mente em paz consigo mesma vale mais que qualquer posse — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Virtude é a felicidade\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Virtude é a felicidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A mente em paz consigo mesma vale mais que qualquer posse — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Virtude é a felicidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54529,9 +54505,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Autossuficiência",
         "text": "Dependa de si; quem precisa do externo nunca é livre.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Autossuficiência\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Dependa de si; quem precisa do externo nunca é livre — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Autossuficiência\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Autossuficiência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dependa de si; quem precisa do externo nunca é livre — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Autossuficiência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54539,9 +54515,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o tempo",
         "text": "Tempo é finito; invista-o com consciência, não o desperdice.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Use o tempo\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Tempo é finito; invista-o com consciência, não o desperdice — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o tempo\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Use o tempo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tempo é finito; invista-o com consciência, não o desperdice — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Use o tempo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54549,9 +54525,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Premeditatio malorum",
         "text": "Antecipe adversidades para domar o pânico do imprevisto.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Premeditatio malorum\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Antecipe adversidades para domar o pânico do imprevisto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Premeditatio malorum\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Premeditatio malorum\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Antecipe adversidades para domar o pânico do imprevisto — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Premeditatio malorum\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54559,9 +54535,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Moderação",
         "text": "Controle o desejo; quem manda no impulso manda em si.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Moderação\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Controle o desejo; quem manda no impulso manda em si — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Moderação\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Moderação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Controle o desejo; quem manda no impulso manda em si — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Moderação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54569,9 +54545,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Despreze o status",
         "text": "Vaidade de honrarias é prisão disfarçada de glória.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Despreze o status\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Vaidade de honrarias é prisão disfarçada de glória — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Despreze o status\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Despreze o status\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vaidade de honrarias é prisão disfarçada de glória — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Despreze o status\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54579,9 +54555,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite a morte",
         "text": "Finitude bem vista libera o presente de cada dia.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Aceite a morte\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Finitude bem vista libera o presente de cada dia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite a morte\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Aceite a morte\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Finitude bem vista libera o presente de cada dia — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Aceite a morte\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54589,9 +54565,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Viva, não apenas exista",
         "text": "Plenitude é presença, não acúmulo de dias.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Viva, não apenas exista\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Plenitude é presença, não acúmulo de dias — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Viva, não apenas exista\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Viva, não apenas exista\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Plenitude é presença, não acúmulo de dias — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Viva, não apenas exista\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54599,9 +54575,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Filosofia na prática",
         "text": "Refletir e agir diariamente é o exercício, não a teoria.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Filosofia na prática\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Refletir e agir diariamente é o exercício, não a teoria — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Filosofia na prática\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Filosofia na prática\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Refletir e agir diariamente é o exercício, não a teoria — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Filosofia na prática\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54609,9 +54585,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Natureza como guia",
         "text": "Razão e simplicidade alinhadas à natureza trazem ordem.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Natureza como guia\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Razão e simplicidade alinhadas à natureza trazem ordem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Natureza como guia\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Natureza como guia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Razão e simplicidade alinhadas à natureza trazem ordem — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Natureza como guia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54619,9 +54595,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Prazer certo",
         "text": "Prazeres em medida nutrem; desmedidos escravizam.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Prazer certo\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Prazeres em medida nutrem; desmedidos escravizam — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Prazer certo\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Prazer certo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Prazeres em medida nutrem; desmedidos escravizam — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Prazer certo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -54629,9 +54605,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Liberdade interna",
         "text": "Liberdade real é não depender do que pode ser tirado.",
         "explicacoes": [
-          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca trata \"Liberdade interna\" como peça-chave para a filosofia estoica do tempo e da vida breve.",
-          "Na prática: Liberdade real é não depender do que pode ser tirado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Liberdade interna\" aplica a filosofia estoica do tempo e da vida breve de forma concreta, não apenas como conceito."
+          "Em \"A Vida Feliz: Cartas e Diálogos Estoicos\", Séneca coloca \"Liberdade interna\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Liberdade real é não depender do que pode ser tirado — traduzido para a prática, é o passo concreto que liga a teoria de Séneca ao comportamento diário.",
+          "Ignorar \"Liberdade interna\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -54967,6 +54943,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Filosofia é só teoria",
         "text": "O Manual é ordem de aplicação diária, não leitura de luxo.",
         "reflection": "Você lê ou pratica?"
+      },
+      {
+        "type": "truth",
+        "title": "Distinguir o que depende de nós é a liberdade",
+        "text": "Epiteto manda focar no que é nosso e soltar o resto com indiferença.",
+        "reflection": "Quanto de sua dor vem do que você não controla?"
       }
     ],
     "summary": "Epiteto, escravo libertado que se tornou o maior professor estoico, deixou em \"O Manual\" (Enchiridion, compilado por seu discípulo Arriano) o guia mais direto e prático do estoicismo. Sua divisão fundamental é a chave de tudo: há coisas que dependem de nós (nossos juízos, desejos, aversões) e coisas que não dependem (corpo, reputação, riqueza, morte). A paz nasce de focar totalmente no que é nosso e aceitar com indiferença o que não é. O gancho é libertador: nada externo pode escravizar quem não delega a si mesmo ao externo. Epiteto ensina a não dizer \"perdi\", mas \"devolvi\"; a tratar ofensas como juízo próprio; e a praticar a reserva da aparência. Compacto e incisivo, o Manual é um manual de liberdade mental que cabe no bolso e na rotina. Para quem sofre por circunstâncias, é a antítese do vitimismo: você sofre não pelas coisas, mas pelo que pensa delas. Mais de dois milênios depois, sua voz segue sendo a melhor vacina contra a ansiedade que nasce de querer controlar o incontrolável.",
@@ -54987,27 +54969,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Não diga que perdeu, mas que devolveu.",
         "autor": "Epiteto",
         "obra": "O Manual"
-      },
-      {
-        "texto": "É sinal de homem educado reservar a aparência das coisas.",
-        "autor": "Epiteto",
-        "obra": "O Manual"
-      },
-      {
-        "texto": "Ninguém é escravo de quem não delega a si mesmo a outrem.",
-        "autor": "Epiteto",
-        "obra": "O Manual"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro mais prático de filosofia já escrito — cabe no bolso e na mente.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Li e reli; cada frase é um exercício de liberdade mental.",
-        "autor": "Crítico Filosófico",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -55024,9 +54996,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A grande divisão",
         "text": "Separe o que depende de você do que não depende; foque no primeiro.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"A grande divisão\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: Separe o que depende de você do que não depende; foque no primeiro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"A grande divisão\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"A grande divisão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Separe o que depende de você do que não depende; foque no primeiro — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"A grande divisão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55034,9 +55006,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seu juízo é seu",
         "text": "O que pensa das coisas é o único território sob seu comando.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Seu juízo é seu\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: O que pensa das coisas é o único território sob seu comando — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seu juízo é seu\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Seu juízo é seu\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O que pensa das coisas é o único território sob seu comando — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Seu juízo é seu\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55044,9 +55016,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não diga \"perdi\"",
         "text": "Diga \"devolvi\"; a palavra refaz sua relação com a perda.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Não diga \"perdi\"\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: Diga \"devolvi\"; a palavra refaz sua relação com a perda — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não diga \"perdi\"\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Não diga \"perdi\"\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Diga \"devolvi\"; a palavra refaz sua relação com a perda — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Não diga \"perdi\"\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55054,9 +55026,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A ofensa é juízo",
         "text": "O agravo está em como interpreta, não no ato alheio.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"A ofensa é juízo\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: O agravo está em como interpreta, não no ato alheio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"A ofensa é juízo\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"A ofensa é juízo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O agravo está em como interpreta, não no ato alheio — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"A ofensa é juízo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55064,9 +55036,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reserva da aparência",
         "text": "Aguarde antes de agir para não ceder ao impulso.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Reserva da aparência\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: Aguarde antes de agir para não ceder ao impulso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reserva da aparência\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Reserva da aparência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aguarde antes de agir para não ceder ao impulso — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Reserva da aparência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55074,9 +55046,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dirija desejo e aversão",
         "text": "Queira só o que depende de você e frustração some.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Dirija desejo e aversão\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: Queira só o que depende de você e frustração some — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dirija desejo e aversão\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Dirija desejo e aversão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Queira só o que depende de você e frustração some — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Dirija desejo e aversão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55084,9 +55056,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Indiferença ao externo",
         "text": "Corpo, fama e bens são indiferentes; caráter não.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Indiferença ao externo\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: Corpo, fama e bens são indiferentes; caráter não — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Indiferença ao externo\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Indiferença ao externo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Corpo, fama e bens são indiferentes; caráter não — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Indiferença ao externo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55094,9 +55066,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Recuse o vitimismo",
         "text": "Sofre-se pelo que se pensa, não pelo que ocorre.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Recuse o vitimismo\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: Sofre-se pelo que se pensa, não pelo que ocorre — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Recuse o vitimismo\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Recuse o vitimismo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sofre-se pelo que se pensa, não pelo que ocorre — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Recuse o vitimismo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55104,9 +55076,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique diariamente",
         "text": "O Manual é exercício cotidiano, não leitura de fim de semana.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Pratique diariamente\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: O Manual é exercício cotidiano, não leitura de fim de semana — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique diariamente\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Pratique diariamente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O Manual é exercício cotidiano, não leitura de fim de semana — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Pratique diariamente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55114,9 +55086,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Liberdade mental",
         "text": "Quem manda em si é livre em qualquer situação.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Liberdade mental\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: Quem manda em si é livre em qualquer situação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Liberdade mental\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Liberdade mental\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quem manda em si é livre em qualquer situação — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Liberdade mental\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55124,9 +55096,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use as circunstâncias",
         "text": "O material da virtude está no que a vida apresenta.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Use as circunstâncias\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: O material da virtude está no que a vida apresenta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use as circunstâncias\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Use as circunstâncias\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O material da virtude está no que a vida apresenta — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Use as circunstâncias\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55134,9 +55106,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Silêncio e escuta",
         "text": "Ouça mais, fale menos; a fala precipitada é armadilha.",
         "explicacoes": [
-          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto trata \"Silêncio e escuta\" como peça-chave para o estoicismo do que depende e não depende de nós.",
-          "Na prática: Ouça mais, fale menos; a fala precipitada é armadilha — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Silêncio e escuta\" aplica o estoicismo do que depende e não depende de nós de forma concreta, não apenas como conceito."
+          "Em \"O Manual de Epiteto: O Caminho da Liberdade\", Epiteto coloca \"Silêncio e escuta\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ouça mais, fale menos; a fala precipitada é armadilha — traduzido para a prática, é o passo concreto que liga a teoria de Epiteto ao comportamento diário.",
+          "Ignorar \"Silêncio e escuta\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -55472,6 +55444,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Filosofar é luxo",
         "text": "Para ele, refletir é sobrevivência da alma, não hobby.",
         "reflection": "Você acha reflexão dispensável?"
+      },
+      {
+        "type": "truth",
+        "title": "O dever cumprido é recompensa bastante",
+        "text": "Aurélio lembra que a virtude não pede aplauso; basta agir conforme a razão.",
+        "reflection": "Você busca aprovação ou retidão?"
       }
     ],
     "summary": "Marco Aurélio, imperador de Roma e estoico, escreveu \"Meditações\" como um diário íntimo para si mesmo — nunca para publicação. Nesses aforismos, ele lembra a si mesmo de que o poder e a fama são efêmeros, e de que a única tarefa real é viver de acordo com a razão e a natureza. O gancho é a aceitação: a morte é natural, as ofensas são juízo nosso, e o dever é cumprido sem esperar aplauso. Marco Aurélio repete a si o \"verso da reversão\": transformar o obstáculo em combustível, agir como se fosse a última hora, e ver cada pessoa como parte de um todo. Escrito em acampamentos de guerra, o livro é a prova de que mesmo no topo do poder é possível cultivar humildade e equilíbrio. Leitura de fortalecimento íntimo, \"Meditações\" é o estoico lembrando a si mesmo, a cada manhã, do que importa quando tudo passa. É filosofia de trincheira: regras curtas para não perder a cabeça quando o cargo, a sorte ou os outros conspiram contra você.",
@@ -55492,27 +55470,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A cada manhã lembre-se de que não encontrará pessoas gentis, gratas ou humildes.",
         "autor": "Marco Aurélio",
         "obra": "Meditações"
-      },
-      {
-        "texto": "Como um rio que levava tudo, a morte leva igualmente o nobre e o vil.",
-        "autor": "Marco Aurélio",
-        "obra": "Meditações"
-      },
-      {
-        "texto": "Não se desvie do caminho da razão, mesmo que outros o apoiem ou o critique.",
-        "autor": "Marco Aurélio",
-        "obra": "Meditações"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Um imperador escrevendo para si mesmo sobre humildade — devastador de tão atual.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "O estoico mais humano; lê-se como se ele falasse comigo hoje.",
-        "autor": "Crítico Filosófico",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -55529,9 +55497,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diário para si",
         "text": "Escrever para se corrigir é prática de autoconhecimento diário.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Diário para si\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Escrever para se corrigir é prática de autoconhecimento diário — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diário para si\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Diário para si\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escrever para se corrigir é prática de autoconhecimento diário — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Diário para si\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55539,9 +55507,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite a morte",
         "text": "Finitude bem vista livra a urgência de viver o essencial.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Aceite a morte\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Finitude bem vista livra a urgência de viver o essencial — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite a morte\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Aceite a morte\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Finitude bem vista livra a urgência de viver o essencial — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Aceite a morte\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55549,9 +55517,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cumpra o dever",
         "text": "Aja por dever, não por aplauso; pureza na intenção.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Cumpra o dever\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Aja por dever, não por aplauso; pureza na intenção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cumpra o dever\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Cumpra o dever\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aja por dever, não por aplauso; pureza na intenção — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Cumpra o dever\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55559,9 +55527,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Verso da reversão",
         "text": "Transforme o obstáculo em material de virtude e força.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Verso da reversão\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Transforme o obstáculo em material de virtude e força — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Verso da reversão\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Verso da reversão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Transforme o obstáculo em material de virtude e força — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Verso da reversão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55569,9 +55537,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Juízo é nosso",
         "text": "Controle o que pensa; o externo aceite com serenidade.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Juízo é nosso\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Controle o que pensa; o externo aceite com serenidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Juízo é nosso\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Juízo é nosso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Controle o que pensa; o externo aceite com serenidade — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Juízo é nosso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55579,9 +55547,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Viva a última hora",
         "text": "Agir como se fosse o fim limpa o acessório do essencial.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Viva a última hora\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Agir como se fosse o fim limpa o acessório do essencial — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Viva a última hora\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Viva a última hora\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Agir como se fosse o fim limpa o acessório do essencial — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Viva a última hora\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55589,9 +55557,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Humildade imperial",
         "text": "Mesmo no topo, cultivar simplicidade e dever.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Humildade imperial\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Mesmo no topo, cultivar simplicidade e dever — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Humildade imperial\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Humildade imperial\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mesmo no topo, cultivar simplicidade e dever — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Humildade imperial\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55599,9 +55567,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Parte do todo",
         "text": "Sentir-se membro da natureza dissolve ego e pressa.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Parte do todo\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Sentir-se membro da natureza dissolve ego e pressa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Parte do todo\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Parte do todo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sentir-se membro da natureza dissolve ego e pressa — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Parte do todo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55609,9 +55577,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ofensa é juízo",
         "text": "O agravo mora na interpretação; mude-a e acalma.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Ofensa é juízo\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: O agravo mora na interpretação; mude-a e acalma — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ofensa é juízo\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Ofensa é juízo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O agravo mora na interpretação; mude-a e acalma — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Ofensa é juízo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55619,9 +55587,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Adversidade como matéria",
         "text": "O difícil é o ginásio da virtude, não castigo.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Adversidade como matéria\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: O difícil é o ginásio da virtude, não castigo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Adversidade como matéria\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Adversidade como matéria\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O difícil é o ginásio da virtude, não castigo — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Adversidade como matéria\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55629,9 +55597,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ação sem esperar louvor",
         "text": "Fazer o bem sem plateia é a liberdade do nobre.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Ação sem esperar louvor\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Fazer o bem sem plateia é a liberdade do nobre — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ação sem esperar louvor\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Ação sem esperar louvor\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Fazer o bem sem plateia é a liberdade do nobre — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Ação sem esperar louvor\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -55639,9 +55607,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reflexão como dever",
         "text": "Para Marco Aurélio, filosofar é cuidado da própria alma.",
         "explicacoes": [
-          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio trata \"Reflexão como dever\" como peça-chave para as meditações estoicas do imperador filósofo.",
-          "Na prática: Para Marco Aurélio, filosofar é cuidado da própria alma — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reflexão como dever\" aplica as meditações estoicas do imperador filósofo de forma concreta, não apenas como conceito."
+          "Em \"Meditações: Reflexões para Si Mesmo\", Marco Aurélio coloca \"Reflexão como dever\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Para Marco Aurélio, filosofar é cuidado da própria alma — traduzido para a prática, é o passo concreto que liga a teoria de Marco Aurélio ao comportamento diário.",
+          "Ignorar \"Reflexão como dever\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
