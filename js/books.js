@@ -9124,5 +9124,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Meio e fim unidos."
       }
     ]
+  },
+  {
+    "id": "ferriss",
+    "slug": "a-semana-de-4-horas",
+    "title": "The 4-Hour Workweek",
+    "titlePt": "A Semana de 4 Horas",
+    "author": "Timothy Ferriss",
+    "year": "2007",
+    "editionYear": "2009",
+    "publisher": "Crown Publishing / BestSeller",
+    "pages": "396",
+    "genre": "Produtividade / Estilo de vida",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/ferriss-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Trabalho não é fim",
+        "text": "Liberdade de tempo é a meta, não horas na cadeira.",
+        "reflection": "O que você troca por horas a mais?"
+      },
+      {
+        "type": "myth",
+        "title": "Aposentadoria é o plano",
+        "text": "Miniaposentadorias agora valem mais.",
+        "reflection": "Você adia viver para os 65?"
+      },
+      {
+        "type": "truth",
+        "title": "Automação libera",
+        "text": "Delegar e automatizar escala sem tempo seu.",
+        "reflection": "O que você faz que outro faria por menos?"
+      },
+      {
+        "type": "myth",
+        "title": "Precisa de permissão",
+        "text": "Começar antes de pronto é possível.",
+        "reflection": "Você espera sinal verde?"
+      },
+      {
+        "type": "truth",
+        "title": "Seja difícil de alcançar",
+        "text": "Raridade comanda valor e preço.",
+        "reflection": "Sua habilidade é substituível?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais dinheiro resolve",
+        "text": "Sem controle de tempo, dinheiro não liberta.",
+        "reflection": "Quanto dinheiro compra sua hora?"
+      }
+    ],
+    "summary": "Tim Ferriss propõe sair do modelo de carreira tradicional com miniaposentadorias, automação de renda e foco no essencial, vendendo sem presença constante.",
+    "color": "#16a085",
+    "file": "livro.html#a-semana-de-4-horas",
+    "citacoes": [
+      {
+        "texto": "As pessoas não querem ser milionárias, querem viver como querem.",
+        "autor": "Tim Ferriss",
+        "obra": "The 4-Hour Workweek"
+      },
+      {
+        "texto": "Foco no que importa, corte o resto.",
+        "autor": "Tim Ferriss",
+        "obra": "The 4-Hour Workweek"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Manuais práticos de estilo de vida digital.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Defina o seu mínimo",
+        "text": "Quanto basta para viver como quer.",
+        "explicacoes": [
+          "Menos despesa, menos necessário.",
+          "Liberdade é custo baixo.",
+          "Clareza de alvo."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Automatize a renda",
+        "text": "Negócio que roda sem você.",
+        "explicacoes": [
+          "Produto digital escala.",
+          "Terceirize o operacional.",
+          "Receita em modo avião."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Faça miniaposentadorias",
+        "text": "Pausas longas e regulares agora.",
+        "explicacoes": [
+          "Viver não é só depois.",
+          "Renova perspectiva.",
+          "Risco calculado."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Tempo livre",
+        "texto": "A verdadeira riqueza."
+      },
+      {
+        "titulo": "Automação",
+        "texto": "Renda sem presença."
+      },
+      {
+        "titulo": "Agora",
+        "texto": "Mini pausas, não só fim."
+      }
+    ]
+  },
+  {
+    "id": "eker",
+    "slug": "segredos-da-mente-milionaria",
+    "title": "Secrets of the Millionaire Mind",
+    "titlePt": "Os Segredos da Mente Milionária",
+    "author": "T. Harv Eker",
+    "year": "2005",
+    "editionYear": "2005",
+    "publisher": "Piatkus / Sextante",
+    "pages": "236",
+    "genre": "Finanças / Mentalidade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/eker-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mentalidade gera resultado",
+        "text": "Arquivo mental financeiro repete padrões.",
+        "reflection": "O que você acredita sobre dinheiro?"
+      },
+      {
+        "type": "myth",
+        "title": "Conhecimento basta",
+        "text": "Saber sem crença nova não muda hábito.",
+        "reflection": "Você sabe mas repete o erro?"
+      },
+      {
+        "type": "truth",
+        "title": "Riqueza é interior primeiro",
+        "text": "Cura a causa antes da estratégia.",
+        "reflection": "Você ataca sintoma ou causa?"
+      },
+      {
+        "type": "myth",
+        "title": "Azar explica pobreza",
+        "text": "Padrão repetido é escolha inconsciente.",
+        "reflection": "Seus resultados são coincidência?"
+      },
+      {
+        "type": "truth",
+        "title": "Ganhar e guardar",
+        "text": "Ambos os músculos precisam treino.",
+        "reflection": "Você só sabe gastar?"
+      },
+      {
+        "type": "myth",
+        "title": "Rico é sortudo",
+        "text": "Comportamento consistente vence sorte.",
+        "reflection": "Você culpa ou treina?"
+      }
+    ],
+    "summary": "Harv Eker mostra como os arquivos mentais formados na infância ditam a relação com dinheiro e ensina a reprogramá-los para atrair e manter riqueza.",
+    "color": "#27ae60",
+    "file": "livro.html#segredos-da-mente-milionaria",
+    "citacoes": [
+      {
+        "texto": "Dê a um homem um peixe e ele comerá por um dia; ensine-o a pensar como um pescador e ele comerá para sempre.",
+        "autor": "T. Harv Eker",
+        "obra": "Secrets of the Millionaire Mind"
+      },
+      {
+        "texto": "Sua rede financeira é o reflexo de sua rede mental.",
+        "autor": "T. Harv Eker",
+        "obra": "Secrets of the Millionaire Mind"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Popular em cursos de mentalidade de riqueza.",
+        "autor": "Resenha",
+        "fonte": "Mídia"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Identifique seu arquivo",
+        "text": "Reconheça crenças limitantes.",
+        "explicacoes": [
+          "Repetição revela padrão.",
+          "Origem na infância.",
+          "Nomear libera."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Reprograme",
+        "text": "Afirmações e hábitos novos.",
+        "explicacoes": [
+          "Prática diária muda.",
+          "Ambiente reforça.",
+          "Consistência cria."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Treine os dois músculos",
+        "text": "Ganhar e preservar.",
+        "explicacoes": [
+          "Renda e capital.",
+          "Sem um, o outro falha.",
+          "Disciplina dupla."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Arquivo mental",
+        "texto": "Causa antes do resultado."
+      },
+      {
+        "titulo": "Reprogramar",
+        "texto": "Novo padrão diário."
+      },
+      {
+        "titulo": "Dois músculos",
+        "texto": "Ganhar e guardar."
+      }
+    ]
+  },
+  {
+    "id": "godin",
+    "slug": "a-estrela-sou-eu",
+    "title": "Linchpin",
+    "titlePt": "A Estrela Sou Eu",
+    "author": "Seth Godin",
+    "year": "2008",
+    "editionYear": "2010",
+    "publisher": "Portfolio / Agir",
+    "pages": "320",
+    "genre": "Carreira / Marketing",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/godin-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Seja indispensável",
+        "text": "Arte e generosidade no trabalho criam valor raro.",
+        "reflection": "Você é substituível?"
+      },
+      {
+        "type": "myth",
+        "title": "Obediência garante carreira",
+        "text": "Seguir regras não destaca ninguém.",
+        "reflection": "Você só cumpre ou cria?"
+      },
+      {
+        "type": "truth",
+        "title": "Medo paralisa propósito",
+        "text": "Resistência é sinal de importância.",
+        "reflection": "O que você evita por medo?"
+      },
+      {
+        "type": "myth",
+        "title": "Segurança vem de empresa",
+        "text": "Instituição não protege mais.",
+        "reflection": "Você confia em terceiros?"
+      },
+      {
+        "type": "truth",
+        "title": "Dom é treinável",
+        "text": "Prática e entrega fazem a diferença.",
+        "reflection": "Você cultiva seu dom?"
+      },
+      {
+        "type": "myth",
+        "title": "Produto perfeito primeiro",
+        "text": "Lançar e melhorar vence perfeição.",
+        "reflection": "Você espera o ideal?"
+      }
+    ],
+    "summary": "Seth Godin desafia a mentalidade de peça substituível e propõe tornar-se uma peça central (linchpin) através de arte, generosidade e coragem no trabalho.",
+    "color": "#2980b9",
+    "file": "livro.html#a-estrela-sou-eu",
+    "citacoes": [
+      {
+        "texto": "Você não é uma peça na máquina.",
+        "autor": "Seth Godin",
+        "obra": "Linchpin"
+      },
+      {
+        "texto": "A arte é a única forma de se destacar.",
+        "autor": "Seth Godin",
+        "obra": "Linchpin"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Leitura obrigatória para profissionais criativos.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Leve a sério",
+        "text": "Trate trabalho como arte.",
+        "explicacoes": [
+          "Generosidade atrai.",
+          "Originalidade diferencia.",
+          "Cuidado eleva."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Abrace a resistência",
+        "text": "Medo sinaliza o que importa.",
+        "explicacoes": [
+          "Agir apesar do medo.",
+          "Paralisia é escolha.",
+          "Coragem muscula."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Torre-se indispensável",
+        "text": "Crie valor que só você entrega.",
+        "explicacoes": [
+          "Raridade comanda.",
+          "Conexão humana conta.",
+          "Confiança sustenta."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Indispensável",
+        "texto": "Valor raro é poder."
+      },
+      {
+        "titulo": "Arte",
+        "texto": "Trabalho com alma."
+      },
+      {
+        "titulo": "Resistência",
+        "texto": "Medo como bússola."
+      }
+    ]
+  },
+  {
+    "id": "cardoso",
+    "slug": "mulher-voce-pode-ser-rica",
+    "title": "Mulher, Você Pode Ser Rica",
+    "titlePt": "Mulher, Você Pode Ser Rica",
+    "author": "Nathalia Cardoso",
+    "year": "2021",
+    "editionYear": "2021",
+    "publisher": "Buzz",
+    "pages": "256",
+    "genre": "Finanças / Autoajuda (PT-BR)",
+    "language": "Português",
+    "copiesSold": "Mais de 200 mil",
+    "cover": "img/cardoso-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mulher deve comandar sua grana",
+        "text": "Independência financeira é autonomia real.",
+        "reflection": "Você delega ou decide?"
+      },
+      {
+        "type": "myth",
+        "title": "Dinheiro é assunto masculino",
+        "text": "Gestão é habilidade, não gênero.",
+        "reflection": "Quem cuida do seu dinheiro?"
+      },
+      {
+        "type": "truth",
+        "title": "Orçamento liberta",
+        "text": "Saber para onde vai evita sufoco.",
+        "reflection": "Você controla ou é surpreendida?"
+      },
+      {
+        "type": "myth",
+        "title": "Investir é arriscado demais",
+        "text": "Não investir é o maior risco pela inflação.",
+        "reflection": "Sua poupança rende ou perde?"
+      },
+      {
+        "type": "truth",
+        "title": "Pequeno composto cresce",
+        "text": "Aportes regulares vencem espera.",
+        "reflection": "Você começou ou procrastina?"
+      },
+      {
+        "type": "myth",
+        "title": "Precisa ganhar muito",
+        "text": "Disciplina supera renda alta.",
+        "reflection": "Quanto você guarda hoje?"
+      }
+    ],
+    "summary": "Nathalia Cardoso traz linguagem acessível para mulheres assumirem o controle das finanças, com passos práticos de orçamento, dívida e investimento.",
+    "color": "#c0392b",
+    "file": "livro.html#mulher-voce-pode-ser-rica",
+    "citacoes": [
+      {
+        "texto": "Sua liberdade financeira começa com a primeira decisão.",
+        "autor": "Nathalia Cardoso",
+        "obra": "Mulher, Você Pode Ser Rica"
+      },
+      {
+        "texto": "Dinheiro bem cuidado cuida de você.",
+        "autor": "Nathalia Cardoso",
+        "obra": "Mulher, Você Pode Ser Rica"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Sucesso de público jovem nas redes.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Mapeie gastos",
+        "text": "Anote tudo por 30 dias.",
+        "explicacoes": [
+          "Consciência muda.",
+          "Vazamentos aparecem.",
+          "Base para plano."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Pare de se endividar",
+        "text": "Crédito vira armadilha sem freio.",
+        "explicacoes": [
+          "Juros consomem futuro.",
+          "À vista quando puder.",
+          "Liberdade é não dever."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Comece a investir",
+        "text": "Tesouro e fundos simples primeiro.",
+        "explicacoes": [
+          "Inércia custa caro.",
+          "Pouco e constante.",
+          "Aprender fazendo."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Comando",
+        "texto": "Decida por si."
+      },
+      {
+        "titulo": "Simples",
+        "texto": "Começo acessível."
+      },
+      {
+        "titulo": "Continuidade",
+        "texto": "Pouco todo mês."
+      }
+    ]
+  },
+  {
+    "id": "frankl",
+    "slug": "em-busca-de-sentido",
+    "title": "Man's Search for Meaning",
+    "titlePt": "Em Busca de Sentido",
+    "author": "Viktor E. Frankl",
+    "year": "1946",
+    "editionYear": "2006",
+    "publisher": "Beacon Press / Vozes",
+    "pages": "200",
+    "genre": "Psicologia / Propósito",
+    "language": "Inglês",
+    "copiesSold": "Mais de 12 milhões",
+    "cover": "img/frankl-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Sentido sustenta",
+        "text": "Propósito ajuda a suportar o pior.",
+        "reflection": "Pelo que você aguentaria?"
+      },
+      {
+        "type": "myth",
+        "title": "Prazer é sentido",
+        "text": "Busca de prazer vazia sem propósito.",
+        "reflection": "O que preenche seu dia?"
+      },
+      {
+        "type": "truth",
+        "title": "Liberdade de escolha interna",
+        "text": "Mesmo sob opressão, escolhemos atitude.",
+        "reflection": "O que ninguém tira de você?"
+      },
+      {
+        "type": "myth",
+        "title": "Circunstância define",
+        "text": "Resposta interior é nossa.",
+        "reflection": "Sua dor decide por você?"
+      },
+      {
+        "type": "truth",
+        "title": "Responsabilidade dá sentido",
+        "text": "Responder pela vida confere significado.",
+        "reflection": "A quem ou ao que você responde?"
+      },
+      {
+        "type": "myth",
+        "title": "Sucesso trará felicidade",
+        "text": "Sentido precede realização durável.",
+        "reflection": "Conquista trouxe paz?"
+      }
+    ],
+    "summary": "Frankl relata a experiência em campos de concentração e funda a logoterapia: o sentido da vida é a força central que nos sustenta, independentemente das circunstâncias.",
+    "color": "#8e44ad",
+    "file": "livro.html#em-busca-de-sentido",
+    "citacoes": [
+      {
+        "texto": "Quando já não podemos mudar uma situação, somos desafiados a mudar a nós mesmos.",
+        "autor": "Viktor Frankl",
+        "obra": "Man's Search for Meaning"
+      },
+      {
+        "texto": "Aquele que tem um porquê suporta quase qualquer como.",
+        "autor": "Viktor Frankl",
+        "obra": "Man's Search for Meaning"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Um dos livros mais influentes do século.",
+        "autor": "Biblioteca do Congresso",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Encontre seu porquê",
+        "text": "Propósito concreto, não abstrato.",
+        "explicacoes": [
+          "Sentido diário move.",
+          "Pessoa ou causa.",
+          "Clareza sustenta."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Escolha sua atitude",
+        "text": "Mesmo sob pressão, responda.",
+        "explicacoes": [
+          "Liberdade interna.",
+          "Não é conformismo.",
+          "Dignidade mantém."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Viva para algo",
+        "text": "Responsabilidade dá norte.",
+        "explicacoes": [
+          "Sentido externo.",
+          "Servir amplia.",
+          "Legado importa."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Porquê",
+        "texto": "Sustenta o como."
+      },
+      {
+        "titulo": "Escolha",
+        "texto": "Interna e livre."
+      },
+      {
+        "titulo": "Responsabilidade",
+        "texto": "Sentido pelo outro."
+      }
+    ]
+  },
+  {
+    "id": "brown",
+    "slug": "a-coragem-de-ser-imperfeito",
+    "title": "The Gifts of Imperfection",
+    "titlePt": "A Coragem de Ser Imperfeito",
+    "author": "Brené Brown",
+    "year": "2010",
+    "editionYear": "2010",
+    "publisher": "Hazelden / Sextante",
+    "pages": "192",
+    "genre": "Autoajuda / Vulnerabilidade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 3 milhões",
+    "cover": "img/brown-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Vulnerabilidade é força",
+        "text": "Abrir-se conecta e fortalece.",
+        "reflection": "Você se protege demais?"
+      },
+      {
+        "type": "myth",
+        "title": "Perfeição protege",
+        "text": "Busca de perfeição isola e exaure.",
+        "reflection": "Sua perfeição afasta?"
+      },
+      {
+        "type": "truth",
+        "title": "Pertencimento exige autenticidade",
+        "text": "Ser você atrai vínculos reais.",
+        "reflection": "Você se esconde para caber?"
+      },
+      {
+        "type": "myth",
+        "title": "Numerem-se para valer",
+        "text": "Aprovação externa é poço sem fundo.",
+        "reflection": "Você busca aplauso?"
+      },
+      {
+        "type": "truth",
+        "title": "Autocompaixão cura",
+        "text": "Tratar-se bem reduz paralisia.",
+        "reflection": "Você é seu pior crítico?"
+      },
+      {
+        "type": "myth",
+        "title": "Faze-tudo dá controle",
+        "text": "Fazer excessivo esconde sentir.",
+        "reflection": "Você ocupa para não sentir?"
+      }
+    ],
+    "summary": "Brené Brown reúne pesquisa sobre vergonha e vulnerabilidade para mostrar que a aceitação da imperfeição é porta de entrada para uma vida inteira e conectada.",
+    "color": "#d35400",
+    "file": "livro.html#a-coragem-de-ser-imperfeito",
+    "citacoes": [
+      {
+        "texto": "A coragem de ser imperfecto é a porta de entrada para a vida inteira.",
+        "autor": "Brené Brown",
+        "obra": "The Gifts of Imperfection"
+      },
+      {
+        "texto": "Vulnerabilidade é nosso lugar mais preciso e mais corajoso.",
+        "autor": "Brené Brown",
+        "obra": "The Gifts of Imperfection"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Referência em pesquisa de vergonha e coragem.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Pratique autocompaixão",
+        "text": "Fale consigo como a um amigo.",
+        "explicacoes": [
+          "Crítica interna paralisa.",
+          "Gentileza move.",
+          "Erro é humano."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Permita vulnerabilidade",
+        "text": "Mostre-se sem armadura.",
+        "explicacoes": [
+          "Conexão real.",
+          "Confiança cresce.",
+          "Força disfarçada."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Solte a perfeição",
+        "text": "Bom o suficiente libera.",
+        "explicacoes": [
+          "Perfeição é armadilha.",
+          "Feito vence perfeito.",
+          "Liberdade cria."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Imperfeição",
+        "texto": "Porta de entrada."
+      },
+      {
+        "titulo": "Vulnerabilidade",
+        "texto": "Força disfarçada."
+      },
+      {
+        "titulo": "Autocompaixão",
+        "texto": "Base da mudança."
+      }
+    ]
+  },
+  {
+    "id": "dweck",
+    "slug": "mindset-a-atitude-para-o-sucesso",
+    "title": "Mindset",
+    "titlePt": "Mindset: A Atitude para o Sucesso",
+    "author": "Carol S. Dweck",
+    "year": "2006",
+    "editionYear": "2017",
+    "publisher": "Ballantine Books / Objetiva",
+    "pages": "320",
+    "genre": "Psicologia / Mentalidade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/dweck-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mentalidade de crescimento",
+        "text": "Habilidade se desenvolve com esforço.",
+        "reflection": "Você evita desafio?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento é fixo",
+        "text": "Crer em dom fixo paralisa aprendizado.",
+        "reflection": "Você se acha sem jeito?"
+      },
+      {
+        "type": "truth",
+        "title": "Esforço gera maestria",
+        "text": "Prática deliberada supera domo inicial.",
+        "reflection": "Você treina ou confia em dom?"
+      },
+      {
+        "type": "myth",
+        "title": "Erro é fracasso",
+        "text": "Erro é dado de aprendizado.",
+        "reflection": "O erro assusta você?"
+      },
+      {
+        "type": "truth",
+        "title": "Elogio de esforço",
+        "text": "Louvar processo forma resiliência.",
+        "reflection": "Você elogia resultado ou processo?"
+      },
+      {
+        "type": "myth",
+        "title": "Inteligência definida",
+        "text": "Cresce com desafio e estratégia.",
+        "reflection": "Seu limite é real?"
+      }
+    ],
+    "summary": "Carol Dweck revela a diferença entre mentalidade fixa e de crescimento, mostrando como crer na capacidade de desenvolvimento transforma aprendizado e sucesso.",
+    "color": "#2980b9",
+    "file": "livro.html#mindset-a-atitude-para-o-sucesso",
+    "citacoes": [
+      {
+        "texto": "Pense na sua vida como uma jornada de crescimento contínuo.",
+        "autor": "Carol Dweck",
+        "obra": "Mindset"
+      },
+      {
+        "texto": "O poder do ainda não.",
+        "autor": "Carol Dweck",
+        "obra": "Mindset"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Influente na educação e liderança.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Adote crescimento",
+        "text": "Veja habilidade como maleável.",
+        "explicacoes": [
+          "Desafio desenvolve.",
+          "Limite é ponto de partida.",
+          "Mudança de lente."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Reenquadre o erro",
+        "text": "Erro é informação, não veredito.",
+        "explicacoes": [
+          "Falha ensina.",
+          "Risco vale.",
+          "Caminho ajusta."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Elogie o processo",
+        "text": "Valorize estratégia e esforço.",
+        "explicacoes": [
+          "Resiliência cresce.",
+          "Resultado acompanha.",
+          "Hábito reforça."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Crescimento",
+        "texto": "Habilidade se faz."
+      },
+      {
+        "titulo": "Ainda não",
+        "texto": "Limite provisório."
+      },
+      {
+        "titulo": "Processo",
+        "texto": "Elogio certo."
+      }
+    ]
+  },
+  {
+    "id": "elrod",
+    "slug": "o-milagre-da-manha",
+    "title": "The Miracle Morning",
+    "titlePt": "O Milagre da Manhã",
+    "author": "Hal Elrod",
+    "year": "2012",
+    "editionYear": "2014",
+    "publisher": "Halmud Publishing / Sextante",
+    "pages": "242",
+    "genre": "Hábitos / Produtividade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/elrod-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Manhã define dia",
+        "text": "Rotina inicial eleva tudo que vem.",
+        "reflection": "Como você começa o dia?"
+      },
+      {
+        "type": "myth",
+        "title": "Falta de tempo justifica",
+        "text": "Acordar 1h antes transforma.",
+        "reflection": "Você culpa a agenda?"
+      },
+      {
+        "type": "truth",
+        "title": "Pequena rotina composta",
+        "text": "Silêncio, leitura, exercício somam.",
+        "reflection": "Sua manhã tem intenção?"
+      },
+      {
+        "type": "myth",
+        "title": "Disciplina é dom",
+        "text": "Prática torna natural.",
+        "reflection": "Você espera vir pronto?"
+      },
+      {
+        "type": "truth",
+        "title": "Estado importa",
+        "text": "Ativar corpo e mente melhora foco.",
+        "reflection": "Você começa reativo?"
+      },
+      {
+        "type": "myth",
+        "title": "Só madrugadores",
+        "text": "Qualquer um pode criar ritual.",
+        "reflection": "Horário é desculpa?"
+      }
+    ],
+    "summary": "Hal Elrod propõe a rotina matinal (SAVERS) para despertar propósito, energia e clareza antes das demandas do dia, mudando resultados a longo prazo.",
+    "color": "#16a085",
+    "file": "livro.html#o-milagre-da-manha",
+    "citacoes": [
+      {
+        "texto": "Como você começa seu dia determina como você vive seu dia.",
+        "autor": "Hal Elrod",
+        "obra": "The Miracle Morning"
+      },
+      {
+        "texto": "O milagre da manhã transforma vidas.",
+        "autor": "Hal Elrod",
+        "obra": "The Miracle Morning"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Fenômeno de comunidades de hábitos matinais.",
+        "autor": "Resenha",
+        "fonte": "Mídia"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Crie a rotina SAVERS",
+        "text": "Silêncio, afirmação, visualização, exercício, leitura, escrita.",
+        "explicacoes": [
+          "Poucos minutos cada.",
+          "Intenção antecede ação.",
+          "Consistência forma."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Acorde 1h antes",
+        "text": "Espaço para si antes do mundo.",
+        "explicacoes": [
+          "Foco protegido.",
+          "Energia sobe.",
+          "Dia ganha direção."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Seja consistente",
+        "text": "Todos os dias, nem que curto.",
+        "explicacoes": [
+          "Ritual vence inspiração.",
+          "Composto no tempo.",
+          "Identidade muda."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Manhã intencional",
+        "texto": "Direção antes do ruído."
+      },
+      {
+        "titulo": "Pequeno diário",
+        "texto": "Composto vence."
+      },
+      {
+        "titulo": "Ritual",
+        "texto": "Identidade em ação."
+      }
+    ]
   }
 ];
