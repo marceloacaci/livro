@@ -35823,12 +35823,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Marketing é manipular",
-        "text": "Godin redefine como servir e ajudar, não enganar o cliente.",
-        "reflection": "Você vê marketing como truque ou serviço?"
-      },
-      {
         "type": "truth",
         "title": "Marketing é mudar",
         "text": "O objetivo real é transformar quem você importa, não só vender.",
@@ -35836,9 +35830,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Quanto mais audiência, melhor",
-        "text": "Godin propõe a menor audiência viável, específica e leal.",
-        "reflection": "Você corre atrás de massa em vez de nicho?"
+        "title": "Marketing é manipular",
+        "text": "Godin redefine como servir e ajudar, não enganar o cliente.",
+        "reflection": "Você vê marketing como truque ou serviço?"
       },
       {
         "type": "truth",
@@ -35848,9 +35842,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Compre a atenção",
-        "text": "Anúncios interrompem; merecer atenção cria confiança duradoura.",
-        "reflection": "Você paga por atenção ou a conquista?"
+        "title": "Quanto mais audiência, melhor",
+        "text": "Godin propõe a menor audiência viável, específica e leal.",
+        "reflection": "Você corre atrás de massa em vez de nicho?"
       },
       {
         "type": "truth",
@@ -35860,9 +35854,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Vender é o fim",
-        "text": "Godin trata venda como consequência de servir bem.",
-        "reflection": "Você empurra venda sem servir?"
+        "title": "Compre a atenção",
+        "text": "Anúncios interrompem; merecer atenção cria confiança duradoura.",
+        "reflection": "Você paga por atenção ou a conquista?"
       },
       {
         "type": "truth",
@@ -35872,9 +35866,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Storytelling barato",
-        "text": "História só funciona se for verdadeira e útil, não enfeite.",
-        "reflection": "Você usa história como maquiagem?"
+        "title": "Vender é o fim",
+        "text": "Godin trata venda como consequência de servir bem.",
+        "reflection": "Você empurra venda sem servir?"
       },
       {
         "type": "truth",
@@ -35884,9 +35878,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Marketing é departamento",
-        "text": "É responsabilidade de quem cria valor, não só do time de propaganda.",
-        "reflection": "Você terceiriza marketing como rótulo?"
+        "title": "Storytelling barato",
+        "text": "História só funciona se for verdadeira e útil, não enfeite.",
+        "reflection": "Você usa história como maquiagem?"
       },
       {
         "type": "truth",
@@ -35896,15 +35890,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Novidade vende",
-        "text": "Continuidade e confiança vencem a constante novidade.",
-        "reflection": "Você troca de tática sem construir confiança?"
+        "title": "Marketing é departamento",
+        "text": "É responsabilidade de quem cria valor, não só do time de propaganda.",
+        "reflection": "Você terceiriza marketing como rótulo?"
       },
       {
         "type": "truth",
         "title": "Escolha a quem servir",
         "text": "Decidir a quem NÃO serve é tão importante quanto a quem serve.",
         "reflection": "Você tenta agradar a todos e não serve ninguém?"
+      },
+      {
+        "type": "myth",
+        "title": "Novidade vende",
+        "text": "Continuidade e confiança vencem a constante novidade.",
+        "reflection": "Você troca de tática sem construir confiança?"
+      },
+      {
+        "type": "truth",
+        "title": "Marketing é encontrar pessoas que se importam",
+        "text": "Godin diz que não se engana o tempo todo: serve-se uma tribo, não o mercado inteiro.",
+        "reflection": "Você fala para todos e não toca ninguém?"
       }
     ],
     "summary": "Seth Godin, em \"Isso é Marketing\" (This Is Marketing), desafia a visão de marketing como manipulação e venda. Sua tese central: marketing de verdade é mudar pessoas a quem você importa, criando valor para uma audiência específica e merecendo atenção em vez de comprá-la. Godin fala de \"tensão\" (a lacuna entre o atual e o desejado), da \"menor audiência viável\" (em vez de大众), de empatia profunda e de status. O gancho: você não precisa enganar ninguém — precisa encontrar as pessoas certas, entender sua dor e contar uma história que as ajude. Marketing é serviço, não truque; é sobre ser visto por quem precisa de você. Com linguagem direta, Godin devolve ao marketing sua função original: conectar quem tem uma solução a quem tem um problema real, com honestidade. Com linguagem direta, Godin devolve ao marketing sua função original: conectar quem tem uma solução a quem tem um problema real, com honestidade.",
@@ -35925,16 +35931,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Encontre a menor audiência viável e sirva-a profundamente.",
         "autor": "Seth Godin",
         "obra": "Isso é Marketing"
-      },
-      {
-        "texto": "A tensão entre o que é e o que poderia ser é o que move.",
-        "autor": "Seth Godin",
-        "obra": "Isso é Marketing"
-      },
-      {
-        "texto": " Marketing de verdade é empatia posta em prática.",
-        "autor": "Seth Godin",
-        "obra": "Isso é Marketing"
       }
     ],
     "citacoesTerceiros": [
@@ -35945,13 +35941,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "A menor audiência viável mudou minha estratégia de lançamento.",
-        "autor": "Empreendedor",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Finalmente um livro de marketing que não me faz sentir sujo.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -35967,9 +35958,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina a audiência",
         "text": "Escolha as pessoas certas e, principalmente, a quem não servir.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Defina a audiência\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Escolha as pessoas certas e, principalmente, a quem não servir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina a audiência\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Defina a audiência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escolha as pessoas certas e, principalmente, a quem não servir — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Defina a audiência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35977,9 +35968,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique empatia",
         "text": "Estude a dor real do cliente antes de qualquer campanha.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Pratique empatia\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Estude a dor real do cliente antes de qualquer campanha — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique empatia\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Pratique empatia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estude a dor real do cliente antes de qualquer campanha — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Pratique empatia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35987,9 +35978,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie tensão",
         "text": "Mostre a lacuna entre o atual e o desejado para gerar ação.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Crie tensão\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Mostre a lacuna entre o atual e o desejado para gerar ação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie tensão\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Crie tensão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mostre a lacuna entre o atual e o desejado para gerar ação — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Crie tensão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -35997,9 +35988,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque a menor viável",
         "text": "Foque num nicho específico e leal, não na massa.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Busque a menor viável\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Foque num nicho específico e leal, não na massa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque a menor viável\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Busque a menor viável\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foque num nicho específico e leal, não na massa — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Busque a menor viável\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36007,9 +35998,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mereça atenção",
         "text": "Conquiste confiança com utilidade, não interrompa com anúncio.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Mereça atenção\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Conquiste confiança com utilidade, não interrompa com anúncio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mereça atenção\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Mereça atenção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conquiste confiança com utilidade, não interrompa com anúncio — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Mereça atenção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36017,9 +36008,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conte história verdadeira",
         "text": "Use narrativa que ajuda, não enfeite enganoso.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Conte história verdadeira\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Use narrativa que ajuda, não enfeite enganoso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conte história verdadeira\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Conte história verdadeira\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use narrativa que ajuda, não enfeite enganoso — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Conte história verdadeira\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36027,9 +36018,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda o status",
         "text": "Saiba como sua marca atende necessidade de pertencer ou destacar.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Entenda o status\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Saiba como sua marca atende necessidade de pertencer ou destacar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda o status\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Entenda o status\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saiba como sua marca atende necessidade de pertencer ou destacar — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Entenda o status\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36037,9 +36028,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sirva antes de vender",
         "text": "Valor antecede a transação; venda é consequência.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Sirva antes de vender\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Valor antecede a transação; venda é consequência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sirva antes de vender\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Sirva antes de vender\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Valor antecede a transação; venda é consequência — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Sirva antes de vender\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36047,9 +36038,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja consistente",
         "text": "Confiança se constrói com presença e entrega constantes.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Seja consistente\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Confiança se constrói com presença e entrega constantes — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja consistente\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Seja consistente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Confiança se constrói com presença e entrega constantes — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Seja consistente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36057,9 +36048,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça conexão",
         "text": "Avalie se mudou pessoas, não só cliques.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Meça conexão\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Avalie se mudou pessoas, não só cliques — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça conexão\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Meça conexão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Avalie se mudou pessoas, não só cliques — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Meça conexão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36067,9 +36058,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Recuse o genérico",
         "text": "Posicionamento claro vale mais que ser \"para todos\".",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Recuse o genérico\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Posicionamento claro vale mais que ser \"para todos\" — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Recuse o genérico\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Recuse o genérico\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Posicionamento claro vale mais que ser \"para todos\" — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Recuse o genérico\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36077,9 +36068,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Marketing é serviço",
         "text": "Reframeie marketing como ajuda, não manipulação.",
         "explicacoes": [
-          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Marketing é serviço\" como peça-chave para o marketing que importa e a confiança como ativo.",
-          "Na prática: Reframeie marketing como ajuda, não manipulação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Marketing é serviço\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin coloca \"Marketing é serviço\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reframeie marketing como ajuda, não manipulação — traduzido para a prática, é o passo concreto que liga a teoria de Seth Godin ao comportamento diário.",
+          "Ignorar \"Marketing é serviço\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -36333,12 +36324,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Vulnerabilidade é fraqueza",
-        "text": "Brown prova que é medida de coragem, não de fraqueza.",
-        "reflection": "Você confunde se abrir com ser fraco?"
-      },
-      {
         "type": "truth",
         "title": "Vulnerabilidade gera conexão",
         "text": "A exposição real é o que permite vínculo genuíno.",
@@ -36346,9 +36331,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Líderes não se mostram",
-        "text": "Líderes corajosos ousam se mostrar vulneráveis e ganham confiança.",
-        "reflection": "Você esconde dúvidas para \"parecer chefe\"?"
+        "title": "Vulnerabilidade é fraqueza",
+        "text": "Brown prova que é medida de coragem, não de fraqueza.",
+        "reflection": "Você confunde se abrir com ser fraco?"
       },
       {
         "type": "truth",
@@ -36358,9 +36343,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Perfeição protege",
-        "text": "A busca por perfeição é armadura que mata a criatividade.",
-        "reflection": "Você se esconde na perfeição?"
+        "title": "Líderes não se mostram",
+        "text": "Líderes corajosos ousam se mostrar vulneráveis e ganham confiança.",
+        "reflection": "Você esconde dúvidas para \"parecer chefe\"?"
       },
       {
         "type": "truth",
@@ -36370,9 +36355,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sentir é perigoso",
-        "text": "Evitar emoção custa a vida plena; sentir faz parte.",
-        "reflection": "Você se distancia para não sentir?"
+        "title": "Perfeição protege",
+        "text": "A busca por perfeição é armadura que mata a criatividade.",
+        "reflection": "Você se esconde na perfeição?"
       },
       {
         "type": "truth",
@@ -36382,9 +36367,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Numa crise, endureça",
-        "text": "Endurecer afasta; a coragem pede presença, não frieza.",
-        "reflection": "Você endurece quando deveria se conectar?"
+        "title": "Sentir é perigoso",
+        "text": "Evitar emoção custa a vida plena; sentir faz parte.",
+        "reflection": "Você se distancia para não sentir?"
       },
       {
         "type": "truth",
@@ -36394,9 +36379,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Pedir ajuda é fraco",
-        "text": "Reconhecer necessidade é força e abre apoio real.",
-        "reflection": "Você se recusa a pedir ajuda?"
+        "title": "Numa crise, endureça",
+        "text": "Endurecer afasta; a coragem pede presença, não frieza.",
+        "reflection": "Você endurece quando deveria se conectar?"
       },
       {
         "type": "truth",
@@ -36406,15 +36391,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Vulnerabilidade é drama",
-        "text": "Brown a trata como prática silenciosa de coragem, não exposição.",
-        "reflection": "Você acha que se abrir é fazer escândalo?"
+        "title": "Pedir ajuda é fraco",
+        "text": "Reconhecer necessidade é força e abre apoio real.",
+        "reflection": "Você se recusa a pedir ajuda?"
       },
       {
         "type": "truth",
         "title": "Merecimento se escolhe",
         "text": "Sentir-se merecedor é decisão, não conquista externa.",
         "reflection": "Você liga merecimento a aprovação alheia?"
+      },
+      {
+        "type": "myth",
+        "title": "Vulnerabilidade é drama",
+        "text": "Brown a trata como prática silenciosa de coragem, não exposição.",
+        "reflection": "Você acha que se abrir é fazer escândalo?"
+      },
+      {
+        "type": "truth",
+        "title": "Vulnerabilidade é a porta da coragem plena",
+        "text": "Brown mostra que fugir da exposição limita a vida; abrir-se é agir com o coração inteiro.",
+        "reflection": "Em que área você se protege tanto que parou de viver?"
       }
     ],
     "summary": "Brené Brown, em \"Coragem\" (Daring Greatly), desafia a crença de que vulnerabilidade é fraqueza. Sua tese central, baseada em duas décadas de pesquisa, é que a vulnerabilidade é a medida exata da coragem e a porta de entrada para a conexão, a criatividade e a liderança. Brown define vergonha como a interferência principal — o medo de não ser \"merecedor\" — e propõe a \"totalidade\" (wholeheartedness) como modo de viver. O gancho: quando deixamos de proteger a armadura e ousamos se expor, nos tornamos mais criativos, confiáveis e capazes de liderar. Não se trata de ser frágil, mas de ter a coragem de aparecer mesmo com incerteza. O livro é um guia científico e humano para trocar a proteção pela presença e recuperar a autenticidade nos relacionamentos e no trabalho. O livro é um guia científico e humano para trocar a proteção pela presença e recuperar a autenticidade nos relacionamentos e no trabalho.",
@@ -36435,33 +36432,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A vergonha é o impedimento da conexão humana.",
         "autor": "Brené Brown",
         "obra": "Coragem"
-      },
-      {
-        "texto": "Não podemos dar o que não temos; precisamos nos sentir merecedores.",
-        "autor": "Brené Brown",
-        "obra": "Coragem"
-      },
-      {
-        "texto": "Coragem é aparecer quando não podemos ter certeza do resultado.",
-        "autor": "Brené Brown",
-        "obra": "Coragem"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Me ajudou a largar a \"armadura\" no trabalho e em casa.",
-        "autor": "Leitora",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "A pesquisa de duas décadas dá peso que palestras não têm.",
-        "autor": "Psicóloga",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Difícil de praticar, mas a tese sobre vulnerabilidade é libertadora.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -36477,9 +36459,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reconheça a vergonha",
         "text": "Nomeie a vergonha; ela só perde força quando falada.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Reconheça a vergonha\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Nomeie a vergonha; ela só perde força quando falada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reconheça a vergonha\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Reconheça a vergonha\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Nomeie a vergonha; ela só perde força quando falada — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Reconheça a vergonha\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36487,9 +36469,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ouse aparecer",
         "text": "Pratique estar presente mesmo com incerteza e medo.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Ouse aparecer\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Pratique estar presente mesmo com incerteza e medo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ouse aparecer\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Ouse aparecer\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pratique estar presente mesmo com incerteza e medo — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Ouse aparecer\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36497,9 +36479,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abandone a perfeição",
         "text": "A perfeição é armadura; permita-se imperfeito e real.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Abandone a perfeição\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: A perfeição é armadura; permita-se imperfeito e real — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abandone a perfeição\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Abandone a perfeição\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A perfeição é armadura; permita-se imperfeito e real — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Abandone a perfeição\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36507,9 +36489,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mostre-se como líder",
         "text": "Liderança corajosa inclui admitir dúvidas e limites.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Mostre-se como líder\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Liderança corajosa inclui admitir dúvidas e limites — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mostre-se como líder\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Mostre-se como líder\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Liderança corajosa inclui admitir dúvidas e limites — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Mostre-se como líder\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36517,9 +36499,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique totalidade",
         "text": "Viva de coração aberto, com empatia por si e outros.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Pratique totalidade\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Viva de coração aberto, com empatia por si e outros — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique totalidade\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Pratique totalidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Viva de coração aberto, com empatia por si e outros — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Pratique totalidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36527,9 +36509,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa confiança",
         "text": "Pequenos atos de coragem diária fortalecem a confiança.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Construa confiança\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Pequenos atos de coragem diária fortalecem a confiança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa confiança\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Construa confiança\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenos atos de coragem diária fortalecem a confiança — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Construa confiança\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36537,9 +36519,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abra-se para criar",
         "text": "Criatividade exige risco de julgamento; aceite-o.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Abra-se para criar\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Criatividade exige risco de julgamento; aceite-o — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abra-se para criar\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Abra-se para criar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Criatividade exige risco de julgamento; aceite-o — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Abra-se para criar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36547,9 +36529,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Peça ajuda",
         "text": "Reconhecer necessidade é força, não fraqueza.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Peça ajuda\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Reconhecer necessidade é força, não fraqueza — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Peça ajuda\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Peça ajuda\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer necessidade é força, não fraqueza — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Peça ajuda\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36557,9 +36539,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escolha merecimento",
         "text": "Sinta-se merecedor independente de aprovação externa.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Escolha merecimento\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Sinta-se merecedor independente de aprovação externa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escolha merecimento\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Escolha merecimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sinta-se merecedor independente de aprovação externa — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Escolha merecimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36567,9 +36549,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conecte-se",
         "text": "A conexão real nasce quando você baixa a guarda.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Conecte-se\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: A conexão real nasce quando você baixa a guarda — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conecte-se\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Conecte-se\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A conexão real nasce quando você baixa a guarda — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Conecte-se\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36577,9 +36559,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acolha emoção",
         "text": "Sentir faz parte da vida plena; não se distancie.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Acolha emoção\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Sentir faz parte da vida plena; não se distancie — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acolha emoção\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Acolha emoção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sentir faz parte da vida plena; não se distancie — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Acolha emoção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36587,9 +36569,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja corajoso, não frio",
         "text": "Em crise, presença e calor vencem a frieza protetora.",
         "explicacoes": [
-          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Seja corajoso, não frio\" como peça-chave em torno de liderar pela vulnerabilidade e pela confiança.",
-          "Na prática: Em crise, presença e calor vencem a frieza protetora — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja corajoso, não frio\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown coloca \"Seja corajoso, não frio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Em crise, presença e calor vencem a frieza protetora — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Seja corajoso, não frio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -36843,12 +36825,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "10.000 horas garantem",
-        "text": "Ericsson corrige: conta o tipo de prática, não só o tempo.",
-        "reflection": "Você acumula horas sem melhorar de fato?"
-      },
-      {
         "type": "truth",
         "title": "Treino deliberado importa",
         "text": "Prática focada, com feedback e desconforto, é o que gera elite.",
@@ -36856,9 +36832,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Talento explica tudo",
-        "text": "Estudos mostram que treino deliberado supera o \"dom\" na maioria.",
-        "reflection": "Você culpa falta de talento e para de treinar?"
+        "title": "10.000 horas garantem",
+        "text": "Ericsson corrige: conta o tipo de prática, não só o tempo.",
+        "reflection": "Você acumula horas sem melhorar de fato?"
       },
       {
         "type": "truth",
@@ -36868,9 +36844,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Repetição basta",
-        "text": "Repetir o que já sabe não melhora; o desafio é a chave.",
-        "reflection": "Você repete sem se desafiar?"
+        "title": "Talento explica tudo",
+        "text": "Estudos mostram que treino deliberado supera o \"dom\" na maioria.",
+        "reflection": "Você culpa falta de talento e para de treinar?"
       },
       {
         "type": "truth",
@@ -36880,9 +36856,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Criança prodígio = adulto elite",
-        "text": "Muitos campeões começaram tarde; contou o treino.",
-        "reflection": "Você acha que é tarde demais para começar?"
+        "title": "Repetição basta",
+        "text": "Repetir o que já sabe não melhora; o desafio é a chave.",
+        "reflection": "Você repete sem se desafiar?"
       },
       {
         "type": "truth",
@@ -36892,9 +36868,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Idade trava",
-        "text": "Plasticidade persiste; adultos também podem melhorar muito.",
-        "reflection": "Você desistiu de aprender por idade?"
+        "title": "Criança prodígio = adulto elite",
+        "text": "Muitos campeões começaram tarde; contou o treino.",
+        "reflection": "Você acha que é tarde demais para começar?"
       },
       {
         "type": "truth",
@@ -36904,9 +36880,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Prática é sofrimento",
-        "text": "Difícil não é doloroso; é engajante quando bem desenhada.",
-        "reflection": "Você acha que treinar tem que ser tortura?"
+        "title": "Idade trava",
+        "text": "Plasticidade persiste; adultos também podem melhorar muito.",
+        "reflection": "Você desistiu de aprender por idade?"
       },
       {
         "type": "truth",
@@ -36916,15 +36892,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Elite é sorte",
-        "text": "Oportunidade ajuda, mas a qualidade do treino decide.",
-        "reflection": "Você atribui sucesso alheio só à chance?"
+        "title": "Prática é sofrimento",
+        "text": "Difícil não é doloroso; é engajante quando bem desenhada.",
+        "reflection": "Você acha que treinar tem que ser tortura?"
       },
       {
         "type": "truth",
         "title": "Mestre ensina",
         "text": "Bons professores aceleram a prática deliberada inicial.",
         "reflection": "Você tenta aprender sozinho o que tem guia?"
+      },
+      {
+        "type": "myth",
+        "title": "Elite é sorte",
+        "text": "Oportunidade ajuda, mas a qualidade do treino decide.",
+        "reflection": "Você atribui sucesso alheio só à chance?"
+      },
+      {
+        "type": "truth",
+        "title": "Maestria é prática deliberada, não talento nato",
+        "text": "Ericsson prova que experts acumulam anos de prática com feedback, não apenas dotação.",
+        "reflection": "Você treina no limite ou repete o que já domina?"
       }
     ],
     "summary": "\"Peak\", de Anders Ericsson, é a obra definitiva sobre como pessoas comuns atingem desempenho de elite. A tese central destrói o \"mito das 10.000 horas\" de Malcolm Gladwell: não é o tempo, é o tipo de prática. Ericsson cunhou o \"treino deliberado\" (deliberate practice) — esforço focado em uma zona além do conforto, com metas claras, feedback imediato e repetição de erros corrigidos. Ele mostra que os \"talentos\" raramente explicam a superioridade; o que diferencia campeões é a qualidade do treino ao longo da vida. O gancho: o potencial humano é muito mais maleável do que se pensa — quase qualquer um pode melhorar drasticamente com a prática certa, e o cérebro se reestrutura com ela. Indispensável para atletas, músicos, estudantes e qualquer um que queira dominar uma habilidade com método. Indispensável para atletas, músicos, estudantes e qualquer um que queira dominar uma habilidade com método, paciência e prática bem desenhada.",
@@ -36945,16 +36933,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Treino deliberado requer desconforto, meta clara e feedback.",
         "autor": "Anders Ericsson",
         "obra": "Peak"
-      },
-      {
-        "texto": "O cérebro se reestrutura com a prática intensa e focada.",
-        "autor": "Anders Ericsson",
-        "obra": "Peak"
-      },
-      {
-        "texto": "Não há evidência de um limite fixo para o potencial humano.",
-        "autor": "Anders Ericsson",
-        "obra": "Peak"
       }
     ],
     "citacoesTerceiros": [
@@ -36965,13 +36943,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "A distinção entre prática e treino deliberado é ouro.",
-        "autor": "Coach",
+        "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Leitura obrigatória para quem ensina qualquer habilidade.",
-        "autor": "Instrutor",
-        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -36987,9 +36960,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique deliberadamente",
         "text": "Foque em zona de desafio com meta clara e feedback.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Pratique deliberadamente\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Foque em zona de desafio com meta clara e feedback — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique deliberadamente\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Pratique deliberadamente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foque em zona de desafio com meta clara e feedback — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Pratique deliberadamente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -36997,9 +36970,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque feedback",
         "text": "Corrija o erro imediatamente; sem isso, não há melhora.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Busque feedback\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Corrija o erro imediatamente; sem isso, não há melhora — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque feedback\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Busque feedback\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Corrija o erro imediatamente; sem isso, não há melhora — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Busque feedback\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37007,9 +36980,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina metas pequenas",
         "text": "Cada sessão deve ter objetivo específico e alcançável.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Defina metas pequenas\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Cada sessão deve ter objetivo específico e alcançável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina metas pequenas\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Defina metas pequenas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada sessão deve ter objetivo específico e alcançável — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Defina metas pequenas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37017,9 +36990,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Saia da zona conforto",
         "text": "Melhorar exige operar no limite do domínio atual.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Saia da zona conforto\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Melhorar exige operar no limite do domínio atual — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Saia da zona conforto\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Saia da zona conforto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Melhorar exige operar no limite do domínio atual — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Saia da zona conforto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37027,9 +37000,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa representações",
         "text": "Desenvolva mapas mentais ricos da habilidade.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Construa representações\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Desenvolva mapas mentais ricos da habilidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa representações\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Construa representações\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desenvolva mapas mentais ricos da habilidade — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Construa representações\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37037,9 +37010,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não repita o óbvio",
         "text": "Repetição sem desafio consolida, não eleva.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Não repita o óbvio\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Repetição sem desafio consolida, não eleva — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não repita o óbvio\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Não repita o óbvio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Repetição sem desafio consolida, não eleva — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Não repita o óbvio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37047,9 +37020,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use um mestre",
         "text": "Professor acelera a prática deliberada correta no início.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Use um mestre\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Professor acelera a prática deliberada correta no início — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use um mestre\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Use um mestre\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Professor acelera a prática deliberada correta no início — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Use um mestre\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37057,9 +37030,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha regularidade",
         "text": "Sessões consistentes vencem maratonas ocasionais.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Mantenha regularidade\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Sessões consistentes vencem maratonas ocasionais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha regularidade\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Mantenha regularidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sessões consistentes vencem maratonas ocasionais — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Mantenha regularidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37067,9 +37040,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça progresso",
         "text": "Acompanhe marcas para saber se o treino funciona.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Meça progresso\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Acompanhe marcas para saber se o treino funciona — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça progresso\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Meça progresso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acompanhe marcas para saber se o treino funciona — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Meça progresso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37077,9 +37050,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ignore o teto",
         "text": "Potencial é maleável; não assuma limite precoce.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Ignore o teto\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Potencial é maleável; não assuma limite precoce — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ignore o teto\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Ignore o teto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Potencial é maleável; não assuma limite precoce — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Ignore o teto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37087,9 +37060,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine a mente",
         "text": "Foco e atenção são treináveis, não só a técnica.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Treine a mente\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Foco e atenção são treináveis, não só a técnica — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine a mente\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Treine a mente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foco e atenção são treináveis, não só a técnica — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Treine a mente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37097,9 +37070,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece tarde é ok",
         "text": "Adultos也能 melhorar com prática deliberada bem feita.",
         "explicacoes": [
-          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Comece tarde é ok\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
-          "Na prática: Adultos也能 melhorar com prática deliberada bem feita — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece tarde é ok\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson coloca \"Comece tarde é ok\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Adultos也能 melhorar com prática deliberada bem feita — traduzido para a prática, é o passo concreto que liga a teoria de Anders Ericsson ao comportamento diário.",
+          "Ignorar \"Comece tarde é ok\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -37353,12 +37326,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "São só jovens preguiçosos",
-        "text": "Twenge mostra mudança histórica estrutural, não falta de moral.",
-        "reflection": "Você julga a geração sem ver os dados?"
-      },
-      {
         "type": "truth",
         "title": "Smartphone mudou tudo",
         "text": "O celular onipresente alterou comportamento em poucos anos.",
@@ -37366,9 +37333,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Redes sociais ajudam",
-        "text": "Uso excesso correlaciona-se a mais ansiedade e depressão.",
-        "reflection": "Você assume que conectar sempre ajuda?"
+        "title": "São só jovens preguiçosos",
+        "text": "Twenge mostra mudança histórica estrutural, não falta de moral.",
+        "reflection": "Você julga a geração sem ver os dados?"
       },
       {
         "type": "truth",
@@ -37378,9 +37345,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "São mais felizes",
-        "text": "Dados mostram queda de bem-estar conforme uso de tela sobe.",
-        "reflection": "Você confunde tempo online com felicidade?"
+        "title": "Redes sociais ajudam",
+        "text": "Uso excesso correlaciona-se a mais ansiedade e depressão.",
+        "reflection": "Você assume que conectar sempre ajuda?"
       },
       {
         "type": "truth",
@@ -37390,9 +37357,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Culpa dos pais",
-        "text": "Twenge aponta o momento tecnológico, não a criação individual.",
-        "reflection": "Você culpa famílias sem ver o contexto?"
+        "title": "São mais felizes",
+        "text": "Dados mostram queda de bem-estar conforme uso de tela sobe.",
+        "reflection": "Você confunde tempo online com felicidade?"
       },
       {
         "type": "truth",
@@ -37402,9 +37369,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tela não faz mal",
-        "text": "Uso moderado ok; excesso prejudica sono e humor.",
-        "reflection": "Você ignora o teto saudável de tela?"
+        "title": "Culpa dos pais",
+        "text": "Twenge aponta o momento tecnológico, não a criação individual.",
+        "reflection": "Você culpa famílias sem ver o contexto?"
       },
       {
         "type": "truth",
@@ -37414,9 +37381,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudança é moral",
-        "text": "É fenômeno de tempo e tecnologia, não decadência.",
-        "reflection": "Você moraliza em vez de analisar?"
+        "title": "Tela não faz mal",
+        "text": "Uso moderado ok; excesso prejudica sono e humor.",
+        "reflection": "Você ignora o teto saudável de tela?"
       },
       {
         "type": "truth",
@@ -37426,15 +37393,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "São iguais às gerações",
-        "text": "A velocidade da mudança é sem precedentes nos dados.",
-        "reflection": "Você trata todos os jovens como iguais?"
+        "title": "Mudança é moral",
+        "text": "É fenômeno de tempo e tecnologia, não decadência.",
+        "reflection": "Você moraliza em vez de analisar?"
       },
       {
         "type": "truth",
         "title": "Dados, não opinião",
         "text": "Conclusões vêm de milhões de respostas, não anedotas.",
         "reflection": "Você decide por impressão ou por dado?"
+      },
+      {
+        "type": "myth",
+        "title": "São iguais às gerações",
+        "text": "A velocidade da mudança é sem precedentes nos dados.",
+        "reflection": "Você trata todos os jovens como iguais?"
+      },
+      {
+        "type": "truth",
+        "title": "A geração conectada paga o preço da tela",
+        "text": "Twenge documenta ansiedade e solidão ligadas ao smartphone precoce e à comparação social.",
+        "reflection": "Quanto de sua atenção foi terceirizada para o feed?"
       }
     ],
     "summary": "\"iGen\", de Jean Twenge, é um retrato geracional baseado em dados de milhões de adolescentes: a geração nascida depois de 1995, a primeira a crescer com smartphones em mãos. A tese central é que a onipresença da tecnologia mudou comportamentos de forma profunda e rápida — menos sexo, menos direção, menos independência, mas mais ansiedade e depressão. Twenge mostra que não é \"culpa dos pais\" nem de política, e sim do momento histórico do smartphone. O gancho: a felicidade subiu com o uso moderado de telas e caiu com o excesso; o ponto de virada coincide com 2012, quando o uso de redes sociais explodiu. É um alerta fundamentado para pais, educadores e gestores que querem entender a juventude de hoje sem recorrer a estereótipos ou pânico moral vazio. É um alerta fundamentado para pais, educadores e gestores que querem entender a juventude de hoje sem recorrer a estereótipos ou pânico vazio.",
@@ -37455,16 +37434,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Mais tela, menos felicidade — o padrão se repete nos dados.",
         "autor": "Jean M. Twenge",
         "obra": "iGen"
-      },
-      {
-        "texto": "iGen é menos independente, mas mais ansiosa que as gerações anteriores.",
-        "autor": "Jean M. Twenge",
-        "obra": "iGen"
-      },
-      {
-        "texto": "Não é culpa dos pais; é o momento histórico da tecnologia.",
-        "autor": "Jean M. Twenge",
-        "obra": "iGen"
       }
     ],
     "citacoesTerceiros": [
@@ -37475,13 +37444,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "Explica muita coisa que vejo na sala de aula hoje.",
-        "autor": "Professor",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Twenge é cuidadosa; não é pânico moral, é pesquisa.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -37497,9 +37461,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conheça os dados",
         "text": "Baseie juízo sobre jovens em pesquisa, não estereótipo.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Conheça os dados\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Baseie juízo sobre jovens em pesquisa, não estereótipo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conheça os dados\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Conheça os dados\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Baseie juízo sobre jovens em pesquisa, não estereótipo — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Conheça os dados\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37507,9 +37471,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Limite telas",
         "text": "Defina teto de uso e especialmente fora do quarto à noite.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Limite telas\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Defina teto de uso e especialmente fora do quarto à noite — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Limite telas\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Limite telas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defina teto de uso e especialmente fora do quarto à noite — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Limite telas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37517,9 +37481,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja o sono",
         "text": "Tela à noite destrói sono; remova do quarto.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Proteja o sono\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Tela à noite destrói sono; remova do quarto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja o sono\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Proteja o sono\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tela à noite destrói sono; remova do quarto — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Proteja o sono\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37527,9 +37491,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estimule independência",
         "text": "Crie oportunidades de responsabilidade e saída.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Estimule independência\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Crie oportunidades de responsabilidade e saída — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estimule independência\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Estimule independência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Crie oportunidades de responsabilidade e saída — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Estimule independência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37537,9 +37501,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Modere redes",
         "text": "Uso moderado preserva bem-estar melhor que excesso.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Modere redes\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Uso moderado preserva bem-estar melhor que excesso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Modere redes\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Modere redes\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uso moderado preserva bem-estar melhor que excesso — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Modere redes\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37547,9 +37511,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acolha ansiedade",
         "text": "Reconheça o aumento real de ansiedade e depressão.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Acolha ansiedade\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Reconheça o aumento real de ansiedade e depressão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acolha ansiedade\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Acolha ansiedade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça o aumento real de ansiedade e depressão — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Acolha ansiedade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37557,9 +37521,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não moralize",
         "text": "A mudança é tecnológica; evite julgar a geração.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Não moralize\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: A mudança é tecnológica; evite julgar a geração — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não moralize\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Não moralize\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A mudança é tecnológica; evite julgar a geração — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Não moralize\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37567,9 +37531,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Compare 2012",
         "text": "Use o marco de 2012 para entender a virada.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Compare 2012\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Use o marco de 2012 para entender a virada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Compare 2012\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Compare 2012\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use o marco de 2012 para entender a virada — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Compare 2012\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37577,9 +37541,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize presença",
         "text": "Convívio real compensa tempo de tela excessivo.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Valorize presença\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Convívio real compensa tempo de tela excessivo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize presença\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Valorize presença\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Convívio real compensa tempo de tela excessivo — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Valorize presença\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37587,9 +37551,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ensine uso saudável",
         "text": "Educadores devem ensinar relação equilibrada com tech.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Ensine uso saudável\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Educadores devem ensinar relação equilibrada com tech — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ensine uso saudável\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Ensine uso saudável\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Educadores devem ensinar relação equilibrada com tech — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Ensine uso saudável\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37597,9 +37561,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Observe sinais",
         "text": "Mudanças de humor podem vir de uso de tela.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Observe sinais\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Mudanças de humor podem vir de uso de tela — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Observe sinais\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Observe sinais\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mudanças de humor podem vir de uso de tela — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Observe sinais\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -37607,9 +37571,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja cedo",
         "text": "Hábitos de tela na infância moldam bem-estar futuro.",
         "explicacoes": [
-          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Aja cedo\" como peça-chave para a geração i e o custo do excesso de autoestima.",
-          "Na prática: Hábitos de tela na infância moldam bem-estar futuro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja cedo\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge coloca \"Aja cedo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Hábitos de tela na infância moldam bem-estar futuro — traduzido para a prática, é o passo concreto que liga a teoria de Jean M. Twenge ao comportamento diário.",
+          "Ignorar \"Aja cedo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -37863,12 +37827,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Meditação é mística",
-        "text": "Harris mostra versão secular e baseada em evidência, sem crença.",
-        "reflection": "Você rejeitou meditar por achar que é religião?"
-      },
-      {
         "type": "truth",
         "title": "Funciona para céticos",
         "text": "Mesmo pragmático relata ganhos reais de foco e calma.",
@@ -37876,9 +37834,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Precisa virar monge",
-        "text": "A meta é 10% melhor, não iluminação total.",
-        "reflection": "Você acha que meditar exige vida radical?"
+        "title": "Meditação é mística",
+        "text": "Harris mostra versão secular e baseada em evidência, sem crença.",
+        "reflection": "Você rejeitou meditar por achar que é religião?"
       },
       {
         "type": "truth",
@@ -37888,9 +37846,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Só respira resolve tudo",
-        "text": "Harris é honesto: 10%, não cura mágica de vida.",
-        "reflection": "Você espera solução total e desiste?"
+        "title": "Precisa virar monge",
+        "text": "A meta é 10% melhor, não iluminação total.",
+        "reflection": "Você acha que meditar exige vida radical?"
       },
       {
         "type": "truth",
@@ -37900,9 +37858,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Não tenho tempo",
-        "text": "Poucos minutos diários já trazem efeito mensurável.",
-        "reflection": "Você alega falta de tempo para não tentar?"
+        "title": "Só respira resolve tudo",
+        "text": "Harris é honesto: 10%, não cura mágica de vida.",
+        "reflection": "Você espera solução total e desiste?"
       },
       {
         "type": "truth",
@@ -37912,9 +37870,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "É fugir da realidade",
-        "text": "Meditar ajuda a encarar melhor, não a evitar.",
-        "reflection": "Você acha que é escapismo?"
+        "title": "Não tenho tempo",
+        "text": "Poucos minutos diários já trazem efeito mensurável.",
+        "reflection": "Você alega falta de tempo para não tentar?"
       },
       {
         "type": "truth",
@@ -37924,9 +37882,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Vou parar de pensar",
-        "text": "O objetivo não é silenciar, é observar sem julgar.",
-        "reflection": "Você esperava mente vazia e desistiu?"
+        "title": "É fugir da realidade",
+        "text": "Meditar ajuda a encarar melhor, não a evitar.",
+        "reflection": "Você acha que é escapismo?"
       },
       {
         "type": "truth",
@@ -37936,15 +37894,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "É fraqueza pedir ajuda",
-        "text": "Harris buscou ajuda após o colapso; força, não fraqueza.",
-        "reflection": "Você evita buscar apoio por orgulho?"
+        "title": "Vou parar de pensar",
+        "text": "O objetivo não é silenciar, é observar sem julgar.",
+        "reflection": "Você esperava mente vazia e desistiu?"
       },
       {
         "type": "truth",
         "title": "Benefício mensurável",
         "text": "Ganhos de 10% já melhoram decisões e relacionamentos.",
         "reflection": "Você despreza ganho \"pequeno\" que acumula?"
+      },
+      {
+        "type": "myth",
+        "title": "É fraqueza pedir ajuda",
+        "text": "Harris buscou ajuda após o colapso; força, não fraqueza.",
+        "reflection": "Você evita buscar apoio por orgulho?"
+      },
+      {
+        "type": "truth",
+        "title": "Meditação reduz o ruído do eu narrativo",
+        "text": "Harris relata como a prática silencia o apresentador ansioso da mente e melhora decisões.",
+        "reflection": "Quantas de suas crises são produzidas por pensamentos, não por fatos?"
       }
     ],
     "summary": "\"Só Respira\" (10% Happier), de Dan Harris, é a confissão de um âncora da ABC News que teve um ataque de pânico ao vivo e partiu em busca de algo que o acalmasse. Cético, a tese central é que a meditação de atenção plena (mindfulness) funciona mesmo para céticos pragmáticos — e não precisa transformá-lo em monge. Harris propõe o alvo modesto de \"10% mais feliz\": menos reatividade, mais foco, sem misticismo. Ele relata encontros com Dalai Lama, Eckhart Tolle e cientistas, e mostra a evidência de que meditar reduz estresse e melhora decisões. O gancho: você não precisa acreditar em nada esotérico para colher os benefícios de sentar e observar a própria mente. Um relato honesto e laico que desarma preconceitos e torna a meditação acessível a quem desconfia dela. Um relato honesto e laico que desarma preconceitos e torna a meditação acessível a quem desconfia dela, sem prometer milagres ou iluminação.",
@@ -37965,16 +37935,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O objetivo não é parar de pensar, é não se confundir com os pensamentos.",
         "autor": "Dan Harris",
         "obra": "Só Respira"
-      },
-      {
-        "texto": "Só respira: a pausa antes de reagir muda tudo.",
-        "autor": "Dan Harris",
-        "obra": "Só Respira"
-      },
-      {
-        "texto": "Mindfulness secular tem evidência científica, não só misticismo.",
-        "autor": "Dan Harris",
-        "obra": "Só Respira"
       }
     ],
     "citacoesTerceiros": [
@@ -37987,11 +37947,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A honestidade do Harris sobre o pânico é refreshing.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "10% já fez diferença na minha reatividade no trânsito.",
-        "autor": "Leitor",
-        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -38007,9 +37962,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece pequeno",
         "text": "Poucos minutos diários de meditação já trazem efeito.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Comece pequeno\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Poucos minutos diários de meditação já trazem efeito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece pequeno\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Comece pequeno\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Poucos minutos diários de meditação já trazem efeito — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Comece pequeno\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38017,9 +37972,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Versão secular",
         "text": "Pratique sem crença religiosa; foco na evidência.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Versão secular\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Pratique sem crença religiosa; foco na evidência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Versão secular\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Versão secular\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pratique sem crença religiosa; foco na evidência — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Versão secular\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38027,9 +37982,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mire 10%",
         "text": "Meta modesta evita frustração e sustenta a prática.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Mire 10%\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Meta modesta evita frustração e sustenta a prática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mire 10%\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Mire 10%\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Meta modesta evita frustração e sustenta a prática — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Mire 10%\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38037,9 +37992,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Observe, não julgue",
         "text": "Veja pensamentos como eventos, não verdades, e reduza a identificação com eles.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Observe, não julgue\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Veja pensamentos como eventos, não verdades, e reduza a identificação com eles — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Observe, não julgue\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Observe, não julgue\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Veja pensamentos como eventos, não verdades, e reduza a identificação com eles — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Observe, não julgue\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38047,9 +38002,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine o foco",
         "text": "Atenção plena fortalece a concentração no trabalho.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Treine o foco\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Atenção plena fortalece a concentração no trabalho — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine o foco\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Treine o foco\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Atenção plena fortalece a concentração no trabalho — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Treine o foco\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38057,9 +38012,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza reatividade",
         "text": "Pausar antes de reagir melhora decisões e vínculos.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Reduza reatividade\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Pausar antes de reagir melhora decisões e vínculos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza reatividade\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Reduza reatividade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pausar antes de reagir melhora decisões e vínculos — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Reduza reatividade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38067,9 +38022,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a ciência",
         "text": "Apoie-se em estudos de estresse e atenção.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Use a ciência\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Apoie-se em estudos de estresse e atenção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a ciência\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Use a ciência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Apoie-se em estudos de estresse e atenção — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Use a ciência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38077,9 +38032,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja constante",
         "text": "Regularidade vence sessões longas e raras.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Seja constante\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Regularidade vence sessões longas e raras — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja constante\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Seja constante\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Regularidade vence sessões longas e raras — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Seja constante\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38087,9 +38042,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acolha o caos",
         "text": "Mente agitada é normal; persistir é a prática.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Acolha o caos\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Mente agitada é normal; persistir é a prática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acolha o caos\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Acolha o caos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mente agitada é normal; persistir é a prática — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Acolha o caos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38097,9 +38052,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque apoio",
         "text": "Pedir ajuda após colapso é força, não fraqueza.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Busque apoio\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Pedir ajuda após colapso é força, não fraqueza — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque apoio\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Busque apoio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pedir ajuda após colapso é força, não fraqueza — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Busque apoio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38107,9 +38062,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não espere vazio",
         "text": "Objetivo é observar, não silenciar a mente.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Não espere vazio\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Objetivo é observar, não silenciar a mente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não espere vazio\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Não espere vazio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Objetivo é observar, não silenciar a mente — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Não espere vazio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38117,9 +38072,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aplique no dia",
         "text": "Use micro-pausas de respiração nas crises reais.",
         "explicacoes": [
-          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Aplique no dia\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
-          "Na prática: Use micro-pausas de respiração nas crises reais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aplique no dia\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris coloca \"Aplique no dia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use micro-pausas de respiração nas crises reais — traduzido para a prática, é o passo concreto que liga a teoria de Dan Harris ao comportamento diário.",
+          "Ignorar \"Aplique no dia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -38373,12 +38328,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Alta performance é para os talentosos por natureza",
-        "text": "Burchard mostra que o desempenho excepcional é construído por hábitos, não por dotes inatos ou inteligência superior.",
-        "reflection": "Você tem usado a falta de 'talento' como desculpa para não praticar a excelência?"
-      },
-      {
         "type": "truth",
         "title": "Clareza precede a performance",
         "text": "Quem não sabe por que age, dispersa energia. A clareza sobre propósito e metas é o primeiro dos seis hábitos.",
@@ -38386,9 +38335,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Foco em produtividade basta para o sucesso",
-        "text": "Produtividade sem saúde e sem conexão com os outros corrói a performance a longo prazo.",
-        "reflection": "Você está 'produzindo' enquanto quebra a própria saúde ou seus relacionamentos?"
+        "title": "Alta performance é para os talentosos por natureza",
+        "text": "Burchard mostra que o desempenho excepcional é construído por hábitos, não por dotes inatos ou inteligência superior.",
+        "reflection": "Você tem usado a falta de 'talento' como desculpa para não praticar a excelência?"
       },
       {
         "type": "truth",
@@ -38398,9 +38347,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Coragem é a ausência de medo",
-        "text": "Burchard define coragem como agir com medo presente, não como sua eliminação.",
-        "reflection": "Que ação importante você adia esperando primeiro vencer o medo?"
+        "title": "Foco em produtividade basta para o sucesso",
+        "text": "Produtividade sem saúde e sem conexão com os outros corrói a performance a longo prazo.",
+        "reflection": "Você está 'produzindo' enquanto quebra a própria saúde ou seus relacionamentos?"
       },
       {
         "type": "truth",
@@ -38410,9 +38359,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Alto desempenho significa trabalhar mais horas",
-        "text": "O estudo mostra que os de alta performance protegem o descanso e a reflexão, não apenas o esforço bruto.",
-        "reflection": "Você confunde cansaço com produtividade?"
+        "title": "Coragem é a ausência de medo",
+        "text": "Burchard define coragem como agir com medo presente, não como sua eliminação.",
+        "reflection": "Que ação importante você adia esperando primeiro vencer o medo?"
       },
       {
         "type": "truth",
@@ -38422,9 +38371,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Hábitos bons dispensam atenção consciente",
-        "text": "Burchard alerta que a excelência exige re-engajamento diário, não apenas rotinas no piloto automático.",
-        "reflection": "Quantos dos seus 'bons hábitos' viraram autopilot sem presença?"
+        "title": "Alto desempenho significa trabalhar mais horas",
+        "text": "O estudo mostra que os de alta performance protegem o descanso e a reflexão, não apenas o esforço bruto.",
+        "reflection": "Você confunde cansaço com produtividade?"
       },
       {
         "type": "truth",
@@ -38434,9 +38383,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Bem-estar e ambição são opostos",
-        "text": "A pesquisa indica que performance sustentável exige os dois; sacrificar um destrói o outro.",
-        "reflection": "Você acredita que precisa sofrer para vencer?"
+        "title": "Hábitos bons dispensam atenção consciente",
+        "text": "Burchard alerta que a excelência exige re-engajamento diário, não apenas rotinas no piloto automático.",
+        "reflection": "Quantos dos seus 'bons hábitos' viraram autopilot sem presença?"
       },
       {
         "type": "truth",
@@ -38446,9 +38395,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Bem-estar e ambição são opostos",
+        "text": "A pesquisa indica que performance sustentável exige os dois; sacrificar um destrói o outro.",
+        "reflection": "Você acredita que precisa sofrer para vencer?"
+      },
+      {
+        "type": "truth",
+        "title": "Alta performance obedece a seis hábitos mensuráveis",
+        "text": "Burchard identifica clareza, energia, necessidade, produtividade, influência e coragem como o padrão.",
+        "reflection": "Qual dos seis hábitos é seu elo fraco?"
+      },
+      {
+        "type": "myth",
         "title": "Motivação vem antes da ação",
         "text": "Na prática, agir gera energia; esperar sentir-se motivado paralisa.",
         "reflection": "Você espera o momento certo ou cria o momento agindo?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Hábitos de Alta Performance resiste ao senso comum",
+        "text": "Em \"Hábitos de Alta Performance\", Brendon Burchard sustenta que em 'hábitos de alta performance', brendon burchard passou dez anos estudando o que separa as pessoas de alto desempenho — não apenas as bem-sucedidas, mas as que sustentam excelência e bem-estar a longo prazo — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Em 'Hábitos de Alta Performance', Brendon Burchard passou dez anos estudando o que separa as pessoas de alto desempenho — não apenas as bem-sucedidas, mas as que sustentam excelência e bem-estar a longo prazo. A tese central é provocadora: o talento e a sorte explicam pouco; o que conta são seis hábitos deliberados que qualquer um pode praticar. Claridade, necessidade, saúde, produtividade, influência e coragem formam o arcabouço que ele chama de HP6. Diferente dos livros de 'hábitos atômicos' focados em automação, Burchard argumenta que a alta performance exige presença e intenção consciente, não piloto automático. O gancho emocional é o medo de chegar ao fim da vida sem ter vivido com propósito e intensidade. O livro combina pesquisa de campo, histórias de líderes e práticas diárias para transformar energia em resultado e resultado em significado. Cada capítulo traz não só o 'porquê', mas exercícios práticos de aplicação imediata, tornando o livro um manual acionável e não apenas inspiracional. Burchard equilibra história de superação e evidência de pesquisa para mostrar que alta performance e bem-estar não se opõem.",
@@ -38469,33 +38436,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A vida pede que você participe, não que você se esconda.",
         "autor": "Brendon Burchard",
         "obra": "High Performance Habits"
-      },
-      {
-        "texto": "A alta performance não é sobre ser o melhor; é sobre ser melhor que a sua versão anterior.",
-        "autor": "Brendon Burchard",
-        "obra": "High Performance Habits"
-      },
-      {
-        "texto": "Você não precisa se sentir motivado para agir; agir gera motivação.",
-        "autor": "Brendon Burchard",
-        "obra": "High Performance Habits"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que finalmente me tirou do piloto automático; as perguntas matinais mudaram minha semana.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Pesquisa de campo rara em livros de desenvolvimento; senti que os dados sustentam as promessas.",
-        "autor": "Crítico de produtividade",
+        "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "Leitura densa em trechos, mas o arcabouço HP6 é aplicável no dia seguinte.",
-        "autor": "Leitor corporativo",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -38511,9 +38463,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque clareza toda manhã",
         "text": "Defina o que é mais importante antes de abrir o e-mail. A clareza reduz a paralisia e direciona a energia para o que conta.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Busque clareza toda manhã\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Defina o que é mais importante antes de abrir o e-mail. A clareza reduz a paralisia e direciona a energia para o que conta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque clareza toda manhã\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Busque clareza toda manhã\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defina o que é mais importante antes de abrir o e-mail. A clareza reduz a paralisia e direciona a energia para o que conta — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Busque clareza toda manhã\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38521,9 +38473,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conecte metas a uma necessidade real",
         "text": "Quando uma meta toca algo que você precisa provar ou entregar para quem ama, a disciplina floresce sem esforço heroico.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Conecte metas a uma necessidade real\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Quando uma meta toca algo que você precisa provar ou entregar para quem ama, a disciplina floresce sem esforço heroico — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conecte metas a uma necessidade real\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Conecte metas a uma necessidade real\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quando uma meta toca algo que você precisa provar ou entregar para quem ama, a disciplina floresce sem esforço heroico — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Conecte metas a uma necessidade real\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38531,9 +38483,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja sua saúde como ativo",
         "text": "Sono, exercício e nutrição não são custos; são a infraestrutura sobre a qual toda performance é construída.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Proteja sua saúde como ativo\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Sono, exercício e nutrição não são custos; são a infraestrutura sobre a qual toda performance é construída — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja sua saúde como ativo\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Proteja sua saúde como ativo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sono, exercício e nutrição não são custos; são a infraestrutura sobre a qual toda performance é construída — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Proteja sua saúde como ativo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38541,9 +38493,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a produtividade focada",
         "text": "Bloquear tempo para o trabalho profundo, sem fragmentação, entrega muito mais que horas longas e interrompidas.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Pratique a produtividade focada\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Bloquear tempo para o trabalho profundo, sem fragmentação, entrega muito mais que horas longas e interrompidas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a produtividade focada\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Pratique a produtividade focada\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Bloquear tempo para o trabalho profundo, sem fragmentação, entrega muito mais que horas longas e interrompidas — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Pratique a produtividade focada\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38551,9 +38503,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Exerça a coragem em pequenas doses",
         "text": "Cada conversa difícil ou recusa honesta treina o músculo da coragem para os momentos decisivos.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Exerça a coragem em pequenas doses\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Cada conversa difícil ou recusa honesta treina o músculo da coragem para os momentos decisivos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Exerça a coragem em pequenas doses\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Exerça a coragem em pequenas doses\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada conversa difícil ou recusa honesta treina o músculo da coragem para os momentos decisivos — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Exerça a coragem em pequenas doses\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38561,9 +38513,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Influencie servindo",
         "text": "Pergunte como pode elevar os outros; a autoridade natural nasce de contribuir, não de comandar.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Influencie servindo\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Pergunte como pode elevar os outros; a autoridade natural nasce de contribuir, não de comandar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Influencie servindo\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Influencie servindo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pergunte como pode elevar os outros; a autoridade natural nasce de contribuir, não de comandar — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Influencie servindo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38571,9 +38523,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha o hábito sob atenção",
         "text": "Re-afirme intenção diária; rotinas desatentas perdem o poder de transformar.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Mantenha o hábito sob atenção\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Re-afirme intenção diária; rotinas desatentas perdem o poder de transformar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha o hábito sob atenção\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Mantenha o hábito sob atenção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Re-afirme intenção diária; rotinas desatentas perdem o poder de transformar — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Mantenha o hábito sob atenção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38581,9 +38533,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reflita semanalmente",
         "text": "Uma revisão de fim de semana sobre o que funcionou revela padrões que a correria esconde.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Reflita semanalmente\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Uma revisão de fim de semana sobre o que funcionou revela padrões que a correria esconde — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reflita semanalmente\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Reflita semanalmente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma revisão de fim de semana sobre o que funcionou revela padrões que a correria esconde — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Reflita semanalmente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38591,9 +38543,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Celebre progressos",
         "text": "Reconhecer avanços sustenta a motivação muito mais do que perseguir apenas o fim.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Celebre progressos\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Reconhecer avanços sustenta a motivação muito mais do que perseguir apenas o fim — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Celebre progressos\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Celebre progressos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer avanços sustenta a motivação muito mais do que perseguir apenas o fim — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Celebre progressos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38601,9 +38553,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque feedback honesto",
         "text": "Pergunte às pessoas como seu comportamento as afeta; pontos cegos só saem com espelho alheio.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Busque feedback honesto\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Pergunte às pessoas como seu comportamento as afeta; pontos cegos só saem com espelho alheio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque feedback honesto\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Busque feedback honesto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pergunte às pessoas como seu comportamento as afeta; pontos cegos só saem com espelho alheio — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Busque feedback honesto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38611,9 +38563,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina sua identidade de desempenho",
         "text": "Declarar quem você quer ser orienta escolhas melhores que listas de tarefas.",
         "explicacoes": [
-          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Defina sua identidade de desempenho\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
-          "Na prática: Declarar quem você quer ser orienta escolhas melhores que listas de tarefas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina sua identidade de desempenho\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Defina sua identidade de desempenho\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Declarar quem você quer ser orienta escolhas melhores que listas de tarefas — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Defina sua identidade de desempenho\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Ações diárias definem o nível",
+        "text": "Burchard afirma que a alta performance é a soma de pequenas escolhas repetidas.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard coloca \"Ações diárias definem o nível\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Burchard afirma que a alta performance é a soma de pequenas escolhas repetidas — traduzido para a prática, é o passo concreto que liga a teoria de Brendon Burchard ao comportamento diário.",
+          "Ignorar \"Ações diárias definem o nível\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -38647,6 +38609,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Burchard abre mostrando que a alta performance é aprendida, não inata, com base em sua pesquisa de dez anos.",
             "f": "Na visão de Brendon Burchard, \"o papel do esforço deliberado\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
             "real": false
+          },
+          {
+            "t": "O mito do talento",
+            "e": "Burchard abre mostrando que a alta performance é aprendida, não inata, com base em sua pesquisa de dez anos.",
+            "f": "Na visão de Brendon Burchard, o mito do talento é o ponto central deste capítulo de \"Hábitos de Alta Performance\".",
+            "real": false
           }
         ]
       },
@@ -38664,6 +38632,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Visão, intenção e resultado",
             "e": "O primeiro pilar: saber por que se age direciona toda a energia restante.",
             "f": "Na visão de Brendon Burchard, \"visão, intenção e resultado\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          },
+          {
+            "t": "O hábito da clareza",
+            "e": "O primeiro pilar: saber por que se age direciona toda a energia restante.",
+            "f": "Na visão de Brendon Burchard, o hábito da clareza é o ponto central deste capítulo de \"Hábitos de Alta Performance\".",
             "real": false
           }
         ]
@@ -38683,6 +38657,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como ligar metas a propósitos que tocam emocionalmente sustenta a ação.",
             "f": "Na visão de Brendon Burchard, \"conectar meta a pessoas\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
             "real": false
+          },
+          {
+            "t": "O hábito da necessidade",
+            "e": "Como ligar metas a propósitos que tocam emocionalmente sustenta a ação.",
+            "f": "Na visão de Brendon Burchard, o hábito da necessidade é o ponto central deste capítulo de \"Hábitos de Alta Performance\".",
+            "real": false
           }
         ]
       },
@@ -38701,6 +38681,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Energia física e mental como infraestrutura do desempenho.",
             "f": "Você não precisa se sentir motivado para agir; agir gera motivação.",
             "real": true
+          },
+          {
+            "t": "O hábito da saúde",
+            "e": "Energia física e mental como infraestrutura do desempenho.",
+            "f": "Na visão de Brendon Burchard, o hábito da saúde é o ponto central deste capítulo de \"Hábitos de Alta Performance\".",
+            "real": false
           }
         ]
       },
@@ -38718,6 +38704,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Eliminar fragmentação",
             "e": "Trabalho focado e profundo supera ocupação constante.",
             "f": "Na visão de Brendon Burchard, \"eliminar fragmentação\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          },
+          {
+            "t": "O hábito da produtividade",
+            "e": "Trabalho focado e profundo supera ocupação constante.",
+            "f": "Na visão de Brendon Burchard, o hábito da produtividade é o ponto central deste capítulo de \"Hábitos de Alta Performance\".",
             "real": false
           }
         ]
@@ -38737,6 +38729,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Elevar os outros gera autoridade natural e impacto duradouro.",
             "f": "Na visão de Brendon Burchard, \"feedback e escuta\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
             "real": false
+          },
+          {
+            "t": "O hábito da influência",
+            "e": "Elevar os outros gera autoridade natural e impacto duradouro.",
+            "f": "Na visão de Brendon Burchard, o hábito da influência é o ponto central deste capítulo de \"Hábitos de Alta Performance\".",
+            "real": false
           }
         ]
       },
@@ -38754,6 +38752,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Enfrentar conversas difíceis",
             "e": "Agir com medo presente, não após vencê-lo, é a definição prática.",
             "f": "Na visão de Brendon Burchard, \"enfrentar conversas difíceis\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          },
+          {
+            "t": "O hábito da coragem",
+            "e": "Agir com medo presente, não após vencê-lo, é a definição prática.",
+            "f": "Na visão de Brendon Burchard, o hábito da coragem é o ponto central deste capítulo de \"Hábitos de Alta Performance\".",
             "real": false
           }
         ]
@@ -38773,6 +38777,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O autor mostra como os pilares se reforçam e propõe ritual semanal.",
             "f": "Na visão de Brendon Burchard, \"identidade de desempenho\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
             "real": false
+          },
+          {
+            "t": "Integrando os seis hábitos",
+            "e": "O autor mostra como os pilares se reforçam e propõe ritual semanal.",
+            "f": "Na visão de Brendon Burchard, integrando os seis hábitos é o ponto central deste capítulo de \"Hábitos de Alta Performance\".",
+            "real": false
           }
         ]
       },
@@ -38790,6 +38800,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Celebração de avanços",
             "e": "Indicadores de alta performance que qualquer um pode acompanhar.",
             "f": "Na visão de Brendon Burchard, \"celebração de avanços\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          },
+          {
+            "t": "Medindo o progresso",
+            "e": "Indicadores de alta performance que qualquer um pode acompanhar.",
+            "f": "Na visão de Brendon Burchard, medindo o progresso é o ponto central deste capítulo de \"Hábitos de Alta Performance\".",
             "real": false
           }
         ]
@@ -38813,12 +38829,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "O tempo cura sozinho",
-        "text": "Eger afirma que o tempo não cura; o que cura é o que fazemos com o tempo, especialmente o perdão.",
-        "reflection": "Você confia no tempo para resolver o que só a ação e o perdão resolvem?"
-      },
-      {
         "type": "truth",
         "title": "A escolha permanece nossa, mesmo na pior dor",
         "text": "Mesmo em Auschwitz, ela argumenta, a liberdade interior de escolher o sentido não foi tirada.",
@@ -38826,9 +38836,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Perdoar é esquecer ou absolver o agressor",
-        "text": "Perdoar, para Eger, é soltar a si mesmo da prisão da amargura, não concordar com o mal.",
-        "reflection": "Você confunde perdoar com permitir?"
+        "title": "O tempo cura sozinho",
+        "text": "Eger afirma que o tempo não cura; o que cura é o que fazemos com o tempo, especialmente o perdão.",
+        "reflection": "Você confia no tempo para resolver o que só a ação e o perdão resolvem?"
       },
       {
         "type": "truth",
@@ -38838,9 +38848,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Trauma forte quebra para sempre",
-        "text": "A psicóloga mostra que a ferida pode tornar-se fonte de empatia e força.",
-        "reflection": "Sua ferida tem sido apenas cicatriz ou também professor?"
+        "title": "Perdoar é esquecer ou absolver o agressor",
+        "text": "Perdoar, para Eger, é soltar a si mesmo da prisão da amargura, não concordar com o mal.",
+        "reflection": "Você confunde perdoar com permitir?"
       },
       {
         "type": "truth",
@@ -38850,9 +38860,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Fortes não sentem medo ou tristeza",
-        "text": "Eger chora e treme diante das memórias; força é sentir e seguir.",
-        "reflection": "Você esconde emoções achando que isso é ser forte?"
+        "title": "Trauma forte quebra para sempre",
+        "text": "A psicóloga mostra que a ferida pode tornar-se fonte de empatia e força.",
+        "reflection": "Sua ferida tem sido apenas cicatriz ou também professor?"
       },
       {
         "type": "truth",
@@ -38862,9 +38872,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Comparar dores invalida a própria",
-        "text": "Ela avisa que minimizar a própria história sob o peso de outros sofrimentos paralisa a cura.",
-        "reflection": "Você silencia sua dor por achar que 'outros sofrem mais'?"
+        "title": "Fortes não sentem medo ou tristeza",
+        "text": "Eger chora e treme diante das memórias; força é sentir e seguir.",
+        "reflection": "Você esconde emoções achando que isso é ser forte?"
       },
       {
         "type": "truth",
@@ -38874,9 +38884,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Culpa pertence só a quem errou",
-        "text": "Sobreviventes carregam culpa injusta; nomeá-la é passo da libertação.",
-        "reflection": "Você carrega culpa que não é sua?"
+        "title": "Comparar dores invalida a própria",
+        "text": "Ela avisa que minimizar a própria história sob o peso de outros sofrimentos paralisa a cura.",
+        "reflection": "Você silencia sua dor por achar que 'outros sofrem mais'?"
       },
       {
         "type": "truth",
@@ -38886,9 +38896,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Culpa pertence só a quem errou",
+        "text": "Sobreviventes carregam culpa injusta; nomeá-la é passo da libertação.",
+        "reflection": "Você carrega culpa que não é sua?"
+      },
+      {
+        "type": "truth",
+        "title": "Liberdade é escolha diante do que não se controla",
+        "text": "Eger, sobrevivente de Auschwitz, sustenta que o carcereiro final mora dentro de nós.",
+        "reflection": "Que prisão você mantém por escolha, não por necessidade?"
+      },
+      {
+        "type": "myth",
         "title": "Falar do trauma reabre a ferida",
         "text": "Contado com segurança, o relato integra e dessensibiliza; o silêncio é que aprisiona.",
         "reflection": "Que história você cala por medo de reabrir algo?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade resiste ao senso comum",
+        "text": "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger sustenta que edith eger sobreviveu a auschwitz aos dezesseis anos e tornou-se psicóloga décadas depois — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Edith Eger sobreviveu a Auschwitz aos dezesseis anos e tornou-se psicóloga décadas depois. Em 'O Prisioneiro Feliz', ela entrelaça memórias do Holocausto com o trabalho clínico para entregar uma tese luminosa: ninguém pode tirar nossa liberdade de escolher o significado que damos ao sofrimento. O livro não nega a dor — Eger descreve a perda dos pais e a violência de Mengele —, mas recusa a identidade de vítima como destino. O gancho central é a 'escolha' de cada momento: podemos ficar presos ao passado ou usá-lo como professor. Misturando terapia cognitivo-comportamental, perdão e compaixão, Eger propõe que a cura não apaga a ferida, mas a transforma em porta de empatia. É um manifesto de resiliência que fala tanto a quem enfrenta traumas enormes quanto a quem luta com prisões cotidianas invisíveis. O livro alterna o relato do horror do campo com diálogos clínicos de pacientes reais, mostrando que a psicologia se constrói a partir da própria dor. Eger prova que a liberdade não é ausência de sofrimento, mas a decisão diária de não deixar que o passado dite o presente.",
@@ -38909,33 +38937,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Perdoar não é esquecer; é soltar a pessoa que prendeu você no passado.",
         "autor": "Edith Eger",
         "obra": "The Choice"
-      },
-      {
-        "texto": "A liberdade não é estar livre do medo, mas agir apesar dele.",
-        "autor": "Edith Eger",
-        "obra": "The Choice"
-      },
-      {
-        "texto": "Você não pode mudar o que aconteceu, mas pode escolher o que isso significa para você.",
-        "autor": "Edith Eger",
-        "obra": "The Choice"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro mais comovente que li este ano; Eger transforma horror em luz sem romantizar.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Psicologia de verdade embalada em narrativa; recomendo a pacientes traquejados.",
-        "autor": "Terapeuta",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Li em lágrimas e saí com uma ferramenta: a escolha sempre existe.",
         "autor": "Leitor",
-        "fonte": "Amazon"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -38951,9 +38964,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A escolha é sua âncora",
         "text": "Em qualquer circunstância, resta a liberdade de escolher o sentido. Exercitar essa escolha é o primeiro passo da libertação.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"A escolha é sua âncora\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: Em qualquer circunstância, resta a liberdade de escolher o sentido. Exercitar essa escolha é o primeiro passo da libertação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"A escolha é sua âncora\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"A escolha é sua âncora\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Em qualquer circunstância, resta a liberdade de escolher o sentido. Exercitar essa escolha é o primeiro passo da libertação — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"A escolha é sua âncora\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38961,9 +38974,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Perdoe para se libertar",
         "text": "Perdoar não absolve o outro; solta você da amargura que o mantém presente.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Perdoe para se libertar\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: Perdoar não absolve o outro; solta você da amargura que o mantém presente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Perdoe para se libertar\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Perdoe para se libertar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Perdoar não absolve o outro; solta você da amargura que o mantém presente — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Perdoe para se libertar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38971,9 +38984,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não se defina pela dor",
         "text": "Você é mais que o que sofreu; separar o papel de vítima da identidade abre caminho.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Não se defina pela dor\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: Você é mais que o que sofreu; separar o papel de vítima da identidade abre caminho — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não se defina pela dor\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Não se defina pela dor\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Você é mais que o que sofreu; separar o papel de vítima da identidade abre caminho — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Não se defina pela dor\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38981,9 +38994,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escute o corpo",
         "text": "Tensões e reações físicas revelam traumas que a narrativa esconde; atendê-las faz parte da cura.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Escute o corpo\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: Tensões e reações físicas revelam traumas que a narrativa esconde; atendê-las faz parte da cura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escute o corpo\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Escute o corpo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tensões e reações físicas revelam traumas que a narrativa esconde; atendê-las faz parte da cura — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Escute o corpo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -38991,9 +39004,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Permita o sentimento",
         "text": "Medo e tristeza não são fraqueza; senti-los e prosseguir é a verdadeira força.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Permita o sentimento\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: Medo e tristeza não são fraqueza; senti-los e prosseguir é a verdadeira força — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Permita o sentimento\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Permita o sentimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Medo e tristeza não são fraqueza; senti-los e prosseguir é a verdadeira força — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Permita o sentimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39001,9 +39014,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Converse com a dor",
         "text": "Dialogar com a própria ferida, como Eger faz com Mengele imaginário, reduz seu poder.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Converse com a dor\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: Dialogar com a própria ferida, como Eger faz com Mengele imaginário, reduz seu poder — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Converse com a dor\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Converse com a dor\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dialogar com a própria ferida, como Eger faz com Mengele imaginário, reduz seu poder — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Converse com a dor\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39011,9 +39024,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Liberte-se da culpa injusta",
         "text": "Sobreviventes e cuidadores carregam culpas que não lhes pertencem; reconhecê-las alivia.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Liberte-se da culpa injusta\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: Sobreviventes e cuidadores carregam culpas que não lhes pertencem; reconhecê-las alivia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Liberte-se da culpa injusta\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Liberte-se da culpa injusta\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sobreviventes e cuidadores carregam culpas que não lhes pertencem; reconhecê-las alivia — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Liberte-se da culpa injusta\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39021,9 +39034,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite a imperfeição da cura",
         "text": "A cura é processo recorrente; cobrar fim definitivo gera frustração.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Aceite a imperfeição da cura\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: A cura é processo recorrente; cobrar fim definitivo gera frustração — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite a imperfeição da cura\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Aceite a imperfeição da cura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A cura é processo recorrente; cobrar fim definitivo gera frustração — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Aceite a imperfeição da cura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39031,9 +39044,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Encontre gratidão na perda",
         "text": "Agradecer pelas memórias e ensinamentos mantém viva a conexão sem negar a dor.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Encontre gratidão na perda\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: Agradecer pelas memórias e ensinamentos mantém viva a conexão sem negar a dor — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Encontre gratidão na perda\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Encontre gratidão na perda\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Agradecer pelas memórias e ensinamentos mantém viva a conexão sem negar a dor — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Encontre gratidão na perda\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39041,9 +39054,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a dor como empatia",
         "text": "A ferida curada vira ponte para acolher o sofrimento alheio com autoridade gentil.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Use a dor como empatia\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: A ferida curada vira ponte para acolher o sofrimento alheio com autoridade gentil — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a dor como empatia\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Use a dor como empatia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A ferida curada vira ponte para acolher o sofrimento alheio com autoridade gentil — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Use a dor como empatia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39051,9 +39064,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Recuse a comparação de dores",
         "text": "Toda dor é válida; minimizá-la sob o peso de outras paralisa a própria cura.",
         "explicacoes": [
-          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Recuse a comparação de dores\" como peça-chave para a escolha da liberdade interior após o trauma.",
-          "Na prática: Toda dor é válida; minimizá-la sob o peso de outras paralisa a própria cura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Recuse a comparação de dores\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Recuse a comparação de dores\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Toda dor é válida; minimizá-la sob o peso de outras paralisa a própria cura — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Recuse a comparação de dores\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Perdoar libera a si mesmo",
+        "text": "Eger encerra mostrando que soltar o ressentimento devolve a liberdade roubada.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger coloca \"Perdoar libera a si mesmo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Eger encerra mostrando que soltar o ressentimento devolve a liberdade roubada — traduzido para a prática, é o passo concreto que liga a teoria de Edith Eger ao comportamento diário.",
+          "Ignorar \"Perdoar libera a si mesmo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -39087,6 +39110,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Eger relata a chegada, a separação dos pais e o encontro com Mengele, sem florear o horror.",
             "f": "Na visão de Edith Eger, \"a violência como laboratório\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
             "real": false
+          },
+          {
+            "t": "Auschwitz",
+            "e": "Eger relata a chegada, a separação dos pais e o encontro com Mengele, sem florear o horror.",
+            "f": "Na visão de Edith Eger, auschwitz é o ponto central deste capítulo de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
           }
         ]
       },
@@ -39104,6 +39133,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Recusa da identidade de vítima",
             "e": "O conceito central: mesmo cativa, ela podia escolher o sentido de resistir.",
             "f": "Na visão de Edith Eger, \"recusa da identidade de vítima\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "A escolha",
+            "e": "O conceito central: mesmo cativa, ela podia escolher o sentido de resistir.",
+            "f": "Na visão de Edith Eger, a escolha é o ponto central deste capítulo de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
             "real": false
           }
         ]
@@ -39123,6 +39158,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como o trauma se instala fisicamente e pede escuta clínica.",
             "f": "Na visão de Edith Eger, \"sinais de alerta\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
             "real": false
+          },
+          {
+            "t": "O corpo traumatizado",
+            "e": "Como o trauma se instala fisicamente e pede escuta clínica.",
+            "f": "Na visão de Edith Eger, o corpo traumatizado é o ponto central deste capítulo de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
           }
         ]
       },
@@ -39140,6 +39181,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Soltar a amargura",
             "e": "O perdão como libertação de si, não absolvição do agressor.",
             "f": "Na visão de Edith Eger, \"soltar a amargura\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Perdão",
+            "e": "O perdão como libertação de si, não absolvição do agressor.",
+            "f": "Na visão de Edith Eger, perdão é o ponto central deste capítulo de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
             "real": false
           }
         ]
@@ -39159,6 +39206,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A culpa do sobrevivente e como nomeá-la abre a cura.",
             "f": "Na visão de Edith Eger, \"autoacolhimento\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
             "real": false
+          },
+          {
+            "t": "Culpa e sobrevivência",
+            "e": "A culpa do sobrevivente e como nomeá-la abre a cura.",
+            "f": "Na visão de Edith Eger, culpa e sobrevivência é o ponto central deste capítulo de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
           }
         ]
       },
@@ -39176,6 +39229,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Sair da prisão interna",
             "e": "Reconhecer o papel sem virar identidade permanente.",
             "f": "Na visão de Edith Eger, \"sair da prisão interna\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "O papel da vítima",
+            "e": "Reconhecer o papel sem virar identidade permanente.",
+            "f": "Na visão de Edith Eger, o papel da vítima é o ponto central deste capítulo de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
             "real": false
           }
         ]
@@ -39195,6 +39254,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como Eger construiu vínculos saudáveis apesar do passado.",
             "f": "Na visão de Edith Eger, \"confiança reconstruída\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
             "real": false
+          },
+          {
+            "t": "Amor e casamento",
+            "e": "Como Eger construiu vínculos saudáveis apesar do passado.",
+            "f": "Na visão de Edith Eger, amor e casamento é o ponto central deste capítulo de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
           }
         ]
       },
@@ -39213,6 +39278,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A ferida como professor e ponte de empatia.",
             "f": "Na visão de Edith Eger, \"gratidão na perda\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
             "real": false
+          },
+          {
+            "t": "Integrando a dor",
+            "e": "A ferida como professor e ponte de empatia.",
+            "f": "Na visão de Edith Eger, integrando a dor é o ponto central deste capítulo de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
           }
         ]
       },
@@ -39230,6 +39301,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Viver inteiro",
             "e": "O fechamento: liberdade diária pela escolha consciente.",
             "f": "Na visão de Edith Eger, \"viver inteiro\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "A prisão feliz",
+            "e": "O fechamento: liberdade diária pela escolha consciente.",
+            "f": "Na visão de Edith Eger, a prisão feliz é o ponto central deste capítulo de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
             "real": false
           }
         ]
@@ -39253,12 +39330,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Autocontrole é um traço fixo de nascença",
-        "text": "Mischel demonstra que é uma habilidade estratégica treinável, não um dom genético.",
-        "reflection": "Você usa a 'falta de força de vontade' para não praticar estratégias?"
-      },
-      {
         "type": "truth",
         "title": "Há dois sistemas: quente e frio",
         "text": "O sistema quente reage por impulso; o frio planeja e dilata o tempo. Equilibrá-los é a chave.",
@@ -39266,9 +39337,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Quem cede à tentação é fraco de caráter",
-        "text": "Ceder revela estratégia fraca diante da situação, não defeito moral.",
-        "reflection": "Você moraliza impulsos que são só falta de técnica?"
+        "title": "Autocontrole é um traço fixo de nascença",
+        "text": "Mischel demonstra que é uma habilidade estratégica treinável, não um dom genético.",
+        "reflection": "Você usa a 'falta de força de vontade' para não praticar estratégias?"
       },
       {
         "type": "truth",
@@ -39278,9 +39349,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Basta 'querer' com mais força",
-        "text": "Força de vontade bruta falha; reenquadrar a situação vence o impulso.",
-        "reflection": "Você tenta empurrar o impulso em vez de contorná-lo?"
+        "title": "Quem cede à tentação é fraco de caráter",
+        "text": "Ceder revela estratégia fraca diante da situação, não defeito moral.",
+        "reflection": "Você moraliza impulsos que são só falta de técnica?"
       },
       {
         "type": "truth",
@@ -39290,9 +39361,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Paciência é sofrimento reprimido",
-        "text": "Esperar bem não é engolir o desejo, mas mudar como se pensa nele.",
-        "reflection": "Você acha que autocontrole exige tensão constante?"
+        "title": "Basta 'querer' com mais força",
+        "text": "Força de vontade bruta falha; reenquadrar a situação vence o impulso.",
+        "reflection": "Você tenta empurrar o impulso em vez de contorná-lo?"
       },
       {
         "type": "truth",
@@ -39302,9 +39373,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "O teste prevê destino irreversível",
-        "text": "Mischel ressalta que estratégias aprendidas depois alteram o trajetório.",
-        "reflection": "Você trata resultados passados como sentença?"
+        "title": "Paciência é sofrimento reprimido",
+        "text": "Esperar bem não é engolir o desejo, mas mudar como se pensa nele.",
+        "reflection": "Você acha que autocontrole exige tensão constante?"
       },
       {
         "type": "truth",
@@ -39314,9 +39385,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Crianças se saem melhor por 'vontade'",
-        "text": "Estudos mostram que as técnicas, não a vontade, explicam quem espera.",
-        "reflection": "Você atribui disciplina alheia a algo que é treinável?"
+        "title": "O teste prevê destino irreversível",
+        "text": "Mischel ressalta que estratégias aprendidas depois alteram o trajetório.",
+        "reflection": "Você trata resultados passados como sentença?"
       },
       {
         "type": "truth",
@@ -39326,9 +39397,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Crianças se saem melhor por 'vontade'",
+        "text": "Estudos mostram que as técnicas, não a vontade, explicam quem espera.",
+        "reflection": "Você atribui disciplina alheia a algo que é treinável?"
+      },
+      {
+        "type": "truth",
+        "title": "Autocontrole se aprende com estratégias mentais",
+        "text": "Mischel mostra que crianças que esperam o marshmallow usam distração e reenquadramento.",
+        "reflection": "Você enfrenta a tentação de frente ou a desvia do caminho?"
+      },
+      {
+        "type": "myth",
         "title": "Emoção e razão são inimigas",
         "text": "O objetivo não é matar o quente, mas acioná-lo no momento certo.",
         "reflection": "Você tenta eliminar emoções em vez de usá-las bem?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Teste do Marshmallow: Domar o Impulso para o Auto-controle resiste ao senso comum",
+        "text": "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel sustenta que walter mischel ficou famoso pelo 'teste do marshmallow', mas em seu livro ele desmonta o mal-entendido de que autocontrole é um traço fixo que se nasce ou não — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Walter Mischel ficou famoso pelo 'teste do marshmallow', mas em seu livro ele desmonta o mal-entendido de que autocontrole é um traço fixo que se nasce ou não. A tese de 'O Teste do Marshmallow' é que a capacidade de domar o impulso é uma habilidade estratégica aprendida, apoiada por dois sistemas mentais: o 'quente' (emocional, impulsivo) e o 'frio' (cognitivo, planejador). Crianças que esperavam pelo segundo doce usavam truques como distração mental, reenquadramento e foco no futuro. Mischel mostra que essas estratégias preveem melhores desfechos na vida e, crucialmente, podem ser ensinadas. O gancho é libertador: não é falta de caráter, é falta de estratégia. O livro atravessa psicologia cognitiva, neurociência e educação para provar que mudar o ambiente e a forma de pensar na tentação é mais eficaz que simplesmente 'ter força de vontade'. Ao longo das páginas, Mischel conecta seus achados a educação, saúde e política pública, sugerindo que ensinar autocontrole mudaria gerações. Ele rebate críticas de determinismo e mostra como o ambiente e a estratégia superam o suposto traço fixo.",
@@ -39349,33 +39438,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "As crianças que esperavam não eram mais fortes; eram mais espertas em distrair a si mesmas.",
         "autor": "Walter Mischel",
         "obra": "The Marshmallow Test"
-      },
-      {
-        "texto": "O segredo está em mudar como pensamos sobre a recompensa, não em combatê-la.",
-        "autor": "Walter Mischel",
-        "obra": "The Marshmallow Test"
-      },
-      {
-        "texto": "Domar o impulso é uma forma de libertar o eu do controle do momento.",
-        "autor": "Walter Mischel",
-        "obra": "The Marshmallow Test"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Finalmente alguém explica que o teste do marshmallow não é sobre 'ser bom'.",
-        "autor": "Leitor de psicologia",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Leitura essencial para pais e educadores; as estratégias são aplicáveis hoje.",
-        "autor": "Psicólogo escolar",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Denso em ciência, mas as dicas práticas compensam o rigor.",
         "autor": "Leitor",
-        "fonte": "Amazon"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -39391,9 +39465,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conheça seus dois sistemas",
         "text": "Identificar quando o sistema quente assume o controle é o primeiro passo para acionar o frio.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Conheça seus dois sistemas\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Identificar quando o sistema quente assume o controle é o primeiro passo para acionar o frio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conheça seus dois sistemas\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Conheça seus dois sistemas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identificar quando o sistema quente assume o controle é o primeiro passo para acionar o frio — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Conheça seus dois sistemas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39401,9 +39475,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desvie o olhar da tentação",
         "text": "Reduzir a atenção sobre o estímulo enfraquece o impulso sem esforço heroico.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Desvie o olhar da tentação\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Reduzir a atenção sobre o estímulo enfraquece o impulso sem esforço heroico — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desvie o olhar da tentação\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Desvie o olhar da tentação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduzir a atenção sobre o estímulo enfraquece o impulso sem esforço heroico — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Desvie o olhar da tentação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39411,9 +39485,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reenquadre a recompensa",
         "text": "Mudar como você descreve o objeto de desejo altera seu apelo emocional.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Reenquadre a recompensa\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Mudar como você descreve o objeto de desejo altera seu apelo emocional — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reenquadre a recompensa\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Reenquadre a recompensa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mudar como você descreve o objeto de desejo altera seu apelo emocional — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Reenquadre a recompensa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39421,9 +39495,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie distância física",
         "text": "Tornar a tentação menos visível ou acessível vale mais que força de vontade.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Crie distância física\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Tornar a tentação menos visível ou acessível vale mais que força de vontade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie distância física\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Crie distância física\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tornar a tentação menos visível ou acessível vale mais que força de vontade — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Crie distância física\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39431,9 +39505,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ancore no futuro",
         "text": "Ligar a espera a uma meta maior ativa o planejamento e dilata a paciência.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Ancore no futuro\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Ligar a espera a uma meta maior ativa o planejamento e dilata a paciência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ancore no futuro\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Ancore no futuro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ligar a espera a uma meta maior ativa o planejamento e dilata a paciência — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Ancore no futuro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39441,9 +39515,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use distração construtiva",
         "text": "Brincar, cantarolar ou focar em outra tarefa ocupa o sistema quente de forma útil.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Use distração construtiva\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Brincar, cantarolar ou focar em outra tarefa ocupa o sistema quente de forma útil — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use distração construtiva\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Use distração construtiva\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Brincar, cantarolar ou focar em outra tarefa ocupa o sistema quente de forma útil — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Use distração construtiva\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39451,9 +39525,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine em ambientes seguros",
         "text": "Praticar estratégias em situações de baixo risco prepara para as decisivas.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Treine em ambientes seguros\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Praticar estratégias em situações de baixo risco prepara para as decisivas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine em ambientes seguros\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Treine em ambientes seguros\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Praticar estratégias em situações de baixo risco prepara para as decisivas — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Treine em ambientes seguros\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39461,9 +39535,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não moralize o impulso",
         "text": "Ver ceder como falha de técnica, não de caráter, reduz a vergonha e facilita o ajuste.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Não moralize o impulso\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Ver ceder como falha de técnica, não de caráter, reduz a vergonha e facilita o ajuste — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não moralize o impulso\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Não moralize o impulso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ver ceder como falha de técnica, não de caráter, reduz a vergonha e facilita o ajuste — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Não moralize o impulso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39471,9 +39545,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ensine crianças a esperar",
         "text": "Mostrar truques de atenção a pequenos melhora resultados escolares e sociais.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Ensine crianças a esperar\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Mostrar truques de atenção a pequenos melhora resultados escolares e sociais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ensine crianças a esperar\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Ensine crianças a esperar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mostrar truques de atenção a pequenos melhora resultados escolares e sociais — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Ensine crianças a esperar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39481,9 +39555,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Monitore gatilhos",
         "text": "Mapear quando e onde o sistema quente dispara permite antecipar defesas.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Monitore gatilhos\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Mapear quando e onde o sistema quente dispara permite antecipar defesas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Monitore gatilhos\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Monitore gatilhos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mapear quando e onde o sistema quente dispara permite antecipar defesas — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Monitore gatilhos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -39491,9 +39565,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique o 'cool' deliberado",
         "text": "Pausar e descrever a situação em termos neutros reativa o planejamento.",
         "explicacoes": [
-          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Pratique o 'cool' deliberado\" como peça-chave para o teste do marshmallow e o autocontrole.",
-          "Na prática: Pausar e descrever a situação em termos neutros reativa o planejamento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique o 'cool' deliberado\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Pratique o 'cool' deliberado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pausar e descrever a situação em termos neutros reativa o planejamento — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Pratique o 'cool' deliberado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Estratégias vencem a tentação",
+        "text": "Mischel conclui que o autocontrole é repertório aprendido, não força de vontade solitária.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel coloca \"Estratégias vencem a tentação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mischel conclui que o autocontrole é repertório aprendido, não força de vontade solitária — traduzido para a prática, é o passo concreto que liga a teoria de Walter Mischel ao comportamento diário.",
+          "Ignorar \"Estratégias vencem a tentação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -39527,6 +39611,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mischel descreve a origem do teste e por que ele intrigou o mundo.",
             "f": "Na visão de Walter Mischel, \"a promessa do segundo\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
             "real": false
+          },
+          {
+            "t": "O experimento",
+            "e": "Mischel descreve a origem do teste e por que ele intrigou o mundo.",
+            "f": "Na visão de Walter Mischel, o experimento é o ponto central deste capítulo de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
           }
         ]
       },
@@ -39544,6 +39634,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Processamento frio",
             "e": "A base neural e cognitiva de como reagimos por impulso ou planejamos.",
             "f": "Na visão de Walter Mischel, \"processamento frio\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "O sistema quente e o frio",
+            "e": "A base neural e cognitiva de como reagimos por impulso ou planejamos.",
+            "f": "Na visão de Walter Mischel, o sistema quente e o frio é o ponto central deste capítulo de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
             "real": false
           }
         ]
@@ -39563,6 +39659,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O que as crianças faziam para resistir revela técnicas universais.",
             "f": "Na visão de Walter Mischel, \"brincar com a ideia\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
             "real": false
+          },
+          {
+            "t": "Estratégias de espera",
+            "e": "O que as crianças faziam para resistir revela técnicas universais.",
+            "f": "Na visão de Walter Mischel, estratégias de espera é o ponto central deste capítulo de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
           }
         ]
       },
@@ -39580,6 +39682,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Valor simbólico",
             "e": "Mudar a descrição mental da recompensa desarma o desejo.",
             "f": "Na visão de Walter Mischel, \"valor simbólico\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "Reenquadramento",
+            "e": "Mudar a descrição mental da recompensa desarma o desejo.",
+            "f": "Na visão de Walter Mischel, reenquadramento é o ponto central deste capítulo de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
             "real": false
           }
         ]
@@ -39599,6 +39707,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como tornar tentações invisíveis facilita a escolha certa.",
             "f": "Na visão de Walter Mischel, \"desenho do contexto\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
             "real": false
+          },
+          {
+            "t": "Ambiente e autocontrole",
+            "e": "Como tornar tentações invisíveis facilita a escolha certa.",
+            "f": "Na visão de Walter Mischel, ambiente e autocontrole é o ponto central deste capítulo de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
           }
         ]
       },
@@ -39616,6 +39730,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Metas dilatadas",
             "e": "A capacidade de conectar presente e futuro sustenta a paciência.",
             "f": "Na visão de Walter Mischel, \"metas dilatadas\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "O eu e o tempo",
+            "e": "A capacidade de conectar presente e futuro sustenta a paciência.",
+            "f": "Na visão de Walter Mischel, o eu e o tempo é o ponto central deste capítulo de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
             "real": false
           }
         ]
@@ -39635,6 +39755,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Correlações com desempenho escolar, saúde e relacionamentos.",
             "f": "Na visão de Walter Mischel, \"limites da previsão\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
             "real": false
+          },
+          {
+            "t": "Autocontrole e vida",
+            "e": "Correlações com desempenho escolar, saúde e relacionamentos.",
+            "f": "Na visão de Walter Mischel, autocontrole e vida é o ponto central deste capítulo de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
           }
         ]
       },
@@ -39653,6 +39779,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Intervenções que treinam estratégias em sala de aula.",
             "f": "Na visão de Walter Mischel, \"resultados\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
             "real": false
+          },
+          {
+            "t": "Ensinando a esperar",
+            "e": "Intervenções que treinam estratégias em sala de aula.",
+            "f": "Na visão de Walter Mischel, ensinando a esperar é o ponto central deste capítulo de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
           }
         ]
       },
@@ -39670,6 +39802,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Saúde comportamental",
             "e": "Aplicar o modelo a vícios, finanças e decisões adultas.",
             "f": "Na visão de Walter Mischel, \"saúde comportamental\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "Além do marshmallow",
+            "e": "Aplicar o modelo a vícios, finanças e decisões adultas.",
+            "f": "Na visão de Walter Mischel, além do marshmallow é o ponto central deste capítulo de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
             "real": false
           }
         ]
