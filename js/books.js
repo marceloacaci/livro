@@ -9275,62 +9275,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Domine o fluxo de caixa",
-        "text": "Aprenda a diferença real entre ativo e passivo. Antes de comprar qualquer coisa, pergunte-se se ela colocará ou tirará dinheiro do seu bolso todo mês."
+        "text": "Aprenda a diferença real entre ativo e passivo. Antes de comprar qualquer coisa, pergunte-se se ela colocará ou tirará dinheiro do seu bolso todo mês.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Domine o fluxo de caixa\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: Aprenda a diferença real entre ativo e passivo. Antes de comprar qualquer coisa, pergunte-se se ela colocará ou tirará dinheiro do seu bolso todo mês — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Domine o fluxo de caixa\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Pague-se primeiro",
-        "text": "Reserve uma parte da renda para investir em ativos antes de pagar despesas e gostos. Quem paga o mundo primeiro fica sem sobrar para si."
+        "text": "Reserve uma parte da renda para investir em ativos antes de pagar despesas e gostos. Quem paga o mundo primeiro fica sem sobrar para si.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Pague-se primeiro\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: Reserve uma parte da renda para investir em ativos antes de pagar despesas e gostos. Quem paga o mundo primeiro fica sem sobrar para si — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pague-se primeiro\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Construa ativos, não troféus",
-        "text": "Cada compra deve ser julgada pela capacidade de gerar renda futura. Objetos que só consomem são passivos disfarçados de sucesso."
+        "text": "Cada compra deve ser julgada pela capacidade de gerar renda futura. Objetos que só consomem são passivos disfarçados de sucesso.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Construa ativos, não troféus\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: Cada compra deve ser julgada pela capacidade de gerar renda futura. Objetos que só consomem são passivos disfarçados de sucesso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa ativos, não troféus\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Estude finanças além da escola",
-        "text": "A educação formal raramente ensina a ler balanços ou usar alavancagem. Busque conhecimento que a sala de aula ignorou."
+        "text": "A educação formal raramente ensina a ler balanços ou usar alavancagem. Busque conhecimento que a sala de aula ignorou.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Estude finanças além da escola\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: A educação formal raramente ensina a ler balanços ou usar alavancagem. Busque conhecimento que a sala de aula ignorou — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estude finanças além da escola\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Use a alavancagem a seu favor",
-        "text": "Riqueza cresce com o uso inteligente de outras pessoas, de sistemas e de capital. Fazer tudo sozinho limita o teto."
+        "text": "Riqueza cresce com o uso inteligente de outras pessoas, de sistemas e de capital. Fazer tudo sozinho limita o teto.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Use a alavancagem a seu favor\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: Riqueza cresce com o uso inteligente de outras pessoas, de sistemas e de capital. Fazer tudo sozinho limita o teto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a alavancagem a seu favor\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Entenda as leis tributárias",
-        "text": "A forma jurídica e a natureza da renda mudam quanto você mantém. Ignorar impostos é entregar dinheiro de graça."
+        "text": "A forma jurídica e a natureza da renda mudam quanto você mantém. Ignorar impostos é entregar dinheiro de graça.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Entenda as leis tributárias\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: A forma jurídica e a natureza da renda mudam quanto você mantém. Ignorar impostos é entregar dinheiro de graça — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda as leis tributárias\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Mude o quadrante, não só o salário",
-        "text": "Subir de cargo no lado esquerdo (E/A) ainda troca tempo por dinheiro. O lado direito (D/I) cria liberdade."
+        "text": "Subir de cargo no lado esquerdo (E/A) ainda troca tempo por dinheiro. O lado direito (D/I) cria liberdade.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Mude o quadrante, não só o salário\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: Subir de cargo no lado esquerdo (E/A) ainda troca tempo por dinheiro. O lado direito (D/I) cria liberdade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mude o quadrante, não só o salário\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Trabalhe para aprender, não apenas para ganhar",
-        "text": "As primeiras experiências de Pai Rico visavam habilidades (venda, negociação), não o contracheque. Competência abre portas de ativos."
+        "text": "As primeiras experiências de Pai Rico visavam habilidades (venda, negociação), não o contracheque. Competência abre portas de ativos.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Trabalhe para aprender, não apenas para ganhar\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: As primeiras experiências de Pai Rico visavam habilidades (venda, negociação), não o contracheque. Competência abre portas de ativos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trabalhe para aprender, não apenas para ganhar\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Enfrente o medo e a cobiça",
-        "text": "Reconheça quando decide por pânico ou desejo. Quem não sente é raro; quem percebe e escolhe, vence."
+        "text": "Reconheça quando decide por pânico ou desejo. Quem não sente é raro; quem percebe e escolhe, vence.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Enfrente o medo e a cobiça\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: Reconheça quando decide por pânico ou desejo. Quem não sente é raro; quem percebe e escolhe, vence — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Enfrente o medo e a cobiça\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Compre tempo, não apenas coisas",
-        "text": "O objetivo final do dinheiro é liberdade. Se cada conquista rouba seu tempo, você virou escravo do próprio padrão de vida."
+        "text": "O objetivo final do dinheiro é liberdade. Se cada conquista rouba seu tempo, você virou escravo do próprio padrão de vida.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Compre tempo, não apenas coisas\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: O objetivo final do dinheiro é liberdade. Se cada conquista rouba seu tempo, você virou escravo do próprio padrão de vida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Compre tempo, não apenas coisas\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Ensine os filhos cedo",
-        "text": "Modelos financeiros são herdados na infância. Conversar abertamente sobre dinheiro quebra ciclos de pobreza geracional."
+        "text": "Modelos financeiros são herdados na infância. Conversar abertamente sobre dinheiro quebra ciclos de pobreza geracional.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Ensine os filhos cedo\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: Modelos financeiros são herdados na infância. Conversar abertamente sobre dinheiro quebra ciclos de pobreza geracional — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ensine os filhos cedo\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Aja como investidor, não como espectador",
-        "text": "Esperar o momento perfeito paralisa. Comece pequeno, cometa erros baratos e ajuste o rumo com a prática."
+        "text": "Esperar o momento perfeito paralisa. Comece pequeno, cometa erros baratos e ajuste o rumo com a prática.",
+        "explicacoes": [
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Aja como investidor, não como espectador\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
+          "Na prática: Esperar o momento perfeito paralisa. Comece pequeno, cometa erros baratos e ajuste o rumo com a prática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja como investidor, não como espectador\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -9352,81 +9412,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O pai pobre e o pai rico",
         "text": "Kiyosaki apresenta as duas figuras e como cada uma definia dinheiro, trabalho e segurança. A contradição entre elas é o motor do livro.",
         "points": [
-          "Os dois conselhos conflitantes da infância",
-          "Por que inteligência não garante riqueza",
-          "A semente da educação financeira"
+          {
+            "t": "Os dois conselhos conflitantes da infância",
+            "e": "Kiyosaki apresenta as duas figuras e como cada uma definia dinheiro, trabalho e segurança. A contradição entre elas é o motor do livro.",
+            "f": "Os ricos não trabalham por dinheiro. O pobre e a classe média trabalham por dinheiro. Os ricos fazem o dinheiro trabalhar por eles.",
+            "real": true
+          },
+          {
+            "t": "Por que inteligência não garante riqueza",
+            "e": "Kiyosaki apresenta as duas figuras e como cada uma definia dinheiro, trabalho e segurança. A contradição entre elas é o motor do livro.",
+            "f": "A escola forma bons empregados, não formadores de riqueza.",
+            "real": true
+          },
+          {
+            "t": "A semente da educação financeira",
+            "e": "Kiyosaki apresenta as duas figuras e como cada uma definia dinheiro, trabalho e segurança. A contradição entre elas é o motor do livro.",
+            "f": "Na visão de Robert T. Kiyosaki, \"a semente da educação financeira\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Por que ensinar educação financeira na escola?",
         "text": "O autor critica o sistema escolar por formar empregados obedientes em vez de pessoas financeiramente livres. A ignorância é ensinada por omissão.",
         "points": [
-          "O que a escola omite sobre dinheiro",
-          "Medo e cobiça como motores ocultos",
-          "Por que a maioria evita o tema"
+          {
+            "t": "O que a escola omite sobre dinheiro",
+            "e": "O autor critica o sistema escolar por formar empregados obedientes em vez de pessoas financeiramente livres. A ignorância é ensinada por omissão.",
+            "f": "A escola forma bons empregados, não formadores de riqueza.",
+            "real": true
+          },
+          {
+            "t": "Medo e cobiça como motores ocultos",
+            "e": "O autor critica o sistema escolar por formar empregados obedientes em vez de pessoas financeiramente livres. A ignorância é ensinada por omissão.",
+            "f": "Na visão de Robert T. Kiyosaki, \"medo e cobiça como motores ocultos\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          },
+          {
+            "t": "Por que a maioria evita o tema",
+            "e": "O autor critica o sistema escolar por formar empregados obedientes em vez de pessoas financeiramente livres. A ignorância é ensinada por omissão.",
+            "f": "Ao longo da vida, a maioria das pessoas trabalha duro e se endivida profundamente por causa das coisas que acham que são ativos.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Por que os ricos ficam mais ricos?",
         "text": "Explora o fluxo de caixa dos ricos, da classe média e dos pobres. A classe média confunde casa com ativo.",
         "points": [
-          "Fluxo de caixa de cada classe",
-          "A armadilha da casa própria",
-          "Por que ganhar mais não basta"
+          {
+            "t": "Fluxo de caixa de cada classe",
+            "e": "Explora o fluxo de caixa dos ricos, da classe média e dos pobres. A classe média confunde casa com ativo.",
+            "f": "Os ricos não trabalham por dinheiro. O pobre e a classe média trabalham por dinheiro. Os ricos fazem o dinheiro trabalhar por eles.",
+            "real": true
+          },
+          {
+            "t": "A armadilha da casa própria",
+            "e": "Explora o fluxo de caixa dos ricos, da classe média e dos pobres. A classe média confunde casa com ativo.",
+            "f": "Na visão de Robert T. Kiyosaki, \"a armadilha da casa própria\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          },
+          {
+            "t": "Por que ganhar mais não basta",
+            "e": "Explora o fluxo de caixa dos ricos, da classe média e dos pobres. A classe média confunde casa com ativo.",
+            "f": "Na visão de Robert T. Kiyosaki, \"por que ganhar mais não basta\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A história do pai rico",
         "text": "Como o pai rico formou o autor e seu amigo Mike, pagando-os em lições, não em salário. O valor do \"não\" do banco.",
         "points": [
-          "A primeira \"empresa\" das latinhas",
-          "Aprender vendendo e negociando",
-          "O ódio ao dinheiro como obstáculo"
+          {
+            "t": "A primeira \"empresa\" das latinhas",
+            "e": "Como o pai rico formou o autor e seu amigo Mike, pagando-os em lições, não em salário. O valor do \"não\" do banco.",
+            "f": "Na visão de Robert T. Kiyosaki, \"a primeira \"empresa\" das latinhas\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          },
+          {
+            "t": "Aprender vendendo e negociando",
+            "e": "Como o pai rico formou o autor e seu amigo Mike, pagando-os em lições, não em salário. O valor do \"não\" do banco.",
+            "f": "Na visão de Robert T. Kiyosaki, \"aprender vendendo e negociando\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          },
+          {
+            "t": "O ódio ao dinheiro como obstáculo",
+            "e": "Como o pai rico formou o autor e seu amigo Mike, pagando-os em lições, não em salário. O valor do \"não\" do banco.",
+            "f": "Os ricos não trabalham por dinheiro. O pobre e a classe média trabalham por dinheiro. Os ricos fazem o dinheiro trabalhar por eles.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O verdadeiro significado das palavras",
         "text": "Revisa conceitos como ativo, passivo, lucro e riqueza. Vocabulário financeiro é poder.",
         "points": [
-          "Redefinindo ativo e passivo",
-          "Por que vocabulário importa",
-          "Mentalidade antes de carteira"
+          {
+            "t": "Redefinindo ativo e passivo",
+            "e": "Revisa conceitos como ativo, passivo, lucro e riqueza. Vocabulário financeiro é poder.",
+            "f": "É o que está aqui (apontando para a cabeça) que é o seu maior ativo ou o seu maior passivo.",
+            "real": true
+          },
+          {
+            "t": "Por que vocabulário importa",
+            "e": "Revisa conceitos como ativo, passivo, lucro e riqueza. Vocabulário financeiro é poder.",
+            "f": "Na visão de Robert T. Kiyosaki, \"por que vocabulário importa\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          },
+          {
+            "t": "Mentalidade antes de carteira",
+            "e": "Revisa conceitos como ativo, passivo, lucro e riqueza. Vocabulário financeiro é poder.",
+            "f": "Na visão de Robert T. Kiyosaki, \"mentalidade antes de carteira\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O rico inventa dinheiro",
         "text": "Riqueza é criatividade e coragem, não sorte. O capítulo defende o aprendizado pela ação.",
         "points": [
-          "Oportunidade vs capital",
-          "Coragem de errar barato",
-          "Ações em vez de opiniões"
+          {
+            "t": "Oportunidade vs capital",
+            "e": "Riqueza é criatividade e coragem, não sorte. O capítulo defende o aprendizado pela ação.",
+            "f": "Os ricos não trabalham por dinheiro. O pobre e a classe média trabalham por dinheiro. Os ricos fazem o dinheiro trabalhar por eles.",
+            "real": true
+          },
+          {
+            "t": "Coragem de errar barato",
+            "e": "Riqueza é criatividade e coragem, não sorte. O capítulo defende o aprendizado pela ação.",
+            "f": "A diferença entre um ativo e um passivo é simples: um ativo coloca dinheiro no seu bolso; um passivo tira dinheiro do seu bolso.",
+            "real": true
+          },
+          {
+            "t": "Ações em vez de opiniões",
+            "e": "Riqueza é criatividade e coragem, não sorte. O capítulo defende o aprendizado pela ação.",
+            "f": "Na visão de Robert T. Kiyosaki, \"ações em vez de opiniões\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Como fazer o dinheiro trabalhar para você",
         "text": "Introdução prática ao investimento em ativos que geram fluxo. O papel da inteligência fiscal.",
         "points": [
-          "Tipos de ativos geradores",
-          "Alavancagem e risco",
-          "Proteção via estrutura jurídica"
+          {
+            "t": "Tipos de ativos geradores",
+            "e": "Introdução prática ao investimento em ativos que geram fluxo. O papel da inteligência fiscal.",
+            "f": "Os ricos não trabalham por dinheiro. O pobre e a classe média trabalham por dinheiro. Os ricos fazem o dinheiro trabalhar por eles.",
+            "real": true
+          },
+          {
+            "t": "Alavancagem e risco",
+            "e": "Introdução prática ao investimento em ativos que geram fluxo. O papel da inteligência fiscal.",
+            "f": "É o que está aqui (apontando para a cabeça) que é o seu maior ativo ou o seu maior passivo.",
+            "real": true
+          },
+          {
+            "t": "Proteção via estrutura jurídica",
+            "e": "Introdução prática ao investimento em ativos que geram fluxo. O papel da inteligência fiscal.",
+            "f": "A diferença entre um ativo e um passivo é simples: um ativo coloca dinheiro no seu bolso; um passivo tira dinheiro do seu bolso.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O quadrante de fluxo de caixa ESBI",
         "text": "Empregado, Autônomo, Dono de Negócio e Investidor. Por que a liberdade mora no lado direito.",
         "points": [
-          "Diferenças de mentalidade",
-          "Custo de tempo por dinheiro",
-          "Migrar de E/A para D/I"
+          {
+            "t": "Diferenças de mentalidade",
+            "e": "Empregado, Autônomo, Dono de Negócio e Investidor. Por que a liberdade mora no lado direito.",
+            "f": "Na visão de Robert T. Kiyosaki, \"diferenças de mentalidade\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          },
+          {
+            "t": "Custo de tempo por dinheiro",
+            "e": "Empregado, Autônomo, Dono de Negócio e Investidor. Por que a liberdade mora no lado direito.",
+            "f": "Os ricos não trabalham por dinheiro. O pobre e a classe média trabalham por dinheiro. Os ricos fazem o dinheiro trabalhar por eles.",
+            "real": true
+          },
+          {
+            "t": "Migrar de E/A para D/I",
+            "e": "Empregado, Autônomo, Dono de Negócio e Investidor. Por que a liberdade mora no lado direito.",
+            "f": "É o que está aqui (apontando para a cabeça) que é o seu maior ativo ou o seu maior passivo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 9 — A lição final do pai rico",
         "text": "A maior riqueza é a capacidade de ensinar e multiplicar. O legado financeiro passa pelo exemplo.",
         "points": [
-          "Educar é o ativo definitivo",
-          "Quebrar ciclos familiares",
-          "Liberdade como propósito"
+          {
+            "t": "Educar é o ativo definitivo",
+            "e": "A maior riqueza é a capacidade de ensinar e multiplicar. O legado financeiro passa pelo exemplo.",
+            "f": "É o que está aqui (apontando para a cabeça) que é o seu maior ativo ou o seu maior passivo.",
+            "real": true
+          },
+          {
+            "t": "Quebrar ciclos familiares",
+            "e": "A maior riqueza é a capacidade de ensinar e multiplicar. O legado financeiro passa pelo exemplo.",
+            "f": "Na visão de Robert T. Kiyosaki, \"quebrar ciclos familiares\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade como propósito",
+            "e": "A maior riqueza é a capacidade de ensinar e multiplicar. O legado financeiro passa pelo exemplo.",
+            "f": "Na visão de Robert T. Kiyosaki, \"liberdade como propósito\" é parte essencial da proposta de \"Pai Rico, Pai Pobre\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -9590,62 +9785,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Pague a si mesmo primeiro",
-        "text": "Reserve 10% de tudo que ganha antes de qualquer despesa. Esse hábito é a fundação de toda bolsa cheia."
+        "text": "Reserve 10% de tudo que ganha antes de qualquer despesa. Esse hábito é a fundação de toda bolsa cheia.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Pague a si mesmo primeiro\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Reserve 10% de tudo que ganha antes de qualquer despesa. Esse hábito é a fundação de toda bolsa cheia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pague a si mesmo primeiro\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Controle seus gastos",
-        "text": "Viver abaixo da renda não é miséria, é liberdade. Anote e corte o supérfluo que esvazia a bolsa."
+        "text": "Viver abaixo da renda não é miséria, é liberdade. Anote e corte o supérfluo que esvazia a bolsa.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Controle seus gastos\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Viver abaixo da renda não é miséria, é liberdade. Anote e corte o supérfluo que esvazia a bolsa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Controle seus gastos\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Faça seu ouro multiplicar-se",
-        "text": "Poupar é o começo; investir com conhecimento faz o capital trabalhar por você dia e noite."
+        "text": "Poupar é o começo; investir com conhecimento faz o capital trabalhar por você dia e noite.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Faça seu ouro multiplicar-se\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Poupar é o começo; investir com conhecimento faz o capital trabalhar por você dia e noite — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça seu ouro multiplicar-se\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Proteja seu capital",
-        "text": "Não arrisque o ouro onde possa perdê-lo. Preservação precede multiplicação."
+        "text": "Não arrisque o ouro onde possa perdê-lo. Preservação precede multiplicação.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Proteja seu capital\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Não arrisque o ouro onde possa perdê-lo. Preservação precede multiplicação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja seu capital\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Tenha sua casa",
-        "text": "Conquistar o lar próprio, sem sufocamento de dívida, traz segurança e estabilidade à família."
+        "text": "Conquistar o lar próprio, sem sufocamento de dívida, traz segurança e estabilidade à família.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Tenha sua casa\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Conquistar o lar próprio, sem sufocamento de dívida, traz segurança e estabilidade à família — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Tenha sua casa\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Assegure uma renda futura",
-        "text": "Planeje aposentadoria e proteção à família. O futuro chega mais cedo do que se imagina."
+        "text": "Planeje aposentadoria e proteção à família. O futuro chega mais cedo do que se imagina.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Assegure uma renda futura\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Planeje aposentadoria e proteção à família. O futuro chega mais cedo do que se imagina — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assegure uma renda futura\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Aumente sua capacidade de ganhar",
-        "text": "Estude, aprenda ofícios, melhore-se. A melhor alavancagem é a própria competência."
+        "text": "Estude, aprenda ofícios, melhore-se. A melhor alavancagem é a própria competência.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Aumente sua capacidade de ganhar\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Estude, aprenda ofícios, melhore-se. A melhor alavancagem é a própria competência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aumente sua capacidade de ganhar\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Busque conselho de quem sabe",
-        "text": "Só aceite orientação financeira de quem guarda o próprio ouro. Opinião de endividado custa caro."
+        "text": "Só aceite orientação financeira de quem guarda o próprio ouro. Opinião de endividado custa caro.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Busque conselho de quem sabe\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Só aceite orientação financeira de quem guarda o próprio ouro. Opinião de endividado custa caro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque conselho de quem sabe\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Fuja da dívida impulsiva",
-        "text": "Empréstimo sem plano de pagamento é escravidão disfarçada. Juros não perdoam atraso."
+        "text": "Empréstimo sem plano de pagamento é escravidão disfarçada. Juros não perdoam atraso.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Fuja da dívida impulsiva\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Empréstimo sem plano de pagamento é escravidão disfarçada. Juros não perdoam atraso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fuja da dívida impulsiva\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Seja paciente e constante",
-        "text": "Riqueza é construída moeda por moeda, ano após ano. Constância vence euforia."
+        "text": "Riqueza é construída moeda por moeda, ano após ano. Constância vence euforia.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Seja paciente e constante\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Riqueza é construída moeda por moeda, ano após ano. Constância vence euforia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja paciente e constante\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Ensine a próximo",
-        "text": "Quem repassa as leis de ouro reforça o próprio domínio e eleva a comunidade."
+        "text": "Quem repassa as leis de ouro reforça o próprio domínio e eleva a comunidade.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Ensine a próximo\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Quem repassa as leis de ouro reforça o próprio domínio e eleva a comunidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ensine a próximo\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Valorize o trabalho, mas ame a sabedoria",
-        "text": "Esforço sem direção deixa Bansir pobre. Direção certa transforma esforço em ouro."
+        "text": "Esforço sem direção deixa Bansir pobre. Direção certa transforma esforço em ouro.",
+        "explicacoes": [
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Valorize o trabalho, mas ame a sabedoria\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
+          "Na prática: Esforço sem direção deixa Bansir pobre. Direção certa transforma esforço em ouro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize o trabalho, mas ame a sabedoria\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -9667,81 +9922,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A bolsa vazia de Bansir",
         "text": "O escravo liberto Bansir queixa-se de trabalhar muito e ter nada. Arkad revela que esforço sem sabedoria deixa a bolsa vazia.",
         "points": [
-          "O paradoxo do trabalho duro",
-          "O primeiro remédio: guarde 10%",
-          "Por que a bolsa continua vazia"
+          {
+            "t": "O paradoxo do trabalho duro",
+            "e": "O escravo liberto Bansir queixa-se de trabalhar muito e ter nada. Arkad revela que esforço sem sabedoria deixa a bolsa vazia.",
+            "f": "O mesmo trabalho árduo que gera a riqueza de uns deixa outros na pobreza — a diferença está na sabedoria.",
+            "real": true
+          },
+          {
+            "t": "O primeiro remédio: guarde 10%",
+            "e": "O escravo liberto Bansir queixa-se de trabalhar muito e ter nada. Arkad revela que esforço sem sabedoria deixa a bolsa vazia.",
+            "f": "Quem guarda dez moedas de cada cem que ganha, e as faz trabalhar, logo terá uma bolsa gorda.",
+            "real": true
+          },
+          {
+            "t": "Por que a bolsa continua vazia",
+            "e": "O escravo liberto Bansir queixa-se de trabalhar muito e ter nada. Arkad revela que esforço sem sabedoria deixa a bolsa vazia.",
+            "f": "Na visão de George S. Clason, \"por que a bolsa continua vazia\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Arkad, o homem mais rico",
         "text": "A origem humilde de Arkad como escriba e como aprendeu as leis do ouro com um rico mercador.",
         "points": [
-          "A chance que veio de um patrão",
-          "Guardar antes de gastar",
-          "O início da bolsa cheia"
+          {
+            "t": "A chance que veio de um patrão",
+            "e": "A origem humilde de Arkad como escriba e como aprendeu as leis do ouro com um rico mercador.",
+            "f": "Na visão de George S. Clason, \"a chance que veio de um patrão\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          },
+          {
+            "t": "Guardar antes de gastar",
+            "e": "A origem humilde de Arkad como escriba e como aprendeu as leis do ouro com um rico mercador.",
+            "f": "Uma parte de tudo que você ganha é sua para guardar.",
+            "real": true
+          },
+          {
+            "t": "O início da bolsa cheia",
+            "e": "A origem humilde de Arkad como escriba e como aprendeu as leis do ouro com um rico mercador.",
+            "f": "Quem guarda dez moedas de cada cem que ganha, e as faz trabalhar, logo terá uma bolsa gorda.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Os sete remédios para uma bolsa vazia",
         "text": "O núcleo prático do livro: poupar, viver abaixo da renda, investir, proteger, ter casa, garantir futuro e crescer.",
         "points": [
-          "As sete regras em ordem",
-          "Por que cada uma importa",
-          "Aplicação diária"
+          {
+            "t": "As sete regras em ordem",
+            "e": "O núcleo prático do livro: poupar, viver abaixo da renda, investir, proteger, ter casa, garantir futuro e crescer.",
+            "f": "Uma parte de tudo que você ganha é sua para guardar.",
+            "real": true
+          },
+          {
+            "t": "Por que cada uma importa",
+            "e": "O núcleo prático do livro: poupar, viver abaixo da renda, investir, proteger, ter casa, garantir futuro e crescer.",
+            "f": "Quem guarda dez moedas de cada cem que ganha, e as faz trabalhar, logo terá uma bolsa gorda.",
+            "real": true
+          },
+          {
+            "t": "Aplicação diária",
+            "e": "O núcleo prático do livro: poupar, viver abaixo da renda, investir, proteger, ter casa, garantir futuro e crescer.",
+            "f": "Na visão de George S. Clason, \"aplicação diária\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A sorte de Ograd",
         "text": "História de um homem que recebe herança e a perde por falta de saber guardar. Sorte sem sabedoria desaparece.",
         "points": [
-          "Herança mal usada",
-          "O custo de não saber",
-          "Sabedoria > sorte"
+          {
+            "t": "Herança mal usada",
+            "e": "História de um homem que recebe herança e a perde por falta de saber guardar. Sorte sem sabedoria desaparece.",
+            "f": "A sorte segue aquele que aplica as leis de ouro; foge de quem as ignora.",
+            "real": true
+          },
+          {
+            "t": "O custo de não saber",
+            "e": "História de um homem que recebe herança e a perde por falta de saber guardar. Sorte sem sabedoria desaparece.",
+            "f": "Na visão de George S. Clason, \"o custo de não saber\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          },
+          {
+            "t": "Sabedoria > sorte",
+            "e": "História de um homem que recebe herança e a perde por falta de saber guardar. Sorte sem sabedoria desaparece.",
+            "f": "O mesmo trabalho árduo que gera a riqueza de uns deixa outros na pobreza — a diferença está na sabedoria.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — As cinco leis de ouro",
         "text": "Princípios imutáveis: guardar, controlar gastos, multiplicar, proteger e aumentar a capacidade de ganhar.",
         "points": [
-          "As leis resumidas",
-          "A lei do conselho",
-          "A lei da proteção"
+          {
+            "t": "As leis resumidas",
+            "e": "Princípios imutáveis: guardar, controlar gastos, multiplicar, proteger e aumentar a capacidade de ganhar.",
+            "f": "A sorte segue aquele que aplica as leis de ouro; foge de quem as ignora.",
+            "real": true
+          },
+          {
+            "t": "A lei do conselho",
+            "e": "Princípios imutáveis: guardar, controlar gastos, multiplicar, proteger e aumentar a capacidade de ganhar.",
+            "f": "O ouro é um mestre severo: empresta a quem sabe guardá-lo e foge de quem o desperdiça.",
+            "real": true
+          },
+          {
+            "t": "A lei da proteção",
+            "e": "Princípios imutáveis: guardar, controlar gastos, multiplicar, proteger e aumentar a capacidade de ganhar.",
+            "f": "Na visão de George S. Clason, \"a lei da proteção\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O muro de Nínive",
         "text": "Parábola sobre dívida e prazo, ensinando que promessas de pagamento precisam de planejamento real.",
         "points": [
-          "O perigo do empréstimo",
-          "Honrar prazos",
-          "Liberdade vs juros"
+          {
+            "t": "O perigo do empréstimo",
+            "e": "Parábola sobre dívida e prazo, ensinando que promessas de pagamento precisam de planejamento real.",
+            "f": "Na visão de George S. Clason, \"o perigo do empréstimo\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          },
+          {
+            "t": "Honrar prazos",
+            "e": "Parábola sobre dívida e prazo, ensinando que promessas de pagamento precisam de planejamento real.",
+            "f": "Na visão de George S. Clason, \"honrar prazos\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade vs juros",
+            "e": "Parábola sobre dívida e prazo, ensinando que promessas de pagamento precisam de planejamento real.",
+            "f": "Na visão de George S. Clason, \"liberdade vs juros\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A caravana de Dabasir",
         "text": "Um mercador salda dívidas aplicando rigor e as leis de ouro, mostrando redenção financeira possível.",
         "points": [
-          "Plano de quitação",
-          "Disciplina sob pressão",
-          "Recomeço com sabedoria"
+          {
+            "t": "Plano de quitação",
+            "e": "Um mercador salda dívidas aplicando rigor e as leis de ouro, mostrando redenção financeira possível.",
+            "f": "Na visão de George S. Clason, \"plano de quitação\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina sob pressão",
+            "e": "Um mercador salda dívidas aplicando rigor e as leis de ouro, mostrando redenção financeira possível.",
+            "f": "Na visão de George S. Clason, \"disciplina sob pressão\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          },
+          {
+            "t": "Recomeço com sabedoria",
+            "e": "Um mercador salda dívidas aplicando rigor e as leis de ouro, mostrando redenção financeira possível.",
+            "f": "O mesmo trabalho árduo que gera a riqueza de uns deixa outros na pobreza — a diferença está na sabedoria.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A caixa de claudicação de ClayTablets",
         "text": "Tabletes de argila trazem conselhos de pai a filho sobre guardar e investir para a velhice.",
         "points": [
-          "Legado entre gerações",
-          "Provisão para o futuro",
-          "Ensinar é proteger"
+          {
+            "t": "Legado entre gerações",
+            "e": "Tabletes de argila trazem conselhos de pai a filho sobre guardar e investir para a velhice.",
+            "f": "Na visão de George S. Clason, \"legado entre gerações\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          },
+          {
+            "t": "Provisão para o futuro",
+            "e": "Tabletes de argila trazem conselhos de pai a filho sobre guardar e investir para a velhice.",
+            "f": "Uma parte de tudo que você ganha é sua para guardar.",
+            "real": true
+          },
+          {
+            "t": "Ensinar é proteger",
+            "e": "Tabletes de argila trazem conselhos de pai a filho sobre guardar e investir para a velhice.",
+            "f": "Na visão de George S. Clason, \"ensinar é proteger\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Os deuses de ouro de Babylon",
         "text": "Encerramento alegórico: os deuses recompensam quem segue as leis. A riqueza como resultado de ordem.",
         "points": [
-          "Recompensa da ordem",
-          "Síntese das leis",
-          "A cidade como espelho"
+          {
+            "t": "Recompensa da ordem",
+            "e": "Encerramento alegórico: os deuses recompensam quem segue as leis. A riqueza como resultado de ordem.",
+            "f": "O ouro é um mestre severo: empresta a quem sabe guardá-lo e foge de quem o desperdiça.",
+            "real": true
+          },
+          {
+            "t": "Síntese das leis",
+            "e": "Encerramento alegórico: os deuses recompensam quem segue as leis. A riqueza como resultado de ordem.",
+            "f": "A sorte segue aquele que aplica as leis de ouro; foge de quem as ignora.",
+            "real": true
+          },
+          {
+            "t": "A cidade como espelho",
+            "e": "Encerramento alegórico: os deuses recompensam quem segue as leis. A riqueza como resultado de ordem.",
+            "f": "Na visão de George S. Clason, \"a cidade como espelho\" é parte essencial da proposta de \"O Homem Mais Rico da Babilônia\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -9905,62 +10295,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Melhore 1% ao dia",
-        "text": "Pequenas melhoras compostas geram ganhos enormes. Foque na margem, não no salto."
+        "text": "Pequenas melhoras compostas geram ganhos enormes. Foque na margem, não no salto.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Melhore 1% ao dia\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Pequenas melhoras compostas geram ganhos enormes. Foque na margem, não no salto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Melhore 1% ao dia\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Construa sistemas, não só metas",
-        "text": "Metas dão direção; sistemas entregam resultado. Um sem o outro falha."
+        "text": "Metas dão direção; sistemas entregam resultado. Um sem o outro falha.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Construa sistemas, não só metas\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Metas dão direção; sistemas entregam resultado. Um sem o outro falha — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa sistemas, não só metas\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Use as Quatro Leis",
-        "text": "Torne o hábito óbvio, atraente, fácil e satisfatório para criá-lo."
+        "text": "Torne o hábito óbvio, atraente, fácil e satisfatório para criá-lo.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Use as Quatro Leis\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Torne o hábito óbvio, atraente, fácil e satisfatório para criá-lo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use as Quatro Leis\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Aplique o empilhamento",
-        "text": "Acrescente o novo hábito a um existente: \"depois de X, farei Y\"."
+        "text": "Acrescente o novo hábito a um existente: \"depois de X, farei Y\".",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Aplique o empilhamento\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Acrescente o novo hábito a um existente: \"depois de X, farei Y\" — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique o empilhamento\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Siga a regra dos dois minutos",
-        "text": "Toda rotina nova deve caber em menos de 120 segundos para começar."
+        "text": "Toda rotina nova deve caber em menos de 120 segundos para começar.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Siga a regra dos dois minutos\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Toda rotina nova deve caber em menos de 120 segundos para começar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Siga a regra dos dois minutos\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Foque na identidade",
-        "text": "Aja como a pessoa que deseja ser; a identidade trará consistência."
+        "text": "Aja como a pessoa que deseja ser; a identidade trará consistência.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Foque na identidade\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Aja como a pessoa que deseja ser; a identidade trará consistência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque na identidade\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Redesenhe o ambiente",
-        "text": "Coloque o gatilho do bem à vista e o do mal fora de alcance."
+        "text": "Coloque o gatilho do bem à vista e o do mal fora de alcance.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Redesenhe o ambiente\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Coloque o gatilho do bem à vista e o do mal fora de alcance — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Redesenhe o ambiente\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Inverta as leis para eliminar vícios",
-        "text": "Torne o mau hábito invisível, repelente, difícil e insatisfatório."
+        "text": "Torne o mau hábito invisível, repelente, difícil e insatisfatório.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Inverta as leis para eliminar vícios\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Torne o mau hábito invisível, repelente, difícil e insatisfatório — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Inverta as leis para eliminar vícios\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Não quebre a cadeia",
-        "text": "Marque dias de execução; uma falha é ok, a segunda é o início do fim."
+        "text": "Marque dias de execução; uma falha é ok, a segunda é o início do fim.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Não quebre a cadeia\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Marque dias de execução; uma falha é ok, a segunda é o início do fim — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não quebre a cadeia\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Aceite o platô latente",
-        "text": "Resultados somem até o ponto de ruptura. Confie no processo invisível."
+        "text": "Resultados somem até o ponto de ruptura. Confie no processo invisível.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Aceite o platô latente\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Resultados somem até o ponto de ruptura. Confie no processo invisível — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o platô latente\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Reduza o atrito",
-        "text": "Menos fricção entre você e o hábito aumenta a execução."
+        "text": "Menos fricção entre você e o hábito aumenta a execução.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Reduza o atrito\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Menos fricção entre você e o hábito aumenta a execução — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza o atrito\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Celebre a recompensa",
-        "text": "Feche o loop com satisfação imediata para o cérebro repetir."
+        "text": "Feche o loop com satisfação imediata para o cérebro repetir.",
+        "explicacoes": [
+          "Em \"Hábitos Atômicos\", James Clear trata \"Celebre a recompensa\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
+          "Na prática: Feche o loop com satisfação imediata para o cérebro repetir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Celebre a recompensa\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -9982,81 +10432,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Os resultados sutis (mas notáveis) do hábito de 1%",
         "text": "Clear introduz a ideia de melhoria composta e por que pequenas margens vencem no longo prazo.",
         "points": [
-          "A matemática do 1%",
-          "Por que metas falham",
-          "Sistemas vs objetivos"
+          {
+            "t": "A matemática do 1%",
+            "e": "Clear introduz a ideia de melhoria composta e por que pequenas margens vencem no longo prazo.",
+            "f": "Não subestime o poder de pequenas melhorias diárias, pois elas se acumulam em resultados notáveis.",
+            "real": true
+          },
+          {
+            "t": "Por que metas falham",
+            "e": "Clear introduz a ideia de melhoria composta e por que pequenas margens vencem no longo prazo.",
+            "f": "Você não alcança o nível das suas metas. Você cai para o nível dos seus sistemas.",
+            "real": true
+          },
+          {
+            "t": "Sistemas vs objetivos",
+            "e": "Clear introduz a ideia de melhoria composta e por que pequenas margens vencem no longo prazo.",
+            "f": "Na visão de James Clear, \"sistemas vs objetivos\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Como mudar sua identidade",
         "text": "A mudança real começa em quem você acredita ser, não no que quer alcançar.",
         "points": [
-          "Três camadas de mudança",
-          "Votar com ações",
-          "Identidade como destino"
+          {
+            "t": "Três camadas de mudança",
+            "e": "A mudança real começa em quem você acredita ser, não no que quer alcançar.",
+            "f": "Na visão de James Clear, \"três camadas de mudança\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Votar com ações",
+            "e": "A mudança real começa em quem você acredita ser, não no que quer alcançar.",
+            "f": "Na visão de James Clear, \"votar com ações\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Identidade como destino",
+            "e": "A mudança real começa em quem você acredita ser, não no que quer alcançar.",
+            "f": "Na visão de James Clear, \"identidade como destino\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Como construir um hábito (as 4 leis)",
         "text": "Visão geral do loop e das leis para criar e manter comportamentos.",
         "points": [
-          "O loop de 4 etapas",
-          "Mapa das leis",
-          "Aplicação geral"
+          {
+            "t": "O loop de 4 etapas",
+            "e": "Visão geral do loop e das leis para criar e manter comportamentos.",
+            "f": "Na visão de James Clear, \"o loop de 4 etapas\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Mapa das leis",
+            "e": "Visão geral do loop e das leis para criar e manter comportamentos.",
+            "f": "Na visão de James Clear, \"mapa das leis\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Aplicação geral",
+            "e": "Visão geral do loop e das leis para criar e manter comportamentos.",
+            "f": "Na visão de James Clear, \"aplicação geral\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Lei 1: torne-o óbvio",
         "text": "Gatilhos e empilhamento de hábitos para disparar a ação certa.",
         "points": [
-          "Inventário de hábitos",
-          "Habit stacking",
-          "Ambiente visível"
+          {
+            "t": "Inventário de hábitos",
+            "e": "Gatilhos e empilhamento de hábitos para disparar a ação certa.",
+            "f": "Hábitos são o composto de interesse sobre o tempo. O sucesso é produto de rotinas diárias, não de mudanças drásticas.",
+            "real": true
+          },
+          {
+            "t": "Habit stacking",
+            "e": "Gatilhos e empilhamento de hábitos para disparar a ação certa.",
+            "f": "Na visão de James Clear, \"habit stacking\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Ambiente visível",
+            "e": "Gatilhos e empilhamento de hábitos para disparar a ação certa.",
+            "f": "Na visão de James Clear, \"ambiente visível\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Lei 2: torne-o atraente",
         "text": "Desejo e tentação empacotada para tornar o certo desejável.",
         "points": [
-          "Estudo de tentação",
-          "Vínculo com prazer",
-          "Motivação dopaminérgica"
+          {
+            "t": "Estudo de tentação",
+            "e": "Desejo e tentação empacotada para tornar o certo desejável.",
+            "f": "Na visão de James Clear, \"estudo de tentação\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Vínculo com prazer",
+            "e": "Desejo e tentação empacotada para tornar o certo desejável.",
+            "f": "Na visão de James Clear, \"vínculo com prazer\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Motivação dopaminérgica",
+            "e": "Desejo e tentação empacotada para tornar o certo desejável.",
+            "f": "Na visão de James Clear, \"motivação dopaminérgica\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Lei 3: torne-o fácil",
         "text": "Reduzir atrito e usar a regra dos dois minutos para começar.",
         "points": [
-          "Lei do mínimo esforço",
-          "Regra dos 2 minutos",
-          "Redução de atrito"
+          {
+            "t": "Lei do mínimo esforço",
+            "e": "Reduzir atrito e usar a regra dos dois minutos para começar.",
+            "f": "Na visão de James Clear, \"lei do mínimo esforço\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Regra dos 2 minutos",
+            "e": "Reduzir atrito e usar a regra dos dois minutos para começar.",
+            "f": "Na visão de James Clear, \"regra dos 2 minutos\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Redução de atrito",
+            "e": "Reduzir atrito e usar a regra dos dois minutos para começar.",
+            "f": "Na visão de James Clear, \"redução de atrito\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Lei 4: torne-o satisfatório",
         "text": "Recompensa imediata e rastreamento para fechar o loop.",
         "points": [
-          "Reforço imediato",
-          "Não quebrar a cadeia",
-          "Cartão de pontos"
+          {
+            "t": "Reforço imediato",
+            "e": "Recompensa imediata e rastreamento para fechar o loop.",
+            "f": "O que é imediato e satisfatório tende a vencer o que é importante e adiado.",
+            "real": true
+          },
+          {
+            "t": "Não quebrar a cadeia",
+            "e": "Recompensa imediata e rastreamento para fechar o loop.",
+            "f": "Na visão de James Clear, \"não quebrar a cadeia\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Cartão de pontos",
+            "e": "Recompensa imediata e rastreamento para fechar o loop.",
+            "f": "Na visão de James Clear, \"cartão de pontos\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Leis inversas para quebrar maus hábitos",
         "text": "Como tornar o vício invisível, repelente, difícil e insatisfatório.",
         "points": [
-          "Inversão das leis",
-          "Aumentar o custo",
-          "Remover gatilho"
+          {
+            "t": "Inversão das leis",
+            "e": "Como tornar o vício invisível, repelente, difícil e insatisfatório.",
+            "f": "Você não alcança o nível das suas metas. Você cai para o nível dos seus sistemas.",
+            "real": true
+          },
+          {
+            "t": "Aumentar o custo",
+            "e": "Como tornar o vício invisível, repelente, difícil e insatisfatório.",
+            "f": "Hábitos são o composto de interesse sobre o tempo. O sucesso é produto de rotinas diárias, não de mudanças drásticas.",
+            "real": true
+          },
+          {
+            "t": "Remover gatilho",
+            "e": "Como tornar o vício invisível, repelente, difícil e insatisfatório.",
+            "f": "Na visão de James Clear, \"remover gatilho\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O ambiente avançado e o platô",
         "text": "Automation e a fase latente de potencial que precede a ruptura.",
         "points": [
-          "Padronização",
-          "O platô",
-          "Confiança no processo"
+          {
+            "t": "Padronização",
+            "e": "Automation e a fase latente de potencial que precede a ruptura.",
+            "f": "Na visão de James Clear, \"padronização\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "O platô",
+            "e": "Automation e a fase latente de potencial que precede a ruptura.",
+            "f": "Na visão de James Clear, \"o platô\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          },
+          {
+            "t": "Confiança no processo",
+            "e": "Automation e a fase latente de potencial que precede a ruptura.",
+            "f": "Na visão de James Clear, \"confiança no processo\" é parte essencial da proposta de \"Hábitos Atômicos\".",
+            "real": false
+          }
         ]
       }
     ]
