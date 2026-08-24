@@ -42887,57 +42887,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Busque 7 a 9 horas",
-        "text": "Manter essa faixa protege memória, humor e sistema imune."
+        "text": "Manter essa faixa protege memória, humor e sistema imune.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Busque 7 a 9 horas\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Manter essa faixa protege memória, humor e sistema imune — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque 7 a 9 horas\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Mantenha horários regulares",
-        "text": "Dormir e acordar em horários estáveis sincroniza o ritmo."
+        "text": "Dormir e acordar em horários estáveis sincroniza o ritmo.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Mantenha horários regulares\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Dormir e acordar em horários estáveis sincroniza o ritmo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha horários regulares\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Evite telas à noite",
-        "text": "Luz azul adia o relógio biológico; reduza telas uma hora antes."
+        "text": "Luz azul adia o relógio biológico; reduza telas uma hora antes.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Evite telas à noite\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Luz azul adia o relógio biológico; reduza telas uma hora antes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite telas à noite\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Cuidado com o álcool",
-        "text": "Álcool fragmenta o REM e piora a qualidade do sono."
+        "text": "Álcool fragmenta o REM e piora a qualidade do sono.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Cuidado com o álcool\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Álcool fragmenta o REM e piora a qualidade do sono — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuidado com o álcool\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Não use café tarde",
-        "text": "Cafeína após meio-dia pode sabotar o sono à noite."
+        "text": "Cafeína após meio-dia pode sabotar o sono à noite.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Não use café tarde\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Cafeína após meio-dia pode sabotar o sono à noite — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não use café tarde\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Respeite a temperatura",
-        "text": "Quarto fresco facilita o sinal natural de adormecer."
+        "text": "Quarto fresco facilita o sinal natural de adormecer.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Respeite a temperatura\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Quarto fresco facilita o sinal natural de adormecer — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Respeite a temperatura\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Não tente recuperar no fim de semana",
-        "text": "A dívida de sono é contínua; mantenha constância."
+        "text": "A dívida de sono é contínua; mantenha constância.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Não tente recuperar no fim de semana\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: A dívida de sono é contínua; mantenha constância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não tente recuperar no fim de semana\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Entenda REM e NREM",
-        "text": "Cada estágio tem função; sonhar processa emoção e memória."
+        "text": "Cada estágio tem função; sonhar processa emoção e memória.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Entenda REM e NREM\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Cada estágio tem função; sonhar processa emoção e memória — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda REM e NREM\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Veja o sono como investimento",
-        "text": "Tratar sono como prioridade, não luxo, muda decisões diárias."
+        "text": "Tratar sono como prioridade, não luxo, muda decisões diárias.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Veja o sono como investimento\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Tratar sono como prioridade, não luxo, muda decisões diárias — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Veja o sono como investimento\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Evite a cultura da insônia",
-        "text": "Parar de glamurizar poucas horas protege sua saúde longo prazo."
+        "text": "Parar de glamurizar poucas horas protege sua saúde longo prazo.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Evite a cultura da insônia\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Parar de glamurizar poucas horas protege sua saúde longo prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite a cultura da insônia\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Investigue acordos noturnos",
-        "text": "Fragmentação frequente merece atenção, não conformismo."
+        "text": "Fragmentação frequente merece atenção, não conformismo.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Investigue acordos noturnos\" como peça-chave para o poder do sono para a memória e a criatividade.",
+          "Na prática: Fragmentação frequente merece atenção, não conformismo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Investigue acordos noturnos\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -42959,72 +43014,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Alerta de saúde pública",
         "text": "Walker abre com os custos sociais da privação de sono.",
         "points": [
-          "Epidemia",
-          "Custo"
+          {
+            "t": "Epidemia",
+            "e": "Walker abre com os custos sociais da privação de sono.",
+            "f": "Privar-se de sono é cortar o piso de segurança da sua saúde.",
+            "real": true
+          },
+          {
+            "t": "Custo",
+            "e": "Walker abre com os custos sociais da privação de sono.",
+            "f": "Na visão de Matthew Walker, \"custo\" é parte essencial da proposta de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O que é sono",
         "text": "Mecânica dos estágios NREM e REM.",
         "points": [
-          "NREM",
-          "REM"
+          {
+            "t": "NREM",
+            "e": "Mecânica dos estágios NREM e REM.",
+            "f": "O sono não é um luxo opcional; é um sistema biológico obrigatório.",
+            "real": true
+          },
+          {
+            "t": "REM",
+            "e": "Mecânica dos estágios NREM e REM.",
+            "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Sono e aprendizado",
         "text": "Como o sono fixa memória e melhora desempenho.",
         "points": [
-          "Consolidação",
-          "Estudo"
+          {
+            "t": "Consolidação",
+            "e": "Como o sono fixa memória e melhora desempenho.",
+            "f": "O sono não é um luxo opcional; é um sistema biológico obrigatório.",
+            "real": true
+          },
+          {
+            "t": "Estudo",
+            "e": "Como o sono fixa memória e melhora desempenho.",
+            "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Sono e emoção",
         "text": "REM regula humor e processa experiências.",
         "points": [
-          "Emoção",
-          "Sonhar"
+          {
+            "t": "Emoção",
+            "e": "REM regula humor e processa experiências.",
+            "f": "O sono não é um luxo opcional; é um sistema biológico obrigatório.",
+            "real": true
+          },
+          {
+            "t": "Sonhar",
+            "e": "REM regula humor e processa experiências.",
+            "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Sono e corpo",
         "text": "Relação com imunidade, peso e doenças.",
         "points": [
-          "Imune",
-          "Metabolismo"
+          {
+            "t": "Imune",
+            "e": "Relação com imunidade, peso e doenças.",
+            "f": "O sono não é um luxo opcional; é um sistema biológico obrigatório.",
+            "real": true
+          },
+          {
+            "t": "Metabolismo",
+            "e": "Relação com imunidade, peso e doenças.",
+            "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Sono e sociedade",
         "text": "Cultura que glamuriza a insônia e seus perigos.",
         "points": [
-          "Cultura",
-          "Riscos"
+          {
+            "t": "Cultura",
+            "e": "Cultura que glamuriza a insônia e seus perigos.",
+            "f": "O sono não é um luxo opcional; é um sistema biológico obrigatório.",
+            "real": true
+          },
+          {
+            "t": "Riscos",
+            "e": "Cultura que glamuriza a insônia e seus perigos.",
+            "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Por que sonhamos",
         "text": "Funções dos sonhos na saúde mental.",
         "points": [
-          "Processamento",
-          "Criatividade"
+          {
+            "t": "Processamento",
+            "e": "Funções dos sonhos na saúde mental.",
+            "f": "Na visão de Matthew Walker, \"processamento\" é parte essencial da proposta de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
+          },
+          {
+            "t": "Criatividade",
+            "e": "Funções dos sonhos na saúde mental.",
+            "f": "Na visão de Matthew Walker, \"criatividade\" é parte essencial da proposta de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Dormir melhor",
         "text": "Regras práticas para higiene do sono.",
         "points": [
-          "Rotina",
-          "Ambiente"
+          {
+            "t": "Rotina",
+            "e": "Regras práticas para higiene do sono.",
+            "f": "Na visão de Matthew Walker, \"rotina\" é parte essencial da proposta de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
+          },
+          {
+            "t": "Ambiente",
+            "e": "Regras práticas para higiene do sono.",
+            "f": "Na visão de Matthew Walker, \"ambiente\" é parte essencial da proposta de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O futuro do sono",
         "text": "Reflexão sobre priorizar sono coletivamente.",
         "points": [
-          "Política",
-          "Saúde"
+          {
+            "t": "Política",
+            "e": "Reflexão sobre priorizar sono coletivamente.",
+            "f": "O sono não é um luxo opcional; é um sistema biológico obrigatório.",
+            "real": true
+          },
+          {
+            "t": "Saúde",
+            "e": "Reflexão sobre priorizar sono coletivamente.",
+            "f": "Privar-se de sono é cortar o piso de segurança da sua saúde.",
+            "real": true
+          }
         ]
       }
     ]
@@ -43182,57 +43327,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Faça perguntas melhores",
-        "text": "A sabedoria começa em perguntar bem, não em responder rápido."
+        "text": "A sabedoria começa em perguntar bem, não em responder rápido.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Faça perguntas melhores\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: A sabedoria começa em perguntar bem, não em responder rápido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça perguntas melhores\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Pratique a escuta plena",
-        "text": "Ouvir sem réplica preparada abre a complexidade dos outros."
+        "text": "Ouvir sem réplica preparada abre a complexidade dos outros.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Pratique a escuta plena\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: Ouvir sem réplica preparada abre a complexidade dos outros — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a escuta plena\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Cultive a dúvida generosa",
-        "text": "Dar benefício da dúvida ao outro amplia compreensão."
+        "text": "Dar benefício da dúvida ao outro amplia compreensão.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Cultive a dúvida generosa\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: Dar benefício da dúvida ao outro amplia compreensão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive a dúvida generosa\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Abra mão da certeza",
-        "text": "Soltar a resposta fechada mantém viva a curiosidade."
+        "text": "Soltar a resposta fechada mantém viva a curiosidade.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Abra mão da certeza\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: Soltar a resposta fechada mantém viva a curiosidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abra mão da certeza\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Aceite o mistério",
-        "text": "Reconhecer limites do controle é maturidade, não ignorância."
+        "text": "Reconhecer limites do controle é maturidade, não ignorância.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Aceite o mistério\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: Reconhecer limites do controle é maturidade, não ignorância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o mistério\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use a linguagem com cuidado",
-        "text": "Palavras constroem a realidade que habitamos juntos."
+        "text": "Palavras constroem a realidade que habitamos juntos.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Use a linguagem com cuidado\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: Palavras constroem a realidade que habitamos juntos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a linguagem com cuidado\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Valorize a vulnerabilidade",
-        "text": "Admitir incerteza aproxima e aprofunda relações."
+        "text": "Admitir incerteza aproxima e aprofunda relações.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Valorize a vulnerabilidade\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: Admitir incerteza aproxima e aprofunda relações — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize a vulnerabilidade\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Aprenda com o tempo",
-        "text": "A perspectiva amadurece ao acolher a finitude."
+        "text": "A perspectiva amadurece ao acolher a finitude.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Aprenda com o tempo\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: A perspectiva amadurece ao acolher a finitude — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aprenda com o tempo\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Evite o sarcasmo",
-        "text": "O cinismo fecha o espaço de mistério e conexão."
+        "text": "O cinismo fecha o espaço de mistério e conexão.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Evite o sarcasmo\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: O cinismo fecha o espaço de mistério e conexão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite o sarcasmo\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Busque vozes diversas",
-        "text": "Sabedoria emerge do encontro com diferenças."
+        "text": "Sabedoria emerge do encontro com diferenças.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Busque vozes diversas\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: Sabedoria emerge do encontro com diferenças — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque vozes diversas\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Pratique o perdão",
-        "text": "Perdoar é liberdade relacional e maturidade."
+        "text": "Perdoar é liberdade relacional e maturidade.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Pratique o perdão\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
+          "Na prática: Perdoar é liberdade relacional e maturidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique o perdão\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -43254,72 +43454,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A arte de perguntar",
         "text": "Tippett abre defendendo perguntas sobre respostas.",
         "points": [
-          "Pergunta",
-          "Curiosidade"
+          {
+            "t": "Pergunta",
+            "e": "Tippett abre defendendo perguntas sobre respostas.",
+            "f": "Na visão de Krista Tippett, \"pergunta\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "Curiosidade",
+            "e": "Tippett abre defendendo perguntas sobre respostas.",
+            "f": "Na visão de Krista Tippett, \"curiosidade\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A escuta",
         "text": "A escuta plena como prática espiritual e social.",
         "points": [
-          "Atenção",
-          "Conexão"
+          {
+            "t": "Atenção",
+            "e": "A escuta plena como prática espiritual e social.",
+            "f": "Ouvir é uma forma de amor; a escuta plena é rara e transformadora.",
+            "real": true
+          },
+          {
+            "t": "Conexão",
+            "e": "A escuta plena como prática espiritual e social.",
+            "f": "A vulnerabilidade não é fraqueza; é a porta da conexão humana.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A dúvida generosa",
         "text": "Contra o cinismo, a abertura ao outro.",
         "points": [
-          "Ceticismo",
-          "Generosidade"
+          {
+            "t": "Ceticismo",
+            "e": "Contra o cinismo, a abertura ao outro.",
+            "f": "A generosidade da dúvida é o oposto do cinismo.",
+            "real": true
+          },
+          {
+            "t": "Generosidade",
+            "e": "Contra o cinismo, a abertura ao outro.",
+            "f": "Na visão de Krista Tippett, \"generosidade\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Tempo e finitude",
         "text": "Como a aceitação do tempo amadurece a perspectiva.",
         "points": [
-          "Tempo",
-          "Morte"
+          {
+            "t": "Tempo",
+            "e": "Como a aceitação do tempo amadurece a perspectiva.",
+            "f": "Na visão de Krista Tippett, \"tempo\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "Morte",
+            "e": "Como a aceitação do tempo amadurece a perspectiva.",
+            "f": "Na visão de Krista Tippett, \"morte\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Perdão",
         "text": "Perdoar como prática de sabedoria relacional.",
         "points": [
-          "Liberdade",
-          "Cura"
+          {
+            "t": "Liberdade",
+            "e": "Perdoar como prática de sabedoria relacional.",
+            "f": "Na visão de Krista Tippett, \"liberdade\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "Cura",
+            "e": "Perdoar como prática de sabedoria relacional.",
+            "f": "Na visão de Krista Tippett, \"cura\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Linguagem",
         "text": "O poder das palavras em moldar a realidade.",
         "points": [
-          "Palavra",
-          "Realidade"
+          {
+            "t": "Palavra",
+            "e": "O poder das palavras em moldar a realidade.",
+            "f": "Na visão de Krista Tippett, \"palavra\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "Realidade",
+            "e": "O poder das palavras em moldar a realidade.",
+            "f": "Na visão de Krista Tippett, \"realidade\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Mistério",
         "text": "Abrigar o mistério contra a certeza rígida.",
         "points": [
-          "Controle",
-          "Abertura"
+          {
+            "t": "Controle",
+            "e": "Abrigar o mistério contra a certeza rígida.",
+            "f": "Viver o mistério é aceitar o que não controlamos sem perder a presença.",
+            "real": true
+          },
+          {
+            "t": "Abertura",
+            "e": "Abrigar o mistério contra a certeza rígida.",
+            "f": "Na visão de Krista Tippett, \"abertura\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Vozes diversas",
         "text": "Sabedoria no encontro com diferenças.",
         "points": [
-          "Divergência",
-          "Encontro"
+          {
+            "t": "Divergência",
+            "e": "Sabedoria no encontro com diferenças.",
+            "f": "Na visão de Krista Tippett, \"divergência\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "Encontro",
+            "e": "Sabedoria no encontro com diferenças.",
+            "f": "Na visão de Krista Tippett, \"encontro\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Tornar-se sábio",
         "text": "A sabedoria como processo relacional contínuo.",
         "points": [
-          "Processo",
-          "Relação"
+          {
+            "t": "Processo",
+            "e": "A sabedoria como processo relacional contínuo.",
+            "f": "Na visão de Krista Tippett, \"processo\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "Relação",
+            "e": "A sabedoria como processo relacional contínuo.",
+            "f": "Na visão de Krista Tippett, \"relação\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -43477,57 +43767,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Volte ao agora",
-        "text": "Ancorar a atenção no momento presente é a prática central."
+        "text": "Ancorar a atenção no momento presente é a prática central.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Volte ao agora\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: Ancorar a atenção no momento presente é a prática central — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Volte ao agora\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Solte os papéis",
-        "text": "Observar os papéis sem se confundir com eles reduz o sofrimento."
+        "text": "Observar os papéis sem se confundir com eles reduz o sofrimento.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Solte os papéis\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: Observar os papéis sem se confundir com eles reduz o sofrimento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Solte os papéis\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Pratique o serviço",
-        "text": "Agir sem apego ao resultado (karma yoga) purifica o eu."
+        "text": "Agir sem apego ao resultado (karma yoga) purifica o eu.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Pratique o serviço\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: Agir sem apego ao resultado (karma yoga) purifica o eu — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique o serviço\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Use a mente, não seja usado",
-        "text": "A mente é ferramenta; não deixe que ela dite sua identidade."
+        "text": "A mente é ferramenta; não deixe que ela dite sua identidade.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Use a mente, não seja usado\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: A mente é ferramenta; não deixe que ela dite sua identidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a mente, não seja usado\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Sinta a unidade",
-        "text": "Perceber a conexão de tudo dissolve a separação angustiante."
+        "text": "Perceber a conexão de tudo dissolve a separação angustiante.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Sinta a unidade\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: Perceber a conexão de tudo dissolve a separação angustiante — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sinta a unidade\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Aceite o processo",
-        "text": "Despertar é voltar repetidamente, não um evento final."
+        "text": "Despertar é voltar repetidamente, não um evento final.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Aceite o processo\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: Despertar é voltar repetidamente, não um evento final — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o processo\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Experimente, não só leia",
-        "text": "A presença se vive; estudo não substitui prática."
+        "text": "A presença se vive; estudo não substitui prática.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Experimente, não só leia\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: A presença se vive; estudo não substitui prática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Experimente, não só leia\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Abrace o corpo",
-        "text": "Ancorar no corpo traz de volta quando a mente dispersa."
+        "text": "Ancorar no corpo traz de volta quando a mente dispersa.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Abrace o corpo\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: Ancorar no corpo traz de volta quando a mente dispersa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abrace o corpo\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Veja o sagrado em si",
-        "text": "O divino é presença íntima, não entidade distante."
+        "text": "O divino é presença íntima, não entidade distante.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Veja o sagrado em si\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: O divino é presença íntima, não entidade distante — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Veja o sagrado em si\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Relaxe o controle",
-        "text": "Entregar o apego ao resultado alivia a tensão do eu."
+        "text": "Entregar o apego ao resultado alivia a tensão do eu.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Relaxe o controle\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: Entregar o apego ao resultado alivia a tensão do eu — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Relaxe o controle\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Acolha todos os estados",
-        "text": "Toda experiência pode ser porta de presença."
+        "text": "Toda experiência pode ser porta de presença.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Acolha todos os estados\" como peça-chave para a consciência e o amor como caminho do eu.",
+          "Na prática: Toda experiência pode ser porta de presença — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acolha todos os estados\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -43549,72 +43894,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — De Alpert a Dass",
         "text": "A jornada pessoal que gerou o livro.",
         "points": [
-          "Harvard",
-          "Índia"
+          {
+            "t": "Harvard",
+            "e": "A jornada pessoal que gerou o livro.",
+            "f": "Na visão de Ram Dass, \"harvard\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "Índia",
+            "e": "A jornada pessoal que gerou o livro.",
+            "f": "Na visão de Ram Dass, \"índia\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A ilusão do eu",
         "text": "Como a identidade separada cria sofrimento.",
         "points": [
-          "Papéis",
-          "Apego"
+          {
+            "t": "Papéis",
+            "e": "Como a identidade separada cria sofrimento.",
+            "f": "Estamos todos no mesmo barco, afundando na mesma ilusão de separação.",
+            "real": true
+          },
+          {
+            "t": "Apego",
+            "e": "Como a identidade separada cria sofrimento.",
+            "f": "Na visão de Ram Dass, \"apego\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A mente e a presença",
         "text": "Usar a mente sem ser escravo dela.",
         "points": [
-          "Ferramenta",
-          "Agora"
+          {
+            "t": "Ferramenta",
+            "e": "Usar a mente sem ser escravo dela.",
+            "f": "Na visão de Ram Dass, \"ferramenta\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "Agora",
+            "e": "Usar a mente sem ser escravo dela.",
+            "f": "O aqui e o agora é o único lugar onde a vida acontece.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Práticas",
         "text": "Meditação, mantras e ancoragem no corpo.",
         "points": [
-          "Meditação",
-          "Mantra"
+          {
+            "t": "Meditação",
+            "e": "Meditação, mantras e ancoragem no corpo.",
+            "f": "Na visão de Ram Dass, \"meditação\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "Mantra",
+            "e": "Meditação, mantras e ancoragem no corpo.",
+            "f": "Na visão de Ram Dass, \"mantra\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Karma yoga",
         "text": "O serviço sem apego ao fruto.",
         "points": [
-          "Serviço",
-          "Desapego"
+          {
+            "t": "Serviço",
+            "e": "O serviço sem apego ao fruto.",
+            "f": "Na visão de Ram Dass, \"serviço\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "Desapego",
+            "e": "O serviço sem apego ao fruto.",
+            "f": "Na visão de Ram Dass, \"desapego\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — A unidade",
         "text": "A percepção de que tudo é uno.",
         "points": [
-          "Unidade",
-          "Conexão"
+          {
+            "t": "Unidade",
+            "e": "A percepção de que tudo é uno.",
+            "f": "Na visão de Ram Dass, \"unidade\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "Conexão",
+            "e": "A percepção de que tudo é uno.",
+            "f": "Na visão de Ram Dass, \"conexão\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O sagrado íntimo",
         "text": "Divindade como presença aqui, não longe.",
         "points": [
-          "Presença",
-          "Deus"
+          {
+            "t": "Presença",
+            "e": "Divindade como presença aqui, não longe.",
+            "f": "Na visão de Ram Dass, \"presença\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "Deus",
+            "e": "Divindade como presença aqui, não longe.",
+            "f": "Trabalhe como se tudo dependesse de você e relaxe como se tudo dependesse de Deus.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Voltar sempre",
         "text": "Despertar como processo recorrente.",
         "points": [
-          "Processo",
-          "Retorno"
+          {
+            "t": "Processo",
+            "e": "Despertar como processo recorrente.",
+            "f": "Na visão de Ram Dass, \"processo\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "Retorno",
+            "e": "Despertar como processo recorrente.",
+            "f": "Na visão de Ram Dass, \"retorno\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Viver o agora",
         "text": "Integrar a presença na vida comum.",
         "points": [
-          "Integração",
-          "Vida"
+          {
+            "t": "Integração",
+            "e": "Integrar a presença na vida comum.",
+            "f": "O aqui e o agora é o único lugar onde a vida acontece.",
+            "real": true
+          },
+          {
+            "t": "Vida",
+            "e": "Integrar a presença na vida comum.",
+            "f": "Na visão de Ram Dass, \"vida\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          }
         ]
       }
     ]
