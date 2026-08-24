@@ -43839,12 +43839,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Ansiedade é só emoção passageira",
-        "text": "Brewer mostra que vira hábito mantido por um loop de recompensa falso.",
-        "reflection": "Você trata ansiedade como evento e ignora o ciclo?"
-      },
-      {
         "type": "truth",
         "title": "A preocupação dá falsa recompensa",
         "text": "Preocupar-se dá sensação ilusória de controle que reforça o hábito.",
@@ -43852,9 +43846,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Lutar contra a ansiedade funciona",
-        "text": "Tentar suprimir ou controlar a ansiedade fortalece o ciclo.",
-        "reflection": "Você tenta dominar a ansiedade e ela volta mais forte?"
+        "title": "Ansiedade é só emoção passageira",
+        "text": "Brewer mostra que vira hábito mantido por um loop de recompensa falso.",
+        "reflection": "Você trata ansiedade como evento e ignora o ciclo?"
       },
       {
         "type": "truth",
@@ -43864,9 +43858,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Pensar mais resolve o problema",
-        "text": "Ruminar é o motor do loop; mais pensamento alimenta a armadilha.",
-        "reflection": "Você acha que analisar demais vai acalmar?"
+        "title": "Lutar contra a ansiedade funciona",
+        "text": "Tentar suprimir ou controlar a ansiedade fortalece o ciclo.",
+        "reflection": "Você tenta dominar a ansiedade e ela volta mais forte?"
       },
       {
         "type": "truth",
@@ -43876,9 +43870,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Evitar gatilhos cura",
-        "text": "Evitar reduz exposição mas mantém o hábito de fundo intacto.",
-        "reflection": "Sua evitação tem mascarado sem curar?"
+        "title": "Pensar mais resolve o problema",
+        "text": "Ruminar é o motor do loop; mais pensamento alimenta a armadilha.",
+        "reflection": "Você acha que analisar demais vai acalmar?"
       },
       {
         "type": "truth",
@@ -43888,9 +43882,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Relaxamento é a solução",
-        "text": "Técnicas de relaxar ajudam, mas não desmontam o loop por si.",
-        "reflection": "Você relaxa sem investigar o ciclo que cria tensão?"
+        "title": "Evitar gatilhos cura",
+        "text": "Evitar reduz exposição mas mantém o hábito de fundo intacto.",
+        "reflection": "Sua evitação tem mascarado sem curar?"
       },
       {
         "type": "truth",
@@ -43900,9 +43894,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Ansiedade sempre é patológica",
-        "text": "Alguma ansiedade é sinal útil; o problema é o hábito crônico.",
-        "reflection": "Você patologiza toda ansiedade, inclusive a funcional?"
+        "title": "Relaxamento é a solução",
+        "text": "Técnicas de relaxar ajudam, mas não desmontam o loop por si.",
+        "reflection": "Você relaxa sem investigar o ciclo que cria tensão?"
       },
       {
         "type": "truth",
@@ -43912,9 +43906,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Ansiedade sempre é patológica",
+        "text": "Alguma ansiedade é sinal útil; o problema é o hábito crônico.",
+        "reflection": "Você patologiza toda ansiedade, inclusive a funcional?"
+      },
+      {
+        "type": "truth",
+        "title": "Ansiedade se desativa pela curiosidade, não pela força",
+        "text": "Brewer mostra que observar a sensação sem julgamento quebra o ciclo de evitação.",
+        "reflection": "Você foge da sensação ou a examina com curiosidade?"
+      },
+      {
+        "type": "myth",
         "title": "Força de vontade vence a ansiedade",
         "text": "Forçar controle ativa o mesmo circuito; curiosidade é o caminho.",
         "reflection": "Você usa força de vontade onde curiosidade seria melhor?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem resiste ao senso comum",
+        "text": "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer sustenta que judson brewer, psiquiatra e pesquisador de massachusetts, escreve 'desarmando a ansiedade' para explicar a ansiedade como um hábito, não apenas uma emoção — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Judson Brewer, psiquiatra e pesquisador de Massachusetts, escreve 'Desarmando a Ansiedade' para explicar a ansiedade como um hábito, não apenas uma emoção. A tese é que a ansiedade se mantém por um loop de recompensa: estresse gera preocupação, que dá sensação falsa de controle, que alivia momentaneamente, reforçando o ciclo. Usando neurociência e mindfulness baseado em evidência, Brewer propõe quebrar o loop substituindo o esforço de 'controlar' pensamentos pela curiosidade: quando observamos a ansiedade com interesse genuíno, o cérebro percebe que ela não entrega recompensa real e o hábito se desfaz. O gancho é libertador: não lute contra a ansiedade; fique curioso sobre ela. O livro traz mapas de hábito e práticas para comer, dormir e relacionar-se com menos ansiedade. Brewer traduz pesquisa de neuroimagem em passos simples de 'mapa de hábito' que qualquer um aplica. Sua contribuição original é mostrar que curiosidade, não controle, é a chave para desaprender a ansiedade crônica.",
@@ -43935,33 +43947,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A preocupação nos dá a ilusão de controle, e é isso que a mantém viva.",
         "autor": "Judson Brewer",
         "obra": "Unwinding Anxiety"
-      },
-      {
-        "texto": "Quando notamos que a ansiedade não nos dá nada de útil, o cérebro a solta.",
-        "autor": "Judson Brewer",
-        "obra": "Unwinding Anxiety"
-      },
-      {
-        "texto": "A curiosidade é a antítese do hábito; ela abre o que o hábito fecha.",
-        "autor": "Judson Brewer",
-        "obra": "Unwinding Anxiety"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "A abordagem da curiosidade funcionou onde cognitivo-comportamental sozinho não tinha.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Científico e acessível; os mapas de hábito são claros.",
-        "autor": "Terapeuta",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Li por causa da ansiedade do sono e mudei minha relação com ela.",
         "autor": "Leitor",
-        "fonte": "Amazon"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -43977,9 +43974,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mapeie o loop",
         "text": "Anote gatilho, comportamento (preocupar) e recompensa falsa da ansiedade.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Mapeie o loop\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Anote gatilho, comportamento (preocupar) e recompensa falsa da ansiedade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mapeie o loop\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Mapeie o loop\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Anote gatilho, comportamento (preocupar) e recompensa falsa da ansiedade — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Mapeie o loop\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43987,9 +43984,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Substitua controle por curiosidade",
         "text": "Olhar a ansiedade com interesse desarma a recompensa do hábito.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Substitua controle por curiosidade\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Olhar a ansiedade com interesse desarma a recompensa do hábito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Substitua controle por curiosidade\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Substitua controle por curiosidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Olhar a ansiedade com interesse desarma a recompensa do hábito — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Substitua controle por curiosidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -43997,9 +43994,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sinta o corpo primeiro",
         "text": "Notar a sensação física interrompe a espiral mental de ruminação.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Sinta o corpo primeiro\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Notar a sensação física interrompe a espiral mental de ruminação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sinta o corpo primeiro\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Sinta o corpo primeiro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Notar a sensação física interrompe a espiral mental de ruminação — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Sinta o corpo primeiro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44007,9 +44004,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reconheça a falsa recompensa",
         "text": "Ver que preocupar não controla nada enfraquece o ciclo.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Reconheça a falsa recompensa\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Ver que preocupar não controla nada enfraquece o ciclo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reconheça a falsa recompensa\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Reconheça a falsa recompensa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ver que preocupar não controla nada enfraquece o ciclo — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Reconheça a falsa recompensa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44017,9 +44014,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique atenção curiosa",
         "text": "Mindfulness investigativo reduz a ativação do circuito de hábito.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Pratique atenção curiosa\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Mindfulness investigativo reduz a ativação do circuito de hábito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique atenção curiosa\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Pratique atenção curiosa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mindfulness investigativo reduz a ativação do circuito de hábito — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Pratique atenção curiosa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44027,9 +44024,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não lute contra",
         "text": "Parar de suprimir a ansiedade evita o reforço do loop.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Não lute contra\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Parar de suprimir a ansiedade evita o reforço do loop — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não lute contra\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Não lute contra\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Parar de suprimir a ansiedade evita o reforço do loop — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Não lute contra\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44037,9 +44034,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o 'mapa de hábito'",
         "text": "A ferramenta do livro estrutura como identificar e quebrar ciclos.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Use o 'mapa de hábito'\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: A ferramenta do livro estrutura como identificar e quebrar ciclos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o 'mapa de hábito'\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Use o 'mapa de hábito'\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A ferramenta do livro estrutura como identificar e quebrar ciclos — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Use o 'mapa de hábito'\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44047,9 +44044,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aplique ao comer e dormir",
         "text": "Ansiedade afeta ambos; curiosidade melhora ambos os hábitos.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Aplique ao comer e dormir\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Ansiedade afeta ambos; curiosidade melhora ambos os hábitos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aplique ao comer e dormir\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Aplique ao comer e dormir\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ansiedade afeta ambos; curiosidade melhora ambos os hábitos — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Aplique ao comer e dormir\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44057,9 +44054,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza a evitação",
         "text": "Expor-se ao gatilho com curiosidade desaprende o medo.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Reduza a evitação\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Expor-se ao gatilho com curiosidade desaprende o medo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza a evitação\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Reduza a evitação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Expor-se ao gatilho com curiosidade desaprende o medo — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Reduza a evitação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44067,9 +44064,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite ansiedade funcional",
         "text": "Distinguir sinal útil de hábito evita patologizar tudo.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Aceite ansiedade funcional\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Distinguir sinal útil de hábito evita patologizar tudo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite ansiedade funcional\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Aceite ansiedade funcional\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Distinguir sinal útil de hábito evita patologizar tudo — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Aceite ansiedade funcional\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44077,9 +44074,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine diariamente",
         "text": "Pequenas pausas curiosas no dia quebram o loop acumulado.",
         "explicacoes": [
-          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Treine diariamente\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
-          "Na prática: Pequenas pausas curiosas no dia quebram o loop acumulado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine diariamente\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Treine diariamente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenas pausas curiosas no dia quebram o loop acumulado — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Treine diariamente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Curiosidade quebra o hábito",
+        "text": "Brewer encerra: notar a sensação sem agir a desativa no cérebro.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer coloca \"Curiosidade quebra o hábito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Brewer encerra: notar a sensação sem agir a desativa no cérebro — traduzido para a prática, é o passo concreto que liga a teoria de Judson Brewer ao comportamento diário.",
+          "Ignorar \"Curiosidade quebra o hábito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -44113,6 +44120,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Brewer redefine ansiedade como loop de recompensa, não evento.",
             "f": "Tentar controlar a ansiedade a fortalece; a curiosidade a desfaz.",
             "real": true
+          },
+          {
+            "t": "Ansiedade como hábito",
+            "e": "Brewer redefine ansiedade como loop de recompensa, não evento.",
+            "f": "Na visão de Judson Brewer, ansiedade como hábito é o ponto central deste capítulo de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
           }
         ]
       },
@@ -44131,6 +44144,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Gatilho, comportamento e recompensa explicados.",
             "f": "A curiosidade é a antítese do hábito; ela abre o que o hábito fecha.",
             "real": true
+          },
+          {
+            "t": "O mapa de hábito",
+            "e": "Gatilho, comportamento e recompensa explicados.",
+            "f": "Na visão de Judson Brewer, o mapa de hábito é o ponto central deste capítulo de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
           }
         ]
       },
@@ -44148,6 +44167,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Reforço",
             "e": "Como preocupar dá sensação ilusória de controle.",
             "f": "Na visão de Judson Brewer, \"reforço\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          },
+          {
+            "t": "A armadilha da preocupação",
+            "e": "Como preocupar dá sensação ilusória de controle.",
+            "f": "Na visão de Judson Brewer, a armadilha da preocupação é o ponto central deste capítulo de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
             "real": false
           }
         ]
@@ -44167,6 +44192,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Suprimir ativa o mesmo circuito que sustenta o hábito.",
             "f": "Na visão de Judson Brewer, \"ciclo\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
             "real": false
+          },
+          {
+            "t": "Por que lutar falha",
+            "e": "Suprimir ativa o mesmo circuito que sustenta o hábito.",
+            "f": "Na visão de Judson Brewer, por que lutar falha é o ponto central deste capítulo de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
           }
         ]
       },
@@ -44185,6 +44216,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Observar com interesse quebra a recompensa do loop.",
             "f": "A curiosidade é a antítese do hábito; ela abre o que o hábito fecha.",
             "real": true
+          },
+          {
+            "t": "A curiosidade",
+            "e": "Observar com interesse quebra a recompensa do loop.",
+            "f": "Na visão de Judson Brewer, a curiosidade é o ponto central deste capítulo de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
           }
         ]
       },
@@ -44202,6 +44239,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Sinal",
             "e": "Sensações físicas como ponto de entrada da atenção.",
             "f": "Na visão de Judson Brewer, \"sinal\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          },
+          {
+            "t": "O corpo primeiro",
+            "e": "Sensações físicas como ponto de entrada da atenção.",
+            "f": "Na visão de Judson Brewer, o corpo primeiro é o ponto central deste capítulo de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
             "real": false
           }
         ]
@@ -44221,6 +44264,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Usar o método em comer, dormir e relacionamentos.",
             "f": "Na visão de Judson Brewer, \"comida\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
             "real": false
+          },
+          {
+            "t": "Aplicações",
+            "e": "Usar o método em comer, dormir e relacionamentos.",
+            "f": "Na visão de Judson Brewer, aplicações é o ponto central deste capítulo de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
           }
         ]
       },
@@ -44239,6 +44288,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Práticas curtas para desaprender a ansiedade.",
             "f": "Na visão de Judson Brewer, \"presença\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
             "real": false
+          },
+          {
+            "t": "Treino diário",
+            "e": "Práticas curtas para desaprender a ansiedade.",
+            "f": "Na visão de Judson Brewer, treino diário é o ponto central deste capítulo de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
           }
         ]
       },
@@ -44256,6 +44311,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Paz",
             "e": "Como o cérebro solta o hábito quando a recompensa some.",
             "f": "Na visão de Judson Brewer, \"paz\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade do loop",
+            "e": "Como o cérebro solta o hábito quando a recompensa some.",
+            "f": "Na visão de Judson Brewer, liberdade do loop é o ponto central deste capítulo de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
             "real": false
           }
         ]
@@ -44279,12 +44340,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Dormir pouco é sinal de produtividade",
-        "text": "Walker mostra que privação sabota memória e foco; é anti-produtividade.",
-        "reflection": "Você se orgulha de poucas horas de sono?"
-      },
-      {
         "type": "truth",
         "title": "Sono consolida memória",
         "text": "O sono, especialmente REM, fixa aprendizado e reúne informações.",
@@ -44292,9 +44347,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Dá para recuperar sono no fim de semana",
-        "text": "A dívida de sono não se paga de uma vez; o prejuízo é contínuo.",
-        "reflection": "Você acha que dormir muito no sábado apaga a semana?"
+        "title": "Dormir pouco é sinal de produtividade",
+        "text": "Walker mostra que privação sabota memória e foco; é anti-produtividade.",
+        "reflection": "Você se orgulha de poucas horas de sono?"
       },
       {
         "type": "truth",
@@ -44304,9 +44359,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Idade exige menos sono",
-        "text": "A necessidade não cai tanto; o que cai é a capacidade de dormir bem.",
-        "reflection": "Você culpa a idade em vez de ajustar hábitos?"
+        "title": "Dá para recuperar sono no fim de semana",
+        "text": "A dívida de sono não se paga de uma vez; o prejuízo é contínuo.",
+        "reflection": "Você acha que dormir muito no sábado apaga a semana?"
       },
       {
         "type": "truth",
@@ -44316,9 +44371,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Café compensa a falta de sono",
-        "text": "A cafeína mascara o alerta, mas não substitui consolidação e limpeza.",
-        "reflection": "Você depende de café para funcionar mal dormindo pouco?"
+        "title": "Idade exige menos sono",
+        "text": "A necessidade não cai tanto; o que cai é a capacidade de dormir bem.",
+        "reflection": "Você culpa a idade em vez de ajustar hábitos?"
       },
       {
         "type": "truth",
@@ -44328,9 +44383,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Despertar à noite é normalidade",
-        "text": "Acordar muito fragmenta o ciclo e impede estágios profundos.",
-        "reflection": "Você acha natural acordar e não investiga?"
+        "title": "Café compensa a falta de sono",
+        "text": "A cafeína mascara o alerta, mas não substitui consolidação e limpeza.",
+        "reflection": "Você depende de café para funcionar mal dormindo pouco?"
       },
       {
         "type": "truth",
@@ -44340,9 +44395,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sono é tempo perdido",
-        "text": "Walker prova que é investimento biológico com retorno amplo.",
-        "reflection": "Você enxerga o sono como custo ou investimento?"
+        "title": "Despertar à noite é normalidade",
+        "text": "Acordar muito fragmenta o ciclo e impede estágios profundos.",
+        "reflection": "Você acha natural acordar e não investiga?"
       },
       {
         "type": "truth",
@@ -44352,9 +44407,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Sono é tempo perdido",
+        "text": "Walker prova que é investimento biológico com retorno amplo.",
+        "reflection": "Você enxerga o sono como custo ou investimento?"
+      },
+      {
+        "type": "truth",
+        "title": "Sono é o alicerce da memória, humor e saúde",
+        "text": "Walker prova que privação de sono prejudica raciocínio e sistema imune mais que se imagina.",
+        "reflection": "Você trata dormir como custo ou como treino?"
+      },
+      {
+        "type": "myth",
         "title": "Dormir menos 'treina' resistência",
         "text": "Nenhum estudo mostra adaptação saudável a privação crônica.",
         "reflection": "Você acha que se acostuma a dormir mal?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos resiste ao senso comum",
+        "text": "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker sustenta que matthew walker, neurocientista de berkeley, escreve 'por que nós dormimos' como um alerta: o sono não é luxo nem perda de tempo, é o sistema biológico mais fundamental de restauração — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Matthew Walker, neurocientista de Berkeley, escreve 'Por Que Nós Dormimos' como um alerta: o sono não é luxo nem perda de tempo, é o sistema biológico mais fundamental de restauração. A tese, apoiada em centenas de estudos, é que a privação crônica de sono deteriora memória, aprendizado, sistema imune, humor e aumenta risco de doenças graves, enquanto o sono adequado consolida memórias e limpa toxinas cerebrais. Walker explica os estágios NREM e REM, por que sonhamos e como a sociedade 'glamouriza' a insônia. O gancho é assustador e prático: você não pode 'hackear' o sono com menos horas; precisamos de 7 a 9 horas regulares. O livro desafia a cultura da produtividade sem sono e entrega regras concretas para dormir melhor. Sustentado por centenas de estudos, o livro alerta que a sociedade glamuriza a insônia e paga caro por isso. Walker oferece regras práticas de higiene do sono que qualquer leitor pode aplicar desde a noite seguinte.",
@@ -44375,33 +44448,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O sono é a única solução evolutiva para limpar o cérebro de seus resíduos.",
         "autor": "Matthew Walker",
         "obra": "Why We Sleep"
-      },
-      {
-        "texto": "Privar-se de sono é cortar o piso de segurança da sua saúde.",
-        "autor": "Matthew Walker",
-        "obra": "Why We Sleep"
-      },
-      {
-        "texto": "O sonho não é ruído; é o processo de salvar e organizar a mente.",
-        "autor": "Matthew Walker",
-        "obra": "Why We Sleep"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Depois deste livro, parei de me gabar de dormir quatro horas.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Ciência densa mas convincente; mudou meus horários para sempre.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "O capítulo sobre os estágios do sono deveria ser leitura obrigatória.",
-        "autor": "Médico",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -44417,9 +44475,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque 7 a 9 horas",
         "text": "Manter essa faixa protege memória, humor e sistema imune.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Busque 7 a 9 horas\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Manter essa faixa protege memória, humor e sistema imune — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque 7 a 9 horas\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Busque 7 a 9 horas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Manter essa faixa protege memória, humor e sistema imune — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Busque 7 a 9 horas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44427,9 +44485,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha horários regulares",
         "text": "Dormir e acordar em horários estáveis sincroniza o ritmo.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Mantenha horários regulares\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Dormir e acordar em horários estáveis sincroniza o ritmo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha horários regulares\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Mantenha horários regulares\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dormir e acordar em horários estáveis sincroniza o ritmo — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Mantenha horários regulares\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44437,9 +44495,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite telas à noite",
         "text": "Luz azul adia o relógio biológico; reduza telas uma hora antes.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Evite telas à noite\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Luz azul adia o relógio biológico; reduza telas uma hora antes — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite telas à noite\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Evite telas à noite\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Luz azul adia o relógio biológico; reduza telas uma hora antes — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Evite telas à noite\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44447,9 +44505,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuidado com o álcool",
         "text": "Álcool fragmenta o REM e piora a qualidade do sono.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Cuidado com o álcool\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Álcool fragmenta o REM e piora a qualidade do sono — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuidado com o álcool\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Cuidado com o álcool\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Álcool fragmenta o REM e piora a qualidade do sono — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Cuidado com o álcool\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44457,9 +44515,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não use café tarde",
         "text": "Cafeína após meio-dia pode sabotar o sono à noite.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Não use café tarde\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Cafeína após meio-dia pode sabotar o sono à noite — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não use café tarde\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Não use café tarde\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cafeína após meio-dia pode sabotar o sono à noite — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Não use café tarde\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44467,9 +44525,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Respeite a temperatura",
         "text": "Quarto fresco facilita o sinal natural de adormecer.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Respeite a temperatura\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Quarto fresco facilita o sinal natural de adormecer — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Respeite a temperatura\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Respeite a temperatura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quarto fresco facilita o sinal natural de adormecer — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Respeite a temperatura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44477,9 +44535,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não tente recuperar no fim de semana",
         "text": "A dívida de sono é contínua; mantenha constância.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Não tente recuperar no fim de semana\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: A dívida de sono é contínua; mantenha constância — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não tente recuperar no fim de semana\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Não tente recuperar no fim de semana\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A dívida de sono é contínua; mantenha constância — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Não tente recuperar no fim de semana\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44487,9 +44545,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda REM e NREM",
         "text": "Cada estágio tem função; sonhar processa emoção e memória.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Entenda REM e NREM\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Cada estágio tem função; sonhar processa emoção e memória — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda REM e NREM\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Entenda REM e NREM\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada estágio tem função; sonhar processa emoção e memória — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Entenda REM e NREM\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44497,9 +44555,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Veja o sono como investimento",
         "text": "Tratar sono como prioridade, não luxo, muda decisões diárias.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Veja o sono como investimento\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Tratar sono como prioridade, não luxo, muda decisões diárias — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Veja o sono como investimento\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Veja o sono como investimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tratar sono como prioridade, não luxo, muda decisões diárias — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Veja o sono como investimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44507,9 +44565,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite a cultura da insônia",
         "text": "Parar de glamurizar poucas horas protege sua saúde longo prazo.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Evite a cultura da insônia\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Parar de glamurizar poucas horas protege sua saúde longo prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite a cultura da insônia\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Evite a cultura da insônia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Parar de glamurizar poucas horas protege sua saúde longo prazo — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Evite a cultura da insônia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44517,9 +44575,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Investigue acordos noturnos",
         "text": "Fragmentação frequente merece atenção, não conformismo.",
         "explicacoes": [
-          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker trata \"Investigue acordos noturnos\" como peça-chave para o poder do sono para a memória e a criatividade.",
-          "Na prática: Fragmentação frequente merece atenção, não conformismo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Investigue acordos noturnos\" aplica o poder do sono para a memória e a criatividade de forma concreta, não apenas como conceito."
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Investigue acordos noturnos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Fragmentação frequente merece atenção, não conformismo — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Investigue acordos noturnos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Rotina de sono é não-negociável",
+        "text": "Walker recomenda horários fixos para ancorar o relógio biológico.",
+        "explicacoes": [
+          "Em \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\", Matthew Walker coloca \"Rotina de sono é não-negociável\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Walker recomenda horários fixos para ancorar o relógio biológico — traduzido para a prática, é o passo concreto que liga a teoria de Matthew Walker ao comportamento diário.",
+          "Ignorar \"Rotina de sono é não-negociável\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -44553,6 +44621,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Walker abre com os custos sociais da privação de sono.",
             "f": "Na visão de Matthew Walker, \"custo\" é parte essencial da proposta de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
             "real": false
+          },
+          {
+            "t": "Alerta de saúde pública",
+            "e": "Walker abre com os custos sociais da privação de sono.",
+            "f": "Na visão de Matthew Walker, alerta de saúde pública é o ponto central deste capítulo de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
           }
         ]
       },
@@ -44571,6 +44645,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mecânica dos estágios NREM e REM.",
             "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
             "real": true
+          },
+          {
+            "t": "O que é sono",
+            "e": "Mecânica dos estágios NREM e REM.",
+            "f": "Na visão de Matthew Walker, o que é sono é o ponto central deste capítulo de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
           }
         ]
       },
@@ -44589,6 +44669,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como o sono fixa memória e melhora desempenho.",
             "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
             "real": true
+          },
+          {
+            "t": "Sono e aprendizado",
+            "e": "Como o sono fixa memória e melhora desempenho.",
+            "f": "Na visão de Matthew Walker, sono e aprendizado é o ponto central deste capítulo de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
           }
         ]
       },
@@ -44607,6 +44693,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "REM regula humor e processa experiências.",
             "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
             "real": true
+          },
+          {
+            "t": "Sono e emoção",
+            "e": "REM regula humor e processa experiências.",
+            "f": "Na visão de Matthew Walker, sono e emoção é o ponto central deste capítulo de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
           }
         ]
       },
@@ -44625,6 +44717,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Relação com imunidade, peso e doenças.",
             "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
             "real": true
+          },
+          {
+            "t": "Sono e corpo",
+            "e": "Relação com imunidade, peso e doenças.",
+            "f": "Na visão de Matthew Walker, sono e corpo é o ponto central deste capítulo de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
           }
         ]
       },
@@ -44643,6 +44741,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Cultura que glamuriza a insônia e seus perigos.",
             "f": "Não se pode acumular dívida de sono e pagá-la de uma vez no fim de semana.",
             "real": true
+          },
+          {
+            "t": "Sono e sociedade",
+            "e": "Cultura que glamuriza a insônia e seus perigos.",
+            "f": "Na visão de Matthew Walker, sono e sociedade é o ponto central deste capítulo de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
           }
         ]
       },
@@ -44660,6 +44764,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Criatividade",
             "e": "Funções dos sonhos na saúde mental.",
             "f": "Na visão de Matthew Walker, \"criatividade\" é parte essencial da proposta de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
+          },
+          {
+            "t": "Por que sonhamos",
+            "e": "Funções dos sonhos na saúde mental.",
+            "f": "Na visão de Matthew Walker, por que sonhamos é o ponto central deste capítulo de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
             "real": false
           }
         ]
@@ -44679,6 +44789,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Regras práticas para higiene do sono.",
             "f": "Na visão de Matthew Walker, \"ambiente\" é parte essencial da proposta de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
             "real": false
+          },
+          {
+            "t": "Dormir melhor",
+            "e": "Regras práticas para higiene do sono.",
+            "f": "Na visão de Matthew Walker, dormir melhor é o ponto central deste capítulo de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
           }
         ]
       },
@@ -44697,6 +44813,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Reflexão sobre priorizar sono coletivamente.",
             "f": "Privar-se de sono é cortar o piso de segurança da sua saúde.",
             "real": true
+          },
+          {
+            "t": "O futuro do sono",
+            "e": "Reflexão sobre priorizar sono coletivamente.",
+            "f": "Na visão de Matthew Walker, o futuro do sono é o ponto central deste capítulo de \"Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos\".",
+            "real": false
           }
         ]
       }
@@ -44719,12 +44841,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Sabedoria é ter todas as respostas",
-        "text": "Tippett argumenta que ela mora em boas perguntas e dúvida generosa.",
-        "reflection": "Você confunde saber com ser sábio?"
-      },
-      {
         "type": "truth",
         "title": "A escuta é prática de sabedoria",
         "text": "Ouvir de verdade, sem preparar réplica, abre a complexidade.",
@@ -44732,9 +44848,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Certeza rígida é força",
-        "text": "A certeza fechada mata a curiosidade que sustenta a sabedoria.",
-        "reflection": "Sua certeza tem bloqueado aprender com outros?"
+        "title": "Sabedoria é ter todas as respostas",
+        "text": "Tippett argumenta que ela mora em boas perguntas e dúvida generosa.",
+        "reflection": "Você confunde saber com ser sábio?"
       },
       {
         "type": "truth",
@@ -44744,9 +44860,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sarcasmo é inteligência",
-        "text": "O cinismo fecha o espaço de mistério que a sabedoria cultiva.",
-        "reflection": "Seu sarcasmo tem protegido você de se expor?"
+        "title": "Certeza rígida é força",
+        "text": "A certeza fechada mata a curiosidade que sustenta a sabedoria.",
+        "reflection": "Sua certeza tem bloqueado aprender com outros?"
       },
       {
         "type": "truth",
@@ -44756,9 +44872,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sabedoria é assunto de eruditos",
-        "text": "Tippett mostra sabedoria em vozes simples e diversas.",
-        "reflection": "Você desqualifica sabedoria sem títulos?"
+        "title": "Sarcasmo é inteligência",
+        "text": "O cinismo fecha o espaço de mistério que a sabedoria cultiva.",
+        "reflection": "Seu sarcasmo tem protegido você de se expor?"
       },
       {
         "type": "truth",
@@ -44768,9 +44884,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Perdão é fraqueza",
-        "text": "Perdoar aparece como prática de liberdade e sabedoria relacional.",
-        "reflection": "Você trata perdão como derrota?"
+        "title": "Sabedoria é assunto de eruditos",
+        "text": "Tippett mostra sabedoria em vozes simples e diversas.",
+        "reflection": "Você desqualifica sabedoria sem títulos?"
       },
       {
         "type": "truth",
@@ -44780,9 +44896,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mistério é ignorância",
-        "text": "Viver o mistério é aceitar o que não se controla, não falta de saber.",
-        "reflection": "Você exige controle onde caberia mistério?"
+        "title": "Perdão é fraqueza",
+        "text": "Perdoar aparece como prática de liberdade e sabedoria relacional.",
+        "reflection": "Você trata perdão como derrota?"
       },
       {
         "type": "truth",
@@ -44792,9 +44908,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Mistério é ignorância",
+        "text": "Viver o mistério é aceitar o que não se controla, não falta de saber.",
+        "reflection": "Você exige controle onde caberia mistério?"
+      },
+      {
+        "type": "truth",
+        "title": "Sabedoria se cultiva na pergunta, não na resposta",
+        "text": "Tippett conversa com pensadores para mostrar que viver bem é uma arte de investigar.",
+        "reflection": "Você coleciona certezas ou pratica a dúvida generosa?"
+      },
+      {
+        "type": "myth",
         "title": "Complexidade é confusão",
         "text": "Abrigar a complexidade é maturidade, não falta de clareza.",
         "reflection": "Você simplifica demais para se sentir seguro?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa resiste ao senso comum",
+        "text": "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett sustenta que krista tippett, jornalista e apresentadora de rádio, compilou em 'tornar-se sábio' conversas com cientistas, teólogos, poetas e ativistas para investigar o que significa viver uma vida com sabedoria — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Krista Tippett, jornalista e apresentadora de rádio, compilou em 'Tornar-se Sábio' conversas com cientistas, teólogos, poetas e ativistas para investigar o que significa viver uma vida com sabedoria. A tese é que a sabedoria não é posse de poucos nem erudição, mas uma prática relacional de atenção, vulnerabilidade e escuta do mistério. Tippett repudia o sarcasmo e a certeza rígida como inimigos da sabedoria e propõe a 'generosidade da dúvida'. Ela tece temas como perdão, tempo, morte e linguagem a partir de vozes diversas. O gancho é humano: em vez de ter todas as respostas, a sabedoria é saber fazer as perguntas certas e abrir espaço para a complexidade. É um livro de reflexão, não de receitas, voltado a quem busca sentido num mundo polarizado. Costurado de vozes de cientistas, poetas e teólogos, o livro resiste a respostas fáceis e cultiva a dúvida generosa. Tippett propõe a sabedoria como prática relacional, nascida do encontro e da escuta, não do isolamento do erudito.",
@@ -44815,33 +44949,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Ouvir é uma forma de amor; a escuta plena é rara e transformadora.",
         "autor": "Krista Tippett",
         "obra": "Becoming Wise"
-      },
-      {
-        "texto": "A vulnerabilidade não é fraqueza; é a porta da conexão humana.",
-        "autor": "Krista Tippett",
-        "obra": "Becoming Wise"
-      },
-      {
-        "texto": "Viver o mistério é aceitar o que não controlamos sem perder a presença.",
-        "autor": "Krista Tippett",
-        "obra": "Becoming Wise"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Leitura que acalma a polarização; ouvir vozes diversas fez bem.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Mais reflexão que autoajuda; perfeito para quem busca sentido.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "A ideia da dúvida generosa virou meu filtro nas discussões.",
-        "autor": "Leitor",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -44857,9 +44976,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça perguntas melhores",
         "text": "A sabedoria começa em perguntar bem, não em responder rápido.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Faça perguntas melhores\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: A sabedoria começa em perguntar bem, não em responder rápido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça perguntas melhores\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Faça perguntas melhores\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A sabedoria começa em perguntar bem, não em responder rápido — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Faça perguntas melhores\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44867,9 +44986,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a escuta plena",
         "text": "Ouvir sem réplica preparada abre a complexidade dos outros.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Pratique a escuta plena\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: Ouvir sem réplica preparada abre a complexidade dos outros — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a escuta plena\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Pratique a escuta plena\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ouvir sem réplica preparada abre a complexidade dos outros — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Pratique a escuta plena\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44877,9 +44996,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive a dúvida generosa",
         "text": "Dar benefício da dúvida ao outro amplia compreensão.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Cultive a dúvida generosa\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: Dar benefício da dúvida ao outro amplia compreensão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive a dúvida generosa\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Cultive a dúvida generosa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dar benefício da dúvida ao outro amplia compreensão — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Cultive a dúvida generosa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44887,9 +45006,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abra mão da certeza",
         "text": "Soltar a resposta fechada mantém viva a curiosidade.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Abra mão da certeza\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: Soltar a resposta fechada mantém viva a curiosidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abra mão da certeza\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Abra mão da certeza\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Soltar a resposta fechada mantém viva a curiosidade — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Abra mão da certeza\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44897,9 +45016,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o mistério",
         "text": "Reconhecer limites do controle é maturidade, não ignorância.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Aceite o mistério\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: Reconhecer limites do controle é maturidade, não ignorância — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o mistério\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Aceite o mistério\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer limites do controle é maturidade, não ignorância — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Aceite o mistério\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44907,9 +45026,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a linguagem com cuidado",
         "text": "Palavras constroem a realidade que habitamos juntos.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Use a linguagem com cuidado\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: Palavras constroem a realidade que habitamos juntos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a linguagem com cuidado\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Use a linguagem com cuidado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Palavras constroem a realidade que habitamos juntos — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Use a linguagem com cuidado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44917,9 +45036,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize a vulnerabilidade",
         "text": "Admitir incerteza aproxima e aprofunda relações.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Valorize a vulnerabilidade\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: Admitir incerteza aproxima e aprofunda relações — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize a vulnerabilidade\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Valorize a vulnerabilidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Admitir incerteza aproxima e aprofunda relações — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Valorize a vulnerabilidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44927,9 +45046,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aprenda com o tempo",
         "text": "A perspectiva amadurece ao acolher a finitude.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Aprenda com o tempo\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: A perspectiva amadurece ao acolher a finitude — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aprenda com o tempo\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Aprenda com o tempo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A perspectiva amadurece ao acolher a finitude — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Aprenda com o tempo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44937,9 +45056,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite o sarcasmo",
         "text": "O cinismo fecha o espaço de mistério e conexão.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Evite o sarcasmo\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: O cinismo fecha o espaço de mistério e conexão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite o sarcasmo\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Evite o sarcasmo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O cinismo fecha o espaço de mistério e conexão — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Evite o sarcasmo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44947,9 +45066,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque vozes diversas",
         "text": "Sabedoria emerge do encontro com diferenças.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Busque vozes diversas\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: Sabedoria emerge do encontro com diferenças — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque vozes diversas\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Busque vozes diversas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sabedoria emerge do encontro com diferenças — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Busque vozes diversas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -44957,9 +45076,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique o perdão",
         "text": "Perdoar é liberdade relacional e maturidade.",
         "explicacoes": [
-          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett trata \"Pratique o perdão\" como peça-chave para a sabedoria prática e espiritual da vida adulta.",
-          "Na prática: Perdoar é liberdade relacional e maturidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique o perdão\" aplica a sabedoria prática e espiritual da vida adulta de forma concreta, não apenas como conceito."
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Pratique o perdão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Perdoar é liberdade relacional e maturidade — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Pratique o perdão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Conversar com profundidade forma sabedoria",
+        "text": "Tippett mostra que a escuta genuína ensina mais que a própria leitura.",
+        "explicacoes": [
+          "Em \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\", Krista Tippett coloca \"Conversar com profundidade forma sabedoria\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tippett mostra que a escuta genuína ensina mais que a própria leitura — traduzido para a prática, é o passo concreto que liga a teoria de Krista Tippett ao comportamento diário.",
+          "Ignorar \"Conversar com profundidade forma sabedoria\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -44993,6 +45122,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Tippett abre defendendo perguntas sobre respostas.",
             "f": "Na visão de Krista Tippett, \"curiosidade\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
             "real": false
+          },
+          {
+            "t": "A arte de perguntar",
+            "e": "Tippett abre defendendo perguntas sobre respostas.",
+            "f": "Na visão de Krista Tippett, a arte de perguntar é o ponto central deste capítulo de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
           }
         ]
       },
@@ -45011,6 +45146,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A escuta plena como prática espiritual e social.",
             "f": "A vulnerabilidade não é fraqueza; é a porta da conexão humana.",
             "real": true
+          },
+          {
+            "t": "A escuta",
+            "e": "A escuta plena como prática espiritual e social.",
+            "f": "Na visão de Krista Tippett, a escuta é o ponto central deste capítulo de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
           }
         ]
       },
@@ -45028,6 +45169,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Generosidade",
             "e": "Contra o cinismo, a abertura ao outro.",
             "f": "Na visão de Krista Tippett, \"generosidade\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "A dúvida generosa",
+            "e": "Contra o cinismo, a abertura ao outro.",
+            "f": "Na visão de Krista Tippett, a dúvida generosa é o ponto central deste capítulo de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
             "real": false
           }
         ]
@@ -45047,6 +45194,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como a aceitação do tempo amadurece a perspectiva.",
             "f": "Na visão de Krista Tippett, \"morte\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
             "real": false
+          },
+          {
+            "t": "Tempo e finitude",
+            "e": "Como a aceitação do tempo amadurece a perspectiva.",
+            "f": "Na visão de Krista Tippett, tempo e finitude é o ponto central deste capítulo de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
           }
         ]
       },
@@ -45064,6 +45217,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Cura",
             "e": "Perdoar como prática de sabedoria relacional.",
             "f": "Na visão de Krista Tippett, \"cura\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "Perdão",
+            "e": "Perdoar como prática de sabedoria relacional.",
+            "f": "Na visão de Krista Tippett, perdão é o ponto central deste capítulo de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
             "real": false
           }
         ]
@@ -45083,6 +45242,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O poder das palavras em moldar a realidade.",
             "f": "Na visão de Krista Tippett, \"realidade\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
             "real": false
+          },
+          {
+            "t": "Linguagem",
+            "e": "O poder das palavras em moldar a realidade.",
+            "f": "Na visão de Krista Tippett, linguagem é o ponto central deste capítulo de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
           }
         ]
       },
@@ -45100,6 +45265,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Abertura",
             "e": "Abrigar o mistério contra a certeza rígida.",
             "f": "Na visão de Krista Tippett, \"abertura\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "Mistério",
+            "e": "Abrigar o mistério contra a certeza rígida.",
+            "f": "Na visão de Krista Tippett, mistério é o ponto central deste capítulo de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
             "real": false
           }
         ]
@@ -45119,6 +45290,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Sabedoria no encontro com diferenças.",
             "f": "Na visão de Krista Tippett, \"encontro\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
             "real": false
+          },
+          {
+            "t": "Vozes diversas",
+            "e": "Sabedoria no encontro com diferenças.",
+            "f": "Na visão de Krista Tippett, vozes diversas é o ponto central deste capítulo de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
           }
         ]
       },
@@ -45136,6 +45313,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Relação",
             "e": "A sabedoria como processo relacional contínuo.",
             "f": "Na visão de Krista Tippett, \"relação\" é parte essencial da proposta de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
+            "real": false
+          },
+          {
+            "t": "Tornar-se sábio",
+            "e": "A sabedoria como processo relacional contínuo.",
+            "f": "Na visão de Krista Tippett, tornar-se sábio é o ponto central deste capítulo de \"Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa\".",
             "real": false
           }
         ]
@@ -45159,12 +45342,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Eu sou meus papéis e posses",
-        "text": "Ram Dass mostra que a identidade de papéis é ilusória e causa sofrimento.",
-        "reflection": "Quantos de seus 'eus' são papéis e não o essencial?"
-      },
-      {
         "type": "truth",
         "title": "Presença é despertar",
         "text": "Estar aqui agora é a porta para além da mente que se apegada.",
@@ -45172,9 +45349,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Preciso buscar algo distante",
-        "text": "O livro afirma que você já é o que procura; a busca afasta.",
-        "reflection": "Você procura fora o que está dentro?"
+        "title": "Eu sou meus papéis e posses",
+        "text": "Ram Dass mostra que a identidade de papéis é ilusória e causa sofrimento.",
+        "reflection": "Quantos de seus 'eus' são papéis e não o essencial?"
       },
       {
         "type": "truth",
@@ -45184,9 +45361,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Espiritualidade é escapar do mundo",
-        "text": "Serviço e presença no mundo são o caminho, não fuga.",
-        "reflection": "Você confunde espiritualidade com isolamento?"
+        "title": "Preciso buscar algo distante",
+        "text": "O livro afirma que você já é o que procura; a busca afasta.",
+        "reflection": "Você procura fora o que está dentro?"
       },
       {
         "type": "truth",
@@ -45196,9 +45373,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudar o externo traz paz",
-        "text": "Mudar circunstâncias sem mudar a relação interna não libera.",
-        "reflection": "Você troca cenários esperando paz que não vem?"
+        "title": "Espiritualidade é escapar do mundo",
+        "text": "Serviço e presença no mundo são o caminho, não fuga.",
+        "reflection": "Você confunde espiritualidade com isolamento?"
       },
       {
         "type": "truth",
@@ -45208,9 +45385,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Conhecimento erudito ilumina",
-        "text": "Saber muito não substitui a experiência direta da presença.",
-        "reflection": "Você estuda para não sentir o agora?"
+        "title": "Mudar o externo traz paz",
+        "text": "Mudar circunstâncias sem mudar a relação interna não libera.",
+        "reflection": "Você troca cenários esperando paz que não vem?"
       },
       {
         "type": "truth",
@@ -45220,9 +45397,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Despertar é evento único",
-        "text": "É processo contínuo de voltar à presença, não conquista.",
-        "reflection": "Você espera um 'clique' definitivo?"
+        "title": "Conhecimento erudito ilumina",
+        "text": "Saber muito não substitui a experiência direta da presença.",
+        "reflection": "Você estuda para não sentir o agora?"
       },
       {
         "type": "truth",
@@ -45232,9 +45409,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Despertar é evento único",
+        "text": "É processo contínuo de voltar à presença, não conquista.",
+        "reflection": "Você espera um 'clique' definitivo?"
+      },
+      {
+        "type": "truth",
+        "title": "Estar aqui agora é a prática integral",
+        "text": "Dass convida a soltar o ego e habitar o presente como caminho espiritual.",
+        "reflection": "Quanto de você está em outro lugar enquanto lê isto?"
+      },
+      {
+        "type": "myth",
         "title": "Deus é externo e distante",
         "text": "Ram Dass fala de divindade como presença íntima e aqui.",
         "reflection": "Você busca o sagrado longe de si?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Esteja Aqui Agora resiste ao senso comum",
+        "text": "Em \"Esteja Aqui Agora\", Ram Dass sustenta que 'esteja aqui agora', de ram dass, é um marco espiritual de 1971 que fundiu hinduísmo, budismo e psicologia ocidental na contracultura americana — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "'Esteja Aqui Agora', de Ram Dass, é um marco espiritual de 1971 que fundiu hinduísmo, budismo e psicologia ocidental na contracultura americana. A tese é que a identidade comum — o 'eu' separado, feito de papéis e apegos — é uma ilusão que gera sofrimento, e que a libertação vem de despertar para a presença e a unidade de tudo. Escrito em formato visual e fragmentado (colagens, mantras, desenhos), o livro convida à prática, não à teoria: meditação, serviço (karma yoga) e entrega. Ram Dass, ex-professor de Harvard, relata a própria jornada de Richard Alpert a 'servo de Deus'. O gancho é simples e radical: você já é o que busca; basta estar aqui, agora. É texto de despertar espiritual, não manual de produtividade. Em formato visual e fragmentado, o livro é experiência tanto quanto texto, convidando à prática e não só à leitura. Ram Dass entrega um caminho de presença e serviço que influenciou gerações de buscadores espirituais ocidentais.",
@@ -45255,33 +45450,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O mind is a wonderful servant but a terrible master.",
         "autor": "Ram Dass",
         "obra": "Be Here Now"
-      },
-      {
-        "texto": "Trabalhe como se tudo dependesse de você e relaxe como se tudo dependesse de Deus.",
-        "autor": "Ram Dass",
-        "obra": "Be Here Now"
-      },
-      {
-        "texto": "Estamos todos no mesmo barco, afundando na mesma ilusão de separação.",
-        "autor": "Ram Dass",
-        "obra": "Be Here Now"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Livro que mudou minha década de 20; formato incomum mas profundo.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Clássico sem idade; releio e encontro novo sentido.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "Não é autoajuda, é despertar; exige abertura.",
-        "autor": "Leitor",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -45297,9 +45477,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Volte ao agora",
         "text": "Ancorar a atenção no momento presente é a prática central.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Volte ao agora\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: Ancorar a atenção no momento presente é a prática central — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Volte ao agora\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Volte ao agora\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ancorar a atenção no momento presente é a prática central — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Volte ao agora\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45307,9 +45487,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Solte os papéis",
         "text": "Observar os papéis sem se confundir com eles reduz o sofrimento.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Solte os papéis\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: Observar os papéis sem se confundir com eles reduz o sofrimento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Solte os papéis\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Solte os papéis\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Observar os papéis sem se confundir com eles reduz o sofrimento — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Solte os papéis\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45317,9 +45497,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique o serviço",
         "text": "Agir sem apego ao resultado (karma yoga) purifica o eu.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Pratique o serviço\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: Agir sem apego ao resultado (karma yoga) purifica o eu — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique o serviço\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Pratique o serviço\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Agir sem apego ao resultado (karma yoga) purifica o eu — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Pratique o serviço\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45327,9 +45507,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a mente, não seja usado",
         "text": "A mente é ferramenta; não deixe que ela dite sua identidade.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Use a mente, não seja usado\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: A mente é ferramenta; não deixe que ela dite sua identidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a mente, não seja usado\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Use a mente, não seja usado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A mente é ferramenta; não deixe que ela dite sua identidade — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Use a mente, não seja usado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45337,9 +45517,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sinta a unidade",
         "text": "Perceber a conexão de tudo dissolve a separação angustiante.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Sinta a unidade\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: Perceber a conexão de tudo dissolve a separação angustiante — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sinta a unidade\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Sinta a unidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Perceber a conexão de tudo dissolve a separação angustiante — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Sinta a unidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45347,9 +45527,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o processo",
         "text": "Despertar é voltar repetidamente, não um evento final.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Aceite o processo\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: Despertar é voltar repetidamente, não um evento final — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o processo\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Aceite o processo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Despertar é voltar repetidamente, não um evento final — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Aceite o processo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45357,9 +45537,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Experimente, não só leia",
         "text": "A presença se vive; estudo não substitui prática.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Experimente, não só leia\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: A presença se vive; estudo não substitui prática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Experimente, não só leia\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Experimente, não só leia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A presença se vive; estudo não substitui prática — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Experimente, não só leia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45367,9 +45547,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abrace o corpo",
         "text": "Ancorar no corpo traz de volta quando a mente dispersa.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Abrace o corpo\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: Ancorar no corpo traz de volta quando a mente dispersa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abrace o corpo\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Abrace o corpo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ancorar no corpo traz de volta quando a mente dispersa — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Abrace o corpo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45377,9 +45557,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Veja o sagrado em si",
         "text": "O divino é presença íntima, não entidade distante.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Veja o sagrado em si\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: O divino é presença íntima, não entidade distante — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Veja o sagrado em si\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Veja o sagrado em si\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O divino é presença íntima, não entidade distante — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Veja o sagrado em si\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45387,9 +45567,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Relaxe o controle",
         "text": "Entregar o apego ao resultado alivia a tensão do eu.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Relaxe o controle\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: Entregar o apego ao resultado alivia a tensão do eu — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Relaxe o controle\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Relaxe o controle\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Entregar o apego ao resultado alivia a tensão do eu — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Relaxe o controle\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45397,9 +45577,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acolha todos os estados",
         "text": "Toda experiência pode ser porta de presença.",
         "explicacoes": [
-          "Em \"Esteja Aqui Agora\", Ram Dass trata \"Acolha todos os estados\" como peça-chave para a consciência e o amor como caminho do eu.",
-          "Na prática: Toda experiência pode ser porta de presença — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acolha todos os estados\" aplica a consciência e o amor como caminho do eu de forma concreta, não apenas como conceito."
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"Acolha todos os estados\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Toda experiência pode ser porta de presença — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"Acolha todos os estados\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "O amor é a prática final",
+        "text": "Dass conclui que estar presente se resolve em compaixão pelos outros.",
+        "explicacoes": [
+          "Em \"Esteja Aqui Agora\", Ram Dass coloca \"O amor é a prática final\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dass conclui que estar presente se resolve em compaixão pelos outros — traduzido para a prática, é o passo concreto que liga a teoria de Ram Dass ao comportamento diário.",
+          "Ignorar \"O amor é a prática final\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -45433,6 +45623,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A jornada pessoal que gerou o livro.",
             "f": "Na visão de Ram Dass, \"índia\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
             "real": false
+          },
+          {
+            "t": "De Alpert a Dass",
+            "e": "A jornada pessoal que gerou o livro.",
+            "f": "Na visão de Ram Dass, de Alpert a Dass é o ponto central deste capítulo de \"Esteja Aqui Agora\".",
+            "real": false
           }
         ]
       },
@@ -45450,6 +45646,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Apego",
             "e": "Como a identidade separada cria sofrimento.",
             "f": "Na visão de Ram Dass, \"apego\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "A ilusão do eu",
+            "e": "Como a identidade separada cria sofrimento.",
+            "f": "Na visão de Ram Dass, a ilusão do eu é o ponto central deste capítulo de \"Esteja Aqui Agora\".",
             "real": false
           }
         ]
@@ -45469,6 +45671,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Usar a mente sem ser escravo dela.",
             "f": "O aqui e o agora é o único lugar onde a vida acontece.",
             "real": true
+          },
+          {
+            "t": "A mente e a presença",
+            "e": "Usar a mente sem ser escravo dela.",
+            "f": "Na visão de Ram Dass, a mente e a presença é o ponto central deste capítulo de \"Esteja Aqui Agora\".",
+            "real": false
           }
         ]
       },
@@ -45486,6 +45694,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Mantra",
             "e": "Meditação, mantras e ancoragem no corpo.",
             "f": "Na visão de Ram Dass, \"mantra\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "Práticas",
+            "e": "Meditação, mantras e ancoragem no corpo.",
+            "f": "Na visão de Ram Dass, práticas é o ponto central deste capítulo de \"Esteja Aqui Agora\".",
             "real": false
           }
         ]
@@ -45505,6 +45719,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O serviço sem apego ao fruto.",
             "f": "Na visão de Ram Dass, \"desapego\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
             "real": false
+          },
+          {
+            "t": "Karma yoga",
+            "e": "O serviço sem apego ao fruto.",
+            "f": "Na visão de Ram Dass, karma yoga é o ponto central deste capítulo de \"Esteja Aqui Agora\".",
+            "real": false
           }
         ]
       },
@@ -45522,6 +45742,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Conexão",
             "e": "A percepção de que tudo é uno.",
             "f": "Na visão de Ram Dass, \"conexão\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "A unidade",
+            "e": "A percepção de que tudo é uno.",
+            "f": "Na visão de Ram Dass, a unidade é o ponto central deste capítulo de \"Esteja Aqui Agora\".",
             "real": false
           }
         ]
@@ -45541,6 +45767,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Divindade como presença aqui, não longe.",
             "f": "Trabalhe como se tudo dependesse de você e relaxe como se tudo dependesse de Deus.",
             "real": true
+          },
+          {
+            "t": "O sagrado íntimo",
+            "e": "Divindade como presença aqui, não longe.",
+            "f": "Na visão de Ram Dass, o sagrado íntimo é o ponto central deste capítulo de \"Esteja Aqui Agora\".",
+            "real": false
           }
         ]
       },
@@ -45559,6 +45791,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Despertar como processo recorrente.",
             "f": "Na visão de Ram Dass, \"retorno\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
             "real": false
+          },
+          {
+            "t": "Voltar sempre",
+            "e": "Despertar como processo recorrente.",
+            "f": "Na visão de Ram Dass, voltar sempre é o ponto central deste capítulo de \"Esteja Aqui Agora\".",
+            "real": false
           }
         ]
       },
@@ -45576,6 +45814,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Vida",
             "e": "Integrar a presença na vida comum.",
             "f": "Na visão de Ram Dass, \"vida\" é parte essencial da proposta de \"Esteja Aqui Agora\".",
+            "real": false
+          },
+          {
+            "t": "Viver o agora",
+            "e": "Integrar a presença na vida comum.",
+            "f": "Na visão de Ram Dass, viver o agora é o ponto central deste capítulo de \"Esteja Aqui Agora\".",
             "real": false
           }
         ]
@@ -45599,12 +45843,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Mindfulness exige retiro ou religião",
-        "text": "Kabat-Zinn mostra que dá para praticar na louça e na caminhada.",
-        "reflection": "Você acha que meditação exige cenário especial?"
-      },
-      {
         "type": "truth",
         "title": "Autopilotagem rouba a vida",
         "text": "Viver no piloto automático faz dias passarem sem serem vividos.",
@@ -45612,9 +45850,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Meditar é esvaziar a mente",
-        "text": "O objetivo não é não pensar, mas notar sem julgar.",
-        "reflection": "Você desiste por achar que devia parar de pensar?"
+        "title": "Mindfulness exige retiro ou religião",
+        "text": "Kabat-Zinn mostra que dá para praticar na louça e na caminhada.",
+        "reflection": "Você acha que meditação exige cenário especial?"
       },
       {
         "type": "truth",
@@ -45624,9 +45862,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Precisa de tempo longo",
-        "text": "Pequenos gestos informais já treinam a presença.",
-        "reflection": "Você espera ter uma hora livre para começar?"
+        "title": "Meditar é esvaziar a mente",
+        "text": "O objetivo não é não pensar, mas notar sem julgar.",
+        "reflection": "Você desiste por achar que devia parar de pensar?"
       },
       {
         "type": "truth",
@@ -45636,9 +45874,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Julgar é inevitável",
-        "text": "Notar o julgamento sem se prender a ele é a prática.",
-        "reflection": "Você se funde com julgamentos em vez de observá-los?"
+        "title": "Precisa de tempo longo",
+        "text": "Pequenos gestos informais já treinam a presença.",
+        "reflection": "Você espera ter uma hora livre para começar?"
       },
       {
         "type": "truth",
@@ -45648,9 +45886,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mindfulness é escapismo",
-        "text": "Pelo contrário, é enfrentar a realidade com clareza.",
-        "reflection": "Você confunde presença com evitar a vida?"
+        "title": "Julgar é inevitável",
+        "text": "Notar o julgamento sem se prender a ele é a prática.",
+        "reflection": "Você se funde com julgamentos em vez de observá-los?"
       },
       {
         "type": "truth",
@@ -45660,9 +45898,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Começar é difícil demais",
-        "text": "Kabat-Zinn torna o início trivialmente simples e gentil.",
-        "reflection": "Você complica o começo que poderia ser simples?"
+        "title": "Mindfulness é escapismo",
+        "text": "Pelo contrário, é enfrentar a realidade com clareza.",
+        "reflection": "Você confunde presença com evitar a vida?"
       },
       {
         "type": "truth",
@@ -45672,9 +45910,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Começar é difícil demais",
+        "text": "Kabat-Zinn torna o início trivialmente simples e gentil.",
+        "reflection": "Você complica o começo que poderia ser simples?"
+      },
+      {
+        "type": "truth",
+        "title": "Mindfulness é contato com o corpo e a respiração",
+        "text": "Kabat-Zinn define a prática como prestar atenção de propósito, sem julgar, ao momento.",
+        "reflection": "Você percebe suas sensações ou só suas preocupações?"
+      },
+      {
+        "type": "myth",
         "title": "Resultado rápido é necessário",
         "text": "Mindfulness amadurece com prática contínua, não golpe.",
         "reflection": "Você abandona por não ver efeito imediato?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Onde Você Está? Mindfulness para o Dia a Dia resiste ao senso comum",
+        "text": "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn sustenta que jon kabat-zinn, criador da redução de estresse baseada em mindfulness (mbsr), escreve 'onde você está?' para trazer a meditação da cabana para a vida cotidiana — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Jon Kabat-Zinn, criador da Redução de Estresse Baseada em Mindfulness (MBSR), escreve 'Onde Você Está?' para trazer a meditação da cabana para a vida cotidiana. A tese é que o mindfulness — atenção deliberada, no momento presente, sem julgamento — não exige retiro nem religião; pode ser praticado lavando a louça, caminhando ou respirando. Kabat-Zinn combate a autopilotagem que faz a vida passar sem ser vivida e propõe pequenos gestos de presença. O gancho é gentil e acessível: você não precisa mudar de vida, só de relação com ela. O livro é uma coleção de ensaios curtos que convidam à prática informal, ideal para iniciantes que acham meditação complicada. É ponte entre ciência do estresse e sabedoria contemplativa. Escrito em ensaios curtos, o livro descomplica a meditação e a torna viável para quem tem uma vida agitada. Kabat-Zinn mostra que a atenção plena mora no lavar da louça tanto quanto no retiro silencioso.",
@@ -45695,33 +45951,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A meditação não é parar de pensar, mas notar o pensamento sem se perder nele.",
         "autor": "Jon Kabat-Zinn",
         "obra": "Wherever You Go, There You Are"
-      },
-      {
-        "texto": "Lavar a louça pode ser um ato de plenitude tanto quanto sentar em silêncio.",
-        "autor": "Jon Kabat-Zinn",
-        "obra": "Wherever You Go, There You Are"
-      },
-      {
-        "texto": "A atenção plena é a única porta para a vida que está acontecendo agora.",
-        "autor": "Jon Kabat-Zinn",
-        "obra": "Wherever You Go, There You Are"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "A porta de entrada perfeita para quem acha meditação difícil.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Ensaios curtos que leio um por dia; calma imediata.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "Gostei de ver mindfulness sem misticismo obrigatório.",
-        "autor": "Leitor",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -45737,9 +45978,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a presença informal",
         "text": "Use atividades comuns — louça, caminhada — como momento de atenção.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Pratique a presença informal\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: Use atividades comuns — louça, caminhada — como momento de atenção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a presença informal\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Pratique a presença informal\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use atividades comuns — louça, caminhada — como momento de atenção — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Pratique a presença informal\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45747,9 +45988,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Saia do piloto automático",
         "text": "Notar que está no automático já é o primeiro passo de volta.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Saia do piloto automático\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: Notar que está no automático já é o primeiro passo de volta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Saia do piloto automático\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Saia do piloto automático\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Notar que está no automático já é o primeiro passo de volta — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Saia do piloto automático\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45757,9 +45998,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ancore no corpo",
         "text": "Sentir o corpo traz a mente de volta ao presente.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Ancore no corpo\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: Sentir o corpo traz a mente de volta ao presente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ancore no corpo\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Ancore no corpo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sentir o corpo traz a mente de volta ao presente — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Ancore no corpo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45767,9 +46008,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a respiração",
         "text": "A respiração é âncora portátil disponível a qualquer hora.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Use a respiração\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: A respiração é âncora portátil disponível a qualquer hora — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a respiração\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Use a respiração\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A respiração é âncora portátil disponível a qualquer hora — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Use a respiração\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45777,9 +46018,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Observe sem julgar",
         "text": "Notar pensamentos e sensações sem rotulá-los libera tensão.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Observe sem julgar\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: Notar pensamentos e sensações sem rotulá-los libera tensão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Observe sem julgar\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Observe sem julgar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Notar pensamentos e sensações sem rotulá-los libera tensão — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Observe sem julgar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45787,9 +46028,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o que é",
         "text": "Acolher a experiência como é reduz a luta interna.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Aceite o que é\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: Acolher a experiência como é reduz a luta interna — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o que é\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Aceite o que é\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acolher a experiência como é reduz a luta interna — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Aceite o que é\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45797,9 +46038,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece pequeno",
         "text": "Poucos minutos já treinam o músculo da atenção.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Comece pequeno\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: Poucos minutos já treinam o músculo da atenção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece pequeno\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Comece pequeno\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Poucos minutos já treinam o músculo da atenção — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Comece pequeno\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45807,9 +46048,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Traga gentileza",
         "text": "Tratar-se com bondade sustenta a prática sem culpa.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Traga gentileza\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: Tratar-se com bondade sustenta a prática sem culpa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Traga gentileza\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Traga gentileza\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tratar-se com bondade sustenta a prática sem culpa — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Traga gentileza\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45817,9 +46058,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Encontre o profundo no trivial",
         "text": "O sagrado habita o detalhe quando se presta atenção.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Encontre o profundo no trivial\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: O sagrado habita o detalhe quando se presta atenção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Encontre o profundo no trivial\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Encontre o profundo no trivial\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O sagrado habita o detalhe quando se presta atenção — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Encontre o profundo no trivial\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45827,9 +46068,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Persista sem pressa",
         "text": "Mindfulness amadurece com continuidade, não intensidade.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Persista sem pressa\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: Mindfulness amadurece com continuidade, não intensidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Persista sem pressa\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Persista sem pressa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mindfulness amadurece com continuidade, não intensidade — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Persista sem pressa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -45837,9 +46078,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Enfrente, não fuja",
         "text": "Presença é clareza diante da realidade, não fuga.",
         "explicacoes": [
-          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn trata \"Enfrente, não fuja\" como peça-chave para a cura pela mente e o poder da crença.",
-          "Na prática: Presença é clareza diante da realidade, não fuga — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Enfrente, não fuja\" aplica a cura pela mente e o poder da crença de forma concreta, não apenas como conceito."
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"Enfrente, não fuja\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Presença é clareza diante da realidade, não fuga — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"Enfrente, não fuja\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "A respiração é a âncora portátil",
+        "text": "Kabat-Zinn ensina usar a inspiração como retorno ao momento em qualquer lugar.",
+        "explicacoes": [
+          "Em \"Onde Você Está? Mindfulness para o Dia a Dia\", Jon Kabat-Zinn coloca \"A respiração é a âncora portátil\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Kabat-Zinn ensina usar a inspiração como retorno ao momento em qualquer lugar — traduzido para a prática, é o passo concreto que liga a teoria de Jon Kabat-Zinn ao comportamento diário.",
+          "Ignorar \"A respiração é a âncora portátil\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -45873,6 +46124,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Kabat-Zinn abre convidando a sair do piloto automático.",
             "f": "Na visão de Jon Kabat-Zinn, \"autopiloto\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
             "real": false
+          },
+          {
+            "t": "Acordar",
+            "e": "Kabat-Zinn abre convidando a sair do piloto automático.",
+            "f": "Na visão de Jon Kabat-Zinn, acordar é o ponto central deste capítulo de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
           }
         ]
       },
@@ -45890,6 +46147,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Sem julgar",
             "e": "Atenção no agora sem julgamento, definida com simplicidade.",
             "f": "Na visão de Jon Kabat-Zinn, \"sem julgar\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "O que é mindfulness",
+            "e": "Atenção no agora sem julgamento, definida com simplicidade.",
+            "f": "Na visão de Jon Kabat-Zinn, o que é mindfulness é o ponto central deste capítulo de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
             "real": false
           }
         ]
@@ -45909,6 +46172,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O corpo como âncora da atenção.",
             "f": "Na visão de Jon Kabat-Zinn, \"sensação\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
             "real": false
+          },
+          {
+            "t": "O corpo",
+            "e": "O corpo como âncora da atenção.",
+            "f": "Na visão de Jon Kabat-Zinn, o corpo é o ponto central deste capítulo de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
           }
         ]
       },
@@ -45926,6 +46195,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Calma",
             "e": "A respiração como prática portátil.",
             "f": "Na visão de Jon Kabat-Zinn, \"calma\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "A respiração",
+            "e": "A respiração como prática portátil.",
+            "f": "Na visão de Jon Kabat-Zinn, a respiração é o ponto central deste capítulo de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
             "real": false
           }
         ]
@@ -45945,6 +46220,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Observar experiências sem rotulá-las.",
             "f": "Na visão de Jon Kabat-Zinn, \"clareza\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
             "real": false
+          },
+          {
+            "t": "Sem julgamento",
+            "e": "Observar experiências sem rotulá-las.",
+            "f": "Na visão de Jon Kabat-Zinn, sem julgamento é o ponto central deste capítulo de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
           }
         ]
       },
@@ -45962,6 +46243,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Profundidade",
             "e": "Mindfulness na louça, caminhada e rotina.",
             "f": "Na visão de Jon Kabat-Zinn, \"profundidade\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Práticas informais",
+            "e": "Mindfulness na louça, caminhada e rotina.",
+            "f": "Na visão de Jon Kabat-Zinn, práticas informais é o ponto central deste capítulo de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
             "real": false
           }
         ]
@@ -45981,6 +46268,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A bondade consigo sustenta a prática.",
             "f": "Na visão de Jon Kabat-Zinn, \"persistência\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
             "real": false
+          },
+          {
+            "t": "Gentileza",
+            "e": "A bondade consigo sustenta a prática.",
+            "f": "Na visão de Jon Kabat-Zinn, gentileza é o ponto central deste capítulo de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
           }
         ]
       },
@@ -45999,6 +46292,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O presente como única porta da vida.",
             "f": "Na visão de Jon Kabat-Zinn, \"vida\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
             "real": false
+          },
+          {
+            "t": "O agora",
+            "e": "O presente como única porta da vida.",
+            "f": "Na visão de Jon Kabat-Zinn, o agora é o ponto central deste capítulo de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
           }
         ]
       },
@@ -46016,6 +46315,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Trabalho",
             "e": "Levar presença para relações e trabalho.",
             "f": "Na visão de Jon Kabat-Zinn, \"trabalho\" é parte essencial da proposta de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
+            "real": false
+          },
+          {
+            "t": "Integrar",
+            "e": "Levar presença para relações e trabalho.",
+            "f": "Na visão de Jon Kabat-Zinn, integrar é o ponto central deste capítulo de \"Onde Você Está? Mindfulness para o Dia a Dia\".",
             "real": false
           }
         ]
@@ -46039,12 +46344,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "dinheiro",
     "myths": [
       {
-        "type": "myth",
-        "title": "Dá para vencer o mercado facilmente",
-        "text": "Bogle mostra que, líquido de custos, a maioria perde para o índice.",
-        "reflection": "Você acha que pode bater o mercado ano após ano?"
-      },
-      {
         "type": "truth",
         "title": "Custo é o que você controla",
         "text": "Taxas e impostos são certos; reduzi-los eleva o retorno real.",
@@ -46052,9 +46351,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Fundos ativos valem a taxa",
-        "text": "Estudos mostram que raramente justificam o prêmio de gestão.",
-        "reflection": "Você paga taxa alta esperando que ela 'compensa'?"
+        "title": "Dá para vencer o mercado facilmente",
+        "text": "Bogle mostra que, líquido de custos, a maioria perde para o índice.",
+        "reflection": "Você acha que pode bater o mercado ano após ano?"
       },
       {
         "type": "truth",
@@ -46064,9 +46363,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Timing de mercado funciona",
-        "text": "Entrar e sair na hora certa raramente supera ficar investido.",
-        "reflection": "Você tenta adivinhar o momento e perde o rumo?"
+        "title": "Fundos ativos valem a taxa",
+        "text": "Estudos mostram que raramente justificam o prêmio de gestão.",
+        "reflection": "Você paga taxa alta esperando que ela 'compensa'?"
       },
       {
         "type": "truth",
@@ -46076,9 +46375,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Retorno passado prevê futuro",
-        "text": "Bogle alerta que o histórico não garante o que vem.",
-        "reflection": "Você compra fundo só pelo desempenho passado?"
+        "title": "Timing de mercado funciona",
+        "text": "Entrar e sair na hora certa raramente supera ficar investido.",
+        "reflection": "Você tenta adivinhar o momento e perde o rumo?"
       },
       {
         "type": "truth",
@@ -46088,9 +46387,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "O gerente é seu aliado",
-        "text": "Muitos interesses conflitam com o do investidor; cuidado.",
-        "reflection": "Você confia cegamente no vendedor de produto?"
+        "title": "Retorno passado prevê futuro",
+        "text": "Bogle alerta que o histórico não garante o que vem.",
+        "reflection": "Você compra fundo só pelo desempenho passado?"
       },
       {
         "type": "truth",
@@ -46100,9 +46399,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Investir bem exige muito estudo",
-        "text": "O senso comum é o bastante: índice, baixo custo, paciência.",
-        "reflection": "Você acha que precisa virar especialista?"
+        "title": "O gerente é seu aliado",
+        "text": "Muitos interesses conflitam com o do investidor; cuidado.",
+        "reflection": "Você confia cegamente no vendedor de produto?"
       },
       {
         "type": "truth",
@@ -46112,9 +46411,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Investir bem exige muito estudo",
+        "text": "O senso comum é o bastante: índice, baixo custo, paciência.",
+        "reflection": "Você acha que precisa virar especialista?"
+      },
+      {
+        "type": "truth",
+        "title": "Senso comum vence astúcia de Wall Street",
+        "text": "Bogle defende o índice de baixo custo e o longo prazo contra o mercado que tenta vencê-lo.",
+        "reflection": "Você paga caro para ser mediocre ou barato para ser consistente?"
+      },
+      {
+        "type": "myth",
         "title": "Risco alto garante retorno",
         "text": "Risco não é garantia; custo e tempo pesam mais.",
         "reflection": "Você troca tranquilidade por promessa de mais retorno?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Pequeno Livro do Senso Comum resiste ao senso comum",
+        "text": "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle sustenta que john bogle, fundador da vanguard, escreve 'o pequeno livro do senso comum' para devolver o investidor ao terreno sólido — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "John Bogle, fundador da Vanguard, escreve 'O Pequeno Livro do Senso Comum' para devolver o investidor ao terreno sólido. A tese é contundente: para a imensa maioria, o melhor é comprar o mercado inteiro via fundos indexados de baixo custo e segurar por décadas, porque tentar superar o mercado custa caro em taxas e raramente funciona. Bogle separa o que o investidor pode controlar (custos, tempo no mercado, diversificação) do que não pode (retorno futuro, timing). Ele demonstra com matemática que, em média, o investidor ativo entrega menos que o índice por causa das taxas e do giro. O gancho é humilde e libertador: vencer o mercado é inatingível para a maioria; casar com ele é o caminho. Livro de investimento para o cidadão comum. Com matemática irrefutável, Bogle explica por que custos e tempo no mercado vencem tentativas de superar o índice. O livro é o manifesto do investidor comum contra a indústria que lucra com sua complexidade.",
@@ -46135,33 +46452,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O tempo no mercado vence o timing de mercado.",
         "autor": "John C. Bogle",
         "obra": "The Little Book of Common Sense Investing"
-      },
-      {
-        "texto": "Fundos ativos, em média, entregam menos que o índice por causa das taxas.",
-        "autor": "John C. Bogle",
-        "obra": "The Little Book of Common Sense Investing"
-      },
-      {
-        "texto": "O senso comum é o investidor mais poderoso que existe.",
-        "autor": "John C. Bogle",
-        "obra": "The Little Book of Common Sense Investing"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que me fez trocar fundos ativos por indexados; economizei fortunas em taxa.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Matemática simples e irrefutável; leitura obrigatória antes de investir.",
-        "autor": "Investidor iniciante",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Bogle escreve para o cidadão comum, não para Wall Street.",
         "autor": "Leitor",
-        "fonte": "Amazon"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -46177,9 +46479,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Compre o mercado",
         "text": "Fundos indexados de baixo custo entregam o retorno do mercado como um todo.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Compre o mercado\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Fundos indexados de baixo custo entregam o retorno do mercado como um todo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Compre o mercado\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Compre o mercado\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Fundos indexados de baixo custo entregam o retorno do mercado como um todo — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Compre o mercado\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46187,9 +46489,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Minimize custos",
         "text": "Taxas e impostos são certos; reduzi-los é a alavanca que você controla.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Minimize custos\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Taxas e impostos são certos; reduzi-los é a alavanca que você controla — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Minimize custos\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Minimize custos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Taxas e impostos são certos; reduzi-los é a alavanca que você controla — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Minimize custos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46197,9 +46499,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diversifique amplamente",
         "text": "Ter o índice inteiro elimina o risco de escolha individual errada.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Diversifique amplamente\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Ter o índice inteiro elimina o risco de escolha individual errada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diversifique amplamente\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Diversifique amplamente\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ter o índice inteiro elimina o risco de escolha individual errada — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Diversifique amplamente\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46207,9 +46509,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fique investido",
         "text": "Tempo no mercado supera tentativas de acertar o momento.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Fique investido\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Tempo no mercado supera tentativas de acertar o momento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fique investido\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Fique investido\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tempo no mercado supera tentativas de acertar o momento — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Fique investido\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46217,9 +46519,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite fundos ativos caros",
         "text": "O prêmio de gestão raramente se paga no longo prazo.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Evite fundos ativos caros\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: O prêmio de gestão raramente se paga no longo prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite fundos ativos caros\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Evite fundos ativos caros\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O prêmio de gestão raramente se paga no longo prazo — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Evite fundos ativos caros\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46227,9 +46529,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reinvista dividendos",
         "text": "Juros compostos sobre proventos aceleram o patrimônio.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Reinvista dividendos\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Juros compostos sobre proventos aceleram o patrimônio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reinvista dividendos\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Reinvista dividendos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Juros compostos sobre proventos aceleram o patrimônio — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Reinvista dividendos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46237,9 +46539,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ignora o ruído",
         "text": "Notícias diárias não mudam a estratégia de longo prazo.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Ignora o ruído\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Notícias diárias não mudam a estratégia de longo prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ignora o ruído\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Ignora o ruído\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Notícias diárias não mudam a estratégia de longo prazo — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Ignora o ruído\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46247,9 +46549,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tenha paciência",
         "text": "Décadas de permanência colhem o crescimento real.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Tenha paciência\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Décadas de permanência colhem o crescimento real — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Tenha paciência\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Tenha paciência\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Décadas de permanência colhem o crescimento real — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Tenha paciência\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46257,9 +46559,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuidado com conflitos",
         "text": "Vendedores podem ter interesse oposto ao seu; leia o custo.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Cuidado com conflitos\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Vendedores podem ter interesse oposto ao seu; leia o custo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuidado com conflitos\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Cuidado com conflitos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vendedores podem ter interesse oposto ao seu; leia o custo — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Cuidado com conflitos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46267,9 +46569,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Simplicidade vence",
         "text": "Estratégia simples supera táticas sofisticadas para a maioria.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Simplicidade vence\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Estratégia simples supera táticas sofisticadas para a maioria — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Simplicidade vence\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Simplicidade vence\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estratégia simples supera táticas sofisticadas para a maioria — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Simplicidade vence\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46277,9 +46579,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o retorno médio",
         "text": "Casar com o mercado entrega o que a maioria persegue em vão.",
         "explicacoes": [
-          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle trata \"Aceite o retorno médio\" como peça-chave em torno de investir no longo prazo com custos baixos (indexação).",
-          "Na prática: Casar com o mercado entrega o que a maioria persegue em vão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o retorno médio\" aplica investir no longo prazo com custos baixos (indexação) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Aceite o retorno médio\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Casar com o mercado entrega o que a maioria persegue em vão — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Aceite o retorno médio\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Custo baixo é vantagem garantida",
+        "text": "Bogle reforça que menos taxas significam mais retorno composto a longo prazo.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro do Senso Comum\", John C. Bogle coloca \"Custo baixo é vantagem garantida\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Bogle reforça que menos taxas significam mais retorno composto a longo prazo — traduzido para a prática, é o passo concreto que liga a teoria de John C. Bogle ao comportamento diário.",
+          "Ignorar \"Custo baixo é vantagem garantida\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -46313,6 +46625,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Bogle apresenta o caso dos fundos indexados de baixo custo.",
             "f": "No investimento, o que você controla é o custo; o resto é esperança.",
             "real": true
+          },
+          {
+            "t": "A tese central",
+            "e": "Bogle apresenta o caso dos fundos indexados de baixo custo.",
+            "f": "Na visão de John C. Bogle, a tese central é o ponto central deste capítulo de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
           }
         ]
       },
@@ -46330,6 +46648,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Incerteza",
             "e": "Custo, tempo e diversificação como alavancas reais.",
             "f": "Na visão de John C. Bogle, \"incerteza\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          },
+          {
+            "t": "O que você controla",
+            "e": "Custo, tempo e diversificação como alavancas reais.",
+            "f": "Na visão de John C. Bogle, o que você controla é o ponto central deste capítulo de \"O Pequeno Livro do Senso Comum\".",
             "real": false
           }
         ]
@@ -46349,6 +46673,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como taxas corroem o retorno ao longo do tempo.",
             "f": "Na visão de John C. Bogle, \"erosão\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
             "real": false
+          },
+          {
+            "t": "A matemática dos custos",
+            "e": "Como taxas corroem o retorno ao longo do tempo.",
+            "f": "Na visão de John C. Bogle, a matemática dos custos é o ponto central deste capítulo de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
           }
         ]
       },
@@ -46366,6 +46696,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Prêmio",
             "e": "Por que ativos raramente vencem líquido de custos.",
             "f": "Na visão de John C. Bogle, \"prêmio\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          },
+          {
+            "t": "Fundos ativos vs índice",
+            "e": "Por que ativos raramente vencem líquido de custos.",
+            "f": "Na visão de John C. Bogle, fundos ativos vs índice é o ponto central deste capítulo de \"O Pequeno Livro do Senso Comum\".",
             "real": false
           }
         ]
@@ -46385,6 +46721,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Ter o mercado inteiro para eliminar risco de escolha.",
             "f": "Na visão de John C. Bogle, \"risco\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
             "real": false
+          },
+          {
+            "t": "Diversificação",
+            "e": "Ter o mercado inteiro para eliminar risco de escolha.",
+            "f": "Na visão de John C. Bogle, diversificação é o ponto central deste capítulo de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
           }
         ]
       },
@@ -46403,6 +46745,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Permanência vs tentativa de timing.",
             "f": "Não tente vencer o mercado; junte-se a ele.",
             "real": true
+          },
+          {
+            "t": "Tempo no mercado",
+            "e": "Permanência vs tentativa de timing.",
+            "f": "Na visão de John C. Bogle, tempo no mercado é o ponto central deste capítulo de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
           }
         ]
       },
@@ -46420,6 +46768,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Cuidado",
             "e": "Histórico não garante futuro.",
             "f": "Na visão de John C. Bogle, \"cuidado\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          },
+          {
+            "t": "O mito do retorno passado",
+            "e": "Histórico não garante futuro.",
+            "f": "Na visão de John C. Bogle, o mito do retorno passado é o ponto central deste capítulo de \"O Pequeno Livro do Senso Comum\".",
             "real": false
           }
         ]
@@ -46439,6 +46793,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Estratégia simples supera complexidade para maioria.",
             "f": "Na visão de John C. Bogle, \"eficaz\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
             "real": false
+          },
+          {
+            "t": "Simplicidade",
+            "e": "Estratégia simples supera complexidade para maioria.",
+            "f": "Na visão de John C. Bogle, simplicidade é o ponto central deste capítulo de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
           }
         ]
       },
@@ -46456,6 +46816,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Disciplina",
             "e": "Como montar carteira de senso comum e seguir.",
             "f": "Na visão de John C. Bogle, \"disciplina\" é parte essencial da proposta de \"O Pequeno Livro do Senso Comum\".",
+            "real": false
+          },
+          {
+            "t": "O plano do cidadão",
+            "e": "Como montar carteira de senso comum e seguir.",
+            "f": "Na visão de John C. Bogle, o plano do cidadão é o ponto central deste capítulo de \"O Pequeno Livro do Senso Comum\".",
             "real": false
           }
         ]
@@ -46479,12 +46845,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "dinheiro",
     "myths": [
       {
-        "type": "myth",
-        "title": "Subir de preço é ganhar",
-        "text": "Graham separa flutuação de valor; preço alto pode ser armadilha.",
-        "reflection": "Você confunde alta de preço com segurança de investimento?"
-      },
-      {
         "type": "truth",
         "title": "Sr. Mercado é volátil e irracional",
         "text": "O mercado oferece preços, não verdades; você decide se aceita.",
@@ -46492,9 +46852,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Investir é especular",
-        "text": "Graham define investimento como análise com margem de segurança, não aposta.",
-        "reflection": "Você especula achando que está investindo?"
+        "title": "Subir de preço é ganhar",
+        "text": "Graham separa flutuação de valor; preço alto pode ser armadilha.",
+        "reflection": "Você confunde alta de preço com segurança de investimento?"
       },
       {
         "type": "truth",
@@ -46504,9 +46864,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Seguir a multidão é seguro",
-        "text": "A massa frequentemente erra no pânico e na euforia.",
-        "reflection": "Você compra o que está na moda por medo de ficar fora?"
+        "title": "Investir é especular",
+        "text": "Graham define investimento como análise com margem de segurança, não aposta.",
+        "reflection": "Você especula achando que está investindo?"
       },
       {
         "type": "truth",
@@ -46516,9 +46876,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Diversificar é para medrosos",
-        "text": "Diversificação é proteção prudente do investidor defensivo.",
-        "reflection": "Você confunde concentração com coragem?"
+        "title": "Seguir a multidão é seguro",
+        "text": "A massa frequentemente erra no pânico e na euforia.",
+        "reflection": "Você compra o que está na moda por medo de ficar fora?"
       },
       {
         "type": "truth",
@@ -46528,9 +46888,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Guru sempre acerta",
-        "text": "Graham desconfia de quem promete; foco é processo, não profeta.",
-        "reflection": "Você segue 'dica' em vez de critério próprio?"
+        "title": "Diversificar é para medrosos",
+        "text": "Diversificação é proteção prudente do investidor defensivo.",
+        "reflection": "Você confunde concentração com coragem?"
       },
       {
         "type": "truth",
@@ -46540,9 +46900,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Preço reflete valor",
-        "text": "O mercado frequentemente distorce; valor exige cálculo próprio.",
-        "reflection": "Você aceita o preço como se fosse o valor?"
+        "title": "Guru sempre acerta",
+        "text": "Graham desconfia de quem promete; foco é processo, não profeta.",
+        "reflection": "Você segue 'dica' em vez de critério próprio?"
       },
       {
         "type": "truth",
@@ -46552,9 +46912,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Preço reflete valor",
+        "text": "O mercado frequentemente distorce; valor exige cálculo próprio.",
+        "reflection": "Você aceita o preço como se fosse o valor?"
+      },
+      {
+        "type": "truth",
+        "title": "Margem de segurança protege contra o erro humano",
+        "text": "Graham funda o value investing: comprar abaixo do valor real e ignorar o barulho do mercado.",
+        "reflection": "Você compra preço ou compra valor?"
+      },
+      {
+        "type": "myth",
         "title": "Rentabilidade passada garante",
         "text": "Graham avisa que resultados passados não asseguram futuro.",
         "reflection": "Você compra só pelo que subiu?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Investidor Inteligente resiste ao senso comum",
+        "text": "Em \"O Investidor Inteligente\", Benjamin Graham sustenta que 'o investidor inteligente', de benjamin graham, é o texto fundador do investimento em valor, chamado por buffett de 'o melhor livro de investimento já escrito' — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "'O Investidor Inteligente', de Benjamin Graham, é o texto fundador do investimento em valor, chamado por Buffett de 'o melhor livro de investimento já escrito'. A tese central separa investimento de especulação e introduz dois conceitos duradouros: o Sr. Mercado, uma personificação do mercado como parceiro volútil e irracional, e a margem de segurança, a diferença entre preço e valor intrínseco que protege contra erro e azar. Graham divide o leitor em 'investidor defensivo' (foco em segurança e simplicidade) e 'investidor entusiasta' (disposto a pesquisar). Ele adverte contra seguir a multidão e prevê lucro no longo prazo com disciplina e análise. O gancho é sóbrio: o mercado serve a quem mantém calma e racionalidade quando os outros perdem a cabeça. Com exemplos históricos e o célebre Sr. Mercado, Graham ergue princípios que resistiram a décadas de mercados. Sua disciplina racional continua sendo o alicerce do investimento em valor praticado até hoje.",
@@ -46575,33 +46953,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Investimento é a operação que, após análise, promete segurança de principal e retorno adequado.",
         "autor": "Benjamin Graham",
         "obra": "O Investidor Inteligente"
-      },
-      {
-        "texto": "No curto prazo, o mercado é uma máquina de votação; no longo, é de pesagem.",
-        "autor": "Benjamin Graham",
-        "obra": "O Investidor Inteligente"
-      },
-      {
-        "texto": "O investidor que não consegue suportar uma queda de 50% não deveria estar em ações.",
-        "autor": "Benjamin Graham",
-        "obra": "O Investidor Inteligente"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Buffett diz que é o melhor livro de investimento; concordo após ler.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "O Sr. Mercado é conceito que uso até hoje para não surtar.",
-        "autor": "Investidor",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Denso mas fundamenta toda estratégia de valor que tenho.",
         "autor": "Leitor",
-        "fonte": "Amazon"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -46617,9 +46980,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Separe investir de especular",
         "text": "Investimento exige análise e margem; especulação é aposta.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Separe investir de especular\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Investimento exige análise e margem; especulação é aposta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Separe investir de especular\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Separe investir de especular\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Investimento exige análise e margem; especulação é aposta — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Separe investir de especular\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46627,9 +46990,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a margem de segurança",
         "text": "Compre bem abaixo do valor intrínseco para proteger contra erro.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Use a margem de segurança\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Compre bem abaixo do valor intrínseco para proteger contra erro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a margem de segurança\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Use a margem de segurança\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Compre bem abaixo do valor intrínseco para proteger contra erro — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Use a margem de segurança\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46637,9 +47000,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trate o Sr. Mercado como servo",
         "text": "Aceite seus preços apenas quando favoráveis, ignore o resto.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Trate o Sr. Mercado como servo\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Aceite seus preços apenas quando favoráveis, ignore o resto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trate o Sr. Mercado como servo\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Trate o Sr. Mercado como servo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aceite seus preços apenas quando favoráveis, ignore o resto — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Trate o Sr. Mercado como servo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46647,9 +47010,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conheça seu perfil",
         "text": "Defensivo foca em segurança; entusiasta pesquisa ativamente.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Conheça seu perfil\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Defensivo foca em segurança; entusiasta pesquisa ativamente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conheça seu perfil\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Conheça seu perfil\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defensivo foca em segurança; entusiasta pesquisa ativamente — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Conheça seu perfil\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46657,9 +47020,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diversifique com princípio",
         "text": "Proteção prudente, não medo, justifica diversificação.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Diversifique com princípio\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Proteção prudente, não medo, justifica diversificação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diversifique com princípio\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Diversifique com princípio\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Proteção prudente, não medo, justifica diversificação — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Diversifique com princípio\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46667,9 +47030,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estude o balanço",
         "text": "Análise fundamentos antes de confiar no preço de tela.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Estude o balanço\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Análise fundamentos antes de confiar no preço de tela — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estude o balanço\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Estude o balanço\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Análise fundamentos antes de confiar no preço de tela — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Estude o balanço\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46677,9 +47040,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha o longo prazo",
         "text": "Horizonte amplo revela valor e suaviza volatilidade.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Mantenha o longo prazo\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Horizonte amplo revela valor e suaviza volatilidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha o longo prazo\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Mantenha o longo prazo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Horizonte amplo revela valor e suaviza volatilidade — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Mantenha o longo prazo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46687,9 +47050,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desconfie da multidão",
         "text": "Euforia e pânico coletivos são más referências.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Desconfie da multidão\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Euforia e pânico coletivos são más referências — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desconfie da multidão\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Desconfie da multidão\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Euforia e pânico coletivos são más referências — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Desconfie da multidão\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46697,9 +47060,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tenha disciplina emocional",
         "text": "Não reaja ao humor do mercado; siga o critério.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Tenha disciplina emocional\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Não reaja ao humor do mercado; siga o critério — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Tenha disciplina emocional\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Tenha disciplina emocional\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não reaja ao humor do mercado; siga o critério — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Tenha disciplina emocional\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46707,9 +47070,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite promessas de guru",
         "text": "Foque em processo repetível, não em profecias.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Evite promessas de guru\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Foque em processo repetível, não em profecias — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite promessas de guru\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Evite promessas de guru\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foque em processo repetível, não em profecias — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Evite promessas de guru\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -46717,9 +47080,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Calcule o valor intrínseco",
         "text": "Preço é oferta; valor exige cálculo próprio e paciência.",
         "explicacoes": [
-          "Em \"O Investidor Inteligente\", Benjamin Graham trata \"Calcule o valor intrínseco\" como peça-chave para a análise fundamental e a margem de segurança.",
-          "Na prática: Preço é oferta; valor exige cálculo próprio e paciência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Calcule o valor intrínseco\" aplica a análise fundamental e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"Calcule o valor intrínseco\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Preço é oferta; valor exige cálculo próprio e paciência — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"Calcule o valor intrínseco\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "O mercado é servo, não mestre",
+        "text": "Graham lembra que a cotação serve para comprar barato, não para ditar valor.",
+        "explicacoes": [
+          "Em \"O Investidor Inteligente\", Benjamin Graham coloca \"O mercado é servo, não mestre\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Graham lembra que a cotação serve para comprar barato, não para ditar valor — traduzido para a prática, é o passo concreto que liga a teoria de Benjamin Graham ao comportamento diário.",
+          "Ignorar \"O mercado é servo, não mestre\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -46753,6 +47126,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Graham define as fronteiras e alerta contra confusão.",
             "f": "Na visão de Benjamin Graham, \"risco\" é parte essencial da proposta de \"O Investidor Inteligente\".",
             "real": false
+          },
+          {
+            "t": "Investimento vs especulação",
+            "e": "Graham define as fronteiras e alerta contra confusão.",
+            "f": "Na visão de Benjamin Graham, investimento vs especulação é o ponto central deste capítulo de \"O Investidor Inteligente\".",
+            "real": false
           }
         ]
       },
@@ -46771,6 +47150,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A personificação do mercado volátil e irracional.",
             "f": "No curto prazo, o mercado é uma máquina de votação; no longo, é de pesagem.",
             "real": true
+          },
+          {
+            "t": "O Sr. Mercado",
+            "e": "A personificação do mercado volátil e irracional.",
+            "f": "Na visão de Benjamin Graham, o Sr. Mercado é o ponto central deste capítulo de \"O Investidor Inteligente\".",
+            "real": false
           }
         ]
       },
@@ -46789,6 +47174,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O princípio que protege contra erro e azar.",
             "f": "Investimento é a operação que, após análise, promete segurança de principal e retorno adequado.",
             "real": true
+          },
+          {
+            "t": "A margem de segurança",
+            "e": "O princípio que protege contra erro e azar.",
+            "f": "Na visão de Benjamin Graham, a margem de segurança é o ponto central deste capítulo de \"O Investidor Inteligente\".",
+            "real": false
           }
         ]
       },
@@ -46807,6 +47198,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Estratégia de simplicidade e segurança.",
             "f": "A margem de segurança é o princípio central que transforma incerteza em proteção.",
             "real": true
+          },
+          {
+            "t": "O investidor defensivo",
+            "e": "Estratégia de simplicidade e segurança.",
+            "f": "Na visão de Benjamin Graham, o investidor defensivo é o ponto central deste capítulo de \"O Investidor Inteligente\".",
+            "real": false
           }
         ]
       },
@@ -46824,6 +47221,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Critério",
             "e": "Pesquisa ativa com critério e disciplina.",
             "f": "Na visão de Benjamin Graham, \"critério\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          },
+          {
+            "t": "O investidor entusiasta",
+            "e": "Pesquisa ativa com critério e disciplina.",
+            "f": "Na visão de Benjamin Graham, o investidor entusiasta é o ponto central deste capítulo de \"O Investidor Inteligente\".",
             "real": false
           }
         ]
@@ -46843,6 +47246,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como ler fundamentos com sobriedade.",
             "f": "Na visão de Benjamin Graham, \"balanço\" é parte essencial da proposta de \"O Investidor Inteligente\".",
             "real": false
+          },
+          {
+            "t": "Análise de balanço",
+            "e": "Como ler fundamentos com sobriedade.",
+            "f": "Na visão de Benjamin Graham, análise de balanço é o ponto central deste capítulo de \"O Investidor Inteligente\".",
+            "real": false
           }
         ]
       },
@@ -46860,6 +47269,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Princípio",
             "e": "Proteção prudente adequadamente usada.",
             "f": "Na visão de Benjamin Graham, \"princípio\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          },
+          {
+            "t": "Diversificação",
+            "e": "Proteção prudente adequadamente usada.",
+            "f": "Na visão de Benjamin Graham, diversificação é o ponto central deste capítulo de \"O Investidor Inteligente\".",
             "real": false
           }
         ]
@@ -46879,6 +47294,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Por que o horizonte amplo favorece o racional.",
             "f": "Na visão de Benjamin Graham, \"valor\" é parte essencial da proposta de \"O Investidor Inteligente\".",
             "real": false
+          },
+          {
+            "t": "Longo prazo",
+            "e": "Por que o horizonte amplo favorece o racional.",
+            "f": "Na visão de Benjamin Graham, longo prazo é o ponto central deste capítulo de \"O Investidor Inteligente\".",
+            "real": false
           }
         ]
       },
@@ -46896,6 +47317,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Plano",
             "e": "Manter o plano contra a multidão.",
             "f": "Na visão de Benjamin Graham, \"plano\" é parte essencial da proposta de \"O Investidor Inteligente\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina emocional",
+            "e": "Manter o plano contra a multidão.",
+            "f": "Na visão de Benjamin Graham, disciplina emocional é o ponto central deste capítulo de \"O Investidor Inteligente\".",
             "real": false
           }
         ]
@@ -46919,12 +47346,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "dinheiro",
     "myths": [
       {
-        "type": "myth",
-        "title": "Análise técnica prevê preços",
-        "text": "Malkiel mostra que padrões de gráfico não batem o mercado consistentemente.",
-        "reflection": "Você confia em velas e linhas para prever o futuro?"
-      },
-      {
         "type": "truth",
         "title": "Preços refletem informação",
         "text": "Mercado eficiente incorpora notícias rapidamente; vantagem é rara.",
@@ -46932,9 +47353,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Gestor ativo vence sempre",
-        "text": "A maioria perde para o índice líquido de taxas no longo prazo.",
-        "reflection": "Você paga gestor esperando vitória garantida?"
+        "title": "Análise técnica prevê preços",
+        "text": "Malkiel mostra que padrões de gráfico não batem o mercado consistentemente.",
+        "reflection": "Você confia em velas e linhas para prever o futuro?"
       },
       {
         "type": "truth",
@@ -46944,9 +47365,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Dá para cronometrar o mercado",
-        "text": "Acertar entradas e saídas repetidamente é praticamente impossível.",
-        "reflection": "Você tenta adivinhar o topo e o fundo?"
+        "title": "Gestor ativo vence sempre",
+        "text": "A maioria perde para o índice líquido de taxas no longo prazo.",
+        "reflection": "Você paga gestor esperando vitória garantida?"
       },
       {
         "type": "truth",
@@ -46956,9 +47377,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Fundos quentes seguem ganhando",
-        "text": "Bons anos passados não preveem o futuro; reversão é comum.",
-        "reflection": "Você compra fundo só pelo desempenho recente?"
+        "title": "Dá para cronometrar o mercado",
+        "text": "Acertar entradas e saídas repetidamente é praticamente impossível.",
+        "reflection": "Você tenta adivinhar o topo e o fundo?"
       },
       {
         "type": "truth",
@@ -46968,9 +47389,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Dica de insider é caminho",
-        "text": "Malkiel alerta risco legal e de ser o último a saber.",
-        "reflection": "Você cogita 'dica' como estratégia?"
+        "title": "Fundos quentes seguem ganhando",
+        "text": "Bons anos passados não preveem o futuro; reversão é comum.",
+        "reflection": "Você compra fundo só pelo desempenho recente?"
       },
       {
         "type": "truth",
@@ -46980,9 +47401,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mais estudo garante superar",
-        "text": "Mesmo profissionais raramente vencem após custos.",
-        "reflection": "Você acha que estudar bate o índice?"
+        "title": "Dica de insider é caminho",
+        "text": "Malkiel alerta risco legal e de ser o último a saber.",
+        "reflection": "Você cogita 'dica' como estratégia?"
       },
       {
         "type": "truth",
@@ -46992,9 +47413,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Mais estudo garante superar",
+        "text": "Mesmo profissionais raramente vencem após custos.",
+        "reflection": "Você acha que estudar bate o índice?"
+      },
+      {
+        "type": "truth",
+        "title": "O mercado em curto prazo é imprevisível",
+        "text": "Malkiel mostra que 'atirar dardos' vence muitos gestores e defende diversificação barata.",
+        "reflection": "Você tenta acertar o momento ou se protege da própria ignorância?"
+      },
+      {
+        "type": "myth",
         "title": "Random walk é sorte pura",
         "text": "Eficiência não é caos; é reflexo rápido de informação.",
         "reflection": "Você confunde eficiência com falta de lógica?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Um Passo à Frente de Wall Street resiste ao senso comum",
+        "text": "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel sustenta que 'um passo à frente de wall street', de burton malkiel, é a defesa clássica do mercado eficiente e do investimento passivo — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "'Um Passo à Frente de Wall Street', de Burton Malkiel, é a defesa clássica do mercado eficiente e do investimento passivo. A tese: os preços de ações já refletem toda informação pública, de modo que nenhuma análise técnica (gráficos) ou fundamentalista (balanços) supera consistentemente o mercado, uma vez descontados custos. Malkiel batiza o 'random walk' — a ideia de que o próximo passo do preço é imprevisível. Ele demonstra a falha de chartistas e gestores ativos e recomenda fundos indexados e rebalanceamento. O gancho é desmistificador: em vez de tentar adivinhar, aceite a eficiência e diversifique barato. O livro equilibra teoria acadêmica com conselho prático para o pequeno investidor, incluindo capítulos sobre imóveis e comportamento. Misturando teoria acadêmica e conselho prático, Malkiel desmonta chartistas e gestores de fundos quentes. Sua conclusão é humilde: para a maioria, diversificar barato e seguir o índice supera qualquer tentativa de adivinhação. Ao longo das edições, Malkiel manteve a tese central intacta, prova da durabilidade de suas conclusões.",
@@ -47015,33 +47454,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Depois de descontar custos, a maioria dos fundos ativos perde para o índice.",
         "autor": "Burton G. Malkiel",
         "obra": "A Random Walk Down Wall Street"
-      },
-      {
-        "texto": "A análise técnica é como a astrologia: parece funcionar até ser testada.",
-        "autor": "Burton G. Malkiel",
-        "obra": "A Random Walk Down Wall Street"
-      },
-      {
-        "texto": "Diversificar amplamente é a única refeição grátis em investimentos.",
-        "autor": "Burton G. Malkiel",
-        "obra": "A Random Walk Down Wall Street"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que me fez parar de operar e comprar ETF; melhor decisão financeira.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Equilibra academia e prática; leitura essencial para leigo.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "A crítica à análise técnica é irrefutável quando você vê os dados.",
-        "autor": "Investidor",
-        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -47057,9 +47481,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o random walk",
         "text": "O próximo passo do preço é imprevisível; pare de tentar adivinhar.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Aceite o random walk\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: O próximo passo do preço é imprevisível; pare de tentar adivinhar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o random walk\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Aceite o random walk\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O próximo passo do preço é imprevisível; pare de tentar adivinhar — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Aceite o random walk\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47067,9 +47491,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fuja da análise técnica",
         "text": "Gráficos não entregam vantagem consistente após custos.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Fuja da análise técnica\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Gráficos não entregam vantagem consistente após custos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fuja da análise técnica\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Fuja da análise técnica\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Gráficos não entregam vantagem consistente após custos — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Fuja da análise técnica\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47077,9 +47501,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Prefira o índice",
         "text": "Fundos indexados diversificados superam a maioria dos ativos.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Prefira o índice\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Fundos indexados diversificados superam a maioria dos ativos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Prefira o índice\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Prefira o índice\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Fundos indexados diversificados superam a maioria dos ativos — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Prefira o índice\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47087,9 +47511,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza custos",
         "text": "Taxas e giro são inimigos do retorno líquido.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Reduza custos\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Taxas e giro são inimigos do retorno líquido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza custos\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Reduza custos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Taxas e giro são inimigos do retorno líquido — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Reduza custos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47097,9 +47521,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não cronometre",
         "text": "Tempo no mercado bate tentativa de acertar o momento.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Não cronometre\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Tempo no mercado bate tentativa de acertar o momento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não cronometre\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Não cronometre\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tempo no mercado bate tentativa de acertar o momento — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Não cronometre\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47107,9 +47531,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Rebalanceie",
         "text": "Voltar à alocação-alvo força disciplina de comprar barato.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Rebalanceie\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Voltar à alocação-alvo força disciplina de comprar barato — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Rebalanceie\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Rebalanceie\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Voltar à alocação-alvo força disciplina de comprar barato — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Rebalanceie\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47117,9 +47541,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desconfie de fundos quentes",
         "text": "Desempenho passado não garante futuro; evite perseguição.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Desconfie de fundos quentes\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Desempenho passado não garante futuro; evite perseguição — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desconfie de fundos quentes\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Desconfie de fundos quentes\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desempenho passado não garante futuro; evite perseguição — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Desconfie de fundos quentes\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47127,9 +47551,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diversifique amplamente",
         "text": "Espalhar exposição reduz risco de fracasso individual.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Diversifique amplamente\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Espalhar exposição reduz risco de fracasso individual — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diversifique amplamente\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Diversifique amplamente\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Espalhar exposição reduz risco de fracasso individual — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Diversifique amplamente\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47137,9 +47561,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha o plano",
         "text": "Comportamento disciplinado vence inteligência tática.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Mantenha o plano\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Comportamento disciplinado vence inteligência tática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha o plano\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Mantenha o plano\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comportamento disciplinado vence inteligência tática — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Mantenha o plano\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47147,9 +47571,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuidado com insider",
         "text": "Dicas trazem risco legal e frequentemente chegam tarde.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Cuidado com insider\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Dicas trazem risco legal e frequentemente chegam tarde — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuidado com insider\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Cuidado com insider\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dicas trazem risco legal e frequentemente chegam tarde — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Cuidado com insider\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47157,9 +47581,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pense longo prazo",
         "text": "Horizonte amplo colhe crescimento e ignora ruído.",
         "explicacoes": [
-          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Pense longo prazo\" como peça-chave para a caminhada aleatória e o investimento passivo.",
-          "Na prática: Horizonte amplo colhe crescimento e ignora ruído — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pense longo prazo\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Pense longo prazo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Horizonte amplo colhe crescimento e ignora ruído — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Pense longo prazo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Diversificar é humildade investida",
+        "text": "Malkiel conclui que espalhar risco admite que ninguém prevê o vencedor.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel coloca \"Diversificar é humildade investida\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Malkiel conclui que espalhar risco admite que ninguém prevê o vencedor — traduzido para a prática, é o passo concreto que liga a teoria de Burton G. Malkiel ao comportamento diário.",
+          "Ignorar \"Diversificar é humildade investida\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -47193,6 +47627,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Malkiel introduz a ideia de preços imprevisíveis.",
             "f": "Na visão de Burton G. Malkiel, \"preço\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
             "real": false
+          },
+          {
+            "t": "O random walk",
+            "e": "Malkiel introduz a ideia de preços imprevisíveis.",
+            "f": "Na visão de Burton G. Malkiel, o random walk é o ponto central deste capítulo de \"Um Passo à Frente de Wall Street\".",
+            "real": false
           }
         ]
       },
@@ -47210,6 +47650,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Teste",
             "e": "Por que gráficos não vencem o mercado.",
             "f": "Na visão de Burton G. Malkiel, \"teste\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "A falha da análise técnica",
+            "e": "Por que gráficos não vencem o mercado.",
+            "f": "Na visão de Burton G. Malkiel, a falha da análise técnica é o ponto central deste capítulo de \"Um Passo à Frente de Wall Street\".",
             "real": false
           }
         ]
@@ -47229,6 +47675,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Limites de usar balanços para bater o índice.",
             "f": "Na visão de Burton G. Malkiel, \"limites\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
             "real": false
+          },
+          {
+            "t": "Análise fundamental",
+            "e": "Limites de usar balanços para bater o índice.",
+            "f": "Na visão de Burton G. Malkiel, análise fundamental é o ponto central deste capítulo de \"Um Passo à Frente de Wall Street\".",
+            "real": false
           }
         ]
       },
@@ -47246,6 +47698,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Informação",
             "e": "Preços refletem informação rapidamente.",
             "f": "Na visão de Burton G. Malkiel, \"informação\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Eficiência de mercado",
+            "e": "Preços refletem informação rapidamente.",
+            "f": "Na visão de Burton G. Malkiel, eficiência de mercado é o ponto central deste capítulo de \"Um Passo à Frente de Wall Street\".",
             "real": false
           }
         ]
@@ -47265,6 +47723,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Por que a maioria perde líquido de custos.",
             "f": "Na visão de Burton G. Malkiel, \"comparação\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
             "real": false
+          },
+          {
+            "t": "Gestores ativos",
+            "e": "Por que a maioria perde líquido de custos.",
+            "f": "Na visão de Burton G. Malkiel, gestores ativos é o ponto central deste capítulo de \"Um Passo à Frente de Wall Street\".",
+            "real": false
           }
         ]
       },
@@ -47282,6 +47746,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Custo",
             "e": "A recomendação central de baixo custo.",
             "f": "Na visão de Burton G. Malkiel, \"custo\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Fundos indexados",
+            "e": "A recomendação central de baixo custo.",
+            "f": "Na visão de Burton G. Malkiel, fundos indexados é o ponto central deste capítulo de \"Um Passo à Frente de Wall Street\".",
             "real": false
           }
         ]
@@ -47301,6 +47771,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Disciplina de voltar à alocação-alvo.",
             "f": "Na visão de Burton G. Malkiel, \"disciplina\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
             "real": false
+          },
+          {
+            "t": "Rebalanceamento",
+            "e": "Disciplina de voltar à alocação-alvo.",
+            "f": "Na visão de Burton G. Malkiel, rebalanceamento é o ponto central deste capítulo de \"Um Passo à Frente de Wall Street\".",
+            "real": false
           }
         ]
       },
@@ -47319,6 +47795,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Por que manter o plano na volatilidade.",
             "f": "Na visão de Burton G. Malkiel, \"plano\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
             "real": false
+          },
+          {
+            "t": "Comportamento",
+            "e": "Por que manter o plano na volatilidade.",
+            "f": "Na visão de Burton G. Malkiel, comportamento é o ponto central deste capítulo de \"Um Passo à Frente de Wall Street\".",
+            "real": false
           }
         ]
       },
@@ -47336,6 +47818,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Longo prazo",
             "e": "Como montar carteira de cidadão comum.",
             "f": "Na visão de Burton G. Malkiel, \"longo prazo\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Aplicação prática",
+            "e": "Como montar carteira de cidadão comum.",
+            "f": "Na visão de Burton G. Malkiel, aplicação prática é o ponto central deste capítulo de \"Um Passo à Frente de Wall Street\".",
             "real": false
           }
         ]
