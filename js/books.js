@@ -34553,62 +34553,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Entenda ruptura",
-        "text": "Aprenda a diferença entre inovação sustentadora e disruptiva."
+        "text": "Aprenda a diferença entre inovação sustentadora e disruptiva.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Entenda ruptura\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Aprenda a diferença entre inovação sustentadora e disruptiva — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda ruptura\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Não confie só no cliente",
-        "text": "Ouça, mas proteja espaço para o mercado que ainda não pede."
+        "text": "Ouça, mas proteja espaço para o mercado que ainda não pede.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Não confie só no cliente\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Ouça, mas proteja espaço para o mercado que ainda não pede — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não confie só no cliente\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Vigie o nicho",
-        "text": "Concorrentes \"inferiores\" nos nichos podem virar ameaça."
+        "text": "Concorrentes \"inferiores\" nos nichos podem virar ameaça.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Vigie o nicho\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Concorrentes \"inferiores\" nos nichos podem virar ameaça — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Vigie o nicho\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Mude alocação",
-        "text": "Direcione recursos para projetos de ruptura, não só lucro atual."
+        "text": "Direcione recursos para projetos de ruptura, não só lucro atual.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Mude alocação\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Direcione recursos para projetos de ruptura, não só lucro atual — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mude alocação\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Crie unidade autônoma",
-        "text": "Separe a inovação disruptiva da estrutura principal."
+        "text": "Separe a inovação disruptiva da estrutura principal.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Crie unidade autônoma\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Separe a inovação disruptiva da estrutura principal — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie unidade autônoma\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Estude a rede de valor",
-        "text": "Saiba como clientes e cadeia limitam seu movimento."
+        "text": "Saiba como clientes e cadeia limitam seu movimento.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Estude a rede de valor\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Saiba como clientes e cadeia limitam seu movimento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estude a rede de valor\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Abra mão do topo",
-        "text": "Ruptura exige atender o \"pior\" mercado primeiro."
+        "text": "Ruptura exige atender o \"pior\" mercado primeiro.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Abra mão do topo\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Ruptura exige atender o \"pior\" mercado primeiro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abra mão do topo\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Presuma o ciclo",
-        "text": "Onde o recurso vai hoje define sua sobrevivência amanhã."
+        "text": "Onde o recurso vai hoje define sua sobrevivência amanhã.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Presuma o ciclo\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Onde o recurso vai hoje define sua sobrevivência amanhã — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Presuma o ciclo\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Teste cedo",
-        "text": "Experimente mercados emergentes antes que dominem."
+        "text": "Experimente mercados emergentes antes que dominem.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Teste cedo\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Experimente mercados emergentes antes que dominem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Teste cedo\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Proteja o novo",
-        "text": "Não deixe o processo atual matar a novidade no berço."
+        "text": "Não deixe o processo atual matar a novidade no berço.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Proteja o novo\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Não deixe o processo atual matar a novidade no berço — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja o novo\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Reconheça o dilemma",
-        "text": "Fazer o certo hoje pode ser errado para o futuro."
+        "text": "Fazer o certo hoje pode ser errado para o futuro.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Reconheça o dilemma\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Fazer o certo hoje pode ser errado para o futuro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reconheça o dilemma\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Planeje a morte",
-        "text": "Líderes devem canibalizar-se antes dos outros."
+        "text": "Líderes devem canibalizar-se antes dos outros.",
+        "explicacoes": [
+          "Em \"O Dilema da Inovação\", Clayton M. Christensen trata \"Planeje a morte\" como peça-chave para a inovação de baixo para cima (modelo de negócios).",
+          "Na prática: Líderes devem canibalizar-se antes dos outros — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje a morte\" aplica a inovação de baixo para cima (modelo de negócios) de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -34630,81 +34690,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O paradoxo da boa gestão",
         "text": "Por que empresas excelentes caem diante de rupturas.",
         "points": [
-          "Paradoxo",
-          "Falha",
-          "Pergunta"
+          {
+            "t": "Paradoxo",
+            "e": "Por que empresas excelentes caem diante de rupturas.",
+            "f": "Na visão de Clayton M. Christensen, \"paradoxo\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          },
+          {
+            "t": "Falha",
+            "e": "Por que empresas excelentes caem diante de rupturas.",
+            "f": "Na visão de Clayton M. Christensen, \"falha\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          },
+          {
+            "t": "Pergunta",
+            "e": "Por que empresas excelentes caem diante de rupturas.",
+            "f": "Na visão de Clayton M. Christensen, \"pergunta\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O princípio da inovação de ruptura",
         "text": "Como tecnologias piores tomam o mercado pelo baixo.",
         "points": [
-          "Ruptura",
-          "Nicho",
-          "Curva"
+          {
+            "t": "Ruptura",
+            "e": "Como tecnologias piores tomam o mercado pelo baixo.",
+            "f": "As empresas bem geridas fracassam ao enfrentar inovações de ruptura.",
+            "real": true
+          },
+          {
+            "t": "Nicho",
+            "e": "Como tecnologias piores tomam o mercado pelo baixo.",
+            "f": "A inovação disruptiva começa pior e vence pelo mercado de baixo.",
+            "real": true
+          },
+          {
+            "t": "Curva",
+            "e": "Como tecnologias piores tomam o mercado pelo baixo.",
+            "f": "Ouvir o cliente atual é exatamente o que nos cega para a ruptura.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A tecnologia de disco",
         "text": "Caso histórico que prova o padrão repetido.",
         "points": [
-          "Disco",
-          "Líderes",
-          "Queda"
+          {
+            "t": "Disco",
+            "e": "Caso histórico que prova o padrão repetido.",
+            "f": "Na visão de Clayton M. Christensen, \"disco\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          },
+          {
+            "t": "Líderes",
+            "e": "Caso histórico que prova o padrão repetido.",
+            "f": "Na visão de Clayton M. Christensen, \"líderes\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          },
+          {
+            "t": "Queda",
+            "e": "Caso histórico que prova o padrão repetido.",
+            "f": "Na visão de Clayton M. Christensen, \"queda\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O processo de alocação",
         "text": "Por que bons projetos novos morrem na empresa.",
         "points": [
-          "Recursos",
-          "Lucro",
-          "Morte"
+          {
+            "t": "Recursos",
+            "e": "Por que bons projetos novos morrem na empresa.",
+            "f": "O processo de alocação de recursos decide o futuro mais que a estratégia.",
+            "real": true
+          },
+          {
+            "t": "Lucro",
+            "e": "Por que bons projetos novos morrem na empresa.",
+            "f": "Na visão de Clayton M. Christensen, \"lucro\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          },
+          {
+            "t": "Morte",
+            "e": "Por que bons projetos novos morrem na empresa.",
+            "f": "Na visão de Clayton M. Christensen, \"morte\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A rede de valor",
         "text": "Como clientes e cadeia puxam a empresa para o topo.",
         "points": [
-          "Cliente",
-          "Cadeia",
-          "Limite"
+          {
+            "t": "Cliente",
+            "e": "Como clientes e cadeia puxam a empresa para o topo.",
+            "f": "Ouvir o cliente atual é exatamente o que nos cega para a ruptura.",
+            "real": true
+          },
+          {
+            "t": "Cadeia",
+            "e": "Como clientes e cadeia puxam a empresa para o topo.",
+            "f": "Na visão de Clayton M. Christensen, \"cadeia\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          },
+          {
+            "t": "Limite",
+            "e": "Como clientes e cadeia puxam a empresa para o topo.",
+            "f": "Na visão de Clayton M. Christensen, \"limite\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O dilema do cliente",
         "text": "Ouvir o cliente atual cega para o emergente.",
         "points": [
-          "Escuta",
-          "Cegueira",
-          "Risco"
+          {
+            "t": "Escuta",
+            "e": "Ouvir o cliente atual cega para o emergente.",
+            "f": "Ouvir o cliente atual é exatamente o que nos cega para a ruptura.",
+            "real": true
+          },
+          {
+            "t": "Cegueira",
+            "e": "Ouvir o cliente atual cega para o emergente.",
+            "f": "Na visão de Clayton M. Christensen, \"cegueira\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          },
+          {
+            "t": "Risco",
+            "e": "Ouvir o cliente atual cega para o emergente.",
+            "f": "Na visão de Clayton M. Christensen, \"risco\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Sustentadora vs. ruptura",
         "text": "Por que a empresa faz a primeira e evita a segunda.",
         "points": [
-          "Tipos",
-          "Motivo",
-          "Perda"
+          {
+            "t": "Tipos",
+            "e": "Por que a empresa faz a primeira e evita a segunda.",
+            "f": "As empresas bem geridas fracassam ao enfrentar inovações de ruptura.",
+            "real": true
+          },
+          {
+            "t": "Motivo",
+            "e": "Por que a empresa faz a primeira e evita a segunda.",
+            "f": "Ouvir o cliente atual é exatamente o que nos cega para a ruptura.",
+            "real": true
+          },
+          {
+            "t": "Perda",
+            "e": "Por que a empresa faz a primeira e evita a segunda.",
+            "f": "Na visão de Clayton M. Christensen, \"perda\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A solução: unidade autônoma",
         "text": "Como isolar a ruptura para que sobreviva.",
         "points": [
-          "Autonomia",
-          "Estrutura",
-          "Proteção"
+          {
+            "t": "Autonomia",
+            "e": "Como isolar a ruptura para que sobreviva.",
+            "f": "Crie uma unidade independente para a inovação disruptiva.",
+            "real": true
+          },
+          {
+            "t": "Estrutura",
+            "e": "Como isolar a ruptura para que sobreviva.",
+            "f": "Na visão de Clayton M. Christensen, \"estrutura\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          },
+          {
+            "t": "Proteção",
+            "e": "Como isolar a ruptura para que sobreviva.",
+            "f": "Na visão de Clayton M. Christensen, \"proteção\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O dilemma e o futuro",
         "text": "Síntese do dilemma e lições para gestores.",
         "points": [
-          "Síntese",
-          "Gestão",
-          "Aviso"
+          {
+            "t": "Síntese",
+            "e": "Síntese do dilemma e lições para gestores.",
+            "f": "O processo de alocação de recursos decide o futuro mais que a estratégia.",
+            "real": true
+          },
+          {
+            "t": "Gestão",
+            "e": "Síntese do dilemma e lições para gestores.",
+            "f": "Na visão de Clayton M. Christensen, \"gestão\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          },
+          {
+            "t": "Aviso",
+            "e": "Síntese do dilemma e lições para gestores.",
+            "f": "Na visão de Clayton M. Christensen, \"aviso\" é parte essencial da proposta de \"O Dilema da Inovação\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -34868,62 +35063,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Defina a audiência",
-        "text": "Escolha as pessoas certas e, principalmente, a quem não servir."
+        "text": "Escolha as pessoas certas e, principalmente, a quem não servir.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Defina a audiência\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Escolha as pessoas certas e, principalmente, a quem não servir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina a audiência\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Pratique empatia",
-        "text": "Estude a dor real do cliente antes de qualquer campanha."
+        "text": "Estude a dor real do cliente antes de qualquer campanha.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Pratique empatia\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Estude a dor real do cliente antes de qualquer campanha — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique empatia\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Crie tensão",
-        "text": "Mostre a lacuna entre o atual e o desejado para gerar ação."
+        "text": "Mostre a lacuna entre o atual e o desejado para gerar ação.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Crie tensão\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Mostre a lacuna entre o atual e o desejado para gerar ação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie tensão\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Busque a menor viável",
-        "text": "Foque num nicho específico e leal, não na massa."
+        "text": "Foque num nicho específico e leal, não na massa.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Busque a menor viável\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Foque num nicho específico e leal, não na massa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque a menor viável\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Mereça atenção",
-        "text": "Conquiste confiança com utilidade, não interrompa com anúncio."
+        "text": "Conquiste confiança com utilidade, não interrompa com anúncio.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Mereça atenção\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Conquiste confiança com utilidade, não interrompa com anúncio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mereça atenção\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Conte história verdadeira",
-        "text": "Use narrativa que ajuda, não enfeite enganoso."
+        "text": "Use narrativa que ajuda, não enfeite enganoso.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Conte história verdadeira\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Use narrativa que ajuda, não enfeite enganoso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conte história verdadeira\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Entenda o status",
-        "text": "Saiba como sua marca atende necessidade de pertencer ou destacar."
+        "text": "Saiba como sua marca atende necessidade de pertencer ou destacar.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Entenda o status\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Saiba como sua marca atende necessidade de pertencer ou destacar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda o status\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Sirva antes de vender",
-        "text": "Valor antecede a transação; venda é consequência."
+        "text": "Valor antecede a transação; venda é consequência.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Sirva antes de vender\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Valor antecede a transação; venda é consequência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sirva antes de vender\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Seja consistente",
-        "text": "Confiança se constrói com presença e entrega constantes."
+        "text": "Confiança se constrói com presença e entrega constantes.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Seja consistente\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Confiança se constrói com presença e entrega constantes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja consistente\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Meça conexão",
-        "text": "Avalie se mudou pessoas, não só cliques."
+        "text": "Avalie se mudou pessoas, não só cliques.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Meça conexão\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Avalie se mudou pessoas, não só cliques — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça conexão\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Recuse o genérico",
-        "text": "Posicionamento claro vale mais que ser \"para todos\"."
+        "text": "Posicionamento claro vale mais que ser \"para todos\".",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Recuse o genérico\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Posicionamento claro vale mais que ser \"para todos\" — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Recuse o genérico\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Marketing é serviço",
-        "text": "Reframeie marketing como ajuda, não manipulação."
+        "text": "Reframeie marketing como ajuda, não manipulação.",
+        "explicacoes": [
+          "Em \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\", Seth Godin trata \"Marketing é serviço\" como peça-chave para o marketing que importa e a confiança como ativo.",
+          "Na prática: Reframeie marketing como ajuda, não manipulação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Marketing é serviço\" aplica o marketing que importa e a confiança como ativo de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -34945,81 +35200,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O que é marketing",
         "text": "Godin redefine marketing como mudança e serviço, não truque.",
         "points": [
-          "Definição",
-          "Serviço",
-          "Mudança"
+          {
+            "t": "Definição",
+            "e": "Godin redefine marketing como mudança e serviço, não truque.",
+            "f": "Marketing é a arte de mudar pessoas que importam para você.",
+            "real": true
+          },
+          {
+            "t": "Serviço",
+            "e": "Godin redefine marketing como mudança e serviço, não truque.",
+            "f": " Marketing de verdade é empatia posta em prática.",
+            "real": true
+          },
+          {
+            "t": "Mudança",
+            "e": "Godin redefine marketing como mudança e serviço, não truque.",
+            "f": "Na visão de Seth Godin, \"mudança\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A tensão",
         "text": "A lacuna entre atual e desejado como motor da ação.",
         "points": [
-          "Lacuna",
-          "Desejo",
-          "Ação"
+          {
+            "t": "Lacuna",
+            "e": "A lacuna entre atual e desejado como motor da ação.",
+            "f": "A tensão entre o que é e o que poderia ser é o que move.",
+            "real": true
+          },
+          {
+            "t": "Desejo",
+            "e": "A lacuna entre atual e desejado como motor da ação.",
+            "f": "Na visão de Seth Godin, \"desejo\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          },
+          {
+            "t": "Ação",
+            "e": "A lacuna entre atual e desejado como motor da ação.",
+            "f": "Na visão de Seth Godin, \"ação\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Empatia e visão",
         "text": "Entender a dor alheia antes de qualquer tática.",
         "points": [
-          "Empatia",
-          "Dor",
-          "Visão"
+          {
+            "t": "Empatia",
+            "e": "Entender a dor alheia antes de qualquer tática.",
+            "f": " Marketing de verdade é empatia posta em prática.",
+            "real": true
+          },
+          {
+            "t": "Dor",
+            "e": "Entender a dor alheia antes de qualquer tática.",
+            "f": "Na visão de Seth Godin, \"dor\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          },
+          {
+            "t": "Visão",
+            "e": "Entender a dor alheia antes de qualquer tática.",
+            "f": "Na visão de Seth Godin, \"visão\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A menor audiência viável",
         "text": "Por que nicho específico vence alcance vazio.",
         "points": [
-          "Nicho",
-          "Lealdade",
-          "Foco"
+          {
+            "t": "Nicho",
+            "e": "Por que nicho específico vence alcance vazio.",
+            "f": "Encontre a menor audiência viável e sirva-a profundamente.",
+            "real": true
+          },
+          {
+            "t": "Lealdade",
+            "e": "Por que nicho específico vence alcance vazio.",
+            "f": "Na visão de Seth Godin, \"lealdade\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "Por que nicho específico vence alcance vazio.",
+            "f": "Na visão de Seth Godin, \"foco\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Status e pertencimento",
         "text": "Como marcas atendem necessidade de status.",
         "points": [
-          "Status",
-          "Grupo",
-          "Distinção"
+          {
+            "t": "Status",
+            "e": "Como marcas atendem necessidade de status.",
+            "f": "Na visão de Seth Godin, \"status\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          },
+          {
+            "t": "Grupo",
+            "e": "Como marcas atendem necessidade de status.",
+            "f": "Na visão de Seth Godin, \"grupo\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          },
+          {
+            "t": "Distinção",
+            "e": "Como marcas atendem necessidade de status.",
+            "f": "Na visão de Seth Godin, \"distinção\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Merecer atenção",
         "text": "Conquistar confiança em vez de comprar interrupção.",
         "points": [
-          "Atenção",
-          "Confiança",
-          "Utilidade"
+          {
+            "t": "Atenção",
+            "e": "Conquistar confiança em vez de comprar interrupção.",
+            "f": "Não tente enganar o tempo todo; mereça a atenção.",
+            "real": true
+          },
+          {
+            "t": "Confiança",
+            "e": "Conquistar confiança em vez de comprar interrupção.",
+            "f": "Na visão de Seth Godin, \"confiança\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          },
+          {
+            "t": "Utilidade",
+            "e": "Conquistar confiança em vez de comprar interrupção.",
+            "f": "Na visão de Seth Godin, \"utilidade\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Contar histórias",
         "text": "Narrativa verdadeira que ajuda, não enfeite.",
         "points": [
-          "História",
-          "Verdade",
-          "Ajuda"
+          {
+            "t": "História",
+            "e": "Narrativa verdadeira que ajuda, não enfeite.",
+            "f": "Na visão de Seth Godin, \"história\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          },
+          {
+            "t": "Verdade",
+            "e": "Narrativa verdadeira que ajuda, não enfeite.",
+            "f": " Marketing de verdade é empatia posta em prática.",
+            "real": true
+          },
+          {
+            "t": "Ajuda",
+            "e": "Narrativa verdadeira que ajuda, não enfeite.",
+            "f": "Na visão de Seth Godin, \"ajuda\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Decida a quem não servir",
         "text": "Posicionamento por exclusão vale tanto quanto inclusão.",
         "points": [
-          "Exclusão",
-          "Posição",
-          "Clareza"
+          {
+            "t": "Exclusão",
+            "e": "Posicionamento por exclusão vale tanto quanto inclusão.",
+            "f": "Na visão de Seth Godin, \"exclusão\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          },
+          {
+            "t": "Posição",
+            "e": "Posicionamento por exclusão vale tanto quanto inclusão.",
+            "f": "Na visão de Seth Godin, \"posição\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          },
+          {
+            "t": "Clareza",
+            "e": "Posicionamento por exclusão vale tanto quanto inclusão.",
+            "f": "Na visão de Seth Godin, \"clareza\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Marketing como serviço",
         "text": "Encerra reframando marketing como ajuda contínua.",
         "points": [
-          "Serviço",
-          "Consistência",
-          "Mudança"
+          {
+            "t": "Serviço",
+            "e": "Encerra reframando marketing como ajuda contínua.",
+            "f": "Marketing é a arte de mudar pessoas que importam para você.",
+            "real": true
+          },
+          {
+            "t": "Consistência",
+            "e": "Encerra reframando marketing como ajuda contínua.",
+            "f": " Marketing de verdade é empatia posta em prática.",
+            "real": true
+          },
+          {
+            "t": "Mudança",
+            "e": "Encerra reframando marketing como ajuda contínua.",
+            "f": "Na visão de Seth Godin, \"mudança\" é parte essencial da proposta de \"Isso é Marketing: Você Não Pode Enganar o Tempo Todo\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -35183,62 +35573,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Reconheça a vergonha",
-        "text": "Nomeie a vergonha; ela só perde força quando falada."
+        "text": "Nomeie a vergonha; ela só perde força quando falada.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Reconheça a vergonha\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Nomeie a vergonha; ela só perde força quando falada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reconheça a vergonha\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Ouse aparecer",
-        "text": "Pratique estar presente mesmo com incerteza e medo."
+        "text": "Pratique estar presente mesmo com incerteza e medo.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Ouse aparecer\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Pratique estar presente mesmo com incerteza e medo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ouse aparecer\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Abandone a perfeição",
-        "text": "A perfeição é armadura; permita-se imperfeito e real."
+        "text": "A perfeição é armadura; permita-se imperfeito e real.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Abandone a perfeição\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: A perfeição é armadura; permita-se imperfeito e real — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abandone a perfeição\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Mostre-se como líder",
-        "text": "Liderança corajosa inclui admitir dúvidas e limites."
+        "text": "Liderança corajosa inclui admitir dúvidas e limites.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Mostre-se como líder\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Liderança corajosa inclui admitir dúvidas e limites — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mostre-se como líder\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Pratique totalidade",
-        "text": "Viva de coração aberto, com empatia por si e outros."
+        "text": "Viva de coração aberto, com empatia por si e outros.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Pratique totalidade\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Viva de coração aberto, com empatia por si e outros — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique totalidade\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Construa confiança",
-        "text": "Pequenos atos de coragem diária fortalecem a confiança."
+        "text": "Pequenos atos de coragem diária fortalecem a confiança.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Construa confiança\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Pequenos atos de coragem diária fortalecem a confiança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa confiança\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Abra-se para criar",
-        "text": "Criatividade exige risco de julgamento; aceite-o."
+        "text": "Criatividade exige risco de julgamento; aceite-o.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Abra-se para criar\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Criatividade exige risco de julgamento; aceite-o — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abra-se para criar\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Peça ajuda",
-        "text": "Reconhecer necessidade é força, não fraqueza."
+        "text": "Reconhecer necessidade é força, não fraqueza.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Peça ajuda\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Reconhecer necessidade é força, não fraqueza — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Peça ajuda\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Escolha merecimento",
-        "text": "Sinta-se merecedor independente de aprovação externa."
+        "text": "Sinta-se merecedor independente de aprovação externa.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Escolha merecimento\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Sinta-se merecedor independente de aprovação externa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escolha merecimento\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Conecte-se",
-        "text": "A conexão real nasce quando você baixa a guarda."
+        "text": "A conexão real nasce quando você baixa a guarda.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Conecte-se\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: A conexão real nasce quando você baixa a guarda — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conecte-se\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Acolha emoção",
-        "text": "Sentir faz parte da vida plena; não se distancie."
+        "text": "Sentir faz parte da vida plena; não se distancie.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Acolha emoção\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Sentir faz parte da vida plena; não se distancie — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acolha emoção\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Seja corajoso, não frio",
-        "text": "Em crise, presença e calor vencem a frieza protetora."
+        "text": "Em crise, presença e calor vencem a frieza protetora.",
+        "explicacoes": [
+          "Em \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\", Brené Brown trata \"Seja corajoso, não frio\" como peça-chave para liderar pela vulnerabilidade e pela confiança.",
+          "Na prática: Em crise, presença e calor vencem a frieza protetora — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja corajoso, não frio\" aplica liderar pela vulnerabilidade e pela confiança de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -35260,81 +35710,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Mito da vulnerabilidade",
         "text": "Brown desafia a ideia de que se abrir é ser fraco.",
         "points": [
-          "Mito",
-          "Coragem",
-          "Medo"
+          {
+            "t": "Mito",
+            "e": "Brown desafia a ideia de que se abrir é ser fraco.",
+            "f": "Vulnerabilidade não é fraqueza; é a medida exata da coragem.",
+            "real": true
+          },
+          {
+            "t": "Coragem",
+            "e": "Brown desafia a ideia de que se abrir é ser fraco.",
+            "f": "Coragem é aparecer quando não podemos ter certeza do resultado.",
+            "real": true
+          },
+          {
+            "t": "Medo",
+            "e": "Brown desafia a ideia de que se abrir é ser fraco.",
+            "f": "Na visão de Brené Brown, \"medo\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A arena",
         "text": "A metáfora de Theodore Roosevelt para quem se expõe.",
         "points": [
-          "Arena",
-          "Risco",
-          "Presença"
+          {
+            "t": "Arena",
+            "e": "A metáfora de Theodore Roosevelt para quem se expõe.",
+            "f": "Ouse grandemente: esteja na arena, mesmo ferido.",
+            "real": true
+          },
+          {
+            "t": "Risco",
+            "e": "A metáfora de Theodore Roosevelt para quem se expõe.",
+            "f": "Na visão de Brené Brown, \"risco\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          },
+          {
+            "t": "Presença",
+            "e": "A metáfora de Theodore Roosevelt para quem se expõe.",
+            "f": "Na visão de Brené Brown, \"presença\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Vergonha e merecimento",
         "text": "Como a vergonha sabota e o que é sentir-se merecedor.",
         "points": [
-          "Vergonha",
-          "Merecimento",
-          "Medo"
+          {
+            "t": "Vergonha",
+            "e": "Como a vergonha sabota e o que é sentir-se merecedor.",
+            "f": "A vergonha é o impedimento da conexão humana.",
+            "real": true
+          },
+          {
+            "t": "Merecimento",
+            "e": "Como a vergonha sabota e o que é sentir-se merecedor.",
+            "f": "Na visão de Brené Brown, \"merecimento\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          },
+          {
+            "t": "Medo",
+            "e": "Como a vergonha sabota e o que é sentir-se merecedor.",
+            "f": "Na visão de Brené Brown, \"medo\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Perfeccionismo",
         "text": "A armadura da perfeição que mata criatividade e vínculo.",
         "points": [
-          "Armadura",
-          "Criatividade",
-          "Vínculo"
+          {
+            "t": "Armadura",
+            "e": "A armadura da perfeição que mata criatividade e vínculo.",
+            "f": "Na visão de Brené Brown, \"armadura\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          },
+          {
+            "t": "Criatividade",
+            "e": "A armadura da perfeição que mata criatividade e vínculo.",
+            "f": "Na visão de Brené Brown, \"criatividade\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          },
+          {
+            "t": "Vínculo",
+            "e": "A armadura da perfeição que mata criatividade e vínculo.",
+            "f": "Na visão de Brené Brown, \"vínculo\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Totalidade",
         "text": "Viver de coração aberto como antídoto à vergonha.",
         "points": [
-          "Wholeheartedness",
-          "Empatia",
-          "Abertura"
+          {
+            "t": "Wholeheartedness",
+            "e": "Viver de coração aberto como antídoto à vergonha.",
+            "f": "Na visão de Brené Brown, \"wholeheartedness\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          },
+          {
+            "t": "Empatia",
+            "e": "Viver de coração aberto como antídoto à vergonha.",
+            "f": "Na visão de Brené Brown, \"empatia\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          },
+          {
+            "t": "Abertura",
+            "e": "Viver de coração aberto como antídoto à vergonha.",
+            "f": "Na visão de Brené Brown, \"abertura\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Vulnerabilidade e trabalho",
         "text": "Por que a coragem importa na liderança e equipes.",
         "points": [
-          "Liderança",
-          "Equipe",
-          "Confiança"
+          {
+            "t": "Liderança",
+            "e": "Por que a coragem importa na liderança e equipes.",
+            "f": "Vulnerabilidade não é fraqueza; é a medida exata da coragem.",
+            "real": true
+          },
+          {
+            "t": "Equipe",
+            "e": "Por que a coragem importa na liderança e equipes.",
+            "f": "Na visão de Brené Brown, \"equipe\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          },
+          {
+            "t": "Confiança",
+            "e": "Por que a coragem importa na liderança e equipes.",
+            "f": "Na visão de Brené Brown, \"confiança\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Criatividade e coragem",
         "text": "Criar exige risco de julgamento e exposição.",
         "points": [
-          "Risco",
-          "Julgamento",
-          "Arte"
+          {
+            "t": "Risco",
+            "e": "Criar exige risco de julgamento e exposição.",
+            "f": "Vulnerabilidade não é fraqueza; é a medida exata da coragem.",
+            "real": true
+          },
+          {
+            "t": "Julgamento",
+            "e": "Criar exige risco de julgamento e exposição.",
+            "f": "Coragem é aparecer quando não podemos ter certeza do resultado.",
+            "real": true
+          },
+          {
+            "t": "Arte",
+            "e": "Criar exige risco de julgamento e exposição.",
+            "f": "Na visão de Brené Brown, \"arte\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Parentalidade e conexão",
         "text": "Como criar vínculos reais com filhos e próximos.",
         "points": [
-          "Vínculo",
-          "Educar",
-          "Presença"
+          {
+            "t": "Vínculo",
+            "e": "Como criar vínculos reais com filhos e próximos.",
+            "f": "A vergonha é o impedimento da conexão humana.",
+            "real": true
+          },
+          {
+            "t": "Educar",
+            "e": "Como criar vínculos reais com filhos e próximos.",
+            "f": "Na visão de Brené Brown, \"educar\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          },
+          {
+            "t": "Presença",
+            "e": "Como criar vínculos reais com filhos e próximos.",
+            "f": "Na visão de Brené Brown, \"presença\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Ousar grandemente",
         "text": "Encerra convidando a entrar na arena todos os dias.",
         "points": [
-          "Coragem",
-          "Prática",
-          "Vida"
+          {
+            "t": "Coragem",
+            "e": "Encerra convidando a entrar na arena todos os dias.",
+            "f": "Vulnerabilidade não é fraqueza; é a medida exata da coragem.",
+            "real": true
+          },
+          {
+            "t": "Prática",
+            "e": "Encerra convidando a entrar na arena todos os dias.",
+            "f": "Ouse grandemente: esteja na arena, mesmo ferido.",
+            "real": true
+          },
+          {
+            "t": "Vida",
+            "e": "Encerra convidando a entrar na arena todos os dias.",
+            "f": "Na visão de Brené Brown, \"vida\" é parte essencial da proposta de \"Coragem: Como a Vulnerabilidade Transforma a Forma Como Vivemos\".",
+            "real": false
+          }
         ]
       }
     ]
