@@ -3160,21 +3160,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cansaço revela o caráter",
         "text": "Quem sustenta o esforço no fim é quem chega.",
         "reflection": "Você cede quando o cansaço bate?"
-      },
-      {
-        "type": "myth",
-        "title": "Planos dão segurança",
-        "text": "Realidade muda; quem só planeja paralisa diante do imprevisto.",
-        "reflection": "Você travou esperando o plano perfeito?"
-      },
-      {
-        "type": "truth",
-        "title": "Esperança é ação",
-        "text": "Erguer o outro é uma decisão prática, não um sentimento passivo.",
-        "reflection": "Você espera se sentir esperançoso para agir?"
       }
     ],
-    "summary": "Baseado em um discurso viral, o Almirante McRaven transforma lições de um comando de elite em princípios simples: pequenas disciplinas diárias constroem caracteres capazes de mudar uma vida — e talvez o mundo.",
+    "summary": "Em \"Faça Sua Cama\" (Make Your Bed, 2017), o almirante de esquadra William H. McRaven — ex-comandante das Operações Especiais da Marinha dos EUA e quem liderou a operação que matou Osama bin Laden — transforma seu discurso de formatura na Universidade do Texas, que viralizou com dezenas de milhões de visualizações, em dez lições extraídas do treinamento de Navy SEAL. Cada capítulo parte de uma provação real dos treinamentos em Coronado — acordar às 5h30, rolar na areia, enfrentar os \"circos\" punitivos, não tocar o sino que significa desistência — para extrair uma verdade sobre liderança, resiliência e caráter. A tese central é simples e contraintuitiva: as grandes mudanças de vida começam em disciplinas minúsculas e diárias. Fazer a cama de manhã não muda o mundo, mas prova a si mesmo que você cumpre o que propõe e encadeia a próxima vitória. McRaven estende a lógica à vida civil: encontre quem reme com você, não julgue pelas aparências, enfrente os bullies, assuma riscos de cabeça e, sobretudo, nunca toque o sino. Não é um manual de produtividade; é um tratado de como a ordem, a coragem e a esperança sustentam quem enfrenta dias difíceis.",
     "color": "#1f3a5f",
     "file": "livro.html#arrume-sua-cama",
     "citacoes": [
@@ -3197,7 +3185,7 @@ window.MEU_BOLSO_BOOKS=[
     "citacoesTerceiros": [
       {
         "texto": "Exquisitely simple... superb, smart, and succinct ideas.",
-        "autor": "Editorial",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
@@ -3209,7 +3197,6 @@ window.MEU_BOLSO_BOOKS=[
     "sections": [
       "sobre",
       "ensinamentos",
-      "capitulos",
       "ideias",
       "verdadesmitos",
       "reflexoes"
@@ -3220,9 +3207,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece o dia arrumando a cama",
         "text": "Uma tarefa pequena e completa de imediato dá a sensação de vitória logo cedo.",
         "explicacoes": [
-          "Uma conquista de manhã encoraja a próxima.",
-          "Ordem externa ajuda a ordem interna.",
-          "Se o dia for ruim, você volta para uma cama feita."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Comece o dia arrumando a cama\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma tarefa pequena e completa de imediato dá a sensação de vitória logo cedo — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Comece o dia arrumando a cama\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3230,9 +3217,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Você não pode sozinho — procure ajuda",
         "text": "Ninguém vence sozinho; círculos de apoio decidem o resultado.",
         "explicacoes": [
-          "Pedir ajuda é força, não fraqueza.",
-          "Times superam indivíduos em crises.",
-          "Cultivar amizade é preparar resgate."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Você não pode sozinho — procure ajuda\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ninguém vence sozinho; círculos de apoio decidem o resultado — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Você não pode sozinho — procure ajuda\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3240,9 +3227,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Medir o tamanho do adversário só cansa",
         "text": "Quem foca no obstáculo gigante paralisa; foque no próximo passo.",
         "explicacoes": [
-          "Amar o desafio muda a relação com o medo.",
-          "Comparar tamanhos desperdiça energia.",
-          "Foco no passo, não no gigante."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Medir o tamanho do adversário só cansa\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quem foca no obstáculo gigante paralisa; foque no próximo passo — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Medir o tamanho do adversário só cansa\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3250,9 +3237,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A vida não é justa — siga em frente",
         "text": "Esperar justiça trava a ação; quem avança aprende a lidar com o injusto.",
         "explicacoes": [
-          "Lamento não muda resultado.",
-          "Seguir em frente é a única resposta útil.",
-          "Resiliência nasce da aceitação."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"A vida não é justa — siga em frente\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Esperar justiça trava a ação; quem avança aprende a lidar com o injusto — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"A vida não é justa — siga em frente\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3260,9 +3247,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não tema o risco calculado",
         "text": "Quem nunca se arrisca fica parado; coragem medida abre caminhos.",
         "explicacoes": [
-          "Medo paralisante impede decisão.",
-          "Risco calculado é diferente de imprudência.",
-          "Ação vence a dúvida."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Não tema o risco calculado\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quem nunca se arrisca fica parado; coragem medida abre caminhos — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Não tema o risco calculado\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3270,9 +3257,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Empurre quando estiver exausto",
         "text": "Os últimos 10% do esforço costumam decidir a vitória.",
         "explicacoes": [
-          "Cansaço é onde a maioria desiste.",
-          "Quem continua rompe o ponto de virada.",
-          "Reserva extra separa médios de excelentes."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Empurre quando estiver exausto\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Os últimos 10% do esforço costumam decidir a vitória — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Empurre quando estiver exausto\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3280,9 +3267,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tenha esperança e levante os outros",
         "text": "Esperança e encorajamento são forças que mudam pessoas e situações.",
         "explicacoes": [
-          "Quem anima o outro fortalece a si.",
-          "Esperança move grupos em crise.",
-          "Liderança é servir e erguer."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Tenha esperança e levante os outros\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Esperança e encorajamento são forças que mudam pessoas e situações — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Tenha esperança e levante os outros\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3290,9 +3277,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece pelo simples",
         "text": "A primeira vitória pequena destrava todo o resto do dia.",
         "explicacoes": [
-          "Cama feita é metáfora de responsabilidade.",
-          "Tarefa feita cedo prova que você cumpre.",
-          "Ritual pequeno estrutura o dia."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Comece pelo simples\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A primeira vitória pequena destrava todo o resto do dia — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Comece pelo simples\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3300,9 +3287,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Força está na equipe",
         "text": "Ninguém passa sozinho pelo difícil; apoio decide o resultado.",
         "explicacoes": [
-          "Pedir ajuda é força, não fraqueza.",
-          "Laço verdadeiro se forma na adversidade.",
-          "Time vence crise que indivíduo não vence."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Força está na equipe\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ninguém passa sozinho pelo difícil; apoio decide o resultado — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Força está na equipe\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3310,9 +3297,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foco no próximo passo",
         "text": "Medir o gigante paralisa; o passo move.",
         "explicacoes": [
-          "Dividir o impossível em passos torna possível.",
-          "Tamanho do problema não muda a ação.",
-          "Resistência vence pânico."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Foco no próximo passo\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Medir o gigante paralisa; o passo move — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Foco no próximo passo\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3320,9 +3307,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja com medo",
         "text": "Coragem é agir sentindo medo, não ausência dele.",
         "explicacoes": [
-          "Esperar coragem perfeita adia tudo.",
-          "Quem age com medo ainda avança.",
-          "Medo diminui depois do primeiro passo."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Aja com medo\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Coragem é agir sentindo medo, não ausência dele — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Aja com medo\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -3330,9 +3317,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reserva decide o fim",
         "text": "O último esforço separa quem chega de quem desiste.",
         "explicacoes": [
-          "Cansaço é onde a maioria para.",
-          "Quem guarda fôlego vence o final.",
-          "Constância no cansaço define o resultado."
+          "Em \"Arrume sua Cama\", William H. McRaven coloca \"Reserva decide o fim\" no centro de disciplina diária, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O último esforço separa quem chega de quem desiste — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Reserva decide o fim\" é o erro mais comum de quem consome disciplina diária sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -9215,6 +9202,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Falar de dinheiro em casa é cafona ou perigoso",
         "text": "O silêncio financeiro herda crenças limitantes. Pai rico falava de dinheiro à mesa como outros falam de futebol.",
         "reflection": "Que crenças sobre dinheiro você herdou em silêncio e nunca questionou?"
+      },
+      {
+        "type": "truth",
+        "title": "Educação financeira é mais rara que inteligência",
+        "text": "Kiyosaki mostra que pessoas instruídas continuam pobres por falta de alfabetização financeira, não de QI.",
+        "reflection": "Você sabe ler um balanço tanto quanto lê um livro?"
       }
     ],
     "summary": "Em \"Pai Rico, Pai Pobre\", Robert Kiyosaki conta a história de dois pais que o moldaram: o \"pai pobre\" (seu pai biológico, homem instruído e funcionário público) e o \"pai rico\" (o pai de um amigo, empreendedor que mal terminou o ensino formal). A tensão entre as lições de ambos revela por que pessoas inteligentes e trabalhadoras continuam lutando com o dinheiro: elas foram treinadas a trabalhar por ele, nunca a fazê-lo trabalhar por elas. O gancho central é a distinção entre ativos e passivos. Ativos colocam dinheiro no seu bolso (imóveis que geram aluguel, dividendos, royalties, negócios); passivos tiram dinheiro dele (a casa própria financiada, o carro novo, cartões). A classe média confunde uma \"casa\" com um ativo, quando na maioria dos casos é um passivo. Kiyosaki defende a educação financeira como a verdadeira moeda de liberdade: aprender a ler demonstrações financeiras, dominar o fluxo de caixa e usar a inteligência fiscal. Ele ainda introduz o quadrante de fluxo de caixa (Empregado, Autônomo, Dono de Negócio e Investidor) e mostra por que sair do lado esquerdo para o direito é a chave da independência. Não é um manual de investimentos, é um choque de mentalidade sobre o que significa, de fato, ser rico.",
@@ -9235,16 +9228,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A diferença entre um ativo e um passivo é simples: um ativo coloca dinheiro no seu bolso; um passivo tira dinheiro do seu bolso.",
         "autor": "Robert T. Kiyosaki",
         "obra": "Pai Rico, Pai Pobre"
-      },
-      {
-        "texto": "Ao longo da vida, a maioria das pessoas trabalha duro e se endivida profundamente por causa das coisas que acham que são ativos.",
-        "autor": "Robert T. Kiyosaki",
-        "obra": "Pai Rico, Pai Pobre"
-      },
-      {
-        "texto": "A escola forma bons empregados, não formadores de riqueza.",
-        "autor": "Robert T. Kiyosaki",
-        "obra": "Pai Rico, Pai Pobre"
       }
     ],
     "citacoesTerceiros": [
@@ -9257,11 +9240,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Polêmico e repetitivo, mas nenhum outro livro me deu a semente de \"ativos vs passivos\" com tanta clareza.",
         "autor": "Crítico",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "O conceito do quadrante ESBI sozinho já vale a leitura para quem quer sair da dependência do salário.",
-        "autor": "Leitor",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -9277,9 +9255,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Domine o fluxo de caixa",
         "text": "Aprenda a diferença real entre ativo e passivo. Antes de comprar qualquer coisa, pergunte-se se ela colocará ou tirará dinheiro do seu bolso todo mês.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Domine o fluxo de caixa\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: Aprenda a diferença real entre ativo e passivo. Antes de comprar qualquer coisa, pergunte-se se ela colocará ou tirará dinheiro do seu bolso todo mês — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Domine o fluxo de caixa\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Domine o fluxo de caixa\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aprenda a diferença real entre ativo e passivo. Antes de comprar qualquer coisa, pergunte-se se ela colocará ou tirará dinheiro do seu bolso todo mês — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Domine o fluxo de caixa\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9287,9 +9265,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pague-se primeiro",
         "text": "Reserve uma parte da renda para investir em ativos antes de pagar despesas e gostos. Quem paga o mundo primeiro fica sem sobrar para si.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Pague-se primeiro\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: Reserve uma parte da renda para investir em ativos antes de pagar despesas e gostos. Quem paga o mundo primeiro fica sem sobrar para si — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pague-se primeiro\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Pague-se primeiro\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reserve uma parte da renda para investir em ativos antes de pagar despesas e gostos. Quem paga o mundo primeiro fica sem sobrar para si — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Pague-se primeiro\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9297,9 +9275,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa ativos, não troféus",
         "text": "Cada compra deve ser julgada pela capacidade de gerar renda futura. Objetos que só consomem são passivos disfarçados de sucesso.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Construa ativos, não troféus\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: Cada compra deve ser julgada pela capacidade de gerar renda futura. Objetos que só consomem são passivos disfarçados de sucesso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa ativos, não troféus\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Construa ativos, não troféus\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada compra deve ser julgada pela capacidade de gerar renda futura. Objetos que só consomem são passivos disfarçados de sucesso — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Construa ativos, não troféus\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9307,9 +9285,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estude finanças além da escola",
         "text": "A educação formal raramente ensina a ler balanços ou usar alavancagem. Busque conhecimento que a sala de aula ignorou.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Estude finanças além da escola\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: A educação formal raramente ensina a ler balanços ou usar alavancagem. Busque conhecimento que a sala de aula ignorou — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estude finanças além da escola\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Estude finanças além da escola\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A educação formal raramente ensina a ler balanços ou usar alavancagem. Busque conhecimento que a sala de aula ignorou — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Estude finanças além da escola\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9317,9 +9295,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a alavancagem a seu favor",
         "text": "Riqueza cresce com o uso inteligente de outras pessoas, de sistemas e de capital. Fazer tudo sozinho limita o teto.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Use a alavancagem a seu favor\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: Riqueza cresce com o uso inteligente de outras pessoas, de sistemas e de capital. Fazer tudo sozinho limita o teto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a alavancagem a seu favor\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Use a alavancagem a seu favor\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Riqueza cresce com o uso inteligente de outras pessoas, de sistemas e de capital. Fazer tudo sozinho limita o teto — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Use a alavancagem a seu favor\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9327,9 +9305,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda as leis tributárias",
         "text": "A forma jurídica e a natureza da renda mudam quanto você mantém. Ignorar impostos é entregar dinheiro de graça.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Entenda as leis tributárias\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: A forma jurídica e a natureza da renda mudam quanto você mantém. Ignorar impostos é entregar dinheiro de graça — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda as leis tributárias\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Entenda as leis tributárias\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A forma jurídica e a natureza da renda mudam quanto você mantém. Ignorar impostos é entregar dinheiro de graça — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Entenda as leis tributárias\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9337,9 +9315,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mude o quadrante, não só o salário",
         "text": "Subir de cargo no lado esquerdo (E/A) ainda troca tempo por dinheiro. O lado direito (D/I) cria liberdade.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Mude o quadrante, não só o salário\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: Subir de cargo no lado esquerdo (E/A) ainda troca tempo por dinheiro. O lado direito (D/I) cria liberdade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mude o quadrante, não só o salário\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Mude o quadrante, não só o salário\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Subir de cargo no lado esquerdo (E/A) ainda troca tempo por dinheiro. O lado direito (D/I) cria liberdade — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Mude o quadrante, não só o salário\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9347,9 +9325,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trabalhe para aprender, não apenas para ganhar",
         "text": "As primeiras experiências de Pai Rico visavam habilidades (venda, negociação), não o contracheque. Competência abre portas de ativos.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Trabalhe para aprender, não apenas para ganhar\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: As primeiras experiências de Pai Rico visavam habilidades (venda, negociação), não o contracheque. Competência abre portas de ativos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trabalhe para aprender, não apenas para ganhar\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Trabalhe para aprender, não apenas para ganhar\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "As primeiras experiências de Pai Rico visavam habilidades (venda, negociação), não o contracheque. Competência abre portas de ativos — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Trabalhe para aprender, não apenas para ganhar\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9357,9 +9335,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Enfrente o medo e a cobiça",
         "text": "Reconheça quando decide por pânico ou desejo. Quem não sente é raro; quem percebe e escolhe, vence.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Enfrente o medo e a cobiça\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: Reconheça quando decide por pânico ou desejo. Quem não sente é raro; quem percebe e escolhe, vence — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Enfrente o medo e a cobiça\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Enfrente o medo e a cobiça\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça quando decide por pânico ou desejo. Quem não sente é raro; quem percebe e escolhe, vence — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Enfrente o medo e a cobiça\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9367,9 +9345,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Compre tempo, não apenas coisas",
         "text": "O objetivo final do dinheiro é liberdade. Se cada conquista rouba seu tempo, você virou escravo do próprio padrão de vida.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Compre tempo, não apenas coisas\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: O objetivo final do dinheiro é liberdade. Se cada conquista rouba seu tempo, você virou escravo do próprio padrão de vida — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Compre tempo, não apenas coisas\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Compre tempo, não apenas coisas\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O objetivo final do dinheiro é liberdade. Se cada conquista rouba seu tempo, você virou escravo do próprio padrão de vida — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Compre tempo, não apenas coisas\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9377,9 +9355,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ensine os filhos cedo",
         "text": "Modelos financeiros são herdados na infância. Conversar abertamente sobre dinheiro quebra ciclos de pobreza geracional.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Ensine os filhos cedo\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: Modelos financeiros são herdados na infância. Conversar abertamente sobre dinheiro quebra ciclos de pobreza geracional — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ensine os filhos cedo\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Ensine os filhos cedo\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Modelos financeiros são herdados na infância. Conversar abertamente sobre dinheiro quebra ciclos de pobreza geracional — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Ensine os filhos cedo\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9387,9 +9365,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja como investidor, não como espectador",
         "text": "Esperar o momento perfeito paralisa. Comece pequeno, cometa erros baratos e ajuste o rumo com a prática.",
         "explicacoes": [
-          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki trata \"Aja como investidor, não como espectador\" como peça-chave para a educação financeira e a diferença entre ativos e passivos.",
-          "Na prática: Esperar o momento perfeito paralisa. Comece pequeno, cometa erros baratos e ajuste o rumo com a prática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja como investidor, não como espectador\" aplica a educação financeira e a diferença entre ativos e passivos de forma concreta, não apenas como conceito."
+          "Em \"Pai Rico, Pai Pobre\", Robert T. Kiyosaki coloca \"Aja como investidor, não como espectador\" no centro de educação financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Esperar o momento perfeito paralisa. Comece pequeno, cometa erros baratos e ajuste o rumo com a prática — traduzido para a prática, é o passo concreto que liga a teoria de Robert T. Kiyosaki ao comportamento diário.",
+          "Ignorar \"Aja como investidor, não como espectador\" é o erro mais comum de quem consome educação financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -9725,6 +9703,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Riqueza é assunto de gênios",
         "text": "As parábolas mostram camponeses, escravos e harpistas aprendendo as mesmas leis. Sabedoria bate inteligência rara.",
         "reflection": "Você se acha \"sem perfil\" para investir ou só sem os sete remédios?"
+      },
+      {
+        "type": "truth",
+        "title": "Riqueza obedece a leis universais, não à sorte",
+        "text": "Os princípios de Babilônia valem hoje: guarde parte da renda, proteja o capital e faça-o render.",
+        "reflection": "Você trata o dinheiro como lei ou como acaso?"
       }
     ],
     "summary": "Publicado originalmente em 1926 como folhetos distribuídos por bancos e seguradoras, \"O Homem Mais Rico da Babilônia\" de George S. Clason é um clássico atemporal contado em parábolas ambientadas na antiga Babilônia, a cidade mais rica do mundo antigo. A narrativa segue Arkad, o homem mais rico da cidade, que revela os segredos de sua fortuna a um grupo de monges dispostos a ensiná-los ao povo. O gancho central é simples e milenar: \"uma parte de tudo que você ganha é sua para guardar\". Clason traduz princípios financeiros eternos em histórias vívidas — o escravo Bansir e o tocador de harpa Kobbi, que descobrem que trabalho duro sem sabedoria não gera riqueza; a caravana de mercadores aprendendo a fazer o ouro multiplicar; e o conselho de nunca confiar ouro a quem não sabe guardá-lo. Os \"Sete Remédios para uma Bolsa Vazia\" e as \"Cinco Leis de Ouro\" ensinam a poupar 10%, viver abaixo da renda, investir com critério, proteger-se de perdas e buscar sempre aumentar a capacidade de ganhar. Sem jargão, o livro prova que as regras do dinheiro não mudaram em três milênios.",
@@ -9745,16 +9729,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Quem guarda dez moedas de cada cem que ganha, e as faz trabalhar, logo terá uma bolsa gorda.",
         "autor": "George S. Clason",
         "obra": "O Homem Mais Rico da Babilônia"
-      },
-      {
-        "texto": "O ouro é um mestre severo: empresta a quem sabe guardá-lo e foge de quem o desperdiça.",
-        "autor": "George S. Clason",
-        "obra": "O Homem Mais Rico da Babilônia"
-      },
-      {
-        "texto": "A sorte segue aquele que aplica as leis de ouro; foge de quem as ignora.",
-        "autor": "George S. Clason",
-        "obra": "O Homem Mais Rico da Babilônia"
       }
     ],
     "citacoesTerceiros": [
@@ -9767,11 +9741,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Às vezes parece repetitivo, mas justamente a repetição das parábolas fixa o hábito de poupar.",
         "autor": "Crítico",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "O melhor livro de finanças para quem não gosta de finanças: histórias curtas, lições para a vida toda.",
-        "autor": "Leitor",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -9787,9 +9756,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pague a si mesmo primeiro",
         "text": "Reserve 10% de tudo que ganha antes de qualquer despesa. Esse hábito é a fundação de toda bolsa cheia.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Pague a si mesmo primeiro\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Reserve 10% de tudo que ganha antes de qualquer despesa. Esse hábito é a fundação de toda bolsa cheia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pague a si mesmo primeiro\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Pague a si mesmo primeiro\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reserve 10% de tudo que ganha antes de qualquer despesa. Esse hábito é a fundação de toda bolsa cheia — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Pague a si mesmo primeiro\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9797,9 +9766,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Controle seus gastos",
         "text": "Viver abaixo da renda não é miséria, é liberdade. Anote e corte o supérfluo que esvazia a bolsa.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Controle seus gastos\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Viver abaixo da renda não é miséria, é liberdade. Anote e corte o supérfluo que esvazia a bolsa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Controle seus gastos\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Controle seus gastos\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Viver abaixo da renda não é miséria, é liberdade. Anote e corte o supérfluo que esvazia a bolsa — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Controle seus gastos\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9807,9 +9776,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça seu ouro multiplicar-se",
         "text": "Poupar é o começo; investir com conhecimento faz o capital trabalhar por você dia e noite.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Faça seu ouro multiplicar-se\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Poupar é o começo; investir com conhecimento faz o capital trabalhar por você dia e noite — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça seu ouro multiplicar-se\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Faça seu ouro multiplicar-se\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Poupar é o começo; investir com conhecimento faz o capital trabalhar por você dia e noite — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Faça seu ouro multiplicar-se\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9817,9 +9786,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja seu capital",
         "text": "Não arrisque o ouro onde possa perdê-lo. Preservação precede multiplicação.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Proteja seu capital\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Não arrisque o ouro onde possa perdê-lo. Preservação precede multiplicação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja seu capital\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Proteja seu capital\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não arrisque o ouro onde possa perdê-lo. Preservação precede multiplicação — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Proteja seu capital\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9827,9 +9796,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tenha sua casa",
         "text": "Conquistar o lar próprio, sem sufocamento de dívida, traz segurança e estabilidade à família.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Tenha sua casa\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Conquistar o lar próprio, sem sufocamento de dívida, traz segurança e estabilidade à família — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Tenha sua casa\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Tenha sua casa\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conquistar o lar próprio, sem sufocamento de dívida, traz segurança e estabilidade à família — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Tenha sua casa\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9837,9 +9806,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Assegure uma renda futura",
         "text": "Planeje aposentadoria e proteção à família. O futuro chega mais cedo do que se imagina.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Assegure uma renda futura\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Planeje aposentadoria e proteção à família. O futuro chega mais cedo do que se imagina — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Assegure uma renda futura\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Assegure uma renda futura\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Planeje aposentadoria e proteção à família. O futuro chega mais cedo do que se imagina — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Assegure uma renda futura\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9847,9 +9816,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aumente sua capacidade de ganhar",
         "text": "Estude, aprenda ofícios, melhore-se. A melhor alavancagem é a própria competência.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Aumente sua capacidade de ganhar\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Estude, aprenda ofícios, melhore-se. A melhor alavancagem é a própria competência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aumente sua capacidade de ganhar\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Aumente sua capacidade de ganhar\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estude, aprenda ofícios, melhore-se. A melhor alavancagem é a própria competência — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Aumente sua capacidade de ganhar\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9857,9 +9826,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque conselho de quem sabe",
         "text": "Só aceite orientação financeira de quem guarda o próprio ouro. Opinião de endividado custa caro.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Busque conselho de quem sabe\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Só aceite orientação financeira de quem guarda o próprio ouro. Opinião de endividado custa caro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque conselho de quem sabe\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Busque conselho de quem sabe\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Só aceite orientação financeira de quem guarda o próprio ouro. Opinião de endividado custa caro — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Busque conselho de quem sabe\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9867,9 +9836,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fuja da dívida impulsiva",
         "text": "Empréstimo sem plano de pagamento é escravidão disfarçada. Juros não perdoam atraso.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Fuja da dívida impulsiva\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Empréstimo sem plano de pagamento é escravidão disfarçada. Juros não perdoam atraso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fuja da dívida impulsiva\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Fuja da dívida impulsiva\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Empréstimo sem plano de pagamento é escravidão disfarçada. Juros não perdoam atraso — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Fuja da dívida impulsiva\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9877,9 +9846,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja paciente e constante",
         "text": "Riqueza é construída moeda por moeda, ano após ano. Constância vence euforia.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Seja paciente e constante\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Riqueza é construída moeda por moeda, ano após ano. Constância vence euforia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja paciente e constante\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Seja paciente e constante\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Riqueza é construída moeda por moeda, ano após ano. Constância vence euforia — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Seja paciente e constante\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9887,9 +9856,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ensine a próximo",
         "text": "Quem repassa as leis de ouro reforça o próprio domínio e eleva a comunidade.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Ensine a próximo\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Quem repassa as leis de ouro reforça o próprio domínio e eleva a comunidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ensine a próximo\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Ensine a próximo\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quem repassa as leis de ouro reforça o próprio domínio e eleva a comunidade — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Ensine a próximo\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -9897,9 +9866,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize o trabalho, mas ame a sabedoria",
         "text": "Esforço sem direção deixa Bansir pobre. Direção certa transforma esforço em ouro.",
         "explicacoes": [
-          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason trata \"Valorize o trabalho, mas ame a sabedoria\" como peça-chave para as leis milenares de preservação e multiplicação da riqueza.",
-          "Na prática: Esforço sem direção deixa Bansir pobre. Direção certa transforma esforço em ouro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize o trabalho, mas ame a sabedoria\" aplica as leis milenares de preservação e multiplicação da riqueza de forma concreta, não apenas como conceito."
+          "Em \"O Homem Mais Rico da Babilônia\", George S. Clason coloca \"Valorize o trabalho, mas ame a sabedoria\" no centro de riqueza pessoal, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Esforço sem direção deixa Bansir pobre. Direção certa transforma esforço em ouro — traduzido para a prática, é o passo concreto que liga a teoria de George S. Clason ao comportamento diário.",
+          "Ignorar \"Valorize o trabalho, mas ame a sabedoria\" é o erro mais comum de quem consome riqueza pessoal sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -10235,6 +10204,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Basta querer mudar a personalidade",
         "text": "Personalidade é construída por pequenos atos repetidos. Quem você é é o que você repete.",
         "reflection": "Você se define por intenções ou por repetições diárias?"
+      },
+      {
+        "type": "truth",
+        "title": "Melhorias de 1% se acumulam em resultados notáveis",
+        "text": "Clear demonstra que ganhos aparentemente irrelevantes compostos por anos superam ações esporádicas grandiosas.",
+        "reflection": "Onde você descarta o 1% que mudaria tudo em três anos?"
       }
     ],
     "summary": "\"Hábitos Atômicos\" de James Clear é um manual prático e científico para melhorar 1% ao dia por meio de pequenas mudanças que se acumulam em resultados notáveis. O gancho central é uma inversão: não suba a régua dos objetivos, mude o sistema. \"Você não alcança o nível das suas metas; você cai para o nível dos seus sistemas.\" Clear decompõe o hábito no loop de quatro etapas — gatilho (cue), desejo (craving), resposta (response) e recompensa (reward) — e apresenta as Quatro Leis da Mudança de Comportamento para construir bons hábitos: torne-os óbvios, atraentes, fáceis e satisfatórios; e para quebrar maus hábitos, inverta as leis. O livro traz conceitos originais como \"empilhamento de hábitos\" (habit stacking), a \"regra dos dois minutos\" (toda rotina deve caber em menos de 120 segundos no início) e a \"melhoria contínua\" (kaizen aplicada). Clear também distingue resultado, processo e identidade: a mudança mais profunda vem de agir como a pessoa que você quer ser. Com exemplos de atletas, artistas e empresas, o livro prova que a agregação de ganhos marginais — muitas vezes invisível no curto prazo — vence no longo prazo.",
@@ -10255,16 +10230,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Hábitos são o composto de interesse sobre o tempo. O sucesso é produto de rotinas diárias, não de mudanças drásticas.",
         "autor": "James Clear",
         "obra": "Hábitos Atômicos"
-      },
-      {
-        "texto": "Não subestime o poder de pequenas melhorias diárias, pois elas se acumulam em resultados notáveis.",
-        "autor": "James Clear",
-        "obra": "Hábitos Atômicos"
-      },
-      {
-        "texto": "O que é imediato e satisfatório tende a vencer o que é importante e adiado.",
-        "autor": "James Clear",
-        "obra": "Hábitos Atômicos"
       }
     ],
     "citacoesTerceiros": [
@@ -10277,11 +10242,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Clear sistematiza o que outros apenas intuíam. As Quatro Leis viraram meu método de coaching.",
         "autor": "Crítico",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Li depois de \"O Poder do Hábito\" e achei este mais aplicável no dia a dia.",
-        "autor": "Leitor",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -10297,9 +10257,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Melhore 1% ao dia",
         "text": "Pequenas melhoras compostas geram ganhos enormes. Foque na margem, não no salto.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Melhore 1% ao dia\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Pequenas melhoras compostas geram ganhos enormes. Foque na margem, não no salto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Melhore 1% ao dia\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Melhore 1% ao dia\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenas melhoras compostas geram ganhos enormes. Foque na margem, não no salto — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Melhore 1% ao dia\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10307,9 +10267,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa sistemas, não só metas",
         "text": "Metas dão direção; sistemas entregam resultado. Um sem o outro falha.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Construa sistemas, não só metas\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Metas dão direção; sistemas entregam resultado. Um sem o outro falha — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa sistemas, não só metas\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Construa sistemas, não só metas\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Metas dão direção; sistemas entregam resultado. Um sem o outro falha — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Construa sistemas, não só metas\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10317,9 +10277,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use as Quatro Leis",
         "text": "Torne o hábito óbvio, atraente, fácil e satisfatório para criá-lo.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Use as Quatro Leis\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Torne o hábito óbvio, atraente, fácil e satisfatório para criá-lo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use as Quatro Leis\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Use as Quatro Leis\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Torne o hábito óbvio, atraente, fácil e satisfatório para criá-lo — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Use as Quatro Leis\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10327,9 +10287,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aplique o empilhamento",
         "text": "Acrescente o novo hábito a um existente: \"depois de X, farei Y\".",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Aplique o empilhamento\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Acrescente o novo hábito a um existente: \"depois de X, farei Y\" — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aplique o empilhamento\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Aplique o empilhamento\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acrescente o novo hábito a um existente: \"depois de X, farei Y\" — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Aplique o empilhamento\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10337,9 +10297,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Siga a regra dos dois minutos",
         "text": "Toda rotina nova deve caber em menos de 120 segundos para começar.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Siga a regra dos dois minutos\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Toda rotina nova deve caber em menos de 120 segundos para começar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Siga a regra dos dois minutos\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Siga a regra dos dois minutos\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Toda rotina nova deve caber em menos de 120 segundos para começar — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Siga a regra dos dois minutos\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10347,9 +10307,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque na identidade",
         "text": "Aja como a pessoa que deseja ser; a identidade trará consistência.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Foque na identidade\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Aja como a pessoa que deseja ser; a identidade trará consistência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque na identidade\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Foque na identidade\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aja como a pessoa que deseja ser; a identidade trará consistência — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Foque na identidade\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10357,9 +10317,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Redesenhe o ambiente",
         "text": "Coloque o gatilho do bem à vista e o do mal fora de alcance.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Redesenhe o ambiente\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Coloque o gatilho do bem à vista e o do mal fora de alcance — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Redesenhe o ambiente\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Redesenhe o ambiente\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Coloque o gatilho do bem à vista e o do mal fora de alcance — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Redesenhe o ambiente\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10367,9 +10327,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Inverta as leis para eliminar vícios",
         "text": "Torne o mau hábito invisível, repelente, difícil e insatisfatório.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Inverta as leis para eliminar vícios\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Torne o mau hábito invisível, repelente, difícil e insatisfatório — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Inverta as leis para eliminar vícios\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Inverta as leis para eliminar vícios\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Torne o mau hábito invisível, repelente, difícil e insatisfatório — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Inverta as leis para eliminar vícios\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10377,9 +10337,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não quebre a cadeia",
         "text": "Marque dias de execução; uma falha é ok, a segunda é o início do fim.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Não quebre a cadeia\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Marque dias de execução; uma falha é ok, a segunda é o início do fim — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não quebre a cadeia\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Não quebre a cadeia\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Marque dias de execução; uma falha é ok, a segunda é o início do fim — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Não quebre a cadeia\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10387,9 +10347,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o platô latente",
         "text": "Resultados somem até o ponto de ruptura. Confie no processo invisível.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Aceite o platô latente\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Resultados somem até o ponto de ruptura. Confie no processo invisível — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o platô latente\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Aceite o platô latente\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Resultados somem até o ponto de ruptura. Confie no processo invisível — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Aceite o platô latente\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10397,9 +10357,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza o atrito",
         "text": "Menos fricção entre você e o hábito aumenta a execução.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Reduza o atrito\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Menos fricção entre você e o hábito aumenta a execução — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza o atrito\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Reduza o atrito\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Menos fricção entre você e o hábito aumenta a execução — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Reduza o atrito\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10407,9 +10367,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Celebre a recompensa",
         "text": "Feche o loop com satisfação imediata para o cérebro repetir.",
         "explicacoes": [
-          "Em \"Hábitos Atômicos\", James Clear trata \"Celebre a recompensa\" como peça-chave para a construção de hábitos por pequenas melhorias de 1%.",
-          "Na prática: Feche o loop com satisfação imediata para o cérebro repetir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Celebre a recompensa\" aplica a construção de hábitos por pequenas melhorias de 1% de forma concreta, não apenas como conceito."
+          "Em \"Hábitos Atômicos\", James Clear coloca \"Celebre a recompensa\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Feche o loop com satisfação imediata para o cérebro repetir — traduzido para a prática, é o passo concreto que liga a teoria de James Clear ao comportamento diário.",
+          "Ignorar \"Celebre a recompensa\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -10745,6 +10705,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comportamento racional sempre vence",
         "text": "Emocional e automático costumam vencer o racional cansado. Conhecer o loop é a defesa.",
         "reflection": "Você confia na razão do fim do dia ou desenha o ambiente de manhã?"
+      },
+      {
+        "type": "truth",
+        "title": "Hábitos podem ser reescritos mantendo gatilho e recompensa",
+        "text": "Duhigg prova que não se elimina um hábito, substitui-se a rotina mantendo o loop neural.",
+        "reflection": "Qual gatilho sustenta o hábito que você quer mudar?"
       }
     ],
     "summary": "Em \"O Poder do Hábito\", o jornalista Charles Duhigg investiga a ciência de como os hábitos se formam no cérebro e como podem ser reescritos. O gancho central é o \"loop do hábito\": todo comportamento automático nasce de um gatilho (cue), seguido por uma rotina (routine) e coroado por uma recompensa (reward). A descoberta neurocientífica de que o cérebro entra em \"modo automático\" para economizar energia explica por que é tão difícil mudar — e por que é possível. Duhigg mostra que não se apaga um hábito, mas se substitui a rotina mantendo o mesmo gatilho e a mesma recompensa. O livro traz casos fascinantes: como a P&G inventou o Febreze entendendo o gatilho do cheiro; como a Starbucks treina \"força de vontade\" como um hábito em seus atendentes; como o hábito-âncora (keystone habit) de Michael Phelps o fez campeão; e como hábitos organizacionais determinam o sucesso de empresas e até movimentos sociais como a integração racial em Montgomery. A mensagem: entender a estrutura do hábito devolve o poder de escolha.",
@@ -10765,16 +10731,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A força de vontade torna-se um hábito quando se escolhe um comportamento de antemão e segue a rotina num ponto de inflexão.",
         "autor": "Charles Duhigg",
         "obra": "O Poder do Hábito"
-      },
-      {
-        "texto": "Os hábitos-âncora mudam estruturas inteiras porque reconfiguram o que é esperado.",
-        "autor": "Charles Duhigg",
-        "obra": "O Poder do Hábito"
-      },
-      {
-        "texto": "A mudança parece impossível até alguém mostrar o caminho — então torna-se inevitável.",
-        "autor": "Charles Duhigg",
-        "obra": "O Poder do Hábito"
       }
     ],
     "citacoesTerceiros": [
@@ -10787,11 +10743,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Mistura ciência e histórias reais; terminei enxergando loops em tudo que faço.",
         "autor": "Crítico",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Leitura essencial antes de tentar mudar qualquer rotina corporativa.",
-        "autor": "Leitor",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -10807,9 +10758,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mapeie o loop do hábito",
         "text": "Identifique gatilho, rotina e recompensa. Sem mapear, não há mudança.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Mapeie o loop do hábito\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Identifique gatilho, rotina e recompensa. Sem mapear, não há mudança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mapeie o loop do hábito\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Mapeie o loop do hábito\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identifique gatilho, rotina e recompensa. Sem mapear, não há mudança — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Mapeie o loop do hábito\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10817,9 +10768,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Substitua a rotina",
         "text": "Mantenha gatilho e recompensa; troque só o comportamento do meio.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Substitua a rotina\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Mantenha gatilho e recompensa; troque só o comportamento do meio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Substitua a rotina\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Substitua a rotina\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mantenha gatilho e recompensa; troque só o comportamento do meio — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Substitua a rotina\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10827,9 +10778,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Descubra a recompensa real",
         "text": "Experimente recompensas diferentes para entender o que o cérebro busca.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Descubra a recompensa real\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Experimente recompensas diferentes para entender o que o cérebro busca — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Descubra a recompensa real\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Descubra a recompensa real\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Experimente recompensas diferentes para entender o que o cérebro busca — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Descubra a recompensa real\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10837,9 +10788,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje o inflection point",
         "text": "Decida antecipadamente como agir numa situação de tensão; vontade vira hábito.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Planeje o inflection point\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Decida antecipadamente como agir numa situação de tensão; vontade vira hábito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje o inflection point\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Planeje o inflection point\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Decida antecipadamente como agir numa situação de tensão; vontade vira hábito — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Planeje o inflection point\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10847,9 +10798,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use um hábito-âncora",
         "text": "Mude um hábito central e outros positivos tendem a seguir.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Use um hábito-âncora\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Mude um hábito central e outros positivos tendem a seguir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use um hábito-âncora\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Use um hábito-âncora\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mude um hábito central e outros positivos tendem a seguir — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Use um hábito-âncora\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10857,9 +10808,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine força de vontade",
         "text": "Pequenos exercícios de autocontrole fortalecem a capacidade geral.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Treine força de vontade\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Pequenos exercícios de autocontrole fortalecem a capacidade geral — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine força de vontade\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Treine força de vontade\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenos exercícios de autocontrole fortalecem a capacidade geral — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Treine força de vontade\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10867,9 +10818,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie gatilhos visíveis",
         "text": "Ambiente que lembra a rotina certa ajuda a manter o loop.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Crie gatilhos visíveis\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Ambiente que lembra a rotina certa ajuda a manter o loop — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie gatilhos visíveis\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Crie gatilhos visíveis\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ambiente que lembra a rotina certa ajuda a manter o loop — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Crie gatilhos visíveis\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10877,9 +10828,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque comunidade e fé",
         "text": "Apoio social e propósito aumentam drasticamente o sucesso.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Busque comunidade e fé\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Apoio social e propósito aumentam drasticamente o sucesso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque comunidade e fé\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Busque comunidade e fé\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Apoio social e propósito aumentam drasticamente o sucesso — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Busque comunidade e fé\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10887,9 +10838,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aproveite crises",
         "text": "Momentos de ruptura são oportunidades de reescrever culturas e rotinas.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Aproveite crises\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Momentos de ruptura são oportunidades de reescrever culturas e rotinas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aproveite crises\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Aproveite crises\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Momentos de ruptura são oportunidades de reescrever culturas e rotinas — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Aproveite crises\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10897,9 +10848,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conheça os hábitos da organização",
         "text": "Entenda as rotinas coletivas para liderar ou mudar uma empresa.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Conheça os hábitos da organização\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Entenda as rotinas coletivas para liderar ou mudar uma empresa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conheça os hábitos da organização\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Conheça os hábitos da organização\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Entenda as rotinas coletivas para liderar ou mudar uma empresa — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Conheça os hábitos da organização\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10907,9 +10858,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não confie só na razão",
         "text": "O cérebro cansado cede ao automático; desenhe o ambiente a favor.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Não confie só na razão\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: O cérebro cansado cede ao automático; desenhe o ambiente a favor — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não confie só na razão\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Não confie só na razão\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O cérebro cansado cede ao automático; desenhe o ambiente a favor — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Não confie só na razão\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -10917,9 +10868,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Medir para consolidar",
         "text": "Acompanhar a execução reforça o loop e evita recaídas.",
         "explicacoes": [
-          "Em \"O Poder do Hábito\", Charles Duhigg trata \"Medir para consolidar\" como peça-chave para a ciência do loop de hábito e do poder da rotina.",
-          "Na prática: Acompanhar a execução reforça o loop e evita recaídas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Medir para consolidar\" aplica a ciência do loop de hábito e do poder da rotina de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Hábito\", Charles Duhigg coloca \"Medir para consolidar\" no centro de hábitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acompanhar a execução reforça o loop e evita recaídas — traduzido para a prática, é o passo concreto que liga a teoria de Charles Duhigg ao comportamento diário.",
+          "Ignorar \"Medir para consolidar\" é o erro mais comum de quem consome hábitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -11231,6 +11182,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Culpa ajuda a mudar",
         "text": "Orman rejeita a culpa paralisante. Responsabilidade move; vergonha trava.",
         "reflection": "Você usa o erro passado para agir ou para se punir?"
+      },
+      {
+        "type": "truth",
+        "title": "Poder sobre o dinheiro nasce de se honestar com ele",
+        "text": "Orman ensina que dívida e medo vêm de crenças ocultas; clareza emocional precede qualquer plano financeiro.",
+        "reflection": "Que crença sobre dinheiro você nunca confessou?"
       }
     ],
     "summary": "\"A Mulher e o Dinheiro\" de Suze Orman é um manifesto financeiro direcionado às mulheres, mas útil a qualquer pessoa que queira assumir o controle do próprio poder econômico. Orman parte de uma constatação dura: as mulheres ainda ganham menos, vivem mais e, muitas vezes, confiam o dinheiro a terceiros em vez de entendê-lo. O gancho central é \"fique na sua própria verdade\" — assumir a responsabilidade e o conhecimento, em vez de delegar cegamente. O livro mistura finanças práticas (reserva de emergência, aposentadoria, seguros, testamentos, dívidas) com uma ética de valor próprio: você deve se tratar como alguém que merece segurança. Orman cunha a regra \"pessoas primeiro, depois dinheiro, depois coisas\" e alerta que compras para agradar os outros são armadilhas. Ela defende a independência financeira como forma de proteger relacionamentos e liberdade, especialmente diante de divórcio, viuvez ou perda de emprego. Com tom direto e provocador, Orman quer que a leitora pare de se sentir culpada ou inferior e passe a comandar seu destino econômico.",
@@ -11251,33 +11208,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O cartão de crédito é a maior arma contra a mulher que não entende juros compostos.",
         "autor": "Suze Orman",
         "obra": "A Mulher e o Dinheiro"
-      },
-      {
-        "texto": "Você merece se tratar como alguém que vale o que ganha — e merece ganhar o que vale.",
-        "autor": "Suze Orman",
-        "obra": "A Mulher e o Dinheiro"
-      },
-      {
-        "texto": "Quem não sabe o que tem não pode proteger o que ama.",
-        "autor": "Suze Orman",
-        "obra": "A Mulher e o Dinheiro"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Li depois de um divórcio e foi como acordar: comecei a comandar minhas contas de verdade.",
-        "autor": "Leitora",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Direto e às vezes duro, mas a parte dos documentos legais me fez agir rápido.",
-        "autor": "Crítica",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Não é só para mulheres; qualquer pessoa que delegou o dinheiro a outro precisa ler.",
         "autor": "Leitor",
-        "fonte": "Skoob"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -11293,9 +11235,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Assuma o comando",
         "text": "Você, e não terceiros, deve entender e decidir sobre seu dinheiro.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Assuma o comando\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Você, e não terceiros, deve entender e decidir sobre seu dinheiro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Assuma o comando\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Assuma o comando\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Você, e não terceiros, deve entender e decidir sobre seu dinheiro — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Assuma o comando\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11303,9 +11245,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Monte reserva de emergência",
         "text": "Guarde de 6 a 8 meses de despesas para proteger-se de imprevistos.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Monte reserva de emergência\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Guarde de 6 a 8 meses de despesas para proteger-se de imprevistos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Monte reserva de emergência\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Monte reserva de emergência\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Guarde de 6 a 8 meses de despesas para proteger-se de imprevistos — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Monte reserva de emergência\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11313,9 +11255,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Elimine dívida de consumo",
         "text": "Quite cartões e financiamentos; juros compostos contra você destroem patrimônio.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Elimine dívida de consumo\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Quite cartões e financiamentos; juros compostos contra você destroem patrimônio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Elimine dívida de consumo\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Elimine dívida de consumo\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quite cartões e financiamentos; juros compostos contra você destroem patrimônio — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Elimine dívida de consumo\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11323,9 +11265,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize-se no trabalho",
         "text": "Negocie salário com base no que vale; autoestima atrai melhores condições.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Valorize-se no trabalho\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Negocie salário com base no que vale; autoestima atrai melhores condições — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize-se no trabalho\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Valorize-se no trabalho\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Negocie salário com base no que vale; autoestima atrai melhores condições — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Valorize-se no trabalho\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11333,9 +11275,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja com seguros",
         "text": "Vida, saúde e invalidez são a base da segurança familiar.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Proteja com seguros\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Vida, saúde e invalidez são a base da segurança familiar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja com seguros\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Proteja com seguros\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vida, saúde e invalidez são a base da segurança familiar — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Proteja com seguros\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11343,9 +11285,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça documentos legais",
         "text": "Testamento, procuração e diretrizes de saúde protegem a família.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Faça documentos legais\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Testamento, procuração e diretrizes de saúde protegem a família — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça documentos legais\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Faça documentos legais\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Testamento, procuração e diretrizes de saúde protegem a família — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Faça documentos legais\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11353,9 +11295,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Poupe para aposentadoria cedo",
         "text": "Mulheres vivem mais; começar tarde reduz a liberdade futura.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Poupe para aposentadoria cedo\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Mulheres vivem mais; começar tarde reduz a liberdade futura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Poupe para aposentadoria cedo\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Poupe para aposentadoria cedo\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mulheres vivem mais; começar tarde reduz a liberdade futura — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Poupe para aposentadoria cedo\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11363,9 +11305,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pessoas antes de coisas",
         "text": "Cuidar de si e dos seus antes de acumular bens evita arrependimentos.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Pessoas antes de coisas\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Cuidar de si e dos seus antes de acumular bens evita arrependimentos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pessoas antes de coisas\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Pessoas antes de coisas\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cuidar de si e dos seus antes de acumular bens evita arrependimentos — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Pessoas antes de coisas\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11373,9 +11315,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Converse sobre dinheiro no casal",
         "text": "Transparência previne vulnerabilidade e conflitos.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Converse sobre dinheiro no casal\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Transparência previne vulnerabilidade e conflitos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Converse sobre dinheiro no casal\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Converse sobre dinheiro no casal\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Transparência previne vulnerabilidade e conflitos — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Converse sobre dinheiro no casal\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11383,9 +11325,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não compre por aprovação",
         "text": "Separe necessidade de vaidade; compras para agradar terceiros são armadilhas.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Não compre por aprovação\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Separe necessidade de vaidade; compras para agradar terceiros são armadilhas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não compre por aprovação\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Não compre por aprovação\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Separe necessidade de vaidade; compras para agradar terceiros são armadilhas — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Não compre por aprovação\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11393,9 +11335,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aprenda a investir",
         "text": "Participação ativa no mercado é essencial; não terceirize por timidez.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Aprenda a investir\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Participação ativa no mercado é essencial; não terceirize por timidez — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aprenda a investir\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Aprenda a investir\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Participação ativa no mercado é essencial; não terceirize por timidez — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Aprenda a investir\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11403,9 +11345,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Responsa, não se culpe",
         "text": "Assuma a realidade financeira e aja; culpa paralisa, responsabilidade move.",
         "explicacoes": [
-          "Em \"A Mulher e o Dinheiro\", Suze Orman trata \"Responsa, não se culpe\" como peça-chave para a relação emocional e prática com o dinheiro e a segurança.",
-          "Na prática: Assuma a realidade financeira e aja; culpa paralisa, responsabilidade move — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Responsa, não se culpe\" aplica a relação emocional e prática com o dinheiro e a segurança de forma concreta, não apenas como conceito."
+          "Em \"A Mulher e o Dinheiro\", Suze Orman coloca \"Responsa, não se culpe\" no centro de relação com o dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Assuma a realidade financeira e aja; culpa paralisa, responsabilidade move — traduzido para a prática, é o passo concreto que liga a teoria de Suze Orman ao comportamento diário.",
+          "Ignorar \"Responsa, não se culpe\" é o erro mais comum de quem consome relação com o dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -11717,6 +11659,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crescimento infinito é natural",
         "text": "O livro critica a lógica do sempre-mais como insustentável para o planeta e para a alma.",
         "reflection": "Você questiona o \"crescer para cima\" ou o aceita como lei?"
+      },
+      {
+        "type": "truth",
+        "title": "Cada gasto é uma troca de vida — tempo vendido por dinheiro",
+        "text": "Robin propõe medir despesas em horas de vida, revelando o custo real e invisível do consumo.",
+        "reflection": "Quantas horas da sua vida valeram o que você comprou ontem?"
       }
     ],
     "summary": "\"Seu Dinheiro ou Sua Vida\", de Vicki Robin e Joe Dominguez, é o manifesto fundador do movimento de independência financeira e simplicidade voluntária. Publicado em 1992, propõe uma pergunta devastadora: quanto da sua vida você está vendendo em troca das coisas que compra? O gancho central é tratar dinheiro como \"energia de vida\" — horas da sua existência trocadas por bens. Os autores ensinam a calcular seu salário por hora real (descontando todos os custos de trabalhar) e a rastrear cada gasto até a quantidade de vida que custou. A partir daí, as nove etapas conduzem à liberdade: juntar dados honestos, criar gráficos de fluxo, questionar a \"linha de o suficiente\", reduzir despesas, aumentar o valor da vida, investir para renda passiva e, finalmente, atingir o ponto em que a renda de investimentos cobre os custos — a independência financeira de fato. Não é sobre ficar rico, é sobre recuperar o tempo e viver de propósito. O livro funde finanças práticas com uma crítica profunda ao consumismo e à corrida por mais.",
@@ -11737,16 +11685,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A pergunta não é quanto você ganha, mas quanto de sua vida você está vendendo.",
         "autor": "Vicki Robin",
         "obra": "Seu Dinheiro ou Sua Vida"
-      },
-      {
-        "texto": "Menos coisas, mais vida: a simplicidade voluntária é liberdade disfarçada de renúncia.",
-        "autor": "Vicki Robin",
-        "obra": "Seu Dinheiro ou Sua Vida"
-      },
-      {
-        "texto": "A linha de \"o suficiente\" é o ponto onde parar de correr atrás de mais.",
-        "autor": "Vicki Robin",
-        "obra": "Seu Dinheiro ou Sua Vida"
       }
     ],
     "citacoesTerceiros": [
@@ -11759,11 +11697,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A versão de 2018 atualizou bem os exemplos; a essência sobre energia de vida continua ótima.",
         "autor": "Crítico",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Fundamental para quem quer FIRE no Brasil, mesmo com números em dólar.",
-        "autor": "Leitor",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -11779,9 +11712,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mapeie sua vida financeira",
         "text": "Reúna todos os dados de ganhos e gastos num retrato honesto.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Mapeie sua vida financeira\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Reúna todos os dados de ganhos e gastos num retrato honesto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mapeie sua vida financeira\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Mapeie sua vida financeira\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reúna todos os dados de ganhos e gastos num retrato honesto — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Mapeie sua vida financeira\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11789,9 +11722,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Calcule o salário real por hora",
         "text": "Desconte os custos de trabalhar para saber quanto sua hora vale.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Calcule o salário real por hora\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Desconte os custos de trabalhar para saber quanto sua hora vale — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Calcule o salário real por hora\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Calcule o salário real por hora\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desconte os custos de trabalhar para saber quanto sua hora vale — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Calcule o salário real por hora\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11799,9 +11732,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Transforme gastos em horas de vida",
         "text": "Toda compra vira tempo da sua existência; julgue-a por esse custo.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Transforme gastos em horas de vida\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Toda compra vira tempo da sua existência; julgue-a por esse custo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Transforme gastos em horas de vida\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Transforme gastos em horas de vida\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Toda compra vira tempo da sua existência; julgue-a por esse custo — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Transforme gastos em horas de vida\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11809,9 +11742,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça gráficos de fluxo",
         "text": "Visualizar entrada e saída revela para onde sua vida escorre.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Faça gráficos de fluxo\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Visualizar entrada e saída revela para onde sua vida escorre — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça gráficos de fluxo\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Faça gráficos de fluxo\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Visualizar entrada e saída revela para onde sua vida escorre — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Faça gráficos de fluxo\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11819,9 +11752,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Questione a linha do suficiente",
         "text": "Defina um teto de necessidade para parar a corrida do mais.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Questione a linha do suficiente\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Defina um teto de necessidade para parar a corrida do mais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Questione a linha do suficiente\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Questione a linha do suficiente\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defina um teto de necessidade para parar a corrida do mais — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Questione a linha do suficiente\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11829,9 +11762,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza despesas com consciência",
         "text": "Cortar o supérfluo libera tempo e recursos para o que importa.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Reduza despesas com consciência\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Cortar o supérfluo libera tempo e recursos para o que importa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza despesas com consciência\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Reduza despesas com consciência\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cortar o supérfluo libera tempo e recursos para o que importa — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Reduza despesas com consciência\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11839,9 +11772,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aumente o valor da vida",
         "text": "Invista em saúde, relações e propósito, não só em bens.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Aumente o valor da vida\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Invista em saúde, relações e propósito, não só em bens — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aumente o valor da vida\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Aumente o valor da vida\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Invista em saúde, relações e propósito, não só em bens — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Aumente o valor da vida\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11849,9 +11782,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque renda passiva",
         "text": "Construa investimentos que paguem suas contas sem sua presença.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Busque renda passiva\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Construa investimentos que paguem suas contas sem sua presença — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque renda passiva\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Busque renda passiva\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Construa investimentos que paguem suas contas sem sua presença — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Busque renda passiva\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11859,9 +11792,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Atinga a independência",
         "text": "Quando a renda de investimentos cobre os custos, você é livre.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Atinga a independência\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Quando a renda de investimentos cobre os custos, você é livre — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Atinga a independência\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Atinga a independência\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quando a renda de investimentos cobre os custos, você é livre — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Atinga a independência\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11869,9 +11802,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Viva de propósito",
         "text": "Use o tempo recuperado para o que dá sentido à vida.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Viva de propósito\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Use o tempo recuperado para o que dá sentido à vida — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Viva de propósito\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Viva de propósito\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use o tempo recuperado para o que dá sentido à vida — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Viva de propósito\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11879,9 +11812,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique simplicidade voluntária",
         "text": "Escolha ter menos para ser mais; não é privação, é direção.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Pratique simplicidade voluntária\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Escolha ter menos para ser mais; não é privação, é direção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique simplicidade voluntária\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Pratique simplicidade voluntária\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escolha ter menos para ser mais; não é privação, é direção — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Pratique simplicidade voluntária\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -11889,9 +11822,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Questione o consumismo",
         "text": "Desafie a crença de que mais coisas igual mais felicidade.",
         "explicacoes": [
-          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin trata \"Questione o consumismo\" como peça-chave para a liberdade financeira através de gastos conscientes.",
-          "Na prática: Desafie a crença de que mais coisas igual mais felicidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Questione o consumismo\" aplica a liberdade financeira através de gastos conscientes de forma concreta, não apenas como conceito."
+          "Em \"Seu Dinheiro ou Sua Vida\", Vicki Robin coloca \"Questione o consumismo\" no centro de liberdade financeira, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desafie a crença de que mais coisas igual mais felicidade — traduzido para a prática, é o passo concreto que liga a teoria de Vicki Robin ao comportamento diário.",
+          "Ignorar \"Questione o consumismo\" é o erro mais comum de quem consome liberdade financeira sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -12203,6 +12136,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Só jovens de tecnologia empreendem",
         "text": "Os casos são de gente comum, várias idades e setores. Idade e nicho não bloqueiam.",
         "reflection": "Você se acha fora do perfil ou só não começou?"
+      },
+      {
+        "type": "truth",
+        "title": "Começar não exige capital alto, exige oferta de valor real",
+        "text": "Guillebeau mostra negócios viáveis nascidos de uma habilidade vendida, não de um plano gigante.",
+        "reflection": "Que habilidade sua alguém pagaria para ter hoje?"
       }
     ],
     "summary": "\"A Startup de 100 Dólares\" de Chris Guillebeau desafia a crença de que abrir um negócio exige plano de negócios, investidores ou muito capital. O autor viajou por quase todos os países estudando microempreendedores e compilou o que os torna bem-sucedidos. O gancho central é a convergência de três elementos: o que você ama (paixão), o que você sabe (habilidade) e o que as pessoas pagariam para receber (demanda). Quando esses três se cruzam, nasce um negócio enxuto. Guillebeau defende a ação sobre a planilha: lançar rápido, aprender na rua, ajustar e escalar só o que funciona. Ele mostra casos reais de pessoas que viraram a renda com poucos recursos — vendedores de queijo, consultores, artesãos — e ensina a encontrar \"ponto doce de lucro\", precificar corretamente e transformar um hobby em sustento. O modelo é simples: gaste menos do que ganha e reinvista o excedente. Para quem sonha com independência sem burocracia, o livro é um manual de libertação empreendedora.",
@@ -12223,16 +12162,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O ponto doce acontece onde sua paixão, sua habilidade e o que as pessoas pagam se encontram.",
         "autor": "Chris Guillebeau",
         "obra": "A Startup de 100 Dólares"
-      },
-      {
-        "texto": "A ação gera clareza; o planejamento excessivo gera paralisia.",
-        "autor": "Chris Guillebeau",
-        "obra": "A Startup de 100 Dólares"
-      },
-      {
-        "texto": "Não começamos um negócio para trabalhar mais, mas para trabalhar do nosso jeito.",
-        "autor": "Chris Guillebeau",
-        "obra": "A Startup de 100 Dólares"
       }
     ],
     "citacoesTerceiros": [
@@ -12245,11 +12174,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Prático e libertador; menos \"unicórnio\" e mais realidade para a maioria.",
         "autor": "Crítico",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Usei para validar um produto digital barato e hoje é renda extra sólida.",
-        "autor": "Leitor",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -12265,9 +12189,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cruze os três círculos",
         "text": "Paixão, habilidade e demanda pagante definem a oportunidade.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Cruze os três círculos\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Paixão, habilidade e demanda pagante definem a oportunidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cruze os três círculos\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Cruze os três círculos\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Paixão, habilidade e demanda pagante definem a oportunidade — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Cruze os três círculos\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12275,9 +12199,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece com pouco",
         "text": "100 dólares bastam para testar; não espere capital grande.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Comece com pouco\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: 100 dólares bastam para testar; não espere capital grande — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece com pouco\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Comece com pouco\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "100 dólares bastam para testar; não espere capital grande — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Comece com pouco\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12285,9 +12209,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Lance e aprenda",
         "text": "Ação na rua vale mais que plano longo; erre barato e ajuste.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Lance e aprenda\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Ação na rua vale mais que plano longo; erre barato e ajuste — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Lance e aprenda\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Lance e aprenda\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ação na rua vale mais que plano longo; erre barato e ajuste — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Lance e aprenda\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12295,9 +12219,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque no nicho",
         "text": "Um público específico permite margem e relevância.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Foque no nicho\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Um público específico permite margem e relevância — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque no nicho\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Foque no nicho\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Um público específico permite margem e relevância — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Foque no nicho\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12305,9 +12229,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Precifique pelo valor",
         "text": "Cobre o que entrega, não apenas o custo de produção.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Precifique pelo valor\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Cobre o que entrega, não apenas o custo de produção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Precifique pelo valor\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Precifique pelo valor\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cobre o que entrega, não apenas o custo de produção — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Precifique pelo valor\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12315,9 +12239,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Empacote sua habilidade",
         "text": "Transforme o que sabe em produto ou serviço vendável.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Empacote sua habilidade\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Transforme o que sabe em produto ou serviço vendável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Empacote sua habilidade\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Empacote sua habilidade\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Transforme o que sabe em produto ou serviço vendável — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Empacote sua habilidade\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12325,9 +12249,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reinvista o lucro",
         "text": "Gaste menos do que ganha e use o excedente para crescer.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Reinvista o lucro\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Gaste menos do que ganha e use o excedente para crescer — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reinvista o lucro\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Reinvista o lucro\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Gaste menos do que ganha e use o excedente para crescer — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Reinvista o lucro\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12335,9 +12259,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escolha sua liberdade",
         "text": "Defina tamanho do negócio em função da vida que quer.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Escolha sua liberdade\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Defina tamanho do negócio em função da vida que quer — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escolha sua liberdade\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Escolha sua liberdade\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defina tamanho do negócio em função da vida que quer — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Escolha sua liberdade\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12345,9 +12269,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Elimine a paralisia",
         "text": "Decida e execute; planejamento infinito é procrastinação.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Elimine a paralisia\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Decida e execute; planejamento infinito é procrastinação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Elimine a paralisia\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Elimine a paralisia\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Decida e execute; planejamento infinito é procrastinação — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Elimine a paralisia\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12355,9 +12279,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estude casos reais",
         "text": "Aprenda com microempreendedores que já validaram o modelo.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Estude casos reais\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Aprenda com microempreendedores que já validaram o modelo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estude casos reais\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Estude casos reais\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aprenda com microempreendedores que já validaram o modelo — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Estude casos reais\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12365,9 +12289,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha custos baixos",
         "text": "Estrutura enxuta protege margem e resiliência.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Mantenha custos baixos\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Estrutura enxuta protege margem e resiliência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha custos baixos\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Mantenha custos baixos\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estrutura enxuta protege margem e resiliência — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Mantenha custos baixos\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -12375,9 +12299,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça por liberdade",
         "text": "Sucesso é autonomia, não só faturamento.",
         "explicacoes": [
-          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Meça por liberdade\" como peça-chave para empreender pequeno e independente com baixo risco.",
-          "Na prática: Sucesso é autonomia, não só faturamento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça por liberdade\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau coloca \"Meça por liberdade\" no centro de empreendedorismo, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sucesso é autonomia, não só faturamento — traduzido para a prática, é o passo concreto que liga a teoria de Chris Guillebeau ao comportamento diário.",
+          "Ignorar \"Meça por liberdade\" é o erro mais comum de quem consome empreendedorismo sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
