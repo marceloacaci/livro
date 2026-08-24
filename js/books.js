@@ -54488,62 +54488,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Um hábito por vez",
-        "text": "Mudança graduai vence a lista de dez resoluções mortas."
+        "text": "Mudança graduai vence a lista de dez resoluções mortas.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Um hábito por vez\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Mudança graduai vence a lista de dez resoluções mortas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Um hábito por vez\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Lista de três",
-        "text": "Limite o dia a três itens para priorizar e terminar."
+        "text": "Limite o dia a três itens para priorizar e terminar.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Lista de três\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Limite o dia a três itens para priorizar e terminar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Lista de três\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Revisão semanal",
-        "text": "Ritual semanal mantém o sistema vivo e alinhado."
+        "text": "Ritual semanal mantém o sistema vivo e alinhado.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Revisão semanal\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Ritual semanal mantém o sistema vivo e alinhado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Revisão semanal\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Atenção plena",
-        "text": "Uma coisa de cada vez; multitarefa fragmenta o resultado."
+        "text": "Uma coisa de cada vez; multitarefa fragmenta o resultado.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Atenção plena\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Uma coisa de cada vez; multitarefa fragmenta o resultado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Atenção plena\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Celebre vitórias",
-        "text": "Reconhecer o concluído constrói confiança para continuar."
+        "text": "Reconhecer o concluído constrói confiança para continuar.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Celebre vitórias\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Reconhecer o concluído constrói confiança para continuar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Celebre vitórias\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Gentileza consigo",
-        "text": "Cobrança dura sabota; compaixão sustenta o hábito."
+        "text": "Cobrança dura sabota; compaixão sustenta o hábito.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Gentileza consigo\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Cobrança dura sabota; compaixão sustenta o hábito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Gentileza consigo\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Prioridade primeiro",
-        "text": "Comece pelo essencial para não fugir dele o dia todo."
+        "text": "Comece pelo essencial para não fugir dele o dia todo.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Prioridade primeiro\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Comece pelo essencial para não fugir dele o dia todo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Prioridade primeiro\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Simplicidade",
-        "text": "Menos ferramenta e listas devolvem o controle real."
+        "text": "Menos ferramenta e listas devolvem o controle real.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Simplicidade\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Menos ferramenta e listas devolvem o controle real — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Simplicidade\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Hábito sobre humor",
-        "text": "Sistema substitui a espera por motivação diária."
+        "text": "Sistema substitui a espera por motivação diária.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Hábito sobre humor\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Sistema substitui a espera por motivação diária — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Hábito sobre humor\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Ajuste, não culpe",
-        "text": "Falhar é sinal de sistema a corrigir, não de defeito."
+        "text": "Falhar é sinal de sistema a corrigir, não de defeito.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Ajuste, não culpe\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Falhar é sinal de sistema a corrigir, não de defeito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ajuste, não culpe\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Faça menos, termine",
-        "text": "Concluir pouco vale mais que iniciar muito."
+        "text": "Concluir pouco vale mais que iniciar muito.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Faça menos, termine\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: Concluir pouco vale mais que iniciar muito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça menos, termine\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Calma produtiva",
-        "text": "ZTD é serenidade em execução, não correria."
+        "text": "ZTD é serenidade em execução, não correria.",
+        "explicacoes": [
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Calma produtiva\" como peça-chave para a simplicidade e o foco pelo método zen.",
+          "Na prática: ZTD é serenidade em execução, não correria — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Calma produtiva\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -54565,81 +54625,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Por Que o GTD Falha",
         "text": "Babauta diz que o problema é foco e hábito, não o sistema.",
         "points": [
-          "Falha",
-          "Foco",
-          "Hábito"
+          {
+            "t": "Falha",
+            "e": "Babauta diz que o problema é foco e hábito, não o sistema.",
+            "f": "Na visão de Leo Babauta, \"falha\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "Babauta diz que o problema é foco e hábito, não o sistema.",
+            "f": "Menos compromissos e mais foco é o que devolve o controle da vida.",
+            "real": true
+          },
+          {
+            "t": "Hábito",
+            "e": "Babauta diz que o problema é foco e hábito, não o sistema.",
+            "f": "Foque em um hábito de cada vez; a mudança durável é gradual.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Um Hábito por Vez",
         "text": "Mudança gradual vence a lista de resoluções mortas.",
         "points": [
-          "Gradual",
-          "Único",
-          "Duração"
+          {
+            "t": "Gradual",
+            "e": "Mudança gradual vence a lista de resoluções mortas.",
+            "f": "Foque em um hábito de cada vez; a mudança durável é gradual.",
+            "real": true
+          },
+          {
+            "t": "Único",
+            "e": "Mudança gradual vence a lista de resoluções mortas.",
+            "f": "Na visão de Leo Babauta, \"único\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Duração",
+            "e": "Mudança gradual vence a lista de resoluções mortas.",
+            "f": "Na visão de Leo Babauta, \"duração\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Lista de Três",
         "text": "Limitar o dia a três itens força priorização real.",
         "points": [
-          "Três",
-          "Prioridade",
-          "Conclusão"
+          {
+            "t": "Três",
+            "e": "Limitar o dia a três itens força priorização real.",
+            "f": "Sua lista diária deve ter no máximo três coisas que realmente importam.",
+            "real": true
+          },
+          {
+            "t": "Prioridade",
+            "e": "Limitar o dia a três itens força priorização real.",
+            "f": "Na visão de Leo Babauta, \"prioridade\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Conclusão",
+            "e": "Limitar o dia a três itens força priorização real.",
+            "f": "Na visão de Leo Babauta, \"conclusão\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Atenção Plena",
         "text": "Uma tarefa de cada vez; multitarefa fragmenta o resultado.",
         "points": [
-          "Único",
-          "Foco",
-          "Qualidade"
+          {
+            "t": "Único",
+            "e": "Uma tarefa de cada vez; multitarefa fragmenta o resultado.",
+            "f": "Na visão de Leo Babauta, \"único\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "Uma tarefa de cada vez; multitarefa fragmenta o resultado.",
+            "f": "Menos compromissos e mais foco é o que devolve o controle da vida.",
+            "real": true
+          },
+          {
+            "t": "Qualidade",
+            "e": "Uma tarefa de cada vez; multitarefa fragmenta o resultado.",
+            "f": "Na visão de Leo Babauta, \"qualidade\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Revisão Semanal",
         "text": "Ritual semanal mantém o sistema vivo e alinhado.",
         "points": [
-          "Ritual",
-          "Vivo",
-          "Alinhado"
+          {
+            "t": "Ritual",
+            "e": "Ritual semanal mantém o sistema vivo e alinhado.",
+            "f": "Na visão de Leo Babauta, \"ritual\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Vivo",
+            "e": "Ritual semanal mantém o sistema vivo e alinhado.",
+            "f": "Na visão de Leo Babauta, \"vivo\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Alinhado",
+            "e": "Ritual semanal mantém o sistema vivo e alinhado.",
+            "f": "Na visão de Leo Babauta, \"alinhado\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Celebre Vitórias",
         "text": "Reconhecer o concluído constrói confiança para o próximo.",
         "points": [
-          "Vitória",
-          "Confiança",
-          "Hábito"
+          {
+            "t": "Vitória",
+            "e": "Reconhecer o concluído constrói confiança para o próximo.",
+            "f": "Celebre as pequenas vitórias; elas constroem a confiança para as grandes.",
+            "real": true
+          },
+          {
+            "t": "Confiança",
+            "e": "Reconhecer o concluído constrói confiança para o próximo.",
+            "f": "Na visão de Leo Babauta, \"confiança\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Hábito",
+            "e": "Reconhecer o concluído constrói confiança para o próximo.",
+            "f": "Foque em um hábito de cada vez; a mudança durável é gradual.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Gentileza Consigo",
         "text": "Cobrança dura sabota; compaixão sustenta a mudança.",
         "points": [
-          "Compaixão",
-          "Sustento",
-          "Mudança"
+          {
+            "t": "Compaixão",
+            "e": "Cobrança dura sabota; compaixão sustenta a mudança.",
+            "f": "Na visão de Leo Babauta, \"compaixão\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Sustento",
+            "e": "Cobrança dura sabota; compaixão sustenta a mudança.",
+            "f": "Na visão de Leo Babauta, \"sustento\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Mudança",
+            "e": "Cobrança dura sabota; compaixão sustenta a mudança.",
+            "f": "Foque em um hábito de cada vez; a mudança durável é gradual.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Prioridade Primeiro",
         "text": "Começar pelo essencial evita a fuga das tarefas fáceis.",
         "points": [
-          "Essencial",
-          "Fuga",
-          "Foco"
+          {
+            "t": "Essencial",
+            "e": "Começar pelo essencial evita a fuga das tarefas fáceis.",
+            "f": "Faça o que importa primeiro, antes de qualquer distração fácil.",
+            "real": true
+          },
+          {
+            "t": "Fuga",
+            "e": "Começar pelo essencial evita a fuga das tarefas fáceis.",
+            "f": "Na visão de Leo Babauta, \"fuga\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "Começar pelo essencial evita a fuga das tarefas fáceis.",
+            "f": "Menos compromissos e mais foco é o que devolve o controle da vida.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Simplicidade e Calma",
         "text": "Menos listas e compromissos devolvem o controle com serenidade.",
         "points": [
-          "Menos",
-          "Controle",
-          "Calma"
+          {
+            "t": "Menos",
+            "e": "Menos listas e compromissos devolvem o controle com serenidade.",
+            "f": "Menos compromissos e mais foco é o que devolve o controle da vida.",
+            "real": true
+          },
+          {
+            "t": "Controle",
+            "e": "Menos listas e compromissos devolvem o controle com serenidade.",
+            "f": "Na visão de Leo Babauta, \"controle\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          },
+          {
+            "t": "Calma",
+            "e": "Menos listas e compromissos devolvem o controle com serenidade.",
+            "f": "Na visão de Leo Babauta, \"calma\" é parte essencial da proposta de \"Zen To Done: O Guia Simples para a Produtividade com Foco\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -54798,62 +54993,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Mais não é felicidade",
-        "text": "Posse vira manutenção; felicidade mora em relação e propósito."
+        "text": "Posse vira manutenção; felicidade mora em relação e propósito.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Mais não é felicidade\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Posse vira manutenção; felicidade mora em relação e propósito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mais não é felicidade\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Minimalismo intencional",
-        "text": "Viver com o suficiente e com intenção, não em privação."
+        "text": "Viver com o suficiente e com intenção, não em privação.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Minimalismo intencional\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Viver com o suficiente e com intenção, não em privação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Minimalismo intencional\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Ganhe ao ter menos",
-        "text": "Menos bens devolvem tempo, dinheiro e atenção."
+        "text": "Menos bens devolvem tempo, dinheiro e atenção.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Ganhe ao ter menos\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Menos bens devolvem tempo, dinheiro e atenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ganhe ao ter menos\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Cada objeto serve",
-        "text": "Guarde o que tem propósito ou alegria real; solte o resto."
+        "text": "Guarde o que tem propósito ou alegria real; solte o resto.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Cada objeto serve\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Guarde o que tem propósito ou alegria real; solte o resto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cada objeto serve\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Regra dos 12 meses",
-        "text": "Não usou em um ano, provavelmente não usará; libere."
+        "text": "Não usou em um ano, provavelmente não usará; libere.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Regra dos 12 meses\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Não usou em um ano, provavelmente não usará; libere — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Regra dos 12 meses\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Não só organizar",
-        "text": "Descartar o desnecessário vale mais que reorganizá-lo."
+        "text": "Descartar o desnecessário vale mais que reorganizá-lo.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Não só organizar\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Descartar o desnecessário vale mais que reorganizá-lo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não só organizar\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Excesso esconde propósito",
-        "text": "Agenda e armários cheios mascaram o essencial."
+        "text": "Agenda e armários cheios mascaram o essencial.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Excesso esconde propósito\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Agenda e armários cheios mascaram o essencial — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Excesso esconde propósito\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Doe e redistribua",
-        "text": "O excesso útil a outros é alívio e ganho para todos."
+        "text": "O excesso útil a outros é alívio e ganho para todos.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Doe e redistribua\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: O excesso útil a outros é alívio e ganho para todos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Doe e redistribua\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Agenda de propósito",
-        "text": "Comprometer menos abre espaço para o que se escolhe."
+        "text": "Comprometer menos abre espaço para o que se escolhe.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Agenda de propósito\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Comprometer menos abre espaço para o que se escolhe — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Agenda de propósito\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Redefina sucesso",
-        "text": "Liberdade e relação, não acúmulo, são a verdadeira riqueza."
+        "text": "Liberdade e relação, não acúmulo, são a verdadeira riqueza.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Redefina sucesso\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Liberdade e relação, não acúmulo, são a verdadeira riqueza — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Redefina sucesso\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Passos graduais",
-        "text": "Mudança familiar e lenta vence a ruptura insustentável."
+        "text": "Mudança familiar e lenta vence a ruptura insustentável.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Passos graduais\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Mudança familiar e lenta vence a ruptura insustentável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Passos graduais\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Escolha o que fica",
-        "text": "Decidir o que guarda é decidir que vida levar."
+        "text": "Decidir o que guarda é decidir que vida levar.",
+        "explicacoes": [
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Escolha o que fica\" como peça-chave para a minimalismo e a vida com menos.",
+          "Na prática: Decidir o que guarda é decidir que vida levar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escolha o que fica\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -54875,81 +55130,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Ilusão de Mais",
         "text": "Becker mostra que acumular raramente preenche o que falta.",
         "points": [
-          "Acúmulo",
-          "Vazio",
-          "Illusão"
+          {
+            "t": "Acúmulo",
+            "e": "Becker mostra que acumular raramente preenche o que falta.",
+            "f": "Possuir menos não é sobre ter menos, é sobre ganhar mais liberdade.",
+            "real": true
+          },
+          {
+            "t": "Vazio",
+            "e": "Becker mostra que acumular raramente preenche o que falta.",
+            "f": "Ao possuir menos, você ganha mais tempo, mais dinheiro e mais atenção.",
+            "real": true
+          },
+          {
+            "t": "Illusão",
+            "e": "Becker mostra que acumular raramente preenche o que falta.",
+            "f": "A felicidade raramente vem de mais coisas, e sim de mais relações.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Que Resta",
         "text": "Ao tirar o excesso, revela-se o que de fato importa.",
         "points": [
-          "Resto",
-          "Essencial",
-          "Revelação"
+          {
+            "t": "Resto",
+            "e": "Ao tirar o excesso, revela-se o que de fato importa.",
+            "f": "Na visão de Joshua Becker, \"resto\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Essencial",
+            "e": "Ao tirar o excesso, revela-se o que de fato importa.",
+            "f": "Na visão de Joshua Becker, \"essencial\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Revelação",
+            "e": "Ao tirar o excesso, revela-se o que de fato importa.",
+            "f": "Na visão de Joshua Becker, \"revelação\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Minimalismo Intencional",
         "text": "Viver com o suficiente e com propósito, não em privação.",
         "points": [
-          "Suficiente",
-          "Propósito",
-          "Intenção"
+          {
+            "t": "Suficiente",
+            "e": "Viver com o suficiente e com propósito, não em privação.",
+            "f": "O minimalismo não é privação, é viver com intenção e o suficiente.",
+            "real": true
+          },
+          {
+            "t": "Propósito",
+            "e": "Viver com o suficiente e com propósito, não em privação.",
+            "f": "Na visão de Joshua Becker, \"propósito\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Intenção",
+            "e": "Viver com o suficiente e com propósito, não em privação.",
+            "f": "Na visão de Joshua Becker, \"intenção\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Por Que Guardamos",
         "text": "Medo, hábito e identidade explicam o acúmulo.",
         "points": [
-          "Medo",
-          "Hábito",
-          "Identidade"
+          {
+            "t": "Medo",
+            "e": "Medo, hábito e identidade explicam o acúmulo.",
+            "f": "Na visão de Joshua Becker, \"medo\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Hábito",
+            "e": "Medo, hábito e identidade explicam o acúmulo.",
+            "f": "Na visão de Joshua Becker, \"hábito\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Identidade",
+            "e": "Medo, hábito e identidade explicam o acúmulo.",
+            "f": "Na visão de Joshua Becker, \"identidade\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A Regra dos 12 Meses",
         "text": "Não usou em um ano, libere; o excesso pode ajudar outros.",
         "points": [
-          "12 meses",
-          "Liberar",
-          "Doar"
+          {
+            "t": "12 meses",
+            "e": "Não usou em um ano, libere; o excesso pode ajudar outros.",
+            "f": "Se não usou algo em doze meses, provavelmente não precisa dele.",
+            "real": true
+          },
+          {
+            "t": "Liberar",
+            "e": "Não usou em um ano, libere; o excesso pode ajudar outros.",
+            "f": "Na visão de Joshua Becker, \"liberar\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Doar",
+            "e": "Não usou em um ano, libere; o excesso pode ajudar outros.",
+            "f": "Na visão de Joshua Becker, \"doar\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Passos Práticos",
         "text": "Desapegue por categorias e com a família inteira.",
         "points": [
-          "Categorias",
-          "Família",
-          "Ação"
+          {
+            "t": "Categorias",
+            "e": "Desapegue por categorias e com a família inteira.",
+            "f": "Na visão de Joshua Becker, \"categorias\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Família",
+            "e": "Desapegue por categorias e com a família inteira.",
+            "f": "Na visão de Joshua Becker, \"família\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Ação",
+            "e": "Desapegue por categorias e com a família inteira.",
+            "f": "Na visão de Joshua Becker, \"ação\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Menos Agenda",
         "text": "Comprometer menos abre espaço para o escolhido.",
         "points": [
-          "Agenda",
-          "Espaço",
-          "Escolha"
+          {
+            "t": "Agenda",
+            "e": "Comprometer menos abre espaço para o escolhido.",
+            "f": "Possuir menos não é sobre ter menos, é sobre ganhar mais liberdade.",
+            "real": true
+          },
+          {
+            "t": "Espaço",
+            "e": "Comprometer menos abre espaço para o escolhido.",
+            "f": "Ao possuir menos, você ganha mais tempo, mais dinheiro e mais atenção.",
+            "real": true
+          },
+          {
+            "t": "Escolha",
+            "e": "Comprometer menos abre espaço para o escolhido.",
+            "f": "Na visão de Joshua Becker, \"escolha\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Redefinir Sucesso",
         "text": "Liberdade e relação substituem a métrica de ter.",
         "points": [
-          "Liberdade",
-          "Relação",
-          "Riqueza"
+          {
+            "t": "Liberdade",
+            "e": "Liberdade e relação substituem a métrica de ter.",
+            "f": "Possuir menos não é sobre ter menos, é sobre ganhar mais liberdade.",
+            "real": true
+          },
+          {
+            "t": "Relação",
+            "e": "Liberdade e relação substituem a métrica de ter.",
+            "f": "Na visão de Joshua Becker, \"relação\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Riqueza",
+            "e": "Liberdade e relação substituem a métrica de ter.",
+            "f": "Na visão de Joshua Becker, \"riqueza\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — A Vida que Você Escolhe",
         "text": "Decidir o que fica é decidir que vida levar, com calma.",
         "points": [
-          "Escolha",
-          "Vida",
-          "Calma"
+          {
+            "t": "Escolha",
+            "e": "Decidir o que fica é decidir que vida levar, com calma.",
+            "f": "Ao possuir menos, você ganha mais tempo, mais dinheiro e mais atenção.",
+            "real": true
+          },
+          {
+            "t": "Vida",
+            "e": "Decidir o que fica é decidir que vida levar, com calma.",
+            "f": "Na visão de Joshua Becker, \"vida\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          },
+          {
+            "t": "Calma",
+            "e": "Decidir o que fica é decidir que vida levar, com calma.",
+            "f": "Na visão de Joshua Becker, \"calma\" é parte essencial da proposta de \"O Que Resta: Liberdade Através do Minimalismo Intencional\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -55108,62 +55498,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "A pergunta guia",
-        "text": "Como vivemos melhor com menos? É o norte de toda a jornada."
+        "text": "Como vivemos melhor com menos? É o norte de toda a jornada.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"A pergunta guia\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Como vivemos melhor com menos? É o norte de toda a jornada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"A pergunta guia\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Menos pode ser mais",
-        "text": "Remover o desnecessário devolve tempo e atenção ao essencial."
+        "text": "Remover o desnecessário devolve tempo e atenção ao essencial.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Menos pode ser mais\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Remover o desnecessário devolve tempo e atenção ao essencial — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Menos pode ser mais\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "As cinco dimensões",
-        "text": "Saúde, relação, crescimento, contribuição e paixão são o núcleo."
+        "text": "Saúde, relação, crescimento, contribuição e paixão são o núcleo.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"As cinco dimensões\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Saúde, relação, crescimento, contribuição e paixão são o núcleo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"As cinco dimensões\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Minimalismo como ferramenta",
-        "text": "Não é visual, é meio de abrir espaço para o que importa."
+        "text": "Não é visual, é meio de abrir espaço para o que importa.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Minimalismo como ferramenta\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Não é visual, é meio de abrir espaço para o que importa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Minimalismo como ferramenta\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Use a dor",
-        "text": "Perdas podem ser o catalisador de reavaliação necessária."
+        "text": "Perdas podem ser o catalisador de reavaliação necessária.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Use a dor\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Perdas podem ser o catalisador de reavaliação necessária — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a dor\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Relações sobre coisas",
-        "text": "Pessoas sustentam a vida com sentido; objetos, não."
+        "text": "Pessoas sustentam a vida com sentido; objetos, não.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Relações sobre coisas\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Pessoas sustentam a vida com sentido; objetos, não — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Relações sobre coisas\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Contribuição",
-        "text": "Servir a algo maior preenche o vazio do eu."
+        "text": "Servir a algo maior preenche o vazio do eu.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Contribuição\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Servir a algo maior preenche o vazio do eu — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Contribuição\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Abandone o excesso",
-        "text": "Soltar o acúmulo libera atenção e leveza."
+        "text": "Soltar o acúmulo libera atenção e leveza.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Abandone o excesso\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Soltar o acúmulo libera atenção e leveza — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abandone o excesso\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Transição possível",
-        "text": "Mudar é gradual; não exige largar tudo de uma vez."
+        "text": "Mudar é gradual; não exige largar tudo de uma vez.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Transição possível\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Mudar é gradual; não exige largar tudo de uma vez — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Transição possível\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Saúde primeiro",
-        "text": "Corpo e mente em ordem sustentam todo o resto."
+        "text": "Corpo e mente em ordem sustentam todo o resto.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Saúde primeiro\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Corpo e mente em ordem sustentam todo o resto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Saúde primeiro\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Crescimento contínuo",
-        "text": "Aprender e evoluir dá sentido ao cotidiano."
+        "text": "Aprender e evoluir dá sentido ao cotidiano.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Crescimento contínuo\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Aprender e evoluir dá sentido ao cotidiano — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crescimento contínuo\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Paixão que alimenta",
-        "text": "Fazer o que ama sustenta energia para o todo."
+        "text": "Fazer o que ama sustenta energia para o todo.",
+        "explicacoes": [
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Paixão que alimenta\" como peça-chave para a vida essencialista e a liberdade com menos.",
+          "Na prática: Fazer o que ama sustenta energia para o todo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Paixão que alimenta\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -55185,81 +55635,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Os Executivos Vazios",
         "text": "Millburn e Nicodemus descrevem o sucesso material e o vazio junto.",
         "points": [
-          "Sucesso",
-          "Vazio",
-          "Alerta"
+          {
+            "t": "Sucesso",
+            "e": "Millburn e Nicodemus descrevem o sucesso material e o vazio junto.",
+            "f": "Na visão de Joshua Fields Millburn, \"sucesso\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Vazio",
+            "e": "Millburn e Nicodemus descrevem o sucesso material e o vazio junto.",
+            "f": "O excesso material muitas vezes mascara um vazio que só relações curam.",
+            "real": true
+          },
+          {
+            "t": "Alerta",
+            "e": "Millburn e Nicodemus descrevem o sucesso material e o vazio junto.",
+            "f": "Na visão de Joshua Fields Millburn, \"alerta\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Catalisador",
         "text": "Morte da mãe e fim de casamento forçam a reavaliação.",
         "points": [
-          "Perda",
-          "Fim",
-          "Reavaliação"
+          {
+            "t": "Perda",
+            "e": "Morte da mãe e fim de casamento forçam a reavaliação.",
+            "f": "Na visão de Joshua Fields Millburn, \"perda\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Fim",
+            "e": "Morte da mãe e fim de casamento forçam a reavaliação.",
+            "f": "Na visão de Joshua Fields Millburn, \"fim\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Reavaliação",
+            "e": "Morte da mãe e fim de casamento forçam a reavaliação.",
+            "f": "Na visão de Joshua Fields Millburn, \"reavaliação\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Pergunta",
         "text": "Como viver melhor com menos? vira o norte da mudança.",
         "points": [
-          "Pergunta",
-          "Norte",
-          "Mudança"
+          {
+            "t": "Pergunta",
+            "e": "Como viver melhor com menos? vira o norte da mudança.",
+            "f": "A pergunta não é quanto você tem, e sim o que resta quando tira o excesso.",
+            "real": true
+          },
+          {
+            "t": "Norte",
+            "e": "Como viver melhor com menos? vira o norte da mudança.",
+            "f": "Na visão de Joshua Fields Millburn, \"norte\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Mudança",
+            "e": "Como viver melhor com menos? vira o norte da mudança.",
+            "f": "Na visão de Joshua Fields Millburn, \"mudança\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Menos é Mais",
         "text": "Remover o excesso abre espaço para o que importa.",
         "points": [
-          "Remover",
-          "Espaço",
-          "Essencial"
+          {
+            "t": "Remover",
+            "e": "Remover o excesso abre espaço para o que importa.",
+            "f": "Menos coisas, mais significado; menos ruído, mais atenção.",
+            "real": true
+          },
+          {
+            "t": "Espaço",
+            "e": "Remover o excesso abre espaço para o que importa.",
+            "f": "O minimalismo nos ajuda a focar no que é importante para viver melhor com menos.",
+            "real": true
+          },
+          {
+            "t": "Essencial",
+            "e": "Remover o excesso abre espaço para o que importa.",
+            "f": "Na visão de Joshua Fields Millburn, \"essencial\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — As Cinco Dimensões",
         "text": "Saúde, relação, crescimento, contribuição e paixão.",
         "points": [
-          "Saúde",
-          "Relação",
-          "Sentido"
+          {
+            "t": "Saúde",
+            "e": "Saúde, relação, crescimento, contribuição e paixão.",
+            "f": "Na visão de Joshua Fields Millburn, \"saúde\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Relação",
+            "e": "Saúde, relação, crescimento, contribuição e paixão.",
+            "f": "Na visão de Joshua Fields Millburn, \"relação\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Sentido",
+            "e": "Saúde, relação, crescimento, contribuição e paixão.",
+            "f": "Na visão de Joshua Fields Millburn, \"sentido\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Relações sobre Coisas",
         "text": "Pessoas sustentam a vida; objetos apenas enchem o espaço.",
         "points": [
-          "Pessoas",
-          "Objetos",
-          "Prioridade"
+          {
+            "t": "Pessoas",
+            "e": "Pessoas sustentam a vida; objetos apenas enchem o espaço.",
+            "f": "Amamos as pessoas e usamos as coisas; a vida fica melhor quando invertemos isso.",
+            "real": true
+          },
+          {
+            "t": "Objetos",
+            "e": "Pessoas sustentam a vida; objetos apenas enchem o espaço.",
+            "f": "O excesso material muitas vezes mascara um vazio que só relações curam.",
+            "real": true
+          },
+          {
+            "t": "Prioridade",
+            "e": "Pessoas sustentam a vida; objetos apenas enchem o espaço.",
+            "f": "Menos coisas, mais significado; menos ruído, mais atenção.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Contribuição",
         "text": "Servir a algo maior preenche o vazio do eu.",
         "points": [
-          "Servir",
-          "Maior",
-          "Preenchimento"
+          {
+            "t": "Servir",
+            "e": "Servir a algo maior preenche o vazio do eu.",
+            "f": "Na visão de Joshua Fields Millburn, \"servir\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Maior",
+            "e": "Servir a algo maior preenche o vazio do eu.",
+            "f": "Na visão de Joshua Fields Millburn, \"maior\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Preenchimento",
+            "e": "Servir a algo maior preenche o vazio do eu.",
+            "f": "Na visão de Joshua Fields Millburn, \"preenchimento\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A Transição",
         "text": "Mudar é gradual e possível, não só salto radical.",
         "points": [
-          "Gradual",
-          "Possível",
-          "Passo"
+          {
+            "t": "Gradual",
+            "e": "Mudar é gradual e possível, não só salto radical.",
+            "f": "Na visão de Joshua Fields Millburn, \"gradual\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Possível",
+            "e": "Mudar é gradual e possível, não só salto radical.",
+            "f": "Na visão de Joshua Fields Millburn, \"possível\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          },
+          {
+            "t": "Passo",
+            "e": "Mudar é gradual e possível, não só salto radical.",
+            "f": "Na visão de Joshua Fields Millburn, \"passo\" é parte essencial da proposta de \"Minimalismo: Como Viver uma Vida com Significado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O Que Resta",
         "text": "Tirar o excesso revela a vida com significado que ficou.",
         "points": [
-          "Resta",
-          "Significado",
-          "Vida"
+          {
+            "t": "Resta",
+            "e": "Tirar o excesso revela a vida com significado que ficou.",
+            "f": "A pergunta não é quanto você tem, e sim o que resta quando tira o excesso.",
+            "real": true
+          },
+          {
+            "t": "Significado",
+            "e": "Tirar o excesso revela a vida com significado que ficou.",
+            "f": "Menos coisas, mais significado; menos ruído, mais atenção.",
+            "real": true
+          },
+          {
+            "t": "Vida",
+            "e": "Tirar o excesso revela a vida com significado que ficou.",
+            "f": "Amamos as pessoas e usamos as coisas; a vida fica melhor quando invertemos isso.",
+            "real": true
+          }
         ]
       }
     ]
