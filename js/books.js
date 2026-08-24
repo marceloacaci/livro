@@ -20193,12 +20193,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "dinheiro",
     "myths": [
       {
-        "type": "myth",
-        "title": "Estabilidade é o objetivo",
-        "text": "Taleb argumenta que a estabilidade artificial esconde fragilidade até o colapso virar catástrofe.",
-        "reflection": "Você busca calmaria ou capacidade de absorver choque?"
-      },
-      {
         "type": "truth",
         "title": "Caos fortalece o antifrágil",
         "text": "Erro, variação e estresse hormético tornam sistemas vivos mais fortes.",
@@ -20206,9 +20200,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Previsão guia decisões",
-        "text": "O autor desmonta a ilusão de prever caudas grossas; foco deve ser na exposição.",
-        "reflection": "Você tenta adivinhar ou se posiciona para o imprevisível?"
+        "title": "Estabilidade é o objetivo",
+        "text": "Taleb argumenta que a estabilidade artificial esconde fragilidade até o colapso virar catástrofe.",
+        "reflection": "Você busca calmaria ou capacidade de absorver choque?"
       },
       {
         "type": "truth",
@@ -20218,9 +20212,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Diversificação comum basta",
-        "text": "A barbell (seguro + opção) vence a média suave que esconde risco de cauda.",
-        "reflection": "Seu portfólio tem pontas ou só meio morto?"
+        "title": "Previsão guia decisões",
+        "text": "O autor desmonta a ilusão de prever caudas grossas; foco deve ser na exposição.",
+        "reflection": "Você tenta adivinhar ou se posiciona para o imprevisível?"
       },
       {
         "type": "truth",
@@ -20230,9 +20224,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mais intervenção é melhor",
-        "text": "Taleb culpa a \"intervenção via positiva\" por criar fragilidade sistêmica.",
-        "reflection": "Sua ação resolve ou apenas adia o colapso?"
+        "title": "Diversificação comum basta",
+        "text": "A barbell (seguro + opção) vence a média suave que esconde risco de cauda.",
+        "reflection": "Seu portfólio tem pontas ou só meio morto?"
       },
       {
         "type": "truth",
@@ -20242,9 +20236,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Falha é sempre ruim",
-        "text": "Na antifragilidade, o erro barato é informação que ajusta sem destruir.",
-        "reflection": "Seus erros instruem ou apenas doem?"
+        "title": "Mais intervenção é melhor",
+        "text": "Taleb culpa a \"intervenção via positiva\" por criar fragilidade sistêmica.",
+        "reflection": "Sua ação resolve ou apenas adia o colapso?"
       },
       {
         "type": "truth",
@@ -20254,9 +20248,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Robusto é o máximo",
-        "text": "Robusto apenas sobrevive; antifrágil ainda lucra com a perturbação.",
-        "reflection": "Você quer apenas sobreviver ou colher o caos?"
+        "title": "Falha é sempre ruim",
+        "text": "Na antifragilidade, o erro barato é informação que ajusta sem destruir.",
+        "reflection": "Seus erros instruem ou apenas doem?"
       },
       {
         "type": "truth",
@@ -20266,9 +20260,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Robusto é o máximo",
+        "text": "Robusto apenas sobrevive; antifrágil ainda lucra com a perturbação.",
+        "reflection": "Você quer apenas sobreviver ou colher o caos?"
+      },
+      {
+        "type": "truth",
+        "title": "Sistemas se fortalecem com estresse e volatilidade",
+        "text": "Taleb define o antifrágil como o que ganha com o choque; o frágil quebra, o robusto resiste, o antifrágil melhora.",
+        "reflection": "Sua carreira e finanças quebram, resistem ou se beneficiam com o caos?"
+      },
+      {
+        "type": "myth",
         "title": "Risco se elimina",
         "text": "Risco não some, se realoca; escondê-lo aumenta o de cauda.",
         "reflection": "Você remove risco ou o empurra para depois?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Antifrágil: Coisas que se Beneficiam com o Caos resiste ao senso comum",
+        "text": "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb sustenta que antifragile (2012) é a obra em que nassim nicholas taleb batiza e desenvolve a \"antifragilidade\": a propriedade de certas coisas — organismos, empresas, ideias, sistemas — que não apenas resistem ao caos, mas melhoram com ele — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Antifragile (2012) é a obra em que Nassim Nicholas Taleb batiza e desenvolve a \"antifragilidade\": a propriedade de certas coisas — organismos, empresas, ideias, sistemas — que não apenas resistem ao caos, mas melhoram com ele. O gancho central é uma lacuna no vocabulário: temos palavras para o frágil (que quebra com o estresse) e para o robusto (que resiste), mas nenhuma para o que se fortalece com o erro e a volatilidade. Taleb coloca o estresse, a falha e a incerteza como nutrientes, não inimigos. Ele propõe ferramentas práticas: a \"barbell strategy\" (combinar segurança extrema numa ponta e opcionalidade arriscada na outra, evitando o meio morto), a \"via negativa\" (melhor não fazer o que pode causar dano irreversível do que tentar prever o positivo), a \"opcionalidade\" (ter o direito, sem a obrigação, de se beneficiar do imprevisível) e o \"efeito Lindy\" (o que já dura muito tende a durar mais). Enraizado em sua filosofia dos \"cisnes negros\", o livro é um ataque à previsão e ao excesso de intervenção — do Estado ao portfólio — e um manual para desenhar uma vida e uma organização que colhem, em vez de temerem, o disorder.",
@@ -20289,16 +20301,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A via negativa — evitar o que é ruim — supera a via positiva na incerteza.",
         "autor": "Nassim Nicholas Taleb",
         "obra": "Antifragile"
-      },
-      {
-        "texto": "A opcionalidade é estar livre para ganhar, sem estar obrigado a perder.",
-        "autor": "Nassim Nicholas Taleb",
-        "obra": "Antifragile"
-      },
-      {
-        "texto": "O que resistiu ao tempo tende a resistir mais.",
-        "autor": "Nassim Nicholas Taleb",
-        "obra": "Antifragile"
       }
     ],
     "citacoesTerceiros": [
@@ -20310,7 +20312,7 @@ window.MEU_BOLSO_BOOKS=[
       {
         "texto": "Essencial para gestores de risco, ainda que Taleb seja provocador demais.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -20326,9 +20328,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque a antifragilidade",
         "text": "Projete vida e negócios para ganharem com volatilidade, não só resistirem.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Busque a antifragilidade\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Projete vida e negócios para ganharem com volatilidade, não só resistirem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque a antifragilidade\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Busque a antifragilidade\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Projete vida e negócios para ganharem com volatilidade, não só resistirem — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Busque a antifragilidade\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20336,9 +20338,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a barbell strategy",
         "text": "Combine segurança extrema numa ponta com opções de alta recompensa na outra.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Use a barbell strategy\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Combine segurança extrema numa ponta com opções de alta recompensa na outra — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a barbell strategy\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Use a barbell strategy\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Combine segurança extrema numa ponta com opções de alta recompensa na outra — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Use a barbell strategy\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20346,9 +20348,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a via negativa",
         "text": "Prefira evitar danos irreversíveis a perseguir ganhos incertos.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Pratique a via negativa\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Prefira evitar danos irreversíveis a perseguir ganhos incertos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a via negativa\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Pratique a via negativa\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Prefira evitar danos irreversíveis a perseguir ganhos incertos — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Pratique a via negativa\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20356,9 +20358,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Garanta opcionalidade",
         "text": "Mantenha o direito de se beneficiar do imprevisível sem a obrigação de sofrer.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Garanta opcionalidade\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Mantenha o direito de se beneficiar do imprevisível sem a obrigação de sofrer — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Garanta opcionalidade\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Garanta opcionalidade\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mantenha o direito de se beneficiar do imprevisível sem a obrigação de sofrer — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Garanta opcionalidade\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20366,9 +20368,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desconfie de previsões",
         "text": "Invista em exposição e resiliência, não em profetas de cisne negro.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Desconfie de previsões\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Invista em exposição e resiliência, não em profetas de cisne negro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desconfie de previsões\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Desconfie de previsões\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Invista em exposição e resiliência, não em profetas de cisne negro — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Desconfie de previsões\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20376,9 +20378,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aplique o efeito Lindy",
         "text": "Valorize práticas e ideias que já provaram durabilidade.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Aplique o efeito Lindy\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Valorize práticas e ideias que já provaram durabilidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aplique o efeito Lindy\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Aplique o efeito Lindy\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Valorize práticas e ideias que já provaram durabilidade — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Aplique o efeito Lindy\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20386,9 +20388,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Exija pele no jogo",
         "text": "Só confie em quem divide o risco real das próprias recomendações.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Exija pele no jogo\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Só confie em quem divide o risco real das próprias recomendações — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Exija pele no jogo\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Exija pele no jogo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Só confie em quem divide o risco real das próprias recomendações — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Exija pele no jogo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20396,9 +20398,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Subtraia antes de somar",
         "text": "Eliminar o desnecessário frequentemente resolve mais que novas camadas.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Subtraia antes de somar\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Eliminar o desnecessário frequentemente resolve mais que novas camadas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Subtraia antes de somar\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Subtraia antes de somar\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Eliminar o desnecessário frequentemente resolve mais que novas camadas — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Subtraia antes de somar\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20406,9 +20408,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use estresse hormético",
         "text": "Exponha-se a choques pequenos para construir imunidade ao grande.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Use estresse hormético\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Exponha-se a choques pequenos para construir imunidade ao grande — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use estresse hormético\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Use estresse hormético\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Exponha-se a choques pequenos para construir imunidade ao grande — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Use estresse hormético\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20416,9 +20418,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite o meio morto",
         "text": "O \"médio\" suave esconde risco de cauda; escolha extremos assimétricos.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Evite o meio morto\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: O \"médio\" suave esconde risco de cauda; escolha extremos assimétricos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite o meio morto\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Evite o meio morto\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O \"médio\" suave esconde risco de cauda; escolha extremos assimétricos — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Evite o meio morto\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20426,9 +20428,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tolerância a erro barato",
         "text": "Trate falha pequena como dado, não como vergonha.",
         "explicacoes": [
-          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Tolerância a erro barato\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
-          "Na prática: Trate falha pequena como dado, não como vergonha — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Tolerância a erro barato\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Tolerância a erro barato\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trate falha pequena como dado, não como vergonha — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Tolerância a erro barato\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Reduza a exposição ao inesperado",
+        "text": "Taleb recomenda não se apostar demais em previsões; construa margem para absorver o que não se prevê.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb coloca \"Reduza a exposição ao inesperado\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Taleb recomenda não se apostar demais em previsões; construa margem para absorver o que não se prevê — traduzido para a prática, é o passo concreto que liga a teoria de Nassim Nicholas Taleb ao comportamento diário.",
+          "Ignorar \"Reduza a exposição ao inesperado\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -20462,6 +20474,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Taleb nomeia a propriedade de melhorar com o estresse e explica a lacuna de vocabulário.",
             "f": "Na visão de Nassim Nicholas Taleb, \"por que não tínhamos a palavra.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
             "real": false
+          },
+          {
+            "t": "O que é Antifrágil",
+            "e": "Taleb nomeia a propriedade de melhorar com o estresse e explica a lacuna de vocabulário.",
+            "f": "Na visão de Nassim Nicholas Taleb, o que é Antifrágil é o ponto central deste capítulo de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
           }
         ]
       },
@@ -20479,6 +20497,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Eventos extremos.",
             "e": "Conecta antifragilidade aos eventos raros e extremos que moldam a história.",
             "f": "Na visão de Nassim Nicholas Taleb, \"eventos extremos.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          },
+          {
+            "t": "Sobrevivência e Cisne Negro",
+            "e": "Conecta antifragilidade aos eventos raros e extremos que moldam a história.",
+            "f": "Na visão de Nassim Nicholas Taleb, sobrevivência e Cisne Negro é o ponto central deste capítulo de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
             "real": false
           }
         ]
@@ -20498,6 +20522,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Apresenta a via negativa e o princípio de não causar dano irreversível.",
             "f": "Na visão de Nassim Nicholas Taleb, \"subtrair.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
             "real": false
+          },
+          {
+            "t": "A Terceira Via",
+            "e": "Apresenta a via negativa e o princípio de não causar dano irreversível.",
+            "f": "Na visão de Nassim Nicholas Taleb, a Terceira Via é o ponto central deste capítulo de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
           }
         ]
       },
@@ -20515,6 +20545,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Opções reais.",
             "e": "Detalha a estratégia das duas pontas e o poder da opcionalidade assimétrica.",
             "f": "Na visão de Nassim Nicholas Taleb, \"opções reais.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          },
+          {
+            "t": "Barbell e Opções",
+            "e": "Detalha a estratégia das duas pontas e o poder da opcionalidade assimétrica.",
+            "f": "Na visão de Nassim Nicholas Taleb, barbell e Opções é o ponto central deste capítulo de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
             "real": false
           }
         ]
@@ -20534,6 +20570,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mostra por que a durabilidade passada indica sobrevivência futura.",
             "f": "Na visão de Nassim Nicholas Taleb, \"novidade vs tradição.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
             "real": false
+          },
+          {
+            "t": "O Efeito Lindy",
+            "e": "Mostra por que a durabilidade passada indica sobrevivência futura.",
+            "f": "Na visão de Nassim Nicholas Taleb, o Efeito Lindy é o ponto central deste capítulo de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
           }
         ]
       },
@@ -20551,6 +20593,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Incentivos.",
             "e": "Discute responsabilidade e risco compartilhado como base de sistemas saudáveis.",
             "f": "Na visão de Nassim Nicholas Taleb, \"incentivos.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          },
+          {
+            "t": "Pele no Jogo",
+            "e": "Discute responsabilidade e risco compartilhado como base de sistemas saudáveis.",
+            "f": "Na visão de Nassim Nicholas Taleb, pele no Jogo é o ponto central deste capítulo de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
             "real": false
           }
         ]
@@ -20570,6 +20618,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Critica a ação excessiva do Estado e dos experts que geram fragilidade.",
             "f": "Na visão de Nassim Nicholas Taleb, \"consequências.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
             "real": false
+          },
+          {
+            "t": "A Intervenção",
+            "e": "Critica a ação excessiva do Estado e dos experts que geram fragilidade.",
+            "f": "Na visão de Nassim Nicholas Taleb, a Intervenção é o ponto central deste capítulo de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
           }
         ]
       },
@@ -20588,6 +20642,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Conclui com a moral de não transferir risco aos outros e buscar o antifrágil.",
             "f": "O que é frágil quebra com o estresse; o que é antifrágil melhora com ele.",
             "real": true
+          },
+          {
+            "t": "A Ética da Fragilidade",
+            "e": "Conclui com a moral de não transferir risco aos outros e buscar o antifrágil.",
+            "f": "Na visão de Nassim Nicholas Taleb, a Ética da Fragilidade é o ponto central deste capítulo de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
           }
         ]
       }
@@ -20610,12 +20670,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Treinamento cria organização que aprende",
-        "text": "Senge avisa que cursos isolados não mudam a dinâmica sistêmica da empresa.",
-        "reflection": "Seus treinos mudam comportamento ou só encantam por uma semana?"
-      },
-      {
         "type": "truth",
         "title": "Pensamento sistêmico integra tudo",
         "text": "A quinta disciplina é a lente que conecta as outras quatro em coerência.",
@@ -20623,9 +20677,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Visão vem do topo",
-        "text": "Visão compartilhada só existe quando é construída, não decretada por decreto.",
-        "reflection": "Sua equipe comprou a visão ou apenas obedece?"
+        "title": "Treinamento cria organização que aprende",
+        "text": "Senge avisa que cursos isolados não mudam a dinâmica sistêmica da empresa.",
+        "reflection": "Seus treinos mudam comportamento ou só encantam por uma semana?"
       },
       {
         "type": "truth",
@@ -20635,9 +20689,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Consenso é aprendizagem",
-        "text": "Aprender em equipe exige tensão produtiva e diálogo, não concordar para agradar.",
-        "reflection": "Sua equipe debate ou apenas concorda?"
+        "title": "Visão vem do topo",
+        "text": "Visão compartilhada só existe quando é construída, não decretada por decreto.",
+        "reflection": "Sua equipe comprou a visão ou apenas obedece?"
       },
       {
         "type": "truth",
@@ -20647,9 +20701,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Soluções rápidas resolvem",
-        "text": "Atrasos sistêmicos fazem remendos curtos piorarem o problema adiante.",
-        "reflection": "Sua solução cura ou adia o sintoma?"
+        "title": "Consenso é aprendizagem",
+        "text": "Aprender em equipe exige tensão produtiva e diálogo, não concordar para agradar.",
+        "reflection": "Sua equipe debate ou apenas concorda?"
       },
       {
         "type": "truth",
@@ -20659,9 +20713,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Culpar o indivíduo basta",
-        "text": "Falhas sistêmicas reproduzem-se independente de quem ocupa o cargo.",
-        "reflection": "Você troca pessoas ou conserta a estrutura?"
+        "title": "Soluções rápidas resolvem",
+        "text": "Atrasos sistêmicos fazem remendos curtos piorarem o problema adiante.",
+        "reflection": "Sua solução cura ou adia o sintoma?"
       },
       {
         "type": "truth",
@@ -20671,9 +20725,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Eficiência é suficiente",
-        "text": "Otimizar partes isoladas pode destruir o desempenho do todo.",
-        "reflection": "Você otimiza a peça ou o sistema?"
+        "title": "Culpar o indivíduo basta",
+        "text": "Falhas sistêmicas reproduzem-se independente de quem ocupa o cargo.",
+        "reflection": "Você troca pessoas ou conserta a estrutura?"
       },
       {
         "type": "truth",
@@ -20683,9 +20737,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Eficiência é suficiente",
+        "text": "Otimizar partes isoladas pode destruir o desempenho do todo.",
+        "reflection": "Você otimiza a peça ou o sistema?"
+      },
+      {
+        "type": "truth",
+        "title": "Organizações aprendem quando superam modelos mentais rígidos",
+        "text": "Senge defende a quinta disciplina — pensamento sistêmico — como cimento das outras quatro.",
+        "reflection": "Sua equipe resolve sintomas ou mapeia as relações causais por trás deles?"
+      },
+      {
+        "type": "myth",
         "title": "Aprender é acumular",
         "text": "Aprendizagem é mudança de capacidade de criar, não estoque de informação.",
         "reflection": "Você coleciona conhecimento ou muda prática?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de A Quinta Disciplina resiste ao senso comum",
+        "text": "Em \"A Quinta Disciplina\", Peter M. Senge sustenta que the fifth discipline (1990) apresenta a \"organização que aprende\" através de cinco disciplinas integradas — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "The Fifth Discipline (1990) apresenta a \"organização que aprende\" através de cinco disciplinas integradas. O gancho central é que as organizações fracassam não por falta de recursos, mas por \"modelos mentais\" rígidos, ausência de \"visão compartilhada\" e pensamento sistêmico fragmentado. Peter Senge define as cinco disciplinas: (1) domínio pessoal — claridade e disciplina sobre o que realmente importa; (2) modelos mentais — expor e refinar as premissas que governam nossas ações; (3) visão compartilhada — construir aspiração coletiva genuína; (4) aprendizagem em equipe — o \"diálogo\" e a \"síncro\" que superam a soma individual; e (5) pensamento sistêmico — a \"quinta disciplina\" que integra todas as outras, enxergando padrões e atrasos em vez de eventos isolados. Senge introduz ferramentas como os \"arquétipos sistêmicos\" (ex.: \"transferir a carga\", \"corrida aos armamentos\") e a \"aliança estratégica\" entre pessoal e institucional. O livro é o texto fundador da aprendizagem organizacional e segue referência para líderes que querem organizações adaptativas num mundo de mudança acelerada.",
@@ -20706,28 +20778,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Modelos mentais são imagens internas que nos impedem de ver o mundo como ele é.",
         "autor": "Peter Senge",
         "obra": "The Fifth Discipline"
-      },
-      {
-        "texto": "Visão compartilhada não é imposta; é construída.",
-        "autor": "Peter Senge",
-        "obra": "The Fifth Discipline"
-      },
-      {
-        "texto": "Aprender em equipe começa com o diálogo, não com o consenso fingido.",
-        "autor": "Peter Senge",
-        "obra": "The Fifth Discipline"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que me fez virar gestor sistêmico; li três vezes.",
-        "autor": "Executivo",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Denso mas incontornável para quem lidera organizações complexas.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -20743,9 +20805,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique o domínio pessoal",
         "text": "Defina claramente o que importa e cultive disciplina para persegui-lo.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Pratique o domínio pessoal\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Defina claramente o que importa e cultive disciplina para persegui-lo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique o domínio pessoal\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Pratique o domínio pessoal\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defina claramente o que importa e cultive disciplina para persegui-lo — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Pratique o domínio pessoal\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20753,9 +20815,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Exponha modelos mentais",
         "text": "Traga à tona e teste as premissas que guiam suas decisões.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Exponha modelos mentais\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Traga à tona e teste as premissas que guiam suas decisões — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Exponha modelos mentais\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Exponha modelos mentais\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Traga à tona e teste as premissas que guiam suas decisões — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Exponha modelos mentais\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20763,9 +20825,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa visão compartilhada",
         "text": "Envolva as pessoas na criação da aspiração coletiva, não a imponha.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Construa visão compartilhada\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Envolva as pessoas na criação da aspiração coletiva, não a imponha — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa visão compartilhada\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Construa visão compartilhada\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Envolva as pessoas na criação da aspiração coletiva, não a imponha — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Construa visão compartilhada\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20773,9 +20835,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desenvolva aprendizagem em equipe",
         "text": "Incentive diálogo e sincronia que ultrapassam a soma individual.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Desenvolva aprendizagem em equipe\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Incentive diálogo e sincronia que ultrapassam a soma individual — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desenvolva aprendizagem em equipe\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Desenvolva aprendizagem em equipe\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Incentive diálogo e sincronia que ultrapassam a soma individual — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Desenvolva aprendizagem em equipe\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20783,9 +20845,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Adote o pensamento sistêmico",
         "text": "Veja padrões, ciclos e atrasos em vez de eventos isolados.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Adote o pensamento sistêmico\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Veja padrões, ciclos e atrasos em vez de eventos isolados — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Adote o pensamento sistêmico\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Adote o pensamento sistêmico\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Veja padrões, ciclos e atrasos em vez de eventos isolados — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Adote o pensamento sistêmico\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20793,9 +20855,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mapeie arquétipos",
         "text": "Use padrões como \"transferir a carga\" para antecipar armadilhas.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Mapeie arquétipos\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Use padrões como \"transferir a carga\" para antecipar armadilhas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mapeie arquétipos\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Mapeie arquétipos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use padrões como \"transferir a carga\" para antecipar armadilhas — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Mapeie arquétipos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20803,9 +20865,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Respeite os atrasos",
         "text": "Avalie políticas pelo efeito no tempo certo do sistema.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Respeite os atrasos\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Avalie políticas pelo efeito no tempo certo do sistema — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Respeite os atrasos\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Respeite os atrasos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Avalie políticas pelo efeito no tempo certo do sistema — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Respeite os atrasos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20813,9 +20875,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Substitua culpa por estrutura",
         "text": "Conserte o desenho que reproduz o erro, não só a pessoa.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Substitua culpa por estrutura\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Conserte o desenho que reproduz o erro, não só a pessoa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Substitua culpa por estrutura\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Substitua culpa por estrutura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conserte o desenho que reproduz o erro, não só a pessoa — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Substitua culpa por estrutura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20823,9 +20885,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Alinhe pessoal e institucional",
         "text": "A aliança estratégica sustenta engajamento de longo prazo.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Alinhe pessoal e institucional\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: A aliança estratégica sustenta engajamento de longo prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Alinhe pessoal e institucional\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Alinhe pessoal e institucional\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A aliança estratégica sustenta engajamento de longo prazo — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Alinhe pessoal e institucional\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20833,9 +20895,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Troque eficiência por eficácia",
         "text": "Otimize o todo antes de otimizar as partes.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Troque eficiência por eficácia\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Otimize o todo antes de otimizar as partes — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Troque eficiência por eficácia\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Troque eficiência por eficácia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Otimize o todo antes de otimizar as partes — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Troque eficiência por eficácia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -20843,9 +20905,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aprenda a aprender",
         "text": "Foque em mudar capacidade de criar, não em acumular dados.",
         "explicacoes": [
-          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Aprenda a aprender\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
-          "Na prática: Foque em mudar capacidade de criar, não em acumular dados — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aprenda a aprender\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Aprenda a aprender\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foque em mudar capacidade de criar, não em acumular dados — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Aprenda a aprender\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Aprender é capacidade coletiva",
+        "text": "Senge afirma que a organização que aprende supera a soma de seus gênios isolados.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge coloca \"Aprender é capacidade coletiva\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Senge afirma que a organização que aprende supera a soma de seus gênios isolados — traduzido para a prática, é o passo concreto que liga a teoria de Peter M. Senge ao comportamento diário.",
+          "Ignorar \"Aprender é capacidade coletiva\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -20879,6 +20951,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Senge abre defendendo que organizações precisam aprender para sobreviver à mudança.",
             "f": "Na visão de Peter M. Senge, \"interdependência.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
             "real": false
+          },
+          {
+            "t": "A Declaração de Interdependência",
+            "e": "Senge abre defendendo que organizações precisam aprender para sobreviver à mudança.",
+            "f": "Na visão de Peter M. Senge, a Declaração de Interdependência é o ponto central deste capítulo de \"A Quinta Disciplina\".",
+            "real": false
           }
         ]
       },
@@ -20896,6 +20974,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Clareza de propósito.",
             "e": "Introduz o domínio pessoal como fundação da aprendizagem organizacional.",
             "f": "Na visão de Peter M. Senge, \"clareza de propósito.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          },
+          {
+            "t": "Seu Trabalho e a Você",
+            "e": "Introduz o domínio pessoal como fundação da aprendizagem organizacional.",
+            "f": "Na visão de Peter M. Senge, seu Trabalho e a Você é o ponto central deste capítulo de \"A Quinta Disciplina\".",
             "real": false
           }
         ]
@@ -20915,6 +20999,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mostra como premissas ocultas bloqueiam a percepção e a ação.",
             "f": "Na visão de Peter M. Senge, \"refinamento.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
             "real": false
+          },
+          {
+            "t": "Modelos Mentais",
+            "e": "Mostra como premissas ocultas bloqueiam a percepção e a ação.",
+            "f": "Na visão de Peter M. Senge, modelos Mentais é o ponto central deste capítulo de \"A Quinta Disciplina\".",
+            "real": false
           }
         ]
       },
@@ -20932,6 +21022,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Engajamento.",
             "e": "Descreve como alinhar aspiração individual e coletiva genuinamente.",
             "f": "Na visão de Peter M. Senge, \"engajamento.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          },
+          {
+            "t": "Construindo a Visão Compartilhada",
+            "e": "Descreve como alinhar aspiração individual e coletiva genuinamente.",
+            "f": "Na visão de Peter M. Senge, construindo a Visão Compartilhada é o ponto central deste capítulo de \"A Quinta Disciplina\".",
             "real": false
           }
         ]
@@ -20951,6 +21047,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Ensina diálogo e sincronia que liberam inteligência do grupo.",
             "f": "Na visão de Peter M. Senge, \"síncro.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
             "real": false
+          },
+          {
+            "t": "Aprendizagem em Equipe",
+            "e": "Ensina diálogo e sincronia que liberam inteligência do grupo.",
+            "f": "Na visão de Peter M. Senge, aprendizagem em Equipe é o ponto central deste capítulo de \"A Quinta Disciplina\".",
+            "real": false
           }
         ]
       },
@@ -20968,6 +21070,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Integração.",
             "e": "Apresenta a quinta disciplina e suas ferramentas centrais.",
             "f": "Na visão de Peter M. Senge, \"integração.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          },
+          {
+            "t": "Pensamento Sistêmico",
+            "e": "Apresenta a quinta disciplina e suas ferramentas centrais.",
+            "f": "Na visão de Peter M. Senge, pensamento Sistêmico é o ponto central deste capítulo de \"A Quinta Disciplina\".",
             "real": false
           }
         ]
@@ -20987,6 +21095,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Detalha padrões recorrentes como \"transferir a carga\" e \"corrida aos armamentos\".",
             "f": "Na visão de Peter M. Senge, \"armadilhas.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
             "real": false
+          },
+          {
+            "t": "Arquétipos Sistêmicos",
+            "e": "Detalha padrões recorrentes como \"transferir a carga\" e \"corrida aos armamentos\".",
+            "f": "Na visão de Peter M. Senge, arquétipos Sistêmicos é o ponto central deste capítulo de \"A Quinta Disciplina\".",
+            "real": false
           }
         ]
       },
@@ -21004,6 +21118,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Cultura.",
             "e": "Conclui com como institucionalizar a organização que aprende.",
             "f": "Na visão de Peter M. Senge, \"cultura.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          },
+          {
+            "t": "A Estratégia da Aprendizagem",
+            "e": "Conclui com como institucionalizar a organização que aprende.",
+            "f": "Na visão de Peter M. Senge, a Estratégia da Aprendizagem é o ponto central deste capítulo de \"A Quinta Disciplina\".",
             "real": false
           }
         ]
@@ -21027,12 +21147,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Felicidade é ter mais",
-        "text": "Csikszentmihalyi mostra que prazer e felicidade são distintos; posse raramente cria flow.",
-        "reflection": "Você confunde conforto com realização?"
-      },
-      {
         "type": "truth",
         "title": "Flow exige desafio igual à skill",
         "text": "O equilíbrio entre tarefa e capacidade é o que gera imersão.",
@@ -21040,9 +21154,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Diversão é flow",
-        "text": "Diversão relaxa, mas não exige atenção plena; flow cansa e enriquece.",
-        "reflection": "Você confunde lazer com engajamento?"
+        "title": "Felicidade é ter mais",
+        "text": "Csikszentmihalyi mostra que prazer e felicidade são distintos; posse raramente cria flow.",
+        "reflection": "Você confunde conforto com realização?"
       },
       {
         "type": "truth",
@@ -21052,9 +21166,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tédio e ansiedade são opostos que não se regulam",
-        "text": "Ambos indicam desequilíbrio ajustável subindo ou baixando o desafio.",
-        "reflection": "Você ajusta o desafio ou só reclama?"
+        "title": "Diversão é flow",
+        "text": "Diversão relaxa, mas não exige atenção plena; flow cansa e enriquece.",
+        "reflection": "Você confunde lazer com engajamento?"
       },
       {
         "type": "truth",
@@ -21064,9 +21178,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Ego traz felicidade",
-        "text": "No flow o ego some; a identificação com o eu fragmenta a experiência.",
-        "reflection": "Você busca aprovação ou imersão?"
+        "title": "Tédio e ansiedade são opostos que não se regulam",
+        "text": "Ambos indicam desequilíbrio ajustável subindo ou baixando o desafio.",
+        "reflection": "Você ajusta o desafio ou só reclama?"
       },
       {
         "type": "truth",
@@ -21076,9 +21190,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Relaxar sempre ajuda",
-        "text": "A mente ociosa tende à entropia; ordem exige atividade com propósito.",
-        "reflection": "Seu descanso recarrega ou apenas dispersa?"
+        "title": "Ego traz felicidade",
+        "text": "No flow o ego some; a identificação com o eu fragmenta a experiência.",
+        "reflection": "Você busca aprovação ou imersão?"
       },
       {
         "type": "truth",
@@ -21088,9 +21202,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Flow é só talento",
-        "text": "Qualquer um pode construí-lo ajustando condições da atividade.",
-        "reflection": "Você acha flow privilégio de gênios?"
+        "title": "Relaxar sempre ajuda",
+        "text": "A mente ociosa tende à entropia; ordem exige atividade com propósito.",
+        "reflection": "Seu descanso recarrega ou apenas dispersa?"
       },
       {
         "type": "truth",
@@ -21100,9 +21214,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Flow é só talento",
+        "text": "Qualquer um pode construí-lo ajustando condições da atividade.",
+        "reflection": "Você acha flow privilégio de gênios?"
+      },
+      {
+        "type": "truth",
+        "title": "Flow ocorre no equilíbrio entre desafio e habilidade",
+        "text": "Csikszentmihalyi descreve o estado de imersão total que floresce quando a tarefa exige tudo o que sabemos.",
+        "reflection": "Quantas horas por semana você passa em flow — e o que as rouba?"
+      },
+      {
+        "type": "myth",
         "title": "Tempo voa sempre bem",
         "text": "Flow distorce o tempo, mas só quando o desafio está calibrado.",
         "reflection": "Você perde tempo ou investe atenção?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Flow: A Psicologia da Experiência Ótima resiste ao senso comum",
+        "text": "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi sustenta que flow (1990) é a obra fundadora do estudo científico do \"flow\" — o estado de imersão total em que a atividade é tão envolvente que perdemos a noção do tempo e do ego — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Flow (1990) é a obra fundadora do estudo científico do \"flow\" — o estado de imersão total em que a atividade é tão envolvente que perdemos a noção do tempo e do ego. O gancho central é que a felicidade não é algo que acontece, mas algo que se constrói controlando a própria experiência; e o flow é sua via mestra. Mihaly Csikszentmihalyi mostra que o flow ocorre quando o desafio encontra a habilidade no ponto certo: desafios muito altos geram ansiedade, muito baixos geram tédio. Ele descreve as condições do estado — metas claras, feedback imediato, concentração focalizada — e como ele aparece em atividades tão distintas quanto xadrez, cirurgia, música e trabalho artesanal. O livro também advoga a \"autotelização\" (autotelicidade): realizar ações por si mesmas, não por recompensa externa, e propõe a \"complexidade\" (ordem psicológica) como antídoto à entropia da mente. Mais que autoajuda, é psicologia positiva rigorosa que dá ao leitor um mapa para desenhar uma vida com mais momentos de excelência e menos de fragmentação.",
@@ -21123,28 +21255,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A felicidade não acontece; ela é construída pelo controle da própria experiência.",
         "autor": "Mihaly Csikszentmihalyi",
         "obra": "Flow"
-      },
-      {
-        "texto": "Quem é autotélico age pela atividade em si, não pela recompensa.",
-        "autor": "Mihaly Csikszentmihalyi",
-        "obra": "Flow"
-      },
-      {
-        "texto": "A mente em flow esquece o tempo e o eu.",
-        "autor": "Mihaly Csikszentmihalyi",
-        "obra": "Flow"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que me ensinou a amar o trabalho difícil.",
-        "autor": "Psicólogo",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Clássico da psicologia positiva; leitura obrigatória.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -21160,9 +21282,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque o equilíbrio desafio-skill",
         "text": "Calibre tarefas para que habilidade e dificuldade coincidam.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Busque o equilíbrio desafio-skill\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Calibre tarefas para que habilidade e dificuldade coincidam — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque o equilíbrio desafio-skill\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Busque o equilíbrio desafio-skill\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Calibre tarefas para que habilidade e dificuldade coincidam — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Busque o equilíbrio desafio-skill\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21170,9 +21292,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina metas claras",
         "text": "Objetivos nítidos ancoram a atenção e convidam ao flow.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Defina metas claras\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Objetivos nítidos ancoram a atenção e convidam ao flow — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina metas claras\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Defina metas claras\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Objetivos nítidos ancoram a atenção e convidam ao flow — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Defina metas claras\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21180,9 +21302,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Garanta feedback rápido",
         "text": "Crie laços de retorno imediato para sustentar concentração.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Garanta feedback rápido\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Crie laços de retorno imediato para sustentar concentração — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Garanta feedback rápido\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Garanta feedback rápido\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Crie laços de retorno imediato para sustentar concentração — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Garanta feedback rápido\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21190,9 +21312,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Focalize a atenção",
         "text": "Proteja a consciência de distrações para entrar em imersão.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Focalize a atenção\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Proteja a consciência de distrações para entrar em imersão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Focalize a atenção\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Focalize a atenção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Proteja a consciência de distrações para entrar em imersão — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Focalize a atenção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21200,9 +21322,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive a autotelização",
         "text": "Escolha atividades valiosas por si mesmas, não só por prêmio.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Cultive a autotelização\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Escolha atividades valiosas por si mesmas, não só por prêmio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive a autotelização\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Cultive a autotelização\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escolha atividades valiosas por si mesmas, não só por prêmio — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Cultive a autotelização\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21210,9 +21332,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza a entropia mental",
         "text": "Estruture rotinas e sentidos para evitar a desordem da mente.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Reduza a entropia mental\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Estruture rotinas e sentidos para evitar a desordem da mente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza a entropia mental\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Reduza a entropia mental\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estruture rotinas e sentidos para evitar a desordem da mente — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Reduza a entropia mental\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21220,9 +21342,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abraçe a complexidade",
         "text": "Desenvolva metas e significados que organizam a psique.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Abraçe a complexidade\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Desenvolva metas e significados que organizam a psique — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abraçe a complexidade\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Abraçe a complexidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desenvolva metas e significados que organizam a psique — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Abraçe a complexidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21230,9 +21352,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o tédio como sinal",
         "text": "Quando entedia, aumente o desafio; quando ansioso, treine a skill.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Use o tédio como sinal\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Quando entedia, aumente o desafio; quando ansioso, treine a skill — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o tédio como sinal\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Use o tédio como sinal\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quando entedia, aumente o desafio; quando ansioso, treine a skill — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Use o tédio como sinal\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21240,9 +21362,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Separar prazer de felicidade",
         "text": "Busque realização (flow), não apenas conforto passageiro.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Separar prazer de felicidade\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Busque realização (flow), não apenas conforto passageiro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Separar prazer de felicidade\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Separar prazer de felicidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Busque realização (flow), não apenas conforto passageiro — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Separar prazer de felicidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21250,9 +21372,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique em qualquer domínio",
         "text": "Flow é possível em trabalho, esporte, estudo e lazer intencional.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Pratique em qualquer domínio\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: Flow é possível em trabalho, esporte, estudo e lazer intencional — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique em qualquer domínio\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Pratique em qualquer domínio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Flow é possível em trabalho, esporte, estudo e lazer intencional — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Pratique em qualquer domínio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21260,9 +21382,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Perder o ego com graça",
         "text": "No flow o ego se dissolve; isso é sinal de saúde, não perda.",
         "explicacoes": [
-          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Perder o ego com graça\" como peça-chave para o estado de flow e o controle da própria consciência.",
-          "Na prática: No flow o ego se dissolve; isso é sinal de saúde, não perda — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Perder o ego com graça\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Perder o ego com graça\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "No flow o ego se dissolve; isso é sinal de saúde, não perda — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Perder o ego com graça\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Flow é treinável, não sorte",
+        "text": "Csikszentmihalyi mostra que desenhar desafios na medida cria flow de forma repetível.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi coloca \"Flow é treinável, não sorte\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Csikszentmihalyi mostra que desenhar desafios na medida cria flow de forma repetível — traduzido para a prática, é o passo concreto que liga a teoria de Mihaly Csikszentmihalyi ao comportamento diário.",
+          "Ignorar \"Flow é treinável, não sorte\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -21296,6 +21428,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Csikszentmihalyi define flow e por que a felicidade se constrói, não se recebe.",
             "f": "A felicidade não acontece; ela é construída pelo controle da própria experiência.",
             "real": true
+          },
+          {
+            "t": "Felicidade é um Fluxo",
+            "e": "Csikszentmihalyi define flow e por que a felicidade se constrói, não se recebe.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, felicidade é um Fluxo é o ponto central deste capítulo de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
           }
         ]
       },
@@ -21314,6 +21452,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Descreve as condições: metas claras, feedback, concentração, equilíbrio.",
             "f": "A mente em flow esquece o tempo e o eu.",
             "real": true
+          },
+          {
+            "t": "A Anatomia do Flow",
+            "e": "Descreve as condições: metas claras, feedback, concentração, equilíbrio.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, a Anatomia do Flow é o ponto central deste capítulo de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
           }
         ]
       },
@@ -21331,6 +21475,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Atenção.",
             "e": "Explica como a mente tende ao caos sem ordem intencional.",
             "f": "Na visão de Mihaly Csikszentmihalyi, \"atenção.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          },
+          {
+            "t": "A Entropia da Consciência",
+            "e": "Explica como a mente tende ao caos sem ordem intencional.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, a Entropia da Consciência é o ponto central deste capítulo de \"Flow: A Psicologia da Experiência Ótima\".",
             "real": false
           }
         ]
@@ -21350,6 +21500,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mostra o alinhamento de fazer e perceber no estado de flow.",
             "f": "Na visão de Mihaly Csikszentmihalyi, \"foco.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
             "real": false
+          },
+          {
+            "t": "Ação e Consciência",
+            "e": "Mostra o alinhamento de fazer e perceber no estado de flow.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, ação e Consciência é o ponto central deste capítulo de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
           }
         ]
       },
@@ -21367,6 +21523,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Motivação interna.",
             "e": "Apresenta quem age pela atividade em si e seus traços.",
             "f": "Na visão de Mihaly Csikszentmihalyi, \"motivação interna.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          },
+          {
+            "t": "A Personalidade Autotélica",
+            "e": "Apresenta quem age pela atividade em si e seus traços.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, a Personalidade Autotélica é o ponto central deste capítulo de \"Flow: A Psicologia da Experiência Ótima\".",
             "real": false
           }
         ]
@@ -21386,6 +21548,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Exemplos em trabalho, jogo, arte e esporte mostram a universalidade.",
             "f": "Na visão de Mihaly Csikszentmihalyi, \"aplicações.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
             "real": false
+          },
+          {
+            "t": "O Fluxo nas Atividades",
+            "e": "Exemplos em trabalho, jogo, arte e esporte mostram a universalidade.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, o Fluxo nas Atividades é o ponto central deste capítulo de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
           }
         ]
       },
@@ -21404,6 +21572,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Discute desenvolver a si através de metas e estrutura psicológica.",
             "f": "Na visão de Mihaly Csikszentmihalyi, \"ordem.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
             "real": false
+          },
+          {
+            "t": "A Complexidade",
+            "e": "Discute desenvolver a si através de metas e estrutura psicológica.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, a Complexidade é o ponto central deste capítulo de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
           }
         ]
       },
@@ -21421,6 +21595,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Projeto de vida.",
             "e": "Conclui com como desenhar uma vida rica em momentos de excelência.",
             "f": "Na visão de Mihaly Csikszentmihalyi, \"projeto de vida.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          },
+          {
+            "t": "Tornar a Vida Significativa",
+            "e": "Conclui com como desenhar uma vida rica em momentos de excelência.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, tornar a Vida Significativa é o ponto central deste capítulo de \"Flow: A Psicologia da Experiência Ótima\".",
             "real": false
           }
         ]
@@ -21444,12 +21624,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Mudança exige anos de terapia",
-        "text": "Robbins entrega ferramentas de mudança imediata em minutos, mudando estado e crença.",
-        "reflection": "Você espera anos ou intervém hoje?"
-      },
-      {
         "type": "truth",
         "title": "Estado emocional é controlável",
         "text": "Fisiologia e foco alteram como você se sente na hora.",
@@ -21457,9 +21631,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Crenças são fixas",
-        "text": "Crenças limitantes podem ser substituídas por capacitantes com prática.",
-        "reflection": "Que crença você aceita como lei sem prova?"
+        "title": "Mudança exige anos de terapia",
+        "text": "Robbins entrega ferramentas de mudança imediata em minutos, mudando estado e crença.",
+        "reflection": "Você espera anos ou intervém hoje?"
       },
       {
         "type": "truth",
@@ -21469,9 +21643,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Circunstância define resultado",
-        "text": "O modelo mental e a ação diante da mesma situação mudam o desfecho.",
-        "reflection": "Você culpa o externo ou muda a resposta?"
+        "title": "Crenças são fixas",
+        "text": "Crenças limitantes podem ser substituídas por capacitantes com prática.",
+        "reflection": "Que crença você aceita como lei sem prova?"
       },
       {
         "type": "truth",
@@ -21481,9 +21655,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Motivação vem antes da ação",
-        "text": "Robbins inverte: ação física e estado precedem o \"sentir-se pronto\".",
-        "reflection": "Você espera motivação ou age para criá-la?"
+        "title": "Circunstância define resultado",
+        "text": "O modelo mental e a ação diante da mesma situação mudam o desfecho.",
+        "reflection": "Você culpa o externo ou muda a resposta?"
       },
       {
         "type": "truth",
@@ -21493,9 +21667,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Dúvida é prudência",
-        "text": "A \"dúvida destrutiva\" paralisa; decisão firme libera energia.",
-        "reflection": "Sua dúvida protege ou trava?"
+        "title": "Motivação vem antes da ação",
+        "text": "Robbins inverte: ação física e estado precedem o \"sentir-se pronto\".",
+        "reflection": "Você espera motivação ou age para criá-la?"
       },
       {
         "type": "truth",
@@ -21505,9 +21679,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Potencial é raro",
-        "text": "Robbins sustenta que gigante interno existe; falta despertá-lo.",
-        "reflection": "Você se acha limitado ou adormecido?"
+        "title": "Dúvida é prudência",
+        "text": "A \"dúvida destrutiva\" paralisa; decisão firme libera energia.",
+        "reflection": "Sua dúvida protege ou trava?"
       },
       {
         "type": "truth",
@@ -21517,9 +21691,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Potencial é raro",
+        "text": "Robbins sustenta que gigante interno existe; falta despertá-lo.",
+        "reflection": "Você se acha limitado ou adormecido?"
+      },
+      {
+        "type": "truth",
+        "title": "Estado emocional precede estratégia — fisiologia comanda resultado",
+        "text": "Robbins ensina que mudar a fisiologia e a linguagem interna muda a decisão muito antes da tática.",
+        "reflection": "Você espera se sentir pronto ou decide e então entra em estado de prontidão?"
+      },
+      {
+        "type": "myth",
         "title": "Autoajuda é só palestra",
         "text": "Os exercícios pedem prática diária de estado e crença para vingar.",
         "reflection": "Você aplica ou só consome?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Desperte o Gigante Interior resiste ao senso comum",
+        "text": "Em \"Desperte o Gigante Interior\", Tony Robbins sustenta que awaken the giant within (1991) é o manual de transformação pessoal de tony robbins, que parte da premissa de que todos já possuem \"um gigante\" de potencial adormecido — e basta despertá-lo mudando o estado emocional, as crenças e as estratégias de ação — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Awaken the Giant Within (1991) é o manual de transformação pessoal de Tony Robbins, que parte da premissa de que todos já possuem \"um gigante\" de potencial adormecido — e basta despertá-lo mudando o estado emocional, as crenças e as estratégias de ação. O gancho central é que o destino é decidido menos por circunstâncias e mais pelos \"modelos mentais\" e pela fisiologia que governam nossas emoções a cada instante. Robbins apresenta ferramentas concretas: o \"estado de pico\" (controlar respiração, postura e foco para mudar como se sente na hora), a \"interrupção de padrão\" para quebrar hábitos, o \"empowering beliefs\" (crenças que capacitam) em oposição às limitantes, a \"linguagem transformacional\" e o sistema de \"encerramento de valores\" (aquele onde você define a pessoa que quer ser e alinha suas regras de vida a ela). O livro mescla PNL, neurociência popular e coaching de alta performance, com exercícios de visualização e \"dúvida destrutiva vs decisão\". Embora seja exuberante e comercial, sua força prática está em tratá-lo o leitor como agente ativo de sua própria mudança imediata, sem esperar por terapia longa.",
@@ -21540,16 +21732,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Crenças capacitantes são o motor da ação; limitantes são sua prisão.",
         "autor": "Tony Robbins",
         "obra": "Awaken the Giant Within"
-      },
-      {
-        "texto": "Decisão é o momento em que a dúvida destrutiva cede à ação.",
-        "autor": "Tony Robbins",
-        "obra": "Awaken the Giant Within"
-      },
-      {
-        "texto": "Você já possui um gigante adormecido; basta despertá-lo.",
-        "autor": "Tony Robbins",
-        "obra": "Awaken the Giant Within"
       }
     ],
     "citacoesTerceiros": [
@@ -21561,7 +21743,7 @@ window.MEU_BOLSO_BOOKS=[
       {
         "texto": "Exagerado às vezes, mas as ferramentas de estado são ouro.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -21577,9 +21759,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Controle seu estado",
         "text": "Use respiração, postura e foco para entrar em estado de pico.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Controle seu estado\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Use respiração, postura e foco para entrar em estado de pico — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Controle seu estado\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Controle seu estado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use respiração, postura e foco para entrar em estado de pico — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Controle seu estado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21587,9 +21769,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Interrompa padrões",
         "text": "Quebre o circuito de hábitos indesejados com uma ação consciente.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Interrompa padrões\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Quebre o circuito de hábitos indesejados com uma ação consciente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Interrompa padrões\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Interrompa padrões\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quebre o circuito de hábitos indesejados com uma ação consciente — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Interrompa padrões\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21597,9 +21779,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Substitua crenças",
         "text": "Troque crenças limitantes por capacitantes, com repetição emocional.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Substitua crenças\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Troque crenças limitantes por capacitantes, com repetição emocional — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Substitua crenças\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Substitua crenças\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Troque crenças limitantes por capacitantes, com repetição emocional — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Substitua crenças\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21607,9 +21789,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use linguagem transformacional",
         "text": "Mude \"tenho de\" por \"escolho\"; palavras mudam estado.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Use linguagem transformacional\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Mude \"tenho de\" por \"escolho\"; palavras mudam estado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use linguagem transformacional\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Use linguagem transformacional\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mude \"tenho de\" por \"escolho\"; palavras mudam estado — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Use linguagem transformacional\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21617,9 +21799,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Alinhe valores",
         "text": "Defina quem quer ser e regras de vida coerentes com isso.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Alinhe valores\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Defina quem quer ser e regras de vida coerentes com isso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Alinhe valores\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Alinhe valores\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defina quem quer ser e regras de vida coerentes com isso — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Alinhe valores\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21627,9 +21809,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Decida em vez de duvidar",
         "text": "A decisão firme libera energia que a dúvida consome.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Decida em vez de duvidar\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: A decisão firme libera energia que a dúvida consome — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Decida em vez de duvidar\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Decida em vez de duvidar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A decisão firme libera energia que a dúvida consome — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Decida em vez de duvidar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21637,9 +21819,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Visualize com emoção",
         "text": "Antecipe cenário e sentimento para treinar a execução.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Visualize com emoção\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Antecipe cenário e sentimento para treinar a execução — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Visualize com emoção\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Visualize com emoção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Antecipe cenário e sentimento para treinar a execução — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Visualize com emoção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21647,9 +21829,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja antes de sentir",
         "text": "Estado e ação precedem a motivação; não espere o clima.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Aja antes de sentir\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Estado e ação precedem a motivação; não espere o clima — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja antes de sentir\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Aja antes de sentir\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estado e ação precedem a motivação; não espere o clima — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Aja antes de sentir\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21657,9 +21839,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Gerencie o foco",
         "text": "Direcione a atenção para o que serve ao seu objetivo.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Gerencie o foco\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Direcione a atenção para o que serve ao seu objetivo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Gerencie o foco\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Gerencie o foco\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Direcione a atenção para o que serve ao seu objetivo — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Gerencie o foco\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21667,9 +21849,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique diariamente",
         "text": "Os exercícios de estado e crença exigem rotina para vingar.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Pratique diariamente\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Os exercícios de estado e crença exigem rotina para vingar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique diariamente\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Pratique diariamente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Os exercícios de estado e crença exigem rotina para vingar — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Pratique diariamente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -21677,9 +21859,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Assuma o gigante",
         "text": "Lembre-se de que o potencial existe; cabe despertá-lo.",
         "explicacoes": [
-          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Assuma o gigante\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
-          "Na prática: Lembre-se de que o potencial existe; cabe despertá-lo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Assuma o gigante\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Assuma o gigante\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Lembre-se de que o potencial existe; cabe despertá-lo — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Assuma o gigante\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Modelar os melhores acelera o resultado",
+        "text": "Robbins ensina a copiar estratégias de quem já venceu em vez de reinventar o erro.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins coloca \"Modelar os melhores acelera o resultado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Robbins ensina a copiar estratégias de quem já venceu em vez de reinventar o erro — traduzido para a prática, é o passo concreto que liga a teoria de Tony Robbins ao comportamento diário.",
+          "Ignorar \"Modelar os melhores acelera o resultado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -21713,6 +21905,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Robbins afirma que o potencial está lá; basta despertá-lo com decisão.",
             "f": "Decisão é o momento em que a dúvida destrutiva cede à ação.",
             "real": true
+          },
+          {
+            "t": "O Gigante Adormecido",
+            "e": "Robbins afirma que o potencial está lá; basta despertá-lo com decisão.",
+            "f": "Na visão de Tony Robbins, o Gigante Adormecido é o ponto central deste capítulo de \"Desperte o Gigante Interior\".",
+            "real": false
           }
         ]
       },
@@ -21731,6 +21929,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mostra como decidir rompe a dúvida e libera energia para agir.",
             "f": "Crenças capacitantes são o motor da ação; limitantes são sua prisão.",
             "real": true
+          },
+          {
+            "t": "O Poder da Decisão",
+            "e": "Mostra como decidir rompe a dúvida e libera energia para agir.",
+            "f": "Na visão de Tony Robbins, o Poder da Decisão é o ponto central deste capítulo de \"Desperte o Gigante Interior\".",
+            "real": false
           }
         ]
       },
@@ -21748,6 +21952,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Fisiologia.",
             "e": "Ensina controlar fisiologia e foco para mudar emoção instantaneamente.",
             "f": "Na visão de Tony Robbins, \"fisiologia.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          },
+          {
+            "t": "O Domínio do Estado",
+            "e": "Ensina controlar fisiologia e foco para mudar emoção instantaneamente.",
+            "f": "Na visão de Tony Robbins, o Domínio do Estado é o ponto central deste capítulo de \"Desperte o Gigante Interior\".",
             "real": false
           }
         ]
@@ -21767,6 +21977,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Explica substituir crenças limitantes por capacitantes.",
             "f": "Na visão de Tony Robbins, \"mudança.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
             "real": false
+          },
+          {
+            "t": "Crenças que Capacitam",
+            "e": "Explica substituir crenças limitantes por capacitantes.",
+            "f": "Na visão de Tony Robbins, crenças que Capacitam é o ponto central deste capítulo de \"Desperte o Gigante Interior\".",
+            "real": false
           }
         ]
       },
@@ -21784,6 +22000,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Quebra.",
             "e": "Apresenta a técnica de quebrar hábitos automáticos.",
             "f": "Na visão de Tony Robbins, \"quebra.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          },
+          {
+            "t": "Interrupção de Padrão",
+            "e": "Apresenta a técnica de quebrar hábitos automáticos.",
+            "f": "Na visão de Tony Robbins, interrupção de Padrão é o ponto central deste capítulo de \"Desperte o Gigante Interior\".",
             "real": false
           }
         ]
@@ -21803,6 +22025,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mostra como palavras moldam estado e realidade percebida.",
             "f": "Mude seu estado fisiológico e mudará sua emoção na hora.",
             "real": true
+          },
+          {
+            "t": "Linguagem Transformacional",
+            "e": "Mostra como palavras moldam estado e realidade percebida.",
+            "f": "Na visão de Tony Robbins, linguagem Transformacional é o ponto central deste capítulo de \"Desperte o Gigante Interior\".",
+            "real": false
           }
         ]
       },
@@ -21820,6 +22048,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Coerência.",
             "e": "Ensina alinhar regras de vida a valores definidos.",
             "f": "Na visão de Tony Robbins, \"coerência.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          },
+          {
+            "t": "Valores e Regras",
+            "e": "Ensina alinhar regras de vida a valores definidos.",
+            "f": "Na visão de Tony Robbins, valores e Regras é o ponto central deste capítulo de \"Desperte o Gigante Interior\".",
             "real": false
           }
         ]
@@ -21839,6 +22073,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Conclui com exercícios de imaginar e agir para realizar metas.",
             "f": "Decisão é o momento em que a dúvida destrutiva cede à ação.",
             "real": true
+          },
+          {
+            "t": "Visualização e Ação",
+            "e": "Conclui com exercícios de imaginar e agir para realizar metas.",
+            "f": "Na visão de Tony Robbins, visualização e Ação é o ponto central deste capítulo de \"Desperte o Gigante Interior\".",
+            "real": false
           }
         ]
       }
@@ -21861,12 +22101,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Arrumar é guardar melhor",
-        "text": "Kondo inverte: primeiro descarte massivamente, depois pense em armazenar.",
-        "reflection": "Você organiza o excesso ou o elimina?"
-      },
-      {
         "type": "truth",
         "title": "Descarte por categoria",
         "text": "Juntar todas as blusas de uma vez revela o volume real e facilita a escolha.",
@@ -21874,9 +22108,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tudo tem utilidade",
-        "text": "Muita coisa é mantida por obrigação, não por alegria ou uso.",
-        "reflection": "Você guarda por culpa ou por valor?"
+        "title": "Arrumar é guardar melhor",
+        "text": "Kondo inverte: primeiro descarte massivamente, depois pense em armazenar.",
+        "reflection": "Você organiza o excesso ou o elimina?"
       },
       {
         "type": "truth",
@@ -21886,9 +22120,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Comece pelos sentimentais",
-        "text": "Kondo manda deixá-los por último, quando o critério já está afiado.",
-        "reflection": "Você trava nos itens emocionais primeiro?"
+        "title": "Tudo tem utilidade",
+        "text": "Muita coisa é mantida por obrigação, não por alegria ou uso.",
+        "reflection": "Você guarda por culpa ou por valor?"
       },
       {
         "type": "truth",
@@ -21898,9 +22132,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mais opções trazem felicidade",
-        "text": "Menos roupas e objetos reduzem a paralisia da escolha diária.",
-        "reflection": "Seu acúmulo facilita ou atrapalha seu dia?"
+        "title": "Comece pelos sentimentais",
+        "text": "Kondo manda deixá-los por último, quando o critério já está afiado.",
+        "reflection": "Você trava nos itens emocionais primeiro?"
       },
       {
         "type": "truth",
@@ -21910,9 +22144,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Organizar é tarefa chata",
-        "text": "Kondo trata como ritual que clareia a mente, não penitência.",
-        "reflection": "Você encara como castigo ou renovação?"
+        "title": "Mais opções trazem felicidade",
+        "text": "Menos roupas e objetos reduzem a paralisia da escolha diária.",
+        "reflection": "Seu acúmulo facilita ou atrapalha seu dia?"
       },
       {
         "type": "truth",
@@ -21922,9 +22156,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Comprar solução de armazenamento",
-        "text": "Comprar organizadores esconde o problema; o excesso é a causa.",
-        "reflection": "Você compra caixas ou corta o volume?"
+        "title": "Organizar é tarefa chata",
+        "text": "Kondo trata como ritual que clareia a mente, não penitência.",
+        "reflection": "Você encara como castigo ou renovação?"
       },
       {
         "type": "truth",
@@ -21934,9 +22168,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Comprar solução de armazenamento",
+        "text": "Comprar organizadores esconde o problema; o excesso é a causa.",
+        "reflection": "Você compra caixas ou corta o volume?"
+      },
+      {
+        "type": "truth",
+        "title": "Guardar só o que 'produz alegria' reorganiza a vida inteira",
+        "text": "Kondo propõe descartar por critério emocional e dobrar com respeito; a casa reflete a mente.",
+        "reflection": "Quantas das suas posses você manteria se tivesse de justificar cada uma?"
+      },
+      {
+        "type": "myth",
         "title": "Método serve a todos iguais",
         "text": "Kondo reconhece que famílias grandes exigem adaptação.",
         "reflection": "Você aplica cegamente ou adapta?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de A Mágica da Arrumação resiste ao senso comum",
+        "text": "Em \"A Mágica da Arrumação\", Marie Kondo sustenta que the life-changing magic of tidying up (2011) é o manifesto da \"mágica da arrumação\" de marie kondo, que transformou a organização doméstica em um fenômeno global — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "The Life-Changing Magic of Tidying Up (2011) é o manifesto da \"Mágica da Arrumação\" de Marie Kondo, que transformou a organização doméstica em um fenômeno global. O gancho central é simples e contraintuitivo: em vez de guardar melhor, você deve descartar primeiro — e descartar por categoria, não por cômodo — mantendo apenas o que \"passa alegria\" (spark joy). Kondo parte da premissa de que acumular reflete ansiedade e que arrumar cria ritmo e espaço físico e mental para uma vida com mais clareza. Ela prescreve uma ordem de categorias — roupas, livros, papéis, \"komono\" (miscelânea) e, por fim, itens sentimentais — e ensina o método de dobrar roupas vertendo como um livro para que fiquem de pé, economizando espaço e respeitando as peças. Há também o toque espiritual peculiar: agradecer aos objetos antes de se desfazer deles, tratando-os com respeito. O livro não é sobre limpeza por estética, mas sobre decidir o que realmente importa e honrar o que fica. Críticos notam que o método exige disposição emocional e pode não caber a famílias grandes, mas sua eficácia prática é amplamente comprovada por milhões de seguidores.",
@@ -21957,28 +22209,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Descarte por categoria, nunca por cômodo.",
         "autor": "Marie Kondo",
         "obra": "The Life-Changing Magic of Tidying Up"
-      },
-      {
-        "texto": "Agradeça ao objecto antes de se desfazer dele.",
-        "autor": "Marie Kondo",
-        "obra": "The Life-Changing Magic of Tidying Up"
-      },
-      {
-        "texto": "Uma casa arrumada é um espelho de uma mente clara.",
-        "autor": "Marie Kondo",
-        "obra": "The Life-Changing Magic of Tidying Up"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Depois de descartar metade do guarda-roupa, meu dia ficou mais leve.",
-        "autor": "Leitora",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Funciona de verdade, mas exige disposição emocional.",
-        "autor": "Crítica",
-        "fonte": "Amazon BR"
+        "autor": "Leitor",
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -21994,9 +22236,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Descarte antes de guardar",
         "text": "Elimine o excesso antes de pensar em onde colocar.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Descarte antes de guardar\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: Elimine o excesso antes de pensar em onde colocar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Descarte antes de guardar\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Descarte antes de guardar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Elimine o excesso antes de pensar em onde colocar — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Descarte antes de guardar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22004,9 +22246,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Por categoria, não por cômodo",
         "text": "Reúna todas as peças de uma categoria para ver o volume real.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Por categoria, não por cômodo\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: Reúna todas as peças de uma categoria para ver o volume real — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Por categoria, não por cômodo\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Por categoria, não por cômodo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reúna todas as peças de uma categoria para ver o volume real — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Por categoria, não por cômodo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22014,9 +22256,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pergunte \"spark joy?\"",
         "text": "Mantenha só o que traz alegria genuína ao tocar.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Pergunte \"spark joy?\"\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: Mantenha só o que traz alegria genuína ao tocar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pergunte \"spark joy?\"\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Pergunte \"spark joy?\"\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mantenha só o que traz alegria genuína ao tocar — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Pergunte \"spark joy?\"\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22024,9 +22266,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Siga a ordem certa",
         "text": "Roupas, livros, papéis, komono e por fim sentimentais.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Siga a ordem certa\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: Roupas, livros, papéis, komono e por fim sentimentais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Siga a ordem certa\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Siga a ordem certa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Roupas, livros, papéis, komono e por fim sentimentais — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Siga a ordem certa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22034,9 +22276,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dobre roupas verticalmente",
         "text": "Peças de pé poupam espaço e preservam o tecido.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Dobre roupas verticalmente\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: Peças de pé poupam espaço e preservam o tecido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dobre roupas verticalmente\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Dobre roupas verticalmente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Peças de pé poupam espaço e preservam o tecido — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Dobre roupas verticalmente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22044,9 +22286,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Agradeça ao objecto",
         "text": "O gesto torna o desapego leve e consciente.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Agradeça ao objecto\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: O gesto torna o desapego leve e consciente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Agradeça ao objecto\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Agradeça ao objecto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O gesto torna o desapego leve e consciente — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Agradeça ao objecto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22054,9 +22296,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Corte compras por impulso",
         "text": "Com critério afiado, entra menos coisa nova em casa.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Corte compras por impulso\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: Com critério afiado, entra menos coisa nova em casa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Corte compras por impulso\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Corte compras por impulso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Com critério afiado, entra menos coisa nova em casa — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Corte compras por impulso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22064,9 +22306,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite organizadores novos",
         "text": "O excesso é a causa; resolver o excesso resolve o armazenamento.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Evite organizadores novos\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: O excesso é a causa; resolver o excesso resolve o armazenamento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite organizadores novos\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Evite organizadores novos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O excesso é a causa; resolver o excesso resolve o armazenamento — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Evite organizadores novos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22074,9 +22316,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trate como ritual",
         "text": "Arrumar vira clareza mental, não penitência doméstica.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Trate como ritual\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: Arrumar vira clareza mental, não penitência doméstica — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trate como ritual\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Trate como ritual\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Arrumar vira clareza mental, não penitência doméstica — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Trate como ritual\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22084,9 +22326,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Adapte à sua casa",
         "text": "Famílias grandes precisam de ajustes ao método.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Adapte à sua casa\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: Famílias grandes precisam de ajustes ao método — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Adapte à sua casa\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Adapte à sua casa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Famílias grandes precisam de ajustes ao método — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Adapte à sua casa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22094,9 +22336,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Exercite a decisão",
         "text": "Cada escolha treina seu critério para toda a vida.",
         "explicacoes": [
-          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Exercite a decisão\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
-          "Na prática: Cada escolha treina seu critério para toda a vida — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Exercite a decisão\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Exercite a decisão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada escolha treina seu critério para toda a vida — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Exercite a decisão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Agradecer os objetos libera o desapego",
+        "text": "Kondo encerra com o ritual de gratidão antes de descartar, que dissolve a culpa de se desfazer.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo coloca \"Agradecer os objetos libera o desapego\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Kondo encerra com o ritual de gratidão antes de descartar, que dissolve a culpa de se desfazer — traduzido para a prática, é o passo concreto que liga a teoria de Marie Kondo ao comportamento diário.",
+          "Ignorar \"Agradecer os objetos libera o desapego\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -22130,6 +22382,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Kondo conecta casa em ordem a clareza mental e felicidade.",
             "f": "Na visão de Marie Kondo, \"propósito.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
             "real": false
+          },
+          {
+            "t": "Por que Arrumar Muda a Vida",
+            "e": "Kondo conecta casa em ordem a clareza mental e felicidade.",
+            "f": "Na visão de Marie Kondo, por que Arrumar Muda a Vida é o ponto central deste capítulo de \"A Mágica da Arrumação\".",
+            "real": false
           }
         ]
       },
@@ -22147,6 +22405,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Decisão.",
             "e": "Defende fazer a arrumação num surto decisivo, não aos poucos.",
             "f": "Na visão de Marie Kondo, \"decisão.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          },
+          {
+            "t": "O Método de uma Vez",
+            "e": "Defende fazer a arrumação num surto decisivo, não aos poucos.",
+            "f": "Na visão de Marie Kondo, o Método de uma Vez é o ponto central deste capítulo de \"A Mágica da Arrumação\".",
             "real": false
           }
         ]
@@ -22166,6 +22430,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Ensina reunir todas as peças de uma categoria antes de escolher.",
             "f": "Na visão de Marie Kondo, \"visão.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
             "real": false
+          },
+          {
+            "t": "Por Categoria",
+            "e": "Ensina reunir todas as peças de uma categoria antes de escolher.",
+            "f": "Na visão de Marie Kondo, por Categoria é o ponto central deste capítulo de \"A Mágica da Arrumação\".",
+            "real": false
           }
         ]
       },
@@ -22183,6 +22453,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Emoção.",
             "e": "A pergunta da alegria substitui a indecisão por critério claro.",
             "f": "Na visão de Marie Kondo, \"emoção.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          },
+          {
+            "t": "A Regra do \"Spark Joy\"",
+            "e": "A pergunta da alegria substitui a indecisão por critério claro.",
+            "f": "Na visão de Marie Kondo, a Regra do \"Spark Joy\" é o ponto central deste capítulo de \"A Mágica da Arrumação\".",
             "real": false
           }
         ]
@@ -22202,6 +22478,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Roupas, livros, papéis, komono e sentimentais, nesta sequência.",
             "f": "Na visão de Marie Kondo, \"dificuldade.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
             "real": false
+          },
+          {
+            "t": "A Ordem Certa",
+            "e": "Roupas, livros, papéis, komono e sentimentais, nesta sequência.",
+            "f": "Na visão de Marie Kondo, a Ordem Certa é o ponto central deste capítulo de \"A Mágica da Arrumação\".",
+            "real": false
           }
         ]
       },
@@ -22219,6 +22501,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Respeito.",
             "e": "Mostra o método vertical que poupa espaço e respeita tecido.",
             "f": "Na visão de Marie Kondo, \"respeito.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          },
+          {
+            "t": "Como Dobrar",
+            "e": "Mostra o método vertical que poupa espaço e respeita tecido.",
+            "f": "Na visão de Marie Kondo, como Dobrar é o ponto central deste capítulo de \"A Mágica da Arrumação\".",
             "real": false
           }
         ]
@@ -22238,6 +22526,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O ritual de gratidão torna o desapego consciente.",
             "f": "Na visão de Marie Kondo, \"desapego.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
             "real": false
+          },
+          {
+            "t": "Agradecer aos Objetos",
+            "e": "O ritual de gratidão torna o desapego consciente.",
+            "f": "Na visão de Marie Kondo, agradecer aos Objetos é o ponto central deste capítulo de \"A Mágica da Arrumação\".",
+            "real": false
           }
         ]
       },
@@ -22255,6 +22549,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Vida.",
             "e": "Conclui com a casa como espelho e suporte da vida desejada.",
             "f": "Na visão de Marie Kondo, \"vida.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          },
+          {
+            "t": "O Lar que Reflete Você",
+            "e": "Conclui com a casa como espelho e suporte da vida desejada.",
+            "f": "Na visão de Marie Kondo, o Lar que Reflete Você é o ponto central deste capítulo de \"A Mágica da Arrumação\".",
             "real": false
           }
         ]
@@ -22278,12 +22578,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Dono de negócio é empreendedor",
-        "text": "Gerber distingue: a maioria é \"técnico\" escravo do próprio negócio.",
-        "reflection": "Você manda ou obedece ao seu negócio?"
-      },
-      {
         "type": "truth",
         "title": "Trabalhe pelo negócio",
         "text": "Construa sistema que roda sem você, não mais um emprego para si.",
@@ -22291,9 +22585,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Paixão pela técnica basta",
-        "text": "Saber cozinhar não ensina a gerir cozinha como negócio.",
-        "reflection": "Você domina a técnica mas foge da gestão?"
+        "title": "Dono de negócio é empreendedor",
+        "text": "Gerber distingue: a maioria é \"técnico\" escravo do próprio negócio.",
+        "reflection": "Você manda ou obedece ao seu negócio?"
       },
       {
         "type": "truth",
@@ -22303,9 +22597,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Crescer é sempre bom",
-        "text": "Sem sistema, crescer amplia o caos e a curva da adolescência.",
-        "reflection": "Seu crescimento tem estrutura ou só volume?"
+        "title": "Paixão pela técnica basta",
+        "text": "Saber cozinhar não ensina a gerir cozinha como negócio.",
+        "reflection": "Você domina a técnica mas foge da gestão?"
       },
       {
         "type": "truth",
@@ -22315,9 +22609,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Intuição substitui processo",
-        "text": "Negócios que escalam dependem de manuais, não de gênio do dono.",
-        "reflection": "Seu sucesso é repetível ou sortudo?"
+        "title": "Crescer é sempre bom",
+        "text": "Sem sistema, crescer amplia o caos e a curva da adolescência.",
+        "reflection": "Seu crescimento tem estrutura ou só volume?"
       },
       {
         "type": "truth",
@@ -22327,9 +22621,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Você é insubstituível",
-        "text": "Ser insubstituível é o que impede de vender ou descansar.",
-        "reflection": "Ser vitalício é força ou prisão?"
+        "title": "Intuição substitui processo",
+        "text": "Negócios que escalam dependem de manuais, não de gênio do dono.",
+        "reflection": "Seu sucesso é repetível ou sortudo?"
       },
       {
         "type": "truth",
@@ -22339,9 +22633,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Planilha inicial basta",
-        "text": "O plano de negócios tradicional não prepara para operar o dia a dia.",
-        "reflection": "Seu plano vira operação ou só papel?"
+        "title": "Você é insubstituível",
+        "text": "Ser insubstituível é o que impede de vender ou descansar.",
+        "reflection": "Ser vitalício é força ou prisão?"
       },
       {
         "type": "truth",
@@ -22351,9 +22645,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Planilha inicial basta",
+        "text": "O plano de negócios tradicional não prepara para operar o dia a dia.",
+        "reflection": "Seu plano vira operação ou só papel?"
+      },
+      {
+        "type": "truth",
+        "title": "Empreender é construir um sistema, não ser o técnico",
+        "text": "Gerber alerta que o dono técnico vira escravo do negócio; o modelo deve funcionar sem ele.",
+        "reflection": "Seu negócio pararia se você tirasse duas semanas de férias?"
+      },
+      {
+        "type": "myth",
         "title": "Franquia é só para grandes",
         "text": "O princípio de formato serve a PME de uma só loja.",
         "reflection": "Você acha sistema coisa de gigante?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Mito do Empreendedorismo resiste ao senso comum",
+        "text": "Em \"O Mito do Empreendedorismo\", Michael E. Gerber sustenta que the e-myth revisited (1995) desconstrói o maior equívoco do empreendedorismo: a ideia de que quem abre um negócio é, por definição, um empreendedor — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "The E-Myth Revisited (1995) desconstrói o maior equívoco do empreendedorismo: a ideia de que quem abre um negócio é, por definição, um empreendedor. Michael Gerber introduz o \"E-Myth\" (o mito do empreendedor): a maioria das pequenas empresas nasce de técnicos apaixonados por sua área (um bom cozinheiro abre restaurante), mas que detestam gerir — e acabam escravas do próprio negócio. O gancho central é que você não deve trabalhar \"no\" negócio, mas \"pelo\" negócio, transformando-o numa organização que funciona sem você. Gerber propõe o \"Modelo de Negócio\" (Business Format) inspirado em franquias: documentar processos, padronizar, e pensar como um empreendedor (visão), gerente (sistema) e técnico (execução) ao mesmo tempo. O livro traça o ciclo de vida da empresa — incubação, criança, adolescente, adulta — e alerta para a \"curva da adolescência\", onde o caos cresce mais que a estrutura. Sua lição prática é tratar o negócio como um produto a ser desenhado, com manuais e previsibilidade, libertando o fundador. Embora focado em PMEs, seus princípios de sistema e documentação valem para qualquer organização que queira escalar.",
@@ -22374,28 +22686,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A maioria dos pequenos empresários é um técnico fingindo ser empreendedor.",
         "autor": "Michael Gerber",
         "obra": "The E-Myth Revisited"
-      },
-      {
-        "texto": "O modelo de franquia é a forma mais poderosa de construir um negócio.",
-        "autor": "Michael Gerber",
-        "obra": "The E-Myth Revisited"
-      },
-      {
-        "texto": "Seu negócio deve funcionar sem sua presença diária.",
-        "autor": "Michael Gerber",
-        "obra": "The E-Myth Revisited"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Me fez perceber que eu tinha um emprego, não um negócio.",
-        "autor": "Empreendedor",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Leitura obrigatória antes de abrir empresa.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -22411,9 +22713,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Saia do modo técnico",
         "text": "Reconheça que saber fazer não é saber gerir um negócio.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Saia do modo técnico\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Reconheça que saber fazer não é saber gerir um negócio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Saia do modo técnico\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Saia do modo técnico\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça que saber fazer não é saber gerir um negócio — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Saia do modo técnico\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22421,9 +22723,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trabalhe pelo negócio",
         "text": "Construa sistema que opera independente da sua presença.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Trabalhe pelo negócio\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Construa sistema que opera independente da sua presença — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trabalhe pelo negócio\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Trabalhe pelo negócio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Construa sistema que opera independente da sua presença — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Trabalhe pelo negócio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22431,9 +22733,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Adote o modelo de franquia",
         "text": "Documente processos para que qualquer um reproduza o padrão.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Adote o modelo de franquia\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Documente processos para que qualquer um reproduza o padrão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Adote o modelo de franquia\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Adote o modelo de franquia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Documente processos para que qualquer um reproduza o padrão — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Adote o modelo de franquia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22441,9 +22743,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Exerça os três papéis",
         "text": "Una visão de empreendedor, sistema de gerente e execução de técnico.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Exerça os três papéis\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Una visão de empreendedor, sistema de gerente e execução de técnico — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Exerça os três papéis\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Exerça os três papéis\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Una visão de empreendedor, sistema de gerente e execução de técnico — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Exerça os três papéis\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22451,9 +22753,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fuja da curva da adolescência",
         "text": "Estruture antes que o caos supere a estrutura ao crescer.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Fuja da curva da adolescência\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Estruture antes que o caos supere a estrutura ao crescer — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fuja da curva da adolescência\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Fuja da curva da adolescência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estruture antes que o caos supere a estrutura ao crescer — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Fuja da curva da adolescência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22461,9 +22763,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escreva manuais",
         "text": "Processos documentados garantem consistência e liberdade.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Escreva manuais\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Processos documentados garantem consistência e liberdade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escreva manuais\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Escreva manuais\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Processos documentados garantem consistência e liberdade — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Escreva manuais\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22471,9 +22773,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desenhe como produto",
         "text": "Trate a empresa como artefato a ser vendido ou escalado.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Desenhe como produto\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Trate a empresa como artefato a ser vendido ou escalado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desenhe como produto\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Desenhe como produto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trate a empresa como artefato a ser vendido ou escalado — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Desenhe como produto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22481,9 +22783,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Torne-se substituível",
         "text": "Construa dependência do sistema, não da sua pessoa.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Torne-se substituível\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Construa dependência do sistema, não da sua pessoa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Torne-se substituível\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Torne-se substituível\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Construa dependência do sistema, não da sua pessoa — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Torne-se substituível\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22491,9 +22793,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje a operação",
         "text": "Vá além do plano financeiro; detalhe o dia a dia.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Planeje a operação\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Vá além do plano financeiro; detalhe o dia a dia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje a operação\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Planeje a operação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vá além do plano financeiro; detalhe o dia a dia — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Planeje a operação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22501,9 +22803,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pense em escala",
         "text": "Desenhe para crescer sem colapsar na complexidade.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Pense em escala\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: Desenhe para crescer sem colapsar na complexidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pense em escala\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Pense em escala\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desenhe para crescer sem colapsar na complexidade — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Pense em escala\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22511,9 +22813,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Libere seu tempo",
         "text": "O objetivo é lucro e liberdade, não mais um emprego.",
         "explicacoes": [
-          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Libere seu tempo\" como peça-chave em torno de construir um negócio que funcione sem o dono.",
-          "Na prática: O objetivo é lucro e liberdade, não mais um emprego — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Libere seu tempo\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Libere seu tempo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O objetivo é lucro e liberdade, não mais um emprego — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Libere seu tempo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Documente o processo para escalar",
+        "text": "Gerber defende transformar o jeito pessoal de fazer em manual operacional replicável.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber coloca \"Documente o processo para escalar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Gerber defende transformar o jeito pessoal de fazer em manual operacional replicável — traduzido para a prática, é o passo concreto que liga a teoria de Michael E. Gerber ao comportamento diário.",
+          "Ignorar \"Documente o processo para escalar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -22547,6 +22859,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Gerber denuncia o mito de que dono é empreendedor nato.",
             "f": "A maioria dos pequenos empresários é um técnico fingindo ser empreendedor.",
             "real": true
+          },
+          {
+            "t": "O E-Myth",
+            "e": "Gerber denuncia o mito de que dono é empreendedor nato.",
+            "f": "Na visão de Michael E. Gerber, o E-Myth é o ponto central deste capítulo de \"O Mito do Empreendedorismo\".",
+            "real": false
           }
         ]
       },
@@ -22564,6 +22882,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Conflito.",
             "e": "Empreendedor, gerente e técnico que convivem no fundador.",
             "f": "Na visão de Michael E. Gerber, \"conflito.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          },
+          {
+            "t": "O Triângulo",
+            "e": "Empreendedor, gerente e técnico que convivem no fundador.",
+            "f": "Na visão de Michael E. Gerber, o Triângulo é o ponto central deste capítulo de \"O Mito do Empreendedorismo\".",
             "real": false
           }
         ]
@@ -22583,6 +22907,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Incubação, infância, adolescência e idade adulta da empresa.",
             "f": "Na visão de Michael E. Gerber, \"caos.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
             "real": false
+          },
+          {
+            "t": "O Ciclo de Vida",
+            "e": "Incubação, infância, adolescência e idade adulta da empresa.",
+            "f": "Na visão de Michael E. Gerber, o Ciclo de Vida é o ponto central deste capítulo de \"O Mito do Empreendedorismo\".",
+            "real": false
           }
         ]
       },
@@ -22600,6 +22930,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Estrutura.",
             "e": "O ponto em que crescer vira caos sem sistema.",
             "f": "Na visão de Michael E. Gerber, \"estrutura.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          },
+          {
+            "t": "A Curva da Adolescência",
+            "e": "O ponto em que crescer vira caos sem sistema.",
+            "f": "Na visão de Michael E. Gerber, a Curva da Adolescência é o ponto central deste capítulo de \"O Mito do Empreendedorismo\".",
             "real": false
           }
         ]
@@ -22619,6 +22955,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Propor documentar processos como franquias fazem.",
             "f": "Na visão de Michael E. Gerber, \"manual.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
             "real": false
+          },
+          {
+            "t": "O Modelo de Franquia",
+            "e": "Propor documentar processos como franquias fazem.",
+            "f": "Na visão de Michael E. Gerber, o Modelo de Franquia é o ponto central deste capítulo de \"O Mito do Empreendedorismo\".",
+            "real": false
           }
         ]
       },
@@ -22637,6 +22979,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mudar de operar para desenhar o sistema.",
             "f": "Você não está no negócio; o negócio está em você.",
             "real": true
+          },
+          {
+            "t": "Trabalhe pelo Negócio",
+            "e": "Mudar de operar para desenhar o sistema.",
+            "f": "Na visão de Michael E. Gerber, trabalhe pelo Negócio é o ponto central deste capítulo de \"O Mito do Empreendedorismo\".",
+            "real": false
           }
         ]
       },
@@ -22655,6 +23003,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Desenhar a empresa como artefato vendável.",
             "f": "Trabalhe pelo seu negócio, não nele.",
             "real": true
+          },
+          {
+            "t": "O Negócio como Produto",
+            "e": "Desenhar a empresa como artefato vendável.",
+            "f": "Na visão de Michael E. Gerber, o Negócio como Produto é o ponto central deste capítulo de \"O Mito do Empreendedorismo\".",
+            "real": false
           }
         ]
       },
@@ -22673,6 +23027,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Detalhar a operação diária, não só finanças.",
             "f": "Trabalhe pelo seu negócio, não nele.",
             "real": true
+          },
+          {
+            "t": "O Plano de Negócio",
+            "e": "Detalhar a operação diária, não só finanças.",
+            "f": "Na visão de Michael E. Gerber, o Plano de Negócio é o ponto central deste capítulo de \"O Mito do Empreendedorismo\".",
+            "real": false
           }
         ]
       }
@@ -22695,12 +23055,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Corrigir fraqueza é o caminho",
-        "text": "Rath mostra que investir em forças gera ganhos muito maiores que remediar pontos fracos.",
-        "reflection": "Você conserta ou potencializa?"
-      },
-      {
         "type": "truth",
         "title": "Força = talento × investimento",
         "text": "Talento sozinho adormece sem conhecimento e prática aplicados.",
@@ -22708,9 +23062,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Todos devem ser bons em tudo",
-        "text": "Excelência vem de dominar poucos temas, não de mediania geral.",
-        "reflection": "Você persegue o versátil ou o excepcional?"
+        "title": "Corrigir fraqueza é o caminho",
+        "text": "Rath mostra que investir em forças gera ganhos muito maiores que remediar pontos fracos.",
+        "reflection": "Você conserta ou potencializa?"
       },
       {
         "type": "truth",
@@ -22720,9 +23074,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Autoajuda genérica serve",
-        "text": "O livro pede descoberta individual via teste, não dica universal.",
-        "reflection": "Você usa receita alheia ou seu perfil?"
+        "title": "Todos devem ser bons em tudo",
+        "text": "Excelência vem de dominar poucos temas, não de mediania geral.",
+        "reflection": "Você persegue o versátil ou o excepcional?"
       },
       {
         "type": "truth",
@@ -22732,9 +23086,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Fraqueza some com esforço",
-        "text": "Melhor cercar a fraqueza do que transformá-la em força rara.",
-        "reflection": "Você tenta virar o que não é?"
+        "title": "Autoajuda genérica serve",
+        "text": "O livro pede descoberta individual via teste, não dica universal.",
+        "reflection": "Você usa receita alheia ou seu perfil?"
       },
       {
         "type": "truth",
@@ -22744,9 +23098,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Talento é suficiente",
-        "text": "Sem conhecimento e habilidade, o talento não vira desempenho.",
-        "reflection": "Você confia só no dom?"
+        "title": "Fraqueza some com esforço",
+        "text": "Melhor cercar a fraqueza do que transformá-la em força rara.",
+        "reflection": "Você tenta virar o que não é?"
       },
       {
         "type": "truth",
@@ -22756,9 +23110,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Teste define destino",
-        "text": "O perfil é ponto de partida, não sentença imutável.",
-        "reflection": "Você se prende ao rótulo?"
+        "title": "Talento é suficiente",
+        "text": "Sem conhecimento e habilidade, o talento não vira desempenho.",
+        "reflection": "Você confia só no dom?"
       },
       {
         "type": "truth",
@@ -22768,9 +23122,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Teste define destino",
+        "text": "O perfil é ponto de partida, não sentença imutável.",
+        "reflection": "Você se prende ao rótulo?"
+      },
+      {
+        "type": "truth",
+        "title": "Investir no talento natural supera corrigir a fraqueza",
+        "text": "Rath mostra que o desempenho de ponta vem de operar pelas forças, não de consertar deficiências.",
+        "reflection": "Você gasta mais energia corrigindo pontos fracos ou ampliando pontos fortes?"
+      },
+      {
+        "type": "myth",
         "title": "Feedback negativo motiva",
         "text": "Rath prefere reforço de pontos fortes a martelar deficiências.",
         "reflection": "Seu feedback ergue ou desmotiva?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de StrengthsFinder 2.0 resiste ao senso comum",
+        "text": "Em \"StrengthsFinder 2.0\", Tom Rath sustenta que 0 (2007) é o livro-companheiro do popular teste de talentos de tom rath, baseado em décadas de pesquisa do gallup — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "StrengthsFinder 2.0 (2007) é o livro-companheiro do popular teste de talentos de Tom Rath, baseado em décadas de pesquisa do Gallup. O gancho central é uma inversão da lógica tradicional de desenvolvimento: gastamos a vida tentando corrigir fraquezas, quando deveríamos identificar e investir nas poucas \"forças\" naturais que nos tornam excepcionais. Rath organiza os talentos em 34 temas (como \"Ativação\", \"Estratégico\", \"Relacionamento\", \"Realização\") e explica que força = talento natural × investimento (conhecimento e habilidade). O livro traz o código para o leitor descobrir seus cinco temas dominantes e dá orientações práticas para usá-los no trabalho, nos relacionamentos e na vida. A tese é que desempenho superior vem de estar no \"papel certo\" — onde seu talento brilha — e de cercar-se de pessoas cujas forças complementam as suas. Embora criticado por não substituir a necessidade de competência básica em áreas fracas, o StrengthsFinder mudou a cultura corporativa ao deslocar o foco do \"conserto\" para o \"aproveitamento\", com impacto mensurável em engajamento e produtividade.",
@@ -22791,28 +23163,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O melhor de nós emerge quando usamos nossas forças todos os dias.",
         "autor": "Tom Rath",
         "obra": "StrengthsFinder 2.0"
-      },
-      {
-        "texto": "Cerque-se de pessoas cujas forças complementam as suas.",
-        "autor": "Tom Rath",
-        "obra": "StrengthsFinder 2.0"
-      },
-      {
-        "texto": "Corrigir fraqueza não cria excelência; investir em força, sim.",
-        "autor": "Tom Rath",
-        "obra": "StrengthsFinder 2.0"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Aplicamos na empresa e o clima de time melhorou visivelmente.",
-        "autor": "Gestor",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "O teste vale; o livro repete bastante, mas o conceito é sólido.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -22828,9 +23190,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Descubra seus temas",
         "text": "Use o teste para identificar seus cinco talentos dominantes.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Descubra seus temas\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Use o teste para identificar seus cinco talentos dominantes — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Descubra seus temas\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Descubra seus temas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use o teste para identificar seus cinco talentos dominantes — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Descubra seus temas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22838,9 +23200,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Invista nas forças",
         "text": "Aplique conhecimento e prática aos talentos naturais.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Invista nas forças\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Aplique conhecimento e prática aos talentos naturais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Invista nas forças\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Invista nas forças\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aplique conhecimento e prática aos talentos naturais — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Invista nas forças\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22848,9 +23210,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque o papel certo",
         "text": "Posicione-se onde seu talento se destaca.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Busque o papel certo\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Posicione-se onde seu talento se destaca — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque o papel certo\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Busque o papel certo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Posicione-se onde seu talento se destaca — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Busque o papel certo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22858,9 +23220,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cerque-se de complementos",
         "text": "Monte equipe cujas forças cobrem suas fraquezas.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Cerque-se de complementos\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Monte equipe cujas forças cobrem suas fraquezas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cerque-se de complementos\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Cerque-se de complementos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Monte equipe cujas forças cobrem suas fraquezas — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Cerque-se de complementos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22868,9 +23230,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Nomeie os temas",
         "text": "Falar em forças melhora pedir e oferecer ajuda.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Nomeie os temas\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Falar em forças melhora pedir e oferecer ajuda — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Nomeie os temas\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Nomeie os temas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Falar em forças melhora pedir e oferecer ajuda — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Nomeie os temas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22878,9 +23240,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use forças todo dia",
         "text": "Engajamento vem de aplicá-las na rotina.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Use forças todo dia\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Engajamento vem de aplicá-las na rotina — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use forças todo dia\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Use forças todo dia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Engajamento vem de aplicá-las na rotina — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Use forças todo dia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22888,9 +23250,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cerque a fraqueza",
         "text": "Reduza o dano de pontos fracos em vez de virá-los.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Cerque a fraqueza\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Reduza o dano de pontos fracos em vez de virá-los — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cerque a fraqueza\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Cerque a fraqueza\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduza o dano de pontos fracos em vez de virá-los — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Cerque a fraqueza\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22898,9 +23260,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reforce positivamente",
         "text": "Feedback em forças motiva mais que foco em déficit.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Reforce positivamente\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Feedback em forças motiva mais que foco em déficit — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reforce positivamente\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Reforce positivamente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Feedback em forças motiva mais que foco em déficit — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Reforce positivamente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22908,9 +23270,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aplique em relações",
         "text": "Conhecer o tema do outro suaviza conflitos.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Aplique em relações\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Conhecer o tema do outro suaviza conflitos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aplique em relações\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Aplique em relações\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conhecer o tema do outro suaviza conflitos — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Aplique em relações\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22918,9 +23280,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trate perfil como base",
         "text": "Use o resultado como ponto de partida, não destino.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Trate perfil como base\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Use o resultado como ponto de partida, não destino — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trate perfil como base\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Trate perfil como base\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use o resultado como ponto de partida, não destino — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Trate perfil como base\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -22928,9 +23290,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mova para o excepcional",
         "text": "Foque em poucos temas para ser excepcional, não mediano.",
         "explicacoes": [
-          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Mova para o excepcional\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
-          "Na prática: Foque em poucos temas para ser excepcional, não mediano — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mova para o excepcional\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Mova para o excepcional\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foque em poucos temas para ser excepcional, não mediano — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Mova para o excepcional\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Force sua força na rotina diária",
+        "text": "Rath recomenda encaixar o talento dominante em um bloco fixo de cada dia.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath coloca \"Force sua força na rotina diária\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Rath recomenda encaixar o talento dominante em um bloco fixo de cada dia — traduzido para a prática, é o passo concreto que liga a teoria de Tom Rath ao comportamento diário.",
+          "Ignorar \"Force sua força na rotina diária\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -22964,6 +23336,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Rath inverte o foco de conserto de fraqueza para investimento em força.",
             "f": "Cerque-se de pessoas cujas forças complementam as suas.",
             "real": true
+          },
+          {
+            "t": "O Poder das Forças",
+            "e": "Rath inverte o foco de conserto de fraqueza para investimento em força.",
+            "f": "Na visão de Tom Rath, o Poder das Forças é o ponto central deste capítulo de \"StrengthsFinder 2.0\".",
+            "real": false
           }
         ]
       },
@@ -22981,6 +23359,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Dados.",
             "e": "Base em décadas de pesquisa do Gallup sobre talento e desempenho.",
             "f": "Na visão de Tom Rath, \"dados.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          },
+          {
+            "t": "A Ciência",
+            "e": "Base em décadas de pesquisa do Gallup sobre talento e desempenho.",
+            "f": "Na visão de Tom Rath, a Ciência é o ponto central deste capítulo de \"StrengthsFinder 2.0\".",
             "real": false
           }
         ]
@@ -23000,6 +23384,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Apresenta os temas de talento e como se combinam.",
             "f": "Na visão de Tom Rath, \"combinação.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
             "real": false
+          },
+          {
+            "t": "Os 34 Temas",
+            "e": "Apresenta os temas de talento e como se combinam.",
+            "f": "Na visão de Tom Rath, os 34 Temas é o ponto central deste capítulo de \"StrengthsFinder 2.0\".",
+            "real": false
           }
         ]
       },
@@ -23017,6 +23407,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Descoberta.",
             "e": "O leitor descobre seus temas principais via teste.",
             "f": "Na visão de Tom Rath, \"descoberta.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          },
+          {
+            "t": "Seus Cinco Dominantes",
+            "e": "O leitor descobre seus temas principais via teste.",
+            "f": "Na visão de Tom Rath, seus Cinco Dominantes é o ponto central deste capítulo de \"StrengthsFinder 2.0\".",
             "real": false
           }
         ]
@@ -23036,6 +23432,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como aplicar talentos para desempenho superior na função.",
             "f": "Corrigir fraqueza não cria excelência; investir em força, sim.",
             "real": true
+          },
+          {
+            "t": "Força no Trabalho",
+            "e": "Como aplicar talentos para desempenho superior na função.",
+            "f": "Na visão de Tom Rath, força no Trabalho é o ponto central deste capítulo de \"StrengthsFinder 2.0\".",
+            "real": false
           }
         ]
       },
@@ -23054,6 +23456,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Usar temas para colaborar e reduzir atrito.",
             "f": "Cerque-se de pessoas cujas forças complementam as suas.",
             "real": true
+          },
+          {
+            "t": "Forças nos Relacionamentos",
+            "e": "Usar temas para colaborar e reduzir atrito.",
+            "f": "Na visão de Tom Rath, forças nos Relacionamentos é o ponto central deste capítulo de \"StrengthsFinder 2.0\".",
+            "real": false
           }
         ]
       },
@@ -23072,6 +23480,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Levar o talento para escolhas pessoais e felicidade.",
             "f": "Cerque-se de pessoas cujas forças complementam as suas.",
             "real": true
+          },
+          {
+            "t": "Forças na Vida",
+            "e": "Levar o talento para escolhas pessoais e felicidade.",
+            "f": "Na visão de Tom Rath, forças na Vida é o ponto central deste capítulo de \"StrengthsFinder 2.0\".",
+            "real": false
           }
         ]
       },
@@ -23089,6 +23503,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Hábito.",
             "e": "Passos para investir nas forças nos próximos dias.",
             "f": "Na visão de Tom Rath, \"hábito.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          },
+          {
+            "t": "O Plano de Ação",
+            "e": "Passos para investir nas forças nos próximos dias.",
+            "f": "Na visão de Tom Rath, o Plano de Ação é o ponto central deste capítulo de \"StrengthsFinder 2.0\".",
             "real": false
           }
         ]
@@ -23112,12 +23532,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Produtividade é dom",
-        "text": "Tracy mostra que é conjunto de hábitos e métodos repetíveis, não traço inato.",
-        "reflection": "Você culpa o temperamento ou treina método?"
-      },
-      {
         "type": "truth",
         "title": "Coma o sapo primeiro",
         "text": "Fazer a tarefa mais difícil cedo libera o dia e a mente.",
@@ -23125,9 +23539,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Multitarefa atrapalha",
-        "text": "Tracy defende foco em uma coisa; multitarefa destrói eficiência.",
-        "reflection": "Você faz várias ou termina uma?"
+        "title": "Produtividade é dom",
+        "text": "Tracy mostra que é conjunto de hábitos e métodos repetíveis, não traço inato.",
+        "reflection": "Você culpa o temperamento ou treina método?"
       },
       {
         "type": "truth",
@@ -23137,9 +23551,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Planejar tira tempo",
-        "text": "Quem não planeja perde mais tempo refazendo e reagindo.",
-        "reflection": "Você acha planejar custo ou investimento?"
+        "title": "Multitarefa atrapalha",
+        "text": "Tracy defende foco em uma coisa; multitarefa destrói eficiência.",
+        "reflection": "Você faz várias ou termina uma?"
       },
       {
         "type": "truth",
@@ -23149,9 +23563,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Urgente é importante",
-        "text": "A matriz A-B-C-D-E separa o que importa do que grita.",
-        "reflection": "Você confunde fogo com prioridade?"
+        "title": "Planejar tira tempo",
+        "text": "Quem não planeja perde mais tempo refazendo e reagindo.",
+        "reflection": "Você acha planejar custo ou investimento?"
       },
       {
         "type": "truth",
@@ -23161,9 +23575,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Começar basta",
-        "text": "Terminar é a disciplina que separa sonho de resultado.",
-        "reflection": "Você termina o que começa?"
+        "title": "Urgente é importante",
+        "text": "A matriz A-B-C-D-E separa o que importa do que grita.",
+        "reflection": "Você confunde fogo com prioridade?"
       },
       {
         "type": "truth",
@@ -23173,9 +23587,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Cansaço justifica parar",
-        "text": "Ação gera energia; esperar pelo ânimo amplia a procrastinação.",
-        "reflection": "Você espera disposição ou age para criá-la?"
+        "title": "Começar basta",
+        "text": "Terminar é a disciplina que separa sonho de resultado.",
+        "reflection": "Você termina o que começa?"
       },
       {
         "type": "truth",
@@ -23185,9 +23599,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Cansaço justifica parar",
+        "text": "Ação gera energia; esperar pelo ânimo amplia a procrastinação.",
+        "reflection": "Você espera disposição ou age para criá-la?"
+      },
+      {
+        "type": "truth",
+        "title": "Começar pela tarefa mais difícil libera o resto do dia",
+        "text": "Tracy defende comer o sapo — o que causa mais procrastinação — primeiro, pela manhã.",
+        "reflection": "Qual sapo você vem empurrando há semanas?"
+      },
+      {
+        "type": "myth",
         "title": "Fazer muito é produtivo",
         "text": "Fazer o que importa vale mais que estar ocupado.",
         "reflection": "Você confunde ocupação com resultado?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Coma o Sapo resiste ao senso comum",
+        "text": "Em \"Coma o Sapo\", Brian Tracy sustenta que eat that frog! (2001/2007) é o clássico da produtividade de brian tracy, cuja regra de ouro é \"coma o sapo\": comece o dia pela tarefa mais importante, difícil e que você mais procrastina — porque, uma vez feita, nada pior pode acontecer — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Eat That Frog! (2001/2007) é o clássico da produtividade de Brian Tracy, cuja regra de ouro é \"coma o sapo\": comece o dia pela tarefa mais importante, difícil e que você mais procrastina — porque, uma vez feita, nada pior pode acontecer. O gancho central é que a produtividade não é sorte nem traço de personalidade, mas resultado de hábitos e métodos repetíveis. Tracy compila 21 princípios práticos: a \"lei de Pareto\" (80% dos resultados vêm de 20% das atividades), a \"lei de Parkinson\" (o trabalho expande para ocupar o tempo disponível), planejamento diário por escrito, a matriz de priorização A-B-C-D-E, foco em \"uma coisa de cada vez\" e a disciplina de terminar o que começa. Ele enfatiza clareza de objetivos e autoresponsabilização. O livro é direto, sem jargão, e funciona como manual de ação para quem se sente sobrecarregado. Sua lição maior: o custo da procrastinação é a autoestima — adiar gera culpa, enquanto agir gera energia e confiança.",
@@ -23208,16 +23640,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A clareza é a palavra-chave da produtividade.",
         "autor": "Brian Tracy",
         "obra": "Eat That Frog!"
-      },
-      {
-        "texto": "Toda ação gera energia; a procrastinação gera cansaço.",
-        "autor": "Brian Tracy",
-        "obra": "Eat That Frog!"
-      },
-      {
-        "texto": "Você é 10 vezes mais propenso a agir quando tem clareza absoluta do objetivo.",
-        "autor": "Brian Tracy",
-        "obra": "Eat That Frog!"
       }
     ],
     "citacoesTerceiros": [
@@ -23229,7 +23651,7 @@ window.MEU_BOLSO_BOOKS=[
       {
         "texto": "Direto e prático; li e reli antes de cada semana.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -23245,9 +23667,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Identifique seu sapo",
         "text": "Nomeie a tarefa mais importante e desagradável do dia.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Identifique seu sapo\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: Nomeie a tarefa mais importante e desagradável do dia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Identifique seu sapo\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Identifique seu sapo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Nomeie a tarefa mais importante e desagradável do dia — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Identifique seu sapo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23255,9 +23677,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça-a primeiro",
         "text": "Resolva o sapo antes de qualquer outra coisa.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Faça-a primeiro\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: Resolva o sapo antes de qualquer outra coisa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça-a primeiro\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Faça-a primeiro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Resolva o sapo antes de qualquer outra coisa — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Faça-a primeiro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23265,9 +23687,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aplique Pareto",
         "text": "Foque nos 20% de atividades de maior retorno.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Aplique Pareto\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: Foque nos 20% de atividades de maior retorno — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aplique Pareto\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Aplique Pareto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foque nos 20% de atividades de maior retorno — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Aplique Pareto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23275,9 +23697,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use matriz A-B-C-D-E",
         "text": "Classifique tarefas por valor e urgência para decidir.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Use matriz A-B-C-D-E\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: Classifique tarefas por valor e urgência para decidir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use matriz A-B-C-D-E\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Use matriz A-B-C-D-E\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Classifique tarefas por valor e urgência para decidir — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Use matriz A-B-C-D-E\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23285,9 +23707,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje por escrito",
         "text": "Escreva o plano diário na véspera para começar em ação.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Planeje por escrito\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: Escreva o plano diário na véspera para começar em ação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje por escrito\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Planeje por escrito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escreva o plano diário na véspera para começar em ação — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Planeje por escrito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23295,9 +23717,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque em uma coisa",
         "text": "Evite multitarefa; termine antes de trocar.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Foque em uma coisa\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: Evite multitarefa; termine antes de trocar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque em uma coisa\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Foque em uma coisa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Evite multitarefa; termine antes de trocar — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Foque em uma coisa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23305,9 +23727,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Imponha prazos",
         "text": "Combata a lei de Parkinson com limites claros.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Imponha prazos\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: Combata a lei de Parkinson com limites claros — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Imponha prazos\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Imponha prazos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Combata a lei de Parkinson com limites claros — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Imponha prazos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23315,9 +23737,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Assuma responsabilidade",
         "text": "100% de responsabilidade devolve o controle.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Assuma responsabilidade\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: 100% de responsabilidade devolve o controle — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Assuma responsabilidade\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Assuma responsabilidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "100% de responsabilidade devolve o controle — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Assuma responsabilidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23325,9 +23747,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Termine o que começa",
         "text": "A disciplina de concluir gera confiança.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Termine o que começa\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: A disciplina de concluir gera confiança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Termine o que começa\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Termine o que começa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A disciplina de concluir gera confiança — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Termine o que começa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23335,9 +23757,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aprenda continuamente",
         "text": "Leitura e estudo mantêm a vantagem competitiva.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Aprenda continuamente\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: Leitura e estudo mantêm a vantagem competitiva — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aprenda continuamente\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Aprenda continuamente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Leitura e estudo mantêm a vantagem competitiva — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Aprenda continuamente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -23345,9 +23767,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Celebre a conclusão",
         "text": "Reforço positivo sustenta o hábito de agir.",
         "explicacoes": [
-          "Em \"Coma o Sapo\", Brian Tracy trata \"Celebre a conclusão\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
-          "Na prática: Reforço positivo sustenta o hábito de agir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Celebre a conclusão\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Celebre a conclusão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reforço positivo sustenta o hábito de agir — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Celebre a conclusão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Planeje tudo por escrito",
+        "text": "Tracy sustenta que colocar metas no papel multiplica a probabilidade de execução.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy coloca \"Planeje tudo por escrito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tracy sustenta que colocar metas no papel multiplica a probabilidade de execução — traduzido para a prática, é o passo concreto que liga a teoria de Brian Tracy ao comportamento diário.",
+          "Ignorar \"Planeje tudo por escrito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -23381,6 +23813,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A regra central de enfrentar a tarefa mais difícil primeiro.",
             "f": "Na visão de Brian Tracy, \"decisão.\" é parte essencial da proposta de \"Coma o Sapo\".",
             "real": false
+          },
+          {
+            "t": "Coma o Sapo",
+            "e": "A regra central de enfrentar a tarefa mais difícil primeiro.",
+            "f": "Na visão de Brian Tracy, coma o Sapo é o ponto central deste capítulo de \"Coma o Sapo\".",
+            "real": false
           }
         ]
       },
@@ -23398,6 +23836,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Foco.",
             "e": "Como 20% das ações geram 80% dos resultados.",
             "f": "Na visão de Brian Tracy, \"foco.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          },
+          {
+            "t": "A Lei de Pareto",
+            "e": "Como 20% das ações geram 80% dos resultados.",
+            "f": "Na visão de Brian Tracy, a Lei de Pareto é o ponto central deste capítulo de \"Coma o Sapo\".",
             "real": false
           }
         ]
@@ -23417,6 +23861,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Escrever o plano diário e definir prioridades A-B-C-D-E.",
             "f": "A clareza é a palavra-chave da produtividade.",
             "real": true
+          },
+          {
+            "t": "Planejamento",
+            "e": "Escrever o plano diário e definir prioridades A-B-C-D-E.",
+            "f": "Na visão de Brian Tracy, planejamento é o ponto central deste capítulo de \"Coma o Sapo\".",
+            "real": false
           }
         ]
       },
@@ -23434,6 +23884,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Foco.",
             "e": "Externalizar decisões para libertar a mente.",
             "f": "Na visão de Brian Tracy, \"foco.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          },
+          {
+            "t": "Pensar em Papel",
+            "e": "Externalizar decisões para libertar a mente.",
+            "f": "Na visão de Brian Tracy, pensar em Papel é o ponto central deste capítulo de \"Coma o Sapo\".",
             "real": false
           }
         ]
@@ -23453,6 +23909,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Evitar multitarefa e terminar o que começou.",
             "f": "Na visão de Brian Tracy, \"conclusão.\" é parte essencial da proposta de \"Coma o Sapo\".",
             "real": false
+          },
+          {
+            "t": "Foco Único",
+            "e": "Evitar multitarefa e terminar o que começou.",
+            "f": "Na visão de Brian Tracy, foco Único é o ponto central deste capítulo de \"Coma o Sapo\".",
+            "real": false
           }
         ]
       },
@@ -23470,6 +23932,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Tempo.",
             "e": "Impor prazos para conter a expansão do trabalho.",
             "f": "Na visão de Brian Tracy, \"tempo.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          },
+          {
+            "t": "A Lei de Parkinson",
+            "e": "Impor prazos para conter a expansão do trabalho.",
+            "f": "Na visão de Brian Tracy, a Lei de Parkinson é o ponto central deste capítulo de \"Coma o Sapo\".",
             "real": false
           }
         ]
@@ -23489,6 +23957,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Assumir o controle total sobre os próprios resultados.",
             "f": "Na visão de Brian Tracy, \"controle.\" é parte essencial da proposta de \"Coma o Sapo\".",
             "real": false
+          },
+          {
+            "t": "Autoresponsabilidade",
+            "e": "Assumir o controle total sobre os próprios resultados.",
+            "f": "Na visão de Brian Tracy, autoresponsabilidade é o ponto central deste capítulo de \"Coma o Sapo\".",
+            "real": false
           }
         ]
       },
@@ -23506,6 +23980,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Ânimo.",
             "e": "Como agir gera disposição e vence a procrastinação.",
             "f": "Na visão de Brian Tracy, \"ânimo.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          },
+          {
+            "t": "Ação e Energia",
+            "e": "Como agir gera disposição e vence a procrastinação.",
+            "f": "Na visão de Brian Tracy, ação e Energia é o ponto central deste capítulo de \"Coma o Sapo\".",
             "real": false
           }
         ]
