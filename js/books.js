@@ -31487,62 +31487,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Ofereça autonomia",
-        "text": "Deixe pessoas decidirem o quê, como, quando e com quem trabalhar."
+        "text": "Deixe pessoas decidirem o quê, como, quando e com quem trabalhar.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Ofereça autonomia\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Deixe pessoas decidirem o quê, como, quando e com quem trabalhar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ofereça autonomia\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Cultive maestria",
-        "text": "Crie espaço e feedback para as pessoas melhorarem continuamente."
+        "text": "Crie espaço e feedback para as pessoas melhorarem continuamente.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Cultive maestria\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Crie espaço e feedback para as pessoas melhorarem continuamente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive maestria\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Conecte ao propósito",
-        "text": "Mostre como o trabalho serve a algo maior que o lucro."
+        "text": "Mostre como o trabalho serve a algo maior que o lucro.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Conecte ao propósito\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Mostre como o trabalho serve a algo maior que o lucro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conecte ao propósito\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Reduza carrots/sticks",
-        "text": "Substitua controle por condições de motivação intrínseca."
+        "text": "Substitua controle por condições de motivação intrínseca.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Reduza carrots/sticks\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Substitua controle por condições de motivação intrínseca — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza carrots/sticks\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Evite metas tóxicas",
-        "text": "Metas absurdas geram atalhos; use objetivos desafiadores e justos."
+        "text": "Metas absurdas geram atalhos; use objetivos desafiadores e justos.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Evite metas tóxicas\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Metas absurdas geram atalhos; use objetivos desafiadores e justos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite metas tóxicas\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Dê feedback rápido",
-        "text": "Maestria depende de saber logo se está melhorando."
+        "text": "Maestria depende de saber logo se está melhorando.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Dê feedback rápido\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Maestria depende de saber logo se está melhorando — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dê feedback rápido\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Defina Type I",
-        "text": "Atraia e desenvolva quem busca sentido, não só recompensa."
+        "text": "Atraia e desenvolva quem busca sentido, não só recompensa.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Defina Type I\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Atraia e desenvolva quem busca sentido, não só recompensa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina Type I\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Liberte o tempo",
-        "text": "Bloquear tempo para trabalho autodirigido gera inovação."
+        "text": "Bloquear tempo para trabalho autodirigido gera inovação.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Liberte o tempo\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Bloquear tempo para trabalho autodirigido gera inovação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Liberte o tempo\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Use \"20% time\"",
-        "text": "Tempo livre para projetos próprios aumenta engajamento."
+        "text": "Tempo livre para projetos próprios aumenta engajamento.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Use \"20% time\"\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Tempo livre para projetos próprios aumenta engajamento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use \"20% time\"\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Meça o certo",
-        "text": "Avalie autonomia e crescimento, não só número de saída."
+        "text": "Avalie autonomia e crescimento, não só número de saída.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Meça o certo\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Avalie autonomia e crescimento, não só número de saída — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça o certo\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Explique o porquê",
-        "text": "Pais e chefes devem dar razão, não só ordem."
+        "text": "Pais e chefes devem dar razão, não só ordem.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Explique o porquê\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Pais e chefes devem dar razão, não só ordem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Explique o porquê\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Confie nas pessoas",
-        "text": "Motivação intrínseca floresce onde há confiança, não vigilância."
+        "text": "Motivação intrínseca floresce onde há confiança, não vigilância.",
+        "explicacoes": [
+          "Em \"Drive: A Surpreendente Verdade sobre o que nos Motiva\", Daniel H. Pink trata \"Confie nas pessoas\" como peça-chave para a motivação autônoma, a maestria e a finalidade.",
+          "Na prática: Motivação intrínseca floresce onde há confiança, não vigilância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Confie nas pessoas\" aplica a motivação autônoma, a maestria e a finalidade de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -31564,81 +31624,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A surpreendente verdade",
         "text": "Pink abre mostrando que a ciência contradiz o senso comum sobre motivação.",
         "points": [
-          "Mito",
-          "Evidência",
-          "Revelação"
+          {
+            "t": "Mito",
+            "e": "Pink abre mostrando que a ciência contradiz o senso comum sobre motivação.",
+            "f": "Na visão de Daniel H. Pink, \"mito\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Evidência",
+            "e": "Pink abre mostrando que a ciência contradiz o senso comum sobre motivação.",
+            "f": "Na visão de Daniel H. Pink, \"evidência\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Revelação",
+            "e": "Pink abre mostrando que a ciência contradiz o senso comum sobre motivação.",
+            "f": "Na visão de Daniel H. Pink, \"revelação\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Os dois tipos de motivação",
         "text": "Distinguir motivação extrínseca (Motivo 2.0) da intrínseca (3.0).",
         "points": [
-          "Extrínseca",
-          "Intrínseca",
-          "História"
+          {
+            "t": "Extrínseca",
+            "e": "Distinguir motivação extrínseca (Motivo 2.0) da intrínseca (3.0).",
+            "f": "A melhor motivação não é externa, é encontrada no que fazemos.",
+            "real": true
+          },
+          {
+            "t": "Intrínseca",
+            "e": "Distinguir motivação extrínseca (Motivo 2.0) da intrínseca (3.0).",
+            "f": "Na visão de Daniel H. Pink, \"intrínseca\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "História",
+            "e": "Distinguir motivação extrínseca (Motivo 2.0) da intrínseca (3.0).",
+            "f": "Na visão de Daniel H. Pink, \"história\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Autonomia",
         "text": "O controle sobre o trabalho como motor do engajamento.",
         "points": [
-          "O quê",
-          "Como",
-          "Quando/Quem"
+          {
+            "t": "O quê",
+            "e": "O controle sobre o trabalho como motor do engajamento.",
+            "f": "Autonomia, maestria e propósito: os verdadeiros motores humanos.",
+            "real": true
+          },
+          {
+            "t": "Como",
+            "e": "O controle sobre o trabalho como motor do engajamento.",
+            "f": "Na visão de Daniel H. Pink, \"como\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Quando/Quem",
+            "e": "O controle sobre o trabalho como motor do engajamento.",
+            "f": "Na visão de Daniel H. Pink, \"quando/quem\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Maestria",
         "text": "O impulso de melhorar e a necessidade de desafio e feedback.",
         "points": [
-          "Melhorar",
-          "Desafio",
-          "Feedback"
+          {
+            "t": "Melhorar",
+            "e": "O impulso de melhorar e a necessidade de desafio e feedback.",
+            "f": "Autonomia, maestria e propósito: os verdadeiros motores humanos.",
+            "real": true
+          },
+          {
+            "t": "Desafio",
+            "e": "O impulso de melhorar e a necessidade de desafio e feedback.",
+            "f": "Na visão de Daniel H. Pink, \"desafio\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Feedback",
+            "e": "O impulso de melhorar e a necessidade de desafio e feedback.",
+            "f": "Na visão de Daniel H. Pink, \"feedback\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Propósito",
         "text": "Servir a algo maior que o lucro individual como sustento.",
         "points": [
-          "Sentido",
-          "Impacto",
-          "Retenção"
+          {
+            "t": "Sentido",
+            "e": "Servir a algo maior que o lucro individual como sustento.",
+            "f": "Autonomia, maestria e propósito: os verdadeiros motores humanos.",
+            "real": true
+          },
+          {
+            "t": "Impacto",
+            "e": "Servir a algo maior que o lucro individual como sustento.",
+            "f": "Na visão de Daniel H. Pink, \"impacto\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Retenção",
+            "e": "Servir a algo maior que o lucro individual como sustento.",
+            "f": "Na visão de Daniel H. Pink, \"retenção\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Os limites das recompensas",
         "text": "Por que carrots and sticks falham em tarefas complexas.",
         "points": [
-          "Efeito",
-          "Dano",
-          "Contexto"
+          {
+            "t": "Efeito",
+            "e": "Por que carrots and sticks falham em tarefas complexas.",
+            "f": "Para tarefas que exigem pensamento, recompensas podem piorar o desempenho.",
+            "real": true
+          },
+          {
+            "t": "Dano",
+            "e": "Por que carrots and sticks falham em tarefas complexas.",
+            "f": "Na visão de Daniel H. Pink, \"dano\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Contexto",
+            "e": "Por que carrots and sticks falham em tarefas complexas.",
+            "f": "Na visão de Daniel H. Pink, \"contexto\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Type I e Type X",
         "text": "Perfis de quem busca sentido vs. quem busca recompensa.",
         "points": [
-          "Perfis",
-          "Resultado",
-          "Cultura"
+          {
+            "t": "Perfis",
+            "e": "Perfis de quem busca sentido vs. quem busca recompensa.",
+            "f": "Na visão de Daniel H. Pink, \"perfis\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Resultado",
+            "e": "Perfis de quem busca sentido vs. quem busca recompensa.",
+            "f": "Na visão de Daniel H. Pink, \"resultado\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Cultura",
+            "e": "Perfis de quem busca sentido vs. quem busca recompensa.",
+            "f": "Na visão de Daniel H. Pink, \"cultura\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Aplicando na prática",
         "text": "Como pais, professores e líderes criam condições de motivação.",
         "points": [
-          "Liderança",
-          "Educação",
-          "Vida"
+          {
+            "t": "Liderança",
+            "e": "Como pais, professores e líderes criam condições de motivação.",
+            "f": "Na visão de Daniel H. Pink, \"liderança\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Educação",
+            "e": "Como pais, professores e líderes criam condições de motivação.",
+            "f": "Na visão de Daniel H. Pink, \"educação\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Vida",
+            "e": "Como pais, professores e líderes criam condições de motivação.",
+            "f": "As pessoas querem dirigir a própria vida e melhorar em algo que importa.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O toolkit",
         "text": "Ferramentas concretas para implementar o Motivo 3.0.",
         "points": [
-          "Passos",
-          "Ambiente",
-          "Medir"
+          {
+            "t": "Passos",
+            "e": "Ferramentas concretas para implementar o Motivo 3.0.",
+            "f": "Na visão de Daniel H. Pink, \"passos\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Ambiente",
+            "e": "Ferramentas concretas para implementar o Motivo 3.0.",
+            "f": "Na visão de Daniel H. Pink, \"ambiente\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          },
+          {
+            "t": "Medir",
+            "e": "Ferramentas concretas para implementar o Motivo 3.0.",
+            "f": "Na visão de Daniel H. Pink, \"medir\" é parte essencial da proposta de \"Drive: A Surpreendente Verdade sobre o que nos Motiva\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -31802,62 +31997,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Identifique seu estilo",
-        "text": "Saiba se você é doador, tomador ou trocador nas relações."
+        "text": "Saiba se você é doador, tomador ou trocador nas relações.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Identifique seu estilo\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Saiba se você é doador, tomador ou trocador nas relações — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Identifique seu estilo\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Dê com estratégia",
-        "text": "Ajude de forma que multiplique impacto, não apenas esgote você."
+        "text": "Ajude de forma que multiplique impacto, não apenas esgote você.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Dê com estratégia\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Ajude de forma que multiplique impacto, não apenas esgote você — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dê com estratégia\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Proteja seu tempo",
-        "text": "Doadores precisam de limites para não virar \"train wreck\"."
+        "text": "Doadores precisam de limites para não virar \"train wreck\".",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Proteja seu tempo\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Doadores precisam de limites para não virar \"train wreck\" — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja seu tempo\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Construa reputação",
-        "text": "Ser visto como doador atrai oportunidades e parceiros."
+        "text": "Ser visto como doador atrai oportunidades e parceiros.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Construa reputação\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Ser visto como doador atrai oportunidades e parceiros — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa reputação\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Aprenda a pedir",
-        "text": "Pedir ajuda fortalece laços e acelera seu aprendizado."
+        "text": "Pedir ajuda fortalece laços e acelera seu aprendizado.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Aprenda a pedir\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Pedir ajuda fortalece laços e acelera seu aprendizado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aprenda a pedir\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Mentore",
-        "text": "Ensinar consolida autoridade e expande sua rede real."
+        "text": "Ensinar consolida autoridade e expande sua rede real.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Mentore\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Ensinar consolida autoridade e expande sua rede real — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mentore\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Evite tomadores",
-        "text": "Identifique e limite quem só extrai sem retribuir."
+        "text": "Identifique e limite quem só extrai sem retribuir.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Evite tomadores\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Identifique e limite quem só extrai sem retribuir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite tomadores\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Crie cultura de dar",
-        "text": "Times que doam cooperam mais e performam melhor."
+        "text": "Times que doam cooperam mais e performam melhor.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Crie cultura de dar\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Times que doam cooperam mais e performam melhor — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie cultura de dar\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Pense no longo prazo",
-        "text": "Generosidade rende dividendos anos depois, não amanhã."
+        "text": "Generosidade rende dividendos anos depois, não amanhã.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Pense no longo prazo\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Generosidade rende dividendos anos depois, não amanhã — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense no longo prazo\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Combine dar e dizer não",
-        "text": "Generosidade sem fronteira destrói o doador."
+        "text": "Generosidade sem fronteira destrói o doador.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Combine dar e dizer não\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Generosidade sem fronteira destrói o doador — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Combine dar e dizer não\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Valorize trocas justas",
-        "text": "Trocadores têm lugar, mas o doador vence nos extremos."
+        "text": "Trocadores têm lugar, mas o doador vence nos extremos.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Valorize trocas justas\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Trocadores têm lugar, mas o doador vence nos extremos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize trocas justas\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Veja dar como investimento",
-        "text": "Ajuda bem-feita é das estratégias mais lucrativas que existem."
+        "text": "Ajuda bem-feita é das estratégias mais lucrativas que existem.",
+        "explicacoes": [
+          "Em \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\", Adam Grant trata \"Veja dar como investimento\" como peça-chave para o dar, o receber e a originalidade nas organizações.",
+          "Na prática: Ajuda bem-feita é das estratégias mais lucrativas que existem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Veja dar como investimento\" aplica o dar, o receber e a originalidade nas organizações de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -31879,81 +32134,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Doadores, tomadores e trocadores",
         "text": "Grant define os três estilos de reciprocidade no trabalho.",
         "points": [
-          "Definições",
-          "Estilos",
-          "Impacto"
+          {
+            "t": "Definições",
+            "e": "Grant define os três estilos de reciprocidade no trabalho.",
+            "f": "Os doadores estão no topo e no fundo das organizações.",
+            "real": true
+          },
+          {
+            "t": "Estilos",
+            "e": "Grant define os três estilos de reciprocidade no trabalho.",
+            "f": "Doadores bem-sucedidos ajudam sem esperar, mas protegem seu tempo.",
+            "real": true
+          },
+          {
+            "t": "Impacto",
+            "e": "Grant define os três estilos de reciprocidade no trabalho.",
+            "f": "Na visão de Adam Grant, \"impacto\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Os doadores no fundo",
         "text": "Por que doadores sem limites afundam e se esgotam.",
         "points": [
-          "Esgotamento",
-          "Exploração",
-          "Custo"
+          {
+            "t": "Esgotamento",
+            "e": "Por que doadores sem limites afundam e se esgotam.",
+            "f": "Os doadores estão no topo e no fundo das organizações.",
+            "real": true
+          },
+          {
+            "t": "Exploração",
+            "e": "Por que doadores sem limites afundam e se esgotam.",
+            "f": "Doadores bem-sucedidos ajudam sem esperar, mas protegem seu tempo.",
+            "real": true
+          },
+          {
+            "t": "Custo",
+            "e": "Por que doadores sem limites afundam e se esgotam.",
+            "f": "Na visão de Adam Grant, \"custo\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Os doadores no topo",
         "text": "Como doadores inteligentes chegam ao sucesso extremo.",
         "points": [
-          "Vantagem",
-          "Rede",
-          "Reputação"
+          {
+            "t": "Vantagem",
+            "e": "Como doadores inteligentes chegam ao sucesso extremo.",
+            "f": "Os doadores estão no topo e no fundo das organizações.",
+            "real": true
+          },
+          {
+            "t": "Rede",
+            "e": "Como doadores inteligentes chegam ao sucesso extremo.",
+            "f": "Doadores bem-sucedidos ajudam sem esperar, mas protegem seu tempo.",
+            "real": true
+          },
+          {
+            "t": "Reputação",
+            "e": "Como doadores inteligentes chegam ao sucesso extremo.",
+            "f": "Na visão de Adam Grant, \"reputação\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A força da reputação",
         "text": "Ser conhecido como doador atrai oportunidades duradouras.",
         "points": [
-          "Confiança",
-          "Atração",
-          "Legado"
+          {
+            "t": "Confiança",
+            "e": "Ser conhecido como doador atrai oportunidades duradouras.",
+            "f": "Na visão de Adam Grant, \"confiança\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Atração",
+            "e": "Ser conhecido como doador atrai oportunidades duradouras.",
+            "f": "Na visão de Adam Grant, \"atração\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Legado",
+            "e": "Ser conhecido como doador atrai oportunidades duradouras.",
+            "f": "Na visão de Adam Grant, \"legado\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O poder de pedir",
         "text": "Por que doadores que pedem aprendem e se conectam mais.",
         "points": [
-          "Vulnerabilidade",
-          "Laço",
-          "Aprendizado"
+          {
+            "t": "Vulnerabilidade",
+            "e": "Por que doadores que pedem aprendem e se conectam mais.",
+            "f": "Na visão de Adam Grant, \"vulnerabilidade\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Laço",
+            "e": "Por que doadores que pedem aprendem e se conectam mais.",
+            "f": "Na visão de Adam Grant, \"laço\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Aprendizado",
+            "e": "Por que doadores que pedem aprendem e se conectam mais.",
+            "f": "Na visão de Adam Grant, \"aprendizado\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Tomadores e o longo prazo",
         "text": "A queda dos que só extraem quando a rede fecha.",
         "points": [
-          "Isolamento",
-          "Confiança",
-          "Tempo"
+          {
+            "t": "Isolamento",
+            "e": "A queda dos que só extraem quando a rede fecha.",
+            "f": "Na visão de Adam Grant, \"isolamento\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Confiança",
+            "e": "A queda dos que só extraem quando a rede fecha.",
+            "f": "Na visão de Adam Grant, \"confiança\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Tempo",
+            "e": "A queda dos que só extraem quando a rede fecha.",
+            "f": "Doadores bem-sucedidos ajudam sem esperar, mas protegem seu tempo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Como proteger o doador",
         "text": "Limites e estratégias para dar sem se destruir.",
         "points": [
-          "Limites",
-          "Seleção",
-          "Energia"
+          {
+            "t": "Limites",
+            "e": "Limites e estratégias para dar sem se destruir.",
+            "f": "Na visão de Adam Grant, \"limites\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Seleção",
+            "e": "Limites e estratégias para dar sem se destruir.",
+            "f": "Na visão de Adam Grant, \"seleção\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Energia",
+            "e": "Limites e estratégias para dar sem se destruir.",
+            "f": "Na visão de Adam Grant, \"energia\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Cultura de dar",
         "text": "Times e empresas onde doar é norma performam melhor.",
         "points": [
-          "Norma",
-          "Cooperação",
-          "Resultado"
+          {
+            "t": "Norma",
+            "e": "Times e empresas onde doar é norma performam melhor.",
+            "f": "Na visão de Adam Grant, \"norma\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Cooperação",
+            "e": "Times e empresas onde doar é norma performam melhor.",
+            "f": "Na visão de Adam Grant, \"cooperação\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Resultado",
+            "e": "Times e empresas onde doar é norma performam melhor.",
+            "f": "Na visão de Adam Grant, \"resultado\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Aplicando o dar",
         "text": "Encerra com passos para ser um doador bem-sucedido.",
         "points": [
-          "Plano",
-          "Prática",
-          "Medir"
+          {
+            "t": "Plano",
+            "e": "Encerra com passos para ser um doador bem-sucedido.",
+            "f": "Na visão de Adam Grant, \"plano\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Prática",
+            "e": "Encerra com passos para ser um doador bem-sucedido.",
+            "f": "Na visão de Adam Grant, \"prática\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Medir",
+            "e": "Encerra com passos para ser um doador bem-sucedido.",
+            "f": "Na visão de Adam Grant, \"medir\" é parte essencial da proposta de \"Dar e Receber: Por que Ajudar os Outros Leva ao Sucesso\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -32117,62 +32507,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Defina valores reais",
-        "text": "Crie poucos valores e os viva na prática, não na parede."
+        "text": "Crie poucos valores e os viva na prática, não na parede.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Defina valores reais\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Crie poucos valores e os viva na prática, não na parede — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina valores reais\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Entregue WOW",
-        "text": "Surpreenda o cliente com algo além do combinado sempre que possível."
+        "text": "Surpreenda o cliente com algo além do combinado sempre que possível.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Entregue WOW\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Surpreenda o cliente com algo além do combinado sempre que possível — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entregue WOW\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Contrate por cultura",
-        "text": "O encaixe cultural pesa mais que o currículo brilhante."
+        "text": "O encaixe cultural pesa mais que o currículo brilhante.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Contrate por cultura\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: O encaixe cultural pesa mais que o currículo brilhante — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Contrate por cultura\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Seja autêntico",
-        "text": "Comunique-se com genuinidade; pessoas sentem a diferença."
+        "text": "Comunique-se com genuinidade; pessoas sentem a diferença.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Seja autêntico\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Comunique-se com genuinidade; pessoas sentem a diferença — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja autêntico\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Proteja a cultura",
-        "text": "Cresça sem diluir os princípios que te definem."
+        "text": "Cresça sem diluir os princípios que te definem.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Proteja a cultura\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Cresça sem diluir os princípios que te definem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja a cultura\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Dê liberdade",
-        "text": "Equipes autônomas entregam mais que microgerenciadas."
+        "text": "Equipes autônomas entregam mais que microgerenciadas.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Dê liberdade\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Equipes autônomas entregam mais que microgerenciadas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dê liberdade\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Conecte ao propósito",
-        "text": "Mostre sentido maior que o produto para engajar."
+        "text": "Mostre sentido maior que o produto para engajar.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Conecte ao propósito\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Mostre sentido maior que o produto para engajar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conecte ao propósito\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Transparência",
-        "text": "Abertura e honesta constroem confiança duradoura."
+        "text": "Abertura e honesta constroem confiança duradoura.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Transparência\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Abertura e honesta constroem confiança duradoura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Transparência\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Meça felicidade",
-        "text": "Acompanhe satisfação de cliente e colaborador como KPI."
+        "text": "Acompanhe satisfação de cliente e colaborador como KPI.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Meça felicidade\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Acompanhe satisfação de cliente e colaborador como KPI — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça felicidade\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Pense longo prazo",
-        "text": "Resultado de curto prazo não justifica quebrar a cultura."
+        "text": "Resultado de curto prazo não justifica quebrar a cultura.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Pense longo prazo\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Resultado de curto prazo não justifica quebrar a cultura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense longo prazo\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Crie diversão",
-        "text": "Ambiente leve e criativo sustenta energia e ideias."
+        "text": "Ambiente leve e criativo sustenta energia e ideias.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Crie diversão\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Ambiente leve e criativo sustenta energia e ideias — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie diversão\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Sirva as pessoas",
-        "text": "Colocar pessoas acima de métricas gera lucro sustentável."
+        "text": "Colocar pessoas acima de métricas gera lucro sustentável.",
+        "explicacoes": [
+          "Em \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\", Tony Hsieh trata \"Sirva as pessoas\" como peça-chave para a felicidade como modelo de negócio e cultura.",
+          "Na prática: Colocar pessoas acima de métricas gera lucro sustentável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sirva as pessoas\" aplica a felicidade como modelo de negócio e cultura de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -32194,81 +32644,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A infância empreendedora",
         "text": "Hsieh relata os primeiros negócios e a curiosidade por sistemas.",
         "points": [
-          "Origem",
-          "Curiosidade",
-          "Negócio"
+          {
+            "t": "Origem",
+            "e": "Hsieh relata os primeiros negócios e a curiosidade por sistemas.",
+            "f": "Na visão de Tony Hsieh, \"origem\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Curiosidade",
+            "e": "Hsieh relata os primeiros negócios e a curiosidade por sistemas.",
+            "f": "Na visão de Tony Hsieh, \"curiosidade\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Negócio",
+            "e": "Hsieh relata os primeiros negócios e a curiosidade por sistemas.",
+            "f": "Na visão de Tony Hsieh, \"negócio\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — LinkExchange e o Yahoo",
         "text": "A venda milionária e a lição sobre propósito perdido.",
         "points": [
-          "Exit",
-          "Dinheiro",
-          "Vazio"
+          {
+            "t": "Exit",
+            "e": "A venda milionária e a lição sobre propósito perdido.",
+            "f": "Na visão de Tony Hsieh, \"exit\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Dinheiro",
+            "e": "A venda milionária e a lição sobre propósito perdido.",
+            "f": "Na visão de Tony Hsieh, \"dinheiro\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Vazio",
+            "e": "A venda milionária e a lição sobre propósito perdido.",
+            "f": "Na visão de Tony Hsieh, \"vazio\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Zappos nasce",
         "text": "A aposta em vender sapatos online com foco em cultura.",
         "points": [
-          "Aposta",
-          "Foco",
-          "Risco"
+          {
+            "t": "Aposta",
+            "e": "A aposta em vender sapatos online com foco em cultura.",
+            "f": "Na visão de Tony Hsieh, \"aposta\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "A aposta em vender sapatos online com foco em cultura.",
+            "f": "Na visão de Tony Hsieh, \"foco\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Risco",
+            "e": "A aposta em vender sapatos online com foco em cultura.",
+            "f": "Na visão de Tony Hsieh, \"risco\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Os dez valores",
         "text": "Os princípios essenciais que guiam a empresa.",
         "points": [
-          "Valores",
-          "WOW",
-          "Cultura"
+          {
+            "t": "Valores",
+            "e": "Os princípios essenciais que guiam a empresa.",
+            "f": "Na visão de Tony Hsieh, \"valores\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "WOW",
+            "e": "Os princípios essenciais que guiam a empresa.",
+            "f": "Na visão de Tony Hsieh, \"wow\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Cultura",
+            "e": "Os princípios essenciais que guiam a empresa.",
+            "f": "Uma grande cultura é a vantagem competitiva definitiva.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Serviço como marketing",
         "text": "Como atendimento vira propaganda orgânica e retenção.",
         "points": [
-          "Atendimento",
-          "Boca a boca",
-          "Retenção"
+          {
+            "t": "Atendimento",
+            "e": "Como atendimento vira propaganda orgânica e retenção.",
+            "f": "Entregue WOW através do serviço.",
+            "real": true
+          },
+          {
+            "t": "Boca a boca",
+            "e": "Como atendimento vira propaganda orgânica e retenção.",
+            "f": "Na visão de Tony Hsieh, \"boca a boca\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Retenção",
+            "e": "Como atendimento vira propaganda orgânica e retenção.",
+            "f": "Na visão de Tony Hsieh, \"retenção\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Cultura e contratação",
         "text": "Contratar por encaixe e viver os valores na prática.",
         "points": [
-          "Encaixe",
-          "Prática",
-          "Time"
+          {
+            "t": "Encaixe",
+            "e": "Contratar por encaixe e viver os valores na prática.",
+            "f": "Uma grande cultura é a vantagem competitiva definitiva.",
+            "real": true
+          },
+          {
+            "t": "Prática",
+            "e": "Contratar por encaixe e viver os valores na prática.",
+            "f": "Na visão de Tony Hsieh, \"prática\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Time",
+            "e": "Contratar por encaixe e viver os valores na prática.",
+            "f": "Na visão de Tony Hsieh, \"time\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Felicidade e ciência",
         "text": "Hsieh traz estudos sobre o que realmente traz felicidade.",
         "points": [
-          "Estudos",
-          "Sentido",
-          "Conexão"
+          {
+            "t": "Estudos",
+            "e": "Hsieh traz estudos sobre o que realmente traz felicidade.",
+            "f": "A felicidade é um modelo de negócios, não um brinde.",
+            "real": true
+          },
+          {
+            "t": "Sentido",
+            "e": "Hsieh traz estudos sobre o que realmente traz felicidade.",
+            "f": "Na visão de Tony Hsieh, \"sentido\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Conexão",
+            "e": "Hsieh traz estudos sobre o que realmente traz felicidade.",
+            "f": "Na visão de Tony Hsieh, \"conexão\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Holacracia e liberdade",
         "text": "A aposta em estrutura plana e autonomia real.",
         "points": [
-          "Estrutura",
-          "Autonomia",
-          "Mudança"
+          {
+            "t": "Estrutura",
+            "e": "A aposta em estrutura plana e autonomia real.",
+            "f": "Na visão de Tony Hsieh, \"estrutura\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Autonomia",
+            "e": "A aposta em estrutura plana e autonomia real.",
+            "f": "Na visão de Tony Hsieh, \"autonomia\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          },
+          {
+            "t": "Mudança",
+            "e": "A aposta em estrutura plana e autonomia real.",
+            "f": "Na visão de Tony Hsieh, \"mudança\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Entregue felicidade",
         "text": "Encerra convidando a colocar pessoas acima de métricas.",
         "points": [
-          "Propósito",
-          "Lucro",
-          "Legado"
+          {
+            "t": "Propósito",
+            "e": "Encerra convidando a colocar pessoas acima de métricas.",
+            "f": "A felicidade é um modelo de negócios, não um brinde.",
+            "real": true
+          },
+          {
+            "t": "Lucro",
+            "e": "Encerra convidando a colocar pessoas acima de métricas.",
+            "f": "Entregue WOW através do serviço.",
+            "real": true
+          },
+          {
+            "t": "Legado",
+            "e": "Encerra convidando a colocar pessoas acima de métricas.",
+            "f": "Na visão de Tony Hsieh, \"legado\" é parte essencial da proposta de \"Entrega Feliz: Um Caminho para Lucros, Paixão e Propósito\".",
+            "real": false
+          }
         ]
       }
     ]
