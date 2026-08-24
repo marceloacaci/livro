@@ -25728,57 +25728,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Busque 10.000 horas",
-        "text": "Prática deliberada ainda é base de maestria."
+        "text": "Prática deliberada ainda é base de maestria.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Busque 10.000 horas\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Prática deliberada ainda é base de maestria — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque 10.000 horas\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Aproveite janelas",
-        "text": "Identifique e use oportunidades históricas e locais."
+        "text": "Identifique e use oportunidades históricas e locais.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Aproveite janelas\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Identifique e use oportunidades históricas e locais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aproveite janelas\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Entenda o efeito de parcela",
-        "text": "Saiba se cortes de idade favorecem ou não você."
+        "text": "Saiba se cortes de idade favorecem ou não você.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Entenda o efeito de parcela\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Saiba se cortes de idade favorecem ou não você — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda o efeito de parcela\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Valorize a cultura",
-        "text": "Reconheça como herança familiar molda hábitos."
+        "text": "Reconheça como herança familiar molda hábitos.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Valorize a cultura\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Reconheça como herança familiar molda hábitos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize a cultura\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Crie acesso",
-        "text": "Abra portas para quem tem talento mas não recursos."
+        "text": "Abra portas para quem tem talento mas não recursos.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Crie acesso\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Abra portas para quem tem talento mas não recursos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie acesso\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Acumule vantagens",
-        "text": "Pequenas vantagens iniciais se multiplicam."
+        "text": "Pequenas vantagens iniciais se multiplicam.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Acumule vantagens\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Pequenas vantagens iniciais se multiplicam — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acumule vantagens\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Reconheça a sorte",
-        "text": "Admitir fortuna guia melhores escolhas."
+        "text": "Admitir fortuna guia melhores escolhas.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Reconheça a sorte\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Admitir fortuna guia melhores escolhas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reconheça a sorte\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Combata o mito do mérito",
-        "text": "Veja o sistema por trás do sucesso alheio."
+        "text": "Veja o sistema por trás do sucesso alheio.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Combata o mito do mérito\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Veja o sistema por trás do sucesso alheio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Combata o mito do mérito\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Ofereça mentoria",
-        "text": "Apoio cedo muda a trajetória de outro."
+        "text": "Apoio cedo muda a trajetória de outro.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Ofereça mentoria\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Apoio cedo muda a trajetória de outro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ofereça mentoria\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Planeje o contexto",
-        "text": "Coloque-se onde recursos e tempo existem."
+        "text": "Coloque-se onde recursos e tempo existem.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Planeje o contexto\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Coloque-se onde recursos e tempo existem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje o contexto\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Distribua oportunidades",
-        "text": "Sistemas justos geram mais outliers."
+        "text": "Sistemas justos geram mais outliers.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Distribua oportunidades\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
+          "Na prática: Sistemas justos geram mais outliers — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Distribua oportunidades\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -25800,64 +25855,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A História de Roseto",
         "text": "Um povo saudável por cultura, não genes isolados.",
         "points": [
-          "Cultura.",
-          "Contexto."
+          {
+            "t": "Cultura.",
+            "e": "Um povo saudável por cultura, não genes isolados.",
+            "f": "A cultura em que crescemos molda quanto esforço consideramos normal.",
+            "real": true
+          },
+          {
+            "t": "Contexto.",
+            "e": "Um povo saudável por cultura, não genes isolados.",
+            "f": "Na visão de Malcolm Gladwell, \"contexto.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — As 10.000 Horas",
         "text": "Prática deliberada por trás de Bill Gates e Beatles.",
         "points": [
-          "Prática.",
-          "Maestria."
+          {
+            "t": "Prática.",
+            "e": "Prática deliberada por trás de Bill Gates e Beatles.",
+            "f": "Outliers não chegam sozinhos; são produto de oportunidade e prática.",
+            "real": true
+          },
+          {
+            "t": "Maestria.",
+            "e": "Prática deliberada por trás de Bill Gates e Beatles.",
+            "f": "A regra das dez mil horas separa o bom do excepcional.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Problema de Lewis Terman",
         "text": "Alto QI não garante sucesso sem contexto.",
         "points": [
-          "QI.",
-          "Contexto."
+          {
+            "t": "QI.",
+            "e": "Alto QI não garante sucesso sem contexto.",
+            "f": "Na visão de Malcolm Gladwell, \"qi.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Contexto.",
+            "e": "Alto QI não garante sucesso sem contexto.",
+            "f": "Na visão de Malcolm Gladwell, \"contexto.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O Efeito de Parcela",
         "text": "Mês de nascimento decide vagas em esportes.",
         "points": [
-          "Corte.",
-          "Vantagem."
+          {
+            "t": "Corte.",
+            "e": "Mês de nascimento decide vagas em esportes.",
+            "f": "Na visão de Malcolm Gladwell, \"corte.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Vantagem.",
+            "e": "Mês de nascimento decide vagas em esportes.",
+            "f": "Pessoas que chegam ao topo quase sempre tiveram uma vantagem inicial.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A Cultura do Arroz",
         "text": "Herança agrícola explica desempenho em matemática.",
         "points": [
-          "Herança.",
-          "Disciplina."
+          {
+            "t": "Herança.",
+            "e": "Herança agrícola explica desempenho em matemática.",
+            "f": "A cultura em que crescemos molda quanto esforço consideramos normal.",
+            "real": true
+          },
+          {
+            "t": "Disciplina.",
+            "e": "Herança agrícola explica desempenho em matemática.",
+            "f": "Na visão de Malcolm Gladwell, \"disciplina.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — A Vantagem Acumulada",
         "text": "Pequenas vantagens iniciais se multiplicam.",
         "points": [
-          "Acúmulo.",
-          "Efeito."
+          {
+            "t": "Acúmulo.",
+            "e": "Pequenas vantagens iniciais se multiplicam.",
+            "f": "Pessoas que chegam ao topo quase sempre tiveram uma vantagem inicial.",
+            "real": true
+          },
+          {
+            "t": "Efeito.",
+            "e": "Pequenas vantagens iniciais se multiplicam.",
+            "f": "Na visão de Malcolm Gladwell, \"efeito.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Legado",
         "text": "História familiar molda padrões de conflito e foco.",
         "points": [
-          "Legado.",
-          "Padrão."
+          {
+            "t": "Legado.",
+            "e": "História familiar molda padrões de conflito e foco.",
+            "f": "Na visão de Malcolm Gladwell, \"legado.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Padrão.",
+            "e": "História familiar molda padrões de conflito e foco.",
+            "f": "Na visão de Malcolm Gladwell, \"padrão.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A Ilusão do Mérito",
         "text": "Mérito puro ignora bases sistêmicas do sucesso.",
         "points": [
-          "Mérito.",
-          "Sistema."
+          {
+            "t": "Mérito.",
+            "e": "Mérito puro ignora bases sistêmicas do sucesso.",
+            "f": "Na visão de Malcolm Gladwell, \"mérito.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Sistema.",
+            "e": "Mérito puro ignora bases sistêmicas do sucesso.",
+            "f": "Na visão de Malcolm Gladwell, \"sistema.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -26010,57 +26145,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Busque prática profunda",
-        "text": "Repita devagar, com erro e ajuste."
+        "text": "Repita devagar, com erro e ajuste.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Busque prática profunda\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Repita devagar, com erro e ajuste — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque prática profunda\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Use a zona de desconforto",
-        "text": "Pratique na borda do que domina."
+        "text": "Pratique na borda do que domina.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Use a zona de desconforto\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Pratique na borda do que domina — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a zona de desconforto\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Valorize o erro certo",
-        "text": "Errar e corrigir acelera a fixação."
+        "text": "Errar e corrigir acelera a fixação.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Valorize o erro certo\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Errar e corrigir acelera a fixação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize o erro certo\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Encontre ignição",
-        "text": "Uma cultura ou mentor que acenda motivação."
+        "text": "Uma cultura ou mentor que acenda motivação.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Encontre ignição\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Uma cultura ou mentor que acenda motivação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Encontre ignição\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Busque mestre",
-        "text": "Feedback de alta qualidade fecha o circuito."
+        "text": "Feedback de alta qualidade fecha o circuito.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Busque mestre\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Feedback de alta qualidade fecha o circuito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque mestre\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Construa ambiente",
-        "text": "Desenhe cultura de excelência em casa ou empresa."
+        "text": "Desenhe cultura de excelência em casa ou empresa.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Construa ambiente\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Desenhe cultura de excelência em casa ou empresa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa ambiente\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Foque em mielina",
-        "text": "Pense no erro corrigido como investimento neural."
+        "text": "Pense no erro corrigido como investimento neural.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Foque em mielina\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Pense no erro corrigido como investimento neural — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque em mielina\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Prefira qualidade",
-        "text": "Prática profunda supera volume bruto."
+        "text": "Prática profunda supera volume bruto.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Prefira qualidade\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Prática profunda supera volume bruto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Prefira qualidade\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Replaneje a motivação",
-        "text": "Mantenha o fogo com senhas culturais claras."
+        "text": "Mantenha o fogo com senhas culturais claras.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Replaneje a motivação\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Mantenha o fogo com senhas culturais claras — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Replaneje a motivação\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Crie sítios de talento",
-        "text": "Reúna prática, ignição e mestre num lugar."
+        "text": "Reúna prática, ignição e mestre num lugar.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Crie sítios de talento\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Reúna prática, ignição e mestre num lugar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie sítios de talento\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Acredite na reconstrução",
-        "text": "Habilidade se refaz em qualquer idade."
+        "text": "Habilidade se refaz em qualquer idade.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle trata \"Acredite na reconstrução\" como peça-chave para como o talento é construído pela prática profunda.",
+          "Na prática: Habilidade se refaz em qualquer idade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acredite na reconstrução\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -26082,64 +26272,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Sítio do Talento",
         "text": "Por que certos lugares geram excelência em série.",
         "points": [
-          "Lugar.",
-          "Padrão."
+          {
+            "t": "Lugar.",
+            "e": "Por que certos lugares geram excelência em série.",
+            "f": "O talento é construído, não recebido.",
+            "real": true
+          },
+          {
+            "t": "Padrão.",
+            "e": "Por que certos lugares geram excelência em série.",
+            "f": "Talento emerge de um circuito: prática profunda, ignição e mestre.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Mielina",
         "text": "Como erro corrigido isola e acelera neurônios.",
         "points": [
-          "Mielina.",
-          "Cérebro."
+          {
+            "t": "Mielina.",
+            "e": "Como erro corrigido isola e acelera neurônios.",
+            "f": "A mielina é o isolamento que torna os circuitos do cérebro mais rápidos.",
+            "real": true
+          },
+          {
+            "t": "Cérebro.",
+            "e": "Como erro corrigido isola e acelera neurônios.",
+            "f": "Na visão de Daniel Coyle, \"cérebro.\" é parte essencial da proposta de \"O Código do Talento\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Prática Profunda",
         "text": "Repetição lenta, com erro e ajuste.",
         "points": [
-          "Prática.",
-          "Erro."
+          {
+            "t": "Prática.",
+            "e": "Repetição lenta, com erro e ajuste.",
+            "f": "Errar do jeito certo é o combustível da prática profunda.",
+            "real": true
+          },
+          {
+            "t": "Erro.",
+            "e": "Repetição lenta, com erro e ajuste.",
+            "f": "A prática profunda ocorre na zona de desconforto, não de conforto.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Zona de Desconforto",
         "text": "Aprender na borda do que já se domina.",
         "points": [
-          "Zona.",
-          "Limite."
+          {
+            "t": "Zona.",
+            "e": "Aprender na borda do que já se domina.",
+            "f": "A prática profunda ocorre na zona de desconforto, não de conforto.",
+            "real": true
+          },
+          {
+            "t": "Limite.",
+            "e": "Aprender na borda do que já se domina.",
+            "f": "Na visão de Daniel Coyle, \"limite.\" é parte essencial da proposta de \"O Código do Talento\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A Ignição",
         "text": "Senhas culturais que acendem motivação.",
         "points": [
-          "Fogo.",
-          "Motivo."
+          {
+            "t": "Fogo.",
+            "e": "Senhas culturais que acendem motivação.",
+            "f": "Talento emerge de um circuito: prática profunda, ignição e mestre.",
+            "real": true
+          },
+          {
+            "t": "Motivo.",
+            "e": "Senhas culturais que acendem motivação.",
+            "f": "Na visão de Daniel Coyle, \"motivo.\" é parte essencial da proposta de \"O Código do Talento\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O Mestre",
         "text": "Feedback de alta qualidade que fecha o circuito.",
         "points": [
-          "Mestre.",
-          "Feedback."
+          {
+            "t": "Mestre.",
+            "e": "Feedback de alta qualidade que fecha o circuito.",
+            "f": "Talento emerge de um circuito: prática profunda, ignição e mestre.",
+            "real": true
+          },
+          {
+            "t": "Feedback.",
+            "e": "Feedback de alta qualidade que fecha o circuito.",
+            "f": "Na visão de Daniel Coyle, \"feedback.\" é parte essencial da proposta de \"O Código do Talento\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Os Sítios na Prática",
         "text": "Exemplos de academias e escolas de elite.",
         "points": [
-          "Casos.",
-          "Aplicação."
+          {
+            "t": "Casos.",
+            "e": "Exemplos de academias e escolas de elite.",
+            "f": "Errar do jeito certo é o combustível da prática profunda.",
+            "real": true
+          },
+          {
+            "t": "Aplicação.",
+            "e": "Exemplos de academias e escolas de elite.",
+            "f": "A prática profunda ocorre na zona de desconforto, não de conforto.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Desenhar o Talento",
         "text": "Criar ambientes que gerem excelência.",
         "points": [
-          "Ambiente.",
-          "Cultura."
+          {
+            "t": "Ambiente.",
+            "e": "Criar ambientes que gerem excelência.",
+            "f": "O talento é construído, não recebido.",
+            "real": true
+          },
+          {
+            "t": "Cultura.",
+            "e": "Criar ambientes que gerem excelência.",
+            "f": "Talento emerge de um circuito: prática profunda, ignição e mestre.",
+            "real": true
+          }
         ]
       }
     ]
@@ -26292,57 +26562,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Descubra seu porquê",
-        "text": "Articule a crença que move sua organização."
+        "text": "Articule a crença que move sua organização.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Descubra seu porquê\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Articule a crença que move sua organização — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Descubra seu porquê\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Use o Círculo Dourado",
-        "text": "Comunique do porquê para o como e o que."
+        "text": "Comunique do porquê para o como e o que.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Use o Círculo Dourado\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Comunique do porquê para o como e o que — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o Círculo Dourado\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Lidere por inSPIRAção",
-        "text": "Atraia por convicção, não por comando."
+        "text": "Atraia por convicção, não por comando.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Lidere por inSPIRAção\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Atraia por convicção, não por comando — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Lidere por inSPIRAção\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Apela ao límbico",
-        "text": "Use emoção e propósito, não só razão."
+        "text": "Use emoção e propósito, não só razão.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Apela ao límbico\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Use emoção e propósito, não só razão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Apela ao límbico\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Atraia fiéis",
-        "text": "Busque quem acredita, não só quem compra."
+        "text": "Busque quem acredita, não só quem compra.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Atraia fiéis\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Busque quem acredita, não só quem compra — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Atraia fiéis\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Comece pelo centro",
-        "text": "Toda decisão deve nascer do propósito."
+        "text": "Toda decisão deve nascer do propósito.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Comece pelo centro\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Toda decisão deve nascer do propósito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece pelo centro\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Dê exemplo de causa",
-        "text": "Comunique crença antes de benefício."
+        "text": "Comunique crença antes de benefício.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Dê exemplo de causa\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Comunique crença antes de benefício — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dê exemplo de causa\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Clareza de propósito",
-        "text": "Uma frase de porquê alinha equipe e cliente."
+        "text": "Uma frase de porquê alinha equipe e cliente.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Clareza de propósito\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Uma frase de porquê alinha equipe e cliente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Clareza de propósito\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Diferencie por sentido",
-        "text": "Causa vira vantagem contra concorrentes iguais."
+        "text": "Causa vira vantagem contra concorrentes iguais.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Diferencie por sentido\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Causa vira vantagem contra concorrentes iguais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diferencie por sentido\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Viva a cultura",
-        "text": "Propósito deve habitar a operação, não o anúncio."
+        "text": "Propósito deve habitar a operação, não o anúncio.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Viva a cultura\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Propósito deve habitar a operação, não o anúncio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva a cultura\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Mova por convicção",
-        "text": "Busque engajamento duradouro, não prêmio pontual."
+        "text": "Busque engajamento duradouro, não prêmio pontual.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Mova por convicção\" como peça-chave para liderar e influenciar a partir do \"porquê\".",
+          "Na prática: Busque engajamento duradouro, não prêmio pontual — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mova por convicção\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -26364,64 +26689,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Assume que você sabe",
         "text": "Por que poucos líderes sabem o porquê.",
         "points": [
-          "Porquê.",
-          "Lacuna."
+          {
+            "t": "Porquê.",
+            "e": "Por que poucos líderes sabem o porquê.",
+            "f": "Pessoas não compram o que você faz, compram o porquê você faz.",
+            "real": true
+          },
+          {
+            "t": "Lacuna.",
+            "e": "Por que poucos líderes sabem o porquê.",
+            "f": "Na visão de Simon Sinek, \"lacuna.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Círculo Dourado",
         "text": "O modelo de comunicação do porquê ao que.",
         "points": [
-          "Modelo.",
-          "Centro."
+          {
+            "t": "Modelo.",
+            "e": "O modelo de comunicação do porquê ao que.",
+            "f": "O Círculo Dourado: todos sabem o quê, poucos sabem o porquê.",
+            "real": true
+          },
+          {
+            "t": "Centro.",
+            "e": "O modelo de comunicação do porquê ao que.",
+            "f": "Na visão de Simon Sinek, \"centro.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Biologia",
         "text": "Por que o cérebro límbico decide por emoção.",
         "points": [
-          "Límbico.",
-          "Decisão."
+          {
+            "t": "Límbico.",
+            "e": "Por que o cérebro límbico decide por emoção.",
+            "f": "O cérebro límbico decide por emoção, não por linguagem.",
+            "real": true
+          },
+          {
+            "t": "Decisão.",
+            "e": "Por que o cérebro límbico decide por emoção.",
+            "f": "Na visão de Simon Sinek, \"decisão.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Clareza, Disciplina, Coerência",
         "text": "Como o porquê vira vantagem.",
         "points": [
-          "Coerência.",
-          "Vantagem."
+          {
+            "t": "Coerência.",
+            "e": "Como o porquê vira vantagem.",
+            "f": "Clareza de causa é vantagem competitiva duradoura.",
+            "real": true
+          },
+          {
+            "t": "Vantagem.",
+            "e": "Como o porquê vira vantagem.",
+            "f": "Na visão de Simon Sinek, \"vantagem.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Liderança por InSPIRAção",
         "text": "Atrair por convicção, não comando.",
         "points": [
-          "Inspiração.",
-          "Liderança."
+          {
+            "t": "Inspiração.",
+            "e": "Atrair por convicção, não comando.",
+            "f": "Na visão de Simon Sinek, \"inspiração.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          },
+          {
+            "t": "Liderança.",
+            "e": "Atrair por convicção, não comando.",
+            "f": "Na visão de Simon Sinek, \"liderança.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Os Irmãos Wright",
         "text": "Exemplo de começar pelo porquê contra gigantes.",
         "points": [
-          "Exemplo.",
-          "Causa."
+          {
+            "t": "Exemplo.",
+            "e": "Exemplo de começar pelo porquê contra gigantes.",
+            "f": "Na visão de Simon Sinek, \"exemplo.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          },
+          {
+            "t": "Causa.",
+            "e": "Exemplo de começar pelo porquê contra gigantes.",
+            "f": "Clareza de causa é vantagem competitiva duradoura.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Martin Luther King",
         "text": "A mensagem de crença que moveu multidões.",
         "points": [
-          "Crença.",
-          "Movimento."
+          {
+            "t": "Crença.",
+            "e": "A mensagem de crença que moveu multidões.",
+            "f": "Na visão de Simon Sinek, \"crença.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          },
+          {
+            "t": "Movimento.",
+            "e": "A mensagem de crença que moveu multidões.",
+            "f": "Na visão de Simon Sinek, \"movimento.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Descubra seu Porquê",
         "text": "Passos para articular a causa da sua organização.",
         "points": [
-          "Descoberta.",
-          "Propósito."
+          {
+            "t": "Descoberta.",
+            "e": "Passos para articular a causa da sua organização.",
+            "f": "Pessoas não compram o que você faz, compram o porquê você faz.",
+            "real": true
+          },
+          {
+            "t": "Propósito.",
+            "e": "Passos para articular a causa da sua organização.",
+            "f": "O Círculo Dourado: todos sabem o quê, poucos sabem o porquê.",
+            "real": true
+          }
         ]
       }
     ]
