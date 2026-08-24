@@ -47847,12 +47847,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "dinheiro",
     "myths": [
       {
-        "type": "myth",
-        "title": "Risco é volatilidade",
-        "text": "Klarman argumenta que risco real é perda permanente, não oscilação de preço.",
-        "reflection": "Você confunde queda temporária com risco verdadeiro?"
-      },
-      {
         "type": "truth",
         "title": "Margem de segurança é tudo",
         "text": "Comprar com folga sobre o valor intrínseco protege contra erro.",
@@ -47860,9 +47854,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Seguir o consenso é seguro",
-        "text": "O consenso caro é onde há pouca margem; oportunidade é no desprezado.",
-        "reflection": "Você compra o que todos louvam por medo de ficar fora?"
+        "title": "Risco é volatilidade",
+        "text": "Klarman argumenta que risco real é perda permanente, não oscilação de preço.",
+        "reflection": "Você confunde queda temporária com risco verdadeiro?"
       },
       {
         "type": "truth",
@@ -47872,9 +47866,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Gestor ativo sempre agrega",
-        "text": "Muitos apenas seguem índice com custo; critério próprio importa.",
-        "reflection": "Você assume que gestor protege seu dinheiro?"
+        "title": "Seguir o consenso é seguro",
+        "text": "O consenso caro é onde há pouca margem; oportunidade é no desprezado.",
+        "reflection": "Você compra o que todos louvam por medo de ficar fora?"
       },
       {
         "type": "truth",
@@ -47884,9 +47878,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Liquidez é secundária",
-        "text": "Klarman valoriza ter caixa para agir quando outros não podem.",
-        "reflection": "Você está alavancado demais para aproveitar crises?"
+        "title": "Gestor ativo sempre agrega",
+        "text": "Muitos apenas seguem índice com custo; critério próprio importa.",
+        "reflection": "Você assume que gestor protege seu dinheiro?"
       },
       {
         "type": "truth",
@@ -47896,9 +47890,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Diversificar é para amadores",
-        "text": "Concentração exige convicção e estudo; sem eles, diversificar protege.",
-        "reflection": "Você concentra sem o conhecimento que Klarman exige?"
+        "title": "Liquidez é secundária",
+        "text": "Klarman valoriza ter caixa para agir quando outros não podem.",
+        "reflection": "Você está alavancado demais para aproveitar crises?"
       },
       {
         "type": "truth",
@@ -47908,9 +47902,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Modelos quant previnem risco",
-        "text": "VaR e modelos falham em crises; margem é defesa real.",
-        "reflection": "Você confia em modelo em vez de margem real?"
+        "title": "Diversificar é para amadores",
+        "text": "Concentração exige convicção e estudo; sem eles, diversificar protege.",
+        "reflection": "Você concentra sem o conhecimento que Klarman exige?"
       },
       {
         "type": "truth",
@@ -47920,9 +47914,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Modelos quant previnem risco",
+        "text": "VaR e modelos falham em crises; margem é defesa real.",
+        "reflection": "Você confia em modelo em vez de margem real?"
+      },
+      {
+        "type": "truth",
+        "title": "Risco é perda permanente, não volatilidade",
+        "text": "Klarman exige margem de segurança e paciência enquanto o mercado especula.",
+        "reflection": "Você confunde oscilação com perigo?"
+      },
+      {
+        "type": "myth",
         "title": "Bater o mercado é o alvo",
         "text": "Klarman foca em retorno ajustado ao risco, não em índice.",
         "reflection": "Você mede sucesso por índice em vez de risco?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Margem de Segurança: Filosofia de Investimento em Valor de Mercado resiste ao senso comum",
+        "text": "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman sustenta que 'margem de segurança', de seth klarman, é o texto de cabeceira dos investidores em valor e, ironicamente, um dos livros de finanças mais raros e caros do mundo — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "'Margem de Segurança', de Seth Klarman, é o texto de cabeceira dos investidores em valor e, ironicamente, um dos livros de finanças mais raros e caros do mundo. A tese central é a de Benjamin Graham elevada à prática: investir com margem de segurança exige comprar ativos bem abaixo do valor intrínseco, tratando o risco de perda como prioridade absoluta, não retorno. Klarman defende pensar como um empresário que compra negócios, não como apostador de ticker, e adota postura contrária — comprar quando há sangue na rua e evitar o que está na moda. Ele critica a gestão de risco baseada em volatilidade (VaR) e enfatiza liquidez e paciência. O gancho é disciplina: preservar capital supera bater o mercado; oportunidades aparecem em erros de precificação, não em consenso. Escasso e cultuado, o livro eleva a margem de segurança a uma disciplina de preservação de capital. Klarman escreve para quem pensa como dono de negócios e recusa o consenso de mercado como guia.",
@@ -47943,33 +47955,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A margem de segurança é a única defesa real contra incerteza e erro.",
         "autor": "Seth A. Klarman",
         "obra": "Margin of Safety"
-      },
-      {
-        "texto": "Compre quando há sangue na rua; o consenso raramente oferece margem.",
-        "autor": "Seth A. Klarman",
-        "obra": "Margin of Safety"
-      },
-      {
-        "texto": "A paciência para esperar a precificação errada é uma vantagem competitiva.",
-        "autor": "Seth A. Klarman",
-        "obra": "Margin of Safety"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Exemplar usado custa mais que ouro; li em scan e entendi o porquê.",
-        "autor": "Leitor verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "A parte de risco como perda permanente reorientou minha carteira.",
-        "autor": "Investidor em valor",
-        "fonte": "Goodreads"
-      },
-      {
-        "texto": "Klarman eleva Graham a nível prático; denso e recompensador.",
         "autor": "Leitor",
-        "fonte": "Amazon"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -47985,9 +47982,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque margem de segurança",
         "text": "Pague bem abaixo do valor intrínseco para proteger contra erro.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Busque margem de segurança\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Pague bem abaixo do valor intrínseco para proteger contra erro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque margem de segurança\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Busque margem de segurança\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pague bem abaixo do valor intrínseco para proteger contra erro — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Busque margem de segurança\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -47995,9 +47992,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina risco como perda",
         "text": "Risco é perda permanente de capital, não volatilidade.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Defina risco como perda\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Risco é perda permanente de capital, não volatilidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina risco como perda\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Defina risco como perda\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Risco é perda permanente de capital, não volatilidade — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Defina risco como perda\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48005,9 +48002,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Preserve o capital",
         "text": "Evitar perda supera a busca de retorno máximo.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Preserve o capital\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Evitar perda supera a busca de retorno máximo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Preserve o capital\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Preserve o capital\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Evitar perda supera a busca de retorno máximo — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Preserve o capital\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48015,9 +48012,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pense como dono",
         "text": "Avalie o negócio por trás da cotação, não o gráfico.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Pense como dono\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Avalie o negócio por trás da cotação, não o gráfico — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pense como dono\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Pense como dono\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Avalie o negócio por trás da cotação, não o gráfico — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Pense como dono\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48025,9 +48022,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja contrário",
         "text": "Oportunidade mora no desprezado, não no consenso caro.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Seja contrário\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Oportunidade mora no desprezado, não no consenso caro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja contrário\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Seja contrário\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Oportunidade mora no desprezado, não no consenso caro — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Seja contrário\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48035,9 +48032,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha liquidez",
         "text": "Ter caixa permite agir quando outros estão presos.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Mantenha liquidez\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Ter caixa permite agir quando outros estão presos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha liquidez\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Mantenha liquidez\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ter caixa permite agir quando outros estão presos — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Mantenha liquidez\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48045,9 +48042,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tenha paciência",
         "text": "Esperar precificação errada supera operar por ansiedade.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Tenha paciência\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Esperar precificação errada supera operar por ansiedade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Tenha paciência\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Tenha paciência\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Esperar precificação errada supera operar por ansiedade — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Tenha paciência\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48055,9 +48052,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuidado com modelos",
         "text": "VaR e quant não substituem margem real de segurança.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Cuidado com modelos\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: VaR e quant não substituem margem real de segurança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuidado com modelos\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Cuidado com modelos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "VaR e quant não substituem margem real de segurança — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Cuidado com modelos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48065,9 +48062,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Concentre com convicção",
         "text": "Concentração exige estudo profundo; sem ele, diversifique.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Concentre com convicção\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Concentração exige estudo profundo; sem ele, diversifique — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Concentre com convicção\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Concentre com convicção\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Concentração exige estudo profundo; sem ele, diversifique — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Concentre com convicção\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48075,9 +48072,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque risco-retorno",
         "text": "Sucesso é retorno ajustado ao risco, não bater índice.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Foque risco-retorno\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Sucesso é retorno ajustado ao risco, não bater índice — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque risco-retorno\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Foque risco-retorno\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sucesso é retorno ajustado ao risco, não bater índice — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Foque risco-retorno\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48085,9 +48082,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use erros de mercado",
         "text": "Precificações erradas são a fonte real de vantagem.",
         "explicacoes": [
-          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Use erros de mercado\" como peça-chave para o investimento de valor e a margem de segurança.",
-          "Na prática: Precificações erradas são a fonte real de vantagem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use erros de mercado\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Use erros de mercado\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Precificações erradas são a fonte real de vantagem — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Use erros de mercado\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Paciência é posição",
+        "text": "Klarman defende ficar de fora até a margem de segurança aparecer.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman coloca \"Paciência é posição\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Klarman defende ficar de fora até a margem de segurança aparecer — traduzido para a prática, é o passo concreto que liga a teoria de Seth A. Klarman ao comportamento diário.",
+          "Ignorar \"Paciência é posição\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -48121,6 +48128,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Klarman define a filosofia de margem e preservação.",
             "f": "Na visão de Seth A. Klarman, \"margen\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
             "real": false
+          },
+          {
+            "t": "O investidor em valor",
+            "e": "Klarman define a filosofia de margem e preservação.",
+            "f": "Na visão de Seth A. Klarman, o investidor em valor é o ponto central deste capítulo de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
           }
         ]
       },
@@ -48138,6 +48151,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "VaR",
             "e": "Por que risco é perda permanente, não volatilidade.",
             "f": "Na visão de Seth A. Klarman, \"var\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Risco de verdade",
+            "e": "Por que risco é perda permanente, não volatilidade.",
+            "f": "Na visão de Seth A. Klarman, risco de verdade é o ponto central deste capítulo de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
             "real": false
           }
         ]
@@ -48157,6 +48176,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O princípio central e sua aplicação.",
             "f": "Compre quando há sangue na rua; o consenso raramente oferece margem.",
             "real": true
+          },
+          {
+            "t": "Margem de segurança",
+            "e": "O princípio central e sua aplicação.",
+            "f": "Na visão de Seth A. Klarman, margem de segurança é o ponto central deste capítulo de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
           }
         ]
       },
@@ -48174,6 +48199,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Ticker",
             "e": "Avaliar negócios, não cotações.",
             "f": "Na visão de Seth A. Klarman, \"ticker\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Pensar como dono",
+            "e": "Avaliar negócios, não cotações.",
+            "f": "Na visão de Seth A. Klarman, pensar como dono é o ponto central deste capítulo de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
             "real": false
           }
         ]
@@ -48193,6 +48224,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Oportunidade no desprezado, não no consenso.",
             "f": "Compre quando há sangue na rua; o consenso raramente oferece margem.",
             "real": true
+          },
+          {
+            "t": "Postura contrária",
+            "e": "Oportunidade no desprezado, não no consenso.",
+            "f": "Na visão de Seth A. Klarman, postura contrária é o ponto central deste capítulo de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
           }
         ]
       },
@@ -48210,6 +48247,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Espera",
             "e": "Caixa e espera como vantagens.",
             "f": "Na visão de Seth A. Klarman, \"espera\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Liquidez e paciência",
+            "e": "Caixa e espera como vantagens.",
+            "f": "Na visão de Seth A. Klarman, liquidez e paciência é o ponto central deste capítulo de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
             "real": false
           }
         ]
@@ -48229,6 +48272,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Limites de quant e VaR em crises.",
             "f": "Na visão de Seth A. Klarman, \"crise\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
             "real": false
+          },
+          {
+            "t": "Falha de modelos",
+            "e": "Limites de quant e VaR em crises.",
+            "f": "Na visão de Seth A. Klarman, falha de modelos é o ponto central deste capítulo de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
           }
         ]
       },
@@ -48246,6 +48295,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Diversificar",
             "e": "Convicção com estudo vs diversificação prudente.",
             "f": "Na visão de Seth A. Klarman, \"diversificar\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Concentração",
+            "e": "Convicção com estudo vs diversificação prudente.",
+            "f": "Na visão de Seth A. Klarman, concentração é o ponto central deste capítulo de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
             "real": false
           }
         ]
@@ -48265,6 +48320,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Como operar com risco-retorno em mente.",
             "f": "Risco não é volatilidade; é a possibilidade de perda permanente de capital.",
             "real": true
+          },
+          {
+            "t": "Aplicação prática",
+            "e": "Como operar com risco-retorno em mente.",
+            "f": "Na visão de Seth A. Klarman, aplicação prática é o ponto central deste capítulo de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
           }
         ]
       }
@@ -48369,6 +48430,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Analista sabe mais que você",
         "text": "Analistas concordam menos entre si do que se imagina; sua observação vale.",
         "reflection": "Você terceiriza demais o pensamento?"
+      },
+      {
+        "type": "truth",
+        "title": "O investidor de varejo conhece vantagens que os pros ignoram",
+        "text": "Lynch ensina a investir no que se usa e entende antes dos fundos.",
+        "reflection": "Você pesquisa o que compra ou repete o que ouviu?"
       }
     ],
     "summary": "Em \"Um Investidor Antes de Tudo\", Peter Lynch — que geriu o fundo Magellan da Fidelity e o multiplicou por 28 vezes — parte de uma ideia libertadora: o investidor comum tem vantagem sobre Wall Street porque encontra bons produtos em seu dia a dia muito antes dos analistas. Antes de virar analista, Lynch era um garoto que reparava em lojas lotadas. Daí nasce seu mantra: invista no que você conhece. O livro classifica as ações em seis categorias — crescedoras lentas, gigantes estáveis, crescedoras rápidas, cíclicas, recuperações e jogadas de ativo — e ensina a tratar cada uma de modo diferente. O grande gancho é a caçada aos \"tenbaggers\", ações que valorizam dez vezes, e o \"teste de dois minutos\", um resumo que qualquer um deve saber dar sobre o que possui. Lynch ridiculariza o market timing e a pretensão de prever quedas; defende que o tempo está do lado de quem é dono de boas empresas. Não é um manual de fórmulas, mas de observação, curiosidade e senso comum aplicados ao mercado.",
@@ -48389,27 +48456,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O tempo está do seu lado quando você é dono de boas empresas.",
         "autor": "Peter Lynch",
         "obra": "Um Investidor Antes de Tudo"
-      },
-      {
-        "texto": "A ação não sabe que você a possui.",
-        "autor": "Peter Lynch",
-        "obra": "Um Investidor Antes de Tudo"
-      },
-      {
-        "texto": "No longo prazo, os índices e os lucros das empresas que os compõem seguem a mesma direção.",
-        "autor": "Peter Lynch",
-        "obra": "Um Investidor Antes de Tudo"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que me fez acreditar que um investidor comum pode, sim, bater os profissionais usando bom senso.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Escrito com a clareza de quem geriu um dos fundos mais lendários da história — essencial para iniciantes.",
-        "autor": "Crítico de Finanças",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -48426,9 +48483,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Invertir no que você conhece",
         "text": "Comece pelas empresas cujos produtos você usa e entende. A familiaridade vira margem de segurança.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Invertir no que você conhece\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Comece pelas empresas cujos produtos você usa e entende. A familiaridade vira margem de segurança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Invertir no que você conhece\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"Invertir no que você conhece\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comece pelas empresas cujos produtos você usa e entende. A familiaridade vira margem de segurança — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"Invertir no que você conhece\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48436,9 +48493,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "As seis categorias de ações",
         "text": "Crescedoras lentas, gigantes estáveis, crescedoras rápidas, cíclicas, recuperações e jogadas de ativo pedem estratégias diferentes.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"As seis categorias de ações\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Crescedoras lentas, gigantes estáveis, crescedoras rápidas, cíclicas, recuperações e jogadas de ativo pedem estratégias diferentes — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"As seis categorias de ações\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"As seis categorias de ações\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Crescedoras lentas, gigantes estáveis, crescedoras rápidas, cíclicas, recuperações e jogadas de ativo pedem estratégias diferentes — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"As seis categorias de ações\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48446,9 +48503,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Caçe os tenbaggers",
         "text": "Procure empresas pequenas com potencial de multiplicar por dez o valor. Elas mudam uma carteira.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Caçe os tenbaggers\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Procure empresas pequenas com potencial de multiplicar por dez o valor. Elas mudam uma carteira — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Caçe os tenbaggers\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"Caçe os tenbaggers\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Procure empresas pequenas com potencial de multiplicar por dez o valor. Elas mudam uma carteira — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"Caçe os tenbaggers\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48456,9 +48513,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "O teste de dois minutos",
         "text": "Se não consegue explicar a empresa em dois minutos, não a compre. Clareza precede convicção.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"O teste de dois minutos\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Se não consegue explicar a empresa em dois minutos, não a compre. Clareza precede convicção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"O teste de dois minutos\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"O teste de dois minutos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Se não consegue explicar a empresa em dois minutos, não a compre. Clareza precede convicção — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"O teste de dois minutos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48466,9 +48523,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça seu dever de casa",
         "text": "Leia o relatório anual, demonstrações e a concorrência antes de apertar o botão de compra.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Faça seu dever de casa\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Leia o relatório anual, demonstrações e a concorrência antes de apertar o botão de compra — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça seu dever de casa\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"Faça seu dever de casa\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Leia o relatório anual, demonstrações e a concorrência antes de apertar o botão de compra — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"Faça seu dever de casa\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48476,9 +48533,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ignore o barulho de curto prazo",
         "text": "Cotações diárias são ruído; os fundamentos é que ditam o resultado de longo prazo.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Ignore o barulho de curto prazo\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Cotações diárias são ruído; os fundamentos é que ditam o resultado de longo prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ignore o barulho de curto prazo\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"Ignore o barulho de curto prazo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cotações diárias são ruído; os fundamentos é que ditam o resultado de longo prazo — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"Ignore o barulho de curto prazo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48486,9 +48543,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite prever o mercado",
         "text": "Ninguém sabe quando vem a correção. Foque na empresa, não no calendário.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Evite prever o mercado\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Ninguém sabe quando vem a correção. Foque na empresa, não no calendário — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite prever o mercado\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"Evite prever o mercado\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ninguém sabe quando vem a correção. Foque na empresa, não no calendário — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"Evite prever o mercado\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48496,9 +48553,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda o ciclo das cíclicas",
         "text": "Com ações como siderúrgicas e varejo, compre no fundo do ciclo e realize no auge.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Entenda o ciclo das cíclicas\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Com ações como siderúrgicas e varejo, compre no fundo do ciclo e realize no auge — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda o ciclo das cíclicas\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"Entenda o ciclo das cíclicas\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Com ações como siderúrgicas e varejo, compre no fundo do ciclo e realize no auge — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"Entenda o ciclo das cíclicas\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48506,9 +48563,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Recuperações podem triplicar",
         "text": "Empresas à beira da falência que se reerguem oferecem ganhos espetaculares — com risco alto.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Recuperações podem triplicar\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Empresas à beira da falência que se reerguem oferecem ganhos espetaculares — com risco alto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Recuperações podem triplicar\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"Recuperações podem triplicar\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Empresas à beira da falência que se reerguem oferecem ganhos espetaculares — com risco alto — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"Recuperações podem triplicar\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48516,9 +48573,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "O estoque é uma empresa",
         "text": "Por trás de cada ticker há negócio real. Visite lojas, teste produtos, fale com clientes.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"O estoque é uma empresa\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Por trás de cada ticker há negócio real. Visite lojas, teste produtos, fale com clientes — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"O estoque é uma empresa\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"O estoque é uma empresa\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Por trás de cada ticker há negócio real. Visite lojas, teste produtos, fale com clientes — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"O estoque é uma empresa\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48526,9 +48583,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o final de semana",
         "text": "Lynch construía planilhas simples em casa; organize suas ideias fora do horário de pregão.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Use o final de semana\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Lynch construía planilhas simples em casa; organize suas ideias fora do horário de pregão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o final de semana\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"Use o final de semana\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Lynch construía planilhas simples em casa; organize suas ideias fora do horário de pregão — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"Use o final de semana\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48536,9 +48593,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Paciência supera o trade",
         "text": "Quem vira e mexe a carteira a cada notícia perde para quem segura bons nomes anos a fio.",
         "explicacoes": [
-          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Paciência supera o trade\" como peça-chave em torno de investir no que você conhece (bolsa batida).",
-          "Na prática: Quem vira e mexe a carteira a cada notícia perde para quem segura bons nomes anos a fio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Paciência supera o trade\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch coloca \"Paciência supera o trade\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quem vira e mexe a carteira a cada notícia perde para quem segura bons nomes anos a fio — traduzido para a prática, é o passo concreto que liga a teoria de Peter Lynch ao comportamento diário.",
+          "Ignorar \"Paciência supera o trade\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -48874,6 +48931,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sucesso é sorte pura",
         "text": "Dalio atribui ganhos a princípios testados, não a acaso.",
         "reflection": "Você creditava o acaso ao que deu certo?"
+      },
+      {
+        "type": "truth",
+        "title": "Princípios explícitos vencem o caos emocional",
+        "text": "Dalio sistematiza decisões em regras e 'algoritmos' para reduzir o ruído da emoção.",
+        "reflection": "Você decide por princípio ou por humor?"
       }
     ],
     "summary": "Em \"Princípios\", Ray Dalio — fundador da Bridgewater, o maior fundo de hedge do mundo — resolveu transformar a própria filosofia de vida e trabalho em um sistema aberto. O livro divide-se em duas partes: princípios de vida e princípios de trabalho. A ideia central é que a realidade é dura, mas pode ser enfrentada com honestidade radical e pensamento de causa e efeito. Dalio prega a \"meritocracia da ideias\", onde as melhores hipóteses vencem, independentemente de quem as propôs, e recomenda gravar decisões em algoritmos para eliminar o viés emocional. O conceito de \"dor + reflexão = progresso\" virou mantra: errar dói, mas quem processa o erro aprende mais rápido. Ele também popularizou o \"teste das cinco dimensões\" (C-A-P-V-E) para alocar pessoas conforme seu perfil. Não é autoajuda genérica: é um manual de operação de uma mente que construiu um império baseado em regras explícitas, transparência extrema e aprendizado sistemático a partir do fracasso.",
@@ -48894,27 +48957,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Não deixe que o que você quer que seja verdadeiro impeça que você veja o que é real.",
         "autor": "Ray Dalio",
         "obra": "Princípios: Vida e Trabalho"
-      },
-      {
-        "texto": "Quem quer que você seja, você deve aceitar a responsabilidade por suas decisões.",
-        "autor": "Ray Dalio",
-        "obra": "Princípios: Vida e Trabalho"
-      },
-      {
-        "texto": "O segredo não é ser perfeito, é saber como lidar com seus erros.",
-        "autor": "Ray Dalio",
-        "obra": "Princípios: Vida e Trabalho"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Um manual de operação mental que transformou como dirijo minha empresa e minhas decisões pessoais.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Longo e denso, mas incomparável na disciplina de transformar filosofia em regras aplicáveis.",
-        "autor": "Crítico de Negócios",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -48931,9 +48984,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Adote a realidade",
         "text": "Veja o mundo como ele é, não como gostaria que fosse. Aceitar a verdade é o primeiro passo.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Adote a realidade\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Veja o mundo como ele é, não como gostaria que fosse. Aceitar a verdade é o primeiro passo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Adote a realidade\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Adote a realidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Veja o mundo como ele é, não como gostaria que fosse. Aceitar a verdade é o primeiro passo — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Adote a realidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48941,9 +48994,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dor + reflexão = progresso",
         "text": "Use o sofrimento como gatilho para analisar o que falhou e ajustar a regra.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Dor + reflexão = progresso\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Use o sofrimento como gatilho para analisar o que falhou e ajustar a regra — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dor + reflexão = progresso\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Dor + reflexão = progresso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use o sofrimento como gatilho para analisar o que falhou e ajustar a regra — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Dor + reflexão = progresso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48951,9 +49004,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja radicalmente honesto",
         "text": "Diga e ouça a verdade, mesmo dolorosa. A transparência poupa meses de erro.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Seja radicalmente honesto\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Diga e ouça a verdade, mesmo dolorosa. A transparência poupa meses de erro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja radicalmente honesto\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Seja radicalmente honesto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Diga e ouça a verdade, mesmo dolorosa. A transparência poupa meses de erro — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Seja radicalmente honesto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48961,9 +49014,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pense em causa e efeito",
         "text": "Substitua preferências por mecânicas. Entenda por que as coisas acontecem.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Pense em causa e efeito\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Substitua preferências por mecânicas. Entenda por que as coisas acontecem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pense em causa e efeito\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Pense em causa e efeito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Substitua preferências por mecânicas. Entenda por que as coisas acontecem — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Pense em causa e efeito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48971,9 +49024,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie uma meritocracia de ideias",
         "text": "Faça a melhor hipótese vencer, independentemente de quem a trouxe.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Crie uma meritocracia de ideias\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Faça a melhor hipótese vencer, independentemente de quem a trouxe — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie uma meritocracia de ideias\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Crie uma meritocracia de ideias\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Faça a melhor hipótese vencer, independentemente de quem a trouxe — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Crie uma meritocracia de ideias\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48981,9 +49034,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Transforme decisões em algoritmos",
         "text": "Registre critérios de escolha para repetir acertos e evitar vieses.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Transforme decisões em algoritmos\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Registre critérios de escolha para repetir acertos e evitar vieses — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Transforme decisões em algoritmos\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Transforme decisões em algoritmos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Registre critérios de escolha para repetir acertos e evitar vieses — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Transforme decisões em algoritmos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -48991,9 +49044,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conheça seu perfil C-A-P-V-E",
         "text": "Saber onde você brilha e onde fraqueja orienta alocação e parcerias.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Conheça seu perfil C-A-P-V-E\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Saber onde você brilha e onde fraqueja orienta alocação e parcerias — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conheça seu perfil C-A-P-V-E\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Conheça seu perfil C-A-P-V-E\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saber onde você brilha e onde fraqueja orienta alocação e parcerias — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Conheça seu perfil C-A-P-V-E\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49001,9 +49054,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Delegue pontos fracos",
         "text": "Busque quem completa você em vez de fingir onipotência.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Delegue pontos fracos\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Busque quem completa você em vez de fingir onipotência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Delegue pontos fracos\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Delegue pontos fracos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Busque quem completa você em vez de fingir onipotência — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Delegue pontos fracos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49011,9 +49064,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escreva seus princípios",
         "text": "Tornar regras explícitas libera energia mental e escala decisões.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Escreva seus princípios\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Tornar regras explícitas libera energia mental e escala decisões — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escreva seus princípios\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Escreva seus princípios\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tornar regras explícitas libera energia mental e escala decisões — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Escreva seus princípios\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49021,9 +49074,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abra os processos",
         "text": "Transparência radical diminui política e alinha times em torno de fatos.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Abra os processos\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Transparência radical diminui política e alinha times em torno de fatos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abra os processos\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Abra os processos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Transparência radical diminui política e alinha times em torno de fatos — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Abra os processos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49031,9 +49084,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abrace o fracasso como dado",
         "text": "Cada falha é experimento; colete aprendizado sistematicamente.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Abrace o fracasso como dado\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Cada falha é experimento; colete aprendizado sistematicamente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abrace o fracasso como dado\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Abrace o fracasso como dado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada falha é experimento; colete aprendizado sistematicamente — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Abrace o fracasso como dado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49041,9 +49094,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque o que é melhor, não o que é fácil",
         "text": "Escolhas difíceis alinhadas à realidade superam conforto de curto prazo.",
         "explicacoes": [
-          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Busque o que é melhor, não o que é fácil\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
-          "Na prática: Escolhas difíceis alinhadas à realidade superam conforto de curto prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque o que é melhor, não o que é fácil\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio coloca \"Busque o que é melhor, não o que é fácil\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escolhas difíceis alinhadas à realidade superam conforto de curto prazo — traduzido para a prática, é o passo concreto que liga a teoria de Ray Dalio ao comportamento diário.",
+          "Ignorar \"Busque o que é melhor, não o que é fácil\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -49379,6 +49432,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Risco alto sempre dá retorno alto",
         "text": "Risco elevado só oferece a possibilidade de retorno alto, não a garantia.",
         "reflection": "Você confunde esperança com probabilidade?"
+      },
+      {
+        "type": "truth",
+        "title": "O ciclo de risco e retorno exige humildade",
+        "text": "Marks Cartas descrevem como o clima do mercado dita oportunidade e perigo.",
+        "reflection": "Você compra quando todos temem ou quando todos celebram?"
       }
     ],
     "summary": "Howard Marks, cofundador da Oaktree Capital e um dos maiores investidores em crédito do mundo, escreve \"O Mais Importante para o Investidor\" reunindo seus famosos memorandos. O livro não entrega uma fórmula mágica; entrega o \"segundo nível de pensamento\", a capacidade de ver além do óbvio que o consenso já precificou. O gancho central é que o mercado já embute expectativas, então ganhar exige discordar do consenso e estar certo. Marks explora o ciclo de mercado, a importância do preço pago, o risco como algo mal compreendido (não é volatilidade, é a possibilidade de perda permanente) e a necessidade de margem de segurança. Ele repete: o que é fácil já está no preço; o diferencial está em pensar de forma diferente e melhor. Escrito em tom de carta a um filho, o livro é uma aula de humildade, paciência e de como a sorte e o risco se confundem. É leitura obrigatória para quem quer entender por que a maioria perde no longo prazo.",
@@ -49399,27 +49458,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O risco não vem da volatilidade, mas da possibilidade de perda permanente.",
         "autor": "Howard Marks",
         "obra": "O Mais Importante para o Investidor"
-      },
-      {
-        "texto": "Você não ganha por estar certo, ganha por estar certamente certo quando o consenso está errado.",
-        "autor": "Howard Marks",
-        "obra": "O Mais Importante para o Investidor"
-      },
-      {
-        "texto": "A margem de segurança é o que nos protege quando estamos errados.",
-        "autor": "Howard Marks",
-        "obra": "O Mais Importante para o Investidor"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro de investimento mais sensato já escrito — sem fórmulas, só sabedoria dura.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Marks escreve como um mestre que sussurra verdades incômodas sobre risco e ciclos.",
-        "autor": "Crítico Financeiro",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -49436,9 +49485,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pense no segundo nível",
         "text": "Não basta \"a empresa é boa\". Pense no que o consenso espera e no que virá além.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Pense no segundo nível\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: Não basta \"a empresa é boa\". Pense no que o consenso espera e no que virá além — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pense no segundo nível\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Pense no segundo nível\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não basta \"a empresa é boa\". Pense no que o consenso espera e no que virá além — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Pense no segundo nível\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49446,9 +49495,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "O preço é a variável-chave",
         "text": "A qualidade do ativo importa menos que o preço pago por ele.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"O preço é a variável-chave\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: A qualidade do ativo importa menos que o preço pago por ele — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"O preço é a variável-chave\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"O preço é a variável-chave\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A qualidade do ativo importa menos que o preço pago por ele — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"O preço é a variável-chave\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49456,9 +49505,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Risco é perda permanente",
         "text": "Volatilidade assusta, mas a perda real é a que não se recupera.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Risco é perda permanente\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: Volatilidade assusta, mas a perda real é a que não se recupera — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Risco é perda permanente\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Risco é perda permanente\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Volatilidade assusta, mas a perda real é a que não se recupera — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Risco é perda permanente\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49466,9 +49515,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Respeite o ciclo",
         "text": "Saber onde o pêndulo está ajuda a ser cauteloso no topo e corajoso no fundo.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Respeite o ciclo\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: Saber onde o pêndulo está ajuda a ser cauteloso no topo e corajoso no fundo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Respeite o ciclo\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Respeite o ciclo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saber onde o pêndulo está ajuda a ser cauteloso no topo e corajoso no fundo — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Respeite o ciclo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49476,9 +49525,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque margem de segurança",
         "text": "Compre com folga entre preço e valor intrínseco para absorver erros.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Busque margem de segurança\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: Compre com folga entre preço e valor intrínseco para absorver erros — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque margem de segurança\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Busque margem de segurança\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Compre com folga entre preço e valor intrínseco para absorver erros — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Busque margem de segurança\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49486,9 +49535,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desconfie do consenso",
         "text": "O que todos sabem já está no preço; o lucro está na discordância certa.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Desconfie do consenso\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: O que todos sabem já está no preço; o lucro está na discordância certa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desconfie do consenso\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Desconfie do consenso\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O que todos sabem já está no preço; o lucro está na discordância certa — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Desconfie do consenso\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49496,9 +49545,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diferencie sorte de habilidade",
         "text": "Ciclos de alta mascaram incompetência; avalie resultados em crise.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Diferencie sorte de habilidade\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: Ciclos de alta mascaram incompetência; avalie resultados em crise — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diferencie sorte de habilidade\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Diferencie sorte de habilidade\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ciclos de alta mascaram incompetência; avalie resultados em crise — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Diferencie sorte de habilidade\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49506,9 +49555,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite previsões frágeis",
         "text": "Monte carteira para incerteza, não para o cenário que você acha certo.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Evite previsões frágeis\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: Monte carteira para incerteza, não para o cenário que você acha certo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite previsões frágeis\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Evite previsões frágeis\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Monte carteira para incerteza, não para o cenário que você acha certo — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Evite previsões frágeis\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49516,9 +49565,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tenha convicção para contrariar",
         "text": "Posições diferentes da manada exigem tese sólida e estômago.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Tenha convicção para contrariar\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: Posições diferentes da manada exigem tese sólida e estômago — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Tenha convicção para contrariar\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Tenha convicção para contrariar\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Posições diferentes da manada exigem tese sólida e estômago — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Tenha convicção para contrariar\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49526,9 +49575,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda a eficiência de mercado",
         "text": "O mercado tende ao justo, mas oscila entre o pânico e a euforia.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Entenda a eficiência de mercado\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: O mercado tende ao justo, mas oscila entre o pânico e a euforia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda a eficiência de mercado\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Entenda a eficiência de mercado\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O mercado tende ao justo, mas oscila entre o pânico e a euforia — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Entenda a eficiência de mercado\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49536,9 +49585,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "O risco é assimétrico",
         "text": "Risco alto oferece chance de ganho, não certeza; cobre o downside.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"O risco é assimétrico\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: Risco alto oferece chance de ganho, não certeza; cobre o downside — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"O risco é assimétrico\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"O risco é assimétrico\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Risco alto oferece chance de ganho, não certeza; cobre o downside — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"O risco é assimétrico\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49546,9 +49595,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive humildade",
         "text": "Até os melhores erran; a humildade mantém a margem e a atenção.",
         "explicacoes": [
-          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Cultive humildade\" como peça-chave para o investimento contrário e o ciclo de mercado.",
-          "Na prática: Até os melhores erran; a humildade mantém a margem e a atenção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive humildade\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks coloca \"Cultive humildade\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Até os melhores erran; a humildade mantém a margem e a atenção — traduzido para a prática, é o passo concreto que liga a teoria de Howard Marks ao comportamento diário.",
+          "Ignorar \"Cultive humildade\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -49884,6 +49933,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seguir gurus substitui estratégia",
         "text": "Dicas de celebridades não formam plano; disciplina e custo baixo sim.",
         "reflection": "Você terceiriza o pensamento em dicas?"
+      },
+      {
+        "type": "truth",
+        "title": "O amador perde; o paciente de índice vence",
+        "text": "Ellis alerta que custos e emoção devoram o investidor ativo no longo prazo.",
+        "reflection": "Você joga xadrez ou apenas paga para assistir?"
       }
     ],
     "summary": "Charles Ellis, consultor que aconselhou os maiores fundos de pensão do mundo, escreve \"Vencendo o Jogo dos Perdedores\" com uma tese provocadora: para o investidor individual, tentar bater o mercado é um jogo de perdedores. Por quê? Porque do outro lado da mesa estão profissionais dedicados em tempo integral, com recursos infinitos. Ellis argumenta que o mercado de capitais é eficiente o bastante para tornar a seleção de ações e o market timing quase inúteis para quem não é especialista. O caminho vencedor é o \"jogo dos vencedores\": diversificação ampla, custos baixos e disciplina de longo prazo. O livro destrói a ilusão de que o investidor médio pode ser o próximo Warren Buffett operando sozinho. Com linguagem direta, Ellis mostra como erosão por taxas, impostos e trades frequentes destrói retornos. A lição é libertadora: pare de lutar contra quem é melhor equipado; apegue-se a uma estratégia passiva e deixe o tempo trabalhar. É um clássico da humildade estratégica em investimentos.",
@@ -49904,27 +49959,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Quase ninguém consegue, com consistência, bater o índice após os custos.",
         "autor": "Charles D. Ellis",
         "obra": "Vencendo o Jogo dos Perdedores"
-      },
-      {
-        "texto": "A estratégia vencedora é a mais simples e a mais difícil de manter: ficar investido.",
-        "autor": "Charles D. Ellis",
-        "obra": "Vencendo o Jogo dos Perdedores"
-      },
-      {
-        "texto": "Custos são a única certeza em investimento; trate-os como inimigo.",
-        "autor": "Charles D. Ellis",
-        "obra": "Vencendo o Jogo dos Perdedores"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que finalmente me acalmou e me tirou da ilusão de bater o mercado todo ano.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Pequeno, direto e devastador para o ego do investidor ativo amador.",
-        "autor": "Crítico de Finanças",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -49941,9 +49986,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reconheça o jogo dos perdedores",
         "text": "Tentar superar o mercado sozinho é estatisticamente desfavorável. Aceite.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Reconheça o jogo dos perdedores\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Tentar superar o mercado sozinho é estatisticamente desfavorável. Aceite — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reconheça o jogo dos perdedores\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Reconheça o jogo dos perdedores\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tentar superar o mercado sozinho é estatisticamente desfavorável. Aceite — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Reconheça o jogo dos perdedores\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49951,9 +49996,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Prefira o jogo dos vencedores",
         "text": "Diversificação ampla, baixo custo e paciência vencem no longo prazo.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Prefira o jogo dos vencedores\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Diversificação ampla, baixo custo e paciência vencem no longo prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Prefira o jogo dos vencedores\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Prefira o jogo dos vencedores\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Diversificação ampla, baixo custo e paciência vencem no longo prazo — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Prefira o jogo dos vencedores\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49961,9 +50006,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Corte custos agressivamente",
         "text": "Cada ponto percentual de taxa é retorno seu perdido para sempre.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Corte custos agressivamente\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Cada ponto percentual de taxa é retorno seu perdido para sempre — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Corte custos agressivamente\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Corte custos agressivamente\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cada ponto percentual de taxa é retorno seu perdido para sempre — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Corte custos agressivamente\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49971,9 +50016,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fuja do market timing",
         "text": "Acertar entrada e saída repetidamente é quase impossível; não tente.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Fuja do market timing\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Acertar entrada e saída repetidamente é quase impossível; não tente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fuja do market timing\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Fuja do market timing\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acertar entrada e saída repetidamente é quase impossível; não tente — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Fuja do market timing\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49981,9 +50026,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diversifique de verdade",
         "text": "Espalhe risco para não depender do acaso de poucas posições.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Diversifique de verdade\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Espalhe risco para não depender do acaso de poucas posições — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diversifique de verdade\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Diversifique de verdade\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Espalhe risco para não depender do acaso de poucas posições — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Diversifique de verdade\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -49991,9 +50036,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use fundos indexados",
         "text": "O índice de baixo custo é a ferramenta racional do investidor comum.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Use fundos indexados\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: O índice de baixo custo é a ferramenta racional do investidor comum — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use fundos indexados\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Use fundos indexados\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O índice de baixo custo é a ferramenta racional do investidor comum — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Use fundos indexados\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50001,9 +50046,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza o giro",
         "text": "Menos trades significam menos imposto e menos erro emocional.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Reduza o giro\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Menos trades significam menos imposto e menos erro emocional — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza o giro\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Reduza o giro\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Menos trades significam menos imposto e menos erro emocional — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Reduza o giro\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50011,9 +50056,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pense como instituição",
         "text": "Os grandes fundos de pensão vencem por disciplina, não por palpite.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Pense como instituição\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Os grandes fundos de pensão vencem por disciplina, não por palpite — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pense como instituição\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Pense como instituição\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Os grandes fundos de pensão vencem por disciplina, não por palpite — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Pense como instituição\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50021,9 +50066,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tenha política, não palpites",
         "text": "Regras escritas de alocação evitam o erro comportamental.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Tenha política, não palpites\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Regras escritas de alocação evitam o erro comportamental — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Tenha política, não palpites\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Tenha política, não palpites\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Regras escritas de alocação evitam o erro comportamental — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Tenha política, não palpites\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50031,9 +50076,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ignore o ruído de curto prazo",
         "text": "Notícias diárias distraem; o plano de longo prazo é o que importa.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Ignore o ruído de curto prazo\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Notícias diárias distraem; o plano de longo prazo é o que importa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ignore o ruído de curto prazo\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Ignore o ruído de curto prazo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Notícias diárias distraem; o plano de longo prazo é o que importa — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Ignore o ruído de curto prazo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50041,9 +50086,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Rebalanceie com método",
         "text": "Volte à alocação alvo periodicamente; isso força comprar barato.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Rebalanceie com método\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Volte à alocação alvo periodicamente; isso força comprar barato — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Rebalanceie com método\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Rebalanceie com método\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Volte à alocação alvo periodicamente; isso força comprar barato — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Rebalanceie com método\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50051,9 +50096,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive humildade estratégica",
         "text": "Saber o que não se deve tentar é tão valioso quanto saber investir.",
         "explicacoes": [
-          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Cultive humildade estratégica\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
-          "Na prática: Saber o que não se deve tentar é tão valioso quanto saber investir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive humildade estratégica\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis coloca \"Cultive humildade estratégica\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saber o que não se deve tentar é tão valioso quanto saber investir — traduzido para a prática, é o passo concreto que liga a teoria de Charles D. Ellis ao comportamento diário.",
+          "Ignorar \"Cultive humildade estratégica\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -50389,6 +50434,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Qualquer setor serve",
         "text": "Buffett evita o que não entende; fora do círculo, não importa o preço.",
         "reflection": "Você compra fora do que domina?"
+      },
+      {
+        "type": "truth",
+        "title": "Buffett é paciência e círculo de competência",
+        "text": "Hagstrom sintetiza a filosofia de não operar fora do que se entende bem.",
+        "reflection": "Você opera fora do seu círculo por cobiça?"
       }
     ],
     "summary": "Robert Hagstrom, em \"O Método Buffett\", desmonta o mito de que Warren Buffett é apenas um \"oráculo\" intuitivo. O livro identifica os 12 princípios de negócio, os 9 princípios de seleção de ações e os 4 princípios de compra que estruturam a mente do maior investidor da história. A base teórica vem de Benjamin Graham (valor intrínseco, margem de segurança), Philip Fisher (conhecer profundamente a empresa), John Burr Williams (fluxo de caixa descontado) e a escola de Zurique (probabilidade). O gancho é que Buffett funde valor e qualidade: ele não compra empresas baratas qualqueris, compra negócios excelentes a preços razoáveis. Hagstrom detalha como o conglomerado Berkshire opera como uma máquina de retenção de capital e de alocação inteligente. O livro ensina a ler o \"ponto de vista do dono\" e a pensar em décadas, não em trimestres. É o guia definitivo para entender o racional por trás de cada aporte de Buffett, transformando intuição em método replicável.",
@@ -50409,27 +50460,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Conheça bem o seu círculo de competência e não saia dele.",
         "autor": "Warren Buffett (citado por Hagstrom)",
         "obra": "O Método Buffett"
-      },
-      {
-        "texto": "Margem de segurança é a diferença entre o que você paga e o que a empresa vale.",
-        "autor": "Robert G. Hagstrom",
-        "obra": "O Método Buffett"
-      },
-      {
-        "texto": "Pense como dono de um negócio, não como locatário de uma ação.",
-        "autor": "Robert G. Hagstrom",
-        "obra": "O Método Buffett"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Finalmente entendi o racional do Buffett em vez de só admirá-lo — leitura obrigatória.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "O melhor livro introdutório sobre filosofia de valor já escrito.",
-        "autor": "Crítico de Investimentos",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -50446,9 +50487,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Os 12 princípios de negócio",
         "text": "Empresas simples, consistentes, com vantagem e boa gestão são o alvo.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Os 12 princípios de negócio\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Empresas simples, consistentes, com vantagem e boa gestão são o alvo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Os 12 princípios de negócio\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Os 12 princípios de negócio\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Empresas simples, consistentes, com vantagem e boa gestão são o alvo — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Os 12 princípios de negócio\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50456,9 +50497,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Os 9 princípios de seleção",
         "text": "Indicadores como ROE estável e baixo endividamento filtram qualidade.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Os 9 princípios de seleção\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Indicadores como ROE estável e baixo endividamento filtram qualidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Os 9 princípios de seleção\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Os 9 princípios de seleção\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Indicadores como ROE estável e baixo endividamento filtram qualidade — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Os 9 princípios de seleção\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50466,9 +50507,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Os 4 princípios de compra",
         "text": "Preço abaixo do valor, margem de segurança e paciência definem a entrada.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Os 4 princípios de compra\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Preço abaixo do valor, margem de segurança e paciência definem a entrada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Os 4 princípios de compra\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Os 4 princípios de compra\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Preço abaixo do valor, margem de segurança e paciência definem a entrada — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Os 4 princípios de compra\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50476,9 +50517,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Herde a Graham",
         "text": "Valor intrínseco e margem de segurança são a fundação do método.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Herde a Graham\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Valor intrínseco e margem de segurança são a fundação do método — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Herde a Graham\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Herde a Graham\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Valor intrínseco e margem de segurança são a fundação do método — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Herde a Graham\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50486,9 +50527,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Some Fisher",
         "text": "Conhecer a empresa a fundo (produto, cultura, cliente) completa a tese.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Some Fisher\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Conhecer a empresa a fundo (produto, cultura, cliente) completa a tese — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Some Fisher\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Some Fisher\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conhecer a empresa a fundo (produto, cultura, cliente) completa a tese — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Some Fisher\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50496,9 +50537,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fluxo de caixa descontado",
         "text": "Calcule o valor presente dos fluxos futuros; é o que o negócio vale.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Fluxo de caixa descontado\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Calcule o valor presente dos fluxos futuros; é o que o negócio vale — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fluxo de caixa descontado\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Fluxo de caixa descontado\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Calcule o valor presente dos fluxos futuros; é o que o negócio vale — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Fluxo de caixa descontado\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50506,9 +50547,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Qualidade a preço justo",
         "text": "Prefira negócio excelente razoável a mediano muito barato.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Qualidade a preço justo\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Prefira negócio excelente razoável a mediano muito barato — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Qualidade a preço justo\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Qualidade a preço justo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Prefira negócio excelente razoável a mediano muito barato — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Qualidade a preço justo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50516,9 +50557,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ponto de vista do dono",
         "text": "Compre para segurar décadas; ignore a turbulência de curtíssimo prazo.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Ponto de vista do dono\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Compre para segurar décadas; ignore a turbulência de curtíssimo prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ponto de vista do dono\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Ponto de vista do dono\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Compre para segurar décadas; ignore a turbulência de curtíssimo prazo — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Ponto de vista do dono\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50526,9 +50567,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Círculo de competência",
         "text": "Invista apenas onde entende profundamente; fora dele, não importa o preço.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Círculo de competência\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Invista apenas onde entende profundamente; fora dele, não importa o preço — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Círculo de competência\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Círculo de competência\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Invista apenas onde entende profundamente; fora dele, não importa o preço — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Círculo de competência\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50536,9 +50577,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Concentre com convicção",
         "text": "Poucas posições bem conhecidas batem dispersão defensiva.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Concentre com convicção\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Poucas posições bem conhecidas batem dispersão defensiva — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Concentre com convicção\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Concentre com convicção\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Poucas posições bem conhecidas batem dispersão defensiva — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Concentre com convicção\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50546,9 +50587,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Berkshire como máquina",
         "text": "Retenção de lucro e alocação inteligente multiplicam o efeito composto.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Berkshire como máquina\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: Retenção de lucro e alocação inteligente multiplicam o efeito composto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Berkshire como máquina\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Berkshire como máquina\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Retenção de lucro e alocação inteligente multiplicam o efeito composto — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Berkshire como máquina\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50556,9 +50597,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Horizonte de décadas",
         "text": "O tempo amplia a vantagem do bom negócio comprado bem.",
         "explicacoes": [
-          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Horizonte de décadas\" como peça-chave para a filosofia de investimento de Warren Buffett.",
-          "Na prática: O tempo amplia a vantagem do bom negócio comprado bem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Horizonte de décadas\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom coloca \"Horizonte de décadas\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O tempo amplia a vantagem do bom negócio comprado bem — traduzido para a prática, é o passo concreto que liga a teoria de Robert G. Hagstrom ao comportamento diário.",
+          "Ignorar \"Horizonte de décadas\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -50894,6 +50935,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fundos ativos sempre superam",
         "text": "Após custos, a maioria perde; a fórmula barata costuma vencer.",
         "reflection": "Você paga taxa sem comparar resultado?"
+      },
+      {
+        "type": "truth",
+        "title": "Qualidade a preço baixo supera o índice",
+        "text": "Greenblatt combina retorno sobre capital e lucro com baixo múltiplo em fórmula simples.",
+        "reflection": "Você compra empresa ou apenas ticker?"
       }
     ],
     "summary": "Joel Greenblatt, professor de Columbia e gestor de fundos, escreve \"O Pequeno Livro que Ainda Vence o Mercado\" para provar que um investidor leigo pode superar os profissionais com um método simples e mecânico. Sua invenção é a \"Fórmula Mágica\": ranquear empresas pela combinação de alto retorno sobre o capital investido (ROIC) e alto rendimento dos lucros (Earnings Yield). Comprar as melhores do ranking e segurar por alguns anos, ignorando o barulho, gera resultados que batem o índice. O gancho é a desconcerto: não é preciso ser gênio nem dedicar a vida ao mercado. A Fórmula Mágica funciona justamente porque é contraintuitiva e chata — ela compra o que está fora de moda e vende o que ficou caro. Greenblatt explica por que o mercado eficiente falha em curto prazo e por que a disciplina de rebalancear anualmente entrega a vantagem. Um clássico de investimento quantitativo acessível, que transforma análise fundamental em algoritmo que qualquer um pode rodar.",
@@ -50914,27 +50961,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O mercado é eficiente só a longo prazo; no meio disso há oportunidade.",
         "autor": "Joel Greenblatt",
         "obra": "O Pequeno Livro que Ainda Vence o Mercado"
-      },
-      {
-        "texto": "Você não precisa ser um gênio para vencer, precisa de disciplina.",
-        "autor": "Joel Greenblatt",
-        "obra": "O Pequeno Livro que Ainda Vence o Mercado"
-      },
-      {
-        "texto": "Rebalancear uma vez por ano força você a comprar o que caiu e vender o que subiu.",
-        "autor": "Joel Greenblatt",
-        "obra": "O Pequeno Livro que Ainda Vence o Mercado"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Li em uma tarde e comecei a aplicar no dia seguinte — simples e honesto.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "A prova de que investimento quantitativo não precisa ser complicado.",
-        "autor": "Crítico Financeiro",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -50951,9 +50988,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A Fórmula Mágica",
         "text": "Ranqueie empresas por ROIC e Earnings Yield altos; compre as melhores.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"A Fórmula Mágica\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: Ranqueie empresas por ROIC e Earnings Yield altos; compre as melhores — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"A Fórmula Mágica\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"A Fórmula Mágica\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ranqueie empresas por ROIC e Earnings Yield altos; compre as melhores — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"A Fórmula Mágica\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50961,9 +50998,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use ROIC como qualidade",
         "text": "Retorno sobre capital investido mede como a empresa usa o dinheiro.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Use ROIC como qualidade\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: Retorno sobre capital investido mede como a empresa usa o dinheiro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use ROIC como qualidade\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Use ROIC como qualidade\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Retorno sobre capital investido mede como a empresa usa o dinheiro — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Use ROIC como qualidade\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50971,9 +51008,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use Earnings Yield como preço",
         "text": "Lucro sobre preço indica o que está barato no momento.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Use Earnings Yield como preço\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: Lucro sobre preço indica o que está barato no momento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use Earnings Yield como preço\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Use Earnings Yield como preço\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Lucro sobre preço indica o que está barato no momento — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Use Earnings Yield como preço\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50981,9 +51018,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Compre o ranking alto",
         "text": "As primeiras colocadas unem qualidade e preço favorável.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Compre o ranking alto\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: As primeiras colocadas unem qualidade e preço favorável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Compre o ranking alto\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Compre o ranking alto\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "As primeiras colocadas unem qualidade e preço favorável — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Compre o ranking alto\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -50991,9 +51028,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Segure por alguns anos",
         "text": "O efeito completo da fórmula exige horizonte de 3 a 5 anos.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Segure por alguns anos\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: O efeito completo da fórmula exige horizonte de 3 a 5 anos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Segure por alguns anos\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Segure por alguns anos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O efeito completo da fórmula exige horizonte de 3 a 5 anos — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Segure por alguns anos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51001,9 +51038,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Rebalanceie anualmente",
         "text": "Uma vez por ano, recomponha o ranking e ajuste a carteira.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Rebalanceie anualmente\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: Uma vez por ano, recomponha o ranking e ajuste a carteira — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Rebalanceie anualmente\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Rebalanceie anualmente\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma vez por ano, recomponha o ranking e ajuste a carteira — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Rebalanceie anualmente\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51011,9 +51048,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ignore o ruído diário",
         "text": "Cotações diárias atrapalham; foque no método e no prazo.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Ignore o ruído diário\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: Cotações diárias atrapalham; foque no método e no prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ignore o ruído diário\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Ignore o ruído diário\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cotações diárias atrapalham; foque no método e no prazo — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Ignore o ruído diário\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51021,9 +51058,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Carteira de 20 a 30 nomes",
         "text": "Tamanho suficiente para diluir azar sem diluir a convicção.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Carteira de 20 a 30 nomes\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: Tamanho suficiente para diluir azar sem diluir a convicção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Carteira de 20 a 30 nomes\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Carteira de 20 a 30 nomes\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tamanho suficiente para diluir azar sem diluir a convicção — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Carteira de 20 a 30 nomes\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51031,9 +51068,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o tédio",
         "text": "A fórmula é chata por design; o tédio é o que a protege do erro.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Aceite o tédio\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: A fórmula é chata por design; o tédio é o que a protege do erro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o tédio\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Aceite o tédio\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A fórmula é chata por design; o tédio é o que a protege do erro — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Aceite o tédio\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51041,9 +51078,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "O mercado erra no curto prazo",
         "text": "Ineficiências existem e a disciplina as captura no longo prazo.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"O mercado erra no curto prazo\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: Ineficiências existem e a disciplina as captura no longo prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"O mercado erra no curto prazo\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"O mercado erra no curto prazo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ineficiências existem e a disciplina as captura no longo prazo — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"O mercado erra no curto prazo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51051,9 +51088,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Custo baixo conta",
         "text": "A fórmula dispensa consultoria cara; menor custo, melhor líquido.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Custo baixo conta\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: A fórmula dispensa consultoria cara; menor custo, melhor líquido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Custo baixo conta\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Custo baixo conta\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A fórmula dispensa consultoria cara; menor custo, melhor líquido — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Custo baixo conta\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51061,9 +51098,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Siga a regra, não o humor",
         "text": "Emoção é o inimigo; a máquina da fórmula é o aliado.",
         "explicacoes": [
-          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Siga a regra, não o humor\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
-          "Na prática: Emoção é o inimigo; a máquina da fórmula é o aliado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Siga a regra, não o humor\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt coloca \"Siga a regra, não o humor\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Emoção é o inimigo; a máquina da fórmula é o aliado — traduzido para a prática, é o passo concreto que liga a teoria de Joel Greenblatt ao comportamento diário.",
+          "Ignorar \"Siga a regra, não o humor\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -51399,6 +51436,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Follow-the-guru basta",
         "text": "Copiar sinais alheios sem entender o risco é receita de perda.",
         "reflection": "Você copia sem compreender o risco?"
+      },
+      {
+        "type": "truth",
+        "title": "Todos os grandes traders têm método e risco",
+        "text": "Schwager mostra que hábito e gestão de risco unificam perfis opostos de sucesso.",
+        "reflection": "Você tem regra de saída ou só esperança?"
       }
     ],
     "summary": "Jack Schwager, em \"Feiticeiros do Mercado\", fez algo inédito: entrevistou pessoalmente os maiores traders do mundo — de Paul Tudor Jones a Bruce Kovner, de Ed Seykota a Marty Schwartz — e compilou o que os separa dos amadores. A revelação chocante é que não há um método único: cada \"feiticeiro\" opera com estilo, prazo e filosofia próprios. O que eles têm em comum é a gestão de risco obsessiva, a capacidade de cortar perdas rápido e deixar os acertos correr, e uma compreensão profunda de si mesmos. Schwager desmente a imagem do trader que sempre acerta; muitos têm taxa de acerto baixa e ainda assim lucram por operar com risco-controlado e assumir posições grandes quando certos. O livro é uma antologia de psicologia, processo e humildade diante dos mercados. O gancho: não existe sistema mágico, existe disciplina, autoconhecimento e edge repetível. Leitura obrigatória para quem acha que trading é prever o futuro.",
@@ -51419,27 +51462,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Os melhores traders têm uma relação íntima com o risco, não com a previsão.",
         "autor": "Jack D. Schwager",
         "obra": "Feiticeiros do Mercado"
-      },
-      {
-        "texto": "Uma taxa de acerto baixa não impede o lucro se o risco estiver sob controle.",
-        "autor": "Jack D. Schwager",
-        "obra": "Feiticeiros do Mercado"
-      },
-      {
-        "texto": "O mercado sempre dará um jeito de humilhar quem perde a humildade.",
-        "autor": "Jack D. Schwager",
-        "obra": "Feiticeiros do Mercado"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que me fez perceber que psicologia vale mais que indicador.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Entrevistas lendárias que humanizam o trader de elite sem perder a técnica.",
-        "autor": "Crítico de Trading",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -51456,9 +51489,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conheça os grandes",
         "text": "As entrevistas revelam que método importa menos que processo e risco.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Conheça os grandes\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: As entrevistas revelam que método importa menos que processo e risco — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conheça os grandes\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Conheça os grandes\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "As entrevistas revelam que método importa menos que processo e risco — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Conheça os grandes\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51466,9 +51499,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Corte perdas rápido",
         "text": "A regra número um dos feiticeiros é sair do erro sem drama.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Corte perdas rápido\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: A regra número um dos feiticeiros é sair do erro sem drama — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Corte perdas rápido\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Corte perdas rápido\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A regra número um dos feiticeiros é sair do erro sem drama — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Corte perdas rápido\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51476,9 +51509,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Deixe os lucros correrem",
         "text": "Não trave o ganhador cedo; o tamanho da vitória sustenta a curva.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Deixe os lucros correrem\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Não trave o ganhador cedo; o tamanho da vitória sustenta a curva — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Deixe os lucros correrem\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Deixe os lucros correrem\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não trave o ganhador cedo; o tamanho da vitória sustenta a curva — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Deixe os lucros correrem\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51486,9 +51519,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Taxa de acerto não é tudo",
         "text": "Acertar pouco com risco controlado ainda gera lucro líquido.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Taxa de acerto não é tudo\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Acertar pouco com risco controlado ainda gera lucro líquido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Taxa de acerto não é tudo\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Taxa de acerto não é tudo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acertar pouco com risco controlado ainda gera lucro líquido — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Taxa de acerto não é tudo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51496,9 +51529,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina risco por trade",
         "text": "Só aumente posição quando o risco máximo estiver claro.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Defina risco por trade\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Só aumente posição quando o risco máximo estiver claro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina risco por trade\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Defina risco por trade\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Só aumente posição quando o risco máximo estiver claro — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Defina risco por trade\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51506,9 +51539,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conheça seu temperamento",
         "text": "Opere dentro do seu perfil emocional; fora dele, o erro cresce.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Conheça seu temperamento\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Opere dentro do seu perfil emocional; fora dele, o erro cresce — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conheça seu temperamento\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Conheça seu temperamento\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Opere dentro do seu perfil emocional; fora dele, o erro cresce — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Conheça seu temperamento\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51516,9 +51549,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desconfie de sistemas mágicos",
         "text": "Promessas de robô infalível são venda, não estratégia.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Desconfie de sistemas mágicos\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Promessas de robô infalível são venda, não estratégia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desconfie de sistemas mágicos\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Desconfie de sistemas mágicos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Promessas de robô infalível são venda, não estratégia — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Desconfie de sistemas mágicos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51526,9 +51559,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Menos trades, melhor",
         "text": "Qualidade de setup supera quantidade de operações.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Menos trades, melhor\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Qualidade de setup supera quantidade de operações — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Menos trades, melhor\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Menos trades, melhor\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Qualidade de setup supera quantidade de operações — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Menos trades, melhor\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51536,9 +51569,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Edge repetível vence",
         "text": "Pequena vantagem executada sistematicamente bate o gênio ocasional.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Edge repetível vence\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Pequena vantagem executada sistematicamente bate o gênio ocasional — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Edge repetível vence\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Edge repetível vence\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequena vantagem executada sistematicamente bate o gênio ocasional — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Edge repetível vence\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51546,9 +51579,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Psicologia é o diferencial",
         "text": "Medo e ganância derrubam planos; dominá-los é a verdadeira borda.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Psicologia é o diferencial\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Medo e ganância derrubam planos; dominá-los é a verdadeira borda — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Psicologia é o diferencial\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Psicologia é o diferencial\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Medo e ganância derrubam planos; dominá-los é a verdadeira borda — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Psicologia é o diferencial\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51556,9 +51589,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use parada rígida",
         "text": "Stop definido antes de entrar protege da negação em tempo real.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Use parada rígida\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Stop definido antes de entrar protege da negação em tempo real — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use parada rígida\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Use parada rígida\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Stop definido antes de entrar protege da negação em tempo real — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Use parada rígida\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -51566,9 +51599,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Humildade diante do mercado",
         "text": "Os melhores sabem que o mercado sempre pode surpreender.",
         "explicacoes": [
-          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Humildade diante do mercado\" como peça-chave para as conversas com os grandes traders do mundo.",
-          "Na prática: Os melhores sabem que o mercado sempre pode surpreender — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Humildade diante do mercado\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager coloca \"Humildade diante do mercado\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Os melhores sabem que o mercado sempre pode surpreender — traduzido para a prática, é o passo concreto que liga a teoria de Jack D. Schwager ao comportamento diário.",
+          "Ignorar \"Humildade diante do mercado\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
