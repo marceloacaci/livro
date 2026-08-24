@@ -15316,5 +15316,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Responde."
       }
     ]
+  },
+  {
+    "id": "burchard",
+    "slug": "habitos-de-alta-performance",
+    "title": "High Performance Habits",
+    "titlePt": "Hábitos de Alta Performance",
+    "author": "Brendon Burchard",
+    "year": "2017",
+    "editionYear": "2018",
+    "publisher": "Hay House / Sextante",
+    "pages": "416",
+    "genre": "Hábitos / Performance",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/burchard-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Clareza direciona",
+        "text": "Saber alvo sustenta foco.",
+        "reflection": "Você tem clareza?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento basta",
+        "text": "Hábitos mantêm alto nível.",
+        "reflection": "Você confia em dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Energia é base",
+        "text": "Sem energia, foco cai.",
+        "reflection": "Você cuida da energia?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais horas",
+        "text": "Qualidade de estado vence.",
+        "reflection": "Você só aumenta horas?"
+      },
+      {
+        "type": "truth",
+        "title": "Necessidade serve",
+        "text": "Importar-se move.",
+        "reflection": "Você se importa de verdade?"
+      },
+      {
+        "type": "myth",
+        "title": "Sucesso é solo",
+        "text": "Relação eleva desempenho.",
+        "reflection": "Você isola?"
+      }
+    ],
+    "summary": "Brendon Burchard identifica seis hábitos de quem sustenta alta performance: clareza, energia, necessidade, produtividade, influência e coragem.",
+    "color": "#2980b9",
+    "file": "livro.html#habitos-de-alta-performance",
+    "citacoes": [
+      {
+        "texto": "A clareza vem antes da confiança.",
+        "autor": "Brendon Burchard",
+        "obra": "High Performance Habits"
+      },
+      {
+        "texto": "Alta performance é hábito, não sorte.",
+        "autor": "Brendon Burchard",
+        "obra": "High Performance Habits"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Estudo de hábitos de alto desempenho.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Clareza",
+        "text": "Defina alvo e porquê.",
+        "explicacoes": [
+          "Foco nasce.",
+          "Decisão clara.",
+          "Direção fixa."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Energia",
+        "text": "Sonos, movimento, pausa.",
+        "explicacoes": [
+          "Base sustenta.",
+          "Estado sobe.",
+          "Foco dura."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Coragem",
+        "text": "Aja apesar do medo.",
+        "explicacoes": [
+          "Medo paralisa.",
+          "Agir libera.",
+          "Cresce."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Clareza",
+        "texto": "Direciona."
+      },
+      {
+        "titulo": "Energia",
+        "texto": "Base."
+      },
+      {
+        "titulo": "Coragem",
+        "texto": "Age."
+      }
+    ]
+  },
+  {
+    "id": "eger",
+    "slug": "o-prisioneiro-feliz",
+    "title": "The Choice",
+    "titlePt": "O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade",
+    "author": "Edith Eger",
+    "year": "2017",
+    "editionYear": "2018",
+    "publisher": "Scribner / Sextante",
+    "pages": "320",
+    "genre": "Resiliência / Propósito",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/eger-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Escolha é livre",
+        "text": "Mesmo sob cárcere, escolhemos postura.",
+        "reflection": "Você culpa a circunstância?"
+      },
+      {
+        "type": "myth",
+        "title": "Vítima é fixa",
+        "text": "Papel de vítima pode sair.",
+        "reflection": "Você se acomoda?"
+      },
+      {
+        "type": "truth",
+        "title": "Perdoar liberta",
+        "text": "Soltar trauma cura.",
+        "reflection": "Você carrega ressentimento?"
+      },
+      {
+        "type": "myth",
+        "title": "Esquecer cura",
+        "text": "Integrar, não apagar.",
+        "reflection": "Você reprime?"
+      },
+      {
+        "type": "truth",
+        "title": "Corpo guarda",
+        "text": "Trauma no corpo pede atenção.",
+        "reflection": "Seu corpo fala?"
+      },
+      {
+        "type": "myth",
+        "title": "Forte é durão",
+        "text": "Sentir é fortaleza.",
+        "reflection": "Você se fecha?"
+      }
+    ],
+    "summary": "Edith Eger, sobrevivente de Auschwitz e psicóloga, une sua história à clínica para mostrar que a liberdade final é a escolha de como responder.",
+    "color": "#8e44ad",
+    "file": "livro.html#o-prisioneiro-feliz",
+    "citacoes": [
+      {
+        "texto": "O último passe livre é a escolha de como responder.",
+        "autor": "Edith Eger",
+        "obra": "The Choice"
+      },
+      {
+        "texto": "O que não podemos controlar, podemos escolher como viver.",
+        "autor": "Edith Eger",
+        "obra": "The Choice"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Paralelo feminino a Frankl.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Escolha resposta",
+        "text": "Mesmo sob dor, decidir postura.",
+        "explicacoes": [
+          "Liberdade interna.",
+          "Não é conformismo.",
+          "Dignidade."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Saia de vítima",
+        "text": "Papel é escolha.",
+        "explicacoes": [
+          "Poder devolve.",
+          "Ação muda.",
+          "Ciclo quebra."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Integre trauma",
+        "text": "Sentir para curar.",
+        "explicacoes": [
+          "Corpo solta.",
+          "Apoio ajuda.",
+          "Vida segue."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Escolha",
+        "texto": "Livre."
+      },
+      {
+        "titulo": "Vítima",
+        "texto": "Sair."
+      },
+      {
+        "titulo": "Integrar",
+        "texto": "Cura."
+      }
+    ]
+  },
+  {
+    "id": "mischel",
+    "slug": "o-teste-do-marshmallow",
+    "title": "The Marshmallow Test",
+    "titlePt": "O Teste do Marshmallow: Domar o Impulso para o Auto-controle",
+    "author": "Walter Mischel",
+    "year": "2014",
+    "editionYear": "2015",
+    "publisher": "Little, Brown / Objetiva",
+    "pages": "320",
+    "genre": "Hábitos / Autocontrole",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/mischel-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Autocontrole é aprendido",
+        "text": "Estratégias cognitivas ajudam.",
+        "reflection": "Você treina esperar?"
+      },
+      {
+        "type": "myth",
+        "title": "É traço fixo",
+        "text": "Muda com técnica.",
+        "reflection": "Você acha sem jeito?"
+      },
+      {
+        "type": "truth",
+        "title": "Distrair ajuda",
+        "text": "Desviar atenção do tentador.",
+        "reflection": "Você foca no objeto?"
+      },
+      {
+        "type": "myth",
+        "title": "Força de vontade",
+        "text": "Estratégia ganha da força.",
+        "reflection": "Você só resiste?"
+      },
+      {
+        "type": "truth",
+        "title": "Ambiente facilita",
+        "text": "Tirar da vista ajuda.",
+        "reflection": "Seu ambiente tenta?"
+      },
+      {
+        "type": "myth",
+        "title": "Criança só",
+        "text": "Adulto também treina.",
+        "reflection": "Você desculpa idade?"
+      }
+    ],
+    "summary": "Walter Mischel explica o famoso teste do marshmallow e como estratégias de autocontrole (distração, reenquadramento) podem ser ensinadas.",
+    "color": "#27ae60",
+    "file": "livro.html#o-teste-do-marshmallow",
+    "citacoes": [
+      {
+        "texto": "Autocontrole é uma habilidade que pode ser ensinada.",
+        "autor": "Walter Mischel",
+        "obra": "The Marshmallow Test"
+      },
+      {
+        "texto": "Estratégia vence o impulso.",
+        "autor": "Walter Mischel",
+        "obra": "The Marshmallow Test"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Clássico da psicologia do autocontrole.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Estratégia não força",
+        "text": "Distraia o impulso.",
+        "explicacoes": [
+          "Foco longe.",
+          "Tentação cai.",
+          "Espera dá."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Reenquadre",
+        "text": "Mude o que o objeto é.",
+        "explicacoes": [
+          "Imagem ajuda.",
+          "Distância mental.",
+          "Controle sobe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Ambiente",
+        "text": "Tire do alcance.",
+        "explicacoes": [
+          "Vista menos.",
+          "Facilita.",
+          "Hábito ajuda."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Estratégia",
+        "texto": "Não força."
+      },
+      {
+        "titulo": "Distrair",
+        "texto": "Ajuda."
+      },
+      {
+        "titulo": "Ambiente",
+        "texto": "Facilita."
+      }
+    ]
+  },
+  {
+    "id": "norcross",
+    "slug": "changeology",
+    "title": "Changeology",
+    "titlePt": "Changeology: 5 Passos para Mudar Qualquer Comportamento",
+    "author": "John C. Norcross",
+    "year": "2012",
+    "editionYear": "2013",
+    "publisher": "Simon & Schuster / Sextante",
+    "pages": "288",
+    "genre": "Hábitos / Mudança",
+    "language": "Inglês",
+    "copiesSold": "Mais de 300 mil",
+    "cover": "img/norcross-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mudança tem fases",
+        "text": "Estágios previsíveis ajudam.",
+        "reflection": "Em que fase você está?"
+      },
+      {
+        "type": "myth",
+        "title": "Vontade única",
+        "text": "Estágio pede tática.",
+        "reflection": "Você usa uma tática só?"
+      },
+      {
+        "type": "truth",
+        "title": "Preparar importa",
+        "text": "Antes de agir, preparar.",
+        "reflection": "Você pula etapas?"
+      },
+      {
+        "type": "myth",
+        "title": "Fracasso é fim",
+        "text": "Recaída é dado.",
+        "reflection": "Você desiste na queda?"
+      },
+      {
+        "type": "truth",
+        "title": "Apoio ajuda",
+        "text": "Rede sustenta mudança.",
+        "reflection": "Você tem quem apoia?"
+      },
+      {
+        "type": "myth",
+        "title": "Rápido resolve",
+        "text": "Tempo consolida.",
+        "reflection": "Você quer tudo já?"
+      }
+    ],
+    "summary": "John Norcross sintetiza décadas de pesquisa em 5 estágios práticos para mudar qualquer comportamento, com foco em preparação e prevenção de recaída.",
+    "color": "#d35400",
+    "file": "livro.html#changeology",
+    "citacoes": [
+      {
+        "texto": "Mudança é um processo de estágios, não um evento.",
+        "autor": "John Norcross",
+        "obra": "Changeology"
+      },
+      {
+        "texto": "Recaída é parte, não fracasso.",
+        "autor": "John Norcross",
+        "obra": "Changeology"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pesquisa de mudança de comportamento.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Saiba o estágio",
+        "text": "Pré-contemplação a manutenção.",
+        "explicacoes": [
+          "Tática certa.",
+          "Esforço útil.",
+          "Rumo claro."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Prepare",
+        "text": "Antes de agir, planeje.",
+        "explicacoes": [
+          "Base forte.",
+          "Resistência cai.",
+          "Começo firme."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Evite recaída",
+        "text": "Plano de quando cair.",
+        "explicacoes": [
+          "Dado não fim.",
+          "Volta rápida.",
+          "Consolida."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Estágios",
+        "texto": "Processo."
+      },
+      {
+        "titulo": "Preparar",
+        "texto": "Base."
+      },
+      {
+        "titulo": "Recaída",
+        "texto": "Dado."
+      }
+    ]
+  },
+  {
+    "id": "mcgonigal",
+    "slug": "o-instinto-da-forca-de-vontade",
+    "title": "The Willpower Instinct",
+    "titlePt": "O Instinto da Força de Vontade",
+    "author": "Kelly McGonigal",
+    "year": "2011",
+    "editionYear": "2013",
+    "publisher": "Avery / Sextante",
+    "pages": "272",
+    "genre": "Hábitos / Autocontrole",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/mcgonigal-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Força é física",
+        "text": "Cérebro e corpo regulam.",
+        "reflection": "Você cuida do corpo?"
+      },
+      {
+        "type": "myth",
+        "title": "Só disciplina",
+        "text": "Biologia importa.",
+        "reflection": "Você culpa fraqueza?"
+      },
+      {
+        "type": "truth",
+        "title": "Respira ajuda",
+        "text": "Pausa ativa controle.",
+        "reflection": "Você respira antes?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais regra",
+        "text": "Autocompaixão funciona.",
+        "reflection": "Você se cobra demais?"
+      },
+      {
+        "type": "truth",
+        "title": "Dormir sustenta",
+        "text": "Privação derruba.",
+        "reflection": "Você dorme bem?"
+      },
+      {
+        "type": "myth",
+        "title": "Vontade infinita",
+        "text": "Cansa e recarrega.",
+        "reflection": "Você cobra sempre?"
+      }
+    ],
+    "summary": "Kelly McGonigal traduz ciência da força de vontade em práticas: reconhecer o impulso, respirar, dormir e tratar-se com gentileza para sustentar mudança.",
+    "color": "#16a085",
+    "file": "livro.html#o-instinto-da-forca-de-vontade",
+    "citacoes": [
+      {
+        "texto": "A força de vontade é como um músculo que se cansa e se treina.",
+        "autor": "Kelly McGonigal",
+        "obra": "The Willpower Instinct"
+      },
+      {
+        "texto": "Autocompaixão sustenta mudança melhor que autocrítica.",
+        "autor": "Kelly McGonigal",
+        "obra": "The Willpower Instinct"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Curso de Yale popularizado.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Note o impulso",
+        "text": "Reconhecer antes de agir.",
+        "explicacoes": [
+          "Pausa nasce.",
+          "Escolha aparece.",
+          "Controle sobe."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Respire",
+        "text": "Pausa de 1 minuto.",
+        "explicacoes": [
+          "Corpo acalma.",
+          "Mente clara.",
+          "Decisão melhora."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Gentileza",
+        "text": "Trate-se bem na queda.",
+        "explicacoes": [
+          "Volta rápida.",
+          "Culpa paralisa.",
+          "Hábito dura."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Notar",
+        "texto": "Pausa."
+      },
+      {
+        "titulo": "Respirar",
+        "texto": "Acalma."
+      },
+      {
+        "titulo": "Gentileza",
+        "texto": "Sustenta."
+      }
+    ]
+  },
+  {
+    "id": "coelho",
+    "slug": "o-alquimista",
+    "title": "The Alchemist",
+    "titlePt": "O Alquimista",
+    "author": "Paulo Coelho",
+    "year": "1988",
+    "editionYear": "2014",
+    "publisher": "HarperOne / Paralela",
+    "pages": "208",
+    "genre": "Ficção / Propósito",
+    "language": "Português",
+    "copiesSold": "Mais de 65 milhões",
+    "cover": "img/coelho-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Siga a lenda",
+        "text": "Propósito pessoal guia.",
+        "reflection": "Você segue seu sinal?"
+      },
+      {
+        "type": "myth",
+        "title": "Segurança é caminho",
+        "text": "Conforto esconde destino.",
+        "reflection": "Você escolhe seguro?"
+      },
+      {
+        "type": "truth",
+        "title": "Universo ajuda",
+        "text": "Quem busca encontra apoio.",
+        "reflection": "Você confia no rumo?"
+      },
+      {
+        "type": "myth",
+        "title": "Destino alheio",
+        "text": "Sua lenda é sua.",
+        "reflection": "Você copia roteiro?"
+      },
+      {
+        "type": "truth",
+        "title": "Mestre está no caminho",
+        "text": "Lições aparecem andando.",
+        "reflection": "Você aprende no erro?"
+      },
+      {
+        "type": "myth",
+        "title": "Chegar é fim",
+        "text": "Caminhar é a riqueza.",
+        "reflection": "Você só mira o fim?"
+      }
+    ],
+    "summary": "Paulo Coelho conta a jornada de Santiago em busca de um tesouro, parábola sobre seguir a própria lenda pessoal e encontrar o tesouro dentro de si.",
+    "color": "#c0392b",
+    "file": "livro.html#o-alquimista",
+    "citacoes": [
+      {
+        "texto": "Quando você quer muito uma coisa, todo o universo conspira para que você realize.",
+        "autor": "Paulo Coelho",
+        "obra": "O Alquimista"
+      },
+      {
+        "texto": "É a lenda pessoal que te faz seguir em frente.",
+        "autor": "Paulo Coelho",
+        "obra": "O Alquimista"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Um dos livros mais traduzidos da história.",
+        "autor": "Editora",
+        "fonte": "Dados de vendas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Siga a lenda",
+        "text": "Propósito que é seu.",
+        "explicacoes": [
+          "Direção própria.",
+          "Sentido move.",
+          "Caminho clara."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Aprenda no erro",
+        "text": "Cair ensina o caminho.",
+        "explicacoes": [
+          "Mestre no meio.",
+          "Sinal lê.",
+          "Cresce."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Confie",
+        "text": "Universo conspira.",
+        "explicacoes": [
+          "Apoio aparece.",
+          "Medo cede.",
+          "Passo dá."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Lenda",
+        "texto": "Sua."
+      },
+      {
+        "titulo": "Caminho",
+        "texto": "Ensina."
+      },
+      {
+        "titulo": "Confiar",
+        "texto": "Ajuda."
+      }
+    ]
+  },
+  {
+    "id": "ruiz",
+    "slug": "as-quatro-verdades",
+    "title": "The Four Agreements",
+    "titlePt": "As Quatro Verdades: Um Livro de Sabedoria Tolteca",
+    "author": "Don Miguel Ruiz",
+    "year": "1997",
+    "editionYear": "2005",
+    "publisher": "Amber-Allen / Sextante",
+    "pages": "160",
+    "genre": "Sabedoria / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 10 milhões",
+    "cover": "img/ruiz-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Palavra impecável",
+        "text": "Dizer a verdade sem julgar.",
+        "reflection": "Sua fala fere?"
+      },
+      {
+        "type": "myth",
+        "title": "Fofoca é inocente",
+        "text": "Palavra cria realidade.",
+        "reflection": "Você dissemina?"
+      },
+      {
+        "type": "truth",
+        "title": "Não leve pessoal",
+        "text": "Ação alheia é deles.",
+        "reflection": "Você se ofende?"
+      },
+      {
+        "type": "myth",
+        "title": "Ofensa é sobre mim",
+        "text": "Espelho do outro.",
+        "reflection": "Você absorve?"
+      },
+      {
+        "type": "truth",
+        "title": "Não presuma",
+        "text": "Dúvida gera conflito.",
+        "reflection": "Você presume?"
+      },
+      {
+        "type": "myth",
+        "title": "Fazer o máximo",
+        "text": "Esforço honesto basta.",
+        "reflection": "Você se cobra perfeito?"
+      }
+    ],
+    "summary": "Don Miguel Ruiz apresenta quatro acordos toltecas para libertar a mente do sofrimento autogerado: palavra impecável, não levar pessoal, não presumir, fazer o máximo.",
+    "color": "#2980b9",
+    "file": "livro.html#as-quatro-verdades",
+    "citacoes": [
+      {
+        "texto": "Seja impecável com a sua palavra.",
+        "autor": "Don Miguel Ruiz",
+        "obra": "The Four Agreements"
+      },
+      {
+        "texto": "Nada do que os outros fazem é por causa de você.",
+        "autor": "Don Miguel Ruiz",
+        "obra": "The Four Agreements"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Clássico de sabedoria prática.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Palavra impecável",
+        "text": "Verdade sem veneno.",
+        "explicacoes": [
+          "Fala cura.",
+          "Realidade certa.",
+          "Paz sobe."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Não pessoal",
+        "text": "Outro é outro.",
+        "explicacoes": [
+          "Ofensa solta.",
+          "Paz cresce.",
+          "Liberdade dá."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Não presuma",
+        "text": "Pergunte, não ache.",
+        "explicacoes": [
+          "Conflito cai.",
+          "Clareza vem.",
+          "Relação melhora."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Palavra",
+        "texto": "Impecável."
+      },
+      {
+        "titulo": "Pessoal",
+        "texto": "Não levar."
+      },
+      {
+        "titulo": "Presumir",
+        "texto": "Não."
+      }
+    ]
+  },
+  {
+    "id": "chopra",
+    "slug": "as-7-leis-espirituais-do-sucesso",
+    "title": "The Seven Spiritual Laws of Success",
+    "titlePt": "As 7 Leis Espirituais do Sucesso",
+    "author": "Deepak Chopra",
+    "year": "1994",
+    "editionYear": "2008",
+    "publisher": "New World Library / BestSeller",
+    "pages": "144",
+    "genre": "Propósito / Mente",
+    "language": "Inglês",
+    "copiesSold": "Mais de 5 milhões",
+    "cover": "img/chopra-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Potencial puro",
+        "text": "Possibilidade antecede ação.",
+        "reflection": "Você limita o possível?"
+      },
+      {
+        "type": "myth",
+        "title": "Esforço só garante",
+        "text": "Intenção e dar sincronizam.",
+        "reflection": "Você só força?"
+      },
+      {
+        "type": "truth",
+        "title": "Dar circula",
+        "text": "Generosidade retorna.",
+        "reflection": "Você retém?"
+      },
+      {
+        "type": "myth",
+        "title": "Ter é meta",
+        "text": "Ser precede ter.",
+        "reflection": "Você busca posse?"
+      },
+      {
+        "type": "truth",
+        "title": "Agora é poder",
+        "text": "Presente cria.",
+        "reflection": "Você vive no tempo?"
+      },
+      {
+        "type": "myth",
+        "title": "Acaso existe",
+        "text": "Sincronicidade tem sentido.",
+        "reflection": "Você ignora sinais?"
+      }
+    ],
+    "summary": "Deepak Chopra propõe sete leis espirituais — potencial puro, dar, carma, menor esforço, intenção, presente e propósito — como base de um sucesso pleno.",
+    "color": "#8e44ad",
+    "file": "livro.html#as-7-leis-espirituais-do-sucesso",
+    "citacoes": [
+      {
+        "texto": "O sucesso é a realização progressiva de um desejo digno.",
+        "autor": "Deepak Chopra",
+        "obra": "The Seven Spiritual Laws of Success"
+      },
+      {
+        "texto": "A lei do dar: o universo opera pela troca.",
+        "autor": "Deepak Chopra",
+        "obra": "The Seven Spiritual Laws of Success"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Leitura de sucesso holístico.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Lei do dar",
+        "text": "Ofereça sem esperar.",
+        "explicacoes": [
+          "Circulo volta.",
+          "Abundância cresce.",
+          "Conexão sobe."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Menor esforço",
+        "text": "Fluir em vez de lutar.",
+        "explicacoes": [
+          "Natureza ajuda.",
+          "Sincronia aparece.",
+          "Resultado vem."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Intenção",
+        "text": "Clareza do que quer.",
+        "explicacoes": [
+          "Foco atrai.",
+          "Ação segue.",
+          "Caminho abre."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Dar",
+        "texto": "Circula."
+      },
+      {
+        "titulo": "Fluir",
+        "texto": "Menos esforço."
+      },
+      {
+        "titulo": "Intenção",
+        "texto": "Atrai."
+      }
+    ]
   }
 ];
