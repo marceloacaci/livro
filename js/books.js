@@ -727,6 +727,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pequeno hoje vence grande amanhã",
         "text": "Consistência mínima supera intenção máxima abandonada.",
         "reflection": "Você prefere o pequeno diário ou o grande que não veio?"
+      },
+      {
+        "type": "myth",
+        "title": "Apenas saber o que fazer basta",
+        "text": "Conhecimento isolado raramente vira comportamento; o pequeno ato repetido e celebrado e que muda.",
+        "reflection": "Voce ja soube o que fazer e nao fez? O que faltou alem da informacao?"
       }
     ],
     "stepLabels": {
