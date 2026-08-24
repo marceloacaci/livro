@@ -26979,57 +26979,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Lidere por influência",
-        "text": "Construa autoridade real, não só o título."
+        "text": "Construa autoridade real, não só o título.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Lidere por influência\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Construa autoridade real, não só o título — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Lidere por influência\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Desenvolva-se diariamente",
-        "text": "Liderança é processo, não evento."
+        "text": "Liderança é processo, não evento.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Desenvolva-se diariamente\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Liderança é processo, não evento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desenvolva-se diariamente\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Elevo o teto do time",
-        "text": "Cresça para que a equipe possa crescer."
+        "text": "Cresça para que a equipe possa crescer.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Elevo o teto do time\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Cresça para que a equipe possa crescer — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Elevo o teto do time\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Conecte-se primeiro",
-        "text": "Toque as pessoas antes de liderá-las."
+        "text": "Toque as pessoas antes de liderá-las.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Conecte-se primeiro\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Toque as pessoas antes de liderá-las — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conecte-se primeiro\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Construa confiança",
-        "text": "Pequenas interações diárias cimentam lealdade."
+        "text": "Pequenas interações diárias cimentam lealdade.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Construa confiança\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Pequenas interações diárias cimentam lealdade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa confiança\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Mantenha caráter",
-        "text": "Integridade é o piso da liderança."
+        "text": "Integridade é o piso da liderança.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Mantenha caráter\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Integridade é o piso da liderança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha caráter\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Sirva, não só comande",
-        "text": "Liderança de serviço atrai seguidores."
+        "text": "Liderança de serviço atrai seguidores.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Sirva, não só comande\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Liderança de serviço atrai seguidores — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sirva, não só comande\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Forme outros líderes",
-        "text": "Seu legado é quem você desenvolve."
+        "text": "Seu legado é quem você desenvolve.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Forme outros líderes\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Seu legado é quem você desenvolve — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Forme outros líderes\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Monte círculo íntimo",
-        "text": "Cerque-se de conselheiros de confiança."
+        "text": "Cerque-se de conselheiros de confiança.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Monte círculo íntimo\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Cerque-se de conselheiros de confiança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Monte círculo íntimo\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Some valor às pessoas",
-        "text": "Foque em elevar quem está ao redor."
+        "text": "Foque em elevar quem está ao redor.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Some valor às pessoas\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Foque em elevar quem está ao redor — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Some valor às pessoas\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Leia a intuição",
-        "text": "Desenvolva leitura de contexto além dos dados."
+        "text": "Desenvolva leitura de contexto além dos dados.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Leia a intuição\" como peça-chave para a liderança como influência e serviço aos outros.",
+          "Na prática: Desenvolva leitura de contexto além dos dados — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Leia a intuição\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -27051,64 +27106,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Lei do Tampo",
         "text": "O time não supera a capacidade do líder.",
         "points": [
-          "Teto.",
-          "Limite."
+          {
+            "t": "Teto.",
+            "e": "O time não supera a capacidade do líder.",
+            "f": "A Lei do Tampo: a equipe só chega onde o líder a leva.",
+            "real": true
+          },
+          {
+            "t": "Limite.",
+            "e": "O time não supera a capacidade do líder.",
+            "f": "Na visão de John C. Maxwell, \"limite.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Lei da Influência",
         "text": "Cargo é a menor forma de liderança.",
         "points": [
-          "Influência.",
-          "Cargo."
+          {
+            "t": "Influência.",
+            "e": "Cargo é a menor forma de liderança.",
+            "f": "A verdadeira essência da liderança é a influência, nada mais.",
+            "real": true
+          },
+          {
+            "t": "Cargo.",
+            "e": "Cargo é a menor forma de liderança.",
+            "f": "Se as pessoas não o seguem, você não é um líder; apenas ocupa um cargo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Lei do Processo",
         "text": "Liderança se desenvolve diariamente.",
         "points": [
-          "Processo.",
-          "Crescimento."
+          {
+            "t": "Processo.",
+            "e": "Liderança se desenvolve diariamente.",
+            "f": "Na visão de John C. Maxwell, \"processo.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Crescimento.",
+            "e": "Liderança se desenvolve diariamente.",
+            "f": "Na visão de John C. Maxwell, \"crescimento.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Lei do Navio",
         "text": "Na crise, todos sabem quem manda.",
         "points": [
-          "Crise.",
-          "Capitão."
+          {
+            "t": "Crise.",
+            "e": "Na crise, todos sabem quem manda.",
+            "f": "Na visão de John C. Maxwell, \"crise.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Capitão.",
+            "e": "Na crise, todos sabem quem manda.",
+            "f": "Na visão de John C. Maxwell, \"capitão.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A Lei da Conexão",
         "text": "Só lidera quem tocou a pessoa.",
         "points": [
-          "Conexão.",
-          "Laço."
+          {
+            "t": "Conexão.",
+            "e": "Só lidera quem tocou a pessoa.",
+            "f": "Na visão de John C. Maxwell, \"conexão.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Laço.",
+            "e": "Só lidera quem tocou a pessoa.",
+            "f": "Na visão de John C. Maxwell, \"laço.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — A Lei do Cimento",
         "text": "Confiança se constrói em pequenas interações.",
         "points": [
-          "Confiança.",
-          "Pequenos."
+          {
+            "t": "Confiança.",
+            "e": "Confiança se constrói em pequenas interações.",
+            "f": "Na visão de John C. Maxwell, \"confiança.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Pequenos.",
+            "e": "Confiança se constrói em pequenas interações.",
+            "f": "Na visão de John C. Maxwell, \"pequenos.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A Lei do Legado",
         "text": "Líder é julgado por quem desenvolve.",
         "points": [
-          "Legado.",
-          "Formação."
+          {
+            "t": "Legado.",
+            "e": "Líder é julgado por quem desenvolve.",
+            "f": "Na visão de John C. Maxwell, \"legado.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Formação.",
+            "e": "Líder é julgado por quem desenvolve.",
+            "f": "Na visão de John C. Maxwell, \"formação.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A Lei da Adição",
         "text": "Líderes somam valor às pessoas ao redor.",
         "points": [
-          "Valor.",
-          "Soma."
+          {
+            "t": "Valor.",
+            "e": "Líderes somam valor às pessoas ao redor.",
+            "f": "Na visão de John C. Maxwell, \"valor.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          },
+          {
+            "t": "Soma.",
+            "e": "Líderes somam valor às pessoas ao redor.",
+            "f": "Na visão de John C. Maxwell, \"soma.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -27272,62 +27407,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Diagnostique seu tempo",
-        "text": "Registre onde o tempo vai por semanas. A percepção raramente bate com a realidade. Elimine, reduza e consolide o que for desperdício."
+        "text": "Registre onde o tempo vai por semanas. A percepção raramente bate com a realidade. Elimine, reduza e consolide o que for desperdício.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Diagnostique seu tempo\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Registre onde o tempo vai por semanas. A percepção raramente bate com a realidade. Elimine, reduza e consolide o que for desperdício — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diagnostique seu tempo\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Pergunte pela contribuição",
-        "text": "Em vez de \"o que devo fazer\", pergunte \"que contribuição esta função exige\". Isso alinha esforço e resultado."
+        "text": "Em vez de \"o que devo fazer\", pergunte \"que contribuição esta função exige\". Isso alinha esforço e resultado.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Pergunte pela contribuição\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Em vez de \"o que devo fazer\", pergunte \"que contribuição esta função exige\". Isso alinha esforço e resultado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pergunte pela contribuição\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Identifique suas forças",
-        "text": "A eficácia vem de operar nas próprias forças. Mapeie o que você faz bem e delegue ou evite o resto."
+        "text": "A eficácia vem de operar nas próprias forças. Mapeie o que você faz bem e delegue ou evite o resto.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Identifique suas forças\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: A eficácia vem de operar nas próprias forças. Mapeie o que você faz bem e delegue ou evite o resto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Identifique suas forças\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Concentre-se, não espalhe",
-        "text": "Defina as poucas prioridades que importam. Fazer muitas coisas medianamente é pior que poucas coisas bem."
+        "text": "Defina as poucas prioridades que importam. Fazer muitas coisas medianamente é pior que poucas coisas bem.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Concentre-se, não espalhe\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Defina as poucas prioridades que importam. Fazer muitas coisas medianamente é pior que poucas coisas bem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Concentre-se, não espalhe\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Decida poucas vezes, bem",
-        "text": "Boas decisões são raras e demoram. Não transforme cada detalhe em decisão executiva."
+        "text": "Boas decisões são raras e demoram. Não transforme cada detalhe em decisão executiva.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Decida poucas vezes, bem\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Boas decisões são raras e demoram. Não transforme cada detalhe em decisão executiva — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Decida poucas vezes, bem\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Busque a divergência",
-        "text": "Antes de fechar uma decisão, ouça quem discorda. O consenso prévio costuma esconder riscos."
+        "text": "Antes de fechar uma decisão, ouça quem discorda. O consenso prévio costuma esconder riscos.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Busque a divergência\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Antes de fechar uma decisão, ouça quem discorda. O consenso prévio costuma esconder riscos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque a divergência\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Aprenda a dizer não",
-        "text": "Dizer não ao menor protege o sim ao maior. O executivo eficaz protege seu tempo."
+        "text": "Dizer não ao menor protege o sim ao maior. O executivo eficaz protege seu tempo.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Aprenda a dizer não\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Dizer não ao menor protege o sim ao maior. O executivo eficaz protege seu tempo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aprenda a dizer não\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Traduza seu conhecimento",
-        "text": "Especialistas precisam comunicar em termos de quem decide. Saber e não ser ouvido é inútil."
+        "text": "Especialistas precisam comunicar em termos de quem decide. Saber e não ser ouvido é inútil.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Traduza seu conhecimento\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Especialistas precisam comunicar em termos de quem decide. Saber e não ser ouvido é inútil — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Traduza seu conhecimento\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Reúna para decidir, não para aparecer",
-        "text": "Reuniões devem terminar com responsável e prazo. Caso contrário, foram roubo de tempo."
+        "text": "Reuniões devem terminar com responsável e prazo. Caso contrário, foram roubo de tempo.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Reúna para decidir, não para aparecer\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Reuniões devem terminar com responsável e prazo. Caso contrário, foram roubo de tempo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reúna para decidir, não para aparecer\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Use as forças alheias",
-        "text": "Posicione cada colaborador na função de sua força. Isso vale mais que treinar fraquezas."
+        "text": "Posicione cada colaborador na função de sua força. Isso vale mais que treinar fraquezas.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Use as forças alheias\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Posicione cada colaborador na função de sua força. Isso vale mais que treinar fraquezas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use as forças alheias\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Prepare-se, não profetize",
-        "text": "Planejamento serve para estar pronto para o inesperado, não para adivinhar o futuro."
+        "text": "Planejamento serve para estar pronto para o inesperado, não para adivinhar o futuro.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Prepare-se, não profetize\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Planejamento serve para estar pronto para o inesperado, não para adivinhar o futuro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Prepare-se, não profetize\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Pratique a autogestão",
-        "text": "Eficácia é, antes de tudo, governar a si mesmo: tempo, foco e decisões."
+        "text": "Eficácia é, antes de tudo, governar a si mesmo: tempo, foco e decisões.",
+        "explicacoes": [
+          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Pratique a autogestão\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
+          "Na prática: Eficácia é, antes de tudo, governar a si mesmo: tempo, foco e decisões — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a autogestão\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -27349,81 +27544,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Eficácia pode ser aprendida",
         "text": "Drucker abre desmistificando a ideia de que líderes nascem prontos. Eficácia é prática, não talento.",
         "points": [
-          "Eficácia vs. eficiência",
-          "O executivo como tomador de decisões",
-          "A aprendizagem da eficácia"
+          {
+            "t": "Eficácia vs. eficiência",
+            "e": "Drucker abre desmistificando a ideia de que líderes nascem prontos. Eficácia é prática, não talento.",
+            "f": "A eficácia é uma disciplina que se aprende.",
+            "real": true
+          },
+          {
+            "t": "O executivo como tomador de decisões",
+            "e": "Drucker abre desmistificando a ideia de que líderes nascem prontos. Eficácia é prática, não talento.",
+            "f": "Não há nada tão inútil como fazer eficientemente aquilo que não deveria ser feito de forma alguma.",
+            "real": true
+          },
+          {
+            "t": "A aprendizagem da eficácia",
+            "e": "Drucker abre desmistificando a ideia de que líderes nascem prontos. Eficácia é prática, não talento.",
+            "f": "A eficácia tem pouco a ver com inteligência e tudo a ver com escolhas.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Conheça seu tempo",
         "text": "O primeiro passo é descobrir onde o tempo vai e eliminar o desperdício sistêmico.",
         "points": [
-          "Registro de tempo",
-          "Eliminação de desperdícios",
-          "Consolidação de blocos"
+          {
+            "t": "Registro de tempo",
+            "e": "O primeiro passo é descobrir onde o tempo vai e eliminar o desperdício sistêmico.",
+            "f": "O tempo é o recurso mais escasso e, portanto, o recurso básico da execução.",
+            "real": true
+          },
+          {
+            "t": "Eliminação de desperdícios",
+            "e": "O primeiro passo é descobrir onde o tempo vai e eliminar o desperdício sistêmico.",
+            "f": "Na visão de Peter F. Drucker, \"eliminação de desperdícios\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "Consolidação de blocos",
+            "e": "O primeiro passo é descobrir onde o tempo vai e eliminar o desperdício sistêmico.",
+            "f": "Na visão de Peter F. Drucker, \"consolidação de blocos\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O que posso contribuir?",
         "text": "A pergunta sobre contribuição troca a lógica do ocupado pela lógica do útil.",
         "points": [
-          "Da tarefa à contribuição",
-          "Relacionamentos para desempenho",
-          "Reuniões com propósito"
+          {
+            "t": "Da tarefa à contribuição",
+            "e": "A pergunta sobre contribuição troca a lógica do ocupado pela lógica do útil.",
+            "f": "Na visão de Peter F. Drucker, \"da tarefa à contribuição\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "Relacionamentos para desempenho",
+            "e": "A pergunta sobre contribuição troca a lógica do ocupado pela lógica do útil.",
+            "f": "Na visão de Peter F. Drucker, \"relacionamentos para desempenho\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "Reuniões com propósito",
+            "e": "A pergunta sobre contribuição troca a lógica do ocupado pela lógica do útil.",
+            "f": "Na visão de Peter F. Drucker, \"reuniões com propósito\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Construa sobre as forças",
         "text": "Foque nas forças próprias e alheias; tentar consertar fraquezas rende pouco.",
         "points": [
-          "Forças pessoais",
-          "Forças da equipe",
-          "O mito das fraquezas"
+          {
+            "t": "Forças pessoais",
+            "e": "Foque nas forças próprias e alheias; tentar consertar fraquezas rende pouco.",
+            "f": "Na visão de Peter F. Drucker, \"forças pessoais\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "Forças da equipe",
+            "e": "Foque nas forças próprias e alheias; tentar consertar fraquezas rende pouco.",
+            "f": "Na visão de Peter F. Drucker, \"forças da equipe\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "O mito das fraquezas",
+            "e": "Foque nas forças próprias e alheias; tentar consertar fraquezas rende pouco.",
+            "f": "Na visão de Peter F. Drucker, \"o mito das fraquezas\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — As áreas de excelência",
         "text": "Defina onde ser forte faz diferença e delegue o resto com responsabilidade clara.",
         "points": [
-          "Prioridades",
-          "Concentração",
-          "Responsabilização"
+          {
+            "t": "Prioridades",
+            "e": "Defina onde ser forte faz diferença e delegue o resto com responsabilidade clara.",
+            "f": "Na visão de Peter F. Drucker, \"prioridades\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "Concentração",
+            "e": "Defina onde ser forte faz diferença e delegue o resto com responsabilidade clara.",
+            "f": "Na visão de Peter F. Drucker, \"concentração\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "Responsabilização",
+            "e": "Defina onde ser forte faz diferença e delegue o resto com responsabilidade clara.",
+            "f": "Na visão de Peter F. Drucker, \"responsabilização\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — As primeiras regras da decisão",
         "text": "Decisões certas são poucas, demoram e precisam de critérios antes de opções.",
         "points": [
-          "Classificar ou resolver",
-          "Princípios vs. casos",
-          "Ação e comunicação"
+          {
+            "t": "Classificar ou resolver",
+            "e": "Decisões certas são poucas, demoram e precisam de critérios antes de opções.",
+            "f": "Na visão de Peter F. Drucker, \"classificar ou resolver\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "Princípios vs. casos",
+            "e": "Decisões certas são poucas, demoram e precisam de critérios antes de opções.",
+            "f": "Na visão de Peter F. Drucker, \"princípios vs. casos\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "Ação e comunicação",
+            "e": "Decisões certas são poucas, demoram e precisam de critérios antes de opções.",
+            "f": "Na visão de Peter F. Drucker, \"ação e comunicação\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Como tomar decisões eficazes",
         "text": "Divergência precede consenso; opiniões contrárias fortalecem a escolha.",
         "points": [
-          "Divergência",
-          "Riscos da decisão",
-          "Comunicação da decisão"
+          {
+            "t": "Divergência",
+            "e": "Divergência precede consenso; opiniões contrárias fortalecem a escolha.",
+            "f": "Não há nada tão inútil como fazer eficientemente aquilo que não deveria ser feito de forma alguma.",
+            "real": true
+          },
+          {
+            "t": "Riscos da decisão",
+            "e": "Divergência precede consenso; opiniões contrárias fortalecem a escolha.",
+            "f": "Na visão de Peter F. Drucker, \"riscos da decisão\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          },
+          {
+            "t": "Comunicação da decisão",
+            "e": "Divergência precede consenso; opiniões contrárias fortalecem a escolha.",
+            "f": "Na visão de Peter F. Drucker, \"comunicação da decisão\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Conclusão: a eficácia e a sociedade do conhecimento",
         "text": "Em uma economia do conhecimento, a autogestão do executivo é responsabilidade cívica.",
         "points": [
-          "Trabalhadores do conhecimento",
-          "Autogestão",
-          "Responsabilidade social"
+          {
+            "t": "Trabalhadores do conhecimento",
+            "e": "Em uma economia do conhecimento, a autogestão do executivo é responsabilidade cívica.",
+            "f": "A eficácia é uma disciplina que se aprende.",
+            "real": true
+          },
+          {
+            "t": "Autogestão",
+            "e": "Em uma economia do conhecimento, a autogestão do executivo é responsabilidade cívica.",
+            "f": "A eficácia tem pouco a ver com inteligência e tudo a ver com escolhas.",
+            "real": true
+          },
+          {
+            "t": "Responsabilidade social",
+            "e": "Em uma economia do conhecimento, a autogestão do executivo é responsabilidade cívica.",
+            "f": "Na visão de Peter F. Drucker, \"responsabilidade social\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Eficácia para todos",
         "text": "A eficácia não é só de CEOs: qualquer um cujas decisões afetam outros a pratica.",
         "points": [
-          "Executivo definido por impacto",
-          "Aplicação pessoal",
-          "Melhoria contínua"
+          {
+            "t": "Executivo definido por impacto",
+            "e": "A eficácia não é só de CEOs: qualquer um cujas decisões afetam outros a pratica.",
+            "f": "A eficácia é uma disciplina que se aprende.",
+            "real": true
+          },
+          {
+            "t": "Aplicação pessoal",
+            "e": "A eficácia não é só de CEOs: qualquer um cujas decisões afetam outros a pratica.",
+            "f": "A eficácia tem pouco a ver com inteligência e tudo a ver com escolhas.",
+            "real": true
+          },
+          {
+            "t": "Melhoria contínua",
+            "e": "A eficácia não é só de CEOs: qualquer um cujas decisões afetam outros a pratica.",
+            "f": "Na visão de Peter F. Drucker, \"melhoria contínua\" é parte essencial da proposta de \"O Executivo Eficaz\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -27587,62 +27917,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Faça páginas matinais",
-        "text": "Escreva três páginas à mão, sem censura, logo ao acordar. É descarga mental, não literatura."
+        "text": "Escreva três páginas à mão, sem censura, logo ao acordar. É descarga mental, não literatura.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Faça páginas matinais\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: Escreva três páginas à mão, sem censura, logo ao acordar. É descarga mental, não literatura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça páginas matinais\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Agende o encontro com o artista",
-        "text": "Reserve uma saída semanal só de prazer, sozinho, para reabastecer a criatividade."
+        "text": "Reserve uma saída semanal só de prazer, sozinho, para reabastecer a criatividade.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Agende o encontro com o artista\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: Reserve uma saída semanal só de prazer, sozinho, para reabastecer a criatividade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Agende o encontro com o artista\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Cale a voz crítica",
-        "text": "Durante o processo, a crítica atrapalha. Avalie só depois, se for o caso."
+        "text": "Durante o processo, a crítica atrapalha. Avalie só depois, se for o caso.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Cale a voz crítica\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: Durante o processo, a crítica atrapalha. Avalie só depois, se for o caso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cale a voz crítica\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Trate a arte como espiritualidade",
-        "text": "Criar pode ser uma forma de oração ou conexão; honre esse aspecto."
+        "text": "Criar pode ser uma forma de oração ou conexão; honre esse aspecto.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Trate a arte como espiritualidade\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: Criar pode ser uma forma de oração ou conexão; honre esse aspecto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trate a arte como espiritualidade\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Recupere a criança interior",
-        "text": "A espontaneidade infantil é a fonte da criação; cultive-a de novo."
+        "text": "A espontaneidade infantil é a fonte da criação; cultive-a de novo.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Recupere a criança interior\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: A espontaneidade infantil é a fonte da criação; cultive-a de novo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Recupere a criança interior\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Valorize o processo",
-        "text": "O caminho importa mais que o produto perfeito. Aproveite fazer."
+        "text": "O caminho importa mais que o produto perfeito. Aproveite fazer.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Valorize o processo\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: O caminho importa mais que o produto perfeito. Aproveite fazer — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize o processo\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Brinque sem culpa",
-        "text": "Vagar e brincar não são preguiça; são combustível para criar."
+        "text": "Vagar e brincar não são preguiça; são combustível para criar.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Brinque sem culpa\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: Vagar e brincar não são preguiça; são combustível para criar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Brinque sem culpa\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Use aforismos",
-        "text": "Cameron sugere frases curtas de ancoragem para dias difíceis; crie as suas."
+        "text": "Cameron sugere frases curtas de ancoragem para dias difíceis; crie as suas.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Use aforismos\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: Cameron sugere frases curtas de ancoragem para dias difíceis; crie as suas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use aforismos\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Identifique seus venenos",
-        "text": "Liste o que drena sua criatividade (pessoas, mídia, perfeccionismo) e corte."
+        "text": "Liste o que drena sua criatividade (pessoas, mídia, perfeccionismo) e corte.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Identifique seus venenos\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: Liste o que drena sua criatividade (pessoas, mídia, perfeccionismo) e corte — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Identifique seus venenos\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Pratique a gratidão criativa",
-        "text": "Agradecer pelo que já criou abre espaço para criar mais."
+        "text": "Agradecer pelo que já criou abre espaço para criar mais.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Pratique a gratidão criativa\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: Agradecer pelo que já criou abre espaço para criar mais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a gratidão criativa\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Siga o curso em 12 semanas",
-        "text": "A estrutura semanal combina leitura e exercício; não pule etapas."
+        "text": "A estrutura semanal combina leitura e exercício; não pule etapas.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Siga o curso em 12 semanas\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: A estrutura semanal combina leitura e exercício; não pule etapas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Siga o curso em 12 semanas\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Permita-se ser amador",
-        "text": "Começar feio é normal. O \"amador\" é quem ainda se permite tentar."
+        "text": "Começar feio é normal. O \"amador\" é quem ainda se permite tentar.",
+        "explicacoes": [
+          "Em \"O Caminho do Artista\", Julia Cameron trata \"Permita-se ser amador\" como peça-chave para a criatividade como prática espiritual e artística.",
+          "Na prática: Começar feio é normal. O \"amador\" é quem ainda se permite tentar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Permita-se ser amador\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -27664,81 +28054,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A criatividade como espiritualidade",
         "text": "Cameron reframeia a arte como conexão espiritual e não como talento raro.",
         "points": [
-          "Criatividade e alma",
-          "O bloqueio como medo",
-          "Caminho de recuperação"
+          {
+            "t": "Criatividade e alma",
+            "e": "Cameron reframeia a arte como conexão espiritual e não como talento raro.",
+            "f": "A criatividade é a maneira pela qual a alma se revela.",
+            "real": true
+          },
+          {
+            "t": "O bloqueio como medo",
+            "e": "Cameron reframeia a arte como conexão espiritual e não como talento raro.",
+            "f": "Faça suas páginas matinais como quem toma café da manhã: toda manhã.",
+            "real": true
+          },
+          {
+            "t": "Caminho de recuperação",
+            "e": "Cameron reframeia a arte como conexão espiritual e não como talento raro.",
+            "f": "A criatividade não é um talento. É uma maneira de viver.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A recuperação do artista",
         "text": "Apresenta a ideia de que o artista adormecido pode ser reativado.",
         "points": [
-          "A criança interior",
-          "Camadas de cinismo",
-          "O processo de cura"
+          {
+            "t": "A criança interior",
+            "e": "Apresenta a ideia de que o artista adormecido pode ser reativado.",
+            "f": "Na visão de Julia Cameron, \"a criança interior\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Camadas de cinismo",
+            "e": "Apresenta a ideia de que o artista adormecido pode ser reativado.",
+            "f": "Na visão de Julia Cameron, \"camadas de cinismo\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "O processo de cura",
+            "e": "Apresenta a ideia de que o artista adormecido pode ser reativado.",
+            "f": "Na visão de Julia Cameron, \"o processo de cura\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — As páginas matinais",
         "text": "A ferramenta central: três páginas livres escritas à mão toda manhã.",
         "points": [
-          "Como fazer",
-          "Por que à mão",
-          "O que não é"
+          {
+            "t": "Como fazer",
+            "e": "A ferramenta central: três páginas livres escritas à mão toda manhã.",
+            "f": "Faça suas páginas matinais como quem toma café da manhã: toda manhã.",
+            "real": true
+          },
+          {
+            "t": "Por que à mão",
+            "e": "A ferramenta central: três páginas livres escritas à mão toda manhã.",
+            "f": "Na visão de Julia Cameron, \"por que à mão\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "O que não é",
+            "e": "A ferramenta central: três páginas livres escritas à mão toda manhã.",
+            "f": "Na visão de Julia Cameron, \"o que não é\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O encontro com o artista",
         "text": "O compromisso semanal de lazer como reabastecimento criativo.",
         "points": [
-          "Saída solo",
-          "Prazer sem meta",
-          "Combate ao esgotamento"
+          {
+            "t": "Saída solo",
+            "e": "O compromisso semanal de lazer como reabastecimento criativo.",
+            "f": "Na visão de Julia Cameron, \"saída solo\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Prazer sem meta",
+            "e": "O compromisso semanal de lazer como reabastecimento criativo.",
+            "f": "Na visão de Julia Cameron, \"prazer sem meta\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Combate ao esgotamento",
+            "e": "O compromisso semanal de lazer como reabastecimento criativo.",
+            "f": "Na visão de Julia Cameron, \"combate ao esgotamento\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A voz crítica",
         "text": "Como identificar e silenciar o crítico interno que sabota.",
         "points": [
-          "Conhecer o crítico",
-          "Estratégias de silêncio",
-          "Criar vs. julgar"
+          {
+            "t": "Conhecer o crítico",
+            "e": "Como identificar e silenciar o crítico interno que sabota.",
+            "f": "Na visão de Julia Cameron, \"conhecer o crítico\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Estratégias de silêncio",
+            "e": "Como identificar e silenciar o crítico interno que sabota.",
+            "f": "Na visão de Julia Cameron, \"estratégias de silêncio\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Criar vs. julgar",
+            "e": "Como identificar e silenciar o crítico interno que sabota.",
+            "f": "Na visão de Julia Cameron, \"criar vs. julgar\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Ressentimento e rivalidade",
         "text": "Aponta como o comparecer com outros bloqueia a própria criação.",
         "points": [
-          "Ressentimento",
-          "Comparação",
-          "Caminho próprio"
+          {
+            "t": "Ressentimento",
+            "e": "Aponta como o comparecer com outros bloqueia a própria criação.",
+            "f": "Na visão de Julia Cameron, \"ressentimento\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Comparação",
+            "e": "Aponta como o comparecer com outros bloqueia a própria criação.",
+            "f": "Na visão de Julia Cameron, \"comparação\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Caminho próprio",
+            "e": "Aponta como o comparecer com outros bloqueia a própria criação.",
+            "f": "Na visão de Julia Cameron, \"caminho próprio\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A ambiguidade e o caos",
         "text": "A criatividade exige tolerar incerteza antes da forma aparecer.",
         "points": [
-          "Caos inicial",
-          "Confiança no processo",
-          "Paciência"
+          {
+            "t": "Caos inicial",
+            "e": "A criatividade exige tolerar incerteza antes da forma aparecer.",
+            "f": "Na visão de Julia Cameron, \"caos inicial\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Confiança no processo",
+            "e": "A criatividade exige tolerar incerteza antes da forma aparecer.",
+            "f": "Na visão de Julia Cameron, \"confiança no processo\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Paciência",
+            "e": "A criatividade exige tolerar incerteza antes da forma aparecer.",
+            "f": "Na visão de Julia Cameron, \"paciência\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A força da ação pequena",
         "text": "Exercícios humildes vencem a resistência melhor que planos grandiosos.",
         "points": [
-          "Passos diários",
-          "Constância",
-          "Vencer a paralisia"
+          {
+            "t": "Passos diários",
+            "e": "Exercícios humildes vencem a resistência melhor que planos grandiosos.",
+            "f": "Na visão de Julia Cameron, \"passos diários\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Constância",
+            "e": "Exercícios humildes vencem a resistência melhor que planos grandiosos.",
+            "f": "Na visão de Julia Cameron, \"constância\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Vencer a paralisia",
+            "e": "Exercícios humildes vencem a resistência melhor que planos grandiosos.",
+            "f": "Na visão de Julia Cameron, \"vencer a paralisia\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Recuperação contínua",
         "text": "O curso termina, mas a prática das ferramentas segue para a vida.",
         "points": [
-          "Manutenção",
-          "Gratidão",
-          "Vida criativa"
+          {
+            "t": "Manutenção",
+            "e": "O curso termina, mas a prática das ferramentas segue para a vida.",
+            "f": "Na visão de Julia Cameron, \"manutenção\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Gratidão",
+            "e": "O curso termina, mas a prática das ferramentas segue para a vida.",
+            "f": "Na visão de Julia Cameron, \"gratidão\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          },
+          {
+            "t": "Vida criativa",
+            "e": "O curso termina, mas a prática das ferramentas segue para a vida.",
+            "f": "Na visão de Julia Cameron, \"vida criativa\" é parte essencial da proposta de \"O Caminho do Artista\".",
+            "real": false
+          }
         ]
       }
     ]
