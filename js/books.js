@@ -11188,5 +11188,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Mente clara."
       }
     ]
+  },
+  {
+    "id": "gerber",
+    "slug": "o-mito-do-empreendedorismo",
+    "title": "The E-Myth Revisited",
+    "titlePt": "O Mito do Empreendedorismo",
+    "author": "Michael E. Gerber",
+    "year": "1986",
+    "editionYear": "2004",
+    "publisher": "HarperCollins / Campus",
+    "pages": "288",
+    "genre": "Negócios / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/gerber-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Técnico não é dono",
+        "text": "Fazer o trabalho difere de gerir negócio.",
+        "reflection": "Você trabalha ou dirige?"
+      },
+      {
+        "type": "myth",
+        "title": "Boa ideia basta",
+        "text": "Sistema, não ideia, sustenta empresa.",
+        "reflection": "Sua operação roda só?"
+      },
+      {
+        "type": "truth",
+        "title": "Trabalhe no negócio",
+        "text": "Construa processo que escala sem você.",
+        "reflection": "O negócio depende de você?"
+      },
+      {
+        "type": "myth",
+        "title": "Crescer é só vender mais",
+        "text": "Falta de sistema trava crescimento.",
+        "reflection": "Sua operação aguenta mais?"
+      },
+      {
+        "type": "truth",
+        "title": "Franquia de si",
+        "text": "Padronize como franquia.",
+        "reflection": "Seu negócio é replicável?"
+      },
+      {
+        "type": "myth",
+        "title": "Empreender é liberdade",
+        "text": "Sem sistema, vira escravo do próprio negócio.",
+        "reflection": "Você é dono ou refém?"
+      }
+    ],
+    "summary": "Michael Gerber explica por que a maioria das pequenas empresas fracassa e como construir um negócio que funciona por sistema, não por esforço do dono.",
+    "color": "#2980b9",
+    "file": "livro.html#o-mito-do-empreendedorismo",
+    "citacoes": [
+      {
+        "texto": "Trabalhe no seu negócio, não nele.",
+        "autor": "Michael Gerber",
+        "obra": "The E-Myth Revisited"
+      },
+      {
+        "texto": "O empreendedor vive no futuro, o gerente no presente.",
+        "autor": "Michael Gerber",
+        "obra": "The E-Myth Revisited"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Leitura clássica para pequenos empresários.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Modele o negócio",
+        "text": "Desenhe processo antes de abrir.",
+        "explicacoes": [
+          "Sistema primeiro.",
+          "Dependência reduz.",
+          "Clareza guia."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Padronize",
+        "text": "Documente como franquia.",
+        "explicacoes": [
+          "Replicável escala.",
+          "Qualidade constante.",
+          "Equipe segue."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Trabalhe fora",
+        "text": "Gerencie, não execute.",
+        "explicacoes": [
+          "Visão sobre tarefa.",
+          "Tempo libera.",
+          "Crescimento vem."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Sistema",
+        "texto": "Negócio roda só."
+      },
+      {
+        "titulo": "Franquia",
+        "texto": "Replicável."
+      },
+      {
+        "titulo": "Dono",
+        "texto": "Dirige, não faz."
+      }
+    ]
+  },
+  {
+    "id": "rath",
+    "slug": "strengthsfinder-2-0",
+    "title": "StrengthsFinder 2.0",
+    "titlePt": "StrengthsFinder 2.0",
+    "author": "Tom Rath",
+    "year": "2007",
+    "editionYear": "2015",
+    "publisher": "Gallup Press / Sextante",
+    "pages": "224",
+    "genre": "Autoajuda / Forças",
+    "language": "Inglês",
+    "copiesSold": "Mais de 10 milhões",
+    "cover": "img/rath-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Foque em forças",
+        "text": "Potencializar talento rende mais que corrigir falha.",
+        "reflection": "Você corrige ou potencializa?"
+      },
+      {
+        "type": "myth",
+        "title": "Corrija fraquezas",
+        "text": "Tempo em fraqueza raramente vira excelência.",
+        "reflection": "Sua energia onde cai?"
+      },
+      {
+        "type": "truth",
+        "title": "Nomear ajuda",
+        "text": "Conhecer forças direciona escolhas.",
+        "reflection": "Você sabe suas top 5?"
+      },
+      {
+        "type": "myth",
+        "title": "Todos iguais",
+        "text": "Perfil único pede caminho único.",
+        "reflection": "Você copia roteiro alheio?"
+      },
+      {
+        "type": "truth",
+        "title": "Contexto importa",
+        "text": "Força certa no lugar certo brilha.",
+        "reflection": "Seu ambiente usa seu dom?"
+      },
+      {
+        "type": "myth",
+        "title": "Sucesso é genérico",
+        "text": "Caminho depende de perfil.",
+        "reflection": "Sua meta é sua ou emprestada?"
+      }
+    ],
+    "summary": "Tom Rath propõe identificar e investir nas principais forças pessoais em vez de gastar energia corrigindo fraquezas, com base em avaliação Gallup.",
+    "color": "#16a085",
+    "file": "livro.html#strengthsfinder-2-0",
+    "citacoes": [
+      {
+        "texto": "Você não pode ser tudo para todos.",
+        "autor": "Tom Rath",
+        "obra": "StrengthsFinder 2.0"
+      },
+      {
+        "texto": "Investir em forças supera corrigir falhas.",
+        "autor": "Tom Rath",
+        "obra": "StrengthsFinder 2.0"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Teste aplicado por milhões de profissionais.",
+        "autor": "Gallup",
+        "fonte": "Dados"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Identifique forças",
+        "text": "Faça o teste e liste top 5.",
+        "explicacoes": [
+          "Nomear libera.",
+          "Decisão orienta.",
+          "Foco ganha."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Alinhe função",
+        "text": "Coloque força onde importa.",
+        "explicacoes": [
+          "Lugar certo brilha.",
+          "Engajamento sobe.",
+          "Resultado segue."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Invista nelas",
+        "text": "Pratique e aprofunde dom.",
+        "explicacoes": [
+          "Maestria cresce.",
+          "Diferencial amplia.",
+          "Confiança sobe."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Forças",
+        "texto": "Foco nelas."
+      },
+      {
+        "titulo": "Perfil",
+        "texto": "Caminho único."
+      },
+      {
+        "titulo": "Alinhamento",
+        "texto": "Lugar certo."
+      }
+    ]
+  },
+  {
+    "id": "tracy",
+    "slug": "coma-o-sapo",
+    "title": "Eat That Frog!",
+    "titlePt": "Coma o Sapo",
+    "author": "Brian Tracy",
+    "year": "2001",
+    "editionYear": "2017",
+    "publisher": "Berrett-Koehler / Sextante",
+    "pages": "128",
+    "genre": "Produtividade / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/tracy-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Faça o pior primeiro",
+        "text": "Tarefa difícil cedo libera o dia.",
+        "reflection": "Você adia o importante?"
+      },
+      {
+        "type": "myth",
+        "title": "Comece pelo fácil",
+        "text": "Fácil enche o dia do urgente.",
+        "reflection": "Sua manhã some em migalhas?"
+      },
+      {
+        "type": "truth",
+        "title": "80/20 nas tarefas",
+        "text": "Poucas movem a maior parte.",
+        "reflection": "Sua lista foca o vital?"
+      },
+      {
+        "type": "myth",
+        "title": "Multitarefa produz",
+        "text": "Foco único entrega mais.",
+        "reflection": "Você fragmenta?"
+      },
+      {
+        "type": "truth",
+        "title": "Prazo assume",
+        "text": "Compromisso público força ação.",
+        "reflection": "Sua meta tem prazo real?"
+      },
+      {
+        "type": "myth",
+        "title": "Lista longa ajuda",
+        "text": "Muitos itens paralisam.",
+        "reflection": "Sua lista é curadoria?"
+      }
+    ],
+    "summary": "Brian Tracy entrega 21 regras práticas de produtividade, começando pela tarefa mais difícil (o sapo) para vencer a procrastinação.",
+    "color": "#d35400",
+    "file": "livro.html#coma-o-sapo",
+    "citacoes": [
+      {
+        "texto": "Se você tiver que comer um sapo, não fique olhando para ele por muito tempo.",
+        "autor": "Brian Tracy",
+        "obra": "Eat That Frog!"
+      },
+      {
+        "texto": "Planeje cada dia na noite anterior.",
+        "autor": "Brian Tracy",
+        "obra": "Eat That Frog!"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Manual enxuto de produtividade pessoal.",
+        "autor": "Resenha",
+        "fonte": "Mídia"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Defina o sapo",
+        "text": "Maior impacto, maior resistência.",
+        "explicacoes": [
+          "Vital poucos.",
+          "Difícil primeiro.",
+          "Dia libera."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Aplique 80/20",
+        "text": "Foque no que move resultado.",
+        "explicacoes": [
+          "Prioridade real.",
+          "Resto delegável.",
+          "Lucro de tempo."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Prazo e bloco",
+        "text": "Horário fixo para o sapo.",
+        "explicacoes": [
+          "Compromisso força.",
+          "Calendário protege.",
+          "Foco acontece."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Sapo primeiro",
+        "texto": "Dia liberado."
+      },
+      {
+        "titulo": "80/20",
+        "texto": "Poucos vitais."
+      },
+      {
+        "titulo": "Bloco",
+        "texto": "Protege foco."
+      }
+    ]
+  },
+  {
+    "id": "christensen",
+    "slug": "como-medir-sua-vida",
+    "title": "How Will You Measure Your Life?",
+    "titlePt": "Como Medir sua Vida",
+    "author": "Clayton M. Christensen",
+    "year": "2012",
+    "editionYear": "2012",
+    "publisher": "Harper Business / LeYa",
+    "pages": "240",
+    "genre": "Propósito / Negócios",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/christensen-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Teoria guia escolha",
+        "text": "Boas teorias prevêem decisões.",
+        "reflection": "Você decide por moda?"
+      },
+      {
+        "type": "myth",
+        "title": "Carreira garante vida",
+        "text": "Sucesso profissional não preenche.",
+        "reflection": "Conquista trouxe sentido?"
+      },
+      {
+        "type": "truth",
+        "title": "Recursos vs. prioridades",
+        "text": "Onde vai sua energia é o real.",
+        "reflection": "Sua prioridade é plano ou resto?"
+      },
+      {
+        "type": "myth",
+        "title": "Felicidade é destino",
+        "text": "Construída por escolhas diárias.",
+        "reflection": "Você a posterga?"
+      },
+      {
+        "type": "truth",
+        "title": "Invista em relações",
+        "text": "Pessoas são ativo duradouro.",
+        "reflection": "Você cuida do que importa?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais salário = mais vida",
+        "text": "Margem de erro importa mais.",
+        "reflection": "Seu risco é sustentável?"
+      }
+    ],
+    "summary": "O professor Clayton Christensen aplica teorias de inovação à vida pessoal, ajudando a alinhar carreira, família e propósito com o que realmente mede sucesso.",
+    "color": "#8e44ad",
+    "file": "livro.html#como-medir-sua-vida",
+    "citacoes": [
+      {
+        "texto": "Não deixe sua vida ao acaso.",
+        "autor": "Clayton Christensen",
+        "obra": "How Will You Measure Your Life?"
+      },
+      {
+        "texto": "O que é o mais importante é raramente urgente.",
+        "autor": "Clayton Christensen",
+        "obra": "How Will You Measure Your Life?"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Ponto de encontro entre negócios e vida.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Alinhe teoria",
+        "text": "Decida com base em princípios.",
+        "explicacoes": [
+          "Moda passa.",
+          "Quadro dura.",
+          "Escolha coerente."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Cuide das relações",
+        "text": "Invista em família e amizade.",
+        "explicacoes": [
+          "Ativo real.",
+          "Tempo prova.",
+          "Legado vive."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Proteja margem",
+        "text": "Deixe folga para o inesperado.",
+        "explicacoes": [
+          "Risco controlado.",
+          "Opção aberta.",
+          "Sustenta."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Teoria",
+        "texto": "Guia escolha."
+      },
+      {
+        "titulo": "Relações",
+        "texto": "Ativo real."
+      },
+      {
+        "titulo": "Margem",
+        "texto": "Folga sustenta."
+      }
+    ]
+  },
+  {
+    "id": "ariely",
+    "slug": "previsivelmente-irracional",
+    "title": "Predictably Irrational",
+    "titlePt": "Previsivelmente Irracional",
+    "author": "Dan Ariely",
+    "year": "2008",
+    "editionYear": "2010",
+    "publisher": "HarperCollins / Zahar",
+    "pages": "320",
+    "genre": "Comportamento / Economia",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/ariely-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Irrisão é previsível",
+        "text": "Padrões sistemáticos guiam erro.",
+        "reflection": "Você repete erro previsível?"
+      },
+      {
+        "type": "myth",
+        "title": "Somos racionais",
+        "text": "Contexto distorce escolha.",
+        "reflection": "Sua decisão é livre?"
+      },
+      {
+        "type": "truth",
+        "title": "Ancoragem domina",
+        "text": "Preço alto serve de referência.",
+        "reflection": "O que lhe ancorou hoje?"
+      },
+      {
+        "type": "myth",
+        "title": "Grátis é neutro",
+        "text": "Grátis distorce demais.",
+        "reflection": "Você cai no grátis?"
+      },
+      {
+        "type": "truth",
+        "title": "Social vence lógica",
+        "text": "Norma pesa mais que número.",
+        "reflection": "Você segue a turma?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais opção esclarece",
+        "text": "Excesso confunde e paralisa.",
+        "reflection": "Você escolhe ou congela?"
+      }
+    ],
+    "summary": "Dan Ariely mostra, por experimentos, como somos irracionais de forma previsível em dinheiro, relacionamentos e escolhas, e como isso afeta finanças e hábitos.",
+    "color": "#2980b9",
+    "file": "livro.html#previsivelmente-irracional",
+    "citacoes": [
+      {
+        "texto": "Somos irracionais de forma previsível.",
+        "autor": "Dan Ariely",
+        "obra": "Predictably Irrational"
+      },
+      {
+        "texto": "O grátis nos faz fazer coisas estúpidas.",
+        "autor": "Dan Ariely",
+        "obra": "Predictably Irrational"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Divulgador da economia comportamental.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Note ancoragem",
+        "text": "Primeiro preço distorce.",
+        "explicacoes": [
+          "Refência falsa.",
+          "Compare amplo.",
+          "Decisão livre."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Desconfie do grátis",
+        "text": "Custo oculto do grátis.",
+        "explicacoes": [
+          "Atrai demais.",
+          "Valor real conta.",
+          "Escolha lúcida."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Limite opções",
+        "text": "Reduza para decidir melhor.",
+        "explicacoes": [
+          "Paralisia cansa.",
+          "Curadoria ajuda.",
+          "Clareza converte."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Previsível",
+        "texto": "Erro padrão."
+      },
+      {
+        "titulo": "Âncora",
+        "texto": "Refém do primeiro."
+      },
+      {
+        "titulo": "Grátis",
+        "texto": "Armadilha do zero."
+      }
+    ]
+  },
+  {
+    "id": "kawasaki",
+    "slug": "o-artista-da-startup",
+    "title": "The Art of the Start 2.0",
+    "titlePt": "O Artista da Startup",
+    "author": "Guy Kawasaki",
+    "year": "2004",
+    "editionYear": "2015",
+    "publisher": "Portfolio / Alta Books",
+    "pages": "368",
+    "genre": "Empreendedorismo / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/kawasaki-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Comece com propósito",
+        "text": "Mudar o mundo move equipe.",
+        "reflection": "Sua startup tem missão?"
+      },
+      {
+        "type": "myth",
+        "title": "Plano de 60 páginas",
+        "text": "Ação vale mais que documento.",
+        "reflection": "Seu plano avança?"
+      },
+      {
+        "type": "truth",
+        "title": "Posicione, não compare",
+        "text": "Categoria única destaca.",
+        "reflection": "Você é cópia ou novo?"
+      },
+      {
+        "type": "myth",
+        "title": "Capital resolve",
+        "text": "Foco e cliente valem mais.",
+        "reflection": "Você busca dinheiro ou valor?"
+      },
+      {
+        "type": "truth",
+        "title": "Lançe cedo",
+        "text": "Produto real valida.",
+        "reflection": "Você testa ou teoriza?"
+      },
+      {
+        "type": "myth",
+        "title": "Perfeição antes",
+        "text": "Cobrar cedo ensina mercado.",
+        "reflection": "Você adia o não?"
+      }
+    ],
+    "summary": "Guy Kawasaki reúne conselhos práticos de lançamento de startups: posicionamento, pitch, rede, e como criar encantamento com poucos recursos.",
+    "color": "#27ae60",
+    "file": "livro.html#o-artista-da-startup",
+    "citacoes": [
+      {
+        "texto": "Não compare, posicione.",
+        "autor": "Guy Kawasaki",
+        "obra": "The Art of the Start"
+      },
+      {
+        "texto": "Encante o cliente.",
+        "autor": "Guy Kawasaki",
+        "obra": "The Art of the Start"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Evangelista de produto famoso em Silicon Valley.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Defina propósito",
+        "text": "Mudar algo específico.",
+        "explicacoes": [
+          "Missão move.",
+          "Equipe engaja.",
+          "Decisão guia."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Posicione",
+        "text": "Categoria que você lidera.",
+        "explicacoes": [
+          "Único destaca.",
+          "Compare cansa.",
+          "Diferente vence."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Encante",
+        "text": "Exceda expectativa cedo.",
+        "explicacoes": [
+          "Boca a boca.",
+          "Lealdade cresce.",
+          "Mercado ensina."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Propósito",
+        "texto": "Muda mundo."
+      },
+      {
+        "titulo": "Posição",
+        "texto": "Não comparar."
+      },
+      {
+        "titulo": "Encanto",
+        "texto": "Exceder cedo."
+      }
+    ]
+  },
+  {
+    "id": "tolle",
+    "slug": "o-poder-do-agora",
+    "title": "The Power of Now",
+    "titlePt": "O Poder do Agora",
+    "author": "Eckhart Tolle",
+    "year": "1997",
+    "editionYear": "2004",
+    "publisher": "New World Library / Sextante",
+    "pages": "236",
+    "genre": "Mindfulness / Autoajuda",
+    "language": "Inglês",
+    "copiesSold": "Mais de 5 milhões",
+    "cover": "img/tolle-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Agora é tudo",
+        "text": "Passado e futuro são mente.",
+        "reflection": "Você vive no tempo ou no instante?"
+      },
+      {
+        "type": "myth",
+        "title": "Pensar resolve",
+        "text": "Excesso de pensamento aprisiona.",
+        "reflection": "Sua mente silencia?"
+      },
+      {
+        "type": "truth",
+        "title": "Observar liberta",
+        "text": "Testemunhar pensamento desidentifica.",
+        "reflection": "Você é o pensamento?"
+      },
+      {
+        "type": "myth",
+        "title": "Felicidade é lá",
+        "text": "Busca externa adia paz.",
+        "reflection": "Você procura fora?"
+      },
+      {
+        "type": "truth",
+        "title": "Presença reduz dor",
+        "text": "Aceitar o momento alivia.",
+        "reflection": "Você resiste ao que é?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudar exige evento",
+        "text": "Agora já basta.",
+        "reflection": "Você espera ocasião?"
+      }
+    ],
+    "summary": "Eckhart Tolle convida a abandonar a identificação com a mente pensante e a habitar o presente como caminho para paz e plenitude.",
+    "color": "#8e44ad",
+    "file": "livro.html#o-poder-do-agora",
+    "citacoes": [
+      {
+        "texto": "O tempo é uma ilusão. O agora é a única realidade.",
+        "autor": "Eckhart Tolle",
+        "obra": "The Power of Now"
+      },
+      {
+        "texto": "A vida é agora. Não há outra saída.",
+        "autor": "Eckhart Tolle",
+        "obra": "The Power of Now"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Referência de espiritualidade contemporânea.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Habite o agora",
+        "text": "Traga atenção ao instante.",
+        "explicacoes": [
+          "Passado é memória.",
+          "Futuro é imagem.",
+          "Agora é real."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Observe a mente",
+        "text": "Veja pensamento sem ser ele.",
+        "explicacoes": [
+          "Desidentifica.",
+          "Silêncio cresce.",
+          "Paz emerge."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Aceite o que é",
+        "text": "Rendição consciente alivia.",
+        "explicacoes": [
+          "Resistir dói.",
+          "Aceitar libera.",
+          "Ação clara."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Agora",
+        "texto": "Única realidade."
+      },
+      {
+        "titulo": "Observar",
+        "texto": "Não ser a mente."
+      },
+      {
+        "titulo": "Aceite",
+        "texto": "Alívio presente."
+      }
+    ]
+  },
+  {
+    "id": "semler",
+    "slug": "virando-a-propria-mesa",
+    "title": "Maverick",
+    "titlePt": "Virando a Própria Mesa",
+    "author": "Ricardo Semler",
+    "year": "1993",
+    "editionYear": "2003",
+    "publisher": "Warner Books / BestSeller",
+    "pages": "320",
+    "genre": "Gestão / Hábitos",
+    "language": "Inglês/Português",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/semler-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Confie nas pessoas",
+        "text": "Autonomia gera responsabilidade.",
+        "reflection": "Você controla ou confia?"
+      },
+      {
+        "type": "myth",
+        "title": "Chefe sabe tudo",
+        "text": "Decisão de baixo funciona.",
+        "reflection": "Sua equipe decide?"
+      },
+      {
+        "type": "truth",
+        "title": "Menos regras",
+        "text": "Liberdade bem usada produz.",
+        "reflection": "Sua empresa é burocracia?"
+      },
+      {
+        "type": "myth",
+        "title": "Crescer é hierarquia",
+        "text": "Estrutura plana surpreende.",
+        "reflection": "Sua pirâmide ajuda?"
+      },
+      {
+        "type": "truth",
+        "title": "Tempo é seu",
+        "text": "Sem dono de agenda alheia.",
+        "reflection": "Você manda no seu tempo?"
+      },
+      {
+        "type": "myth",
+        "title": "Trabalho longo = sucesso",
+        "text": "Resultado importa, não horas.",
+        "reflection": "Você mede presença?"
+      }
+    ],
+    "summary": "Ricardo Semler conta como transformou a Semco em empresa autogerenciada, com horários, salários e decisões feitos pelos próprios funcionários.",
+    "color": "#c0392b",
+    "file": "livro.html#virando-a-propria-mesa",
+    "citacoes": [
+      {
+        "texto": "Pergunte por que, e depois pergunte por que não.",
+        "autor": "Ricardo Semler",
+        "obra": "Maverick"
+      },
+      {
+        "texto": "Confie nas pessoas e elas se tornam confiáveis.",
+        "autor": "Ricardo Semler",
+        "obra": "Maverick"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Caso brasileiro de gestão inovadora mundial.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Delegue decisão",
+        "text": "Time decide o próprio trabalho.",
+        "explicacoes": [
+          "Dono do fazer.",
+          "Compromisso sobe.",
+          "Qualidade vem."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Corte burocracia",
+        "text": "Regras mínimas necessárias.",
+        "explicacoes": [
+          "Liberdade gera.",
+          "Agilidade sobe.",
+          "Confiança cresce."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Respeite tempo",
+        "text": "Vida e trabalho equilibram.",
+        "explicacoes": [
+          "Pessoa antes.",
+          "Sustentação longa.",
+          "Menos rotatividade."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Confiança",
+        "texto": "Gera responsabilidade."
+      },
+      {
+        "titulo": "Menos regras",
+        "texto": "Liberdade produz."
+      },
+      {
+        "titulo": "Tempo",
+        "texto": "Seu, não alheio."
+      }
+    ]
   }
 ];
