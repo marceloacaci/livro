@@ -15179,62 +15179,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Aplique DEAL",
-        "text": "Defina, elimine, automatize e liberte-se passo a passo."
+        "text": "Defina, elimine, automatize e liberte-se passo a passo.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Aplique DEAL\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Defina, elimine, automatize e liberte-se passo a passo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique DEAL\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Defina seu estilo de vida",
-        "text": "A etapa D clarifica quanto e como você quer viver."
+        "text": "A etapa D clarifica quanto e como você quer viver.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Defina seu estilo de vida\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: A etapa D clarifica quanto e como você quer viver — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina seu estilo de vida\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Use Pareto 80/20",
-        "text": "Foque nos 20% que geram 80% dos resultados."
+        "text": "Foque nos 20% que geram 80% dos resultados.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Use Pareto 80/20\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Foque nos 20% que geram 80% dos resultados — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use Pareto 80/20\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Vença Parkinson",
-        "text": "Crie limites de tempo artificiais para forçar foco."
+        "text": "Crie limites de tempo artificiais para forçar foco.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Vença Parkinson\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Crie limites de tempo artificiais para forçar foco — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Vença Parkinson\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Elimine o raso",
-        "text": "Cortar e-mails e reuniões libera horas preciosas."
+        "text": "Cortar e-mails e reuniões libera horas preciosas.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Elimine o raso\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Cortar e-mails e reuniões libera horas preciosas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Elimine o raso\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Automatize o negócio",
-        "text": "Sistemas e VA fazem rodar sem você."
+        "text": "Sistemas e VA fazem rodar sem você.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Automatize o negócio\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Sistemas e VA fazem rodar sem você — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Automatize o negócio\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Terceirize tarefas",
-        "text": "Delegue por pouco para focar no que só você faz."
+        "text": "Delegue por pouco para focar no que só você faz.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Terceirize tarefas\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Delegue por pouco para focar no que só você faz — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Terceirize tarefas\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Pratique a Libertação",
-        "text": "Mini-aposentadorias e geoarbitragem concretizam liberdade."
+        "text": "Mini-aposentadorias e geoarbitragem concretizam liberdade.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Pratique a Libertação\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Mini-aposentadorias e geoarbitragem concretizam liberdade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a Libertação\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Corte o custo de vida",
-        "text": "Menor custo libera mais que ganho extra."
+        "text": "Menor custo libera mais que ganho extra.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Corte o custo de vida\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Menor custo libera mais que ganho extra — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Corte o custo de vida\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Filtre e-mail",
-        "text": "Regras automáticas e respostas reduzem ruído."
+        "text": "Regras automáticas e respostas reduzem ruído.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Filtre e-mail\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Regras automáticas e respostas reduzem ruído — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Filtre e-mail\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Seja Nova Rica",
-        "text": "Valorize tempo e experiência, não acúmulo."
+        "text": "Valorize tempo e experiência, não acúmulo.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Seja Nova Rica\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Valorize tempo e experiência, não acúmulo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja Nova Rica\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Questione o modelo",
-        "text": "Desafie a aposentadoria adiada e o corporativo."
+        "text": "Desafie a aposentadoria adiada e o corporativo.",
+        "explicacoes": [
+          "Em \"A Semana de 4 Horas\", Timothy Ferriss trata \"Questione o modelo\" como peça-chave para a liberdade pelo baixo custo de vida e negócios remotos.",
+          "Na prática: Desafie a aposentadoria adiada e o corporativo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Questione o modelo\" aplica a liberdade pelo baixo custo de vida e negócios remotos de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -15256,72 +15316,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Nova Rica",
         "text": "Apresenta o conceito de viver com liberdade agora, não no fim.",
         "points": [
-          "NR vs VR",
-          "Mini-aposentadoria",
-          "Liberdade"
+          {
+            "t": "NR vs VR",
+            "e": "Apresenta o conceito de viver com liberdade agora, não no fim.",
+            "f": "A Nova Rica valoriza o tempo e a experiência; a Velha Rica, o acúmulo de coisas.",
+            "real": true
+          },
+          {
+            "t": "Mini-aposentadoria",
+            "e": "Apresenta o conceito de viver com liberdade agora, não no fim.",
+            "f": "Na visão de Timothy Ferriss, \"mini-aposentadoria\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Apresenta o conceito de viver com liberdade agora, não no fim.",
+            "f": "Na visão de Timothy Ferriss, \"liberdade\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — D é de Definição",
         "text": "Clarificar metas de estilo de vida e o que basta.",
         "points": [
-          "Sonhos",
-          "Custo",
-          "Foco"
+          {
+            "t": "Sonhos",
+            "e": "Clarificar metas de estilo de vida e o que basta.",
+            "f": "Na visão de Timothy Ferriss, \"sonhos\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Custo",
+            "e": "Clarificar metas de estilo de vida e o que basta.",
+            "f": "Você não precisa ser rico para parar de trabalhar; precisa reduzir o custo de viver.",
+            "real": true
+          },
+          {
+            "t": "Foco",
+            "e": "Clarificar metas de estilo de vida e o que basta.",
+            "f": "Na visão de Timothy Ferriss, \"foco\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — E é de Eliminação",
         "text": "Pareto e Parkinson para cortar o desnecessário.",
         "points": [
-          "80/20",
-          "Lei de Parkinson",
-          "Corte"
+          {
+            "t": "80/20",
+            "e": "Pareto e Parkinson para cortar o desnecessário.",
+            "f": "Na visão de Timothy Ferriss, \"80/20\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Lei de Parkinson",
+            "e": "Pareto e Parkinson para cortar o desnecessário.",
+            "f": "Na visão de Timothy Ferriss, \"lei de parkinson\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Corte",
+            "e": "Pareto e Parkinson para cortar o desnecessário.",
+            "f": "Na visão de Timothy Ferriss, \"corte\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Automação de negócio",
         "text": "Sistemas e assistentes virtuais que rodam sozinhos.",
         "points": [
-          "VA",
-          "Sistemas",
-          "Escala"
+          {
+            "t": "VA",
+            "e": "Sistemas e assistentes virtuais que rodam sozinhos.",
+            "f": "Na visão de Timothy Ferriss, \"va\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Sistemas",
+            "e": "Sistemas e assistentes virtuais que rodam sozinhos.",
+            "f": "Na visão de Timothy Ferriss, \"sistemas\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Escala",
+            "e": "Sistemas e assistentes virtuais que rodam sozinhos.",
+            "f": "Na visão de Timothy Ferriss, \"escala\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Libertação geográfica",
         "text": "Geoarbitragem e vida em lugares de baixo custo.",
         "points": [
-          "Geoarbitragem",
-          "Custo",
-          "Mobilidade"
+          {
+            "t": "Geoarbitragem",
+            "e": "Geoarbitragem e vida em lugares de baixo custo.",
+            "f": "Na visão de Timothy Ferriss, \"geoarbitragem\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Custo",
+            "e": "Geoarbitragem e vida em lugares de baixo custo.",
+            "f": "Você não precisa ser rico para parar de trabalhar; precisa reduzir o custo de viver.",
+            "real": true
+          },
+          {
+            "t": "Mobilidade",
+            "e": "Geoarbitragem e vida em lugares de baixo custo.",
+            "f": "Na visão de Timothy Ferriss, \"mobilidade\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Gestão de tempo",
         "text": "Filtros de e-mail e limites artificiais.",
         "points": [
-          "E-mail",
-          "Filtros",
-          "Foco"
+          {
+            "t": "E-mail",
+            "e": "Filtros de e-mail e limites artificiais.",
+            "f": "Trabalho se expande para preencher o tempo disponível para sua conclusão.",
+            "real": true
+          },
+          {
+            "t": "Filtros",
+            "e": "Filtros de e-mail e limites artificiais.",
+            "f": "A Nova Rica valoriza o tempo e a experiência; a Velha Rica, o acúmulo de coisas.",
+            "real": true
+          },
+          {
+            "t": "Foco",
+            "e": "Filtros de e-mail e limites artificiais.",
+            "f": "Na visão de Timothy Ferriss, \"foco\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O filtro de informação",
         "text": "Reduzir ruído para decidir melhor.",
         "points": [
-          "Ruído",
-          "Decisão",
-          "Clareza"
+          {
+            "t": "Ruído",
+            "e": "Reduzir ruído para decidir melhor.",
+            "f": "Na visão de Timothy Ferriss, \"ruído\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Decisão",
+            "e": "Reduzir ruído para decidir melhor.",
+            "f": "Na visão de Timothy Ferriss, \"decisão\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Clareza",
+            "e": "Reduzir ruído para decidir melhor.",
+            "f": "Na visão de Timothy Ferriss, \"clareza\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A semana de 4 horas",
         "text": "Juntar tudo: viver com pouco trabalho e muita vida.",
         "points": [
-          "Síntese",
-          "Estilo",
-          "Ação"
+          {
+            "t": "Síntese",
+            "e": "Juntar tudo: viver com pouco trabalho e muita vida.",
+            "f": "Na visão de Timothy Ferriss, \"síntese\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Estilo",
+            "e": "Juntar tudo: viver com pouco trabalho e muita vida.",
+            "f": "Na visão de Timothy Ferriss, \"estilo\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          },
+          {
+            "t": "Ação",
+            "e": "Juntar tudo: viver com pouco trabalho e muita vida.",
+            "f": "Na visão de Timothy Ferriss, \"ação\" é parte essencial da proposta de \"A Semana de 4 Horas\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -15485,62 +15665,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Identifique seu blueprint",
-        "text": "Descubra as crenças sobre dinheiro gravadas na infância."
+        "text": "Descubra as crenças sobre dinheiro gravadas na infância.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Identifique seu blueprint\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Descubra as crenças sobre dinheiro gravadas na infância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Identifique seu blueprint\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Reescreva arquivos limitantes",
-        "text": "Substitua crenças de pobreza por crenças de riqueza."
+        "text": "Substitua crenças de pobreza por crenças de riqueza.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Reescreva arquivos limitantes\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Substitua crenças de pobreza por crenças de riqueza — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reescreva arquivos limitantes\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Assuma responsabilidade total",
-        "text": "Pare de culpar; você cria sua vida financeira."
+        "text": "Pare de culpar; você cria sua vida financeira.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Assuma responsabilidade total\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Pare de culpar; você cria sua vida financeira — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma responsabilidade total\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Foque em lucro e valor",
-        "text": "Busque gerar mais, não só cortar; teto de corte existe."
+        "text": "Busque gerar mais, não só cortar; teto de corte existe.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Foque em lucro e valor\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Busque gerar mais, não só cortar; teto de corte existe — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque em lucro e valor\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Use declarações diárias",
-        "text": "Repita afirmações para gravar novo modelo interno."
+        "text": "Repita afirmações para gravar novo modelo interno.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Use declarações diárias\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Repita afirmações para gravar novo modelo interno — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use declarações diárias\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Encha o jarro primeiro",
-        "text": "Poupe antes dos gastos; priorize as pedras grandes."
+        "text": "Poupe antes dos gastos; priorize as pedras grandes.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Encha o jarro primeiro\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Poupe antes dos gastos; priorize as pedras grandes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Encha o jarro primeiro\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Conviva com quem prospera",
-        "text": "Ambiente de ricos eleva crenças e oportunidades."
+        "text": "Ambiente de ricos eleva crenças e oportunidades.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Conviva com quem prospera\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Ambiente de ricos eleva crenças e oportunidades — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conviva com quem prospera\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Sinta merecimento",
-        "text": "Elimine culpa; permita-se receber e prosperar."
+        "text": "Elimine culpa; permita-se receber e prosperar.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Sinta merecimento\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Elimine culpa; permita-se receber e prosperar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sinta merecimento\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Adote mentalidade de abundância",
-        "text": "Veja o mundo como soma positiva, não escasso."
+        "text": "Veja o mundo como soma positiva, não escasso.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Adote mentalidade de abundância\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Veja o mundo como soma positiva, não escasso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Adote mentalidade de abundância\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Expanda a zona de conforto",
-        "text": "Cresça na medida que quer que a renda cresça."
+        "text": "Cresça na medida que quer que a renda cresça.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Expanda a zona de conforto\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Cresça na medida que quer que a renda cresça — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Expanda a zona de conforto\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Ligue crença a ação",
-        "text": "Afirmação sem ato é vazia; aja conforme o novo modelo."
+        "text": "Afirmação sem ato é vazia; aja conforme o novo modelo.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Ligue crença a ação\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Afirmação sem ato é vazia; aja conforme o novo modelo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ligue crença a ação\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Estude os Wealth Files",
-        "text": "Contraste sistemático rico vs pobre em cada arquivo."
+        "text": "Contraste sistemático rico vs pobre em cada arquivo.",
+        "explicacoes": [
+          "Em \"Os Segredos da Mente Milionária\", T. Harv Eker trata \"Estude os Wealth Files\" como peça-chave para a reprogramação do modelo mental sobre a riqueza.",
+          "Na prática: Contraste sistemático rico vs pobre em cada arquivo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estude os Wealth Files\" aplica a reprogramação do modelo mental sobre a riqueza de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -15562,72 +15802,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Seu modelo de riqueza",
         "text": "Como crenças da infância formam o teto financeiro.",
         "points": [
-          "Blueprint",
-          "Infância",
-          "Teto"
+          {
+            "t": "Blueprint",
+            "e": "Como crenças da infância formam o teto financeiro.",
+            "f": "Se o seu modelo mental de riqueza estiver errado, nenhuma tática funcionará por muito tempo.",
+            "real": true
+          },
+          {
+            "t": "Infância",
+            "e": "Como crenças da infância formam o teto financeiro.",
+            "f": "Na visão de T. Harv Eker, \"infância\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Teto",
+            "e": "Como crenças da infância formam o teto financeiro.",
+            "f": "Na visão de T. Harv Eker, \"teto\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Os Arquivos da Riqueza",
         "text": "Declarações que contrastam rico e pobre.",
         "points": [
-          "Wealth Files",
-          "Afirmações",
-          "Contraste"
+          {
+            "t": "Wealth Files",
+            "e": "Declarações que contrastam rico e pobre.",
+            "f": "Se o seu modelo mental de riqueza estiver errado, nenhuma tática funcionará por muito tempo.",
+            "real": true
+          },
+          {
+            "t": "Afirmações",
+            "e": "Declarações que contrastam rico e pobre.",
+            "f": "Na visão de T. Harv Eker, \"afirmações\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Contraste",
+            "e": "Declarações que contrastam rico e pobre.",
+            "f": "Na visão de T. Harv Eker, \"contraste\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Arquivo 1: criação vs vitimismo",
         "text": "Responsabilidade total pela própria vida.",
         "points": [
-          "Autoria",
-          "Vítima",
-          "Ação"
+          {
+            "t": "Autoria",
+            "e": "Responsabilidade total pela própria vida.",
+            "f": "Na visão de T. Harv Eker, \"autoria\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Vítima",
+            "e": "Responsabilidade total pela própria vida.",
+            "f": "Na visão de T. Harv Eker, \"vítima\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Ação",
+            "e": "Responsabilidade total pela própria vida.",
+            "f": "Na visão de T. Harv Eker, \"ação\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Arquivo 2: foco em lucro",
         "text": "Gerar valor em vez de só economizar.",
         "points": [
-          "Lucro",
-          "Valor",
-          "Escala"
+          {
+            "t": "Lucro",
+            "e": "Gerar valor em vez de só economizar.",
+            "f": "Na visão de T. Harv Eker, \"lucro\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Valor",
+            "e": "Gerar valor em vez de só economizar.",
+            "f": "Na visão de T. Harv Eker, \"valor\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Escala",
+            "e": "Gerar valor em vez de só economizar.",
+            "f": "Na visão de T. Harv Eker, \"escala\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Arquivo 3: relacionamento com ricos",
         "text": "Conviver e aprender, não julgar.",
         "points": [
-          "Ambiente",
-          "Juízo",
-          "Rede"
+          {
+            "t": "Ambiente",
+            "e": "Conviver e aprender, não julgar.",
+            "f": "Os ricos acreditam: eu crio a minha vida. Os pobres acreditam: a vida acontece comigo.",
+            "real": true
+          },
+          {
+            "t": "Juízo",
+            "e": "Conviver e aprender, não julgar.",
+            "f": "Na visão de T. Harv Eker, \"juízo\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Rede",
+            "e": "Conviver e aprender, não julgar.",
+            "f": "Na visão de T. Harv Eker, \"rede\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O jarro de pedras",
         "text": "Priorizar poupança antes dos gastos.",
         "points": [
-          "Pedras",
-          "Ordem",
-          "Poupança"
+          {
+            "t": "Pedras",
+            "e": "Priorizar poupança antes dos gastos.",
+            "f": "Encha o jarro com as pedras grandes primeiro; o dinheiro pequeno entra nos espaços depois.",
+            "real": true
+          },
+          {
+            "t": "Ordem",
+            "e": "Priorizar poupança antes dos gastos.",
+            "f": "Na visão de T. Harv Eker, \"ordem\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Poupança",
+            "e": "Priorizar poupança antes dos gastos.",
+            "f": "Na visão de T. Harv Eker, \"poupança\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Merecimento e abundância",
         "text": "Sentir-se digno e ver mundo abundante.",
         "points": [
-          "Dignidade",
-          "Abundância",
-          "Abertura"
+          {
+            "t": "Dignidade",
+            "e": "Sentir-se digno e ver mundo abundante.",
+            "f": "Na visão de T. Harv Eker, \"dignidade\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Abundância",
+            "e": "Sentir-se digno e ver mundo abundante.",
+            "f": "Na visão de T. Harv Eker, \"abundância\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Abertura",
+            "e": "Sentir-se digno e ver mundo abundante.",
+            "f": "Na visão de T. Harv Eker, \"abertura\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Reescrevendo o modelo",
         "text": "Declarações e ação para gravar nova mente.",
         "points": [
-          "Regravação",
-          "Ação",
-          "Consistência"
+          {
+            "t": "Regravação",
+            "e": "Declarações e ação para gravar nova mente.",
+            "f": "Se o seu modelo mental de riqueza estiver errado, nenhuma tática funcionará por muito tempo.",
+            "real": true
+          },
+          {
+            "t": "Ação",
+            "e": "Declarações e ação para gravar nova mente.",
+            "f": "Na visão de T. Harv Eker, \"ação\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          },
+          {
+            "t": "Consistência",
+            "e": "Declarações e ação para gravar nova mente.",
+            "f": "Na visão de T. Harv Eker, \"consistência\" é parte essencial da proposta de \"Os Segredos da Mente Milionária\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -15791,62 +16151,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Veja-se como artista",
-        "text": "Todo trabalho com cuidado e conexão é arte; assuma essa postura."
+        "text": "Todo trabalho com cuidado e conexão é arte; assuma essa postura.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Veja-se como artista\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Todo trabalho com cuidado e conexão é arte; assuma essa postura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Veja-se como artista\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Não espere permissão",
-        "text": "Lidere e entregue sem ser mandado; autoridade vem depois."
+        "text": "Lidere e entregue sem ser mandado; autoridade vem depois.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Não espere permissão\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Lidere e entregue sem ser mandado; autoridade vem depois — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não espere permissão\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Combata a resistência",
-        "text": "Reconheça o cérebro réptil e aja apesar do medo."
+        "text": "Reconheça o cérebro réptil e aja apesar do medo.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Combata a resistência\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Reconheça o cérebro réptil e aja apesar do medo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Combata a resistência\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Faça trabalho emocional",
-        "text": "Importe-se e entregue com cuidado; é o que não se automatiza."
+        "text": "Importe-se e entregue com cuidado; é o que não se automatiza.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Faça trabalho emocional\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Importe-se e entregue com cuidado; é o que não se automatiza — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça trabalho emocional\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Seja indispensável",
-        "text": "Torne-se a peça que resolve sem ser mandada."
+        "text": "Torne-se a peça que resolve sem ser mandada.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Seja indispensável\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Torne-se a peça que resolve sem ser mandada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja indispensável\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Quebre regras obscuras",
-        "text": "Fure o manual quando ele atrapalha o valor entregue."
+        "text": "Fure o manual quando ele atrapalha o valor entregue.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Quebre regras obscuras\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Fure o manual quando ele atrapalha o valor entregue — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Quebre regras obscuras\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Lidere sem cargo",
-        "text": "Influencie pela atitude, não pela posição."
+        "text": "Influencie pela atitude, não pela posição.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Lidere sem cargo\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Influencie pela atitude, não pela posição — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Lidere sem cargo\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Gere valor com empatia",
-        "text": "Transforme recursos em utilidade humana."
+        "text": "Transforme recursos em utilidade humana.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Gere valor com empatia\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Transforme recursos em utilidade humana — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Gere valor com empatia\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Exponha-se",
-        "text": "Aceite o risco do ridículo como preço da relevância."
+        "text": "Aceite o risco do ridículo como preço da relevância.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Exponha-se\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Aceite o risco do ridículo como preço da relevância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exponha-se\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Pratique generosidade",
-        "text": "Dar sem contagem imediata constrói rede e confiança."
+        "text": "Dar sem contagem imediata constrói rede e confiança.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Pratique generosidade\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Dar sem contagem imediata constrói rede e confiança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique generosidade\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Abandone o currículo",
-        "text": "Você é suas entregas, não o papel."
+        "text": "Você é suas entregas, não o papel.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Abandone o currículo\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Você é suas entregas, não o papel — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abandone o currículo\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Assuma a ponta",
-        "text": "Mova a cultura pelo exemplo, não espere ordem."
+        "text": "Mova a cultura pelo exemplo, não espere ordem.",
+        "explicacoes": [
+          "Em \"A Estrela Sou Eu\", Seth Godin trata \"Assuma a ponta\" como peça-chave para o trabalho de arte, a resistência e a liderança que importa.",
+          "Na prática: Mova a cultura pelo exemplo, não espere ordem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma a ponta\" aplica o trabalho de arte, a resistência e a liderança que importa de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -15868,72 +16288,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O fim da obediência",
         "text": "Mundo mudou; substituível perde, indispensável ganha.",
         "points": [
-          "Mudança",
-          "Substituição",
-          "Linchpin"
+          {
+            "t": "Mudança",
+            "e": "Mundo mudou; substituível perde, indispensável ganha.",
+            "f": "Na visão de Seth Godin, \"mudança\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Substituição",
+            "e": "Mundo mudou; substituível perde, indispensável ganha.",
+            "f": "Na visão de Seth Godin, \"substituição\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Linchpin",
+            "e": "Mundo mudou; substituível perde, indispensável ganha.",
+            "f": "Na visão de Seth Godin, \"linchpin\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Você é um artista",
         "text": "Arte como trabalho com cuidado e conexão.",
         "points": [
-          "Arte",
-          "Cuidado",
-          "Conexão"
+          {
+            "t": "Arte",
+            "e": "Arte como trabalho com cuidado e conexão.",
+            "f": "Você não é seu currículo; é a soma das escolhas que fez e das entregas que assumiu.",
+            "real": true
+          },
+          {
+            "t": "Cuidado",
+            "e": "Arte como trabalho com cuidado e conexão.",
+            "f": "A resistência é o cérebro réptil sussurrando para você não se expor, não se destacar, não errar.",
+            "real": true
+          },
+          {
+            "t": "Conexão",
+            "e": "Arte como trabalho com cuidado e conexão.",
+            "f": "O trabalho de arte é aquele feito com generosidade, criatividade e conexão humana.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A resistência",
         "text": "O cérebro réptil que sabota a exposição.",
         "points": [
-          "Réptil",
-          "Medo",
-          "Ação"
+          {
+            "t": "Réptil",
+            "e": "O cérebro réptil que sabota a exposição.",
+            "f": "A resistência é o cérebro réptil sussurrando para você não se expor, não se destacar, não errar.",
+            "real": true
+          },
+          {
+            "t": "Medo",
+            "e": "O cérebro réptil que sabota a exposição.",
+            "f": "Na visão de Seth Godin, \"medo\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Ação",
+            "e": "O cérebro réptil que sabota a exposição.",
+            "f": "Na visão de Seth Godin, \"ação\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Trabalho emocional",
         "text": "Importar-se como vantagem competitiva.",
         "points": [
-          "Emoção",
-          "Vantagem",
-          "Cuidado"
+          {
+            "t": "Emoção",
+            "e": "Importar-se como vantagem competitiva.",
+            "f": "O trabalho de arte é aquele feito com generosidade, criatividade e conexão humana.",
+            "real": true
+          },
+          {
+            "t": "Vantagem",
+            "e": "Importar-se como vantagem competitiva.",
+            "f": "Na visão de Seth Godin, \"vantagem\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Cuidado",
+            "e": "Importar-se como vantagem competitiva.",
+            "f": "Na visão de Seth Godin, \"cuidado\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Sem permissão",
         "text": "Liderança sem autoridade e espera.",
         "points": [
-          "Permissão",
-          "Liderança",
-          "Atitude"
+          {
+            "t": "Permissão",
+            "e": "Liderança sem autoridade e espera.",
+            "f": "Quem espera permissão para liderar está esperando na fila errada.",
+            "real": true
+          },
+          {
+            "t": "Liderança",
+            "e": "Liderança sem autoridade e espera.",
+            "f": "Na visão de Seth Godin, \"liderança\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Atitude",
+            "e": "Liderança sem autoridade e espera.",
+            "f": "Na visão de Seth Godin, \"atitude\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Ser indispensável",
         "text": "A postura diária do linchpin.",
         "points": [
-          "Essencial",
-          "Postura",
-          "Resolução"
+          {
+            "t": "Essencial",
+            "e": "A postura diária do linchpin.",
+            "f": "Na visão de Seth Godin, \"essencial\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Postura",
+            "e": "A postura diária do linchpin.",
+            "f": "Na visão de Seth Godin, \"postura\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Resolução",
+            "e": "A postura diária do linchpin.",
+            "f": "Na visão de Seth Godin, \"resolução\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Quebrar regras",
         "text": "Furar o manual para entregar valor.",
         "points": [
-          "Regras",
-          "Valor",
-          "Julgamento"
+          {
+            "t": "Regras",
+            "e": "Furar o manual para entregar valor.",
+            "f": "Na visão de Seth Godin, \"regras\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Valor",
+            "e": "Furar o manual para entregar valor.",
+            "f": "Na visão de Seth Godin, \"valor\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Julgamento",
+            "e": "Furar o manual para entregar valor.",
+            "f": "Na visão de Seth Godin, \"julgamento\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Generosidade e rede",
         "text": "Dar como forma de se tornar central.",
         "points": [
-          "Generosidade",
-          "Rede",
-          "Confiança"
+          {
+            "t": "Generosidade",
+            "e": "Dar como forma de se tornar central.",
+            "f": "O trabalho de arte é aquele feito com generosidade, criatividade e conexão humana.",
+            "real": true
+          },
+          {
+            "t": "Rede",
+            "e": "Dar como forma de se tornar central.",
+            "f": "Na visão de Seth Godin, \"rede\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          },
+          {
+            "t": "Confiança",
+            "e": "Dar como forma de se tornar central.",
+            "f": "Na visão de Seth Godin, \"confiança\" é parte essencial da proposta de \"A Estrela Sou Eu\".",
+            "real": false
+          }
         ]
       }
     ]
