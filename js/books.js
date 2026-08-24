@@ -40247,57 +40247,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Seja impecável com a palavra",
-        "text": "Use a palavra para edificar; evite falar contra si ou murmurar dos outros."
+        "text": "Use a palavra para edificar; evite falar contra si ou murmurar dos outros.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Seja impecável com a palavra\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Use a palavra para edificar; evite falar contra si ou murmurar dos outros — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja impecável com a palavra\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Não leve nada para o pessoal",
-        "text": "O que os outros fazem é deles; soltar o pessoal é ganhar liberdade."
+        "text": "O que os outros fazem é deles; soltar o pessoal é ganhar liberdade.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Não leve nada para o pessoal\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: O que os outros fazem é deles; soltar o pessoal é ganhar liberdade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não leve nada para o pessoal\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Não faça suposições",
-        "text": "Pergunte e comunique claro para não alimentar ilusões e conflitos."
+        "text": "Pergunte e comunique claro para não alimentar ilusões e conflitos.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Não faça suposições\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Pergunte e comunique claro para não alimentar ilusões e conflitos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não faça suposições\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Dê sempre o seu melhor",
-        "text": "Conforme suas condições do momento, faça o máximo sem cobrar perfeição."
+        "text": "Conforme suas condições do momento, faça o máximo sem cobrar perfeição.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Dê sempre o seu melhor\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Conforme suas condições do momento, faça o máximo sem cobrar perfeição — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dê sempre o seu melhor\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Desperte do sonho coletivo",
-        "text": "Questionar crenças absorvidas é o primeiro passo para sair do pesadelo."
+        "text": "Questionar crenças absorvidas é o primeiro passo para sair do pesadelo.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Desperte do sonho coletivo\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Questionar crenças absorvidas é o primeiro passo para sair do pesadelo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desperte do sonho coletivo\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Cale o juiz interno",
-        "text": "Reduzir a autocrítica constante alivia o inferno pessoal que criamos."
+        "text": "Reduzir a autocrítica constante alivia o inferno pessoal que criamos.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Cale o juiz interno\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Reduzir a autocrítica constante alivia o inferno pessoal que criamos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cale o juiz interno\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Aceite a perspectiva alheia",
-        "text": "Reconhecer que cada um tem seu sonho reduz o desejo de converter."
+        "text": "Reconhecer que cada um tem seu sonho reduz o desejo de converter.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Aceite a perspectiva alheia\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Reconhecer que cada um tem seu sonho reduz o desejo de converter — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite a perspectiva alheia\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Evite a fofoca",
-        "text": "Falar mal usa a palavra para destruir; impecabilidade protege a todos."
+        "text": "Falar mal usa a palavra para destruir; impecabilidade protege a todos.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Evite a fofoca\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Falar mal usa a palavra para destruir; impecabilidade protege a todos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite a fofoca\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Pratique o silêncio interior",
-        "text": "Menos ruído mental abre espaço para viver os acordos de fato."
+        "text": "Menos ruído mental abre espaço para viver os acordos de fato.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Pratique o silêncio interior\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Menos ruído mental abre espaço para viver os acordos de fato — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique o silêncio interior\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Tolera a imperfeição",
-        "text": "Os acordos são prática contínua, não meta de perfeição instantânea."
+        "text": "Os acordos são prática contínua, não meta de perfeição instantânea.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Tolera a imperfeição\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Os acordos são prática contínua, não meta de perfeição instantânea — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Tolera a imperfeição\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Liberte-se de deveres falsos",
-        "text": "Examinar regras internas revela mandamentos que pode descartar."
+        "text": "Examinar regras internas revela mandamentos que pode descartar.",
+        "explicacoes": [
+          "Em \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\", Don Miguel Ruiz trata \"Liberte-se de deveres falsos\" como peça-chave para os quatro acordos da sabedoria tolteca.",
+          "Na prática: Examinar regras internas revela mandamentos que pode descartar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Liberte-se de deveres falsos\" aplica os quatro acordos da sabedoria tolteca de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -40319,72 +40374,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O sonho do planeta",
         "text": "Ruiz explica o 'sonho' coletivo de crenças que aprendemos sem escolha.",
         "points": [
-          "Crenças absorvidas",
-          "O pesadelo humano"
+          {
+            "t": "Crenças absorvidas",
+            "e": "Ruiz explica o 'sonho' coletivo de crenças que aprendemos sem escolha.",
+            "f": "Estamos sonhando o sonho da sociedade; podemos acordar e sonhar de novo.",
+            "real": true
+          },
+          {
+            "t": "O pesadelo humano",
+            "e": "Ruiz explica o 'sonho' coletivo de crenças que aprendemos sem escolha.",
+            "f": "Na visão de Don Miguel Ruiz, \"o pesadelo humano\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O dom da palavra",
         "text": "A palavra como poder mágico que cria realidade e sofrimento.",
         "points": [
-          "Impecabilidade",
-          "Criação e destruição"
+          {
+            "t": "Impecabilidade",
+            "e": "A palavra como poder mágico que cria realidade e sofrimento.",
+            "f": "Seja impecável com a sua palavra. Ela é o poder de criar com Deus.",
+            "real": true
+          },
+          {
+            "t": "Criação e destruição",
+            "e": "A palavra como poder mágico que cria realidade e sofrimento.",
+            "f": "Na visão de Don Miguel Ruiz, \"criação e destruição\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O primeiro acordo",
         "text": "Ser impecável com a palavra em detalhe e prática.",
         "points": [
-          "Autossabotagem",
-          "Falar com integridade"
+          {
+            "t": "Autossabotagem",
+            "e": "Ser impecável com a palavra em detalhe e prática.",
+            "f": "Na visão de Don Miguel Ruiz, \"autossabotagem\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "Falar com integridade",
+            "e": "Ser impecável com a palavra em detalhe e prática.",
+            "f": "Na visão de Don Miguel Ruiz, \"falar com integridade\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O segundo acordo",
         "text": "Não levar nada para o pessoal liberta do veneno alheio.",
         "points": [
-          "Veneno",
-          "Liberdade"
+          {
+            "t": "Veneno",
+            "e": "Não levar nada para o pessoal liberta do veneno alheio.",
+            "f": "Na visão de Don Miguel Ruiz, \"veneno\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Não levar nada para o pessoal liberta do veneno alheio.",
+            "f": "Na visão de Don Miguel Ruiz, \"liberdade\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O terceiro acordo",
         "text": "Evitar suposições por comunicação direta.",
         "points": [
-          "Ilusões",
-          "Perguntar"
+          {
+            "t": "Ilusões",
+            "e": "Evitar suposições por comunicação direta.",
+            "f": "Na visão de Don Miguel Ruiz, \"ilusões\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "Perguntar",
+            "e": "Evitar suposições por comunicação direta.",
+            "f": "Na visão de Don Miguel Ruiz, \"perguntar\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O quarto acordo",
         "text": "Dar o melhor de si sem a armadilha da perfeição.",
         "points": [
-          "Esforço honesto",
-          "Sem perfeição"
+          {
+            "t": "Esforço honesto",
+            "e": "Dar o melhor de si sem a armadilha da perfeição.",
+            "f": "Na visão de Don Miguel Ruiz, \"esforço honesto\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "Sem perfeição",
+            "e": "Dar o melhor de si sem a armadilha da perfeição.",
+            "f": "Na visão de Don Miguel Ruiz, \"sem perfeição\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A domesticação",
         "text": "Como o juiz e a vítima internos nos mantêm no sonho.",
         "points": [
-          "Juiz interno",
-          "Vítima"
+          {
+            "t": "Juiz interno",
+            "e": "Como o juiz e a vítima internos nos mantêm no sonho.",
+            "f": "Na visão de Don Miguel Ruiz, \"juiz interno\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "Vítima",
+            "e": "Como o juiz e a vítima internos nos mantêm no sonho.",
+            "f": "Na visão de Don Miguel Ruiz, \"vítima\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Rompendo o sonho",
         "text": "Praticar os acordos para despertar gradualmente.",
         "points": [
-          "Prática",
-          "Despertar"
+          {
+            "t": "Prática",
+            "e": "Praticar os acordos para despertar gradualmente.",
+            "f": "Estamos sonhando o sonho da sociedade; podemos acordar e sonhar de novo.",
+            "real": true
+          },
+          {
+            "t": "Despertar",
+            "e": "Praticar os acordos para despertar gradualmente.",
+            "f": "Na visão de Don Miguel Ruiz, \"despertar\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O céu no aqui",
         "text": "A liberdade emocional como estado presente, não futuro.",
         "points": [
-          "Paz",
-          "Estado natural"
+          {
+            "t": "Paz",
+            "e": "A liberdade emocional como estado presente, não futuro.",
+            "f": "Na visão de Don Miguel Ruiz, \"paz\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          },
+          {
+            "t": "Estado natural",
+            "e": "A liberdade emocional como estado presente, não futuro.",
+            "f": "Na visão de Don Miguel Ruiz, \"estado natural\" é parte essencial da proposta de \"As Quatro Verdades: Um Livro de Sabedoria Tolteca\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -40542,57 +40687,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Cultive a potencialidade pura",
-        "text": "Reservar silêncio diário conecta à fonte de onde vêm as ideias."
+        "text": "Reservar silêncio diário conecta à fonte de onde vêm as ideias.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Cultive a potencialidade pura\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Reservar silêncio diário conecta à fonte de onde vêm as ideias — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive a potencialidade pura\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Pratique dar e receber",
-        "text": "Oferecer generosamente mantém o fluxo que traz abundância de volta."
+        "text": "Oferecer generosamente mantém o fluxo que traz abundância de volta.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Pratique dar e receber\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Oferecer generosamente mantém o fluxo que traz abundância de volta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique dar e receber\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Aja consciente do carma",
-        "text": "Toda escolha tem efeito; semear boa causa atrai bom resultado."
+        "text": "Toda escolha tem efeito; semear boa causa atrai bom resultado.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Aja consciente do carma\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Toda escolha tem efeito; semear boa causa atrai bom resultado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja consciente do carma\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Busque o esforço sem esforço",
-        "text": "Trabalhar com a corrente, não contra, economiza energia e atrai sucesso."
+        "text": "Trabalhar com a corrente, não contra, economiza energia e atrai sucesso.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Busque o esforço sem esforço\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Trabalhar com a corrente, não contra, economiza energia e atrai sucesso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque o esforço sem esforço\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Fixe intenções claras",
-        "text": "Declarar o desejo no campo quântico dá direção à atenção e à ação."
+        "text": "Declarar o desejo no campo quântico dá direção à atenção e à ação.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Fixe intenções claras\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Declarar o desejo no campo quântico dá direção à atenção e à ação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fixe intenções claras\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Exercite o desapego",
-        "text": "Soltar a exigência do resultado libera ansiedade e melhora desfechos."
+        "text": "Soltar a exigência do resultado libera ansiedade e melhora desfechos.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Exercite o desapego\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Soltar a exigência do resultado libera ansiedade e melhora desfechos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exercite o desapego\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Encontre seu dharma",
-        "text": "Servir com o que é naturalmente seu alinha propósito e prosperidade."
+        "text": "Servir com o que é naturalmente seu alinha propósito e prosperidade.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Encontre seu dharma\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Servir com o que é naturalmente seu alinha propósito e prosperidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Encontre seu dharma\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Observe sincronicidades",
-        "text": "Tratar coincidências como guia afina a escuta da inteligência natural."
+        "text": "Tratar coincidências como guia afina a escuta da inteligência natural.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Observe sincronicidades\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Tratar coincidências como guia afina a escuta da inteligência natural — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Observe sincronicidades\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Mantenha a abundância em fluxo",
-        "text": "Circular recursos evita a estagnação que bloqueia novas entradas."
+        "text": "Circular recursos evita a estagnação que bloqueia novas entradas.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Mantenha a abundância em fluxo\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Circular recursos evita a estagnação que bloqueia novas entradas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha a abundância em fluxo\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Silencie para criar",
-        "text": "A mente em paz acessa soluções que o barulho esconde."
+        "text": "A mente em paz acessa soluções que o barulho esconde.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Silencie para criar\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: A mente em paz acessa soluções que o barulho esconde — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Silencie para criar\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Una propósito e prosperidade",
-        "text": "Desejo alinhado ao bem coletivo é espiritualmente saudável e eficaz."
+        "text": "Desejo alinhado ao bem coletivo é espiritualmente saudável e eficaz.",
+        "explicacoes": [
+          "Em \"As 7 Leis Espirituais do Sucesso\", Deepak Chopra trata \"Una propósito e prosperidade\" como peça-chave para a cura e a plenitude pela consciência e intenção.",
+          "Na prática: Desejo alinhado ao bem coletivo é espiritualmente saudável e eficaz — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Una propósito e prosperidade\" aplica a cura e a plenitude pela consciência e intenção de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -40614,72 +40814,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Potencialidade pura",
         "text": "A lei de acessar o campo silencioso onde tudo é possível.",
         "points": [
-          "Silêncio",
-          "Criação"
+          {
+            "t": "Silêncio",
+            "e": "A lei de acessar o campo silencioso onde tudo é possível.",
+            "f": "No silêncio da mente habita o campo de todas as possibilidades.",
+            "real": true
+          },
+          {
+            "t": "Criação",
+            "e": "A lei de acessar o campo silencioso onde tudo é possível.",
+            "f": "Na visão de Deepak Chopra, \"criação\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Dar e receber",
         "text": "A circulação como base da abundância.",
         "points": [
-          "Fluxo",
-          "Generosidade"
+          {
+            "t": "Fluxo",
+            "e": "A circulação como base da abundância.",
+            "f": "A lei do dar e receber: o universo opera por troca constante.",
+            "real": true
+          },
+          {
+            "t": "Generosidade",
+            "e": "A circulação como base da abundância.",
+            "f": "Na visão de Deepak Chopra, \"generosidade\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Carma",
         "text": "Causa e efeito aplicados à intenção e à ação.",
         "points": [
-          "Semeadura",
-          "Retorno"
+          {
+            "t": "Semeadura",
+            "e": "Causa e efeito aplicados à intenção e à ação.",
+            "f": "Na visão de Deepak Chopra, \"semeadura\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Retorno",
+            "e": "Causa e efeito aplicados à intenção e à ação.",
+            "f": "Na visão de Deepak Chopra, \"retorno\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Menor resistência",
         "text": "O esforço sem esforço sincronizado com a natureza.",
         "points": [
-          "Corrente",
-          "Economia de energia"
+          {
+            "t": "Corrente",
+            "e": "O esforço sem esforço sincronizado com a natureza.",
+            "f": "Na visão de Deepak Chopra, \"corrente\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Economia de energia",
+            "e": "O esforço sem esforço sincronizado com a natureza.",
+            "f": "Na visão de Deepak Chopra, \"economia de energia\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Intenção e desejo",
         "text": "Focar intenção no campo quântico para materializar.",
         "points": [
-          "Foco",
-          "Campo"
+          {
+            "t": "Foco",
+            "e": "Focar intenção no campo quântico para materializar.",
+            "f": "Na visão de Deepak Chopra, \"foco\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Campo",
+            "e": "Focar intenção no campo quântico para materializar.",
+            "f": "No silêncio da mente habita o campo de todas as possibilidades.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Desapego",
         "text": "Soltar o resultado para atrair mais do que o apegado.",
         "points": [
-          "Liberdade",
-          "Resultado"
+          {
+            "t": "Liberdade",
+            "e": "Soltar o resultado para atrair mais do que o apegado.",
+            "f": "Quando você quer uma coisa com desapego, o universo conspira.",
+            "real": true
+          },
+          {
+            "t": "Resultado",
+            "e": "Soltar o resultado para atrair mais do que o apegado.",
+            "f": "Na visão de Deepak Chopra, \"resultado\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Dharma",
         "text": "Propósito e serviço como expressão natural.",
         "points": [
-          "Vocação",
-          "Serviço"
+          {
+            "t": "Vocação",
+            "e": "Propósito e serviço como expressão natural.",
+            "f": "Na visão de Deepak Chopra, \"vocação\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Serviço",
+            "e": "Propósito e serviço como expressão natural.",
+            "f": "Na visão de Deepak Chopra, \"serviço\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Práticas diárias",
         "text": "Exercícios resumidos para cada lei.",
         "points": [
-          "Rotina",
-          "Aplicação"
+          {
+            "t": "Rotina",
+            "e": "Exercícios resumidos para cada lei.",
+            "f": "Na visão de Deepak Chopra, \"rotina\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Aplicação",
+            "e": "Exercícios resumidos para cada lei.",
+            "f": "Na visão de Deepak Chopra, \"aplicação\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O sucesso como fluxo",
         "text": "Integração das leis numa vida de abundância serena.",
         "points": [
-          "Integração",
-          "Paz"
+          {
+            "t": "Integração",
+            "e": "Integração das leis numa vida de abundância serena.",
+            "f": "O sucesso é um processo de relaxar e abrir, não de perseguir e forçar.",
+            "real": true
+          },
+          {
+            "t": "Paz",
+            "e": "Integração das leis numa vida de abundância serena.",
+            "f": "Na visão de Deepak Chopra, \"paz\" é parte essencial da proposta de \"As 7 Leis Espirituais do Sucesso\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -40837,57 +41127,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Capture tudo",
-        "text": "Anote cada compromisso, ideia e pendência num coletor único confiável."
+        "text": "Anote cada compromisso, ideia e pendência num coletor único confiável.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Capture tudo\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Anote cada compromisso, ideia e pendência num coletor único confiável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Capture tudo\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Clarifique a próxima ação",
-        "text": "Para cada item, defina a ação física seguinte ou descarte-o."
+        "text": "Para cada item, defina a ação física seguinte ou descarte-o.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Clarifique a próxima ação\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Para cada item, defina a ação física seguinte ou descarte-o — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Clarifique a próxima ação\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Organize por contexto",
-        "text": "Listas por local e ferramenta tornam a execução automática."
+        "text": "Listas por local e ferramenta tornam a execução automática.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Organize por contexto\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Listas por local e ferramenta tornam a execução automática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Organize por contexto\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Faça a revisão semanal",
-        "text": "Um ritual semanal mantém o sistema atualizado e a confiança intacta."
+        "text": "Um ritual semanal mantém o sistema atualizado e a confiança intacta.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Faça a revisão semanal\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Um ritual semanal mantém o sistema atualizado e a confiança intacta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça a revisão semanal\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Aplique a regra de dois minutos",
-        "text": "Se leva menos de dois minutos, execute imediatamente."
+        "text": "Se leva menos de dois minutos, execute imediatamente.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Aplique a regra de dois minutos\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Se leva menos de dois minutos, execute imediatamente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique a regra de dois minutos\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Separe 'algum dia/talvez'",
-        "text": "Guardar o não-agora fora da lista de ação reduz ruído."
+        "text": "Guardar o não-agora fora da lista de ação reduz ruído.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Separe 'algum dia/talvez'\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Guardar o não-agora fora da lista de ação reduz ruído — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Separe 'algum dia/talvez'\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Use a lista 'esperando'",
-        "text": "Acompanhar delegações sem microgerenciar mantém o controle."
+        "text": "Acompanhar delegações sem microgerenciar mantém o controle.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Use a lista 'esperando'\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Acompanhar delegações sem microgerenciar mantém o controle — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a lista 'esperando'\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Defina resultados de projeto",
-        "text": "Cada projeto precisa de resultado desejado e próximas ações."
+        "text": "Cada projeto precisa de resultado desejado e próximas ações.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Defina resultados de projeto\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Cada projeto precisa de resultado desejado e próximas ações — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina resultados de projeto\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Libere a mente",
-        "text": "Confiar o armazenamento a um sistema devolve capacidade de pensar."
+        "text": "Confiar o armazenamento a um sistema devolve capacidade de pensar.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Libere a mente\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Confiar o armazenamento a um sistema devolve capacidade de pensar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Libere a mente\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Esteja presente",
-        "text": "GTD visa liberdade para focar no que está à frente, não multitarefa."
+        "text": "GTD visa liberdade para focar no que está à frente, não multitarefa.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Esteja presente\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: GTD visa liberdade para focar no que está à frente, não multitarefa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Esteja presente\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Feche os ciclos",
-        "text": "Concluir e arquivar itens evita a tensão de compromissos abertos."
+        "text": "Concluir e arquivar itens evita a tensão de compromissos abertos.",
+        "explicacoes": [
+          "Em \"Getting Things Done: A Arte da Produtividade sem Estresse\", David Allen trata \"Feche os ciclos\" como peça-chave para o sistema de organização para a mente livre.",
+          "Na prática: Concluir e arquivar itens evita a tensão de compromissos abertos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Feche os ciclos\" aplica o sistema de organização para a mente livre de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -40909,72 +41254,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A prótese do cérebro",
         "text": "Allen introduz a ideia de externalizar a memória para clareza.",
         "points": [
-          "Memória externa",
-          "Clareza"
+          {
+            "t": "Memória externa",
+            "e": "Allen introduz a ideia de externalizar a memória para clareza.",
+            "f": "O seu cérebro é um mau escritório; confie a ele um sistema externo.",
+            "real": true
+          },
+          {
+            "t": "Clareza",
+            "e": "Allen introduz a ideia de externalizar a memória para clareza.",
+            "f": "Na visão de David Allen, \"clareza\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Capturar",
         "text": "Coletar tudo que demanda atenção num único lugar.",
         "points": [
-          "Coletores",
-          "Vazio mental"
+          {
+            "t": "Coletores",
+            "e": "Coletar tudo que demanda atenção num único lugar.",
+            "f": "Na visão de David Allen, \"coletores\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Vazio mental",
+            "e": "Coletar tudo que demanda atenção num único lugar.",
+            "f": "Na visão de David Allen, \"vazio mental\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Clarificar",
         "text": "Decidir significado e próxima ação de cada item.",
         "points": [
-          "Próxima ação",
-          "Descarte"
+          {
+            "t": "Próxima ação",
+            "e": "Decidir significado e próxima ação de cada item.",
+            "f": "A próxima ação é a chave de tudo; sem ela, nada se move.",
+            "real": true
+          },
+          {
+            "t": "Descarte",
+            "e": "Decidir significado e próxima ação de cada item.",
+            "f": "Na visão de David Allen, \"descarte\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Organizar",
         "text": "Listas de projetos, ação, esperando e algum dia.",
         "points": [
-          "Contextos",
-          "Listas"
+          {
+            "t": "Contextos",
+            "e": "Listas de projetos, ação, esperando e algum dia.",
+            "f": "Na visão de David Allen, \"contextos\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Listas",
+            "e": "Listas de projetos, ação, esperando e algum dia.",
+            "f": "Na visão de David Allen, \"listas\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Refletir",
         "text": "A revisão semanal como manutenção do sistema.",
         "points": [
-          "Revisão",
-          "Confiança"
+          {
+            "t": "Revisão",
+            "e": "A revisão semanal como manutenção do sistema.",
+            "f": "Uma revisão semanal é o que mantém o sistema vivo e confiável.",
+            "real": true
+          },
+          {
+            "t": "Confiança",
+            "e": "A revisão semanal como manutenção do sistema.",
+            "f": "Na visão de David Allen, \"confiança\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Engajar",
         "text": "Escolher a ação certa pelo contexto e energia.",
         "points": [
-          "Critério de escolha",
-          "Foco"
+          {
+            "t": "Critério de escolha",
+            "e": "Escolher a ação certa pelo contexto e energia.",
+            "f": "Na visão de David Allen, \"critério de escolha\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "Escolher a ação certa pelo contexto e energia.",
+            "f": "Na visão de David Allen, \"foco\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Projetos",
         "text": "Estruturar resultados e passos de projetos.",
         "points": [
-          "Resultado",
-          "Planos"
+          {
+            "t": "Resultado",
+            "e": "Estruturar resultados e passos de projetos.",
+            "f": "Na visão de David Allen, \"resultado\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Planos",
+            "e": "Estruturar resultados e passos de projetos.",
+            "f": "Na visão de David Allen, \"planos\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O estado de fluxo",
         "text": "Como GTD libera presença e reduz ansiedade.",
         "points": [
-          "Presença",
-          "Calma"
+          {
+            "t": "Presença",
+            "e": "Como GTD libera presença e reduz ansiedade.",
+            "f": "Na visão de David Allen, \"presença\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Calma",
+            "e": "Como GTD libera presença e reduz ansiedade.",
+            "f": "Na visão de David Allen, \"calma\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Implementando",
         "text": "Passos para iniciar o método na vida real.",
         "points": [
-          "Início",
-          "Hábito"
+          {
+            "t": "Início",
+            "e": "Passos para iniciar o método na vida real.",
+            "f": "Na visão de David Allen, \"início\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          },
+          {
+            "t": "Hábito",
+            "e": "Passos para iniciar o método na vida real.",
+            "f": "Na visão de David Allen, \"hábito\" é parte essencial da proposta de \"Getting Things Done: A Arte da Produtividade sem Estresse\".",
+            "real": false
+          }
         ]
       }
     ]
