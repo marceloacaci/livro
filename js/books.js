@@ -13721,62 +13721,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Aceite que você é Human",
-        "text": "Reconheça vieses; não espere racionalidade perfeita de si."
+        "text": "Reconheça vieses; não espere racionalidade perfeita de si.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Aceite que você é Human\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Reconheça vieses; não espere racionalidade perfeita de si — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite que você é Human\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Desenhe bons defaults",
-        "text": "Torne a boa escolha o padrão automático em sua vida."
+        "text": "Torne a boa escolha o padrão automático em sua vida.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Desenhe bons defaults\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Torne a boa escolha o padrão automático em sua vida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desenhe bons defaults\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Reduza opções demais",
-        "text": "Filtre para evitar paralisia; menos, bem escolhido, decide."
+        "text": "Filtre para evitar paralisia; menos, bem escolhido, decide.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Reduza opções demais\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Filtre para evitar paralisia; menos, bem escolhido, decide — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza opções demais\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Automatize o bem",
-        "text": "Aposentadoria e poupança em automático vencem a procrastinação."
+        "text": "Aposentadoria e poupança em automático vencem a procrastinação.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Automatize o bem\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Aposentadoria e poupança em automático vencem a procrastinação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Automatize o bem\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Mude a arquitetura",
-        "text": "Posicione o saudável à vista e o ruim fora de alcance."
+        "text": "Posicione o saudável à vista e o ruim fora de alcance.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Mude a arquitetura\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Posicione o saudável à vista e o ruim fora de alcance — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mude a arquitetura\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Dê feedback rápido",
-        "text": "Veja o resultado na hora para corrigir comportamento."
+        "text": "Veja o resultado na hora para corrigir comportamento.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Dê feedback rápido\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Veja o resultado na hora para corrigir comportamento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dê feedback rápido\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Use opt-out onde vale",
-        "text": "Tornar adesão o padrão aumenta adesão sem obrigar."
+        "text": "Tornar adesão o padrão aumenta adesão sem obrigar.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Use opt-out onde vale\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Tornar adesão o padrão aumenta adesão sem obrigar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use opt-out onde vale\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Evite armadilhas ocultas",
-        "text": "Leia o essencial e rejeite fine print predatório."
+        "text": "Leia o essencial e rejeite fine print predatório.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Evite armadilhas ocultas\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Leia o essencial e rejeite fine print predatório — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite armadilhas ocultas\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Aplique paternalismo libertário",
-        "text": "Empurre a si mesmo sem se proibir; respeite liberdade."
+        "text": "Empurre a si mesmo sem se proibir; respeite liberdade.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Aplique paternalismo libertário\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Empurre a si mesmo sem se proibir; respeite liberdade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique paternalismo libertário\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Foque em escala",
-        "text": "Pequenos nudges repetidos superam intentos heroicos."
+        "text": "Pequenos nudges repetidos superam intentos heroicos.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Foque em escala\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Pequenos nudges repetidos superam intentos heroicos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque em escala\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Seja choice architect",
-        "text": "Assuma o desenho de suas escolhas diárias."
+        "text": "Assuma o desenho de suas escolhas diárias.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Seja choice architect\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Assuma o desenho de suas escolhas diárias — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja choice architect\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Exija transparência",
-        "text": "Nudges éticos são claros; desconfie dos obscuros."
+        "text": "Nudges éticos são claros; desconfie dos obscuros.",
+        "explicacoes": [
+          "Em \"Nudge: Empurrando para a Escolha Certa\", Richard H. Thaler trata \"Exija transparência\" como peça-chave para o paternalismo libertário e os empurrões (nudges).",
+          "Na prática: Nudges éticos são claros; desconfie dos obscuros — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exija transparência\" aplica o paternalismo libertário e os empurrões (nudges) de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -13798,72 +13858,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Humanos e Econs",
         "text": "Por que a teoria econômica clássica falha e entra a economia comportamental.",
         "points": [
-          "Viés",
-          "Racionalidade limitada",
-          "Necessidade"
+          {
+            "t": "Viés",
+            "e": "Por que a teoria econômica clássica falha e entra a economia comportamental.",
+            "f": "Nós somos Humans, não Econs; somos influenciáveis e propensos a erros sistemáticos.",
+            "real": true
+          },
+          {
+            "t": "Racionalidade limitada",
+            "e": "Por que a teoria econômica clássica falha e entra a economia comportamental.",
+            "f": "Na visão de Richard H. Thaler, \"racionalidade limitada\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          },
+          {
+            "t": "Necessidade",
+            "e": "Por que a teoria econômica clássica falha e entra a economia comportamental.",
+            "f": "Na visão de Richard H. Thaler, \"necessidade\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Arquitetura de escolha",
         "text": "Como o contexto e a apresentação moldam decisões.",
         "points": [
-          "Contexto",
-          "Apresentação",
-          "Poder"
+          {
+            "t": "Contexto",
+            "e": "Como o contexto e a apresentação moldam decisões.",
+            "f": "Liberdade e empurrão podem coexistir: paternalismo libertário respeita a escolha.",
+            "real": true
+          },
+          {
+            "t": "Apresentação",
+            "e": "Como o contexto e a apresentação moldam decisões.",
+            "f": "Uma escolha bem arquitetada bate um sermão moral.",
+            "real": true
+          },
+          {
+            "t": "Poder",
+            "e": "Como o contexto e a apresentação moldam decisões.",
+            "f": "Nunca subestime o poder do default; é o empurrão mais silencioso e eficaz.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O poder do default",
         "text": "Opt-in vs opt-out e o caso da doação de órgãos.",
         "points": [
-          "Default",
-          "Doação",
-          "Liberdade"
+          {
+            "t": "Default",
+            "e": "Opt-in vs opt-out e o caso da doação de órgãos.",
+            "f": "Nunca subestime o poder do default; é o empurrão mais silencioso e eficaz.",
+            "real": true
+          },
+          {
+            "t": "Doação",
+            "e": "Opt-in vs opt-out e o caso da doação de órgãos.",
+            "f": "Na visão de Richard H. Thaler, \"doação\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Opt-in vs opt-out e o caso da doação de órgãos.",
+            "f": "Liberdade e empurrão podem coexistir: paternalismo libertário respeita a escolha.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Paralisia de escolha",
         "text": "Excesso de opções trava; filtrar ajuda.",
         "points": [
-          "Sobrecarga",
-          "Filtro",
-          "Decisão"
+          {
+            "t": "Sobrecarga",
+            "e": "Excesso de opções trava; filtrar ajuda.",
+            "f": "Liberdade e empurrão podem coexistir: paternalismo libertário respeita a escolha.",
+            "real": true
+          },
+          {
+            "t": "Filtro",
+            "e": "Excesso de opções trava; filtrar ajuda.",
+            "f": "Uma escolha bem arquitetada bate um sermão moral.",
+            "real": true
+          },
+          {
+            "t": "Decisão",
+            "e": "Excesso de opções trava; filtrar ajuda.",
+            "f": "Na visão de Richard H. Thaler, \"decisão\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Nudges na saúde",
         "text": "Porção, disposição e feedback nas cantinas.",
         "points": [
-          "Porção",
-          "Balança",
-          "Comportamento"
+          {
+            "t": "Porção",
+            "e": "Porção, disposição e feedback nas cantinas.",
+            "f": "Na visão de Richard H. Thaler, \"porção\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          },
+          {
+            "t": "Balança",
+            "e": "Porção, disposição e feedback nas cantinas.",
+            "f": "Na visão de Richard H. Thaler, \"balança\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          },
+          {
+            "t": "Comportamento",
+            "e": "Porção, disposição e feedback nas cantinas.",
+            "f": "Na visão de Richard H. Thaler, \"comportamento\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Dinheiro e aposentadoria",
         "text": "Automático e escolha por default nas poupanças.",
         "points": [
-          "Auto-enrollment",
-          "Poupança",
-          "Futuro"
+          {
+            "t": "Auto-enrollment",
+            "e": "Automático e escolha por default nas poupanças.",
+            "f": "Na visão de Richard H. Thaler, \"auto-enrollment\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          },
+          {
+            "t": "Poupança",
+            "e": "Automático e escolha por default nas poupanças.",
+            "f": "Na visão de Richard H. Thaler, \"poupança\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          },
+          {
+            "t": "Futuro",
+            "e": "Automático e escolha por default nas poupanças.",
+            "f": "Na visão de Richard H. Thaler, \"futuro\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Meio ambiente",
         "text": "Empurrões para consumo sustentável sem proibição.",
         "points": [
-          "Energia",
-          "Sustentabilidade",
-          "Escala"
+          {
+            "t": "Energia",
+            "e": "Empurrões para consumo sustentável sem proibição.",
+            "f": "Na visão de Richard H. Thaler, \"energia\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          },
+          {
+            "t": "Sustentabilidade",
+            "e": "Empurrões para consumo sustentável sem proibição.",
+            "f": "Na visão de Richard H. Thaler, \"sustentabilidade\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          },
+          {
+            "t": "Escala",
+            "e": "Empurrões para consumo sustentável sem proibição.",
+            "f": "Na visão de Richard H. Thaler, \"escala\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Paternalismo libertário",
         "text": "A ética de empurrar sem proibir e o papel do arquiteto.",
         "points": [
-          "Ética",
-          "Liberdade",
-          "Transparência"
+          {
+            "t": "Ética",
+            "e": "A ética de empurrar sem proibir e o papel do arquiteto.",
+            "f": "Liberdade e empurrão podem coexistir: paternalismo libertário respeita a escolha.",
+            "real": true
+          },
+          {
+            "t": "Liberdade",
+            "e": "A ética de empurrar sem proibir e o papel do arquiteto.",
+            "f": "Na visão de Richard H. Thaler, \"liberdade\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          },
+          {
+            "t": "Transparência",
+            "e": "A ética de empurrar sem proibir e o papel do arquiteto.",
+            "f": "Na visão de Richard H. Thaler, \"transparência\" é parte essencial da proposta de \"Nudge: Empurrando para a Escolha Certa\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -14027,62 +14207,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Seja proativo",
-        "text": "Assuma responsabilidade; foque no que pode influenciar."
+        "text": "Assuma responsabilidade; foque no que pode influenciar.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Seja proativo\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Assuma responsabilidade; foque no que pode influenciar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja proativo\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Comece com o fim em mente",
-        "text": "Defina propósito e deixe-o guiar escolhas diárias."
+        "text": "Defina propósito e deixe-o guiar escolhas diárias.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Comece com o fim em mente\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Defina propósito e deixe-o guiar escolhas diárias — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece com o fim em mente\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Coloque primeiro o primeiro",
-        "text": "Priorize o importante não-urgente na matriz do tempo."
+        "text": "Priorize o importante não-urgente na matriz do tempo.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Coloque primeiro o primeiro\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Priorize o importante não-urgente na matriz do tempo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Coloque primeiro o primeiro\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Pense ganha-ganha",
-        "text": "Busque benefício mútuo; relacionamentos saudáveis valem mais."
+        "text": "Busque benefício mútuo; relacionamentos saudáveis valem mais.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Pense ganha-ganha\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Busque benefício mútuo; relacionamentos saudáveis valem mais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense ganha-ganha\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Entenda antes de ser entendido",
-        "text": "Ouça empaticamente; diagnóstico precede prescrição."
+        "text": "Ouça empaticamente; diagnóstico precede prescrição.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Entenda antes de ser entendido\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Ouça empaticamente; diagnóstico precede prescrição — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda antes de ser entendido\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Sinergize",
-        "text": "Valorize diferenças para criar resultado maior que a soma."
+        "text": "Valorize diferenças para criar resultado maior que a soma.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Sinergize\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Valorize diferenças para criar resultado maior que a soma — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sinergize\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Afinie a serra",
-        "text": "Renove corpo, mente, emoção e espírito regularmente."
+        "text": "Renove corpo, mente, emoção e espírito regularmente.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Afinie a serra\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Renove corpo, mente, emoção e espírito regularmente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Afinie a serra\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Mude de dentro para fora",
-        "text": "Ordem privada vem antes da pública; lidere a si."
+        "text": "Ordem privada vem antes da pública; lidere a si.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Mude de dentro para fora\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Ordem privada vem antes da pública; lidere a si — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mude de dentro para fora\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Centre-se em princípios",
-        "text": "Use princípios universais como bússola, não modismos."
+        "text": "Use princípios universais como bússola, não modismos.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Centre-se em princípios\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Use princípios universais como bússola, não modismos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Centre-se em princípios\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Amplie o círculo de influência",
-        "text": "Ação local expande o que controla; reclamação encolhe."
+        "text": "Ação local expande o que controla; reclamação encolhe.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Amplie o círculo de influência\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Ação local expande o que controla; reclamação encolhe — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Amplie o círculo de influência\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Busque interdependência",
-        "text": "Eficácia plena floresce na colaboração madura."
+        "text": "Eficácia plena floresce na colaboração madura.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Busque interdependência\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Eficácia plena floresce na colaboração madura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque interdependência\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Viva os hábitos em cadeia",
-        "text": "Eles se reforçam; pratique a sequência completa."
+        "text": "Eles se reforçam; pratique a sequência completa.",
+        "explicacoes": [
+          "Em \"Os 7 Hábitos das Pessoas Altamente Eficazes\", Stephen R. Covey trata \"Viva os hábitos em cadeia\" como peça-chave para a eficácia pessoal a partir de princípios e paradigmas.",
+          "Na prática: Eles se reforçam; pratique a sequência completa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva os hábitos em cadeia\" aplica a eficácia pessoal a partir de princípios e paradigmas de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -14104,72 +14344,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A ética do caráter",
         "text": "Covey diferencia caráter de personalidade e propõe princípios.",
         "points": [
-          "Caráter vs imagem",
-          "Princípios",
-          "Paradigma"
+          {
+            "t": "Caráter vs imagem",
+            "e": "Covey diferencia caráter de personalidade e propõe princípios.",
+            "f": "Na visão de Stephen R. Covey, \"caráter vs imagem\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Princípios",
+            "e": "Covey diferencia caráter de personalidade e propõe princípios.",
+            "f": "Na visão de Stephen R. Covey, \"princípios\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Paradigma",
+            "e": "Covey diferencia caráter de personalidade e propõe princípios.",
+            "f": "Não podemos mudar o fruto sem primeiro mudar a raiz; não podemos mudar a manifestação sem mudar o paradigma.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Hábito 1: proatividade",
         "text": "Responsabilidade e círculo de influência.",
         "points": [
-          "Livre arbitrio",
-          "Influência",
-          "Reação"
+          {
+            "t": "Livre arbitrio",
+            "e": "Responsabilidade e círculo de influência.",
+            "f": "Na visão de Stephen R. Covey, \"livre arbitrio\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Influência",
+            "e": "Responsabilidade e círculo de influência.",
+            "f": "Na visão de Stephen R. Covey, \"influência\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Reação",
+            "e": "Responsabilidade e círculo de influência.",
+            "f": "Na visão de Stephen R. Covey, \"reação\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Hábito 2: fim em mente",
         "text": "Liderança pessoal e propósito claro.",
         "points": [
-          "Centro",
-          "Missão",
-          "Direção"
+          {
+            "t": "Centro",
+            "e": "Liderança pessoal e propósito claro.",
+            "f": "Na visão de Stephen R. Covey, \"centro\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Missão",
+            "e": "Liderança pessoal e propósito claro.",
+            "f": "Na visão de Stephen R. Covey, \"missão\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Direção",
+            "e": "Liderança pessoal e propósito claro.",
+            "f": "Na visão de Stephen R. Covey, \"direção\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Hábito 3: primeiro o primeiro",
         "text": "Matriz do tempo e priorização do importante.",
         "points": [
-          "Matriz",
-          "Importante",
-          "Não-urgente"
+          {
+            "t": "Matriz",
+            "e": "Matriz do tempo e priorização do importante.",
+            "f": "Não podemos mudar o fruto sem primeiro mudar a raiz; não podemos mudar a manifestação sem mudar o paradigma.",
+            "real": true
+          },
+          {
+            "t": "Importante",
+            "e": "Matriz do tempo e priorização do importante.",
+            "f": "Na visão de Stephen R. Covey, \"importante\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Não-urgente",
+            "e": "Matriz do tempo e priorização do importante.",
+            "f": "Na visão de Stephen R. Covey, \"não-urgente\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Hábito 4: ganha-ganha",
         "text": "Mentalidade de abundância e acordos.",
         "points": [
-          "Abundância",
-          "Acordo",
-          "Relação"
+          {
+            "t": "Abundância",
+            "e": "Mentalidade de abundância e acordos.",
+            "f": "Na visão de Stephen R. Covey, \"abundância\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Acordo",
+            "e": "Mentalidade de abundância e acordos.",
+            "f": "Na visão de Stephen R. Covey, \"acordo\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Relação",
+            "e": "Mentalidade de abundância e acordos.",
+            "f": "Na visão de Stephen R. Covey, \"relação\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Hábito 5: entender primeiro",
         "text": "Comunicação empática e escuta.",
         "points": [
-          "Empatia",
-          "Diagnóstico",
-          "Conexão"
+          {
+            "t": "Empatia",
+            "e": "Comunicação empática e escuta.",
+            "f": "Não podemos mudar o fruto sem primeiro mudar a raiz; não podemos mudar a manifestação sem mudar o paradigma.",
+            "real": true
+          },
+          {
+            "t": "Diagnóstico",
+            "e": "Comunicação empática e escuta.",
+            "f": "Na visão de Stephen R. Covey, \"diagnóstico\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Conexão",
+            "e": "Comunicação empática e escuta.",
+            "f": "Na visão de Stephen R. Covey, \"conexão\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Hábito 6: sinergia",
         "text": "Valorizar diferenças para criar mais.",
         "points": [
-          "Diferença",
-          "Terceira via",
-          "Resultado"
+          {
+            "t": "Diferença",
+            "e": "Valorizar diferenças para criar mais.",
+            "f": "Na visão de Stephen R. Covey, \"diferença\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Terceira via",
+            "e": "Valorizar diferenças para criar mais.",
+            "f": "Na visão de Stephen R. Covey, \"terceira via\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Resultado",
+            "e": "Valorizar diferenças para criar mais.",
+            "f": "Na visão de Stephen R. Covey, \"resultado\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Hábito 7: afinar a serra",
         "text": "Renovação física, mental, social e espiritual.",
         "points": [
-          "Renovação",
-          "Equilíbrio",
-          "Sustento"
+          {
+            "t": "Renovação",
+            "e": "Renovação física, mental, social e espiritual.",
+            "f": "Afinar a serra é preservar e renovar o maior bem que temos: nós mesmos.",
+            "real": true
+          },
+          {
+            "t": "Equilíbrio",
+            "e": "Renovação física, mental, social e espiritual.",
+            "f": "Na visão de Stephen R. Covey, \"equilíbrio\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          },
+          {
+            "t": "Sustento",
+            "e": "Renovação física, mental, social e espiritual.",
+            "f": "Na visão de Stephen R. Covey, \"sustento\" é parte essencial da proposta de \"Os 7 Hábitos das Pessoas Altamente Eficazes\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -14333,62 +14693,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Defina seu propósito",
-        "text": "Saiba por que acorda; propósito orienta a ambição."
+        "text": "Saiba por que acorda; propósito orienta a ambição.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Defina seu propósito\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Saiba por que acorda; propósito orienta a ambição — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina seu propósito\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Honre seu tempo",
-        "text": "Trate o tempo como finito e sagrado; use com intenção."
+        "text": "Trate o tempo como finito e sagrado; use com intenção.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Honre seu tempo\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Trate o tempo como finito e sagrado; use com intenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Honre seu tempo\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Pratique kaizen",
-        "text": "Melhore um pouco todo dia; passos pequenos transformam."
+        "text": "Melhore um pouco todo dia; passos pequenos transformam.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Pratique kaizen\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Melhore um pouco todo dia; passos pequenos transformam — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique kaizen\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Cultive disciplina",
-        "text": "Estrutura diária libera energia para o que importa."
+        "text": "Estrutura diária libera energia para o que importa.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Cultive disciplina\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Estrutura diária libera energia para o que importa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive disciplina\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Conheça-se",
-        "text": "Reserve tempo para escrever sua própria história interior."
+        "text": "Reserve tempo para escrever sua própria história interior.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Conheça-se\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Reserve tempo para escrever sua própria história interior — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça-se\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Viva o presente",
-        "text": "Presença plena vence ansiedade de passado e futuro."
+        "text": "Presença plena vence ansiedade de passado e futuro.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Viva o presente\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Presença plena vence ansiedade de passado e futuro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva o presente\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Sirva aos outros",
-        "text": "Dar sem esperar retorno preenche mais que acumular."
+        "text": "Dar sem esperar retorno preenche mais que acumular.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Sirva aos outros\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Dar sem esperar retorno preenche mais que acumular — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sirva aos outros\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Cuide do corpo",
-        "text": "Saúde e mente integradas sustentam a sabedoria."
+        "text": "Saúde e mente integradas sustentam a sabedoria.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Cuide do corpo\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Saúde e mente integradas sustentam a sabedoria — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuide do corpo\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Seja autêntico",
-        "text": "Tire a máscara; viva quem você realmente é."
+        "text": "Tire a máscara; viva quem você realmente é.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Seja autêntico\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Tire a máscara; viva quem você realmente é — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja autêntico\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Busque sabedoria interior",
-        "text": "A lâmpada simboliza ouvir a própria voz, não o ruído externo."
+        "text": "A lâmpada simboliza ouvir a própria voz, não o ruído externo.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Busque sabedoria interior\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: A lâmpada simboliza ouvir a própria voz, não o ruído externo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque sabedoria interior\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Comece quando puder",
-        "text": "Mudança tardia ainda é mudança; não espere o colapso."
+        "text": "Mudança tardia ainda é mudança; não espere o colapso.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Comece quando puder\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Mudança tardia ainda é mudança; não espere o colapso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece quando puder\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Equilibre ambição e alma",
-        "text": "Realização externa sem interna é falência da alma."
+        "text": "Realização externa sem interna é falência da alma.",
+        "explicacoes": [
+          "Em \"O Monge Que Vendeu Sua Ferrari\", Robin Sharma trata \"Equilibre ambição e alma\" como peça-chave para a vida extraordinária pela disciplina e propósito.",
+          "Na prática: Realização externa sem interna é falência da alma — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Equilibre ambição e alma\" aplica a vida extraordinária pela disciplina e propósito de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -14410,72 +14830,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A queda de Julian",
         "text": "Advogado rico sofre ataque e vende tudo; o início da jornada.",
         "points": [
-          "Esgotamento",
-          "Ferrari vendida",
-          "Chamado"
+          {
+            "t": "Esgotamento",
+            "e": "Advogado rico sofre ataque e vende tudo; o início da jornada.",
+            "f": "Na visão de Robin Sharma, \"esgotamento\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Ferrari vendida",
+            "e": "Advogado rico sofre ataque e vende tudo; o início da jornada.",
+            "f": "A vida pede que vivamos com paixão, propósito e plenitude — não apenas com um belo relógio e uma Ferrari.",
+            "real": true
+          },
+          {
+            "t": "Chamado",
+            "e": "Advogado rico sofre ataque e vende tudo; o início da jornada.",
+            "f": "Na visão de Robin Sharma, \"chamado\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Os Sábios de Sivana",
         "text": "Julian encontra os mestres e recebe as virtudes.",
         "points": [
-          "Himalaia",
-          "Sábios",
-          "Segredo"
+          {
+            "t": "Himalaia",
+            "e": "Julian encontra os mestres e recebe as virtudes.",
+            "f": "Na visão de Robin Sharma, \"himalaia\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Sábios",
+            "e": "Julian encontra os mestres e recebe as virtudes.",
+            "f": "Na visão de Robin Sharma, \"sábios\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Segredo",
+            "e": "Julian encontra os mestres e recebe as virtudes.",
+            "f": "Na visão de Robin Sharma, \"segredo\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O relógio de ouro (tempo)",
         "text": "Use o presente com intenção; o tempo é finito.",
         "points": [
-          "Tempo",
-          "Presente",
-          "Urgência"
+          {
+            "t": "Tempo",
+            "e": "Use o presente com intenção; o tempo é finito.",
+            "f": "A riqueza verdadeira é ter tempo para viver o que ama.",
+            "real": true
+          },
+          {
+            "t": "Presente",
+            "e": "Use o presente com intenção; o tempo é finito.",
+            "f": "A vida pede que vivamos com paixão, propósito e plenitude — não apenas com um belo relógio e uma Ferrari.",
+            "real": true
+          },
+          {
+            "t": "Urgência",
+            "e": "Use o presente com intenção; o tempo é finito.",
+            "f": "Na visão de Robin Sharma, \"urgência\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — As dez rosas (kaizen)",
         "text": "Melhoria diária de 1% transforma a vida.",
         "points": [
-          "Kaizen",
-          "Pequenos passos",
-          "Mudança"
+          {
+            "t": "Kaizen",
+            "e": "Melhoria diária de 1% transforma a vida.",
+            "f": "Cultive o hábito de melhorar 1% ao dia; pequenas rosas viram jardim.",
+            "real": true
+          },
+          {
+            "t": "Pequenos passos",
+            "e": "Melhoria diária de 1% transforma a vida.",
+            "f": "Na visão de Robin Sharma, \"pequenos passos\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Mudança",
+            "e": "Melhoria diária de 1% transforma a vida.",
+            "f": "Na visão de Robin Sharma, \"mudança\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O livro em branco (autoconhecimento)",
         "text": "Escreva sua própria história interior.",
         "points": [
-          "Eu",
-          "História",
-          "Clareza"
+          {
+            "t": "Eu",
+            "e": "Escreva sua própria história interior.",
+            "f": "Na visão de Robin Sharma, \"eu\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "História",
+            "e": "Escreva sua própria história interior.",
+            "f": "Na visão de Robin Sharma, \"história\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Clareza",
+            "e": "Escreva sua própria história interior.",
+            "f": "Na visão de Robin Sharma, \"clareza\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O bastão (disciplina)",
         "text": "Estrutura diária que libera, não prende.",
         "points": [
-          "Disciplina",
-          "Rotina",
-          "Liberdade"
+          {
+            "t": "Disciplina",
+            "e": "Estrutura diária que libera, não prende.",
+            "f": "A disciplina parece escolha; a falta dela torna-se obrigação.",
+            "real": true
+          },
+          {
+            "t": "Rotina",
+            "e": "Estrutura diária que libera, não prende.",
+            "f": "Na visão de Robin Sharma, \"rotina\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Estrutura diária que libera, não prende.",
+            "f": "Na visão de Robin Sharma, \"liberdade\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A máscara e o silêncio",
         "text": "Autenticidade e presença plena.",
         "points": [
-          "Autenticidade",
-          "Presença",
-          "Paz"
+          {
+            "t": "Autenticidade",
+            "e": "Autenticidade e presença plena.",
+            "f": "Na visão de Robin Sharma, \"autenticidade\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Presença",
+            "e": "Autenticidade e presença plena.",
+            "f": "Na visão de Robin Sharma, \"presença\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Paz",
+            "e": "Autenticidade e presença plena.",
+            "f": "Na visão de Robin Sharma, \"paz\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A lâmpada e o serviço",
         "text": "Sabedoria interior e dar aos outros.",
         "points": [
-          "Sabedoria",
-          "Serviço",
-          "Sentido"
+          {
+            "t": "Sabedoria",
+            "e": "Sabedoria interior e dar aos outros.",
+            "f": "Na visão de Robin Sharma, \"sabedoria\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Serviço",
+            "e": "Sabedoria interior e dar aos outros.",
+            "f": "Na visão de Robin Sharma, \"serviço\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          },
+          {
+            "t": "Sentido",
+            "e": "Sabedoria interior e dar aos outros.",
+            "f": "Na visão de Robin Sharma, \"sentido\" é parte essencial da proposta de \"O Monge Que Vendeu Sua Ferrari\".",
+            "real": false
+          }
         ]
       }
     ]
