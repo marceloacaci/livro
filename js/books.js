@@ -21975,57 +21975,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Descarte antes de guardar",
-        "text": "Elimine o excesso antes de pensar em onde colocar."
+        "text": "Elimine o excesso antes de pensar em onde colocar.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Descarte antes de guardar\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: Elimine o excesso antes de pensar em onde colocar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Descarte antes de guardar\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Por categoria, não por cômodo",
-        "text": "Reúna todas as peças de uma categoria para ver o volume real."
+        "text": "Reúna todas as peças de uma categoria para ver o volume real.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Por categoria, não por cômodo\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: Reúna todas as peças de uma categoria para ver o volume real — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Por categoria, não por cômodo\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Pergunte \"spark joy?\"",
-        "text": "Mantenha só o que traz alegria genuína ao tocar."
+        "text": "Mantenha só o que traz alegria genuína ao tocar.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Pergunte \"spark joy?\"\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: Mantenha só o que traz alegria genuína ao tocar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pergunte \"spark joy?\"\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Siga a ordem certa",
-        "text": "Roupas, livros, papéis, komono e por fim sentimentais."
+        "text": "Roupas, livros, papéis, komono e por fim sentimentais.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Siga a ordem certa\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: Roupas, livros, papéis, komono e por fim sentimentais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Siga a ordem certa\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Dobre roupas verticalmente",
-        "text": "Peças de pé poupam espaço e preservam o tecido."
+        "text": "Peças de pé poupam espaço e preservam o tecido.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Dobre roupas verticalmente\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: Peças de pé poupam espaço e preservam o tecido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dobre roupas verticalmente\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Agradeça ao objecto",
-        "text": "O gesto torna o desapego leve e consciente."
+        "text": "O gesto torna o desapego leve e consciente.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Agradeça ao objecto\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: O gesto torna o desapego leve e consciente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Agradeça ao objecto\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Corte compras por impulso",
-        "text": "Com critério afiado, entra menos coisa nova em casa."
+        "text": "Com critério afiado, entra menos coisa nova em casa.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Corte compras por impulso\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: Com critério afiado, entra menos coisa nova em casa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Corte compras por impulso\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Evite organizadores novos",
-        "text": "O excesso é a causa; resolver o excesso resolve o armazenamento."
+        "text": "O excesso é a causa; resolver o excesso resolve o armazenamento.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Evite organizadores novos\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: O excesso é a causa; resolver o excesso resolve o armazenamento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite organizadores novos\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Trate como ritual",
-        "text": "Arrumar vira clareza mental, não penitência doméstica."
+        "text": "Arrumar vira clareza mental, não penitência doméstica.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Trate como ritual\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: Arrumar vira clareza mental, não penitência doméstica — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trate como ritual\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Adapte à sua casa",
-        "text": "Famílias grandes precisam de ajustes ao método."
+        "text": "Famílias grandes precisam de ajustes ao método.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Adapte à sua casa\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: Famílias grandes precisam de ajustes ao método — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Adapte à sua casa\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Exercite a decisão",
-        "text": "Cada escolha treina seu critério para toda a vida."
+        "text": "Cada escolha treina seu critério para toda a vida.",
+        "explicacoes": [
+          "Em \"A Mágica da Arrumação\", Marie Kondo trata \"Exercite a decisão\" como peça-chave para a arrumação que traz apenas o que gera alegria.",
+          "Na prática: Cada escolha treina seu critério para toda a vida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exercite a decisão\" aplica a arrumação que traz apenas o que gera alegria de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -22047,64 +22102,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Por que Arrumar Muda a Vida",
         "text": "Kondo conecta casa em ordem a clareza mental e felicidade.",
         "points": [
-          "Casa e mente.",
-          "Propósito."
+          {
+            "t": "Casa e mente.",
+            "e": "Kondo conecta casa em ordem a clareza mental e felicidade.",
+            "f": "Uma casa arrumada é um espelho de uma mente clara.",
+            "real": true
+          },
+          {
+            "t": "Propósito.",
+            "e": "Kondo conecta casa em ordem a clareza mental e felicidade.",
+            "f": "Na visão de Marie Kondo, \"propósito.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Método de uma Vez",
         "text": "Defende fazer a arrumação num surto decisivo, não aos poucos.",
         "points": [
-          "Surto.",
-          "Decisão."
+          {
+            "t": "Surto.",
+            "e": "Defende fazer a arrumação num surto decisivo, não aos poucos.",
+            "f": "Na visão de Marie Kondo, \"surto.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          },
+          {
+            "t": "Decisão.",
+            "e": "Defende fazer a arrumação num surto decisivo, não aos poucos.",
+            "f": "Na visão de Marie Kondo, \"decisão.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Por Categoria",
         "text": "Ensina reunir todas as peças de uma categoria antes de escolher.",
         "points": [
-          "Volume real.",
-          "Visão."
+          {
+            "t": "Volume real.",
+            "e": "Ensina reunir todas as peças de uma categoria antes de escolher.",
+            "f": "Descarte por categoria, nunca por cômodo.",
+            "real": true
+          },
+          {
+            "t": "Visão.",
+            "e": "Ensina reunir todas as peças de uma categoria antes de escolher.",
+            "f": "Na visão de Marie Kondo, \"visão.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Regra do \"Spark Joy\"",
         "text": "A pergunta da alegria substitui a indecisão por critério claro.",
         "points": [
-          "Critério.",
-          "Emoção."
+          {
+            "t": "Critério.",
+            "e": "A pergunta da alegria substitui a indecisão por critério claro.",
+            "f": "Na visão de Marie Kondo, \"critério.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          },
+          {
+            "t": "Emoção.",
+            "e": "A pergunta da alegria substitui a indecisão por critério claro.",
+            "f": "Na visão de Marie Kondo, \"emoção.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A Ordem Certa",
         "text": "Roupas, livros, papéis, komono e sentimentais, nesta sequência.",
         "points": [
-          "Sequência.",
-          "Dificuldade."
+          {
+            "t": "Sequência.",
+            "e": "Roupas, livros, papéis, komono e sentimentais, nesta sequência.",
+            "f": "Na visão de Marie Kondo, \"sequência.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          },
+          {
+            "t": "Dificuldade.",
+            "e": "Roupas, livros, papéis, komono e sentimentais, nesta sequência.",
+            "f": "Na visão de Marie Kondo, \"dificuldade.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Como Dobrar",
         "text": "Mostra o método vertical que poupa espaço e respeita tecido.",
         "points": [
-          "Dobra.",
-          "Respeito."
+          {
+            "t": "Dobra.",
+            "e": "Mostra o método vertical que poupa espaço e respeita tecido.",
+            "f": "Na visão de Marie Kondo, \"dobra.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          },
+          {
+            "t": "Respeito.",
+            "e": "Mostra o método vertical que poupa espaço e respeita tecido.",
+            "f": "Na visão de Marie Kondo, \"respeito.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Agradecer aos Objetos",
         "text": "O ritual de gratidão torna o desapego consciente.",
         "points": [
-          "Gratidão.",
-          "Desapego."
+          {
+            "t": "Gratidão.",
+            "e": "O ritual de gratidão torna o desapego consciente.",
+            "f": "Na visão de Marie Kondo, \"gratidão.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          },
+          {
+            "t": "Desapego.",
+            "e": "O ritual de gratidão torna o desapego consciente.",
+            "f": "Na visão de Marie Kondo, \"desapego.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O Lar que Reflete Você",
         "text": "Conclui com a casa como espelho e suporte da vida desejada.",
         "points": [
-          "Espelho.",
-          "Vida."
+          {
+            "t": "Espelho.",
+            "e": "Conclui com a casa como espelho e suporte da vida desejada.",
+            "f": "Uma casa arrumada é um espelho de uma mente clara.",
+            "real": true
+          },
+          {
+            "t": "Vida.",
+            "e": "Conclui com a casa como espelho e suporte da vida desejada.",
+            "f": "Na visão de Marie Kondo, \"vida.\" é parte essencial da proposta de \"A Mágica da Arrumação\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -22257,57 +22392,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Saia do modo técnico",
-        "text": "Reconheça que saber fazer não é saber gerir um negócio."
+        "text": "Reconheça que saber fazer não é saber gerir um negócio.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Saia do modo técnico\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Reconheça que saber fazer não é saber gerir um negócio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Saia do modo técnico\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Trabalhe pelo negócio",
-        "text": "Construa sistema que opera independente da sua presença."
+        "text": "Construa sistema que opera independente da sua presença.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Trabalhe pelo negócio\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Construa sistema que opera independente da sua presença — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trabalhe pelo negócio\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Adote o modelo de franquia",
-        "text": "Documente processos para que qualquer um reproduza o padrão."
+        "text": "Documente processos para que qualquer um reproduza o padrão.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Adote o modelo de franquia\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Documente processos para que qualquer um reproduza o padrão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Adote o modelo de franquia\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Exerça os três papéis",
-        "text": "Una visão de empreendedor, sistema de gerente e execução de técnico."
+        "text": "Una visão de empreendedor, sistema de gerente e execução de técnico.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Exerça os três papéis\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Una visão de empreendedor, sistema de gerente e execução de técnico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exerça os três papéis\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Fuja da curva da adolescência",
-        "text": "Estruture antes que o caos supere a estrutura ao crescer."
+        "text": "Estruture antes que o caos supere a estrutura ao crescer.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Fuja da curva da adolescência\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Estruture antes que o caos supere a estrutura ao crescer — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fuja da curva da adolescência\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Escreva manuais",
-        "text": "Processos documentados garantem consistência e liberdade."
+        "text": "Processos documentados garantem consistência e liberdade.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Escreva manuais\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Processos documentados garantem consistência e liberdade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escreva manuais\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Desenhe como produto",
-        "text": "Trate a empresa como artefato a ser vendido ou escalado."
+        "text": "Trate a empresa como artefato a ser vendido ou escalado.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Desenhe como produto\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Trate a empresa como artefato a ser vendido ou escalado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desenhe como produto\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Torne-se substituível",
-        "text": "Construa dependência do sistema, não da sua pessoa."
+        "text": "Construa dependência do sistema, não da sua pessoa.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Torne-se substituível\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Construa dependência do sistema, não da sua pessoa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Torne-se substituível\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Planeje a operação",
-        "text": "Vá além do plano financeiro; detalhe o dia a dia."
+        "text": "Vá além do plano financeiro; detalhe o dia a dia.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Planeje a operação\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Vá além do plano financeiro; detalhe o dia a dia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje a operação\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Pense em escala",
-        "text": "Desenhe para crescer sem colapsar na complexidade."
+        "text": "Desenhe para crescer sem colapsar na complexidade.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Pense em escala\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: Desenhe para crescer sem colapsar na complexidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense em escala\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Libere seu tempo",
-        "text": "O objetivo é lucro e liberdade, não mais um emprego."
+        "text": "O objetivo é lucro e liberdade, não mais um emprego.",
+        "explicacoes": [
+          "Em \"O Mito do Empreendedorismo\", Michael E. Gerber trata \"Libere seu tempo\" como peça-chave para construir um negócio que funcione sem o dono.",
+          "Na prática: O objetivo é lucro e liberdade, não mais um emprego — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Libere seu tempo\" aplica construir um negócio que funcione sem o dono de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -22329,64 +22519,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O E-Myth",
         "text": "Gerber denuncia o mito de que dono é empreendedor nato.",
         "points": [
-          "Mito.",
-          "Técnico."
+          {
+            "t": "Mito.",
+            "e": "Gerber denuncia o mito de que dono é empreendedor nato.",
+            "f": "Na visão de Michael E. Gerber, \"mito.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          },
+          {
+            "t": "Técnico.",
+            "e": "Gerber denuncia o mito de que dono é empreendedor nato.",
+            "f": "A maioria dos pequenos empresários é um técnico fingindo ser empreendedor.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Triângulo",
         "text": "Empreendedor, gerente e técnico que convivem no fundador.",
         "points": [
-          "Três papéis.",
-          "Conflito."
+          {
+            "t": "Três papéis.",
+            "e": "Empreendedor, gerente e técnico que convivem no fundador.",
+            "f": "Na visão de Michael E. Gerber, \"três papéis.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          },
+          {
+            "t": "Conflito.",
+            "e": "Empreendedor, gerente e técnico que convivem no fundador.",
+            "f": "Na visão de Michael E. Gerber, \"conflito.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Ciclo de Vida",
         "text": "Incubação, infância, adolescência e idade adulta da empresa.",
         "points": [
-          "Fases.",
-          "Caos."
+          {
+            "t": "Fases.",
+            "e": "Incubação, infância, adolescência e idade adulta da empresa.",
+            "f": "Na visão de Michael E. Gerber, \"fases.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          },
+          {
+            "t": "Caos.",
+            "e": "Incubação, infância, adolescência e idade adulta da empresa.",
+            "f": "Na visão de Michael E. Gerber, \"caos.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Curva da Adolescência",
         "text": "O ponto em que crescer vira caos sem sistema.",
         "points": [
-          "Crescimento.",
-          "Estrutura."
+          {
+            "t": "Crescimento.",
+            "e": "O ponto em que crescer vira caos sem sistema.",
+            "f": "Na visão de Michael E. Gerber, \"crescimento.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          },
+          {
+            "t": "Estrutura.",
+            "e": "O ponto em que crescer vira caos sem sistema.",
+            "f": "Na visão de Michael E. Gerber, \"estrutura.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O Modelo de Franquia",
         "text": "Propor documentar processos como franquias fazem.",
         "points": [
-          "Formato.",
-          "Manual."
+          {
+            "t": "Formato.",
+            "e": "Propor documentar processos como franquias fazem.",
+            "f": "O modelo de franquia é a forma mais poderosa de construir um negócio.",
+            "real": true
+          },
+          {
+            "t": "Manual.",
+            "e": "Propor documentar processos como franquias fazem.",
+            "f": "Na visão de Michael E. Gerber, \"manual.\" é parte essencial da proposta de \"O Mito do Empreendedorismo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Trabalhe pelo Negócio",
         "text": "Mudar de operar para desenhar o sistema.",
         "points": [
-          "Pelo vs no.",
-          "Liberdade."
+          {
+            "t": "Pelo vs no.",
+            "e": "Mudar de operar para desenhar o sistema.",
+            "f": "Trabalhe pelo seu negócio, não nele.",
+            "real": true
+          },
+          {
+            "t": "Liberdade.",
+            "e": "Mudar de operar para desenhar o sistema.",
+            "f": "Você não está no negócio; o negócio está em você.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Negócio como Produto",
         "text": "Desenhar a empresa como artefato vendável.",
         "points": [
-          "Produto.",
-          "Escala."
+          {
+            "t": "Produto.",
+            "e": "Desenhar a empresa como artefato vendável.",
+            "f": "Você não está no negócio; o negócio está em você.",
+            "real": true
+          },
+          {
+            "t": "Escala.",
+            "e": "Desenhar a empresa como artefato vendável.",
+            "f": "Trabalhe pelo seu negócio, não nele.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O Plano de Negócio",
         "text": "Detalhar a operação diária, não só finanças.",
         "points": [
-          "Operação.",
-          "Execução."
+          {
+            "t": "Operação.",
+            "e": "Detalhar a operação diária, não só finanças.",
+            "f": "Você não está no negócio; o negócio está em você.",
+            "real": true
+          },
+          {
+            "t": "Execução.",
+            "e": "Detalhar a operação diária, não só finanças.",
+            "f": "Trabalhe pelo seu negócio, não nele.",
+            "real": true
+          }
         ]
       }
     ]
@@ -22539,57 +22809,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Descubra seus temas",
-        "text": "Use o teste para identificar seus cinco talentos dominantes."
+        "text": "Use o teste para identificar seus cinco talentos dominantes.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Descubra seus temas\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Use o teste para identificar seus cinco talentos dominantes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Descubra seus temas\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Invista nas forças",
-        "text": "Aplique conhecimento e prática aos talentos naturais."
+        "text": "Aplique conhecimento e prática aos talentos naturais.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Invista nas forças\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Aplique conhecimento e prática aos talentos naturais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Invista nas forças\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Busque o papel certo",
-        "text": "Posicione-se onde seu talento se destaca."
+        "text": "Posicione-se onde seu talento se destaca.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Busque o papel certo\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Posicione-se onde seu talento se destaca — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque o papel certo\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Cerque-se de complementos",
-        "text": "Monte equipe cujas forças cobrem suas fraquezas."
+        "text": "Monte equipe cujas forças cobrem suas fraquezas.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Cerque-se de complementos\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Monte equipe cujas forças cobrem suas fraquezas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cerque-se de complementos\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Nomeie os temas",
-        "text": "Falar em forças melhora pedir e oferecer ajuda."
+        "text": "Falar em forças melhora pedir e oferecer ajuda.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Nomeie os temas\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Falar em forças melhora pedir e oferecer ajuda — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Nomeie os temas\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use forças todo dia",
-        "text": "Engajamento vem de aplicá-las na rotina."
+        "text": "Engajamento vem de aplicá-las na rotina.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Use forças todo dia\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Engajamento vem de aplicá-las na rotina — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use forças todo dia\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Cerque a fraqueza",
-        "text": "Reduza o dano de pontos fracos em vez de virá-los."
+        "text": "Reduza o dano de pontos fracos em vez de virá-los.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Cerque a fraqueza\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Reduza o dano de pontos fracos em vez de virá-los — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cerque a fraqueza\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Reforce positivamente",
-        "text": "Feedback em forças motiva mais que foco em déficit."
+        "text": "Feedback em forças motiva mais que foco em déficit.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Reforce positivamente\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Feedback em forças motiva mais que foco em déficit — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reforce positivamente\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Aplique em relações",
-        "text": "Conhecer o tema do outro suaviza conflitos."
+        "text": "Conhecer o tema do outro suaviza conflitos.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Aplique em relações\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Conhecer o tema do outro suaviza conflitos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique em relações\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Trate perfil como base",
-        "text": "Use o resultado como ponto de partida, não destino."
+        "text": "Use o resultado como ponto de partida, não destino.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Trate perfil como base\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Use o resultado como ponto de partida, não destino — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trate perfil como base\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Mova para o excepcional",
-        "text": "Foque em poucos temas para ser excepcional, não mediano."
+        "text": "Foque em poucos temas para ser excepcional, não mediano.",
+        "explicacoes": [
+          "Em \"StrengthsFinder 2.0\", Tom Rath trata \"Mova para o excepcional\" como peça-chave para o uso diário das forças pessoais em vez de corrigir fraquezas.",
+          "Na prática: Foque em poucos temas para ser excepcional, não mediano — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mova para o excepcional\" aplica o uso diário das forças pessoais em vez de corrigir fraquezas de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -22611,64 +22936,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Poder das Forças",
         "text": "Rath inverte o foco de conserto de fraqueza para investimento em força.",
         "points": [
-          "Inversão.",
-          "Foco."
+          {
+            "t": "Inversão.",
+            "e": "Rath inverte o foco de conserto de fraqueza para investimento em força.",
+            "f": "O melhor de nós emerge quando usamos nossas forças todos os dias.",
+            "real": true
+          },
+          {
+            "t": "Foco.",
+            "e": "Rath inverte o foco de conserto de fraqueza para investimento em força.",
+            "f": "Cerque-se de pessoas cujas forças complementam as suas.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Ciência",
         "text": "Base em décadas de pesquisa do Gallup sobre talento e desempenho.",
         "points": [
-          "Pesquisa.",
-          "Dados."
+          {
+            "t": "Pesquisa.",
+            "e": "Base em décadas de pesquisa do Gallup sobre talento e desempenho.",
+            "f": "Na visão de Tom Rath, \"pesquisa.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          },
+          {
+            "t": "Dados.",
+            "e": "Base em décadas de pesquisa do Gallup sobre talento e desempenho.",
+            "f": "Na visão de Tom Rath, \"dados.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Os 34 Temas",
         "text": "Apresenta os temas de talento e como se combinam.",
         "points": [
-          "Temas.",
-          "Combinação."
+          {
+            "t": "Temas.",
+            "e": "Apresenta os temas de talento e como se combinam.",
+            "f": "Na visão de Tom Rath, \"temas.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          },
+          {
+            "t": "Combinação.",
+            "e": "Apresenta os temas de talento e como se combinam.",
+            "f": "Na visão de Tom Rath, \"combinação.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Seus Cinco Dominantes",
         "text": "O leitor descobre seus temas principais via teste.",
         "points": [
-          "Perfil.",
-          "Descoberta."
+          {
+            "t": "Perfil.",
+            "e": "O leitor descobre seus temas principais via teste.",
+            "f": "Na visão de Tom Rath, \"perfil.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          },
+          {
+            "t": "Descoberta.",
+            "e": "O leitor descobre seus temas principais via teste.",
+            "f": "Na visão de Tom Rath, \"descoberta.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Força no Trabalho",
         "text": "Como aplicar talentos para desempenho superior na função.",
         "points": [
-          "Trabalho.",
-          "Papel."
+          {
+            "t": "Trabalho.",
+            "e": "Como aplicar talentos para desempenho superior na função.",
+            "f": "Força é talento natural multiplicado por investimento.",
+            "real": true
+          },
+          {
+            "t": "Papel.",
+            "e": "Como aplicar talentos para desempenho superior na função.",
+            "f": "Corrigir fraqueza não cria excelência; investir em força, sim.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Forças nos Relacionamentos",
         "text": "Usar temas para colaborar e reduzir atrito.",
         "points": [
-          "Relações.",
-          "Time."
+          {
+            "t": "Relações.",
+            "e": "Usar temas para colaborar e reduzir atrito.",
+            "f": "O melhor de nós emerge quando usamos nossas forças todos os dias.",
+            "real": true
+          },
+          {
+            "t": "Time.",
+            "e": "Usar temas para colaborar e reduzir atrito.",
+            "f": "Cerque-se de pessoas cujas forças complementam as suas.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Forças na Vida",
         "text": "Levar o talento para escolhas pessoais e felicidade.",
         "points": [
-          "Vida.",
-          "Sentido."
+          {
+            "t": "Vida.",
+            "e": "Levar o talento para escolhas pessoais e felicidade.",
+            "f": "O melhor de nós emerge quando usamos nossas forças todos os dias.",
+            "real": true
+          },
+          {
+            "t": "Sentido.",
+            "e": "Levar o talento para escolhas pessoais e felicidade.",
+            "f": "Cerque-se de pessoas cujas forças complementam as suas.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O Plano de Ação",
         "text": "Passos para investir nas forças nos próximos dias.",
         "points": [
-          "Ação.",
-          "Hábito."
+          {
+            "t": "Ação.",
+            "e": "Passos para investir nas forças nos próximos dias.",
+            "f": "Na visão de Tom Rath, \"ação.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          },
+          {
+            "t": "Hábito.",
+            "e": "Passos para investir nas forças nos próximos dias.",
+            "f": "Na visão de Tom Rath, \"hábito.\" é parte essencial da proposta de \"StrengthsFinder 2.0\".",
+            "real": false
+          }
         ]
       }
     ]
