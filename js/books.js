@@ -12263,62 +12263,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Cruze os três círculos",
-        "text": "Paixão, habilidade e demanda pagante definem a oportunidade."
+        "text": "Paixão, habilidade e demanda pagante definem a oportunidade.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Cruze os três círculos\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Paixão, habilidade e demanda pagante definem a oportunidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cruze os três círculos\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Comece com pouco",
-        "text": "100 dólares bastam para testar; não espere capital grande."
+        "text": "100 dólares bastam para testar; não espere capital grande.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Comece com pouco\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: 100 dólares bastam para testar; não espere capital grande — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece com pouco\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Lance e aprenda",
-        "text": "Ação na rua vale mais que plano longo; erre barato e ajuste."
+        "text": "Ação na rua vale mais que plano longo; erre barato e ajuste.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Lance e aprenda\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Ação na rua vale mais que plano longo; erre barato e ajuste — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Lance e aprenda\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Foque no nicho",
-        "text": "Um público específico permite margem e relevância."
+        "text": "Um público específico permite margem e relevância.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Foque no nicho\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Um público específico permite margem e relevância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque no nicho\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Precifique pelo valor",
-        "text": "Cobre o que entrega, não apenas o custo de produção."
+        "text": "Cobre o que entrega, não apenas o custo de produção.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Precifique pelo valor\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Cobre o que entrega, não apenas o custo de produção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Precifique pelo valor\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Empacote sua habilidade",
-        "text": "Transforme o que sabe em produto ou serviço vendável."
+        "text": "Transforme o que sabe em produto ou serviço vendável.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Empacote sua habilidade\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Transforme o que sabe em produto ou serviço vendável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Empacote sua habilidade\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Reinvista o lucro",
-        "text": "Gaste menos do que ganha e use o excedente para crescer."
+        "text": "Gaste menos do que ganha e use o excedente para crescer.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Reinvista o lucro\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Gaste menos do que ganha e use o excedente para crescer — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reinvista o lucro\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Escolha sua liberdade",
-        "text": "Defina tamanho do negócio em função da vida que quer."
+        "text": "Defina tamanho do negócio em função da vida que quer.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Escolha sua liberdade\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Defina tamanho do negócio em função da vida que quer — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escolha sua liberdade\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Elimine a paralisia",
-        "text": "Decida e execute; planejamento infinito é procrastinação."
+        "text": "Decida e execute; planejamento infinito é procrastinação.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Elimine a paralisia\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Decida e execute; planejamento infinito é procrastinação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Elimine a paralisia\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Estude casos reais",
-        "text": "Aprenda com microempreendedores que já validaram o modelo."
+        "text": "Aprenda com microempreendedores que já validaram o modelo.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Estude casos reais\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Aprenda com microempreendedores que já validaram o modelo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estude casos reais\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Mantenha custos baixos",
-        "text": "Estrutura enxuta protege margem e resiliência."
+        "text": "Estrutura enxuta protege margem e resiliência.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Mantenha custos baixos\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Estrutura enxuta protege margem e resiliência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha custos baixos\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Meça por liberdade",
-        "text": "Sucesso é autonomia, não só faturamento."
+        "text": "Sucesso é autonomia, não só faturamento.",
+        "explicacoes": [
+          "Em \"A Startup de 100 Dólares\", Chris Guillebeau trata \"Meça por liberdade\" como peça-chave para empreender pequeno e independente com baixo risco.",
+          "Na prática: Sucesso é autonomia, não só faturamento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça por liberdade\" aplica empreender pequeno e independente com baixo risco de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -12340,72 +12400,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O novo caminho",
         "text": "Guillebeau anuncia a era do microempreendedor de baixo custo e liberdade.",
         "points": [
-          "Rejeição ao VC",
-          "Independência",
-          "Pouco capital"
+          {
+            "t": "Rejeição ao VC",
+            "e": "Guillebeau anuncia a era do microempreendedor de baixo custo e liberdade.",
+            "f": "Na visão de Chris Guillebeau, \"rejeição ao vc\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Independência",
+            "e": "Guillebeau anuncia a era do microempreendedor de baixo custo e liberdade.",
+            "f": "Na visão de Chris Guillebeau, \"independência\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Pouco capital",
+            "e": "Guillebeau anuncia a era do microempreendedor de baixo custo e liberdade.",
+            "f": "Na visão de Chris Guillebeau, \"pouco capital\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O ponto doce",
         "text": "Os três círculos que definem uma oportunidade de negócio.",
         "points": [
-          "Paixão",
-          "Habilidade",
-          "Demanda"
+          {
+            "t": "Paixão",
+            "e": "Os três círculos que definem uma oportunidade de negócio.",
+            "f": "O ponto doce acontece onde sua paixão, sua habilidade e o que as pessoas pagam se encontram.",
+            "real": true
+          },
+          {
+            "t": "Habilidade",
+            "e": "Os três círculos que definem uma oportunidade de negócio.",
+            "f": "Na visão de Chris Guillebeau, \"habilidade\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Demanda",
+            "e": "Os três círculos que definem uma oportunidade de negócio.",
+            "f": "Na visão de Chris Guillebeau, \"demanda\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Converta habilidades em produtos",
         "text": "Como empacotar o que você sabe e vender.",
         "points": [
-          "Produtização",
-          "Valor percebido",
-          "Oferta"
+          {
+            "t": "Produtização",
+            "e": "Como empacotar o que você sabe e vender.",
+            "f": "Na visão de Chris Guillebeau, \"produtização\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Valor percebido",
+            "e": "Como empacotar o que você sabe e vender.",
+            "f": "Na visão de Chris Guillebeau, \"valor percebido\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Oferta",
+            "e": "Como empacotar o que você sabe e vender.",
+            "f": "Na visão de Chris Guillebeau, \"oferta\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O modelo de receita simples",
         "text": "Gaste menos, ganhe mais, reinvista. A matemática do micronegócio.",
         "points": [
-          "Margem",
-          "Reinvestimento",
-          "Sustentabilidade"
+          {
+            "t": "Margem",
+            "e": "Gaste menos, ganhe mais, reinvista. A matemática do micronegócio.",
+            "f": "A fórmula é simples: gaste menos do que ganha e reinvista o excedente.",
+            "real": true
+          },
+          {
+            "t": "Reinvestimento",
+            "e": "Gaste menos, ganhe mais, reinvista. A matemática do micronegócio.",
+            "f": "Na visão de Chris Guillebeau, \"reinvestimento\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Sustentabilidade",
+            "e": "Gaste menos, ganhe mais, reinvista. A matemática do micronegócio.",
+            "f": "Na visão de Chris Guillebeau, \"sustentabilidade\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Encontre seu primeiro cliente",
         "text": "Validação na prática, sem plano longo.",
         "points": [
-          "Venda antes",
-          "Feedback rápido",
-          "Ajuste"
+          {
+            "t": "Venda antes",
+            "e": "Validação na prática, sem plano longo.",
+            "f": "Você não precisa de um plano de negócios de quarenta páginas; precisa de um cliente.",
+            "real": true
+          },
+          {
+            "t": "Feedback rápido",
+            "e": "Validação na prática, sem plano longo.",
+            "f": "Na visão de Chris Guillebeau, \"feedback rápido\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Ajuste",
+            "e": "Validação na prática, sem plano longo.",
+            "f": "Na visão de Chris Guillebeau, \"ajuste\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Precificação e valor",
         "text": "Cobrar pelo valor entregue e evitar o subpreço.",
         "points": [
-          "Psicologia de preço",
-          "Margem saudável",
-          "Não regatear demais"
+          {
+            "t": "Psicologia de preço",
+            "e": "Cobrar pelo valor entregue e evitar o subpreço.",
+            "f": "Na visão de Chris Guillebeau, \"psicologia de preço\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Margem saudável",
+            "e": "Cobrar pelo valor entregue e evitar o subpreço.",
+            "f": "Na visão de Chris Guillebeau, \"margem saudável\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Não regatear demais",
+            "e": "Cobrar pelo valor entregue e evitar o subpreço.",
+            "f": "Na visão de Chris Guillebeau, \"não regatear demais\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Lançamento enxuto",
         "text": "Como colocar no ar com pouco e iterar.",
         "points": [
-          "MVP",
-          "Erro barato",
-          "Iteração"
+          {
+            "t": "MVP",
+            "e": "Como colocar no ar com pouco e iterar.",
+            "f": "Na visão de Chris Guillebeau, \"mvp\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Erro barato",
+            "e": "Como colocar no ar com pouco e iterar.",
+            "f": "Na visão de Chris Guillebeau, \"erro barato\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Iteração",
+            "e": "Como colocar no ar com pouco e iterar.",
+            "f": "Na visão de Chris Guillebeau, \"iteração\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Escalar no seu ritmo",
         "text": "Crescer sem perder a liberdade que motivou o negócio.",
         "points": [
-          "Tamanho consciente",
-          "Liberdade",
-          "Foco"
+          {
+            "t": "Tamanho consciente",
+            "e": "Crescer sem perder a liberdade que motivou o negócio.",
+            "f": "Na visão de Chris Guillebeau, \"tamanho consciente\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Crescer sem perder a liberdade que motivou o negócio.",
+            "f": "Na visão de Chris Guillebeau, \"liberdade\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "Crescer sem perder a liberdade que motivou o negócio.",
+            "f": "Na visão de Chris Guillebeau, \"foco\" é parte essencial da proposta de \"A Startup de 100 Dólares\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -12569,62 +12749,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Defina trabalho profundo",
-        "text": "Atividade focada que empurra seus limites cognitivos e cria valor difícil de copiar."
+        "text": "Atividade focada que empurra seus limites cognitivos e cria valor difícil de copiar.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Defina trabalho profundo\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Atividade focada que empurra seus limites cognitivos e cria valor difícil de copiar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina trabalho profundo\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Agende blocos de foco",
-        "text": "Reserve na agenda tempo protegido para tarefas exigentes."
+        "text": "Reserve na agenda tempo protegido para tarefas exigentes.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Agende blocos de foco\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Reserve na agenda tempo protegido para tarefas exigentes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Agende blocos de foco\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Abrace o tédio",
-        "text": "Evite o celular nos intervalos; treine a mente a suportar a falta de estímulo."
+        "text": "Evite o celular nos intervalos; treine a mente a suportar a falta de estímulo.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Abrace o tédio\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Evite o celular nos intervalos; treine a mente a suportar a falta de estímulo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abrace o tédio\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Saia das redes sociais",
-        "text": "Avalie o custo real; para muitos, abandoná-las libera foco sem prejuízo."
+        "text": "Avalie o custo real; para muitos, abandoná-las libera foco sem prejuízo.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Saia das redes sociais\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Avalie o custo real; para muitos, abandoná-las libera foco sem prejuízo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Saia das redes sociais\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Drene o raso",
-        "text": "Reduza reuniões e e-mails ao mínimo para abrir espaço para o profundo."
+        "text": "Reduza reuniões e e-mails ao mínimo para abrir espaço para o profundo.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Drene o raso\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Reduza reuniões e e-mails ao mínimo para abrir espaço para o profundo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Drene o raso\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Crie rituais de foco",
-        "text": "Local, horário e rotina sinalizam ao cérebro que é hora de concentrar."
+        "text": "Local, horário e rotina sinalizam ao cérebro que é hora de concentrar.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Crie rituais de foco\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Local, horário e rotina sinalizam ao cérebro que é hora de concentrar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie rituais de foco\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Respeite o resíduo de atenção",
-        "text": "Evite trocas constantes; transições custam mais do que parecem."
+        "text": "Evite trocas constantes; transições custam mais do que parecem.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Respeite o resíduo de atenção\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Evite trocas constantes; transições custam mais do que parecem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Respeite o resíduo de atenção\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Use o isolamento",
-        "text": "Retiros e silêncio aceleram a produção de obras complexas."
+        "text": "Retiros e silêncio aceleram a produção de obras complexas.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Use o isolamento\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Retiros e silêncio aceleram a produção de obras complexas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o isolamento\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Meça por valor, não horas",
-        "text": "Horas profundas valem mais que presença longa e rasa."
+        "text": "Horas profundas valem mais que presença longa e rasa.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Meça por valor, não horas\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Horas profundas valem mais que presença longa e rasa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça por valor, não horas\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Estabeleça fronteiras",
-        "text": "Disponibilidade limitada protege sua capacidade de entrega."
+        "text": "Disponibilidade limitada protege sua capacidade de entrega.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Estabeleça fronteiras\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Disponibilidade limitada protege sua capacidade de entrega — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estabeleça fronteiras\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Treine o foco como músculo",
-        "text": "Concentração melhora com prática e ambiente favorável."
+        "text": "Concentração melhora com prática e ambiente favorável.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Treine o foco como músculo\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Concentração melhora com prática e ambiente favorável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine o foco como músculo\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Feche com descanso real",
-        "text": "Pausas sem tela recuperam a mente para o próximo bloco."
+        "text": "Pausas sem tela recuperam a mente para o próximo bloco.",
+        "explicacoes": [
+          "Em \"Trabalho Profundo\", Cal Newport trata \"Feche com descanso real\" como peça-chave para o trabalho profundo e a concentração sem distração.",
+          "Na prática: Pausas sem tela recuperam a mente para o próximo bloco — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Feche com descanso real\" aplica o trabalho profundo e a concentração sem distração de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -12646,72 +12886,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O caso do trabalho profundo",
         "text": "Por que foco profundo é raro, valioso e vantajoso.",
         "points": [
-          "Escassez",
-          "Valor",
-          "Vantagem"
+          {
+            "t": "Escassez",
+            "e": "Por que foco profundo é raro, valioso e vantajoso.",
+            "f": "O profissional que domina o trabalho profundo terá uma vantagem injusta em uma economia de informação.",
+            "real": true
+          },
+          {
+            "t": "Valor",
+            "e": "Por que foco profundo é raro, valioso e vantajoso.",
+            "f": "Não confunda estar ocupado com estar produtivo; o trabalho raso engana.",
+            "real": true
+          },
+          {
+            "t": "Vantagem",
+            "e": "Por que foco profundo é raro, valioso e vantajoso.",
+            "f": "Na visão de Cal Newport, \"vantagem\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O mito do trabalho raso",
         "text": "Como atividades fragmentadas tomam o dia sem entregar valor.",
         "points": [
-          "E-mail e reuniões",
-          "Falsa ocupação",
-          "Custo oculto"
+          {
+            "t": "E-mail e reuniões",
+            "e": "Como atividades fragmentadas tomam o dia sem entregar valor.",
+            "f": "Não confunda estar ocupado com estar produtivo; o trabalho raso engana.",
+            "real": true
+          },
+          {
+            "t": "Falsa ocupação",
+            "e": "Como atividades fragmentadas tomam o dia sem entregar valor.",
+            "f": "O profissional que domina o trabalho profundo terá uma vantagem injusta em uma economia de informação.",
+            "real": true
+          },
+          {
+            "t": "Custo oculto",
+            "e": "Como atividades fragmentadas tomam o dia sem entregar valor.",
+            "f": "Na visão de Cal Newport, \"custo oculto\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Habitue-se ao foco",
         "text": "Regras para tornar o trabalho profundo um hábito.",
         "points": [
-          "Decisão",
-          "Ritual",
-          "Compromisso"
+          {
+            "t": "Decisão",
+            "e": "Regras para tornar o trabalho profundo um hábito.",
+            "f": "O tédio é o treino que fortalece o músculo do foco.",
+            "real": true
+          },
+          {
+            "t": "Ritual",
+            "e": "Regras para tornar o trabalho profundo um hábito.",
+            "f": "Na visão de Cal Newport, \"ritual\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          },
+          {
+            "t": "Compromisso",
+            "e": "Regras para tornar o trabalho profundo um hábito.",
+            "f": "Na visão de Cal Newport, \"compromisso\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Agende o profundo",
         "text": "Colocar blocos de foco no calendário como prioridade.",
         "points": [
-          "Blocos",
-          "Proteção",
-          "Planejamento"
+          {
+            "t": "Blocos",
+            "e": "Colocar blocos de foco no calendário como prioridade.",
+            "f": "O profissional que domina o trabalho profundo terá uma vantagem injusta em uma economia de informação.",
+            "real": true
+          },
+          {
+            "t": "Proteção",
+            "e": "Colocar blocos de foco no calendário como prioridade.",
+            "f": "Na visão de Cal Newport, \"proteção\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          },
+          {
+            "t": "Planejamento",
+            "e": "Colocar blocos de foco no calendário como prioridade.",
+            "f": "Na visão de Cal Newport, \"planejamento\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Abrace o tédio",
         "text": "Resistir ao celular e treinar a mente para a falta de estímulo.",
         "points": [
-          "Tédio útil",
-          "Celular",
-          "Músculo"
+          {
+            "t": "Tédio útil",
+            "e": "Resistir ao celular e treinar a mente para a falta de estímulo.",
+            "f": "O tédio é o treino que fortalece o músculo do foco.",
+            "real": true
+          },
+          {
+            "t": "Celular",
+            "e": "Resistir ao celular e treinar a mente para a falta de estímulo.",
+            "f": "Na visão de Cal Newport, \"celular\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          },
+          {
+            "t": "Músculo",
+            "e": "Resistir ao celular e treinar a mente para a falta de estímulo.",
+            "f": "Na visão de Cal Newport, \"músculo\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Saia das redes sociais",
         "text": "Avaliar e cortar distrações disfarçadas de rede.",
         "points": [
-          "Custo real",
-          "Abandono",
-          "Ganho de foco"
+          {
+            "t": "Custo real",
+            "e": "Avaliar e cortar distrações disfarçadas de rede.",
+            "f": "Na visão de Cal Newport, \"custo real\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          },
+          {
+            "t": "Abandono",
+            "e": "Avaliar e cortar distrações disfarçadas de rede.",
+            "f": "Na visão de Cal Newport, \"abandono\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          },
+          {
+            "t": "Ganho de foco",
+            "e": "Avaliar e cortar distrações disfarçadas de rede.",
+            "f": "O tédio é o treino que fortalece o músculo do foco.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Drene o raso",
         "text": "Minimizar o trabalho superficial para abrir espaço.",
         "points": [
-          "Menos reunião",
-          "Delegar",
-          "Fronteiras"
+          {
+            "t": "Menos reunião",
+            "e": "Minimizar o trabalho superficial para abrir espaço.",
+            "f": "Não confunda estar ocupado com estar produtivo; o trabalho raso engana.",
+            "real": true
+          },
+          {
+            "t": "Delegar",
+            "e": "Minimizar o trabalho superficial para abrir espaço.",
+            "f": "Na visão de Cal Newport, \"delegar\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          },
+          {
+            "t": "Fronteiras",
+            "e": "Minimizar o trabalho superficial para abrir espaço.",
+            "f": "Na visão de Cal Newport, \"fronteiras\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O exemplo dos mestres",
         "text": "Gates, Jung e outros que usaram isolamento para produzir.",
         "points": [
-          "Retiros",
-          "Silêncio",
-          "Obras"
+          {
+            "t": "Retiros",
+            "e": "Gates, Jung e outros que usaram isolamento para produzir.",
+            "f": "Na visão de Cal Newport, \"retiros\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          },
+          {
+            "t": "Silêncio",
+            "e": "Gates, Jung e outros que usaram isolamento para produzir.",
+            "f": "Na visão de Cal Newport, \"silêncio\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          },
+          {
+            "t": "Obras",
+            "e": "Gates, Jung e outros que usaram isolamento para produzir.",
+            "f": "Na visão de Cal Newport, \"obras\" é parte essencial da proposta de \"Trabalho Profundo\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -12875,62 +13235,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Conheça os dois sistemas",
-        "text": "Identifique quando o automático está no comando e chame o analítico."
+        "text": "Identifique quando o automático está no comando e chame o analítico.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Conheça os dois sistemas\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Identifique quando o automático está no comando e chame o analítico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça os dois sistemas\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Desconfie de ancoragens",
-        "text": "Antes de negociar, defina seu próprio número para não ser preso ao alheio."
+        "text": "Antes de negociar, defina seu próprio número para não ser preso ao alheio.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Desconfie de ancoragens\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Antes de negociar, defina seu próprio número para não ser preso ao alheio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desconfie de ancoragens\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Use a disponibilidade com cuidado",
-        "text": "Busque dados reais, não só o que vem fácil à mente."
+        "text": "Busque dados reais, não só o que vem fácil à mente.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Use a disponibilidade com cuidado\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Busque dados reais, não só o que vem fácil à mente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a disponibilidade com cuidado\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Respeite a aversão à perda",
-        "text": "Reconheça quando o medo de perder distorce sua carteira."
+        "text": "Reconheça quando o medo de perder distorce sua carteira.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Respeite a aversão à perda\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Reconheça quando o medo de perder distorce sua carteira — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Respeite a aversão à perda\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Fuja do efeito halo",
-        "text": "Avalie competência separada de carisma ou simpatia."
+        "text": "Avalie competência separada de carisma ou simpatia.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Fuja do efeito halo\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Avalie competência separada de carisma ou simpatia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fuja do efeito halo\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Aceite WYSIATI",
-        "text": "Liste o que está faltando antes de concluir."
+        "text": "Liste o que está faltando antes de concluir.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Aceite WYSIATI\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Liste o que está faltando antes de concluir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite WYSIATI\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Calibre a confiança",
-        "text": "Quanto mais seguro, mais verifique; excesso de certeza alerta."
+        "text": "Quanto mais seguro, mais verifique; excesso de certeza alerta.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Calibre a confiança\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Quanto mais seguro, mais verifique; excesso de certeza alerta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Calibre a confiança\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Entenda regressão",
-        "text": "Extremos tendem a voltar ao meio; não confunda com causa."
+        "text": "Extremos tendem a voltar ao meio; não confunda com causa.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Entenda regressão\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Extremos tendem a voltar ao meio; não confunda com causa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda regressão\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Mude o frame",
-        "text": "Reenquadre a escolha em ganho e em perda para decidir melhor."
+        "text": "Reenquadre a escolha em ganho e em perda para decidir melhor.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Mude o frame\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Reenquadre a escolha em ganho e em perda para decidir melhor — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mude o frame\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Desconfie de previsões",
-        "text": "Em ambientes instáveis, diversifique em vez de acreditar em palpite."
+        "text": "Em ambientes instáveis, diversifique em vez de acreditar em palpite.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Desconfie de previsões\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Em ambientes instáveis, diversifique em vez de acreditar em palpite — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desconfie de previsões\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Exija ambiente estável",
-        "text": "Intuição de especialista vale só onde há padrão consistente."
+        "text": "Intuição de especialista vale só onde há padrão consistente.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Exija ambiente estável\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Intuição de especialista vale só onde há padrão consistente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exija ambiente estável\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Pense devagar quando importa",
-        "text": "Reserve esforço para decisões de alto impacto."
+        "text": "Reserve esforço para decisões de alto impacto.",
+        "explicacoes": [
+          "Em \"Pensando, Rápido e Devagar\", Daniel Kahneman trata \"Pense devagar quando importa\" como peça-chave para os dois sistemas de pensamento e os vieses da mente.",
+          "Na prática: Reserve esforço para decisões de alto impacto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense devagar quando importa\" aplica os dois sistemas de pensamento e os vieses da mente de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -12952,72 +13372,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Os dois sistemas",
         "text": "Introdução ao Sistema 1 (rápido) e Sistema 2 (lento) e como interagem.",
         "points": [
-          "Sistema 1",
-          "Sistema 2",
-          "Interação"
+          {
+            "t": "Sistema 1",
+            "e": "Introdução ao Sistema 1 (rápido) e Sistema 2 (lento) e como interagem.",
+            "f": "Nada em nossa vida intelectual é mais importante do que o funcionamento dos dois sistemas de pensamento.",
+            "real": true
+          },
+          {
+            "t": "Sistema 2",
+            "e": "Introdução ao Sistema 1 (rápido) e Sistema 2 (lento) e como interagem.",
+            "f": "Na visão de Daniel Kahneman, \"sistema 2\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Interação",
+            "e": "Introdução ao Sistema 1 (rápido) e Sistema 2 (lento) e como interagem.",
+            "f": "Na visão de Daniel Kahneman, \"interação\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Heurísticas e ancoragem",
         "text": "Como atalhos mentais e números iniciais distorcem julgamentos.",
         "points": [
-          "Atalhos",
-          "Ancoragem",
-          "Substituição"
+          {
+            "t": "Atalhos",
+            "e": "Como atalhos mentais e números iniciais distorcem julgamentos.",
+            "f": "Na visão de Daniel Kahneman, \"atalhos\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Ancoragem",
+            "e": "Como atalhos mentais e números iniciais distorcem julgamentos.",
+            "f": "Na visão de Daniel Kahneman, \"ancoragem\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Substituição",
+            "e": "Como atalhos mentais e números iniciais distorcem julgamentos.",
+            "f": "Na visão de Daniel Kahneman, \"substituição\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Disponibilidade e afeto",
         "text": "O que vem à mente e o que emociona pesa mais que a estatística.",
         "points": [
-          "Disponibilidade",
-          "Afeto",
-          "Risco percebido"
+          {
+            "t": "Disponibilidade",
+            "e": "O que vem à mente e o que emociona pesa mais que a estatística.",
+            "f": "Na visão de Daniel Kahneman, \"disponibilidade\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Afeto",
+            "e": "O que vem à mente e o que emociona pesa mais que a estatística.",
+            "f": "Na visão de Daniel Kahneman, \"afeto\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Risco percebido",
+            "e": "O que vem à mente e o que emociona pesa mais que a estatística.",
+            "f": "Na visão de Daniel Kahneman, \"risco percebido\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Aversão à perda e prospecto",
         "text": "Teoria do prospecto: perdas doem mais e moldam escolhas.",
         "points": [
-          "Teoria do prospecto",
-          "Perda vs ganho",
-          "Seguro"
+          {
+            "t": "Teoria do prospecto",
+            "e": "Teoria do prospecto: perdas doem mais e moldam escolhas.",
+            "f": "Perdemos mais com a aversão à perda do que ganhamos com ganhos equivalentes.",
+            "real": true
+          },
+          {
+            "t": "Perda vs ganho",
+            "e": "Teoria do prospecto: perdas doem mais e moldam escolhas.",
+            "f": "Na visão de Daniel Kahneman, \"perda vs ganho\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Seguro",
+            "e": "Teoria do prospecto: perdas doem mais e moldam escolhas.",
+            "f": "Na visão de Daniel Kahneman, \"seguro\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Efeito halo e WYSIATI",
         "text": "Como simpatia contamina o julgamento e o que está à vista vira tudo.",
         "points": [
-          "Halo",
-          "Cegueira parcial",
-          "Confiança"
+          {
+            "t": "Halo",
+            "e": "Como simpatia contamina o julgamento e o que está à vista vira tudo.",
+            "f": "O que você vê é tudo que há para pensar (WYSIATI).",
+            "real": true
+          },
+          {
+            "t": "Cegueira parcial",
+            "e": "Como simpatia contamina o julgamento e o que está à vista vira tudo.",
+            "f": "Na visão de Daniel Kahneman, \"cegueira parcial\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Confiança",
+            "e": "Como simpatia contamina o julgamento e o que está à vista vira tudo.",
+            "f": "A confiança de uma crença não é uma medida de sua probabilidade de estar certa.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Excesso de confiança",
         "text": "Por que especialistas e leigos superestimam acertos.",
         "points": [
-          "Overconfidence",
-          "Calibração",
-          "Ilusão"
+          {
+            "t": "Overconfidence",
+            "e": "Por que especialistas e leigos superestimam acertos.",
+            "f": "A confiança de uma crença não é uma medida de sua probabilidade de estar certa.",
+            "real": true
+          },
+          {
+            "t": "Calibração",
+            "e": "Por que especialistas e leigos superestimam acertos.",
+            "f": "Na visão de Daniel Kahneman, \"calibração\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Ilusão",
+            "e": "Por que especialistas e leigos superestimam acertos.",
+            "f": "Na visão de Daniel Kahneman, \"ilusão\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Regressão à média",
         "text": "Extremos voltam ao centro; atribuímos causa onde há acaso.",
         "points": [
-          "Estatística",
-          "Causa falsa",
-          "Previsão"
+          {
+            "t": "Estatística",
+            "e": "Extremos voltam ao centro; atribuímos causa onde há acaso.",
+            "f": "Na visão de Daniel Kahneman, \"estatística\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Causa falsa",
+            "e": "Extremos voltam ao centro; atribuímos causa onde há acaso.",
+            "f": "Na visão de Daniel Kahneman, \"causa falsa\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Previsão",
+            "e": "Extremos voltam ao centro; atribuímos causa onde há acaso.",
+            "f": "Na visão de Daniel Kahneman, \"previsão\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Escolhas e frames",
         "text": "O enquadramento muda decisões; linguagem é decisão.",
         "points": [
-          "Framing",
-          "Ganho/perda",
-          "Manipulação"
+          {
+            "t": "Framing",
+            "e": "O enquadramento muda decisões; linguagem é decisão.",
+            "f": "Na visão de Daniel Kahneman, \"framing\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          },
+          {
+            "t": "Ganho/perda",
+            "e": "O enquadramento muda decisões; linguagem é decisão.",
+            "f": "Perdemos mais com a aversão à perda do que ganhamos com ganhos equivalentes.",
+            "real": true
+          },
+          {
+            "t": "Manipulação",
+            "e": "O enquadramento muda decisões; linguagem é decisão.",
+            "f": "Na visão de Daniel Kahneman, \"manipulação\" é parte essencial da proposta de \"Pensando, Rápido e Devagar\".",
+            "real": false
+          }
         ]
       }
     ]
