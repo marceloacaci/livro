@@ -16637,62 +16637,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Organize o orçamento",
-        "text": "Saiba entradas e saídas antes de investir; controle é base."
+        "text": "Saiba entradas e saídas antes de investir; controle é base.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Organize o orçamento\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Saiba entradas e saídas antes de investir; controle é base — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Organize o orçamento\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Monte reserva de emergência",
-        "text": "3 a 6 meses de despesas em liquidez antes de risco."
+        "text": "3 a 6 meses de despesas em liquidez antes de risco.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Monte reserva de emergência\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: 3 a 6 meses de despesas em liquidez antes de risco — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Monte reserva de emergência\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Conheça a renda fixa",
-        "text": "Tesouro Direto, CDB e poupança: entenda diferenças e taxas."
+        "text": "Tesouro Direto, CDB e poupança: entenda diferenças e taxas.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Conheça a renda fixa\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Tesouro Direto, CDB e poupança: entenda diferenças e taxas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça a renda fixa\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Fuja da poupança parada",
-        "text": "Compare com CDB/Tesouro; não deixe dinheiro perder para a inflação."
+        "text": "Compare com CDB/Tesouro; não deixe dinheiro perder para a inflação.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Fuja da poupança parada\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Compare com CDB/Tesouro; não deixe dinheiro perder para a inflação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fuja da poupança parada\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Comece com pouco",
-        "text": "No Brasil dá para investir valores baixos; o hábito vale mais que o montante."
+        "text": "No Brasil dá para investir valores baixos; o hábito vale mais que o montante.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Comece com pouco\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: No Brasil dá para investir valores baixos; o hábito vale mais que o montante — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece com pouco\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Estude ações e fundos",
-        "text": "Renda variável traz maior retorno com mais risco; aprenda antes."
+        "text": "Renda variável traz maior retorno com mais risco; aprenda antes.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Estude ações e fundos\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Renda variável traz maior retorno com mais risco; aprenda antes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estude ações e fundos\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Compare previdência",
-        "text": "Avalie taxas e prazos; não assine sem entender."
+        "text": "Avalie taxas e prazos; não assine sem entender.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Compare previdência\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Avalie taxas e prazos; não assine sem entender — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Compare previdência\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Diversifique",
-        "text": "Divida entre fixa, variável e longo prazo para proteger."
+        "text": "Divida entre fixa, variável e longo prazo para proteger.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Diversifique\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Divida entre fixa, variável e longo prazo para proteger — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diversifique\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Assuma a autonomia",
-        "text": "Entenda seus números; não terceirize por comodismo."
+        "text": "Entenda seus números; não terceirize por comodismo.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Assuma a autonomia\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Entenda seus números; não terceirize por comodismo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma a autonomia\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Comece cedo",
-        "text": "Juros compostos premiam o tempo; não postergue."
+        "text": "Juros compostos premiam o tempo; não postergue.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Comece cedo\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Juros compostos premiam o tempo; não postergue — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece cedo\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Desmistifique o risco",
-        "text": "Risco bem dosado é planejamento, não aposta."
+        "text": "Risco bem dosado é planejamento, não aposta.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Desmistifique o risco\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Risco bem dosado é planejamento, não aposta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desmistifique o risco\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Normalize falar de dinheiro",
-        "text": "Mulheres à vontade no tema constroem independência."
+        "text": "Mulheres à vontade no tema constroem independência.",
+        "explicacoes": [
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Normalize falar de dinheiro\" como peça-chave para a autonomia financeira das mulheres na prática.",
+          "Na prática: Mulheres à vontade no tema constroem independência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Normalize falar de dinheiro\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -16714,72 +16774,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Por que mulheres e dinheiro",
         "text": "Dados e cultura que afastam a mulher do investimento.",
         "points": [
-          "Desigualdade",
-          "Cultura",
-          "Bloqueio"
+          {
+            "t": "Desigualdade",
+            "e": "Dados e cultura que afastam a mulher do investimento.",
+            "f": "Você não precisa ser matemática para ser rica; precisa decidir que o dinheiro é seu.",
+            "real": true
+          },
+          {
+            "t": "Cultura",
+            "e": "Dados e cultura que afastam a mulher do investimento.",
+            "f": "Deixar o dinheiro na poupança é conforto que custa seu futuro.",
+            "real": true
+          },
+          {
+            "t": "Bloqueio",
+            "e": "Dados e cultura que afastam a mulher do investimento.",
+            "f": "Na visão de Nathalia Cardoso, \"bloqueio\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Organize-se primeiro",
         "text": "Orçamento e controle antes de aplicar.",
         "points": [
-          "Orçamento",
-          "Controle",
-          "Base"
+          {
+            "t": "Orçamento",
+            "e": "Orçamento e controle antes de aplicar.",
+            "f": "Na visão de Nathalia Cardoso, \"orçamento\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "Controle",
+            "e": "Orçamento e controle antes de aplicar.",
+            "f": "Na visão de Nathalia Cardoso, \"controle\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "Base",
+            "e": "Orçamento e controle antes de aplicar.",
+            "f": "Na visão de Nathalia Cardoso, \"base\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Reserva de emergência",
         "text": "O colchão de 3 a 6 meses antes do risco.",
         "points": [
-          "Reserva",
-          "Liquidez",
-          "Proteção"
+          {
+            "t": "Reserva",
+            "e": "O colchão de 3 a 6 meses antes do risco.",
+            "f": "A reserva de emergência é o colchão que impede você de vender investimentos no pior momento.",
+            "real": true
+          },
+          {
+            "t": "Liquidez",
+            "e": "O colchão de 3 a 6 meses antes do risco.",
+            "f": "Na visão de Nathalia Cardoso, \"liquidez\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "Proteção",
+            "e": "O colchão de 3 a 6 meses antes do risco.",
+            "f": "Na visão de Nathalia Cardoso, \"proteção\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Renda fixa no Brasil",
         "text": "Tesouro, CDB e poupança explicados.",
         "points": [
-          "Tesouro",
-          "CDB",
-          "Poupança"
+          {
+            "t": "Tesouro",
+            "e": "Tesouro, CDB e poupança explicados.",
+            "f": "Na visão de Nathalia Cardoso, \"tesouro\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "CDB",
+            "e": "Tesouro, CDB e poupança explicados.",
+            "f": "Na visão de Nathalia Cardoso, \"cdb\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "Poupança",
+            "e": "Tesouro, CDB e poupança explicados.",
+            "f": "Deixar o dinheiro na poupança é conforto que custa seu futuro.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Saindo da poupança",
         "text": "Por que parar na poupança custa caro.",
         "points": [
-          "Inflação",
-          "Comparação",
-          "Ganho"
+          {
+            "t": "Inflação",
+            "e": "Por que parar na poupança custa caro.",
+            "f": "Deixar o dinheiro na poupança é conforto que custa seu futuro.",
+            "real": true
+          },
+          {
+            "t": "Comparação",
+            "e": "Por que parar na poupança custa caro.",
+            "f": "Na visão de Nathalia Cardoso, \"comparação\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "Ganho",
+            "e": "Por que parar na poupança custa caro.",
+            "f": "Na visão de Nathalia Cardoso, \"ganho\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Renda variável",
         "text": "Ações e fundos com risco e retorno maiores.",
         "points": [
-          "Ações",
-          "Fundos",
-          "Risco"
+          {
+            "t": "Ações",
+            "e": "Ações e fundos com risco e retorno maiores.",
+            "f": "Na visão de Nathalia Cardoso, \"ações\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "Fundos",
+            "e": "Ações e fundos com risco e retorno maiores.",
+            "f": "Na visão de Nathalia Cardoso, \"fundos\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "Risco",
+            "e": "Ações e fundos com risco e retorno maiores.",
+            "f": "Na visão de Nathalia Cardoso, \"risco\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Previdência e longo prazo",
         "text": "Comparar e decidir com critério.",
         "points": [
-          "Previdência",
-          "Taxas",
-          "Prazo"
+          {
+            "t": "Previdência",
+            "e": "Comparar e decidir com critério.",
+            "f": "Na visão de Nathalia Cardoso, \"previdência\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "Taxas",
+            "e": "Comparar e decidir com critério.",
+            "f": "Na visão de Nathalia Cardoso, \"taxas\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          },
+          {
+            "t": "Prazo",
+            "e": "Comparar e decidir com critério.",
+            "f": "Na visão de Nathalia Cardoso, \"prazo\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Autonomia financeira",
         "text": "Entender seus números e não terceirizar.",
         "points": [
-          "Autonomia",
-          "Números",
-          "Decisão"
+          {
+            "t": "Autonomia",
+            "e": "Entender seus números e não terceirizar.",
+            "f": "Autonomia financeira começa quando você para de terceirizar suas próprias decisões.",
+            "real": true
+          },
+          {
+            "t": "Números",
+            "e": "Entender seus números e não terceirizar.",
+            "f": "Mulher que entende seus números não depende de promessa de ninguém.",
+            "real": true
+          },
+          {
+            "t": "Decisão",
+            "e": "Entender seus números e não terceirizar.",
+            "f": "Na visão de Nathalia Cardoso, \"decisão\" é parte essencial da proposta de \"Mulher, Você Pode Ser Rica\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -16943,62 +17123,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Encontre seu porquê",
-        "text": "Identifique a razão que sustenta você nos piores dias."
+        "text": "Identifique a razão que sustenta você nos piores dias.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Encontre seu porquê\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Identifique a razão que sustenta você nos piores dias — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Encontre seu porquê\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Exerça a liberdade de atitude",
-        "text": "Ninguém tira sua escolha diante de qualquer condição."
+        "text": "Ninguém tira sua escolha diante de qualquer condição.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Exerça a liberdade de atitude\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Ninguém tira sua escolha diante de qualquer condição — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exerça a liberdade de atitude\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Construa sentido, não espere",
-        "text": "Sentido se cria por ação e escolha, não por achado."
+        "text": "Sentido se cria por ação e escolha, não por achado.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Construa sentido, não espere\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Sentido se cria por ação e escolha, não por achado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa sentido, não espere\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Evite o vazio existencial",
-        "text": "Preencher por fora não basta; busque propósito real."
+        "text": "Preencher por fora não basta; busque propósito real.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Evite o vazio existencial\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Preencher por fora não basta; busque propósito real — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite o vazio existencial\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Ame de verdade",
-        "text": "Relações profundas são fonte central de sentido."
+        "text": "Relações profundas são fonte central de sentido.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Ame de verdade\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Relações profundas são fonte central de sentido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ame de verdade\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Dê valor pelo trabalho",
-        "text": "O que entrega ao mundo importa mais que o cargo."
+        "text": "O que entrega ao mundo importa mais que o cargo.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Dê valor pelo trabalho\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: O que entrega ao mundo importa mais que o cargo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dê valor pelo trabalho\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Enfrente o sofrimento",
-        "text": "Postura diante da dor pode dignificar e dar sentido."
+        "text": "Postura diante da dor pode dignificar e dar sentido.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Enfrente o sofrimento\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Postura diante da dor pode dignificar e dar sentido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Enfrente o sofrimento\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Busque propósito, não prazer",
-        "text": "Felicidade é efeito do sentido, não alvo direto."
+        "text": "Felicidade é efeito do sentido, não alvo direto.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Busque propósito, não prazer\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Felicidade é efeito do sentido, não alvo direto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque propósito, não prazer\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Rejeite o determinismo",
-        "text": "Há sempre espaço de escolha humana."
+        "text": "Há sempre espaço de escolha humana.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Rejeite o determinismo\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Há sempre espaço de escolha humana — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Rejeite o determinismo\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Assuma responsabilidade",
-        "text": "Liberdade e responsabilidade vêm juntas."
+        "text": "Liberdade e responsabilidade vêm juntas.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Assuma responsabilidade\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Liberdade e responsabilidade vêm juntas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma responsabilidade\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Supere o passado",
-        "text": "A resposta ao passado é escolha presente."
+        "text": "A resposta ao passado é escolha presente.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Supere o passado\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: A resposta ao passado é escolha presente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Supere o passado\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Pratique a logoterapia",
-        "text": "Pergunte \"qual o sentido disto?\" diante de cada situação."
+        "text": "Pergunte \"qual o sentido disto?\" diante de cada situação.",
+        "explicacoes": [
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Pratique a logoterapia\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
+          "Na prática: Pergunte \"qual o sentido disto?\" diante de cada situação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a logoterapia\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -17020,72 +17260,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A experiência do campo",
         "text": "Frankl descreve Auschwitz e o que observou sobre sobrevivência.",
         "points": [
-          "Auschwitz",
-          "Observação",
-          "Sobrevivência"
+          {
+            "t": "Auschwitz",
+            "e": "Frankl descreve Auschwitz e o que observou sobre sobrevivência.",
+            "f": "Na visão de Viktor E. Frankl, \"auschwitz\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Observação",
+            "e": "Frankl descreve Auschwitz e o que observou sobre sobrevivência.",
+            "f": "Na visão de Viktor E. Frankl, \"observação\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Sobrevivência",
+            "e": "Frankl descreve Auschwitz e o que observou sobre sobrevivência.",
+            "f": "Na visão de Viktor E. Frankl, \"sobrevivência\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O porquê da vida",
         "text": "Como o sentido sustentou prisioneiros frágeis.",
         "points": [
-          "Sentido",
-          "Força",
-          "Esperança"
+          {
+            "t": "Sentido",
+            "e": "Como o sentido sustentou prisioneiros frágeis.",
+            "f": "Aqueles que têm um porquê para viver podem suportar quase qualquer como.",
+            "real": true
+          },
+          {
+            "t": "Força",
+            "e": "Como o sentido sustentou prisioneiros frágeis.",
+            "f": "O que importa não é o que esperamos da vida, mas o que a vida espera de nós.",
+            "real": true
+          },
+          {
+            "t": "Esperança",
+            "e": "Como o sentido sustentou prisioneiros frágeis.",
+            "f": "Na visão de Viktor E. Frankl, \"esperança\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A liberdade de atitude",
         "text": "A escolha intransferível diante das circunstâncias.",
         "points": [
-          "Escolha",
-          "Circunstância",
-          "Dignidade"
+          {
+            "t": "Escolha",
+            "e": "A escolha intransferível diante das circunstâncias.",
+            "f": "A liberdade última do ser humano é a de escolher sua atitude diante de qualquer conjunto de circunstâncias.",
+            "real": true
+          },
+          {
+            "t": "Circunstância",
+            "e": "A escolha intransferível diante das circunstâncias.",
+            "f": "Na visão de Viktor E. Frankl, \"circunstância\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Dignidade",
+            "e": "A escolha intransferível diante das circunstâncias.",
+            "f": "Na visão de Viktor E. Frankl, \"dignidade\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — As três fontes de sentido",
         "text": "Trabalho, amor e coragem diante do sofrimento.",
         "points": [
-          "Trabalho",
-          "Amor",
-          "Sofrimento"
+          {
+            "t": "Trabalho",
+            "e": "Trabalho, amor e coragem diante do sofrimento.",
+            "f": "Na visão de Viktor E. Frankl, \"trabalho\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Amor",
+            "e": "Trabalho, amor e coragem diante do sofrimento.",
+            "f": "Na visão de Viktor E. Frankl, \"amor\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Sofrimento",
+            "e": "Trabalho, amor e coragem diante do sofrimento.",
+            "f": "Na visão de Viktor E. Frankl, \"sofrimento\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A vacância existencial",
         "text": "O vazio da modernidade saciada e sem propósito.",
         "points": [
-          "Vazio",
-          "Modernidade",
-          "Propósito"
+          {
+            "t": "Vazio",
+            "e": "O vazio da modernidade saciada e sem propósito.",
+            "f": "A vacância existencial é o vazio que resta quando saciamos todos os desejos e nada preenche.",
+            "real": true
+          },
+          {
+            "t": "Modernidade",
+            "e": "O vazio da modernidade saciada e sem propósito.",
+            "f": "Na visão de Viktor E. Frankl, \"modernidade\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Propósito",
+            "e": "O vazio da modernidade saciada e sem propósito.",
+            "f": "Na visão de Viktor E. Frankl, \"propósito\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Logoterapia",
         "text": "A terapia centrada no sentido vs prazer.",
         "points": [
-          "Logos",
-          "Terapia",
-          "Foco"
+          {
+            "t": "Logos",
+            "e": "A terapia centrada no sentido vs prazer.",
+            "f": "Na visão de Viktor E. Frankl, \"logos\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Terapia",
+            "e": "A terapia centrada no sentido vs prazer.",
+            "f": "Na visão de Viktor E. Frankl, \"terapia\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "A terapia centrada no sentido vs prazer.",
+            "f": "Na visão de Viktor E. Frankl, \"foco\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O sofrimento inevitável",
         "text": "Postura diante da dor que não se pode evitar.",
         "points": [
-          "Dor",
-          "Postura",
-          "Dignidade"
+          {
+            "t": "Dor",
+            "e": "Postura diante da dor que não se pode evitar.",
+            "f": "Na visão de Viktor E. Frankl, \"dor\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Postura",
+            "e": "Postura diante da dor que não se pode evitar.",
+            "f": "Na visão de Viktor E. Frankl, \"postura\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Dignidade",
+            "e": "Postura diante da dor que não se pode evitar.",
+            "f": "Na visão de Viktor E. Frankl, \"dignidade\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A resposta à vida",
         "text": "O que a vida espera de nós, não o contrário.",
         "points": [
-          "Responsabilidade",
-          "Chamado",
-          "Escolha"
+          {
+            "t": "Responsabilidade",
+            "e": "O que a vida espera de nós, não o contrário.",
+            "f": "O que importa não é o que esperamos da vida, mas o que a vida espera de nós.",
+            "real": true
+          },
+          {
+            "t": "Chamado",
+            "e": "O que a vida espera de nós, não o contrário.",
+            "f": "Na visão de Viktor E. Frankl, \"chamado\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          },
+          {
+            "t": "Escolha",
+            "e": "O que a vida espera de nós, não o contrário.",
+            "f": "Na visão de Viktor E. Frankl, \"escolha\" é parte essencial da proposta de \"Em Busca de Sentido\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -17249,62 +17609,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Solte a perfeição",
-        "text": "Troque a armadura da perfeição pela coragem de ser imperfeito."
+        "text": "Troque a armadura da perfeição pela coragem de ser imperfeito.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Solte a perfeição\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Troque a armadura da perfeição pela coragem de ser imperfeito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Solte a perfeição\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Pratique a vulnerabilidade",
-        "text": "Abra-se; é a base da conexão e da coragem."
+        "text": "Abra-se; é a base da conexão e da coragem.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Pratique a vulnerabilidade\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Abra-se; é a base da conexão e da coragem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a vulnerabilidade\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Nomeie a vergonha",
-        "text": "Reconhecer e falar a vergonha reduz seu poder."
+        "text": "Reconhecer e falar a vergonha reduz seu poder.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Nomeie a vergonha\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Reconhecer e falar a vergonha reduz seu poder — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Nomeie a vergonha\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Seja autocompactivo",
-        "text": "Trate-se com gentileza; cuidado move, crueldade paralisa."
+        "text": "Trate-se com gentileza; cuidado move, crueldade paralisa.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Seja autocompactivo\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Trate-se com gentileza; cuidado move, crueldade paralisa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja autocompactivo\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Viva autenticidade",
-        "text": "Escolha mostrar quem é, mesmo desconfortável."
+        "text": "Escolha mostrar quem é, mesmo desconfortável.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Viva autenticidade\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Escolha mostrar quem é, mesmo desconfortável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva autenticidade\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Cultive gratidão",
-        "text": "Pratique o reconhecimento diário para abrir espaço à alegria."
+        "text": "Pratique o reconhecimento diário para abrir espaço à alegria.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Cultive gratidão\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Pratique o reconhecimento diário para abrir espaço à alegria — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive gratidão\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Exerça a criatividade",
-        "text": "Crie como necessidade humana, não por talento raro."
+        "text": "Crie como necessidade humana, não por talento raro.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Exerça a criatividade\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Crie como necessidade humana, não por talento raro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exerça a criatividade\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Brinque e descanse",
-        "text": "Prazer e pausa sustentam a saúde emocional."
+        "text": "Prazer e pausa sustentam a saúde emocional.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Brinque e descanse\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Prazer e pausa sustentam a saúde emocional — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Brinque e descanse\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Busque trabalho com sentido",
-        "text": "Faça o que importa; dever sem propósito esvazia."
+        "text": "Faça o que importa; dever sem propósito esvazia.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Busque trabalho com sentido\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Faça o que importa; dever sem propósito esvazia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque trabalho com sentido\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Ouça a intuição",
-        "text": "Use o saber do corpo como bússola."
+        "text": "Use o saber do corpo como bússola.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Ouça a intuição\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Use o saber do corpo como bússola — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ouça a intuição\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Aceite a incerteza",
-        "text": "Abandone a ilusão de controle total."
+        "text": "Abandone a ilusão de controle total.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Aceite a incerteza\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Abandone a ilusão de controle total — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite a incerteza\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Expresse alegria",
-        "text": "Cantar, rir e dançar como prática de inteireza."
+        "text": "Cantar, rir e dançar como prática de inteireza.",
+        "explicacoes": [
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Expresse alegria\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
+          "Na prática: Cantar, rir e dançar como prática de inteireza — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Expresse alegria\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -17326,72 +17746,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A armadura da perfeição",
         "text": "Como a busca de impecabilidade isola e esconde.",
         "points": [
-          "Perfeição",
-          "Isolamento",
-          "Máscara"
+          {
+            "t": "Perfeição",
+            "e": "Como a busca de impecabilidade isola e esconde.",
+            "f": "Na visão de Brené Brown, \"perfeição\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Isolamento",
+            "e": "Como a busca de impecabilidade isola e esconde.",
+            "f": "Na visão de Brené Brown, \"isolamento\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Máscara",
+            "e": "Como a busca de impecabilidade isola e esconde.",
+            "f": "Na visão de Brené Brown, \"máscara\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A pesquisa da vergonha",
         "text": "O que a vergonha faz e como nomeá-la.",
         "points": [
-          "Vergonha",
-          "Nomear",
-          "Poder"
+          {
+            "t": "Vergonha",
+            "e": "O que a vergonha faz e como nomeá-la.",
+            "f": "A vergonha é a emoção intensa e dolorosa de que somos defeituosos e, por isso, indignos de conexão.",
+            "real": true
+          },
+          {
+            "t": "Nomear",
+            "e": "O que a vergonha faz e como nomeá-la.",
+            "f": "Na visão de Brené Brown, \"nomear\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Poder",
+            "e": "O que a vergonha faz e como nomeá-la.",
+            "f": "Na visão de Brené Brown, \"poder\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Guia 1 e 2: autenticidade e autocompaixão",
         "text": "Ser real e gentil consigo.",
         "points": [
-          "Autenticidade",
-          "Cuidado",
-          "Prática"
+          {
+            "t": "Autenticidade",
+            "e": "Ser real e gentil consigo.",
+            "f": "Na visão de Brené Brown, \"autenticidade\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Cuidado",
+            "e": "Ser real e gentil consigo.",
+            "f": "Na visão de Brené Brown, \"cuidado\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Prática",
+            "e": "Ser real e gentil consigo.",
+            "f": "A coragem de ser imperfeito é a decisão de fazer de nossa vida uma prática de integridade e amor.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Guia 3 e 4: resiliência e gratidão",
         "text": "Resistir e reconhecer o bem.",
         "points": [
-          "Resiliência",
-          "Gratidão",
-          "Alegria"
+          {
+            "t": "Resiliência",
+            "e": "Resistir e reconhecer o bem.",
+            "f": "A gratidão sem alegria é apenas comparação disfarçada.",
+            "real": true
+          },
+          {
+            "t": "Gratidão",
+            "e": "Resistir e reconhecer o bem.",
+            "f": "Na visão de Brené Brown, \"gratidão\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Alegria",
+            "e": "Resistir e reconhecer o bem.",
+            "f": "Na visão de Brené Brown, \"alegria\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Guia 5 e 6: intuição e criatividade",
         "text": "Ouvir o corpo e criar.",
         "points": [
-          "Intuição",
-          "Criatividade",
-          "Necessidade"
+          {
+            "t": "Intuição",
+            "e": "Ouvir o corpo e criar.",
+            "f": "Na visão de Brené Brown, \"intuição\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Criatividade",
+            "e": "Ouvir o corpo e criar.",
+            "f": "Na visão de Brené Brown, \"criatividade\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Necessidade",
+            "e": "Ouvir o corpo e criar.",
+            "f": "Na visão de Brené Brown, \"necessidade\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Guia 7 e 8: brincadeira e calma",
         "text": "Prazer e pausa como saúde.",
         "points": [
-          "Brincadeira",
-          "Calma",
-          "Equilíbrio"
+          {
+            "t": "Brincadeira",
+            "e": "Prazer e pausa como saúde.",
+            "f": "Na visão de Brené Brown, \"brincadeira\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Calma",
+            "e": "Prazer e pausa como saúde.",
+            "f": "Na visão de Brené Brown, \"calma\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Equilíbrio",
+            "e": "Prazer e pausa como saúde.",
+            "f": "Na visão de Brené Brown, \"equilíbrio\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Guia 9 e 10: trabalho e alegria",
         "text": "Sentido e expressão corporal.",
         "points": [
-          "Sentido",
-          "Expressão",
-          "Cantar"
+          {
+            "t": "Sentido",
+            "e": "Sentido e expressão corporal.",
+            "f": "A gratidão sem alegria é apenas comparação disfarçada.",
+            "real": true
+          },
+          {
+            "t": "Expressão",
+            "e": "Sentido e expressão corporal.",
+            "f": "Na visão de Brené Brown, \"expressão\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          },
+          {
+            "t": "Cantar",
+            "e": "Sentido e expressão corporal.",
+            "f": "Na visão de Brené Brown, \"cantar\" é parte essencial da proposta de \"A Coragem de Ser Imperfeito\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A coragem de ser imperfeito",
         "text": "Integrar os guias na vida diária.",
         "points": [
-          "Inteireza",
-          "Prática",
-          "Conexão"
+          {
+            "t": "Inteireza",
+            "e": "Integrar os guias na vida diária.",
+            "f": "A coragem de ser imperfeito é a decisão de fazer de nossa vida uma prática de integridade e amor.",
+            "real": true
+          },
+          {
+            "t": "Prática",
+            "e": "Integrar os guias na vida diária.",
+            "f": "A vulnerabilidade é a nossa medida mais precisa de coragem.",
+            "real": true
+          },
+          {
+            "t": "Conexão",
+            "e": "Integrar os guias na vida diária.",
+            "f": "A vergonha é a emoção intensa e dolorosa de que somos defeituosos e, por isso, indignos de conexão.",
+            "real": true
+          }
         ]
       }
     ]
