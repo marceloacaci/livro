@@ -57297,57 +57297,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Conheça o elefante",
-        "text": "Perceba quando a emoção manda e a razão só justifica; nomear já ajuda."
+        "text": "Perceba quando a emoção manda e a razão só justifica; nomear já ajuda.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Conheça o elefante\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Perceba quando a emoção manda e a razão só justifica; nomear já ajuda — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça o elefante\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Mude o ambiente",
-        "text": "Em vez de forçar a vontade, desenhe escolhas que favoreçam o hábito bom."
+        "text": "Em vez de forçar a vontade, desenhe escolhas que favoreçam o hábito bom.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Mude o ambiente\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Em vez de forçar a vontade, desenhe escolhas que favoreçam o hábito bom — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mude o ambiente\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Aceite o que não controla",
-        "text": "Separar o interno do externo reduz sofrimento e libera energia."
+        "text": "Separar o interno do externo reduz sofrimento e libera energia.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Aceite o que não controla\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Separar o interno do externo reduz sofrimento e libera energia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o que não controla\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Invista em vínculos",
-        "text": "Relações profundas valem mais por ano de vida que salário extra."
+        "text": "Relações profundas valem mais por ano de vida que salário extra.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Invista em vínculos\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Relações profundas valem mais por ano de vida que salário extra — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Invista em vínculos\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Pratique a virtude",
-        "text": "Agir certo repetidamente treina o elefante a sentir o bem."
+        "text": "Agir certo repetidamente treina o elefante a sentir o bem.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Pratique a virtude\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Agir certo repetidamente treina o elefante a sentir o bem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a virtude\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Cuide do corpo",
-        "text": "Sono, movimento e respiração são alavancas diretas do humor."
+        "text": "Sono, movimento e respiração são alavancas diretas do humor.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Cuide do corpo\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Sono, movimento e respiração são alavancas diretas do humor — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuide do corpo\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Redirecione a atenção",
-        "text": "O foco decide a experiência; escolha onde a mente repousa."
+        "text": "O foco decide a experiência; escolha onde a mente repousa.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Redirecione a atenção\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: O foco decide a experiência; escolha onde a mente repousa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Redirecione a atenção\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Espere o ponto de ajuste",
-        "text": "Saiba que altos caem; não deixe o momento definir sua identidade."
+        "text": "Saiba que altos caem; não deixe o momento definir sua identidade.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Espere o ponto de ajuste\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Saiba que altos caem; não deixe o momento definir sua identidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Espere o ponto de ajuste\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Busque sentido",
-        "text": "Propósito maior sustenta mais que prazer imediato e passageiro."
+        "text": "Propósito maior sustenta mais que prazer imediato e passageiro.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Busque sentido\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Propósito maior sustenta mais que prazer imediato e passageiro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque sentido\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Estude os antigos",
-        "text": "Filosofia moral antiga antecipa a ciência; leia-a como laboratório."
+        "text": "Filosofia moral antiga antecipa a ciência; leia-a como laboratório.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Estude os antigos\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Filosofia moral antiga antecipa a ciência; leia-a como laboratório — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estude os antigos\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Sirva para fora de si",
-        "text": "Sair do eu reduz ansiedade e devolve perspectiva ao dia."
+        "text": "Sair do eu reduz ansiedade e devolve perspectiva ao dia.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Sirva para fora de si\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
+          "Na prática: Sair do eu reduz ansiedade e devolve perspectiva ao dia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sirva para fora de si\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "citacoes": [
@@ -57399,64 +57454,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A divisão da mente",
         "text": "A metáfora do elefante e do condutor explica por que sabemos e não fazemos.",
         "points": [
-          "Razão vs emoção",
-          "Quem manda de fato"
+          {
+            "t": "Razão vs emoção",
+            "e": "A metáfora do elefante e do condutor explica por que sabemos e não fazemos.",
+            "f": "A mente humana é um elefante com um condutor minúsculo; o condutor segura as rédeas, mas o elefante decide aonde ir.",
+            "real": true
+          },
+          {
+            "t": "Quem manda de fato",
+            "e": "A metáfora do elefante e do condutor explica por que sabemos e não fazemos.",
+            "f": "Na visão de Jonathan Haidt, \"quem manda de fato\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Mudança de ponto de ajuste",
         "text": "Genes e hábito puxam o humor de volta; externos explicam pouco.",
         "points": [
-          "O piso do bem-estar",
-          "Por que ganhos caem"
+          {
+            "t": "O piso do bem-estar",
+            "e": "Genes e hábito puxam o humor de volta; externos explicam pouco.",
+            "f": "A felicidade vem de dentro e de cima: do ajuste entre nossos instintos e nossos ideais, não das circunstâncias externas.",
+            "real": true
+          },
+          {
+            "t": "Por que ganhos caem",
+            "e": "Genes e hábito puxam o humor de volta; externos explicam pouco.",
+            "f": "Na visão de Jonathan Haidt, \"por que ganhos caem\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A felicidade de fora",
         "text": "Riqueza, fama e clima afetam menos do que se imagina a longo prazo.",
         "points": [
-          "Limite do externo",
-          "Adaptação hedônica"
+          {
+            "t": "Limite do externo",
+            "e": "Riqueza, fama e clima afetam menos do que se imagina a longo prazo.",
+            "f": "O segredo da felicidade não é ganhar ou alcançar, mas sim mudar a relação entre o condutor e o elefante.",
+            "real": true
+          },
+          {
+            "t": "Adaptação hedônica",
+            "e": "Riqueza, fama e clima afetam menos do que se imagina a longo prazo.",
+            "f": "A felicidade vem de dentro e de cima: do ajuste entre nossos instintos e nossos ideais, não das circunstâncias externas.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A felicidade de dentro",
         "text": "Virtude, fluxo e sentido movem o ponteiro de forma durável.",
         "points": [
-          "Fontes voluntárias",
-          "Sentido sobre prazer"
+          {
+            "t": "Fontes voluntárias",
+            "e": "Virtude, fluxo e sentido movem o ponteiro de forma durável.",
+            "f": "A felicidade vem de dentro e de cima: do ajuste entre nossos instintos e nossos ideais, não das circunstâncias externas.",
+            "real": true
+          },
+          {
+            "t": "Sentido sobre prazer",
+            "e": "Virtude, fluxo e sentido movem o ponteiro de forma durável.",
+            "f": "O segredo da felicidade não é ganhar ou alcançar, mas sim mudar a relação entre o condutor e o elefante.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O papel da sorte",
         "text": "Acaso molda muito, mas a resposta a ele é treinável.",
         "points": [
-          "Acaso e resposta",
-          "O que resta controlar"
+          {
+            "t": "Acaso e resposta",
+            "e": "Acaso molda muito, mas a resposta a ele é treinável.",
+            "f": "Na visão de Jonathan Haidt, \"acaso e resposta\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          },
+          {
+            "t": "O que resta controlar",
+            "e": "Acaso molda muito, mas a resposta a ele é treinável.",
+            "f": "Na visão de Jonathan Haidt, \"o que resta controlar\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O corpo e a mente",
         "text": "Postura e respiração influenciam o elefante mais que frases.",
         "points": [
-          "Alavanca física",
-          "Estado importa"
+          {
+            "t": "Alavanca física",
+            "e": "Postura e respiração influenciam o elefante mais que frases.",
+            "f": "A mente humana é um elefante com um condutor minúsculo; o condutor segura as rédeas, mas o elefante decide aonde ir.",
+            "real": true
+          },
+          {
+            "t": "Estado importa",
+            "e": "Postura e respiração influenciam o elefante mais que frases.",
+            "f": "Na visão de Jonathan Haidt, \"estado importa\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A reciprocidade e o vínculo",
         "text": "Relações e confiança são base da vida boa segundo antigos e ciência.",
         "points": [
-          "Vínculo como bem",
-          "Confiança paga"
+          {
+            "t": "Vínculo como bem",
+            "e": "Relações e confiança são base da vida boa segundo antigos e ciência.",
+            "f": "As pessoas são como geleiras: o que se vê é pequeno comparado ao que há embaixo da água.",
+            "real": true
+          },
+          {
+            "t": "Confiança paga",
+            "e": "Relações e confiança são base da vida boa segundo antigos e ciência.",
+            "f": "Na visão de Jonathan Haidt, \"confiança paga\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A síntese",
         "text": "Unir razão, emoção e virtude é a hipótese da felicidade real.",
         "points": [
-          "Condutor + elefante",
-          "Vida boa na prática"
+          {
+            "t": "Condutor + elefante",
+            "e": "Unir razão, emoção e virtude é a hipótese da felicidade real.",
+            "f": "A mente humana é um elefante com um condutor minúsculo; o condutor segura as rédeas, mas o elefante decide aonde ir.",
+            "real": true
+          },
+          {
+            "t": "Vida boa na prática",
+            "e": "Unir razão, emoção e virtude é a hipótese da felicidade real.",
+            "f": "Na visão de Jonathan Haidt, \"vida boa na prática\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -57576,57 +57711,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Some as semanas",
-        "text": "Calcular sua finitude torna concreta a escolha do que importa."
+        "text": "Calcular sua finitude torna concreta a escolha do que importa.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Some as semanas\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: Calcular sua finitude torna concreta a escolha do que importa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Some as semanas\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Abandone a lista infinita",
-        "text": "Não tente zerar; aceite que boa parte ficará por fazer."
+        "text": "Não tente zerar; aceite que boa parte ficará por fazer.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Abandone a lista infinita\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: Não tente zerar; aceite que boa parte ficará por fazer — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abandone a lista infinita\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Negligencie de propósito",
-        "text": "Exclua categorias inteiras para proteger o essencial."
+        "text": "Exclua categorias inteiras para proteger o essencial.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Negligencie de propósito\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: Exclua categorias inteiras para proteger o essencial — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Negligencie de propósito\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Fuja da eficiência",
-        "text": "Pare de otimizar; use o tempo como experiência, não como recurso."
+        "text": "Pare de otimizar; use o tempo como experiência, não como recurso.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Fuja da eficiência\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: Pare de otimizar; use o tempo como experiência, não como recurso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fuja da eficiência\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Abraçe o não-acabado",
-        "text": "A ansiedade de deixar coisas abertas é sinal de vida finita, aceite-a."
+        "text": "A ansiedade de deixar coisas abertas é sinal de vida finita, aceite-a.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Abraçe o não-acabado\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: A ansiedade de deixar coisas abertas é sinal de vida finita, aceite-a — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abraçe o não-acabado\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Faça um de cada vez",
-        "text": "Atenção plena em pouco vale mais que multitarefa ansiosa."
+        "text": "Atenção plena em pouco vale mais que multitarefa ansiosa.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Faça um de cada vez\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: Atenção plena em pouco vale mais que multitarefa ansiosa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça um de cada vez\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Prazo como aliado",
-        "text": "O limite de tempo força escolha real e evita a procrastinação."
+        "text": "O limite de tempo força escolha real e evita a procrastinação.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Prazo como aliado\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: O limite de tempo força escolha real e evita a procrastinação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Prazo como aliado\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Menos compromissos",
-        "text": "Reduza obrigações para ter margem de manobra e presença."
+        "text": "Reduza obrigações para ter margem de manobra e presença.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Menos compromissos\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: Reduza obrigações para ter margem de manobra e presença — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Menos compromissos\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Viva o agora",
-        "text": "O presente é o único terreno real; o futuro é promessa."
+        "text": "O presente é o único terreno real; o futuro é promessa.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Viva o agora\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: O presente é o único terreno real; o futuro é promessa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva o agora\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Procure sentido, não legado",
-        "text": "Construir marca eterna foge da finitude; viver pleno a aceita."
+        "text": "Construir marca eterna foge da finitude; viver pleno a aceita.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Procure sentido, não legado\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: Construir marca eterna foge da finitude; viver pleno a aceita — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Procure sentido, não legado\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Revise semanalmente",
-        "text": "Um ritual curto para cortar o que sugou atenção à toa."
+        "text": "Um ritual curto para cortar o que sugou atenção à toa.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Revise semanalmente\" como peça-chave para a finitude e o paradoxo da produtividade.",
+          "Na prática: Um ritual curto para cortar o que sugou atenção à toa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Revise semanalmente\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "citacoes": [
@@ -57678,64 +57868,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A aritmética da vida",
         "text": "Quatro mil semanas é o saldo real; a finitude é o ponto de partida.",
         "points": [
-          "Tempo finito",
-          "O dado que dói"
+          {
+            "t": "Tempo finito",
+            "e": "Quatro mil semanas é o saldo real; a finitude é o ponto de partida.",
+            "f": "A vida humana é breve: se você viver até os oitenta, terá cerca de quatro mil semanas, e é isso.",
+            "real": true
+          },
+          {
+            "t": "O dado que dói",
+            "e": "Quatro mil semanas é o saldo real; a finitude é o ponto de partida.",
+            "f": "A atenção é a forma como a vida é gasta; onde ela vai, sua vida vai junto.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A falácia da eficiência",
         "text": "Otimizar cria mais lista e mais ansiedade, não mais vida.",
         "points": [
-          "Eficácia ilusória",
-          "Mais não é melhor"
+          {
+            "t": "Eficácia ilusória",
+            "e": "Otimizar cria mais lista e mais ansiedade, não mais vida.",
+            "f": "Na visão de Oliver Burkeman, \"eficácia ilusória\" é parte essencial da proposta de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
+          },
+          {
+            "t": "Mais não é melhor",
+            "e": "Otimizar cria mais lista e mais ansiedade, não mais vida.",
+            "f": "Quanto mais tentamos \"dominar\" o tempo, mais ele nos domina; o segredo é render-se à limitação.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A lista infinita",
         "text": "Tentar zerar é perseguir o impossível; aceite o não-acabado.",
         "points": [
-          "Caixa nunca vazia",
-          "Aceite sobrar"
+          {
+            "t": "Caixa nunca vazia",
+            "e": "Tentar zerar é perseguir o impossível; aceite o não-acabado.",
+            "f": "A produtividade não nos liberta do tempo; ela nos torna escravos dele, porque a lista nunca acaba.",
+            "real": true
+          },
+          {
+            "t": "Aceite sobrar",
+            "e": "Tentar zerar é perseguir o impossível; aceite o não-acabado.",
+            "f": "Na visão de Oliver Burkeman, \"aceite sobrar\" é parte essencial da proposta de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Escolher negligenciar",
         "text": "Dizer não a categorias inteiras protege o essencial.",
         "points": [
-          "Exclusão ativa",
-          "Não como poder"
+          {
+            "t": "Exclusão ativa",
+            "e": "Dizer não a categorias inteiras protege o essencial.",
+            "f": "A única maneira honesta de lidar com a finitude é escolher o que negligenciar.",
+            "real": true
+          },
+          {
+            "t": "Não como poder",
+            "e": "Dizer não a categorias inteiras protege o essencial.",
+            "f": "A atenção é a forma como a vida é gasta; onde ela vai, sua vida vai junto.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Tempo como dom",
         "text": "Minutos são vida, não mercadoria; parar de lucrar com eles.",
         "points": [
-          "Viver, não medir",
-          "Tempo habita"
+          {
+            "t": "Viver, não medir",
+            "e": "Minutos são vida, não mercadoria; parar de lucrar com eles.",
+            "f": "A vida humana é breve: se você viver até os oitenta, terá cerca de quatro mil semanas, e é isso.",
+            "real": true
+          },
+          {
+            "t": "Tempo habita",
+            "e": "Minutos são vida, não mercadoria; parar de lucrar com eles.",
+            "f": "A produtividade não nos liberta do tempo; ela nos torna escravos dele, porque a lista nunca acaba.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — A ansiedade finita",
         "text": "O desconforto de deixar coisas abertas é sinal de vida real.",
         "points": [
-          "Angústia honesta",
-          "Sobrar é normal"
+          {
+            "t": "Angústia honesta",
+            "e": "O desconforto de deixar coisas abertas é sinal de vida real.",
+            "f": "A única maneira honesta de lidar com a finitude é escolher o que negligenciar.",
+            "real": true
+          },
+          {
+            "t": "Sobrar é normal",
+            "e": "O desconforto de deixar coisas abertas é sinal de vida real.",
+            "f": "Na visão de Oliver Burkeman, \"sobrar é normal\" é parte essencial da proposta de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Atenção plena",
         "text": "Fazer um de cada vez devolve presença ao pouco que se faz.",
         "points": [
-          "Um, não vários",
-          "Presença paga"
+          {
+            "t": "Um, não vários",
+            "e": "Fazer um de cada vez devolve presença ao pouco que se faz.",
+            "f": "A atenção é a forma como a vida é gasta; onde ela vai, sua vida vai junto.",
+            "real": true
+          },
+          {
+            "t": "Presença paga",
+            "e": "Fazer um de cada vez devolve presença ao pouco que se faz.",
+            "f": "Na visão de Oliver Burkeman, \"presença paga\" é parte essencial da proposta de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Viver de modo finito",
         "text": "Aceitar o limite transforma a escolha diária em ato consciente.",
         "points": [
-          "Finito como guia",
-          "Agora ou nunca"
+          {
+            "t": "Finito como guia",
+            "e": "Aceitar o limite transforma a escolha diária em ato consciente.",
+            "f": "A vida humana é breve: se você viver até os oitenta, terá cerca de quatro mil semanas, e é isso.",
+            "real": true
+          },
+          {
+            "t": "Agora ou nunca",
+            "e": "Aceitar o limite transforma a escolha diária em ato consciente.",
+            "f": "A produtividade não nos liberta do tempo; ela nos torna escravos dele, porque a lista nunca acaba.",
+            "real": true
+          }
         ]
       }
     ]
@@ -57855,57 +58125,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Faça a cama",
-        "text": "Comece o dia com uma tarefa completa; ela prova que você pode agir."
+        "text": "Comece o dia com uma tarefa completa; ela prova que você pode agir.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Faça a cama\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: Comece o dia com uma tarefa completa; ela prova que você pode agir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça a cama\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Você precisa de time",
-        "text": "Ninguém sustenta o difícil sozinho; construa rede de confiança."
+        "text": "Ninguém sustenta o difícil sozinho; construa rede de confiança.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Você precisa de time\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: Ninguém sustenta o difícil sozinho; construa rede de confiança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Você precisa de time\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "O barro nivela",
-        "text": "Circunstância difícil equaliza todos; responda com calma."
+        "text": "Circunstância difícil equaliza todos; responda com calma.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"O barro nivela\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: Circunstância difícil equaliza todos; responda com calma — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"O barro nivela\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Não julgue pela largura",
-        "text": "Capacidade real aparece na ação, não no físico."
+        "text": "Capacidade real aparece na ação, não no físico.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Não julgue pela largura\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: Capacidade real aparece na ação, não no físico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não julgue pela largura\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Fracasse uma vez por dia",
-        "text": "Errar mantém humildade e treina a recuperação."
+        "text": "Errar mantém humildade e treina a recuperação.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Fracasse uma vez por dia\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: Errar mantém humildade e treina a recuperação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fracasse uma vez por dia\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Seja amigo do morro",
-        "text": "A dificuldade é professor; abrace em vez de fugir."
+        "text": "A dificuldade é professor; abrace em vez de fugir.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Seja amigo do morro\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: A dificuldade é professor; abrace em vez de fugir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja amigo do morro\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Não conte os dias",
-        "text": "Viver o agora vale mais que contabilizar o prazo."
+        "text": "Viver o agora vale mais que contabilizar o prazo.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Não conte os dias\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: Viver o agora vale mais que contabilizar o prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não conte os dias\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Dê seu melhor sempre",
-        "text": "O máximo importa justo quando tudo desaba."
+        "text": "O máximo importa justo quando tudo desaba.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Dê seu melhor sempre\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: O máximo importa justo quando tudo desaba — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dê seu melhor sempre\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Enfrente o escuro",
-        "text": "Reconhecer o medo e avançar é a coragem real."
+        "text": "Reconhecer o medo e avançar é a coragem real.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Enfrente o escuro\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: Reconhecer o medo e avançar é a coragem real — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Enfrente o escuro\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Inspire outros",
-        "text": "Levantar quem está perto multiplica sua própria força."
+        "text": "Levantar quem está perto multiplica sua própria força.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Inspire outros\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: Levantar quem está perto multiplica sua própria força — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Inspire outros\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Acumule pequenas vitórias",
-        "text": "A soma do trivial é o que constrói caráter e resultado."
+        "text": "A soma do trivial é o que constrói caráter e resultado.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Acumule pequenas vitórias\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
+          "Na prática: A soma do trivial é o que constrói caráter e resultado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acumule pequenas vitórias\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "citacoes": [
@@ -57957,64 +58282,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Faza sua cama",
         "text": "A primeira tarefa do dia prova que você consegue cumprir o que propõe.",
         "points": [
-          "Vitória mínima",
-          "Ordem ao acordar"
+          {
+            "t": "Vitória mínima",
+            "e": "A primeira tarefa do dia prova que você consegue cumprir o que propõe.",
+            "f": "Se você quer mudar o mundo, comece fazendo sua cama.",
+            "real": true
+          },
+          {
+            "t": "Ordem ao acordar",
+            "e": "A primeira tarefa do dia prova que você consegue cumprir o que propõe.",
+            "f": "Se cada dia você fizer sua cama, terá completado a primeira tarefa do dia. Isso lhe dará um pequeno senso de orgulho.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Você não pode sozinho",
         "text": "Times carregam o peso que um sozinho não aguenta.",
         "points": [
-          "Rede de apoio",
-          "Força coletiva"
+          {
+            "t": "Rede de apoio",
+            "e": "Times carregam o peso que um sozinho não aguenta.",
+            "f": "Ninguém pode fazer a diferença sozinho; se você quer mudar o mundo, comece pelos que estão ao seu lado.",
+            "real": true
+          },
+          {
+            "t": "Força coletiva",
+            "e": "Times carregam o peso que um sozinho não aguenta.",
+            "f": "Se você quer mudar o mundo, comece fazendo sua cama.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O barro nivela",
         "text": "O incômodo iguala todos; a resposta define quem segue.",
         "points": [
-          "Igualdade no difícil",
-          "Calma sob lama"
+          {
+            "t": "Igualdade no difícil",
+            "e": "O incômodo iguala todos; a resposta define quem segue.",
+            "f": "A vida é preenchida de sofrimento, e o barro nivela; se você quer fazer a diferença, não saia correndo dele.",
+            "real": true
+          },
+          {
+            "t": "Calma sob lama",
+            "e": "O incômodo iguala todos; a resposta define quem segue.",
+            "f": "Na visão de William H. McRaven, \"calma sob lama\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Meça pelo certo",
         "text": "Largura de ombro não prevê nada; ação e confiança sim.",
         "points": [
-          "Não julgue a vista",
-          "Prova real"
+          {
+            "t": "Não julgue a vista",
+            "e": "Largura de ombro não prevê nada; ação e confiança sim.",
+            "f": "Se você tem que fazer um passeio pelo inferno, faça-o de uma vez; não conte os dias, viva os dias.",
+            "real": true
+          },
+          {
+            "t": "Prova real",
+            "e": "Largura de ombro não prevê nada; ação e confiança sim.",
+            "f": "Na visão de William H. McRaven, \"prova real\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Fracasse uma vez",
         "text": "Errar diário treina humildade e recuperação rápida.",
         "points": [
-          "Erro como treino",
-          "Queda ensina"
+          {
+            "t": "Erro como treino",
+            "e": "Errar diário treina humildade e recuperação rápida.",
+            "f": "Na visão de William H. McRaven, \"erro como treino\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Queda ensina",
+            "e": "Errar diário treina humildade e recuperação rápida.",
+            "f": "Na visão de William H. McRaven, \"queda ensina\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O morro",
         "text": "A tarefa ingrata é onde se forja resistência; abrace-a.",
         "points": [
-          "Dificuldade útil",
-          "Suba o morro"
+          {
+            "t": "Dificuldade útil",
+            "e": "A tarefa ingrata é onde se forja resistência; abrace-a.",
+            "f": "Na visão de William H. McRaven, \"dificuldade útil\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Suba o morro",
+            "e": "A tarefa ingrata é onde se forja resistência; abrace-a.",
+            "f": "Na visão de William H. McRaven, \"suba o morro\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Não conte os dias",
         "text": "Viver o agora vale mais que contar o prazo que falta.",
         "points": [
-          "Agora, não contagem",
-          "Dia vivido"
+          {
+            "t": "Agora, não contagem",
+            "e": "Viver o agora vale mais que contar o prazo que falta.",
+            "f": "Se você tem que fazer um passeio pelo inferno, faça-o de uma vez; não conte os dias, viva os dias.",
+            "real": true
+          },
+          {
+            "t": "Dia vivido",
+            "e": "Viver o agora vale mais que contar o prazo que falta.",
+            "f": "Na visão de William H. McRaven, \"dia vivido\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Dê o melhor",
         "text": "O máximo importa no pior momento; pratique antes dele chegar.",
         "points": [
-          "Pico sob pressão",
-          "Melhor sempre"
+          {
+            "t": "Pico sob pressão",
+            "e": "O máximo importa no pior momento; pratique antes dele chegar.",
+            "f": "Na visão de William H. McRaven, \"pico sob pressão\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Melhor sempre",
+            "e": "O máximo importa no pior momento; pratique antes dele chegar.",
+            "f": "Na visão de William H. McRaven, \"melhor sempre\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          }
         ]
       }
     ]
