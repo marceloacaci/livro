@@ -16359,16 +16359,16 @@ window.MEU_BOLSO_BOOKS=[
         "reflection": "Você espera juntar muito ou poderia começar com o que tem?"
       },
       {
-        "type": "myth",
-        "title": "Poupança é o melhor lar do dinheiro",
-        "text": "A poupança perde para inflação e CDB/Tesouro em quase todo cenário. É conforto caro.",
-        "reflection": "Seu dinheiro parado na poupança está ganhando ou perdendo poder de compra?"
-      },
-      {
         "type": "truth",
         "title": "Reserva de emergência vem antes",
         "text": "Antes de investir em risco, ter 3 a 6 meses de despesas livres evita vender no pior momento.",
         "reflection": "Você investiria sem reserva e correria risco de vender na crise?"
+      },
+      {
+        "type": "myth",
+        "title": "Poupança é o melhor lar do dinheiro",
+        "text": "A poupança perde para inflação e CDB/Tesouro em quase todo cenário. É conforto caro.",
+        "reflection": "Seu dinheiro parado na poupança está ganhando ou perdendo poder de compra?"
       },
       {
         "type": "truth",
@@ -16429,6 +16429,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ler sobre finanças é chato demais",
         "text": "Nathalia usa linguagem simples e casos reais. O assunto é sobre sua vida, não deveria ser penoso.",
         "reflection": "Você evita o tema por tédio ou por intimidação?"
+      },
+      {
+        "type": "truth",
+        "title": "Independência financeira é aprendizagem, não privilégio de gênero",
+        "text": "Cardoso desconstrói a ideia de que finanças são território masculino e entrega linguagem simples para mulheres investirem.",
+        "reflection": "Que bloqueio cultural ainda te afasta da mesa de decisão sobre seu dinheiro?"
       }
     ],
     "summary": "\"Mulher, Você Pode Ser Rica\" de Nathalia Cardoso é um guia brasileiro de educação e investimentos voltado a mulheres que querem independência financeira sem jargão intimidador. Jornalista e educadora financeira, Nathalia parte do dado desanimador de que as mulheres ainda investem menos e se sentem menos à vontade no mercado. O gancho central é desmistificar o investimento: mostrar que não é preciso ser matemática nem ter muito dinheiro para começar, e que o primeiro passo é organizar o orçamento e construir reserva. O livro percorre do básico (Tesouro Direto, CDB, poupança) ao intermediário (fundos, ações, previdência), sempre com linguagem acessível e exemplos reais de brasileiras. Nathalia enfatiza a autonomia: entender os próprios números para não depender de terceiros nem de promessas de \"expert\". É um convite prático e patriótico-brasileiro para a leitora parar de postergar e assumir o volante das próprias finanças, provando que investir é um ato de autocuidado tanto quanto de matemática.",
@@ -16449,33 +16455,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Deixar o dinheiro na poupança é conforto que custa seu futuro.",
         "autor": "Nathalia Cardoso",
         "obra": "Mulher, Você Pode Ser Rica"
-      },
-      {
-        "texto": "Autonomia financeira começa quando você para de terceirizar suas próprias decisões.",
-        "autor": "Nathalia Cardoso",
-        "obra": "Mulher, Você Pode Ser Rica"
-      },
-      {
-        "texto": "Mulher que entende seus números não depende de promessa de ninguém.",
-        "autor": "Nathalia Cardoso",
-        "obra": "Mulher, Você Pode Ser Rica"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Finalmente um livro de investimento que fala comigo, sem me tratar de burra. Comecei no Tesouro Direto.",
-        "autor": "Leitora",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Bom para iniciantes brasileiras; quem já investe acha básico, mas é o público dele.",
-        "autor": "Crítica",
+        "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "A parte da autonomia versus delegar ao marido foi um choque necessário.",
-        "autor": "Leitora",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -16491,9 +16482,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Organize o orçamento",
         "text": "Saiba entradas e saídas antes de investir; controle é base.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Organize o orçamento\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Saiba entradas e saídas antes de investir; controle é base — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Organize o orçamento\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Organize o orçamento\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saiba entradas e saídas antes de investir; controle é base — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Organize o orçamento\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16501,9 +16492,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Monte reserva de emergência",
         "text": "3 a 6 meses de despesas em liquidez antes de risco.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Monte reserva de emergência\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: 3 a 6 meses de despesas em liquidez antes de risco — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Monte reserva de emergência\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Monte reserva de emergência\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "3 a 6 meses de despesas em liquidez antes de risco — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Monte reserva de emergência\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16511,9 +16502,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conheça a renda fixa",
         "text": "Tesouro Direto, CDB e poupança: entenda diferenças e taxas.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Conheça a renda fixa\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Tesouro Direto, CDB e poupança: entenda diferenças e taxas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conheça a renda fixa\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Conheça a renda fixa\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tesouro Direto, CDB e poupança: entenda diferenças e taxas — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Conheça a renda fixa\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16521,9 +16512,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fuja da poupança parada",
         "text": "Compare com CDB/Tesouro; não deixe dinheiro perder para a inflação.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Fuja da poupança parada\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Compare com CDB/Tesouro; não deixe dinheiro perder para a inflação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fuja da poupança parada\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Fuja da poupança parada\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Compare com CDB/Tesouro; não deixe dinheiro perder para a inflação — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Fuja da poupança parada\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16531,9 +16522,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece com pouco",
         "text": "No Brasil dá para investir valores baixos; o hábito vale mais que o montante.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Comece com pouco\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: No Brasil dá para investir valores baixos; o hábito vale mais que o montante — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece com pouco\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Comece com pouco\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "No Brasil dá para investir valores baixos; o hábito vale mais que o montante — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Comece com pouco\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16541,9 +16532,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estude ações e fundos",
         "text": "Renda variável traz maior retorno com mais risco; aprenda antes.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Estude ações e fundos\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Renda variável traz maior retorno com mais risco; aprenda antes — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estude ações e fundos\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Estude ações e fundos\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Renda variável traz maior retorno com mais risco; aprenda antes — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Estude ações e fundos\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16551,9 +16542,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Compare previdência",
         "text": "Avalie taxas e prazos; não assine sem entender.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Compare previdência\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Avalie taxas e prazos; não assine sem entender — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Compare previdência\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Compare previdência\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Avalie taxas e prazos; não assine sem entender — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Compare previdência\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16561,9 +16552,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diversifique",
         "text": "Divida entre fixa, variável e longo prazo para proteger.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Diversifique\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Divida entre fixa, variável e longo prazo para proteger — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diversifique\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Diversifique\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Divida entre fixa, variável e longo prazo para proteger — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Diversifique\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16571,9 +16562,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Assuma a autonomia",
         "text": "Entenda seus números; não terceirize por comodismo.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Assuma a autonomia\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Entenda seus números; não terceirize por comodismo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Assuma a autonomia\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Assuma a autonomia\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Entenda seus números; não terceirize por comodismo — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Assuma a autonomia\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16581,9 +16572,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece cedo",
         "text": "Juros compostos premiam o tempo; não postergue.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Comece cedo\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Juros compostos premiam o tempo; não postergue — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece cedo\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Comece cedo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Juros compostos premiam o tempo; não postergue — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Comece cedo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16591,9 +16582,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desmistifique o risco",
         "text": "Risco bem dosado é planejamento, não aposta.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Desmistifique o risco\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Risco bem dosado é planejamento, não aposta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desmistifique o risco\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Desmistifique o risco\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Risco bem dosado é planejamento, não aposta — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Desmistifique o risco\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16601,9 +16592,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Normalize falar de dinheiro",
         "text": "Mulheres à vontade no tema constroem independência.",
         "explicacoes": [
-          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso trata \"Normalize falar de dinheiro\" como peça-chave para a autonomia financeira das mulheres na prática.",
-          "Na prática: Mulheres à vontade no tema constroem independência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Normalize falar de dinheiro\" aplica a autonomia financeira das mulheres na prática de forma concreta, não apenas como conceito."
+          "Em \"Mulher, Você Pode Ser Rica\", Nathalia Cardoso coloca \"Normalize falar de dinheiro\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mulheres à vontade no tema constroem independência — traduzido para a prática, é o passo concreto que liga a teoria de Nathalia Cardoso ao comportamento diário.",
+          "Ignorar \"Normalize falar de dinheiro\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -16915,6 +16906,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Passado determina o futuro",
         "text": "Frankl mostra que a resposta ao passado é escolha presente. Traumas não ditam tudo.",
         "reflection": "Você deixa o passado comandar ou responde por agora?"
+      },
+      {
+        "type": "truth",
+        "title": "Sentido é descoberto na atitude diante do sofrimento",
+        "text": "Frankl sustenta que a liberdade última é escolher a postura interior mesmo nos piores campos de extermínio.",
+        "reflection": "Qual circunstância atual você pode deixar de culpar e passar a responder?"
       }
     ],
     "summary": "\"Em Busca de Sentido\" de Viktor Frankl é uma das obras mais profundas do século XX, meio memória do Holocausto, meio manifesto da logoterapia — a terapia do sentido. Frankl, psiquiatra e prisioneiro em Auschwitz e outros campos, observou que quem sobrevivia raramente era o mais forte fisicamente, e sim quem encontrava um \"porquê\" para viver. O gancho central é a frase que abre o livro: \"Quem tem um porquê para viver, suporta quase qualquer como\". Frankl argumenta que o vazio existencial (a \"vacância existencial\") é a doença moderna e que a liberdade última — a de escolher a atitude diante de qualquer condição — ninguém pode tirar. Ele propõe três fontes de sentido: o trabalho (o que damos ao mundo), o amor (o que recebemos dos outros) e a coragem diante do sofrimento inevitável. O livro é um testemunho de que o sentido não é encontrado, é construído, mesmo no inferno.",
@@ -16935,16 +16932,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Quando já não podemos mudar uma situação, somos desafiados a mudar a nós mesmos.",
         "autor": "Viktor E. Frankl",
         "obra": "Em Busca de Sentido"
-      },
-      {
-        "texto": "O que importa não é o que esperamos da vida, mas o que a vida espera de nós.",
-        "autor": "Viktor E. Frankl",
-        "obra": "Em Busca de Sentido"
-      },
-      {
-        "texto": "A vacância existencial é o vazio que resta quando saciamos todos os desejos e nada preenche.",
-        "autor": "Viktor E. Frankl",
-        "obra": "Em Busca de Sentido"
       }
     ],
     "citacoesTerceiros": [
@@ -16957,11 +16944,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Metade memoir, metade psicologia; a parte da logoterapia é pesada mas vale.",
         "autor": "Crítico",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Diferente de autoajuda barata: é profundo e doloroso, mas transforma a visão de vida.",
-        "autor": "Leitor",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -16977,9 +16959,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Encontre seu porquê",
         "text": "Identifique a razão que sustenta você nos piores dias.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Encontre seu porquê\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Identifique a razão que sustenta você nos piores dias — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Encontre seu porquê\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Encontre seu porquê\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identifique a razão que sustenta você nos piores dias — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Encontre seu porquê\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16987,9 +16969,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Exerça a liberdade de atitude",
         "text": "Ninguém tira sua escolha diante de qualquer condição.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Exerça a liberdade de atitude\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Ninguém tira sua escolha diante de qualquer condição — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Exerça a liberdade de atitude\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Exerça a liberdade de atitude\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ninguém tira sua escolha diante de qualquer condição — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Exerça a liberdade de atitude\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -16997,9 +16979,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa sentido, não espere",
         "text": "Sentido se cria por ação e escolha, não por achado.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Construa sentido, não espere\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Sentido se cria por ação e escolha, não por achado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa sentido, não espere\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Construa sentido, não espere\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sentido se cria por ação e escolha, não por achado — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Construa sentido, não espere\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17007,9 +16989,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite o vazio existencial",
         "text": "Preencher por fora não basta; busque propósito real.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Evite o vazio existencial\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Preencher por fora não basta; busque propósito real — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite o vazio existencial\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Evite o vazio existencial\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Preencher por fora não basta; busque propósito real — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Evite o vazio existencial\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17017,9 +16999,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ame de verdade",
         "text": "Relações profundas são fonte central de sentido.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Ame de verdade\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Relações profundas são fonte central de sentido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ame de verdade\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Ame de verdade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Relações profundas são fonte central de sentido — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Ame de verdade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17027,9 +17009,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dê valor pelo trabalho",
         "text": "O que entrega ao mundo importa mais que o cargo.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Dê valor pelo trabalho\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: O que entrega ao mundo importa mais que o cargo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dê valor pelo trabalho\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Dê valor pelo trabalho\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O que entrega ao mundo importa mais que o cargo — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Dê valor pelo trabalho\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17037,9 +17019,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Enfrente o sofrimento",
         "text": "Postura diante da dor pode dignificar e dar sentido.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Enfrente o sofrimento\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Postura diante da dor pode dignificar e dar sentido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Enfrente o sofrimento\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Enfrente o sofrimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Postura diante da dor pode dignificar e dar sentido — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Enfrente o sofrimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17047,9 +17029,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque propósito, não prazer",
         "text": "Felicidade é efeito do sentido, não alvo direto.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Busque propósito, não prazer\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Felicidade é efeito do sentido, não alvo direto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque propósito, não prazer\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Busque propósito, não prazer\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Felicidade é efeito do sentido, não alvo direto — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Busque propósito, não prazer\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17057,9 +17039,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Rejeite o determinismo",
         "text": "Há sempre espaço de escolha humana.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Rejeite o determinismo\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Há sempre espaço de escolha humana — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Rejeite o determinismo\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Rejeite o determinismo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Há sempre espaço de escolha humana — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Rejeite o determinismo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17067,9 +17049,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Assuma responsabilidade",
         "text": "Liberdade e responsabilidade vêm juntas.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Assuma responsabilidade\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Liberdade e responsabilidade vêm juntas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Assuma responsabilidade\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Assuma responsabilidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Liberdade e responsabilidade vêm juntas — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Assuma responsabilidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17077,9 +17059,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Supere o passado",
         "text": "A resposta ao passado é escolha presente.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Supere o passado\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: A resposta ao passado é escolha presente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Supere o passado\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Supere o passado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A resposta ao passado é escolha presente — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Supere o passado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17087,9 +17069,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a logoterapia",
         "text": "Pergunte \"qual o sentido disto?\" diante de cada situação.",
         "explicacoes": [
-          "Em \"Em Busca de Sentido\", Viktor E. Frankl trata \"Pratique a logoterapia\" como peça-chave para o sentido da vida diante do sofrimento e da liberdade de escolha.",
-          "Na prática: Pergunte \"qual o sentido disto?\" diante de cada situação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a logoterapia\" aplica o sentido da vida diante do sofrimento e da liberdade de escolha de forma concreta, não apenas como conceito."
+          "Em \"Em Busca de Sentido\", Viktor E. Frankl coloca \"Pratique a logoterapia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pergunte \"qual o sentido disto?\" diante de cada situação — traduzido para a prática, é o passo concreto que liga a teoria de Viktor E. Frankl ao comportamento diário.",
+          "Ignorar \"Pratique a logoterapia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -17401,6 +17383,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Coração e alma são piegas",
         "text": "Brown mostra que cuidar do emocional é ciência e força. Sentir é competência, não fraqueza.",
         "reflection": "Você desdenha do emocional ou o reconhece como força?"
+      },
+      {
+        "type": "truth",
+        "title": "Vulnerabilidade é coragem, não fraqueza",
+        "text": "Brown mostra que o apego à armadura impede conexão; abrir-se é o que torna a pertença possível.",
+        "reflection": "Onde você troca proximidade por proteção que não precisa?"
       }
     ],
     "summary": "\"A Coragem de Ser Imperfeito\" (The Gifts of Imperfection) de Brené Brown é um convite a abandonar a busca pela \"merecimento perfeito\" e cultivar a \"inteireza\" (wholeheartedness) — viver com a convicção de que somos o suficiente. Pesquisadora de vulnerabilidade, Brown sustenta que a imperfeição é a condição humana e que esconder-se dela gera vergonha, a emoção que silencia e isola. O gancho central é que a coragem de se mostrar imperfeito é o que nos conecta aos outros; a armadura da perfeição só afasta. O livro apresenta dez guias práticos: cultivar autenticidade, autocompaixão, resiliência, gratidão, intuição, criatividade, brincadeira, calma, trabalho com sentido e alegria expressa (cantar, rir, dançar). Cada guia é apoiado por práticas. Brown quer que o leitor troque a \"nunca basta\" pela coragem de ser quem é de verdade, mostrando que a imperfeição não é defeito a esconder, mas a condição que nos torna conectáveis e plenamente humanos.",
@@ -17421,33 +17409,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A vergonha é a emoção intensa e dolorosa de que somos defeituosos e, por isso, indignos de conexão.",
         "autor": "Brené Brown",
         "obra": "A Coragem de Ser Imperfeito"
-      },
-      {
-        "texto": "Nunca seremos bons o bastante se \"bastante\" for definido por outro.",
-        "autor": "Brené Brown",
-        "obra": "A Coragem de Ser Imperfeito"
-      },
-      {
-        "texto": "A gratidão sem alegria é apenas comparação disfarçada.",
-        "autor": "Brené Brown",
-        "obra": "A Coragem de Ser Imperfeito"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que me fez parar de fingir perfeição no Instagram e falar de verdade. Libertador.",
-        "autor": "Leitora",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Os dez guias são práticos; reli marcando um por semana e mudou meu ano.",
-        "autor": "Crítica",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Brown equilibra pesquisa e acolhimento; não é autoajuda vazia.",
         "autor": "Leitor",
-        "fonte": "Skoob"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -17463,9 +17436,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Solte a perfeição",
         "text": "Troque a armadura da perfeição pela coragem de ser imperfeito.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Solte a perfeição\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Troque a armadura da perfeição pela coragem de ser imperfeito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Solte a perfeição\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Solte a perfeição\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Troque a armadura da perfeição pela coragem de ser imperfeito — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Solte a perfeição\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17473,9 +17446,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a vulnerabilidade",
         "text": "Abra-se; é a base da conexão e da coragem.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Pratique a vulnerabilidade\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Abra-se; é a base da conexão e da coragem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a vulnerabilidade\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Pratique a vulnerabilidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Abra-se; é a base da conexão e da coragem — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Pratique a vulnerabilidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17483,9 +17456,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Nomeie a vergonha",
         "text": "Reconhecer e falar a vergonha reduz seu poder.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Nomeie a vergonha\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Reconhecer e falar a vergonha reduz seu poder — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Nomeie a vergonha\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Nomeie a vergonha\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer e falar a vergonha reduz seu poder — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Nomeie a vergonha\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17493,9 +17466,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja autocompactivo",
         "text": "Trate-se com gentileza; cuidado move, crueldade paralisa.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Seja autocompactivo\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Trate-se com gentileza; cuidado move, crueldade paralisa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja autocompactivo\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Seja autocompactivo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trate-se com gentileza; cuidado move, crueldade paralisa — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Seja autocompactivo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17503,9 +17476,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Viva autenticidade",
         "text": "Escolha mostrar quem é, mesmo desconfortável.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Viva autenticidade\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Escolha mostrar quem é, mesmo desconfortável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Viva autenticidade\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Viva autenticidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escolha mostrar quem é, mesmo desconfortável — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Viva autenticidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17513,9 +17486,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive gratidão",
         "text": "Pratique o reconhecimento diário para abrir espaço à alegria.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Cultive gratidão\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Pratique o reconhecimento diário para abrir espaço à alegria — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive gratidão\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Cultive gratidão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pratique o reconhecimento diário para abrir espaço à alegria — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Cultive gratidão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17523,9 +17496,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Exerça a criatividade",
         "text": "Crie como necessidade humana, não por talento raro.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Exerça a criatividade\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Crie como necessidade humana, não por talento raro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Exerça a criatividade\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Exerça a criatividade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Crie como necessidade humana, não por talento raro — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Exerça a criatividade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17533,9 +17506,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Brinque e descanse",
         "text": "Prazer e pausa sustentam a saúde emocional.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Brinque e descanse\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Prazer e pausa sustentam a saúde emocional — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Brinque e descanse\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Brinque e descanse\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Prazer e pausa sustentam a saúde emocional — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Brinque e descanse\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17543,9 +17516,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque trabalho com sentido",
         "text": "Faça o que importa; dever sem propósito esvazia.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Busque trabalho com sentido\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Faça o que importa; dever sem propósito esvazia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque trabalho com sentido\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Busque trabalho com sentido\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Faça o que importa; dever sem propósito esvazia — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Busque trabalho com sentido\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17553,9 +17526,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ouça a intuição",
         "text": "Use o saber do corpo como bússola.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Ouça a intuição\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Use o saber do corpo como bússola — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ouça a intuição\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Ouça a intuição\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use o saber do corpo como bússola — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Ouça a intuição\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17563,9 +17536,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite a incerteza",
         "text": "Abandone a ilusão de controle total.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Aceite a incerteza\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Abandone a ilusão de controle total — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite a incerteza\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Aceite a incerteza\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Abandone a ilusão de controle total — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Aceite a incerteza\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17573,9 +17546,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Expresse alegria",
         "text": "Cantar, rir e dançar como prática de inteireza.",
         "explicacoes": [
-          "Em \"A Coragem de Ser Imperfeito\", Brené Brown trata \"Expresse alegria\" como peça-chave para a vulnerabilidade, a coragem e o pertencimento.",
-          "Na prática: Cantar, rir e dançar como prática de inteireza — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Expresse alegria\" aplica a vulnerabilidade, a coragem e o pertencimento de forma concreta, não apenas como conceito."
+          "Em \"A Coragem de Ser Imperfeito\", Brené Brown coloca \"Expresse alegria\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cantar, rir e dançar como prática de inteireza — traduzido para a prática, é o passo concreto que liga a teoria de Brené Brown ao comportamento diário.",
+          "Ignorar \"Expresse alegria\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -17887,6 +17860,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comparar-se o tempo todo ajuda",
         "text": "Métrica externa constante alimenta a mente fixa. Foco na própria trajetória libera.",
         "reflection": "Você mede por ranking ou por progresso próprio?"
+      },
+      {
+        "type": "truth",
+        "title": "Crer no crescimento muda como o cérebro reage a erros",
+        "text": "Dweck prova que o mindset de crescimento converte fracasso em sinal de aprendizado, não de limite.",
+        "reflection": "Você trata o erro como veredito ou como dado?"
       }
     ],
     "summary": "\"Mindset: A Atitude para o Sucesso\" de Carol Dweck, psicóloga de Stanford, revela como a crença que temos sobre a natureza da inteligência e das habilidades molda todo o nosso percurso. O gancho central é a distinção entre mentalidade fixa (fixed mindset) — a ideia de que talentos são traços imutáveis — e mentalidade de crescimento (growth mindset) — a convicção de que capacidades se desenvolvem com esforço, estratégia e erro. Dweck mostra que elogiar o resultado ou o \"dom\" trava as crianças, enquanto elogiar o esforço e a estratégia as faz persistir. O livro percorre escola, esportes, negócios e relacionamentos: líderes com mentalidade fixa suprimem o erro; os de crescimento alimentam a aprendizagem. A palavra mágica é \"ainda\" — \"ainda não consigo\" mantém a porta aberta. Mudar o mindset não é autoajuda mágica, é reestruturar como interpretamos desafios e fracassos, transformando o que antes era ameaça em combustível para o desenvolvimento contínuo.",
@@ -17907,33 +17886,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A palavra \"ainda\" pode mudar tudo: você ainda não consegue, mas está no caminho.",
         "autor": "Carol S. Dweck",
         "obra": "Mindset"
-      },
-      {
-        "texto": "Líderes de mentalidade fixa silenciam o erro; os de crescimento o transformam em aprendizagem.",
-        "autor": "Carol S. Dweck",
-        "obra": "Mindset"
-      },
-      {
-        "texto": "Tornar-se é melhor que ser.",
-        "autor": "Carol S. Dweck",
-        "obra": "Mindset"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Mudou como elogio meus filhos: parei de dizer \"inteligente\" e passei a notar o esforço. Efeito imediato.",
-        "autor": "Leitora",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Leitura obrigatória para gestores; a cultura de erro vale ouro na empresa.",
         "autor": "Crítico",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Simples e científico; depois dele vejo mindset fixo em tudo que travo.",
-        "autor": "Leitor",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -17949,9 +17913,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Adote mentalidade de crescimento",
         "text": "Creia que habilidades se desenvolvem com prática.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Adote mentalidade de crescimento\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Creia que habilidades se desenvolvem com prática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Adote mentalidade de crescimento\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Adote mentalidade de crescimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Creia que habilidades se desenvolvem com prática — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Adote mentalidade de crescimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17959,9 +17923,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Elogie o esforço e a estratégia",
         "text": "Louvar processo, não rótulo, faz persistir.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Elogie o esforço e a estratégia\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Louvar processo, não rótulo, faz persistir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Elogie o esforço e a estratégia\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Elogie o esforço e a estratégia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Louvar processo, não rótulo, faz persistir — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Elogie o esforço e a estratégia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17969,9 +17933,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o \"ainda não\"",
         "text": "Reconheça trajetória; mantenha a porta aberta.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Use o \"ainda não\"\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Reconheça trajetória; mantenha a porta aberta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o \"ainda não\"\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Use o \"ainda não\"\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça trajetória; mantenha a porta aberta — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Use o \"ainda não\"\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17979,9 +17943,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Veja erro como dado",
         "text": "Erro é informação de aprendizagem, não ameaça.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Veja erro como dado\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Erro é informação de aprendizagem, não ameaça — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Veja erro como dado\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Veja erro como dado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Erro é informação de aprendizagem, não ameaça — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Veja erro como dado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17989,9 +17953,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque desafios",
         "text": "Dificuldade é onde se aprende; evitá-la trava.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Busque desafios\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Dificuldade é onde se aprende; evitá-la trava — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque desafios\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Busque desafios\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dificuldade é onde se aprende; evitá-la trava — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Busque desafios\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -17999,9 +17963,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ajuste a estratégia",
         "text": "Persistir com método; mudar abordagem quando necessário.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Ajuste a estratégia\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Persistir com método; mudar abordagem quando necessário — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ajuste a estratégia\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Ajuste a estratégia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Persistir com método; mudar abordagem quando necessário — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Ajuste a estratégia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18009,9 +17973,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Lidere com crescimento",
         "text": "Cultura que acolhe erro aprende mais rápido.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Lidere com crescimento\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Cultura que acolhe erro aprende mais rápido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Lidere com crescimento\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Lidere com crescimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cultura que acolhe erro aprende mais rápido — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Lidere com crescimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18019,9 +17983,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aplique nos relacionamentos",
         "text": "Encare problemas como conjuntos, não traços fixos.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Aplique nos relacionamentos\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Encare problemas como conjuntos, não traços fixos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aplique nos relacionamentos\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Aplique nos relacionamentos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Encare problemas como conjuntos, não traços fixos — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Aplique nos relacionamentos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18029,9 +17993,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aprenda com o exemplo alheio",
         "text": "Sucesso de outros inspira, não ameaça.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Aprenda com o exemplo alheio\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Sucesso de outros inspira, não ameaça — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aprenda com o exemplo alheio\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Aprenda com o exemplo alheio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sucesso de outros inspira, não ameaça — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Aprenda com o exemplo alheio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18039,9 +18003,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reconheça gatilhos fixos",
         "text": "Identifique quando a mente fixa aparece e responda com crescimento.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Reconheça gatilhos fixos\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Identifique quando a mente fixa aparece e responda com crescimento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reconheça gatilhos fixos\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Reconheça gatilhos fixos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identifique quando a mente fixa aparece e responda com crescimento — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Reconheça gatilhos fixos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18049,9 +18013,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Confie na plasticidade",
         "text": "Praticar muda o cérebro; capacidade não é estática.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Confie na plasticidade\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Praticar muda o cérebro; capacidade não é estática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Confie na plasticidade\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Confie na plasticidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Praticar muda o cérebro; capacidade não é estática — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Confie na plasticidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18059,9 +18023,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque na própria trajetória",
         "text": "Progresso próprio bate ranking externo constante.",
         "explicacoes": [
-          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Foque na própria trajetória\" como peça-chave para a mentalidade de crescimento versus a fixa.",
-          "Na prática: Progresso próprio bate ranking externo constante — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque na própria trajetória\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck coloca \"Foque na própria trajetória\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Progresso próprio bate ranking externo constante — traduzido para a prática, é o passo concreto que liga a teoria de Carol S. Dweck ao comportamento diário.",
+          "Ignorar \"Foque na própria trajetória\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -18373,6 +18337,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Resultados aparecem rápido sozinhos",
         "text": "Elrod alerta que o efeito composto leva semanas. Paciência com o processo é parte do método.",
         "reflection": "Você desiste cedo por não ver resultado ou confia no composto?"
+      },
+      {
+        "type": "truth",
+        "title": "A manhã define a trajetória do dia inteiro",
+        "text": "Elrod propõe uma rotina de despertar (SAVERS) que antecipa crescimento espiritual, físico e mental antes do trabalho.",
+        "reflection": "Como seria seu dia se você o começasse de propósito, não por reação?"
       }
     ],
     "summary": "\"O Milagre da Manhã\" de Hal Elrod parte de uma experiência pessoal trágica — Elrod sobreviveu a um acidente quase fatal e reconstruiu sua vida — para propor um ritual matinal que transforma resultados. O gancho central é que a primeira hora do dia define o resto dele: investir intencionalmente nesse período eleva todas as áreas da vida. Ele cunha o acróstico SAVERS — Silêncio (meditação), Afirmações (affirmations), Visualização, Exercício, Leitura e Escrita (journaling). O método \"Milagre de 6 Minutos\" adapta o ritual para quem diz não ter tempo. Elrod argumenta que todos enfrentamos níveis de \"nível de vida\" (saúde, emoções, relacionamentos, finanças, propósito) e que a manhã é o momento de elevar todos. A tese é que responsabilidade total — assumir que você cria sua realidade — é o ponto de partida para mudá-la. É um livro de rotina prática com forte carga de motivação, construído sobre a ideia de que pequenos rituais diários, repetidos sem falta, remodelam o caráter e os resultados ao longo dos meses.",
@@ -18393,16 +18363,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Não espere sentir-se motivado para agir; a ação é o que cria a motivação.",
         "autor": "Hal Elrod",
         "obra": "O Milagre da Manhã"
-      },
-      {
-        "texto": "O SAVERS é o ritual que eleva sua mente, seu corpo e seu propósito antes do mundo acordar.",
-        "autor": "Hal Elrod",
-        "obra": "O Milagre da Manhã"
-      },
-      {
-        "texto": "Você não precisa de mais tempo; precisa de uma manhã que trabalhe a seu favor.",
-        "autor": "Hal Elrod",
-        "obra": "O Milagre da Manhã"
       }
     ],
     "citacoesTerceiros": [
@@ -18415,11 +18375,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Um tanto motivacional demais, mas a rotina SAVERS gruda e funciona.",
         "autor": "Crítico",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Ideal para quem quer começar o hábito de manhã sem pressão de horário.",
-        "autor": "Leitor",
-        "fonte": "Skoob"
       }
     ],
     "sections": [
@@ -18435,9 +18390,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Assuma responsabilidade total",
         "text": "Você cria sua realidade; essa é a base da mudança.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Assuma responsabilidade total\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Você cria sua realidade; essa é a base da mudança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Assuma responsabilidade total\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Assuma responsabilidade total\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Você cria sua realidade; essa é a base da mudança — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Assuma responsabilidade total\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18445,9 +18400,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acorde com intenção",
         "text": "Antecipe o despertar; a manhã é seu tempo sagrado.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Acorde com intenção\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Antecipe o despertar; a manhã é seu tempo sagrado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acorde com intenção\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Acorde com intenção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Antecipe o despertar; a manhã é seu tempo sagrado — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Acorde com intenção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18455,9 +18410,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique SAVERS",
         "text": "Silêncio, afirmações, visualização, exercício, leitura e escrita.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Pratique SAVERS\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Silêncio, afirmações, visualização, exercício, leitura e escrita — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique SAVERS\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Pratique SAVERS\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Silêncio, afirmações, visualização, exercício, leitura e escrita — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Pratique SAVERS\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18465,9 +18420,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece com 6 minutos",
         "text": "O milagre resumido cabe em pouco; amplie depois.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Comece com 6 minutos\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: O milagre resumido cabe em pouco; amplie depois — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece com 6 minutos\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Comece com 6 minutos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O milagre resumido cabe em pouco; amplie depois — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Comece com 6 minutos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18475,9 +18430,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o silêncio",
         "text": "Medite/respire para centrar a mente antes da correria.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Use o silêncio\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Medite/respire para centrar a mente antes da correria — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o silêncio\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Use o silêncio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Medite/respire para centrar a mente antes da correria — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Use o silêncio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18485,9 +18440,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça afirmações",
         "text": "Reprograme crenças com frases direcionadas ao objetivo.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Faça afirmações\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Reprograme crenças com frases direcionadas ao objetivo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça afirmações\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Faça afirmações\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reprograme crenças com frases direcionadas ao objetivo — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Faça afirmações\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18495,9 +18450,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Visualize o dia",
         "text": "Veja os resultados antes de agir; programa o cérebro.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Visualize o dia\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Veja os resultados antes de agir; programa o cérebro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Visualize o dia\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Visualize o dia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Veja os resultados antes de agir; programa o cérebro — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Visualize o dia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18505,9 +18460,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mova o corpo",
         "text": "Exercício matinal energiza o resto do dia.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Mova o corpo\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Exercício matinal energiza o resto do dia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mova o corpo\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Mova o corpo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Exercício matinal energiza o resto do dia — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Mova o corpo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18515,9 +18470,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Leia e escreva",
         "text": "Leitura de crescimento e journaling consolidam aprendizado.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Leia e escreva\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Leitura de crescimento e journaling consolidam aprendizado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Leia e escreva\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Leia e escreva\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Leitura de crescimento e journaling consolidam aprendizado — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Leia e escreva\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18525,9 +18480,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja consistente",
         "text": "Todos os dias, mesmo pouco, vence a intensidade esporádica.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Seja consistente\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Todos os dias, mesmo pouco, vence a intensidade esporádica — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja consistente\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Seja consistente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Todos os dias, mesmo pouco, vence a intensidade esporádica — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Seja consistente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18535,9 +18490,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja para gerar motivação",
         "text": "Motivação vem da ação, não antes dela.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Aja para gerar motivação\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Motivação vem da ação, não antes dela — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja para gerar motivação\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Aja para gerar motivação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Motivação vem da ação, não antes dela — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Aja para gerar motivação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18545,9 +18500,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Eleve as áreas da vida",
         "text": "Use a manhã para subir saúde, emoção, relação, finanças e propósito.",
         "explicacoes": [
-          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Eleve as áreas da vida\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
-          "Na prática: Use a manhã para subir saúde, emoção, relação, finanças e propósito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Eleve as áreas da vida\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+          "Em \"O Milagre da Manhã\", Hal Elrod coloca \"Eleve as áreas da vida\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use a manhã para subir saúde, emoção, relação, finanças e propósito — traduzido para a prática, é o passo concreto que liga a teoria de Hal Elrod ao comportamento diário.",
+          "Ignorar \"Eleve as áreas da vida\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -18777,12 +18732,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "dinheiro",
     "myths": [
       {
-        "type": "myth",
-        "title": "Riqueza vem de sorte ou herança",
-        "text": "A maioria dos ricos entrevistados por Hill começou pobre; ele argumenta que o ambiente favorável é construído, não recebido.",
-        "reflection": "Você atribui seu progresso ao acaso ou a escolhas concretas?"
-      },
-      {
         "type": "truth",
         "title": "Desejo ardente move montanhas",
         "text": "Hill coloca o desejo definido e emocionalmente carregado como o ponto de partida; sem obsessão saudável, nenhum plano vinga.",
@@ -18790,9 +18739,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Conhecimento formal garante sucesso",
-        "text": "Diplomas sem aplicação são inertes; Hill distingue \"conhecimento geral\" de \"conhecimento especializado\" vendável.",
-        "reflection": "Você acumula certificados ou converte saber em valor?"
+        "title": "Riqueza vem de sorte ou herança",
+        "text": "A maioria dos ricos entrevistados por Hill começou pobre; ele argumenta que o ambiente favorável é construído, não recebido.",
+        "reflection": "Você atribui seu progresso ao acaso ou a escolhas concretas?"
       },
       {
         "type": "truth",
@@ -18802,9 +18751,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Planejar sozinho basta",
-        "text": "O planejamento organizado exige ação e, idealmente, uma \"mente mestra\" de pessoas alinhadas.",
-        "reflection": "Seus planos saem do papel ou morrem na intenção?"
+        "title": "Conhecimento formal garante sucesso",
+        "text": "Diplomas sem aplicação são inertes; Hill distingue \"conhecimento geral\" de \"conhecimento especializado\" vendável.",
+        "reflection": "Você acumula certificados ou converte saber em valor?"
       },
       {
         "type": "truth",
@@ -18814,9 +18763,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "O subconsciente é passivo",
-        "text": "Pelo contrário, ele retransmite e atrai conforme a carga emocional que você lhe envia.",
-        "reflection": "Que comandos você repete à sua mente todo dia?"
+        "title": "Planejar sozinho basta",
+        "text": "O planejamento organizado exige ação e, idealmente, uma \"mente mestra\" de pessoas alinhadas.",
+        "reflection": "Seus planos saem do papel ou morrem na intenção?"
       },
       {
         "type": "truth",
@@ -18826,9 +18775,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Decisão é para depois",
-        "text": "Hill observa que os fracassados decidem devagar e mudam rápido; os bem-sucedidos decidem rápido.",
-        "reflection": "Você posterga decisões ou as toma e sustenta?"
+        "title": "O subconsciente é passivo",
+        "text": "Pelo contrário, ele retransmite e atrai conforme a carga emocional que você lhe envia.",
+        "reflection": "Que comandos você repete à sua mente todo dia?"
       },
       {
         "type": "truth",
@@ -18838,9 +18787,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sexo é só biologia",
-        "text": "Hill trata a energia sexual transmutada como combustível de criatividade e ambição.",
-        "reflection": "Você canaliza sua energia ou a dispersa?"
+        "title": "Decisão é para depois",
+        "text": "Hill observa que os fracassados decidem devagar e mudam rápido; os bem-sucedidos decidem rápido.",
+        "reflection": "Você posterga decisões ou as toma e sustenta?"
       },
       {
         "type": "truth",
@@ -18850,9 +18799,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Sexo é só biologia",
+        "text": "Hill trata a energia sexual transmutada como combustível de criatividade e ambição.",
+        "reflection": "Você canaliza sua energia ou a dispersa?"
+      },
+      {
+        "type": "truth",
+        "title": "Desejo ardente e fé movem a mente subconsciente",
+        "text": "Hill parte de um fim definido e repetido com emoção; o ambiente é secundário à obsessão saudável.",
+        "reflection": "Seu objetivo é vago o bastante para nunca comprometer você?"
+      },
+      {
+        "type": "myth",
         "title": "Pensar positivo resolve tudo",
         "text": "Hill exige ação organizada e persistência; pensamento sem execução é sonho ocioso.",
         "reflection": "Seu otimismo vem acompanhado de rotina de execução?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Pense e Enriqueça resiste ao senso comum",
+        "text": "Em \"Pense e Enriqueça\", Napoleon Hill sustenta que think and grow rich (1937) é o resultado de vinte anos de estudo que napoleon hill conduziu a mando do magnata andrew carnegie, entrevistando mais de quinhentos homens de sucesso — ford, edison, rockefeller, entre outros — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Think and Grow Rich (1937) é o resultado de vinte anos de estudo que Napoleon Hill conduziu a mando do magnata Andrew Carnegie, entrevistando mais de quinhentos homens de sucesso — Ford, Edison, Rockefeller, entre outros. O gancho central não é \"fique rico rápido\", e sim que a riqueza material é consequência de uma mente disciplinada e orientada por um propósito definido. Hill codifica treze princípios: desejo ardente, fé, autossugestão, conhecimento especializado, imaginação, planejamento organizado, decisão, persistência, a \"mente mestra\" (master mind), a transmutação do sexo, a mente subconsciente, o cérebro como retransmissor e o sexto sentido. A tese é que o pensamento sustentado e emocionalmente carregado molda o meio material através da fé e da ação persistente. Embora criticado por misturar autoajuda com pseudociência e por oferecer pouca evidência empírica, o livro antecipou a psicologia do objetivo e da visualização e segue como um dos mais vendidos de todos os tempos. Sua força está em transformar vagas aspirações em \"fim principal definido\" e em tratar persistência como diferencial maior que talento.",
@@ -18873,23 +18840,13 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A persistência é um estado da mente que pode ser cultivado por esforço e definição de propósito.",
         "autor": "Napoleon Hill",
         "obra": "Think and Grow Rich"
-      },
-      {
-        "texto": "Não espere pela oportunidade ideal; ela raramente vem. Construa-a com o que tem.",
-        "autor": "Napoleon Hill",
-        "obra": "Think and Grow Rich"
-      },
-      {
-        "texto": "Quem fracassa deve culpar apenas a si mesmo.",
-        "autor": "Napoleon Hill",
-        "obra": "Think and Grow Rich"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Leitura obrigatória para quem quer disciplina mental, ainda que o tom seja datado e místico.",
         "autor": "Leitor",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       },
       {
         "texto": "O capítulo sobre a mente mestra vale por todo o livro de gestão que já li.",
@@ -18910,9 +18867,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina um fim principal",
         "text": "Escreva um objetivo único e definido, com prazo e preço a pagar. Meta vaga não mobiliza o subconsciente nem atrai recursos.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Defina um fim principal\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Escreva um objetivo único e definido, com prazo e preço a pagar. Meta vaga não mobiliza o subconsciente nem atrai recursos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina um fim principal\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Defina um fim principal\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escreva um objetivo único e definido, com prazo e preço a pagar. Meta vaga não mobiliza o subconsciente nem atrai recursos — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Defina um fim principal\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18920,9 +18877,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Alimente a fé por autossugestão",
         "text": "Repita seu objetivo em voz alta, com emoção, todos os dias, até que a crença vire convicção automática.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Alimente a fé por autossugestão\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Repita seu objetivo em voz alta, com emoção, todos os dias, até que a crença vire convicção automática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Alimente a fé por autossugestão\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Alimente a fé por autossugestão\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Repita seu objetivo em voz alta, com emoção, todos os dias, até que a crença vire convicção automática — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Alimente a fé por autossugestão\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18930,9 +18887,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie uma mente mestra",
         "text": "Reúna pessoas de confiança e complementares para pensar e agir em conjunto com propósito comum.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Crie uma mente mestra\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Reúna pessoas de confiança e complementares para pensar e agir em conjunto com propósito comum — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie uma mente mestra\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Crie uma mente mestra\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reúna pessoas de confiança e complementares para pensar e agir em conjunto com propósito comum — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Crie uma mente mestra\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18940,9 +18897,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acumule conhecimento especializado",
         "text": "Aprenda o que o mercado paga e aplique-o; conhecimento geral serve pouco sem utilidade prática.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Acumule conhecimento especializado\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Aprenda o que o mercado paga e aplique-o; conhecimento geral serve pouco sem utilidade prática — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acumule conhecimento especializado\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Acumule conhecimento especializado\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aprenda o que o mercado paga e aplique-o; conhecimento geral serve pouco sem utilidade prática — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Acumule conhecimento especializado\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18950,9 +18907,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje organizadamente",
         "text": "Transforme o desejo em planos concretos, por escrito, e inicie a execução imediata.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Planeje organizadamente\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Transforme o desejo em planos concretos, por escrito, e inicie a execução imediata — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje organizadamente\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Planeje organizadamente\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Transforme o desejo em planos concretos, por escrito, e inicie a execução imediata — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Planeje organizadamente\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18960,9 +18917,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Decida rápido e mude devagar",
         "text": "Tome resoluções com segurança e sustente-as; indecisão crônica drena energia e credibilidade.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Decida rápido e mude devagar\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Tome resoluções com segurança e sustente-as; indecisão crônica drena energia e credibilidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Decida rápido e mude devagar\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Decida rápido e mude devagar\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tome resoluções com segurança e sustente-as; indecisão crônica drena energia e credibilidade — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Decida rápido e mude devagar\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18970,9 +18927,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a persistência",
         "text": "Quando o plano falha, ajuste a tática mas nunca abandone o objetivo principal.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Pratique a persistência\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Quando o plano falha, ajuste a tática mas nunca abandone o objetivo principal — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a persistência\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Pratique a persistência\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quando o plano falha, ajuste a tática mas nunca abandone o objetivo principal — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Pratique a persistência\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18980,9 +18937,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a imaginação como oficina",
         "text": "Reserve tempo para combinar ideias conhecidas em soluções novas e vendáveis.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Use a imaginação como oficina\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Reserve tempo para combinar ideias conhecidas em soluções novas e vendáveis — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a imaginação como oficina\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Use a imaginação como oficina\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reserve tempo para combinar ideias conhecidas em soluções novas e vendáveis — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Use a imaginação como oficina\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -18990,9 +18947,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Transmute a energia sexual",
         "text": "Canalize o desejo e a vitalidade para criatividade, trabalho e relacionamentos construtivos.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Transmute a energia sexual\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Canalize o desejo e a vitalidade para criatividade, trabalho e relacionamentos construtivos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Transmute a energia sexual\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Transmute a energia sexual\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Canalize o desejo e a vitalidade para criatividade, trabalho e relacionamentos construtivos — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Transmute a energia sexual\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19000,9 +18957,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Domine o subconsciente",
         "text": "Envie a ele apenas comandos claros e emocionais; ele não distingue realidade de crença repetida.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Domine o subconsciente\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: Envie a ele apenas comandos claros e emocionais; ele não distingue realidade de crença repetida — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Domine o subconsciente\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Domine o subconsciente\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Envie a ele apenas comandos claros e emocionais; ele não distingue realidade de crença repetida — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Domine o subconsciente\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19010,9 +18967,29 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Exija de si antes dos outros",
         "text": "A disciplina pessoal é a base de toda liderança e de toda riqueza sustentável.",
         "explicacoes": [
-          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Exija de si antes dos outros\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
-          "Na prática: A disciplina pessoal é a base de toda liderança e de toda riqueza sustentável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Exija de si antes dos outros\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Exija de si antes dos outros\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A disciplina pessoal é a base de toda liderança e de toda riqueza sustentável — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Exija de si antes dos outros\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Persista apesar das derrotas temporárias",
+        "text": "Hill repete que o fracasso é apenas um desvio; a perseverança diante da resistência é o que separa quem enriquece de quem desiste.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Persista apesar das derrotas temporárias\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Hill repete que o fracasso é apenas um desvio; a perseverança diante da resistência é o que separa quem enriquece de quem desiste — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Persista apesar das derrotas temporárias\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Persista apesar das derrotas temporárias",
+        "text": "Hill repete que o fracasso é apenas um desvio; a perseverança diante da resistência é o que separa quem enriquece de quem desiste.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill coloca \"Persista apesar das derrotas temporárias\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Hill repete que o fracasso é apenas um desvio; a perseverança diante da resistência é o que separa quem enriquece de quem desiste — traduzido para a prática, é o passo concreto que liga a teoria de Napoleon Hill ao comportamento diário.",
+          "Ignorar \"Persista apesar das derrotas temporárias\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -19046,6 +19023,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Hill abre definindo que riqueza começa com um desejo ardente e específico, não com dinheiro. Ele pede que o leitor fixe uma quantia exata e um prazo.",
             "f": "Na visão de Napoleon Hill, \"por que vaguidão sabota o subconsciente.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
             "real": false
+          },
+          {
+            "t": "O Poder do Desejo",
+            "e": "Hill abre definindo que riqueza começa com um desejo ardente e específico, não com dinheiro. Ele pede que o leitor fixe uma quantia exata e um prazo.",
+            "f": "Na visão de Napoleon Hill, o Poder do Desejo é o ponto central deste capítulo de \"Pense e Enriqueça\".",
+            "real": false
           }
         ]
       },
@@ -19063,6 +19046,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Fé versus dúvida paralisante.",
             "e": "Trata a fé como estado mental treinável por autossugestão repetida. A convicção emocional precede a realização material.",
             "f": "Na visão de Napoleon Hill, \"fé versus dúvida paralisante.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          },
+          {
+            "t": "Fé",
+            "e": "Trata a fé como estado mental treinável por autossugestão repetida. A convicção emocional precede a realização material.",
+            "f": "Na visão de Napoleon Hill, fé é o ponto central deste capítulo de \"Pense e Enriqueça\".",
             "real": false
           }
         ]
@@ -19082,6 +19071,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Explica como impressões repetidas penetram o subconsciente e moldam hábitos. O capítulo é o mecanismo prático da fé.",
             "f": "Na visão de Napoleon Hill, \"comando diário do objetivo.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
             "real": false
+          },
+          {
+            "t": "Autossugestão",
+            "e": "Explica como impressões repetidas penetram o subconsciente e moldam hábitos. O capítulo é o mecanismo prático da fé.",
+            "f": "Na visão de Napoleon Hill, autossugestão é o ponto central deste capítulo de \"Pense e Enriqueça\".",
+            "real": false
           }
         ]
       },
@@ -19100,6 +19095,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Distingue conhecimento geral de conhecimento aplicável e vendável. Hill manda buscar especialistas, não virar especialista em tudo.",
             "f": "O que a mente do homem pode conceber e crer, ela pode alcançar.",
             "real": true
+          },
+          {
+            "t": "Conhecimento Especializado",
+            "e": "Distingue conhecimento geral de conhecimento aplicável e vendável. Hill manda buscar especialistas, não virar especialista em tudo.",
+            "f": "Na visão de Napoleon Hill, conhecimento Especializado é o ponto central deste capítulo de \"Pense e Enriqueça\".",
+            "real": false
           }
         ]
       },
@@ -19117,6 +19118,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Ideias como base de planos.",
             "e": "Apresenta a imaginação sintética (recombinar o conhecido) e a criativa (novo absoluto). Toda riqueza nasce aqui antes de existir.",
             "f": "Na visão de Napoleon Hill, \"ideias como base de planos.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          },
+          {
+            "t": "Imaginação",
+            "e": "Apresenta a imaginação sintética (recombinar o conhecido) e a criativa (novo absoluto). Toda riqueza nasce aqui antes de existir.",
+            "f": "Na visão de Napoleon Hill, imaginação é o ponto central deste capítulo de \"Pense e Enriqueça\".",
             "real": false
           }
         ]
@@ -19136,6 +19143,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Ensina converter desejo em planos escritos e iniciar a ação. Sem organização, o entusiasmo evapora.",
             "f": "Na visão de Napoleon Hill, \"ação imediata.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
             "real": false
+          },
+          {
+            "t": "Planejamento Organizado",
+            "e": "Ensina converter desejo em planos escritos e iniciar a ação. Sem organização, o entusiasmo evapora.",
+            "f": "Na visão de Napoleon Hill, planejamento Organizado é o ponto central deste capítulo de \"Pense e Enriqueça\".",
+            "real": false
           }
         ]
       },
@@ -19154,6 +19167,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mostra que líderes decidem rápido e mudam devagar; seguidores hesitam e se deixam influenciar.",
             "f": "Na visão de Napoleon Hill, \"autossuficiência de opinião.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
             "real": false
+          },
+          {
+            "t": "Decisão",
+            "e": "Mostra que líderes decidem rápido e mudam devagar; seguidores hesitam e se deixam influenciar.",
+            "f": "Na visão de Napoleon Hill, decisão é o ponto central deste capítulo de \"Pense e Enriqueça\".",
+            "real": false
           }
         ]
       },
@@ -19171,6 +19190,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Como desenvolver a tenacidade.",
             "e": "Descreve a persistência como hábito cultivável e o maior divisor de águas entre fracasso e sucesso.",
             "f": "Na visão de Napoleon Hill, \"como desenvolver a tenacidade.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          },
+          {
+            "t": "Persistência",
+            "e": "Descreve a persistência como hábito cultivável e o maior divisor de águas entre fracasso e sucesso.",
+            "f": "Na visão de Napoleon Hill, persistência é o ponto central deste capítulo de \"Pense e Enriqueça\".",
             "real": false
           }
         ]
@@ -19194,12 +19219,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Especialistas não erram no básico",
-        "text": "Estudos mostram falhas por esquecer passos simples mesmo entre cirurgiões veteranos.",
-        "reflection": "Você confia demais na sua memória sob pressão?"
-      },
-      {
         "type": "truth",
         "title": "Listas gerenciam complexidade",
         "text": "Checklists compensam limitações cognitivas e garantem que o essencial não seja pulado.",
@@ -19207,9 +19226,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Checklist engessa a autonomia",
-        "text": "Bem desenhada, ela libera atenção para decisões de alto nível, não as substitui.",
-        "reflection": "Sua rotina sufoca ou libera seu julgamento?"
+        "title": "Especialistas não erram no básico",
+        "text": "Estudos mostram falhas por esquecer passos simples mesmo entre cirurgiões veteranos.",
+        "reflection": "Você confia demais na sua memória sob pressão?"
       },
       {
         "type": "truth",
@@ -19219,9 +19238,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mais regras sempre ajudam",
-        "text": "Listas longas e burocráticas são ignoradas; o ideal é o mínimo que salva vidas.",
-        "reflection": "Suas listas são enxutas ou peso morto?"
+        "title": "Checklist engessa a autonomia",
+        "text": "Bem desenhada, ela libera atenção para decisões de alto nível, não as substitui.",
+        "reflection": "Sua rotina sufoca ou libera seu julgamento?"
       },
       {
         "type": "truth",
@@ -19231,9 +19250,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Erro é falha de caráter",
-        "text": "Gawande mostra que erros sistêmicos vencem até os mais cuidadosos sem apoio de processo.",
-        "reflection": "Você culpa pessoas em vez de consertar o sistema?"
+        "title": "Mais regras sempre ajudam",
+        "text": "Listas longas e burocráticas são ignoradas; o ideal é o mínimo que salva vidas.",
+        "reflection": "Suas listas são enxutas ou peso morto?"
       },
       {
         "type": "truth",
@@ -19243,9 +19262,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tecnologia resolve tudo",
-        "text": "Sem disciplina de processo, equipamentos sofisticados apenas acrescentam complexidade.",
-        "reflection": "Você compra ferramenta em vez de consertar método?"
+        "title": "Erro é falha de caráter",
+        "text": "Gawande mostra que erros sistêmicos vencem até os mais cuidadosos sem apoio de processo.",
+        "reflection": "Você culpa pessoas em vez de consertar o sistema?"
       },
       {
         "type": "truth",
@@ -19255,9 +19274,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Treino individual basta",
-        "text": "A aviação aprendeu que equipes com checklist superam pilotos isolados geniais.",
-        "reflection": "Seu time treina processo ou só indivíduos?"
+        "title": "Tecnologia resolve tudo",
+        "text": "Sem disciplina de processo, equipamentos sofisticados apenas acrescentam complexidade.",
+        "reflection": "Você compra ferramenta em vez de consertar método?"
       },
       {
         "type": "truth",
@@ -19267,9 +19286,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Treino individual basta",
+        "text": "A aviação aprendeu que equipes com checklist superam pilotos isolados geniais.",
+        "reflection": "Seu time treina processo ou só indivíduos?"
+      },
+      {
+        "type": "truth",
+        "title": "Checklists reduzem erros sistêmicos, não humilham a expertise",
+        "text": "Gawande demonstra que listas simples salvam vidas em cirurgia ao impedir falhas de memória sob pressão.",
+        "reflection": "Qual processo seu você confia demais à memória e pouco a um protocolo?"
+      },
+      {
+        "type": "myth",
         "title": "Culpar resolve o próximo erro",
         "text": "A análise sem culpa (blameless) extrai a causa real e previne repetição.",
         "reflection": "Você investiga causas ou caça culpados?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Checklist do Sucesso resiste ao senso comum",
+        "text": "Em \"O Checklist do Sucesso\", Atul Gawande sustenta que the checklist manifesto (2009) é a investigação do cirurgião atul gawande sobre por que profissionais altamente treinados ainda cometem erros evitáveis — e como uma ferramenta humilde resolve o problema: a lista de verificação (checklist) — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "The Checklist Manifesto (2009) é a investigação do cirurgião Atul Gawande sobre por que profissionais altamente treinados ainda cometem erros evitáveis — e como uma ferramenta humilde resolve o problema: a lista de verificação (checklist). O gancho central é que a complexidade dos campos modernos (medicina, aviação, construção, investimentos) ultrapassou a capacidade da memória e da disciplina individual; o cérebro simplesmente não retém tudo sob pressão. Gawande relata a criação e os testes do checklist cirúrgico da OMS, que cortou mortes e complicações em dezenas de hospitais ao redor do mundo. Ele distingue dois tipos de lista — \"FAÇA-VERIFICANDO\" (read-do), em que se lê e executa, e \"VERIFIQUE-FEITO\" (do-confirm), em que se faz e confirma — e defende que o valor não está em substituir o julgamento, mas em libertá-lo da sobrecarga de rotinas. O livro é também uma meditação sobre a humildade profissional: admitir que até especialistas precisam de auxílio externo para não falhar no básico é, paradoxalmente, o que eleva a excelência.",
@@ -19290,28 +19327,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A humildade de usar um cartão de papel salvou mais vidas que qualquer nova tecnologia.",
         "autor": "Atul Gawande",
         "obra": "The Checklist Manifesto"
-      },
-      {
-        "texto": "Maus sistemas não tornam as pessoas más; apenas as deixam falhar.",
-        "autor": "Atul Gawande",
-        "obra": "The Checklist Manifesto"
-      },
-      {
-        "texto": "O checklist não substitui o julgamento; ele o libera.",
-        "autor": "Atul Gawande",
-        "obra": "The Checklist Manifesto"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Apliquei o checklist da OMS no meu pequeno consultório e cortei erros administrativos pela metade.",
-        "autor": "Médica",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Leitura essencial para gestores: o básico bem feito supera o heroísmo.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -19327,9 +19354,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite a limitação cognitiva",
         "text": "Reconheça que nenhum especialista retém todo passo crítico sob estresse.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Aceite a limitação cognitiva\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Reconheça que nenhum especialista retém todo passo crítico sob estresse — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite a limitação cognitiva\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Aceite a limitação cognitiva\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça que nenhum especialista retém todo passo crítico sob estresse — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Aceite a limitação cognitiva\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19337,9 +19364,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie checklists enxutos",
         "text": "Liste só o essencial que, se pulado, causa dano; o resto vai à memória.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Crie checklists enxutos\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Liste só o essencial que, se pulado, causa dano; o resto vai à memória — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie checklists enxutos\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Crie checklists enxutos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Liste só o essencial que, se pulado, causa dano; o resto vai à memória — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Crie checklists enxutos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19347,9 +19374,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escolha o tipo certo",
         "text": "Use \"faça-verificando\" para execução linear e \"verifique-feito\" para confirmação posterior.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Escolha o tipo certo\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Use \"faça-verificando\" para execução linear e \"verifique-feito\" para confirmação posterior — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escolha o tipo certo\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Escolha o tipo certo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use \"faça-verificando\" para execução linear e \"verifique-feito\" para confirmação posterior — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Escolha o tipo certo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19357,9 +19384,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Padronize a comunicação",
         "text": "Comece com apresentação da equipe e confirmação de papéis para evitar silêncios fatais.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Padronize a comunicação\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Comece com apresentação da equipe e confirmação de papéis para evitar silêncios fatais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Padronize a comunicação\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Padronize a comunicação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comece com apresentação da equipe e confirmação de papéis para evitar silêncios fatais — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Padronize a comunicação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19367,9 +19394,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Teste em campo real",
         "text": "Valide a lista em condições reais antes de decretá-la obrigatória.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Teste em campo real\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Valide a lista em condições reais antes de decretá-la obrigatória — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Teste em campo real\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Teste em campo real\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Valide a lista em condições reais antes de decretá-la obrigatória — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Teste em campo real\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19377,9 +19404,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não burocratize",
         "text": "Listas longas são rejeitadas; menos itens, mais adesão.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Não burocratize\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Listas longas são rejeitadas; menos itens, mais adesão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não burocratize\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Não burocratize\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Listas longas são rejeitadas; menos itens, mais adesão — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Não burocratize\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19387,9 +19414,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Libere o julgamento",
         "text": "Use a lista para o básico e reserve atenção para o que exige criatividade.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Libere o julgamento\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Use a lista para o básico e reserve atenção para o que exige criatividade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Libere o julgamento\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Libere o julgamento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use a lista para o básico e reserve atenção para o que exige criatividade — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Libere o julgamento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19397,9 +19424,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça resultados",
         "text": "Acompanhe taxas de infecção, erro ou retrabalho para provar o valor.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Meça resultados\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Acompanhe taxas de infecção, erro ou retrabalho para provar o valor — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça resultados\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Meça resultados\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acompanhe taxas de infecção, erro ou retrabalho para provar o valor — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Meça resultados\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19407,9 +19434,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Institucionalize sem culpa",
         "text": "Erros devem gerar ajuste de processo, não punição que esconde a causa.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Institucionalize sem culpa\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Erros devem gerar ajuste de processo, não punição que esconde a causa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Institucionalize sem culpa\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Institucionalize sem culpa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Erros devem gerar ajuste de processo, não punição que esconde a causa — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Institucionalize sem culpa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19417,9 +19444,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Adapte ao contexto",
         "text": "A mesma lógica serve a hospitais, obras, escritórios e lares.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Adapte ao contexto\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: A mesma lógica serve a hospitais, obras, escritórios e lares — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Adapte ao contexto\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Adapte ao contexto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A mesma lógica serve a hospitais, obras, escritórios e lares — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Adapte ao contexto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19427,9 +19454,29 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Lidere pela humildade",
         "text": "Quem manda usar lista e também a segue transforma a cultura.",
         "explicacoes": [
-          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Lidere pela humildade\" como peça-chave para a execução segura através de listas de verificação.",
-          "Na prática: Quem manda usar lista e também a segue transforma a cultura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Lidere pela humildade\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Lidere pela humildade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quem manda usar lista e também a segue transforma a cultura — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Lidere pela humildade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Falha é problema de sistema, não de pessoas",
+        "text": "Gawande conclui que culpar o indivíduo esconde falhas de processo; corrigir o sistema previne o próximo erro.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Falha é problema de sistema, não de pessoas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Gawande conclui que culpar o indivíduo esconde falhas de processo; corrigir o sistema previne o próximo erro — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Falha é problema de sistema, não de pessoas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Falha é problema de sistema, não de pessoas",
+        "text": "Gawande conclui que culpar o indivíduo esconde falhas de processo; corrigir o sistema previne o próximo erro.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande coloca \"Falha é problema de sistema, não de pessoas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Gawande conclui que culpar o indivíduo esconde falhas de processo; corrigir o sistema previne o próximo erro — traduzido para a prática, é o passo concreto que liga a teoria de Atul Gawande ao comportamento diário.",
+          "Ignorar \"Falha é problema de sistema, não de pessoas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -19463,6 +19510,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Gawande narra o colapso de um edifício por uma falha simples ignorada, mostrando que complexidade vence o expertise.",
             "f": "Na visão de Atul Gawande, \"falha do básico.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
             "real": false
+          },
+          {
+            "t": "O Problema do Cedro",
+            "e": "Gawande narra o colapso de um edifício por uma falha simples ignorada, mostrando que complexidade vence o expertise.",
+            "f": "Na visão de Atul Gawande, o Problema do Cedro é o ponto central deste capítulo de \"O Checklist do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -19480,6 +19533,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Disciplina sobre heroísmo.",
             "e": "Introduz o conceito e a história das listas na aviação, que tornou o voo comercial seguro.",
             "f": "Na visão de Atul Gawande, \"disciplina sobre heroísmo.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "O Check-list",
+            "e": "Introduz o conceito e a história das listas na aviação, que tornou o voo comercial seguro.",
+            "f": "Na visão de Atul Gawande, o Check-list é o ponto central deste capítulo de \"O Checklist do Sucesso\".",
             "real": false
           }
         ]
@@ -19499,6 +19558,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Conta como a Força Aérea testou pilotos e descobriu que processo vence talento individual.",
             "f": "A humildade de usar um cartão de papel salvou mais vidas que qualquer nova tecnologia.",
             "real": true
+          },
+          {
+            "t": "O Fim da Asas do Homem",
+            "e": "Conta como a Força Aérea testou pilotos e descobriu que processo vence talento individual.",
+            "f": "Na visão de Atul Gawande, o Fim da Asas do Homem é o ponto central deste capítulo de \"O Checklist do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -19517,6 +19582,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mostra a engenharia de uma boa lista: poucos itens, linguagem clara, fácil de usar.",
             "f": "A humildade de usar um cartão de papel salvou mais vidas que qualquer nova tecnologia.",
             "real": true
+          },
+          {
+            "t": "A Ponta do Lápis",
+            "e": "Mostra a engenharia de uma boa lista: poucos itens, linguagem clara, fácil de usar.",
+            "f": "Na visão de Atul Gawande, a Ponta do Lápis é o ponto central deste capítulo de \"O Checklist do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -19534,6 +19605,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Adoção em hospitais.",
             "e": "Descreve a criação e os resultados do checklist cirúrgico global da Organização Mundial da Saúde.",
             "f": "Na visão de Atul Gawande, \"adoção em hospitais.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "O Teste da OMS",
+            "e": "Descreve a criação e os resultados do checklist cirúrgico global da Organização Mundial da Saúde.",
+            "f": "Na visão de Atul Gawande, o Teste da OMS é o ponto central deste capítulo de \"O Checklist do Sucesso\".",
             "real": false
           }
         ]
@@ -19553,6 +19630,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Discute a resistência dos médicos e por que humildade melhora a prática clínica.",
             "f": "A humildade de usar um cartão de papel salvou mais vidas que qualquer nova tecnologia.",
             "real": true
+          },
+          {
+            "t": "O Herói e o Lápis",
+            "e": "Discute a resistência dos médicos e por que humildade melhora a prática clínica.",
+            "f": "Na visão de Atul Gawande, o Herói e o Lápis é o ponto central deste capítulo de \"O Checklist do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -19570,6 +19653,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Simplicidade escalável.",
             "e": "Relata aplicações em construção e finanças, provando a universalidade do método.",
             "f": "Na visão de Atul Gawande, \"simplicidade escalável.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "A Salvação na Simplicidade",
+            "e": "Relata aplicações em construção e finanças, provando a universalidade do método.",
+            "f": "Na visão de Atul Gawande, a Salvação na Simplicidade é o ponto central deste capítulo de \"O Checklist do Sucesso\".",
             "real": false
           }
         ]
@@ -19589,6 +19678,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Detalha os dois tipos de lista e quando usar cada um na prática.",
             "f": "A lista de verificação é uma ferramenta que compensa as limitações do cérebro humano.",
             "real": true
+          },
+          {
+            "t": "O Poder do Faça e Confirme",
+            "e": "Detalha os dois tipos de lista e quando usar cada um na prática.",
+            "f": "Na visão de Atul Gawande, o Poder do Faça e Confirme é o ponto central deste capítulo de \"O Checklist do Sucesso\".",
+            "real": false
           }
         ]
       }
@@ -19611,12 +19706,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Talento é o principal preditor",
-        "text": "Duckworth mostra que esforço entra duas vezes na equação do sucesso; talento sozinho estagna.",
-        "reflection": "Você cultiva esforço ou só lamenta falta de dom?"
-      },
-      {
         "type": "truth",
         "title": "Grit vence dom isolado",
         "text": "Estudos com spelling bees e militares mostram perseverança superando aptidão inicial.",
@@ -19624,9 +19713,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Paixão é entusiasmo inicial",
-        "text": "Paixão real é compromisso de longo prazo, não a emoção do primeiro dia.",
-        "reflection": "Seu interesse sobrevive ao tédio do meio?"
+        "title": "Talento é o principal preditor",
+        "text": "Duckworth mostra que esforço entra duas vezes na equação do sucesso; talento sozinho estagna.",
+        "reflection": "Você cultiva esforço ou só lamenta falta de dom?"
       },
       {
         "type": "truth",
@@ -19636,9 +19725,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Apenas natos vencem",
-        "text": "Quase todo alto realizador descobriu vocação por tentativa e insistência.",
-        "reflection": "Você espera a vocação cair do céu?"
+        "title": "Paixão é entusiasmo inicial",
+        "text": "Paixão real é compromisso de longo prazo, não a emoção do primeiro dia.",
+        "reflection": "Seu interesse sobrevive ao tédio do meio?"
       },
       {
         "type": "truth",
@@ -19648,9 +19737,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Esforço cego compensa",
-        "text": "Esforço sem direção cansa; precisa alinhar-se a um objetivo com sentido.",
-        "reflection": "Sua Disciplina tem para onde apontar?"
+        "title": "Apenas natos vencem",
+        "text": "Quase todo alto realizador descobriu vocação por tentativa e insistência.",
+        "reflection": "Você espera a vocação cair do céu?"
       },
       {
         "type": "truth",
@@ -19660,9 +19749,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Grit substitui oportunidade",
-        "text": "Duckworth admite que sem porta de entrada o esforço pode não render.",
-        "reflection": "Você confunde falta de chance com falta de garra?"
+        "title": "Esforço cego compensa",
+        "text": "Esforço sem direção cansa; precisa alinhar-se a um objetivo com sentido.",
+        "reflection": "Sua Disciplina tem para onde apontar?"
       },
       {
         "type": "truth",
@@ -19672,9 +19761,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Só individuais vencem",
-        "text": "Coach e cultura de time sustentam o grit muito além da força de vontade solitária.",
-        "reflection": "Quem sustenta sua persistência?"
+        "title": "Grit substitui oportunidade",
+        "text": "Duckworth admite que sem porta de entrada o esforço pode não render.",
+        "reflection": "Você confunde falta de chance com falta de garra?"
       },
       {
         "type": "truth",
@@ -19684,9 +19773,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Só individuais vencem",
+        "text": "Coach e cultura de time sustentam o grit muito além da força de vontade solitária.",
+        "reflection": "Quem sustenta sua persistência?"
+      },
+      {
+        "type": "truth",
+        "title": "Grit — paixão sustentada por anos — prediz mais que talento",
+        "text": "Duckworth mostra que perseverança de longo prazo supera dotação inicial em quase toda realização.",
+        "reflection": "Você desiste no vale entre o entusiasmo inicial e a maestria?"
+      },
+      {
+        "type": "myth",
         "title": "Grit justifica sofrimento",
         "text": "O livro alerta que perseverar em ambiente abusivo não é virtude, é autossabotagem.",
         "reflection": "Você confunde insistência com masoquismo?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Grit: Paixão e Perseverança resiste ao senso comum",
+        "text": "Em \"Grit: Paixão e Perseverança\", Angela Duckworth sustenta que grit (2016) reúne a pesquisa de angela duckworth mostrando que o sucesso de longo prazo depende menos de talento bruto e mais de \"grit\" — a combinação de paixão sustentada e perseverança por objetivos de longo prazo — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Grit (2016) reúne a pesquisa de Angela Duckworth mostrando que o sucesso de longo prazo depende menos de talento bruto e mais de \"grit\" — a combinação de paixão sustentada e perseverança por objetivos de longo prazo. O gancho central é a equação: habilidade = talento × esforço, e realização = habilidade × esforço; logo, o esforço entra duas vezes na conta. Duckworth revela que crianças prodígio e adultos de alto desempenho não são os mais dotados, e sim os que não desistem quando o interesse esfria. Ela integra a \"mentalidade de crescimento\" de Carol Dweck (acreditar que a capacidade se desenvolve) e propõe o \"regra da coisa difícil\" (hard thing rule) para treinar grit em família e escolas. O livro também adverte: paixão não é entusiasmo passageiro, é um compromisso duradouro com uma meta que dá sentido à vida. Duckworth reconhece que o grit não substitui oportunidade nem é desculpa para tolerar ambientes tóxicos, mas oferece um contraponto científico à fixação contemporânea em \"dom natural\" e testes de QI como destino.",
@@ -19707,28 +19814,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Sem interesse, sem paixão sustentada; sem paixão, o esforço esfria.",
         "autor": "Angela Duckworth",
         "obra": "Grit"
-      },
-      {
-        "texto": "A esperança de quem tem grit é um plano, não um desejo.",
-        "autor": "Angela Duckworth",
-        "obra": "Grit"
-      },
-      {
-        "texto": "Talento é quanto você começa; grit é quanto você avança.",
-        "autor": "Angela Duckworth",
-        "obra": "Grit"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Mudou como educo meus filhos: parei de elogiar \"inteligente\" e passei a elogiar o esforço.",
-        "autor": "Mãe",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Leitura sólida, embora repita que grit não dispensa oportunidade.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -19744,9 +19841,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda a equação do esforço",
         "text": "Habilidade e realização dependem de esforço multiplicado, não só de dom.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Entenda a equação do esforço\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Habilidade e realização dependem de esforço multiplicado, não só de dom — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda a equação do esforço\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Entenda a equação do esforço\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Habilidade e realização dependem de esforço multiplicado, não só de dom — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Entenda a equação do esforço\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19754,9 +19851,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina um objetivo superior",
         "text": "Paixão exige meta de longo prazo que dá sentido ao cotidiano.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Defina um objetivo superior\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Paixão exige meta de longo prazo que dá sentido ao cotidiano — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina um objetivo superior\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Defina um objetivo superior\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Paixão exige meta de longo prazo que dá sentido ao cotidiano — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Defina um objetivo superior\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19764,9 +19861,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Adote a mentalidade de crescimento",
         "text": "Crera na capacidade de desenvolver-se mantém o esforço após falhas.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Adote a mentalidade de crescimento\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Crera na capacidade de desenvolver-se mantém o esforço após falhas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Adote a mentalidade de crescimento\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Adote a mentalidade de crescimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Crera na capacidade de desenvolver-se mantém o esforço após falhas — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Adote a mentalidade de crescimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19774,9 +19871,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a regra da coisa difícil",
         "text": "Comprometa-se com algo desafiador e sustente-o por longo tempo.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Pratique a regra da coisa difícil\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Comprometa-se com algo desafiador e sustente-o por longo tempo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a regra da coisa difícil\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Pratique a regra da coisa difícil\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comprometa-se com algo desafiador e sustente-o por longo tempo — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Pratique a regra da coisa difícil\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19784,9 +19881,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Atravesse o tédio",
         "text": "O meio do caminho é monótono; persistir ali é o músculo do grit.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Atravesse o tédio\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: O meio do caminho é monótono; persistir ali é o músculo do grit — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Atravesse o tédio\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Atravesse o tédio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O meio do caminho é monótono; persistir ali é o músculo do grit — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Atravesse o tédio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19794,9 +19891,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive esperança ativa",
         "text": "Diante de bloqueios, trace rotas alternativas em vez de desistir.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Cultive esperança ativa\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Diante de bloqueios, trace rotas alternativas em vez de desistir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive esperança ativa\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Cultive esperança ativa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Diante de bloqueios, trace rotas alternativas em vez de desistir — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Cultive esperança ativa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19804,9 +19901,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque cultura de exigência",
         "text": "Cerque-se de ambientes e pessoas que demandam constância.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Busque cultura de exigência\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Cerque-se de ambientes e pessoas que demandam constância — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque cultura de exigência\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Busque cultura de exigência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cerque-se de ambientes e pessoas que demandam constância — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Busque cultura de exigência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19814,9 +19911,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Alinhe esforço a propósito",
         "text": "Disciplina sem direção cansa; conecte-a a um \"porquê\".",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Alinhe esforço a propósito\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Disciplina sem direção cansa; conecte-a a um \"porquê\" — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Alinhe esforço a propósito\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Alinhe esforço a propósito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Disciplina sem direção cansa; conecte-a a um \"porquê\" — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Alinhe esforço a propósito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19824,9 +19921,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize o progresso visível",
         "text": "Marcos pequenos sustentam interesse ao longo de anos.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Valorize o progresso visível\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Marcos pequenos sustentam interesse ao longo de anos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize o progresso visível\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Valorize o progresso visível\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Marcos pequenos sustentam interesse ao longo de anos — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Valorize o progresso visível\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19834,9 +19931,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não romantize o sofrimento",
         "text": "Reconheça quando o ambiente é tóxico e saia, sem rótulo de fracasso.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Não romantize o sofrimento\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Reconheça quando o ambiente é tóxico e saia, sem rótulo de fracasso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não romantize o sofrimento\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Não romantize o sofrimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça quando o ambiente é tóxico e saia, sem rótulo de fracasso — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Não romantize o sofrimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -19844,9 +19941,29 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine grit em crianças",
         "text": "Escolas e pais devem ensinar perseverança, não só elogiar talento.",
         "explicacoes": [
-          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Treine grit em crianças\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
-          "Na prática: Escolas e pais devem ensinar perseverança, não só elogiar talento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine grit em crianças\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"Treine grit em crianças\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escolas e pais devem ensinar perseverança, não só elogiar talento — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"Treine grit em crianças\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "O talento é o teto, o grit é a subida",
+        "text": "Duckworth encerra mostrando que, sem perseverança, o dom estagna; com ela, o mediano ultrapassa o dotado.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"O talento é o teto, o grit é a subida\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Duckworth encerra mostrando que, sem perseverança, o dom estagna; com ela, o mediano ultrapassa o dotado — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"O talento é o teto, o grit é a subida\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "O talento é o teto, o grit é a subida",
+        "text": "Duckworth encerra mostrando que, sem perseverança, o dom estagna; com ela, o mediano ultrapassa o dotado.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth coloca \"O talento é o teto, o grit é a subida\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Duckworth encerra mostrando que, sem perseverança, o dom estagna; com ela, o mediano ultrapassa o dotado — traduzido para a prática, é o passo concreto que liga a teoria de Angela Duckworth ao comportamento diário.",
+          "Ignorar \"O talento é o teto, o grit é a subida\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -19880,6 +19997,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Duckworth define o conceito e conta como o descobriu estudando spelling bees e West Point.",
             "f": "A esperança de quem tem grit é um plano, não um desejo.",
             "real": true
+          },
+          {
+            "t": "Sobre o Grit",
+            "e": "Duckworth define o conceito e conta como o descobriu estudando spelling bees e West Point.",
+            "f": "Na visão de Angela Duckworth, sobre o Grit é o ponto central deste capítulo de \"Grit: Paixão e Perseverança\".",
+            "real": false
           }
         ]
       },
@@ -19898,6 +20021,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Apresenta dados de militar, venda e academia mostrando perseverança vencendo aptidão.",
             "f": "A esperança de quem tem grit é um plano, não um desejo.",
             "real": true
+          },
+          {
+            "t": "A Evidência do Grit",
+            "e": "Apresenta dados de militar, venda e academia mostrando perseverança vencendo aptidão.",
+            "f": "Na visão de Angela Duckworth, a Evidência do Grit é o ponto central deste capítulo de \"Grit: Paixão e Perseverança\".",
+            "real": false
           }
         ]
       },
@@ -19916,6 +20045,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Discute o \"teste de intestino\" e a resiliência sob pressão extrema.",
             "f": "A esperança de quem tem grit é um plano, não um desejo.",
             "real": true
+          },
+          {
+            "t": "Como o Grit é Posto à Prova",
+            "e": "Discute o \"teste de intestino\" e a resiliência sob pressão extrema.",
+            "f": "Na visão de Angela Duckworth, como o Grit é Posto à Prova é o ponto central deste capítulo de \"Grit: Paixão e Perseverança\".",
+            "real": false
           }
         ]
       },
@@ -19933,6 +20068,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Alimentar a chama.",
             "e": "Explica que paixão é cultivada e sustentada, não achada pronta.",
             "f": "Na visão de Angela Duckworth, \"alimentar a chama.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
+            "real": false
+          },
+          {
+            "t": "Interesse",
+            "e": "Explica que paixão é cultivada e sustentada, não achada pronta.",
+            "f": "Na visão de Angela Duckworth, interesse é o ponto central deste capítulo de \"Grit: Paixão e Perseverança\".",
             "real": false
           }
         ]
@@ -19952,6 +20093,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mostra a prática deliberada, dolorosa e focada como geradora de maestria.",
             "f": "Na visão de Angela Duckworth, \"desconforto útil.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
             "real": false
+          },
+          {
+            "t": "Prática",
+            "e": "Mostra a prática deliberada, dolorosa e focada como geradora de maestria.",
+            "f": "Na visão de Angela Duckworth, prática é o ponto central deste capítulo de \"Grit: Paixão e Perseverança\".",
+            "real": false
           }
         ]
       },
@@ -19969,6 +20116,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Além de si.",
             "e": "Conecta o esforço a algo maior que o eu, o que sustenta o grit.",
             "f": "Na visão de Angela Duckworth, \"além de si.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
+            "real": false
+          },
+          {
+            "t": "Propósito",
+            "e": "Conecta o esforço a algo maior que o eu, o que sustenta o grit.",
+            "f": "Na visão de Angela Duckworth, propósito é o ponto central deste capítulo de \"Grit: Paixão e Perseverança\".",
             "real": false
           }
         ]
@@ -19988,6 +20141,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Descreve a esperança ativa como traçar rotas alternativas diante de bloqueios.",
             "f": "Na visão de Angela Duckworth, \"planos b.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
             "real": false
+          },
+          {
+            "t": "Esperança",
+            "e": "Descreve a esperança ativa como traçar rotas alternativas diante de bloqueios.",
+            "f": "Na visão de Angela Duckworth, esperança é o ponto central deste capítulo de \"Grit: Paixão e Perseverança\".",
+            "real": false
           }
         ]
       },
@@ -20006,6 +20165,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Dá passos para pais, escolas e líderes desenvolverem perseverança.",
             "f": "A esperança de quem tem grit é um plano, não um desejo.",
             "real": true
+          },
+          {
+            "t": "Cultivando o Grit",
+            "e": "Dá passos para pais, escolas e líderes desenvolverem perseverança.",
+            "f": "Na visão de Angela Duckworth, cultivando o Grit é o ponto central deste capítulo de \"Grit: Paixão e Perseverança\".",
+            "real": false
           }
         ]
       }
