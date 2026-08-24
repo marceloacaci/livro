@@ -24009,12 +24009,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Dinheiro mede sucesso",
-        "text": "Christensen mostra que maximizar riqueza é \"métrica de erro\" que corrói o que importa.",
-        "reflection": "Sua métrica de sucesso é dinheiro ou sentido?"
-      },
-      {
         "type": "truth",
         "title": "Pequenas decisões moldam",
         "text": "As margens do dia constroem caráter e cultura tanto quanto grandes planos.",
@@ -24022,9 +24016,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Estratégia planejada = realidade",
-        "text": "A estratégia emergente (o que você faz) frequentemente diverge do plano.",
-        "reflection": "Seu agir confirma ou contradiz seu plano?"
+        "title": "Dinheiro mede sucesso",
+        "text": "Christensen mostra que maximizar riqueza é \"métrica de erro\" que corrói o que importa.",
+        "reflection": "Sua métrica de sucesso é dinheiro ou sentido?"
       },
       {
         "type": "truth",
@@ -24034,9 +24028,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Trabalho duro basta",
-        "text": "Esforço mal alocado afasta a família e a integridade sem aviso.",
-        "reflection": "Seu esforço aproxima ou afasta os seus?"
+        "title": "Estratégia planejada = realidade",
+        "text": "A estratégia emergente (o que você faz) frequentemente diverge do plano.",
+        "reflection": "Seu agir confirma ou contradiz seu plano?"
       },
       {
         "type": "truth",
@@ -24046,9 +24040,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Caráter é fixo",
-        "text": "Construir integridade exige prática nas margens, não só intenção.",
-        "reflection": "Você treina caráter ou acha que o tem?"
+        "title": "Trabalho duro basta",
+        "text": "Esforço mal alocado afasta a família e a integridade sem aviso.",
+        "reflection": "Seu esforço aproxima ou afasta os seus?"
       },
       {
         "type": "truth",
@@ -24058,9 +24052,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Crise é o problema",
-        "text": "O declínio vem de mil pequenas concessões, não de um dia ruim.",
-        "reflection": "Você vigia as pequenas concessões?"
+        "title": "Caráter é fixo",
+        "text": "Construir integridade exige prática nas margens, não só intenção.",
+        "reflection": "Você treina caráter ou acha que o tem?"
       },
       {
         "type": "truth",
@@ -24070,9 +24064,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Ambição sozinha guia",
-        "text": "Sem perguntas de fundo, a ambição vira em direção errada.",
-        "reflection": "Você sabe por que faz o que faz?"
+        "title": "Crise é o problema",
+        "text": "O declínio vem de mil pequenas concessões, não de um dia ruim.",
+        "reflection": "Você vigia as pequenas concessões?"
       },
       {
         "type": "truth",
@@ -24082,9 +24076,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Ambição sozinha guia",
+        "text": "Sem perguntas de fundo, a ambição vira em direção errada.",
+        "reflection": "Você sabe por que faz o que faz?"
+      },
+      {
+        "type": "truth",
+        "title": "Recursos, processos e prioridades explicam o sucesso e a queda",
+        "text": "Christensen aplica a teoria das empresas à vida e mostra por que metas erradas destroem trajetórias.",
+        "reflection": "Sua métrica de sucesso mede o que realmente importa para você?"
+      },
+      {
+        "type": "myth",
         "title": "Sucesso profissional = vida boa",
         "text": "A pergunta final é de integridade e relacionamento, não cargo.",
         "reflection": "Seu legado é cargo ou caráter?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Como Medir sua Vida resiste ao senso comum",
+        "text": "Em \"Como Medir sua Vida\", Clayton M. Christensen sustenta que how will you measure your life? (2012) aplica clayton christensen — o pai da teoria da \"inovação disruptiva\" — às grandes questões da vida pessoal — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "How Will You Measure Your Life? (2012) aplica Clayton Christensen — o pai da teoria da \"inovação disruptiva\" — às grandes questões da vida pessoal. O gancho central é que as ferramentas da estratégia e da inovação que as empresas usam para decidir o que fazer também explicam por que pessoas brilhantes fracassam em casa e consigo mesmas. Christensen propõe o \"modelo de investimento de recursos\" (cada escolha aloca tempo, dinheiro e energia), a \"teoria do motor de crescimento\" (produtos certos geram feedback de clientes) e a diferença entre \"estratégia deliberada\" e \"estratégia emergente\" (o que você realmente faz, não o que planeja). Ele discute o perigo das \"métricas de erro\" (maximizar dinheiro em vez de relacionamentos), a importância de construir cultura e caráter por \"margens\" (pequenas decisões diárias), e conclui com três perguntas: como medir uma vida bem-sucedida em termos de realização, de relacionamento e de integridade. O livro é raro por unir rigor de negócios a sabedoria de vida, escrito como uma carta ao aluno ideal antes de morrer de câncer.",
@@ -24105,16 +24117,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O caráter é formado nas margens, não no centro das grandes decisões.",
         "autor": "Clayton Christensen",
         "obra": "How Will You Measure Your Life?"
-      },
-      {
-        "texto": "Sua estratégia emergente diz mais sobre você que seus planos.",
-        "autor": "Clayton Christensen",
-        "obra": "How Will You Measure Your Life?"
-      },
-      {
-        "texto": "Vida bem-sucedida mede-se por realização, relacionamento e integridade.",
-        "autor": "Clayton Christensen",
-        "obra": "How Will You Measure Your Life?"
       }
     ],
     "citacoesTerceiros": [
@@ -24126,7 +24128,7 @@ window.MEU_BOLSO_BOOKS=[
       {
         "texto": "Aplica teoria de inovação à vida com rara sensatez.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -24142,9 +24144,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pergunte as três questões",
         "text": "Realização, relacionamento e integridade devem guiar escolhas.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Pergunte as três questões\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Realização, relacionamento e integridade devem guiar escolhas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pergunte as três questões\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Pergunte as três questões\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Realização, relacionamento e integridade devem guiar escolhas — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Pergunte as três questões\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24152,9 +24154,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite métricas de erro",
         "text": "Não confunda acúmulo de riqueza com uma vida bem-sucedida.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Evite métricas de erro\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Não confunda acúmulo de riqueza com uma vida bem-sucedida — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite métricas de erro\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Evite métricas de erro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não confunda acúmulo de riqueza com uma vida bem-sucedida — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Evite métricas de erro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24162,9 +24164,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Alinhe recursos",
         "text": "Direcione tempo, dinheiro e energia ao que realmente importa.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Alinhe recursos\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Direcione tempo, dinheiro e energia ao que realmente importa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Alinhe recursos\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Alinhe recursos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Direcione tempo, dinheiro e energia ao que realmente importa — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Alinhe recursos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24172,9 +24174,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Note a estratégia emergente",
         "text": "Observe o que você faz de fato, não só o que planeja.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Note a estratégia emergente\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Observe o que você faz de fato, não só o que planeja — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Note a estratégia emergente\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Note a estratégia emergente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Observe o que você faz de fato, não só o que planeja — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Note a estratégia emergente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24182,9 +24184,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa nas margens",
         "text": "Pequenas decisões diárias formam caráter e cultura.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Construa nas margens\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Pequenas decisões diárias formam caráter e cultura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa nas margens\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Construa nas margens\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenas decisões diárias formam caráter e cultura — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Construa nas margens\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24192,9 +24194,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o motor de crescimento",
         "text": "Busque feedback dos \"clientes\" certos da sua vida.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Use o motor de crescimento\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Busque feedback dos \"clientes\" certos da sua vida — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o motor de crescimento\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Use o motor de crescimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Busque feedback dos \"clientes\" certos da sua vida — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Use o motor de crescimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24202,9 +24204,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Invista em relacionamentos",
         "text": "Trate família e amizade como concorrentes legítimos do trabalho.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Invista em relacionamentos\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Trate família e amizade como concorrentes legítimos do trabalho — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Invista em relacionamentos\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Invista em relacionamentos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trate família e amizade como concorrentes legítimos do trabalho — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Invista em relacionamentos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24212,9 +24214,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine integridade",
         "text": "Pratique coerência nas pequenas situações difíceis.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Treine integridade\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Pratique coerência nas pequenas situações difíceis — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine integridade\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Treine integridade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pratique coerência nas pequenas situações difíceis — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Treine integridade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24222,9 +24224,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina sua cultura",
         "text": "Valores internalizados guiam melhor em momentos caóticos.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Defina sua cultura\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Valores internalizados guiam melhor em momentos caóticos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina sua cultura\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Defina sua cultura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Valores internalizados guiam melhor em momentos caóticos — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Defina sua cultura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24232,9 +24234,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Equilibre ambição e sentido",
         "text": "Ambição precisa de \"porquê\" para não se perder.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Equilibre ambição e sentido\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Ambição precisa de \"porquê\" para não se perder — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Equilibre ambição e sentido\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Equilibre ambição e sentido\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ambição precisa de \"porquê\" para não se perder — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Equilibre ambição e sentido\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24242,9 +24244,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Meça por legado",
         "text": "Avalie a vida por integridade e laços, não por cargo.",
         "explicacoes": [
-          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Meça por legado\" como peça-chave em torno de alocar recursos para o que realmente importa na vida.",
-          "Na prática: Avalie a vida por integridade e laços, não por cargo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Meça por legado\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"Meça por legado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Avalie a vida por integridade e laços, não por cargo — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"Meça por legado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "O que medir define o que se faz",
+        "text": "Christensen alerta que a métrica errada leva à vida bem-sucedida no papel e vazia na prática.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen coloca \"O que medir define o que se faz\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Christensen alerta que a métrica errada leva à vida bem-sucedida no papel e vazia na prática — traduzido para a prática, é o passo concreto que liga a teoria de Clayton M. Christensen ao comportamento diário.",
+          "Ignorar \"O que medir define o que se faz\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -24278,6 +24290,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Usa inovação disruptiva para explicar fracassos pessoais.",
             "f": "Maximizar dinheiro é uma métrica de erro para uma vida.",
             "real": true
+          },
+          {
+            "t": "Por que fracassamos",
+            "e": "Usa inovação disruptiva para explicar fracassos pessoais.",
+            "f": "Na visão de Clayton M. Christensen, por que fracassamos é o ponto central deste capítulo de \"Como Medir sua Vida\".",
+            "real": false
           }
         ]
       },
@@ -24295,6 +24313,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Prioridade.",
             "e": "Cada escolha aloca tempo, dinheiro e energia.",
             "f": "Na visão de Clayton M. Christensen, \"prioridade.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "O Modelo de Recursos",
+            "e": "Cada escolha aloca tempo, dinheiro e energia.",
+            "f": "Na visão de Clayton M. Christensen, o Modelo de Recursos é o ponto central deste capítulo de \"Como Medir sua Vida\".",
             "real": false
           }
         ]
@@ -24314,6 +24338,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O que você faz diverge do que planeja.",
             "f": "Na visão de Clayton M. Christensen, \"ação.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
             "real": false
+          },
+          {
+            "t": "Estratégia Deliberada vs Emergente",
+            "e": "O que você faz diverge do que planeja.",
+            "f": "Na visão de Clayton M. Christensen, estratégia Deliberada vs Emergente é o ponto central deste capítulo de \"Como Medir sua Vida\".",
+            "real": false
           }
         ]
       },
@@ -24331,6 +24361,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Sentido.",
             "e": "Feedback dos clientes certos sustenta propósitos.",
             "f": "Na visão de Clayton M. Christensen, \"sentido.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Motor de Crescimento",
+            "e": "Feedback dos clientes certos sustenta propósitos.",
+            "f": "Na visão de Clayton M. Christensen, motor de Crescimento é o ponto central deste capítulo de \"Como Medir sua Vida\".",
             "real": false
           }
         ]
@@ -24350,6 +24386,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Riqueza como medida errada de sucesso.",
             "f": "Na visão de Clayton M. Christensen, \"valor.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
             "real": false
+          },
+          {
+            "t": "Métricas de Erro",
+            "e": "Riqueza como medida errada de sucesso.",
+            "f": "Na visão de Clayton M. Christensen, métricas de Erro é o ponto central deste capítulo de \"Como Medir sua Vida\".",
+            "real": false
           }
         ]
       },
@@ -24367,6 +24409,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Hábito.",
             "e": "Pequenas decisões constroem caráter e cultura.",
             "f": "Na visão de Clayton M. Christensen, \"hábito.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "As Margens",
+            "e": "Pequenas decisões constroem caráter e cultura.",
+            "f": "Na visão de Clayton M. Christensen, as Margens é o ponto central deste capítulo de \"Como Medir sua Vida\".",
             "real": false
           }
         ]
@@ -24386,6 +24434,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Investir na família como concorrente do trabalho.",
             "f": "Na visão de Clayton M. Christensen, \"tempo.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
             "real": false
+          },
+          {
+            "t": "Relacionamentos",
+            "e": "Investir na família como concorrente do trabalho.",
+            "f": "Na visão de Clayton M. Christensen, relacionamentos é o ponto central deste capítulo de \"Como Medir sua Vida\".",
+            "real": false
           }
         ]
       },
@@ -24403,6 +24457,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Legado.",
             "e": "Realização, relacionamento e integridade como medida final.",
             "f": "Na visão de Clayton M. Christensen, \"legado.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "As Três Perguntas",
+            "e": "Realização, relacionamento e integridade como medida final.",
+            "f": "Na visão de Clayton M. Christensen, as Três Perguntas é o ponto central deste capítulo de \"Como Medir sua Vida\".",
             "real": false
           }
         ]
@@ -24426,12 +24486,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "dinheiro",
     "myths": [
       {
-        "type": "myth",
-        "title": "Somos racionais",
-        "text": "Ariely mostra que erramos sistematicamente, não ao acaso.",
-        "reflection": "Você acha que decide pela razão ou pelo ambiente?"
-      },
-      {
         "type": "truth",
         "title": "Irracionalidade é previsível",
         "text": "Nossos vieses seguem padrões estáveis e estudáveis.",
@@ -24439,9 +24493,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Grátis é sempre bom",
-        "text": "O \"custo zero\" nos faz escolher opções piores só por serem grátis.",
-        "reflection": "Você cai no grátis mesmo quando prejudica?"
+        "title": "Somos racionais",
+        "text": "Ariely mostra que erramos sistematicamente, não ao acaso.",
+        "reflection": "Você acha que decide pela razão ou pelo ambiente?"
       },
       {
         "type": "truth",
@@ -24451,9 +24505,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Decidimos por valor absoluto",
-        "text": "A relatividade nos faz escolher pelo contexto de comparação.",
-        "reflection": "Você compara ou avalia o valor real?"
+        "title": "Grátis é sempre bom",
+        "text": "O \"custo zero\" nos faz escolher opções piores só por serem grátis.",
+        "reflection": "Você cai no grátis mesmo quando prejudica?"
       },
       {
         "type": "truth",
@@ -24463,9 +24517,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Autocontrole é fácil",
-        "text": "A procrastinação mostra preferência pelo prazer imediato sobre o futuro.",
-        "reflection": "Você cede ao agora em detrimento do depois?"
+        "title": "Decidimos por valor absoluto",
+        "text": "A relatividade nos faz escolher pelo contexto de comparação.",
+        "reflection": "Você compara ou avalia o valor real?"
       },
       {
         "type": "truth",
@@ -24475,9 +24529,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Norma social = mercado",
-        "text": "Misturar norma social e mercado destrói a generosidade.",
-        "reflection": "Você paga quem agiu por amor?"
+        "title": "Autocontrole é fácil",
+        "text": "A procrastinação mostra preferência pelo prazer imediato sobre o futuro.",
+        "reflection": "Você cede ao agora em detrimento do depois?"
       },
       {
         "type": "truth",
@@ -24487,9 +24541,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mais opções, melhor",
-        "text": "Excesso de escolha paralisa e reduz satisfação (paradoxo).",
-        "reflection": "Demais opções ajudam ou travam você?"
+        "title": "Norma social = mercado",
+        "text": "Misturar norma social e mercado destrói a generosidade.",
+        "reflection": "Você paga quem agiu por amor?"
       },
       {
         "type": "truth",
@@ -24499,9 +24553,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Mais opções, melhor",
+        "text": "Excesso de escolha paralisa e reduz satisfação (paradoxo).",
+        "reflection": "Demais opções ajudam ou travam você?"
+      },
+      {
+        "type": "truth",
+        "title": "Racionalidade é a exceção, não a regra",
+        "text": "Ariely prova, por experimentos, que contexto e emoção distorcem escolhas que julgamos lógicas.",
+        "reflection": "Quantas de suas 'escolhas raconais' foram moldadas por um enquadramento?"
+      },
+      {
+        "type": "myth",
         "title": "Preço = qualidade",
         "text": "Muitas vezes pagamos mais por rótulo, não por mérito.",
         "reflection": "Você confunde preço alto com qualidade?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Previsivelmente Irracional resiste ao senso comum",
+        "text": "Em \"Previsivelmente Irracional\", Dan Ariely sustenta que predictably irrational (2008) reúne os experimentos de dan ariely que provam que somos \"previsivelmente irracionais\": não agimos como o homo economicus racional da teoria, e nossos erros não são aleatórios, seguem padrões sistemáticos — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Predictably Irrational (2008) reúne os experimentos de Dan Ariely que provam que somos \"previsivelmente irracionais\": não agimos como o homo economicus racional da teoria, e nossos erros não são aleatórios, seguem padrões sistemáticos. O gancho central é que o ambiente e o enquadramento (framing) moldam escolhas muito mais do que imaginamos. Ariely aborda o \"custo zero\" (o que é grátis nos seduz desproporcionalmente), o efeito âncora (primeiro preço visto vira referência), a \"relatividade\" (comparamos para decidir, não valores absolutos), o \"efeito do proprietário\" (valorizamos o que já é nosso), a \"procrastinação e autocontrole\" (preferimos o prazer agora ao ganho futuro) e como a \"expectativa\" altera percepção de prazer (vinho caro \"sabe\" melhor). O livro é uma porta de entrada à economia comportamental, mostrando como empresas, vendedores e até nós mesmos nos enganamos. A implicação prática: reconhecer os vieses é o primeiro passo para desenhar escolhas melhores — e para não ser manipulado.",
@@ -24522,16 +24594,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A primeira informação vista torna-se a âncora de todas as decisões seguintes.",
         "autor": "Dan Ariely",
         "obra": "Predictably Irrational"
-      },
-      {
-        "texto": "Quando somos donos de algo, seu valor para nós sobe instantaneamente.",
-        "autor": "Dan Ariely",
-        "obra": "Predictably Irrational"
-      },
-      {
-        "texto": "Nossas expectativas moldam o que sentimos, não apenas o que pensamos.",
-        "autor": "Dan Ariely",
-        "obra": "Predictably Irrational"
       }
     ],
     "citacoesTerceiros": [
@@ -24543,7 +24605,7 @@ window.MEU_BOLSO_BOOKS=[
       {
         "texto": "Divulgador brilhante da economia comportamental.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -24559,9 +24621,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desconfie do grátis",
         "text": "Avalie o custo real, não só o rótulo \"zero\".",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Desconfie do grátis\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Avalie o custo real, não só o rótulo \"zero\" — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desconfie do grátis\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Desconfie do grátis\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Avalie o custo real, não só o rótulo \"zero\" — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Desconfie do grátis\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24569,9 +24631,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ancore consciente",
         "text": "Defina sua própria referência antes de ver preços.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Ancore consciente\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Defina sua própria referência antes de ver preços — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ancore consciente\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Ancore consciente\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defina sua própria referência antes de ver preços — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Ancore consciente\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24579,9 +24641,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Compare com critério",
         "text": "Use valores absolutos, não só o contexto oferecido.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Compare com critério\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Use valores absolutos, não só o contexto oferecido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Compare com critério\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Compare com critério\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use valores absolutos, não só o contexto oferecido — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Compare com critério\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24589,9 +24651,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Domine a posse",
         "text": "Não inflacione o valor do que já é seu por apego.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Domine a posse\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Não inflacione o valor do que já é seu por apego — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Domine a posse\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Domine a posse\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não inflacione o valor do que já é seu por apego — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Domine a posse\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24599,9 +24661,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Combata a procrastinação",
         "text": "Crie restrições de autocontrole para o futuro.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Combata a procrastinação\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Crie restrições de autocontrole para o futuro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Combata a procrastinação\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Combata a procrastinação\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Crie restrições de autocontrole para o futuro — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Combata a procrastinação\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24609,9 +24671,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Questione expectativas",
         "text": "Separe o que gosta do que lhe disseram para gostar.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Questione expectativas\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Separe o que gosta do que lhe disseram para gostar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Questione expectativas\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Questione expectativas\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Separe o que gosta do que lhe disseram para gostar — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Questione expectativas\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24619,9 +24681,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha normas sociais",
         "text": "Não transforme favores em transações.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Mantenha normas sociais\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Não transforme favores em transações — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha normas sociais\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Mantenha normas sociais\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não transforme favores em transações — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Mantenha normas sociais\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24629,9 +24691,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuidado com o framing",
         "text": "Repense a escolha fora da embalagem sugerida.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Cuidado com o framing\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Repense a escolha fora da embalagem sugerida — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuidado com o framing\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Cuidado com o framing\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Repense a escolha fora da embalagem sugerida — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Cuidado com o framing\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24639,9 +24701,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Limite opções",
         "text": "Reduzir alternativas pode aumentar satisfação.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Limite opções\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Reduzir alternativas pode aumentar satisfação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Limite opções\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Limite opções\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduzir alternativas pode aumentar satisfação — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Limite opções\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24649,9 +24711,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estude seus vieses",
         "text": "Conhecer padrões protege contra manipulação.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Estude seus vieses\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Conhecer padrões protege contra manipulação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estude seus vieses\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Estude seus vieses\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conhecer padrões protege contra manipulação — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Estude seus vieses\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24659,9 +24721,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Separe preço de mérito",
         "text": "Pague pelo valor real, não pelo rótulo caro.",
         "explicacoes": [
-          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Separe preço de mérito\" como peça-chave para a irracionalidade previsível das decisões humanas.",
-          "Na prática: Pague pelo valor real, não pelo rótulo caro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Separe preço de mérito\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Separe preço de mérito\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pague pelo valor real, não pelo rótulo caro — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Separe preço de mérito\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Reconhecer o viés é o primeiro passo",
+        "text": "Ariely conclui que só observar a própria irracionalidade já reduz seu efeito.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely coloca \"Reconhecer o viés é o primeiro passo\" no centro de dinheiro, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ariely conclui que só observar a própria irracionalidade já reduz seu efeito — traduzido para a prática, é o passo concreto que liga a teoria de Dan Ariely ao comportamento diário.",
+          "Ignorar \"Reconhecer o viés é o primeiro passo\" é o erro mais comum de quem consome dinheiro sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -24695,6 +24767,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Por que o grátis nos seduz e nos faz escolhas piores.",
             "f": "Na visão de Dan Ariely, \"armadilha.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
             "real": false
+          },
+          {
+            "t": "O Custo Zero",
+            "e": "Por que o grátis nos seduz e nos faz escolhas piores.",
+            "f": "Na visão de Dan Ariely, o Custo Zero é o ponto central deste capítulo de \"Previsivelmente Irracional\".",
+            "real": false
           }
         ]
       },
@@ -24712,6 +24790,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Referência.",
             "e": "Como o primeiro preço vista vira referência.",
             "f": "Na visão de Dan Ariely, \"referência.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "O Efeito Âncora",
+            "e": "Como o primeiro preço vista vira referência.",
+            "f": "Na visão de Dan Ariely, o Efeito Âncora é o ponto central deste capítulo de \"Previsivelmente Irracional\".",
             "real": false
           }
         ]
@@ -24731,6 +24815,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Decidimos por comparação, não por valor absoluto.",
             "f": "Na visão de Dan Ariely, \"contexto.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
             "real": false
+          },
+          {
+            "t": "A Relatividade",
+            "e": "Decidimos por comparação, não por valor absoluto.",
+            "f": "Na visão de Dan Ariely, a Relatividade é o ponto central deste capítulo de \"Previsivelmente Irracional\".",
+            "real": false
           }
         ]
       },
@@ -24748,6 +24838,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Apego.",
             "e": "Possuir algo infla seu valor subjetivo.",
             "f": "Na visão de Dan Ariely, \"apego.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "O Efeito do Proprietário",
+            "e": "Possuir algo infla seu valor subjetivo.",
+            "f": "Na visão de Dan Ariely, o Efeito do Proprietário é o ponto central deste capítulo de \"Previsivelmente Irracional\".",
             "real": false
           }
         ]
@@ -24767,6 +24863,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Preferência pelo prazer imediato e falta de autocontrole.",
             "f": "Na visão de Dan Ariely, \"futuro.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
             "real": false
+          },
+          {
+            "t": "Procrastinação",
+            "e": "Preferência pelo prazer imediato e falta de autocontrole.",
+            "f": "Na visão de Dan Ariely, procrastinação é o ponto central deste capítulo de \"Previsivelmente Irracional\".",
+            "real": false
           }
         ]
       },
@@ -24784,6 +24886,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Percepção.",
             "e": "Crença e preço alteram a percepção de prazer.",
             "f": "Na visão de Dan Ariely, \"percepção.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "Expectativa",
+            "e": "Crença e preço alteram a percepção de prazer.",
+            "f": "Na visão de Dan Ariely, expectativa é o ponto central deste capítulo de \"Previsivelmente Irracional\".",
             "real": false
           }
         ]
@@ -24803,6 +24911,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Misturar dinheiro e afeto destrói generosidade.",
             "f": "Na visão de Dan Ariely, \"dinheiro.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
             "real": false
+          },
+          {
+            "t": "Normas Sociais vs Mercado",
+            "e": "Misturar dinheiro e afeto destrói generosidade.",
+            "f": "Na visão de Dan Ariely, normas Sociais vs Mercado é o ponto central deste capítulo de \"Previsivelmente Irracional\".",
+            "real": false
           }
         ]
       },
@@ -24820,6 +24934,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Defesa.",
             "e": "Reconhecer vieses para proteger escolhas.",
             "f": "Na visão de Dan Ariely, \"defesa.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "Decidir Melhor",
+            "e": "Reconhecer vieses para proteger escolhas.",
+            "f": "Na visão de Dan Ariely, decidir Melhor é o ponto central deste capítulo de \"Previsivelmente Irracional\".",
             "real": false
           }
         ]
@@ -24843,12 +24963,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Plano de 60 páginas é essencial",
-        "text": "Kawasaki defende ação rápida e pitch enxuto, não documento pesado.",
-        "reflection": "Você escreve ou executa?"
-      },
-      {
         "type": "truth",
         "title": "Encantar clientes é o ponto",
         "text": "O produto deve encantar, não apenas funcionar.",
@@ -24856,9 +24970,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Missão longa importa",
-        "text": "Ele prefere um \"mantra\" curto e memorável à missão burocrática.",
-        "reflection": "Sua equipe repete o mantra ou ignora a missão?"
+        "title": "Plano de 60 páginas é essencial",
+        "text": "Kawasaki defende ação rápida e pitch enxuto, não documento pesado.",
+        "reflection": "Você escreve ou executa?"
       },
       {
         "type": "truth",
@@ -24868,9 +24982,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Investidor resolve tudo",
-        "text": "Bootstrapping e foco no cliente valem mais que capital externo cedo.",
-        "reflection": "Você corre atrás de dinheiro ou de cliente?"
+        "title": "Missão longa importa",
+        "text": "Ele prefere um \"mantra\" curto e memorável à missão burocrática.",
+        "reflection": "Sua equipe repete o mantra ou ignora a missão?"
       },
       {
         "type": "truth",
@@ -24880,9 +24994,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Contratar por currículo",
-        "text": "Kawasaki sugere o \"índice de bunda\": contrate quem se encaixa na cultura.",
-        "reflection": "Você contrata CV ou encaixe?"
+        "title": "Investidor resolve tudo",
+        "text": "Bootstrapping e foco no cliente valem mais que capital externo cedo.",
+        "reflection": "Você corre atrás de dinheiro ou de cliente?"
       },
       {
         "type": "truth",
@@ -24892,9 +25006,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Pivotar é fracasso",
-        "text": "Saber quando fugir é habilidade, não derrota.",
-        "reflection": "Você insiste ou pivota na hora certa?"
+        "title": "Contratar por currículo",
+        "text": "Kawasaki sugere o \"índice de bunda\": contrate quem se encaixa na cultura.",
+        "reflection": "Você contrata CV ou encaixe?"
       },
       {
         "type": "truth",
@@ -24904,9 +25018,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Modelo vem primeiro",
-        "text": "O encantamento antecede e molda o modelo de negócio.",
-        "reflection": "Você desenha modelo antes de encantar?"
+        "title": "Pivotar é fracasso",
+        "text": "Saber quando fugir é habilidade, não derrota.",
+        "reflection": "Você insiste ou pivota na hora certa?"
       },
       {
         "type": "truth",
@@ -24916,9 +25030,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Modelo vem primeiro",
+        "text": "O encantamento antecede e molda o modelo de negócio.",
+        "reflection": "Você desenha modelo antes de encantar?"
+      },
+      {
+        "type": "truth",
+        "title": "Criar arte importa mais que plano de negócios perfeito",
+        "text": "Kawasaki prega o produto minimamente adorável e a iteração rápida em vez de prognósticos longos.",
+        "reflection": "Você está planejando o lançamento ou adiando-o com planilhas?"
+      },
+      {
+        "type": "myth",
         "title": "Grana compra tração",
         "text": "Tração vem de valor percebido, não de orçamento de marketing.",
         "reflection": "Você compra atenção ou a conquista?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Artista da Startup resiste ao senso comum",
+        "text": "Em \"O Artista da Startup\", Guy Kawasaki sustenta que the art of the start 2 — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "The Art of the Start 2.0 (2015) é o guia atualizado de Guy Kawasaki para lançar e crescer startups, baseado em sua experiência como evangelista da Apple. O gancho central é que empreender não é sobre planos de 60 páginas, e sim sobre \"encantar\" clientes e avançar com pouco. Kawasaki organiza o livro em dez áreas: abertura (posicionamento, storytelling, \"social media\" e \"grito de guerra\"), posicionamento (\"para quem, que faz o quê, melhor que\"), arremesso (o pitch de 10/20/30 — 10 slides, 20 minutos, fonte 30), emprego de princípios (contratar \"índice de bunda\", buscar \"coração de macaco\"), arrecadação (bootstrapping e investidores), relacionamento (social media como diálogo), clique (marketing digital), mistura (modelo de negócio), chuva (parcerias) e fuga (quando pivotar ou desistir). Ele defende o \"mantra\" em vez de missão longa e o \"evangelismo\" como forma de criar apaixonados. O tom é irreverente e prático, com ênfase em ação sobre análise paralisante.",
@@ -24939,28 +25071,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Não escreva uma missão de sessenta palavras; crie um mantra.",
         "autor": "Guy Kawasaki",
         "obra": "The Art of the Start 2.0"
-      },
-      {
-        "texto": "Empreender é uma atitude de quem avança com pouco.",
-        "autor": "Guy Kawasaki",
-        "obra": "The Art of the Start 2.0"
-      },
-      {
-        "texto": "Saber quando parar é tão importante quanto saber começar.",
-        "autor": "Guy Kawasaki",
-        "obra": "The Art of the Start 2.0"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Prático e divertido; li antes de abrir minha startup.",
-        "autor": "Empreendedor",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Alguns exemplos datados, mas o núcleo é ouro.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -24976,9 +25098,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina posicionamento",
         "text": "Para quem, que faz o quê, melhor que quem.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Defina posicionamento\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Para quem, que faz o quê, melhor que quem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina posicionamento\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Defina posicionamento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Para quem, que faz o quê, melhor que quem — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Defina posicionamento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24986,9 +25108,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie um mantra",
         "text": "Frases curtas guiam a equipe melhor que missão longa.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Crie um mantra\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Frases curtas guiam a equipe melhor que missão longa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie um mantra\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Crie um mantra\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Frases curtas guiam a equipe melhor que missão longa — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Crie um mantra\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -24996,9 +25118,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Monte pitch 10/20/30",
         "text": "Clareza e respeito ao tempo do investidor.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Monte pitch 10/20/30\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Clareza e respeito ao tempo do investidor — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Monte pitch 10/20/30\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Monte pitch 10/20/30\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Clareza e respeito ao tempo do investidor — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Monte pitch 10/20/30\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25006,9 +25128,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Encante o cliente",
         "text": "Vá além da satisfação para gerar apaixonados.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Encante o cliente\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Vá além da satisfação para gerar apaixonados — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Encante o cliente\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Encante o cliente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vá além da satisfação para gerar apaixonados — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Encante o cliente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25016,9 +25138,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Contrate por encaixe",
         "text": "Busque cultura e atitude, não só currículo.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Contrate por encaixe\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Busque cultura e atitude, não só currículo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Contrate por encaixe\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Contrate por encaixe\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Busque cultura e atitude, não só currículo — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Contrate por encaixe\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25026,9 +25148,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use social como diálogo",
         "text": "Converse, não apenas anuncie.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Use social como diálogo\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Converse, não apenas anuncie — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use social como diálogo\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Use social como diálogo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Converse, não apenas anuncie — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Use social como diálogo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25036,9 +25158,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Bootstrap quando possível",
         "text": "Capital externo cedo nem sempre ajuda.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Bootstrap quando possível\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Capital externo cedo nem sempre ajuda — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Bootstrap quando possível\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Bootstrap quando possível\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Capital externo cedo nem sempre ajuda — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Bootstrap quando possível\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25046,9 +25168,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque parcerias",
         "text": "\"Chuva\" de aliados acelera sem custo alto.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Busque parcerias\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: \"Chuva\" de aliados acelera sem custo alto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque parcerias\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Busque parcerias\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "\"Chuva\" de aliados acelera sem custo alto — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Busque parcerias\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25056,9 +25178,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Saiba pivotar",
         "text": "Reconheça quando fugir ou mudar o jogo.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Saiba pivotar\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Reconheça quando fugir ou mudar o jogo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Saiba pivotar\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Saiba pivotar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça quando fugir ou mudar o jogo — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Saiba pivotar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25066,9 +25188,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evangelize",
         "text": "Transforme usuários em divulgadores.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Evangelize\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Transforme usuários em divulgadores — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evangelize\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Evangelize\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Transforme usuários em divulgadores — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Evangelize\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25076,9 +25198,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque na dor real",
         "text": "Resolva o problema do cliente, não sua ideia.",
         "explicacoes": [
-          "Em \"O Artista da Startup\", Guy Kawasaki trata \"Foque na dor real\" como peça-chave em torno de encantar o cliente e empreender com atitude.",
-          "Na prática: Resolva o problema do cliente, não sua ideia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque na dor real\" aplica encantar o cliente e empreender com atitude de forma concreta, não apenas como conceito."
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Foque na dor real\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Resolva o problema do cliente, não sua ideia — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Foque na dor real\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Evangelize, não venda",
+        "text": "Kawasaki defende espalhar uma causa em que se acredita em vez de empurrar produto.",
+        "explicacoes": [
+          "Em \"O Artista da Startup\", Guy Kawasaki coloca \"Evangelize, não venda\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Kawasaki defende espalhar uma causa em que se acredita em vez de empurrar produto — traduzido para a prática, é o passo concreto que liga a teoria de Guy Kawasaki ao comportamento diário.",
+          "Ignorar \"Evangelize, não venda\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -25112,6 +25244,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Posicionamento, storytelling e grito de guerra da startup.",
             "f": "Na visão de Guy Kawasaki, \"história.\" é parte essencial da proposta de \"O Artista da Startup\".",
             "real": false
+          },
+          {
+            "t": "Abertura",
+            "e": "Posicionamento, storytelling e grito de guerra da startup.",
+            "f": "Na visão de Guy Kawasaki, abertura é o ponto central deste capítulo de \"O Artista da Startup\".",
+            "real": false
           }
         ]
       },
@@ -25129,6 +25267,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Diferencial.",
             "e": "Para quem, que faz o quê, melhor que quem.",
             "f": "Na visão de Guy Kawasaki, \"diferencial.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Posicionamento",
+            "e": "Para quem, que faz o quê, melhor que quem.",
+            "f": "Na visão de Guy Kawasaki, posicionamento é o ponto central deste capítulo de \"O Artista da Startup\".",
             "real": false
           }
         ]
@@ -25148,6 +25292,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O pitch 10/20/30 e como apresentar bem.",
             "f": "Na visão de Guy Kawasaki, \"clareza.\" é parte essencial da proposta de \"O Artista da Startup\".",
             "real": false
+          },
+          {
+            "t": "O Arremesso",
+            "e": "O pitch 10/20/30 e como apresentar bem.",
+            "f": "Na visão de Guy Kawasaki, o Arremesso é o ponto central deste capítulo de \"O Artista da Startup\".",
+            "real": false
           }
         ]
       },
@@ -25165,6 +25315,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Time.",
             "e": "Contratar por encaixe e atitude.",
             "f": "Na visão de Guy Kawasaki, \"time.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Emprego de Princípios",
+            "e": "Contratar por encaixe e atitude.",
+            "f": "Na visão de Guy Kawasaki, emprego de Princípios é o ponto central deste capítulo de \"O Artista da Startup\".",
             "real": false
           }
         ]
@@ -25184,6 +25340,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Bootstrapping e quando buscar investidor.",
             "f": "Na visão de Guy Kawasaki, \"sustento.\" é parte essencial da proposta de \"O Artista da Startup\".",
             "real": false
+          },
+          {
+            "t": "Arrecadação",
+            "e": "Bootstrapping e quando buscar investidor.",
+            "f": "Na visão de Guy Kawasaki, arrecadação é o ponto central deste capítulo de \"O Artista da Startup\".",
+            "real": false
           }
         ]
       },
@@ -25201,6 +25363,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Conversa.",
             "e": "Social media como diálogo, não outdoor.",
             "f": "Na visão de Guy Kawasaki, \"conversa.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Relacionamento",
+            "e": "Social media como diálogo, não outdoor.",
+            "f": "Na visão de Guy Kawasaki, relacionamento é o ponto central deste capítulo de \"O Artista da Startup\".",
             "real": false
           }
         ]
@@ -25220,6 +25388,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Desenhar o modelo de negócio após encantar.",
             "f": "Na visão de Guy Kawasaki, \"receita.\" é parte essencial da proposta de \"O Artista da Startup\".",
             "real": false
+          },
+          {
+            "t": "Mistura",
+            "e": "Desenhar o modelo de negócio após encantar.",
+            "f": "Na visão de Guy Kawasaki, mistura é o ponto central deste capítulo de \"O Artista da Startup\".",
+            "real": false
           }
         ]
       },
@@ -25237,6 +25411,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Sair.",
             "e": "Saber pivotar ou encerrar na hora certa.",
             "f": "Na visão de Guy Kawasaki, \"sair.\" é parte essencial da proposta de \"O Artista da Startup\".",
+            "real": false
+          },
+          {
+            "t": "Fuga",
+            "e": "Saber pivotar ou encerrar na hora certa.",
+            "f": "Na visão de Guy Kawasaki, fuga é o ponto central deste capítulo de \"O Artista da Startup\".",
             "real": false
           }
         ]
@@ -25260,12 +25440,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Pensar resolve tudo",
-        "text": "Tolle mostra que a mente em loop raramente traz paz, só mais pensamento.",
-        "reflection": "Você pensa para resolver ou para evitar sentir?"
-      },
-      {
         "type": "truth",
         "title": "O agora é tudo",
         "text": "Passado e futuro existem só como pensamento; o corpo vive no presente.",
@@ -25273,9 +25447,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudar externo traz paz",
-        "text": "Circunstâncias melhoram, mas a mente recria inquietação sem presença.",
-        "reflection": "Você busca paz em coisas ou em estado?"
+        "title": "Pensar resolve tudo",
+        "text": "Tolle mostra que a mente em loop raramente traz paz, só mais pensamento.",
+        "reflection": "Você pensa para resolver ou para evitar sentir?"
       },
       {
         "type": "truth",
@@ -25285,9 +25459,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Dor é só física",
-        "text": "A \"dor do corpo\" emocional não processada se alimenta de mais sofrimento.",
-        "reflection": "Sua dor tem raiz emocional não vista?"
+        "title": "Mudar externo traz paz",
+        "text": "Circunstâncias melhoram, mas a mente recria inquietação sem presença.",
+        "reflection": "Você busca paz em coisas ou em estado?"
       },
       {
         "type": "truth",
@@ -25297,9 +25471,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Espírito é religião",
-        "text": "Tolle fala de presença consciente, não de doutrina religiosa.",
-        "reflection": "Você associa presença a crença ou a atenção?"
+        "title": "Dor é só física",
+        "text": "A \"dor do corpo\" emocional não processada se alimenta de mais sofrimento.",
+        "reflection": "Sua dor tem raiz emocional não vista?"
       },
       {
         "type": "truth",
@@ -25309,9 +25483,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Eu sou meus pensamentos",
-        "text": "A essência precede o conteúdo mental passageiro.",
-        "reflection": "Você se confunde com a voz da cabeça?"
+        "title": "Espírito é religião",
+        "text": "Tolle fala de presença consciente, não de doutrina religiosa.",
+        "reflection": "Você associa presença a crença ou a atenção?"
       },
       {
         "type": "truth",
@@ -25321,9 +25495,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tempo cura",
-        "text": "O tempo psicológico alimenta a dor; presença é que cura.",
-        "reflection": "Você espera o tempo curar ou atua agora?"
+        "title": "Eu sou meus pensamentos",
+        "text": "A essência precede o conteúdo mental passageiro.",
+        "reflection": "Você se confunde com a voz da cabeça?"
       },
       {
         "type": "truth",
@@ -25333,9 +25507,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Tempo cura",
+        "text": "O tempo psicológico alimenta a dor; presença é que cura.",
+        "reflection": "Você espera o tempo curar ou atua agora?"
+      },
+      {
+        "type": "truth",
+        "title": "O sofrimento nasce da identificação com o pensamento",
+        "text": "Tolle ensina que o poder do agora é desidentificar-se da mente e habitar o momento presente.",
+        "reflection": "Quanto do seu mal-estar é uma história que você repete na cabeça?"
+      },
+      {
+        "type": "myth",
         "title": "Focar no problema ajuda",
         "text": "Rotular e analisar a dor frequentemente a amplia.",
         "reflection": "Você analisa a dor ou a observe com aceitação?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Poder do Agora resiste ao senso comum",
+        "text": "Em \"O Poder do Agora\", Eckhart Tolle sustenta que the power of now (1997) é o livro espiritual de eckhart tolle que convida o leitor a libertar-se da \"identificação com a mente pensante\" e a habitar plenamente o presente — o \"agora\" — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "The Power of Now (1997) é o livro espiritual de Eckhart Tolle que convida o leitor a libertar-se da \"identificação com a mente pensante\" e a habitar plenamente o presente — o \"Agora\". O gancho central é que a maior parte do sofrimento humano nasce do tempo psicológico: a mente revivendo o passado ou projetando o futuro, enquanto o corpo vive sempre no agora. Tolle distingue o \"você\" essencial da \"dor do corpo\" (pain-body) — a acumulação de emoções negativas não processadas que se alimenta de mais sofrimento. Ele propõe práticas de presença: observar o pensamento sem se tornar ele, sentir o corpo, aceitar o momento presente como ele é (não-resistência) e usar o silêncio. A tese é que a paz não se encontra em circunstâncias futuras, mas no alinhamento com o que já é. Embora use linguagem espiritual (não religiosa), o livro dialoga com mindfulness e neurociência da atenção, sendo um dos mais influentes da autoajuda contemporânea.",
@@ -25356,16 +25548,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Você não é seus pensamentos; é quem os observa.",
         "autor": "Eckhart Tolle",
         "obra": "The Power of Now"
-      },
-      {
-        "texto": "A aceitação do momento presente dissolve o sofrimento interno.",
-        "autor": "Eckhart Tolle",
-        "obra": "The Power of Now"
-      },
-      {
-        "texto": "A mente é uma ferramenta excelente, mas um mestre terrível.",
-        "autor": "Eckhart Tolle",
-        "obra": "The Power of Now"
       }
     ],
     "citacoesTerceiros": [
@@ -25377,7 +25559,7 @@ window.MEU_BOLSO_BOOKS=[
       {
         "texto": "Profundo mas exige paciência; não é autoajuda rápida.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -25393,9 +25575,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Habit o agora",
         "text": "Traga a atenção repetidamente ao presente.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Habit o agora\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: Traga a atenção repetidamente ao presente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Habit o agora\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Habit o agora\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Traga a atenção repetidamente ao presente — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Habit o agora\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25403,9 +25585,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Observe pensamentos",
         "text": "Veja o pensamento como objeto, não como verdade.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Observe pensamentos\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: Veja o pensamento como objeto, não como verdade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Observe pensamentos\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Observe pensamentos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Veja o pensamento como objeto, não como verdade — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Observe pensamentos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25413,9 +25595,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sinta o corpo",
         "text": "Use a atenção corporal para ancorar no presente.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Sinta o corpo\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: Use a atenção corporal para ancorar no presente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sinta o corpo\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Sinta o corpo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use a atenção corporal para ancorar no presente — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Sinta o corpo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25423,9 +25605,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique não-resistência",
         "text": "Aceite o momento como ele é para dissipar conflito.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Pratique não-resistência\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: Aceite o momento como ele é para dissipar conflito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique não-resistência\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Pratique não-resistência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aceite o momento como ele é para dissipar conflito — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Pratique não-resistência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25433,9 +25615,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Identifique a dor do corpo",
         "text": "Reconheça emoção acumulada sem se fundir a ela.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Identifique a dor do corpo\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: Reconheça emoção acumulada sem se fundir a ela — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Identifique a dor do corpo\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Identifique a dor do corpo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça emoção acumulada sem se fundir a ela — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Identifique a dor do corpo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25443,9 +25625,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive silêncio",
         "text": "Reserve espaço sem ruído mental diariamente.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Cultive silêncio\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: Reserve espaço sem ruído mental diariamente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive silêncio\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Cultive silêncio\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reserve espaço sem ruído mental diariamente — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Cultive silêncio\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25453,9 +25635,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Separe eu de pensamento",
         "text": "Lembre-se de que a essência precede a mente.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Separe eu de pensamento\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: Lembre-se de que a essência precede a mente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Separe eu de pensamento\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Separe eu de pensamento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Lembre-se de que a essência precede a mente — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Separe eu de pensamento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25463,9 +25645,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o que é",
         "text": "A luta interna some quando o presente é aceito.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Aceite o que é\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: A luta interna some quando o presente é aceito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o que é\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Aceite o que é\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A luta interna some quando o presente é aceito — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Aceite o que é\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25473,9 +25655,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reduza o tempo psicológico",
         "text": "Menos projeção futura, mais presença.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Reduza o tempo psicológico\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: Menos projeção futura, mais presença — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reduza o tempo psicológico\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Reduza o tempo psicológico\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Menos projeção futura, mais presença — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Reduza o tempo psicológico\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25483,9 +25665,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a respiração",
         "text": "Respirar consciente retorna ao agora.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Use a respiração\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: Respirar consciente retorna ao agora — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a respiração\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Use a respiração\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Respirar consciente retorna ao agora — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Use a respiração\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25493,9 +25675,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque a paz interior",
         "text": "A paz é estado, não consequência de eventos.",
         "explicacoes": [
-          "Em \"O Poder do Agora\", Eckhart Tolle trata \"Busque a paz interior\" como peça-chave para a presença no agora como caminho da paz interior.",
-          "Na prática: A paz é estado, não consequência de eventos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque a paz interior\" aplica a presença no agora como caminho da paz interior de forma concreta, não apenas como conceito."
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Busque a paz interior\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A paz é estado, não consequência de eventos — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Busque a paz interior\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Aceitar o que é abre a ação certa",
+        "text": "Tolle ensina que resistir ao presente gera sofrimento; aceitar libera energia para mudar.",
+        "explicacoes": [
+          "Em \"O Poder do Agora\", Eckhart Tolle coloca \"Aceitar o que é abre a ação certa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tolle ensina que resistir ao presente gera sofrimento; aceitar libera energia para mudar — traduzido para a prática, é o passo concreto que liga a teoria de Eckhart Tolle ao comportamento diário.",
+          "Ignorar \"Aceitar o que é abre a ação certa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -25529,6 +25721,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Tolle separa a essência do pensamento automático.",
             "f": "A mente é uma ferramenta excelente, mas um mestre terrível.",
             "real": true
+          },
+          {
+            "t": "Você Não é sua Mente",
+            "e": "Tolle separa a essência do pensamento automático.",
+            "f": "Na visão de Eckhart Tolle, você Não é sua Mente é o ponto central deste capítulo de \"O Poder do Agora\".",
+            "real": false
           }
         ]
       },
@@ -25546,6 +25744,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Realidade.",
             "e": "O presente como única realidade vivível.",
             "f": "Na visão de Eckhart Tolle, \"realidade.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          },
+          {
+            "t": "A Consciência do Agora",
+            "e": "O presente como única realidade vivível.",
+            "f": "Na visão de Eckhart Tolle, a Consciência do Agora é o ponto central deste capítulo de \"O Poder do Agora\".",
             "real": false
           }
         ]
@@ -25565,6 +25769,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Emoções não processadas que se alimentam de sofrimento.",
             "f": "Na visão de Eckhart Tolle, \"emoção.\" é parte essencial da proposta de \"O Poder do Agora\".",
             "real": false
+          },
+          {
+            "t": "A Dor do Corpo",
+            "e": "Emoções não processadas que se alimentam de sofrimento.",
+            "f": "Na visão de Eckhart Tolle, a Dor do Corpo é o ponto central deste capítulo de \"O Poder do Agora\".",
+            "real": false
           }
         ]
       },
@@ -25582,6 +25792,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Prática.",
             "e": "Práticas de presença e observação.",
             "f": "Na visão de Eckhart Tolle, \"prática.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          },
+          {
+            "t": "Entrar no Agora",
+            "e": "Práticas de presença e observação.",
+            "f": "Na visão de Eckhart Tolle, entrar no Agora é o ponto central deste capítulo de \"O Poder do Agora\".",
             "real": false
           }
         ]
@@ -25601,6 +25817,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Aceitar o momento para dissipar conflito.",
             "f": "Na visão de Eckhart Tolle, \"paz.\" é parte essencial da proposta de \"O Poder do Agora\".",
             "real": false
+          },
+          {
+            "t": "O Significado de Não-Resistência",
+            "e": "Aceitar o momento para dissipar conflito.",
+            "f": "Na visão de Eckhart Tolle, o Significado de Não-Resistência é o ponto central deste capítulo de \"O Poder do Agora\".",
+            "real": false
           }
         ]
       },
@@ -25618,6 +25840,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Ilusão.",
             "e": "Como passado e futuro alimentam a inquietação.",
             "f": "Na visão de Eckhart Tolle, \"ilusão.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          },
+          {
+            "t": "O Tempo Psicológico",
+            "e": "Como passado e futuro alimentam a inquietação.",
+            "f": "Na visão de Eckhart Tolle, o Tempo Psicológico é o ponto central deste capítulo de \"O Poder do Agora\".",
             "real": false
           }
         ]
@@ -25637,6 +25865,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Acessar a clareza além do conteúdo mental.",
             "f": "Na visão de Eckhart Tolle, \"ser.\" é parte essencial da proposta de \"O Poder do Agora\".",
             "real": false
+          },
+          {
+            "t": "O Estado de Presença",
+            "e": "Acessar a clareza além do conteúdo mental.",
+            "f": "Na visão de Eckhart Tolle, o Estado de Presença é o ponto central deste capítulo de \"O Poder do Agora\".",
+            "real": false
           }
         ]
       },
@@ -25654,6 +25888,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Caminho.",
             "e": "Integrar presença como forma de vida.",
             "f": "Na visão de Eckhart Tolle, \"caminho.\" é parte essencial da proposta de \"O Poder do Agora\".",
+            "real": false
+          },
+          {
+            "t": "O Caminho da Paz",
+            "e": "Integrar presença como forma de vida.",
+            "f": "Na visão de Eckhart Tolle, o Caminho da Paz é o ponto central deste capítulo de \"O Poder do Agora\".",
             "real": false
           }
         ]
@@ -25677,12 +25917,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Controle gera resultado",
-        "text": "Semler mostra que vigilância excessiva sufoca e desperdiça talento.",
-        "reflection": "Você controla pessoas ou libera competência?"
-      },
-      {
         "type": "truth",
         "title": "Autonomia engaja",
         "text": "Devolver decisão aos funcionários aumenta dono da entrega.",
@@ -25690,9 +25924,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Chefe sabe tudo",
-        "text": "Na Semco, operários avaliam e até removem líderes.",
-        "reflection": "Você acha que só o topo entende o negócio?"
+        "title": "Controle gera resultado",
+        "text": "Semler mostra que vigilância excessiva sufoca e desperdiça talento.",
+        "reflection": "Você controla pessoas ou libera competência?"
       },
       {
         "type": "truth",
@@ -25702,9 +25936,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Uniforme cria respeito",
-        "text": "Sem gravata e dress code, a Semco ganhou mais produtividade.",
-        "reflection": "Você confunde formalidade com bom trabalho?"
+        "title": "Chefe sabe tudo",
+        "text": "Na Semco, operários avaliam e até removem líderes.",
+        "reflection": "Você acha que só o topo entende o negócio?"
       },
       {
         "type": "truth",
@@ -25714,9 +25948,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Crescer é comandar mais",
-        "text": "Mais níveis hierárquicos aumentam ruído, não clareza.",
-        "reflection": "Sua hierarquia ajuda ou atrapalha?"
+        "title": "Uniforme cria respeito",
+        "text": "Sem gravata e dress code, a Semco ganhou mais produtividade.",
+        "reflection": "Você confunde formalidade com bom trabalho?"
       },
       {
         "type": "truth",
@@ -25726,9 +25960,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Saúde vem depois",
-        "text": "A crise de Semler provou que trabalho sem sentido adoece.",
-        "reflection": "Você sacrifica saúde pela empresa?"
+        "title": "Crescer é comandar mais",
+        "text": "Mais níveis hierárquicos aumentam ruído, não clareza.",
+        "reflection": "Sua hierarquia ajuda ou atrapalha?"
       },
       {
         "type": "truth",
@@ -25738,9 +25972,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Regras fixas protegem",
-        "text": "Regras rígidas travam; princípios flexíveis adaptam.",
-        "reflection": "Você tem regras ou princípios?"
+        "title": "Saúde vem depois",
+        "text": "A crise de Semler provou que trabalho sem sentido adoece.",
+        "reflection": "Você sacrifica saúde pela empresa?"
       },
       {
         "type": "truth",
@@ -25750,9 +25984,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Regras fixas protegem",
+        "text": "Regras rígidas travam; princípios flexíveis adaptam.",
+        "reflection": "Você tem regras ou princípios?"
+      },
+      {
+        "type": "truth",
+        "title": "Democracia no trabalho gera donos, não apenas funcionários",
+        "text": "Semler mostra que eliminar hierarquia rígida e dar voz aos colaboradores multiplica engajamento.",
+        "reflection": "Sua equipe obedece ou decide junto?"
+      },
+      {
+        "type": "myth",
         "title": "Engajamento se compra",
         "text": "Sentido e voz valem mais que bônus pontual.",
         "reflection": "Você compra lealdade ou a constrói?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Virando a Própria Mesa resiste ao senso comum",
+        "text": "Em \"Virando a Própria Mesa\", Ricardo Semler sustenta que maverick (1993) é a narrativa de ricardo semler sobre como transformou a semco, empresa brasileira de equipamentos, em um case mundial de democratização radical do trabalho — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Maverick (1993) é a narrativa de Ricardo Semler sobre como transformou a Semco, empresa brasileira de equipamentos, em um case mundial de democratização radical do trabalho. O gancho central é que hierarquias rígidas e controle sufocam pessoas e resultados; ao devolver autonomia, a organização floresce. Semler instituiu horários flexíveis, salários decididos por comitês de funcionários, ausência de dress code, reuniões sem gravata, e o direito dos operários de inspecionar a gestão e até demitir chefes. Ele adotou a \"gestão por exceção\" (só intervém quando algo sai do padrão) e a rotação de líderes. O livro desafia o modelo tradicional de comando-e-controle, provando que confiança e transparência podem conviver com lucro. Escrito em tom irreverente e pessoal, Semler relata também sua própria crise de saúde que o levou a repensar o sentido do trabalho. A lição: organizações saudáveis tratam adultos como adultos Para líderes e profissionais, é uma prova de que confiar nas pessoas, em vez de vigiá-las, libera o melhor de cada um e amplia o desempenho coletivo.",
@@ -25773,28 +26025,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Democratizar o trabalho não afunda a empresa; a fortalece.",
         "autor": "Ricardo Semler",
         "obra": "Maverick"
-      },
-      {
-        "texto": "Regras rígidas travam; princípios flexíveis adaptam.",
-        "autor": "Ricardo Semler",
-        "obra": "Maverick"
-      },
-      {
-        "texto": "O trabalho sem sentido adoece mais que a falta dele.",
-        "autor": "Ricardo Semler",
-        "obra": "Maverick"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Leitura obrigatória para donos de PME no Brasil.",
-        "autor": "Empresário",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Inspirou como repensei minha própria empresa.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -25810,9 +26052,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Devolva autonomia",
         "text": "Deixe a equipe decidir como entregar.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Devolva autonomia\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Deixe a equipe decidir como entregar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Devolva autonomia\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Devolva autonomia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Deixe a equipe decidir como entregar — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Devolva autonomia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25820,9 +26062,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique gestão por exceção",
         "text": "Intervenha só fora do padrão.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Pratique gestão por exceção\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Intervenha só fora do padrão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique gestão por exceção\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Pratique gestão por exceção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Intervenha só fora do padrão — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Pratique gestão por exceção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25830,9 +26072,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abra a transparência",
         "text": "Compartilhe números e critérios de salário.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Abra a transparência\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Compartilhe números e critérios de salário — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abra a transparência\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Abra a transparência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Compartilhe números e critérios de salário — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Abra a transparência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25840,9 +26082,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Elimine dress code",
         "text": "Foco no trabalho, não na aparência.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Elimine dress code\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Foco no trabalho, não na aparência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Elimine dress code\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Elimine dress code\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foco no trabalho, não na aparência — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Elimine dress code\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25850,9 +26092,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Permita horário flexível",
         "text": "Resultado importa mais que presença física.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Permita horário flexível\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Resultado importa mais que presença física — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Permita horário flexível\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Permita horário flexível\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Resultado importa mais que presença física — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Permita horário flexível\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25860,9 +26102,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Deixe inspeções",
         "text": "Funcionários devem poder avaliar a gestão.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Deixe inspeções\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Funcionários devem poder avaliar a gestão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Deixe inspeções\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Deixe inspeções\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Funcionários devem poder avaliar a gestão — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Deixe inspeções\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25870,9 +26112,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trote líderes",
         "text": "Rotação evita vícios de poder e silos.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Trote líderes\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Rotação evita vícios de poder e silos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trote líderes\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Trote líderes\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Rotação evita vícios de poder e silos — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Trote líderes\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25880,9 +26122,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trate adultos como tais",
         "text": "Confiança eleva responsabilidade.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Trate adultos como tais\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Confiança eleva responsabilidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trate adultos como tais\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Trate adultos como tais\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Confiança eleva responsabilidade — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Trate adultos como tais\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25890,9 +26132,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Repense o sentido",
         "text": "Trabalho precisa nutrir, não só remunerar.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Repense o sentido\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Trabalho precisa nutrir, não só remunerar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Repense o sentido\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Repense o sentido\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trabalho precisa nutrir, não só remunerar — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Repense o sentido\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25900,9 +26142,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Menuse regras",
         "text": "Princípios flexíveis adaptam melhor.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Menuse regras\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Princípios flexíveis adaptam melhor — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Menuse regras\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Menuse regras\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Princípios flexíveis adaptam melhor — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Menuse regras\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -25910,9 +26152,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Una lucro e liberdade",
         "text": "Democratizar pode ser vantagem competitiva.",
         "explicacoes": [
-          "Em \"Virando a Própria Mesa\", Ricardo Semler trata \"Una lucro e liberdade\" como peça-chave para a gestão democrática e a confiança nos adultos.",
-          "Na prática: Democratizar pode ser vantagem competitiva — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Una lucro e liberdade\" aplica a gestão democrática e a confiança nos adultos de forma concreta, não apenas como conceito."
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Una lucro e liberdade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Democratizar pode ser vantagem competitiva — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Una lucro e liberdade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Confie nas pessoas e elas crescem",
+        "text": "Semler mostra que autonomia radical converte funcionário em sócio do resultado.",
+        "explicacoes": [
+          "Em \"Virando a Própria Mesa\", Ricardo Semler coloca \"Confie nas pessoas e elas crescem\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Semler mostra que autonomia radical converte funcionário em sócio do resultado — traduzido para a prática, é o passo concreto que liga a teoria de Ricardo Semler ao comportamento diário.",
+          "Ignorar \"Confie nas pessoas e elas crescem\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -25946,6 +26198,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Semler herda a Semco e decide mudar tudo.",
             "f": "Na visão de Ricardo Semler, \"mudança.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
             "real": false
+          },
+          {
+            "t": "A Virada",
+            "e": "Semler herda a Semco e decide mudar tudo.",
+            "f": "Na visão de Ricardo Semler, a Virada é o ponto central deste capítulo de \"Virando a Própria Mesa\".",
+            "real": false
           }
         ]
       },
@@ -25964,6 +26222,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O alerta que o fez repensar o sentido do trabalho.",
             "f": "O trabalho sem sentido adoece mais que a falta dele.",
             "real": true
+          },
+          {
+            "t": "A Crise de Saúde",
+            "e": "O alerta que o fez repensar o sentido do trabalho.",
+            "f": "Na visão de Ricardo Semler, a Crise de Saúde é o ponto central deste capítulo de \"Virando a Própria Mesa\".",
+            "real": false
           }
         ]
       },
@@ -25981,6 +26245,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Confiança.",
             "e": "Fim de dress code e jornadas flexíveis.",
             "f": "Na visão de Ricardo Semler, \"confiança.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          },
+          {
+            "t": "Horários e Roupas",
+            "e": "Fim de dress code e jornadas flexíveis.",
+            "f": "Na visão de Ricardo Semler, horários e Roupas é o ponto central deste capítulo de \"Virando a Própria Mesa\".",
             "real": false
           }
         ]
@@ -26000,6 +26270,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Comitês de funcionários definem remuneração.",
             "f": "Na visão de Ricardo Semler, \"equidade.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
             "real": false
+          },
+          {
+            "t": "Salários Abertos",
+            "e": "Comitês de funcionários definem remuneração.",
+            "f": "Na visão de Ricardo Semler, salários Abertos é o ponto central deste capítulo de \"Virando a Própria Mesa\".",
+            "real": false
           }
         ]
       },
@@ -26017,6 +26293,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Liberdade.",
             "e": "Líder intervém só no fora do padrão.",
             "f": "Na visão de Ricardo Semler, \"liberdade.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          },
+          {
+            "t": "Gestão por Exceção",
+            "e": "Líder intervém só no fora do padrão.",
+            "f": "Na visão de Ricardo Semler, gestão por Exceção é o ponto central deste capítulo de \"Virando a Própria Mesa\".",
             "real": false
           }
         ]
@@ -26036,6 +26318,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Operários avaliam e removem líderes.",
             "f": "Na visão de Ricardo Semler, \"voz.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
             "real": false
+          },
+          {
+            "t": "Inspeções",
+            "e": "Operários avaliam e removem líderes.",
+            "f": "Na visão de Ricardo Semler, inspeções é o ponto central deste capítulo de \"Virando a Própria Mesa\".",
+            "real": false
           }
         ]
       },
@@ -26054,6 +26342,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Líderes rotativos evitam vícios de poder.",
             "f": "Na visão de Ricardo Semler, \"visão.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
             "real": false
+          },
+          {
+            "t": "Rotação",
+            "e": "Líderes rotativos evitam vícios de poder.",
+            "f": "Na visão de Ricardo Semler, rotação é o ponto central deste capítulo de \"Virando a Própria Mesa\".",
+            "real": false
           }
         ]
       },
@@ -26071,6 +26365,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Resultado.",
             "e": "Unir lucro, autonomia e sentido.",
             "f": "Na visão de Ricardo Semler, \"resultado.\" é parte essencial da proposta de \"Virando a Própria Mesa\".",
+            "real": false
+          },
+          {
+            "t": "A Empresa Democrática",
+            "e": "Unir lucro, autonomia e sentido.",
+            "f": "Na visão de Ricardo Semler, a Empresa Democrática é o ponto central deste capítulo de \"Virando a Própria Mesa\".",
             "real": false
           }
         ]
@@ -26094,12 +26394,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Sucesso é só mérito",
-        "text": "Gladwell mostra que oportunidade e contexto pesam tanto quanto esforço.",
-        "reflection": "Você atribui tudo a mérito ou reconhece contexto?"
-      },
-      {
         "type": "truth",
         "title": "10.000 horas importam",
         "text": "Prática deliberada sustenta a excelência, mas precisa de acesso.",
@@ -26107,9 +26401,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Gênio nasce pronto",
-        "text": "Outliers tiveram janelas raras de prática e apoio.",
-        "reflection": "Você acha que os grandes nasceram prontos?"
+        "title": "Sucesso é só mérito",
+        "text": "Gladwell mostra que oportunidade e contexto pesam tanto quanto esforço.",
+        "reflection": "Você atribui tudo a mérito ou reconhece contexto?"
       },
       {
         "type": "truth",
@@ -26119,9 +26413,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mês de nascimento é irrelevante",
-        "text": "O \"efeito de parcela\" privilegia quem nasce cedo no corte.",
-        "reflection": "Sua data de corte favoreceu ou prejudicou você?"
+        "title": "Gênio nasce pronto",
+        "text": "Outliers tiveram janelas raras de prática e apoio.",
+        "reflection": "Você acha que os grandes nasceram prontos?"
       },
       {
         "type": "truth",
@@ -26131,9 +26425,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Riqueza garante filhos",
-        "text": "Crianças de elite às vezes perdem autonomia e fogo interno.",
-        "reflection": "Dinheiro garante motivação dos filhos?"
+        "title": "Mês de nascimento é irrelevante",
+        "text": "O \"efeito de parcela\" privilegia quem nasce cedo no corte.",
+        "reflection": "Sua data de corte favoreceu ou prejudicou você?"
       },
       {
         "type": "truth",
@@ -26143,9 +26437,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Talento dispensa acesso",
-        "text": "Sem recurso e mentoria, talento frequentemente morre.",
-        "reflection": "Talento seu teve portas abertas?"
+        "title": "Riqueza garante filhos",
+        "text": "Crianças de elite às vezes perdem autonomia e fogo interno.",
+        "reflection": "Dinheiro garante motivação dos filhos?"
       },
       {
         "type": "truth",
@@ -26155,9 +26449,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Esforço individual basta",
-        "text": "O contexto familiar e escolar é decisivo e frequentemente invisível.",
-        "reflection": "Você enxerga o contexto por trás do esforço?"
+        "title": "Talento dispensa acesso",
+        "text": "Sem recurso e mentoria, talento frequentemente morre.",
+        "reflection": "Talento seu teve portas abertas?"
       },
       {
         "type": "truth",
@@ -26167,9 +26461,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Esforço individual basta",
+        "text": "O contexto familiar e escolar é decisivo e frequentemente invisível.",
+        "reflection": "Você enxerga o contexto por trás do esforço?"
+      },
+      {
+        "type": "truth",
+        "title": "Sucesso é fruto de acúmulo, não só de talento isolado",
+        "text": "Gladwell argumenta que 10 mil horas, oportunidade e herança pesam tanto quanto o dom.",
+        "reflection": "Você atribui suas vitórias só a mérito e suas derrotas só a azar?"
+      },
+      {
+        "type": "myth",
         "title": "Mérito puro existe",
         "text": "A meritocracia pura ignora as bases sistêmicas do resultado.",
         "reflection": "Você defende mérito sem ver a base?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Outliers: A História do Sucesso resiste ao senso comum",
+        "text": "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell sustenta que outliers (2008) desconstrói a ideia de que o sucesso é puramente individual e merecido — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Outliers (2008) desconstrói a ideia de que o sucesso é puramente individual e merecido. Malcolm Gladwell mostra que \"outliers\" — os extremamente bem-sucedidos — raramente chegam sozinhos; eles são produto de uma confluência de fatores: a \"regra das 10.000 horas\" de prática deliberada, a oportunidade histórica e cultural, a herança familiar e até o mês de nascimento. O gancho central é que a sociedade adora a narrativa do gênio solitário, mas a realidade é sistêmica: Bill Gates teve acesso raro a um computador em 1968; os Beatles tocaram 1.200 noites em Hamburgo; a cultura agrícola de arroz asiática explica o desempenho em matemática. Gladwell discute ainda o \"efeito de parcela\" (o mês de corte que privilegia quem nasce no início do ano em esportes) e a \"vantagem acumulada\". O livro é um alerta contra o mito do mérito puro e um apelo a criar sistemas que distribuam oportunidades — e a reconhecer a sorte que nos formou.",
@@ -26190,16 +26502,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Pessoas que chegam ao topo quase sempre tiveram uma vantagem inicial.",
         "autor": "Malcolm Gladwell",
         "obra": "Outliers"
-      },
-      {
-        "texto": "A cultura em que crescemos molda quanto esforço consideramos normal.",
-        "autor": "Malcolm Gladwell",
-        "obra": "Outliers"
-      },
-      {
-        "texto": "O sucesso é terra arrendada, não propriedade exclusiva.",
-        "autor": "Malcolm Gladwell",
-        "obra": "Outliers"
       }
     ],
     "citacoesTerceiros": [
@@ -26211,7 +26513,7 @@ window.MEU_BOLSO_BOOKS=[
       {
         "texto": "Narrativa envolvente, embora alguns dados sejam contestados.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -26227,9 +26529,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque 10.000 horas",
         "text": "Prática deliberada ainda é base de maestria.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Busque 10.000 horas\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Prática deliberada ainda é base de maestria — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque 10.000 horas\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Busque 10.000 horas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Prática deliberada ainda é base de maestria — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Busque 10.000 horas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26237,9 +26539,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aproveite janelas",
         "text": "Identifique e use oportunidades históricas e locais.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Aproveite janelas\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Identifique e use oportunidades históricas e locais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aproveite janelas\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Aproveite janelas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identifique e use oportunidades históricas e locais — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Aproveite janelas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26247,9 +26549,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda o efeito de parcela",
         "text": "Saiba se cortes de idade favorecem ou não você.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Entenda o efeito de parcela\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Saiba se cortes de idade favorecem ou não você — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda o efeito de parcela\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Entenda o efeito de parcela\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saiba se cortes de idade favorecem ou não você — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Entenda o efeito de parcela\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26257,9 +26559,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize a cultura",
         "text": "Reconheça como herança familiar molda hábitos.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Valorize a cultura\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Reconheça como herança familiar molda hábitos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize a cultura\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Valorize a cultura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconheça como herança familiar molda hábitos — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Valorize a cultura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26267,9 +26569,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie acesso",
         "text": "Abra portas para quem tem talento mas não recursos.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Crie acesso\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Abra portas para quem tem talento mas não recursos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie acesso\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Crie acesso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Abra portas para quem tem talento mas não recursos — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Crie acesso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26277,9 +26579,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acumule vantagens",
         "text": "Pequenas vantagens iniciais se multiplicam.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Acumule vantagens\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Pequenas vantagens iniciais se multiplicam — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acumule vantagens\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Acumule vantagens\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenas vantagens iniciais se multiplicam — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Acumule vantagens\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26287,9 +26589,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reconheça a sorte",
         "text": "Admitir fortuna guia melhores escolhas.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Reconheça a sorte\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Admitir fortuna guia melhores escolhas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reconheça a sorte\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Reconheça a sorte\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Admitir fortuna guia melhores escolhas — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Reconheça a sorte\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26297,9 +26599,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Combata o mito do mérito",
         "text": "Veja o sistema por trás do sucesso alheio.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Combata o mito do mérito\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Veja o sistema por trás do sucesso alheio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Combata o mito do mérito\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Combata o mito do mérito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Veja o sistema por trás do sucesso alheio — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Combata o mito do mérito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26307,9 +26609,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ofereça mentoria",
         "text": "Apoio cedo muda a trajetória de outro.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Ofereça mentoria\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Apoio cedo muda a trajetória de outro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ofereça mentoria\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Ofereça mentoria\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Apoio cedo muda a trajetória de outro — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Ofereça mentoria\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26317,9 +26619,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje o contexto",
         "text": "Coloque-se onde recursos e tempo existem.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Planeje o contexto\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Coloque-se onde recursos e tempo existem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje o contexto\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Planeje o contexto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Coloque-se onde recursos e tempo existem — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Planeje o contexto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26327,9 +26629,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Distribua oportunidades",
         "text": "Sistemas justos geram mais outliers.",
         "explicacoes": [
-          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell trata \"Distribua oportunidades\" como peça-chave para o sucesso como fruto de oportunidade, prática e cultura.",
-          "Na prática: Sistemas justos geram mais outliers — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Distribua oportunidades\" aplica o sucesso como fruto de oportunidade, prática e cultura de forma concreta, não apenas como conceito."
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Distribua oportunidades\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sistemas justos geram mais outliers — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Distribua oportunidades\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Contexto explica mais que caráter",
+        "text": "Gladwell encerra lembrando que sorte e ambiente pesam tanto quanto esforço.",
+        "explicacoes": [
+          "Em \"Outliers: A História do Sucesso\", Malcolm Gladwell coloca \"Contexto explica mais que caráter\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Gladwell encerra lembrando que sorte e ambiente pesam tanto quanto esforço — traduzido para a prática, é o passo concreto que liga a teoria de Malcolm Gladwell ao comportamento diário.",
+          "Ignorar \"Contexto explica mais que caráter\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -26363,6 +26675,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Um povo saudável por cultura, não genes isolados.",
             "f": "Na visão de Malcolm Gladwell, \"contexto.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
             "real": false
+          },
+          {
+            "t": "A História de Roseto",
+            "e": "Um povo saudável por cultura, não genes isolados.",
+            "f": "Na visão de Malcolm Gladwell, a História de Roseto é o ponto central deste capítulo de \"Outliers: A História do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -26381,6 +26699,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Prática deliberada por trás de Bill Gates e Beatles.",
             "f": "A regra das dez mil horas separa o bom do excepcional.",
             "real": true
+          },
+          {
+            "t": "As 10.000 Horas",
+            "e": "Prática deliberada por trás de Bill Gates e Beatles.",
+            "f": "Na visão de Malcolm Gladwell, as 10.000 Horas é o ponto central deste capítulo de \"Outliers: A História do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -26398,6 +26722,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Contexto.",
             "e": "Alto QI não garante sucesso sem contexto.",
             "f": "Na visão de Malcolm Gladwell, \"contexto.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "O Problema de Lewis Terman",
+            "e": "Alto QI não garante sucesso sem contexto.",
+            "f": "Na visão de Malcolm Gladwell, o Problema de Lewis Terman é o ponto central deste capítulo de \"Outliers: A História do Sucesso\".",
             "real": false
           }
         ]
@@ -26417,6 +26747,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Mês de nascimento decide vagas em esportes.",
             "f": "Pessoas que chegam ao topo quase sempre tiveram uma vantagem inicial.",
             "real": true
+          },
+          {
+            "t": "O Efeito de Parcela",
+            "e": "Mês de nascimento decide vagas em esportes.",
+            "f": "Na visão de Malcolm Gladwell, o Efeito de Parcela é o ponto central deste capítulo de \"Outliers: A História do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -26434,6 +26770,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Disciplina.",
             "e": "Herança agrícola explica desempenho em matemática.",
             "f": "Na visão de Malcolm Gladwell, \"disciplina.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "A Cultura do Arroz",
+            "e": "Herança agrícola explica desempenho em matemática.",
+            "f": "Na visão de Malcolm Gladwell, a Cultura do Arroz é o ponto central deste capítulo de \"Outliers: A História do Sucesso\".",
             "real": false
           }
         ]
@@ -26453,6 +26795,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Pequenas vantagens iniciais se multiplicam.",
             "f": "Na visão de Malcolm Gladwell, \"efeito.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
             "real": false
+          },
+          {
+            "t": "A Vantagem Acumulada",
+            "e": "Pequenas vantagens iniciais se multiplicam.",
+            "f": "Na visão de Malcolm Gladwell, a Vantagem Acumulada é o ponto central deste capítulo de \"Outliers: A História do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -26471,6 +26819,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "História familiar molda padrões de conflito e foco.",
             "f": "Na visão de Malcolm Gladwell, \"padrão.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
             "real": false
+          },
+          {
+            "t": "O Legado",
+            "e": "História familiar molda padrões de conflito e foco.",
+            "f": "Na visão de Malcolm Gladwell, o Legado é o ponto central deste capítulo de \"Outliers: A História do Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -26488,6 +26842,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Sistema.",
             "e": "Mérito puro ignora bases sistêmicas do sucesso.",
             "f": "Na visão de Malcolm Gladwell, \"sistema.\" é parte essencial da proposta de \"Outliers: A História do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "A Ilusão do Mérito",
+            "e": "Mérito puro ignora bases sistêmicas do sucesso.",
+            "f": "Na visão de Malcolm Gladwell, a Ilusão do Mérito é o ponto central deste capítulo de \"Outliers: A História do Sucesso\".",
             "real": false
           }
         ]
@@ -26511,12 +26871,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Talento é dom genético",
-        "text": "Coyle mostra que talento é construído, não recebido por DNA.",
-        "reflection": "Você acha que nasceu ou se fez capaz?"
-      },
-      {
         "type": "truth",
         "title": "Mielina fixa habilidade",
         "text": "Erro corrigido e repetido envolve neurônios e acelera o sinal.",
@@ -26524,9 +26878,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Repetição rápida ensina",
-        "text": "Prática profunda é lenta, com erro e ajuste, não automática.",
-        "reflection": "Você repete rápido ou pratica com erro?"
+        "title": "Talento é dom genético",
+        "text": "Coyle mostra que talento é construído, não recebido por DNA.",
+        "reflection": "Você acha que nasceu ou se fez capaz?"
       },
       {
         "type": "truth",
@@ -26536,9 +26890,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Lugar não importa",
-        "text": "\"Sítios de talento\" compartilham ignição e mestres, não solo mágico.",
-        "reflection": "Seu ambiente estimula ou sufoca?"
+        "title": "Repetição rápida ensina",
+        "text": "Prática profunda é lenta, com erro e ajuste, não automática.",
+        "reflection": "Você repete rápido ou pratica com erro?"
       },
       {
         "type": "truth",
@@ -26548,9 +26902,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Bom professor basta",
-        "text": "Mestre dá feedback de alta qualidade, não só elogio.",
-        "reflection": "Seu feedback eleva ou acomoda?"
+        "title": "Lugar não importa",
+        "text": "\"Sítios de talento\" compartilham ignição e mestres, não solo mágico.",
+        "reflection": "Seu ambiente estimula ou sufoca?"
       },
       {
         "type": "truth",
@@ -26560,9 +26914,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Criança prodígio = adulto",
-        "text": "Muitos prodígios perdem fogo; ignição e prática sustentam.",
-        "reflection": "Prodígio precoce garante trajetória?"
+        "title": "Bom professor basta",
+        "text": "Mestre dá feedback de alta qualidade, não só elogio.",
+        "reflection": "Seu feedback eleva ou acomoda?"
       },
       {
         "type": "truth",
@@ -26572,9 +26926,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Quantidade vence",
-        "text": "Qualidade da prática (profunda) supera volume bruto.",
-        "reflection": "Você faz muitas ou faz certo?"
+        "title": "Criança prodígio = adulto",
+        "text": "Muitos prodígios perdem fogo; ignição e prática sustentam.",
+        "reflection": "Prodígio precoce garante trajetória?"
       },
       {
         "type": "truth",
@@ -26584,9 +26938,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Quantidade vence",
+        "text": "Qualidade da prática (profunda) supera volume bruto.",
+        "reflection": "Você faz muitas ou faz certo?"
+      },
+      {
+        "type": "truth",
+        "title": "Talento é mielina, não dom inato",
+        "text": "Coyle explica que a prática errada-corrigida constrói mielina e acelera o aprendizado.",
+        "reflection": "Sua prática repetida é desafiadora ou apenas confortável?"
+      },
+      {
+        "type": "myth",
         "title": "Talento se esgota",
         "text": "Habilidade pode ser reconstruída em qualquer idade com prática certa.",
         "reflection": "Você acha que já perdeu a chance?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de O Código do Talento resiste ao senso comum",
+        "text": "Em \"O Código do Talento\", Daniel Coyle sustenta que the talent code (2009) investiga por que certos lugares e grupos produzem talento em série — de academias de tênis na rússia a escolas de música na inglaterra — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "The Talent Code (2009) investiga por que certos lugares e grupos produzem talento em série — de academias de tênis na Rússia a escolas de música na Inglaterra. Daniel Coyle conclui que o talento não é dom genético, e sim construído por um \"circuito de habilidade\" apoiado em três elementos: prática profunda (deep practice), ignição (uma senha cultural ou treinador que acende a motivação) e mestre (um professor que dá feedback de alta qualidade). O gancho central é a \"mielina\": cada erro corrigido e repetido envolve os neurônios em mielina, acelerando o sinal e fixando a habilidade — por isso errar do jeito certo acelera o aprendizado. Coyle descreve a \"prática profunda\" como repetição lenta, com erro e ajuste, dentro da \"zona de desconforto\". O livro é um manual de como criar ambientes (famílias, escolas, empresas) que gerem excelência reproduzível, contrastando com a ideia de \"nascido para isso\" Para líderes e profissionais, é uma prova de que confiar nas pessoas, em vez de vigiá-las, libera o melhor de cada um e amplia o desempenho coletivo.",
@@ -26607,28 +26979,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Errar do jeito certo é o combustível da prática profunda.",
         "autor": "Daniel Coyle",
         "obra": "The Talent Code"
-      },
-      {
-        "texto": "A prática profunda ocorre na zona de desconforto, não de conforto.",
-        "autor": "Daniel Coyle",
-        "obra": "The Talent Code"
-      },
-      {
-        "texto": "Talento emerge de um circuito: prática profunda, ignição e mestre.",
-        "autor": "Daniel Coyle",
-        "obra": "The Talent Code"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Apliquei a prática profunda com meus alunos e o progresso saltou.",
-        "autor": "Professor",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Explica melhor que \"10 mil horas\" o papel do erro.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -26644,9 +27006,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque prática profunda",
         "text": "Repita devagar, com erro e ajuste.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Busque prática profunda\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Repita devagar, com erro e ajuste — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque prática profunda\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Busque prática profunda\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Repita devagar, com erro e ajuste — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Busque prática profunda\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26654,9 +27016,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a zona de desconforto",
         "text": "Pratique na borda do que domina.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Use a zona de desconforto\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Pratique na borda do que domina — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a zona de desconforto\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Use a zona de desconforto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pratique na borda do que domina — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Use a zona de desconforto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26664,9 +27026,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize o erro certo",
         "text": "Errar e corrigir acelera a fixação.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Valorize o erro certo\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Errar e corrigir acelera a fixação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize o erro certo\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Valorize o erro certo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Errar e corrigir acelera a fixação — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Valorize o erro certo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26674,9 +27036,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Encontre ignição",
         "text": "Uma cultura ou mentor que acenda motivação.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Encontre ignição\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Uma cultura ou mentor que acenda motivação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Encontre ignição\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Encontre ignição\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma cultura ou mentor que acenda motivação — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Encontre ignição\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26684,9 +27046,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque mestre",
         "text": "Feedback de alta qualidade fecha o circuito.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Busque mestre\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Feedback de alta qualidade fecha o circuito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque mestre\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Busque mestre\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Feedback de alta qualidade fecha o circuito — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Busque mestre\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26694,9 +27056,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa ambiente",
         "text": "Desenhe cultura de excelência em casa ou empresa.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Construa ambiente\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Desenhe cultura de excelência em casa ou empresa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa ambiente\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Construa ambiente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desenhe cultura de excelência em casa ou empresa — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Construa ambiente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26704,9 +27066,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque em mielina",
         "text": "Pense no erro corrigido como investimento neural.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Foque em mielina\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Pense no erro corrigido como investimento neural — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque em mielina\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Foque em mielina\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pense no erro corrigido como investimento neural — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Foque em mielina\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26714,9 +27076,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Prefira qualidade",
         "text": "Prática profunda supera volume bruto.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Prefira qualidade\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Prática profunda supera volume bruto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Prefira qualidade\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Prefira qualidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Prática profunda supera volume bruto — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Prefira qualidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26724,9 +27086,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Replaneje a motivação",
         "text": "Mantenha o fogo com senhas culturais claras.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Replaneje a motivação\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Mantenha o fogo com senhas culturais claras — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Replaneje a motivação\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Replaneje a motivação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mantenha o fogo com senhas culturais claras — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Replaneje a motivação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26734,9 +27096,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crie sítios de talento",
         "text": "Reúna prática, ignição e mestre num lugar.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Crie sítios de talento\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Reúna prática, ignição e mestre num lugar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crie sítios de talento\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Crie sítios de talento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reúna prática, ignição e mestre num lugar — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Crie sítios de talento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -26744,9 +27106,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acredite na reconstrução",
         "text": "Habilidade se refaz em qualquer idade.",
         "explicacoes": [
-          "Em \"O Código do Talento\", Daniel Coyle trata \"Acredite na reconstrução\" como peça-chave em torno de como o talento é construído pela prática profunda.",
-          "Na prática: Habilidade se refaz em qualquer idade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acredite na reconstrução\" aplica como o talento é construído pela prática profunda de forma concreta, não apenas como conceito."
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"Acredite na reconstrução\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Habilidade se refaz em qualquer idade — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"Acredite na reconstrução\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "O erro é combustível do aprendizado",
+        "text": "Coyle prova que errar na zona de desafio acelera a construção de mielina.",
+        "explicacoes": [
+          "Em \"O Código do Talento\", Daniel Coyle coloca \"O erro é combustível do aprendizado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Coyle prova que errar na zona de desafio acelera a construção de mielina — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Coyle ao comportamento diário.",
+          "Ignorar \"O erro é combustível do aprendizado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -26780,6 +27152,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Por que certos lugares geram excelência em série.",
             "f": "Talento emerge de um circuito: prática profunda, ignição e mestre.",
             "real": true
+          },
+          {
+            "t": "O Sítio do Talento",
+            "e": "Por que certos lugares geram excelência em série.",
+            "f": "Na visão de Daniel Coyle, o Sítio do Talento é o ponto central deste capítulo de \"O Código do Talento\".",
+            "real": false
           }
         ]
       },
@@ -26797,6 +27175,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Cérebro.",
             "e": "Como erro corrigido isola e acelera neurônios.",
             "f": "Na visão de Daniel Coyle, \"cérebro.\" é parte essencial da proposta de \"O Código do Talento\".",
+            "real": false
+          },
+          {
+            "t": "A Mielina",
+            "e": "Como erro corrigido isola e acelera neurônios.",
+            "f": "Na visão de Daniel Coyle, a Mielina é o ponto central deste capítulo de \"O Código do Talento\".",
             "real": false
           }
         ]
@@ -26816,6 +27200,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Repetição lenta, com erro e ajuste.",
             "f": "A prática profunda ocorre na zona de desconforto, não de conforto.",
             "real": true
+          },
+          {
+            "t": "Prática Profunda",
+            "e": "Repetição lenta, com erro e ajuste.",
+            "f": "Na visão de Daniel Coyle, prática Profunda é o ponto central deste capítulo de \"O Código do Talento\".",
+            "real": false
           }
         ]
       },
@@ -26833,6 +27223,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Limite.",
             "e": "Aprender na borda do que já se domina.",
             "f": "Na visão de Daniel Coyle, \"limite.\" é parte essencial da proposta de \"O Código do Talento\".",
+            "real": false
+          },
+          {
+            "t": "A Zona de Desconforto",
+            "e": "Aprender na borda do que já se domina.",
+            "f": "Na visão de Daniel Coyle, a Zona de Desconforto é o ponto central deste capítulo de \"O Código do Talento\".",
             "real": false
           }
         ]
@@ -26852,6 +27248,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Senhas culturais que acendem motivação.",
             "f": "Na visão de Daniel Coyle, \"motivo.\" é parte essencial da proposta de \"O Código do Talento\".",
             "real": false
+          },
+          {
+            "t": "A Ignição",
+            "e": "Senhas culturais que acendem motivação.",
+            "f": "Na visão de Daniel Coyle, a Ignição é o ponto central deste capítulo de \"O Código do Talento\".",
+            "real": false
           }
         ]
       },
@@ -26869,6 +27271,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Feedback.",
             "e": "Feedback de alta qualidade que fecha o circuito.",
             "f": "Na visão de Daniel Coyle, \"feedback.\" é parte essencial da proposta de \"O Código do Talento\".",
+            "real": false
+          },
+          {
+            "t": "O Mestre",
+            "e": "Feedback de alta qualidade que fecha o circuito.",
+            "f": "Na visão de Daniel Coyle, o Mestre é o ponto central deste capítulo de \"O Código do Talento\".",
             "real": false
           }
         ]
@@ -26888,6 +27296,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Exemplos de academias e escolas de elite.",
             "f": "A prática profunda ocorre na zona de desconforto, não de conforto.",
             "real": true
+          },
+          {
+            "t": "Os Sítios na Prática",
+            "e": "Exemplos de academias e escolas de elite.",
+            "f": "Na visão de Daniel Coyle, os Sítios na Prática é o ponto central deste capítulo de \"O Código do Talento\".",
+            "real": false
           }
         ]
       },
@@ -26906,6 +27320,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Criar ambientes que gerem excelência.",
             "f": "Talento emerge de um circuito: prática profunda, ignição e mestre.",
             "real": true
+          },
+          {
+            "t": "Desenhar o Talento",
+            "e": "Criar ambientes que gerem excelência.",
+            "f": "Na visão de Daniel Coyle, desenhar o Talento é o ponto central deste capítulo de \"O Código do Talento\".",
+            "real": false
           }
         ]
       }
@@ -26928,12 +27348,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "O que você vende importa",
-        "text": "Sinek mostra que o \"porquê\" inspira mais que o produto em si.",
-        "reflection": "Você vende o quê ou o porquê?"
-      },
-      {
         "type": "truth",
         "title": "Porquê move pessoas",
         "text": "A crença e a causa geram lealdade maior que preço.",
@@ -26941,9 +27355,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Racional convence",
-        "text": "O cérebro límbico decide por emoção, não por lista de features.",
-        "reflection": "Você apela à razão ou à emoção?"
+        "title": "O que você vende importa",
+        "text": "Sinek mostra que o \"porquê\" inspira mais que o produto em si.",
+        "reflection": "Você vende o quê ou o porquê?"
       },
       {
         "type": "truth",
@@ -26953,9 +27367,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Líder manda, equipe obedece",
-        "text": "Liderança por inSPIRAção atrai, não comanda por medo.",
-        "reflection": "Você comanda ou inspira?"
+        "title": "Racional convence",
+        "text": "O cérebro límbico decide por emoção, não por lista de features.",
+        "reflection": "Você apela à razão ou à emoção?"
       },
       {
         "type": "truth",
@@ -26965,9 +27379,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Features vendem sozinhas",
-        "text": "Produto bom sem causa raramente cria movimento.",
-        "reflection": "Sua oferta tem causa ou só função?"
+        "title": "Líder manda, equipe obedece",
+        "text": "Liderança por inSPIRAção atrai, não comanda por medo.",
+        "reflection": "Você comanda ou inspira?"
       },
       {
         "type": "truth",
@@ -26977,9 +27391,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Todo mundo sabe o porquê",
-        "text": "Pouquíssimos líderes articulam a causa com clareza.",
-        "reflection": "Você consegue dizer seu porquê em uma frase?"
+        "title": "Features vendem sozinhas",
+        "text": "Produto bom sem causa raramente cria movimento.",
+        "reflection": "Sua oferta tem causa ou só função?"
       },
       {
         "type": "truth",
@@ -26989,9 +27403,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Incentivo substitui sentido",
-        "text": "Bônus move pouco comparado a convicção.",
-        "reflection": "Você motiva por prêmio ou por sentido?"
+        "title": "Todo mundo sabe o porquê",
+        "text": "Pouquíssimos líderes articulam a causa com clareza.",
+        "reflection": "Você consegue dizer seu porquê em uma frase?"
       },
       {
         "type": "truth",
@@ -27001,9 +27415,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Incentivo substitui sentido",
+        "text": "Bônus move pouco comparado a convicção.",
+        "reflection": "Você motiva por prêmio ou por sentido?"
+      },
+      {
+        "type": "truth",
+        "title": "Começar pelo porquê atrai adesão profunda",
+        "text": "Sinek mostra que líderes inspiradores comunicam o propósito antes do produto ou do como.",
+        "reflection": "Você consegue dizer por que faz o que faz em uma frase que mobilize?"
+      },
+      {
+        "type": "myth",
         "title": "Marketing é exterior",
         "text": "O porquê deve viver na cultura, não só no anúncio.",
         "reflection": "Seu propósito é cultura ou outdoor?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de Comece Pelo Porquê resiste ao senso comum",
+        "text": "Em \"Comece Pelo Porquê\", Simon Sinek sustenta que start with why (2009) apresenta o \"círculo dourado\" e a ideia central de que grandes líderes e organizações \"começam pelo porquê\" — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "Start With Why (2009) apresenta o \"Círculo Dourado\" e a ideia central de que grandes líderes e organizações \"começam pelo porquê\". Simon Sinek observa que todos sabem o que fazem, alguns sabem como, mas pouquíssimos sabem por que fazem — e é o \"porquê\" (a crença, a causa) que inspira lealdade e ação, não o produto ou o preço. O gancho central vem da biologia: o cérebro límbico (emoção e decisão) não processa linguagem, por isso apelos racionais (\"o que\") convencem menos que apelos de propósito (\"porquê\"). Sinek usa exemplos como Apple, Martin Luther King e os irmãos Wright para mostrar que comunicar a partir do porquê atrai pessoas que acreditam. O livro é um manual de liderança por inSPIRAção: líderes que clarificam o propósito movem pessoas a agir por convicção, não por incentivo. A tese desafia o marketing tradicional de \"features\" e propõe que clareza de causa é vantagem competitiva duradoura.",
@@ -27024,16 +27456,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Líderes que começam pelo porquê inspiram ação, não obediência.",
         "autor": "Simon Sinek",
         "obra": "Start With Why"
-      },
-      {
-        "texto": "O cérebro límbico decide por emoção, não por linguagem.",
-        "autor": "Simon Sinek",
-        "obra": "Start With Why"
-      },
-      {
-        "texto": "Clareza de causa é vantagem competitiva duradoura.",
-        "autor": "Simon Sinek",
-        "obra": "Start With Why"
       }
     ],
     "citacoesTerceiros": [
@@ -27045,7 +27467,7 @@ window.MEU_BOLSO_BOOKS=[
       {
         "texto": "Repete bastante o ponto central, mas transformador para líderes.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -27061,9 +27483,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Descubra seu porquê",
         "text": "Articule a crença que move sua organização.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Descubra seu porquê\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Articule a crença que move sua organização — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Descubra seu porquê\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Descubra seu porquê\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Articule a crença que move sua organização — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Descubra seu porquê\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27071,9 +27493,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o Círculo Dourado",
         "text": "Comunique do porquê para o como e o que.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Use o Círculo Dourado\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Comunique do porquê para o como e o que — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o Círculo Dourado\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Use o Círculo Dourado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comunique do porquê para o como e o que — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Use o Círculo Dourado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27081,9 +27503,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Lidere por inSPIRAção",
         "text": "Atraia por convicção, não por comando.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Lidere por inSPIRAção\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Atraia por convicção, não por comando — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Lidere por inSPIRAção\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Lidere por inSPIRAção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Atraia por convicção, não por comando — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Lidere por inSPIRAção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27091,9 +27513,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Apela ao límbico",
         "text": "Use emoção e propósito, não só razão.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Apela ao límbico\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Use emoção e propósito, não só razão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Apela ao límbico\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Apela ao límbico\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Use emoção e propósito, não só razão — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Apela ao límbico\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27101,9 +27523,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Atraia fiéis",
         "text": "Busque quem acredita, não só quem compra.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Atraia fiéis\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Busque quem acredita, não só quem compra — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Atraia fiéis\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Atraia fiéis\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Busque quem acredita, não só quem compra — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Atraia fiéis\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27111,9 +27533,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece pelo centro",
         "text": "Toda decisão deve nascer do propósito.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Comece pelo centro\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Toda decisão deve nascer do propósito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece pelo centro\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Comece pelo centro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Toda decisão deve nascer do propósito — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Comece pelo centro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27121,9 +27543,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dê exemplo de causa",
         "text": "Comunique crença antes de benefício.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Dê exemplo de causa\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Comunique crença antes de benefício — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dê exemplo de causa\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Dê exemplo de causa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comunique crença antes de benefício — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Dê exemplo de causa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27131,9 +27553,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Clareza de propósito",
         "text": "Uma frase de porquê alinha equipe e cliente.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Clareza de propósito\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Uma frase de porquê alinha equipe e cliente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Clareza de propósito\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Clareza de propósito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma frase de porquê alinha equipe e cliente — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Clareza de propósito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27141,9 +27563,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diferencie por sentido",
         "text": "Causa vira vantagem contra concorrentes iguais.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Diferencie por sentido\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Causa vira vantagem contra concorrentes iguais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diferencie por sentido\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Diferencie por sentido\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Causa vira vantagem contra concorrentes iguais — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Diferencie por sentido\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27151,9 +27573,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Viva a cultura",
         "text": "Propósito deve habitar a operação, não o anúncio.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Viva a cultura\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Propósito deve habitar a operação, não o anúncio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Viva a cultura\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Viva a cultura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Propósito deve habitar a operação, não o anúncio — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Viva a cultura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27161,9 +27583,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mova por convicção",
         "text": "Busque engajamento duradouro, não prêmio pontual.",
         "explicacoes": [
-          "Em \"Comece Pelo Porquê\", Simon Sinek trata \"Mova por convicção\" como peça-chave em torno de liderar e influenciar a partir do \"porquê\".",
-          "Na prática: Busque engajamento duradouro, não prêmio pontual — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mova por convicção\" aplica liderar e influenciar a partir do \"porquê\" de forma concreta, não apenas como conceito."
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Mova por convicção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Busque engajamento duradouro, não prêmio pontual — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Mova por convicção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Confiança é o multiplicador final",
+        "text": "Sinek conclui que times que confiam cooperam melhor que os que só competem.",
+        "explicacoes": [
+          "Em \"Comece Pelo Porquê\", Simon Sinek coloca \"Confiança é o multiplicador final\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sinek conclui que times que confiam cooperam melhor que os que só competem — traduzido para a prática, é o passo concreto que liga a teoria de Simon Sinek ao comportamento diário.",
+          "Ignorar \"Confiança é o multiplicador final\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -27197,6 +27629,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Por que poucos líderes sabem o porquê.",
             "f": "Na visão de Simon Sinek, \"lacuna.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
             "real": false
+          },
+          {
+            "t": "Assume que você sabe",
+            "e": "Por que poucos líderes sabem o porquê.",
+            "f": "Na visão de Simon Sinek, assume que você sabe é o ponto central deste capítulo de \"Comece Pelo Porquê\".",
+            "real": false
           }
         ]
       },
@@ -27214,6 +27652,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Centro.",
             "e": "O modelo de comunicação do porquê ao que.",
             "f": "Na visão de Simon Sinek, \"centro.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          },
+          {
+            "t": "O Círculo Dourado",
+            "e": "O modelo de comunicação do porquê ao que.",
+            "f": "Na visão de Simon Sinek, o Círculo Dourado é o ponto central deste capítulo de \"Comece Pelo Porquê\".",
             "real": false
           }
         ]
@@ -27233,6 +27677,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Por que o cérebro límbico decide por emoção.",
             "f": "Na visão de Simon Sinek, \"decisão.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
             "real": false
+          },
+          {
+            "t": "A Biologia",
+            "e": "Por que o cérebro límbico decide por emoção.",
+            "f": "Na visão de Simon Sinek, a Biologia é o ponto central deste capítulo de \"Comece Pelo Porquê\".",
+            "real": false
           }
         ]
       },
@@ -27250,6 +27700,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Vantagem.",
             "e": "Como o porquê vira vantagem.",
             "f": "Na visão de Simon Sinek, \"vantagem.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          },
+          {
+            "t": "Clareza, Disciplina, Coerência",
+            "e": "Como o porquê vira vantagem.",
+            "f": "Na visão de Simon Sinek, clareza, Disciplina, Coerência é o ponto central deste capítulo de \"Comece Pelo Porquê\".",
             "real": false
           }
         ]
@@ -27269,6 +27725,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Atrair por convicção, não comando.",
             "f": "Na visão de Simon Sinek, \"liderança.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
             "real": false
+          },
+          {
+            "t": "Liderança por InSPIRAção",
+            "e": "Atrair por convicção, não comando.",
+            "f": "Na visão de Simon Sinek, liderança por InSPIRAção é o ponto central deste capítulo de \"Comece Pelo Porquê\".",
+            "real": false
           }
         ]
       },
@@ -27287,6 +27749,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Exemplo de começar pelo porquê contra gigantes.",
             "f": "Clareza de causa é vantagem competitiva duradoura.",
             "real": true
+          },
+          {
+            "t": "Os Irmãos Wright",
+            "e": "Exemplo de começar pelo porquê contra gigantes.",
+            "f": "Na visão de Simon Sinek, os Irmãos Wright é o ponto central deste capítulo de \"Comece Pelo Porquê\".",
+            "real": false
           }
         ]
       },
@@ -27304,6 +27772,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Movimento.",
             "e": "A mensagem de crença que moveu multidões.",
             "f": "Na visão de Simon Sinek, \"movimento.\" é parte essencial da proposta de \"Comece Pelo Porquê\".",
+            "real": false
+          },
+          {
+            "t": "Martin Luther King",
+            "e": "A mensagem de crença que moveu multidões.",
+            "f": "Na visão de Simon Sinek, martin Luther King é o ponto central deste capítulo de \"Comece Pelo Porquê\".",
             "real": false
           }
         ]
@@ -27323,6 +27797,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Passos para articular a causa da sua organização.",
             "f": "O Círculo Dourado: todos sabem o quê, poucos sabem o porquê.",
             "real": true
+          },
+          {
+            "t": "Descubra seu Porquê",
+            "e": "Passos para articular a causa da sua organização.",
+            "f": "Na visão de Simon Sinek, descubra seu Porquê é o ponto central deste capítulo de \"Comece Pelo Porquê\".",
+            "real": false
           }
         ]
       }
