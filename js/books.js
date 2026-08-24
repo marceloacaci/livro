@@ -48428,62 +48428,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Os 12 princípios de negócio",
-        "text": "Empresas simples, consistentes, com vantagem e boa gestão são o alvo."
+        "text": "Empresas simples, consistentes, com vantagem e boa gestão são o alvo.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Os 12 princípios de negócio\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Empresas simples, consistentes, com vantagem e boa gestão são o alvo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Os 12 princípios de negócio\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Os 9 princípios de seleção",
-        "text": "Indicadores como ROE estável e baixo endividamento filtram qualidade."
+        "text": "Indicadores como ROE estável e baixo endividamento filtram qualidade.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Os 9 princípios de seleção\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Indicadores como ROE estável e baixo endividamento filtram qualidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Os 9 princípios de seleção\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Os 4 princípios de compra",
-        "text": "Preço abaixo do valor, margem de segurança e paciência definem a entrada."
+        "text": "Preço abaixo do valor, margem de segurança e paciência definem a entrada.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Os 4 princípios de compra\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Preço abaixo do valor, margem de segurança e paciência definem a entrada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Os 4 princípios de compra\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Herde a Graham",
-        "text": "Valor intrínseco e margem de segurança são a fundação do método."
+        "text": "Valor intrínseco e margem de segurança são a fundação do método.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Herde a Graham\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Valor intrínseco e margem de segurança são a fundação do método — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Herde a Graham\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Some Fisher",
-        "text": "Conhecer a empresa a fundo (produto, cultura, cliente) completa a tese."
+        "text": "Conhecer a empresa a fundo (produto, cultura, cliente) completa a tese.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Some Fisher\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Conhecer a empresa a fundo (produto, cultura, cliente) completa a tese — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Some Fisher\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Fluxo de caixa descontado",
-        "text": "Calcule o valor presente dos fluxos futuros; é o que o negócio vale."
+        "text": "Calcule o valor presente dos fluxos futuros; é o que o negócio vale.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Fluxo de caixa descontado\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Calcule o valor presente dos fluxos futuros; é o que o negócio vale — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fluxo de caixa descontado\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Qualidade a preço justo",
-        "text": "Prefira negócio excelente razoável a mediano muito barato."
+        "text": "Prefira negócio excelente razoável a mediano muito barato.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Qualidade a preço justo\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Prefira negócio excelente razoável a mediano muito barato — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Qualidade a preço justo\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Ponto de vista do dono",
-        "text": "Compre para segurar décadas; ignore a turbulência de curtíssimo prazo."
+        "text": "Compre para segurar décadas; ignore a turbulência de curtíssimo prazo.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Ponto de vista do dono\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Compre para segurar décadas; ignore a turbulência de curtíssimo prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ponto de vista do dono\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Círculo de competência",
-        "text": "Invista apenas onde entende profundamente; fora dele, não importa o preço."
+        "text": "Invista apenas onde entende profundamente; fora dele, não importa o preço.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Círculo de competência\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Invista apenas onde entende profundamente; fora dele, não importa o preço — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Círculo de competência\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Concentre com convicção",
-        "text": "Poucas posições bem conhecidas batem dispersão defensiva."
+        "text": "Poucas posições bem conhecidas batem dispersão defensiva.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Concentre com convicção\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Poucas posições bem conhecidas batem dispersão defensiva — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Concentre com convicção\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Berkshire como máquina",
-        "text": "Retenção de lucro e alocação inteligente multiplicam o efeito composto."
+        "text": "Retenção de lucro e alocação inteligente multiplicam o efeito composto.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Berkshire como máquina\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: Retenção de lucro e alocação inteligente multiplicam o efeito composto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Berkshire como máquina\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Horizonte de décadas",
-        "text": "O tempo amplia a vantagem do bom negócio comprado bem."
+        "text": "O tempo amplia a vantagem do bom negócio comprado bem.",
+        "explicacoes": [
+          "Em \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\", Robert G. Hagstrom trata \"Horizonte de décadas\" como peça-chave para a filosofia de investimento de Warren Buffett.",
+          "Na prática: O tempo amplia a vantagem do bom negócio comprado bem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Horizonte de décadas\" aplica a filosofia de investimento de Warren Buffett de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -48505,81 +48565,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Filosofia de Buffett",
         "text": "Hagstrom mostra que o sucesso nasce da fusão de valor (Graham) e qualidade (Fisher).",
         "points": [
-          "Síntese de escolas",
-          "Valor + qualidade",
-          "Método replicável"
+          {
+            "t": "Síntese de escolas",
+            "e": "Hagstrom mostra que o sucesso nasce da fusão de valor (Graham) e qualidade (Fisher).",
+            "f": "Na visão de Robert G. Hagstrom, \"síntese de escolas\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Valor + qualidade",
+            "e": "Hagstrom mostra que o sucesso nasce da fusão de valor (Graham) e qualidade (Fisher).",
+            "f": "O valor de uma empresa é o fluxo de caixa que ela poderá gerar no futuro, trazido a valor presente.",
+            "real": true
+          },
+          {
+            "t": "Método replicável",
+            "e": "Hagstrom mostra que o sucesso nasce da fusão de valor (Graham) e qualidade (Fisher).",
+            "f": "Na visão de Robert G. Hagstrom, \"método replicável\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Os 12 Princípios de Negócio",
         "text": "Empresas simples, consistentes e com vantagem competitiva são o alvo natural.",
         "points": [
-          "Negócio simples",
-          "Consistência",
-          "Vantagem durável"
+          {
+            "t": "Negócio simples",
+            "e": "Empresas simples, consistentes e com vantagem competitiva são o alvo natural.",
+            "f": "Pense como dono de um negócio, não como locatário de uma ação.",
+            "real": true
+          },
+          {
+            "t": "Consistência",
+            "e": "Empresas simples, consistentes e com vantagem competitiva são o alvo natural.",
+            "f": "Na visão de Robert G. Hagstrom, \"consistência\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Vantagem durável",
+            "e": "Empresas simples, consistentes e com vantagem competitiva são o alvo natural.",
+            "f": "Na visão de Robert G. Hagstrom, \"vantagem durável\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Os 9 Princípios de Seleção",
         "text": "Indicadores como ROE, margem operacional e endividamento filtram a qualidade.",
         "points": [
-          "ROE estável",
-          "Baixo endividamento",
-          "Retenção eficiente"
+          {
+            "t": "ROE estável",
+            "e": "Indicadores como ROE, margem operacional e endividamento filtram a qualidade.",
+            "f": "Na visão de Robert G. Hagstrom, \"roe estável\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Baixo endividamento",
+            "e": "Indicadores como ROE, margem operacional e endividamento filtram a qualidade.",
+            "f": "Na visão de Robert G. Hagstrom, \"baixo endividamento\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Retenção eficiente",
+            "e": "Indicadores como ROE, margem operacional e endividamento filtram a qualidade.",
+            "f": "Na visão de Robert G. Hagstrom, \"retenção eficiente\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Os 4 Princípios de Compra",
         "text": "Preço abaixo do valor, margem de segurança e paciência fecham o racional.",
         "points": [
-          "Valor intrínseco",
-          "Margem de segurança",
-          "Paciência"
+          {
+            "t": "Valor intrínseco",
+            "e": "Preço abaixo do valor, margem de segurança e paciência fecham o racional.",
+            "f": "O valor de uma empresa é o fluxo de caixa que ela poderá gerar no futuro, trazido a valor presente.",
+            "real": true
+          },
+          {
+            "t": "Margem de segurança",
+            "e": "Preço abaixo do valor, margem de segurança e paciência fecham o racional.",
+            "f": "Margem de segurança é a diferença entre o que você paga e o que a empresa vale.",
+            "real": true
+          },
+          {
+            "t": "Paciência",
+            "e": "Preço abaixo do valor, margem de segurança e paciência fecham o racional.",
+            "f": "Na visão de Robert G. Hagstrom, \"paciência\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Graham e o Valor",
         "text": "A fundação: preço deve estar abaixo do valor real com folga de proteção.",
         "points": [
-          "Mr. Market",
-          "Margem de segurança",
-          "Valor intrínseco"
+          {
+            "t": "Mr. Market",
+            "e": "A fundação: preço deve estar abaixo do valor real com folga de proteção.",
+            "f": "O valor de uma empresa é o fluxo de caixa que ela poderá gerar no futuro, trazido a valor presente.",
+            "real": true
+          },
+          {
+            "t": "Margem de segurança",
+            "e": "A fundação: preço deve estar abaixo do valor real com folga de proteção.",
+            "f": "Margem de segurança é a diferença entre o que você paga e o que a empresa vale.",
+            "real": true
+          },
+          {
+            "t": "Valor intrínseco",
+            "e": "A fundação: preço deve estar abaixo do valor real com folga de proteção.",
+            "f": "Na visão de Robert G. Hagstrom, \"valor intrínseco\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Fisher e o Conhecimento",
         "text": "Conhecer produto, clientes e cultura aprofunda a convicção na tese.",
         "points": [
-          "Pesquisa profunda",
-          "Qualidade humana",
-          "Vantagem qualitativa"
+          {
+            "t": "Pesquisa profunda",
+            "e": "Conhecer produto, clientes e cultura aprofunda a convicção na tese.",
+            "f": "Na visão de Robert G. Hagstrom, \"pesquisa profunda\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Qualidade humana",
+            "e": "Conhecer produto, clientes e cultura aprofunda a convicção na tese.",
+            "f": "Na visão de Robert G. Hagstrom, \"qualidade humana\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Vantagem qualitativa",
+            "e": "Conhecer produto, clientes e cultura aprofunda a convicção na tese.",
+            "f": "Na visão de Robert G. Hagstrom, \"vantagem qualitativa\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Williams e o Fluxo de Caixa",
         "text": "O valor de um negócio é a soma de seus fluxos futuros descontados.",
         "points": [
-          "Fluxo de caixa livre",
-          "Valor presente",
-          "Longo prazo"
+          {
+            "t": "Fluxo de caixa livre",
+            "e": "O valor de um negócio é a soma de seus fluxos futuros descontados.",
+            "f": "O valor de uma empresa é o fluxo de caixa que ela poderá gerar no futuro, trazido a valor presente.",
+            "real": true
+          },
+          {
+            "t": "Valor presente",
+            "e": "O valor de um negócio é a soma de seus fluxos futuros descontados.",
+            "f": "Na visão de Robert G. Hagstrom, \"valor presente\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Longo prazo",
+            "e": "O valor de um negócio é a soma de seus fluxos futuros descontados.",
+            "f": "Na visão de Robert G. Hagstrom, \"longo prazo\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A Berkshire como Máquina",
         "text": "Retenção de capital e alocação inteligente multiplicam o efeito composto.",
         "points": [
-          "Retenção de lucro",
-          "Alocação",
-          "Efeito composto"
+          {
+            "t": "Retenção de lucro",
+            "e": "Retenção de capital e alocação inteligente multiplicam o efeito composto.",
+            "f": "Pense como dono de um negócio, não como locatário de uma ação.",
+            "real": true
+          },
+          {
+            "t": "Alocação",
+            "e": "Retenção de capital e alocação inteligente multiplicam o efeito composto.",
+            "f": "Na visão de Robert G. Hagstrom, \"alocação\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Efeito composto",
+            "e": "Retenção de capital e alocação inteligente multiplicam o efeito composto.",
+            "f": "Na visão de Robert G. Hagstrom, \"efeito composto\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Pensar como Dono",
         "text": "Horizonte de décadas e círculo de competência definem a disciplina final.",
         "points": [
-          "Círculo de competência",
-          "Horizonte longo",
-          "Mentalidade de dono"
+          {
+            "t": "Círculo de competência",
+            "e": "Horizonte de décadas e círculo de competência definem a disciplina final.",
+            "f": "Conheça bem o seu círculo de competência e não saia dele.",
+            "real": true
+          },
+          {
+            "t": "Horizonte longo",
+            "e": "Horizonte de décadas e círculo de competência definem a disciplina final.",
+            "f": "Pense como dono de um negócio, não como locatário de uma ação.",
+            "real": true
+          },
+          {
+            "t": "Mentalidade de dono",
+            "e": "Horizonte de décadas e círculo de competência definem a disciplina final.",
+            "f": "Na visão de Robert G. Hagstrom, \"mentalidade de dono\" é parte essencial da proposta de \"O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -48738,62 +48933,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "A Fórmula Mágica",
-        "text": "Ranqueie empresas por ROIC e Earnings Yield altos; compre as melhores."
+        "text": "Ranqueie empresas por ROIC e Earnings Yield altos; compre as melhores.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"A Fórmula Mágica\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: Ranqueie empresas por ROIC e Earnings Yield altos; compre as melhores — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"A Fórmula Mágica\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Use ROIC como qualidade",
-        "text": "Retorno sobre capital investido mede como a empresa usa o dinheiro."
+        "text": "Retorno sobre capital investido mede como a empresa usa o dinheiro.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Use ROIC como qualidade\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: Retorno sobre capital investido mede como a empresa usa o dinheiro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use ROIC como qualidade\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Use Earnings Yield como preço",
-        "text": "Lucro sobre preço indica o que está barato no momento."
+        "text": "Lucro sobre preço indica o que está barato no momento.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Use Earnings Yield como preço\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: Lucro sobre preço indica o que está barato no momento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use Earnings Yield como preço\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Compre o ranking alto",
-        "text": "As primeiras colocadas unem qualidade e preço favorável."
+        "text": "As primeiras colocadas unem qualidade e preço favorável.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Compre o ranking alto\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: As primeiras colocadas unem qualidade e preço favorável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Compre o ranking alto\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Segure por alguns anos",
-        "text": "O efeito completo da fórmula exige horizonte de 3 a 5 anos."
+        "text": "O efeito completo da fórmula exige horizonte de 3 a 5 anos.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Segure por alguns anos\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: O efeito completo da fórmula exige horizonte de 3 a 5 anos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Segure por alguns anos\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Rebalanceie anualmente",
-        "text": "Uma vez por ano, recomponha o ranking e ajuste a carteira."
+        "text": "Uma vez por ano, recomponha o ranking e ajuste a carteira.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Rebalanceie anualmente\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: Uma vez por ano, recomponha o ranking e ajuste a carteira — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Rebalanceie anualmente\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Ignore o ruído diário",
-        "text": "Cotações diárias atrapalham; foque no método e no prazo."
+        "text": "Cotações diárias atrapalham; foque no método e no prazo.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Ignore o ruído diário\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: Cotações diárias atrapalham; foque no método e no prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ignore o ruído diário\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Carteira de 20 a 30 nomes",
-        "text": "Tamanho suficiente para diluir azar sem diluir a convicção."
+        "text": "Tamanho suficiente para diluir azar sem diluir a convicção.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Carteira de 20 a 30 nomes\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: Tamanho suficiente para diluir azar sem diluir a convicção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Carteira de 20 a 30 nomes\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Aceite o tédio",
-        "text": "A fórmula é chata por design; o tédio é o que a protege do erro."
+        "text": "A fórmula é chata por design; o tédio é o que a protege do erro.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Aceite o tédio\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: A fórmula é chata por design; o tédio é o que a protege do erro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o tédio\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "O mercado erra no curto prazo",
-        "text": "Ineficiências existem e a disciplina as captura no longo prazo."
+        "text": "Ineficiências existem e a disciplina as captura no longo prazo.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"O mercado erra no curto prazo\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: Ineficiências existem e a disciplina as captura no longo prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"O mercado erra no curto prazo\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Custo baixo conta",
-        "text": "A fórmula dispensa consultoria cara; menor custo, melhor líquido."
+        "text": "A fórmula dispensa consultoria cara; menor custo, melhor líquido.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Custo baixo conta\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: A fórmula dispensa consultoria cara; menor custo, melhor líquido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Custo baixo conta\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Siga a regra, não o humor",
-        "text": "Emoção é o inimigo; a máquina da fórmula é o aliado."
+        "text": "Emoção é o inimigo; a máquina da fórmula é o aliado.",
+        "explicacoes": [
+          "Em \"O Pequeno Livro que Ainda Vence o Mercado\", Joel Greenblatt trata \"Siga a regra, não o humor\" como peça-chave para o método de baixo risco e alta taxa (Joel Greenblatt).",
+          "Na prática: Emoção é o inimigo; a máquina da fórmula é o aliado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Siga a regra, não o humor\" aplica o método de baixo risco e alta taxa (Joel Greenblatt) de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -48815,81 +49070,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Por Que a Maioria Perde",
         "text": "Greenblatt explica que tentar adivinhar o mercado raramente funciona para o leigo.",
         "points": [
-          "Adivinhação falha",
-          "Vantagem do método",
-          "O leigo pode vencer"
+          {
+            "t": "Adivinhação falha",
+            "e": "Greenblatt explica que tentar adivinhar o mercado raramente funciona para o leigo.",
+            "f": "Na visão de Joel Greenblatt, \"adivinhação falha\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Vantagem do método",
+            "e": "Greenblatt explica que tentar adivinhar o mercado raramente funciona para o leigo.",
+            "f": "Na visão de Joel Greenblatt, \"vantagem do método\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "O leigo pode vencer",
+            "e": "Greenblatt explica que tentar adivinhar o mercado raramente funciona para o leigo.",
+            "f": "Você não precisa ser um gênio para vencer, precisa de disciplina.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Mercado de Limões",
         "text": "A metáfora ensina como preço e qualidade se descolam no curto prazo.",
         "points": [
-          "Precificação assimétrica",
-          "O que o preço esconde",
-          "Oportunidade"
+          {
+            "t": "Precificação assimétrica",
+            "e": "A metáfora ensina como preço e qualidade se descolam no curto prazo.",
+            "f": "Compre boas empresas a preços baratos, não importa o que o mercado diga hoje.",
+            "real": true
+          },
+          {
+            "t": "O que o preço esconde",
+            "e": "A metáfora ensina como preço e qualidade se descolam no curto prazo.",
+            "f": "A Fórmula Mágica combina o melhor negócio com o menor preço relativo.",
+            "real": true
+          },
+          {
+            "t": "Oportunidade",
+            "e": "A metáfora ensina como preço e qualidade se descolam no curto prazo.",
+            "f": "O mercado é eficiente só a longo prazo; no meio disso há oportunidade.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Duas Perguntas",
         "text": "Quão boa é a empresa? A que preço? As duas métricas respondem.",
         "points": [
-          "Qualidade (ROIC)",
-          "Preço (EY)",
-          "A síntese"
+          {
+            "t": "Qualidade (ROIC)",
+            "e": "Quão boa é a empresa? A que preço? As duas métricas respondem.",
+            "f": "Na visão de Joel Greenblatt, \"qualidade (roic)\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Preço (EY)",
+            "e": "Quão boa é a empresa? A que preço? As duas métricas respondem.",
+            "f": "A Fórmula Mágica combina o melhor negócio com o menor preço relativo.",
+            "real": true
+          },
+          {
+            "t": "A síntese",
+            "e": "Quão boa é a empresa? A que preço? As duas métricas respondem.",
+            "f": "Na visão de Joel Greenblatt, \"a síntese\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Fórmula Mágica",
         "text": "Ranquear por ROIC e Earnings Yield e comprar o topo do ranking.",
         "points": [
-          "Cálculo do ranking",
-          "Comprar o topo",
-          "Segurar"
+          {
+            "t": "Cálculo do ranking",
+            "e": "Ranquear por ROIC e Earnings Yield e comprar o topo do ranking.",
+            "f": "A Fórmula Mágica combina o melhor negócio com o menor preço relativo.",
+            "real": true
+          },
+          {
+            "t": "Comprar o topo",
+            "e": "Ranquear por ROIC e Earnings Yield e comprar o topo do ranking.",
+            "f": "Rebalancear uma vez por ano força você a comprar o que caiu e vender o que subiu.",
+            "real": true
+          },
+          {
+            "t": "Segurar",
+            "e": "Ranquear por ROIC e Earnings Yield e comprar o topo do ranking.",
+            "f": "Na visão de Joel Greenblatt, \"segurar\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Por Que Funciona",
         "text": "O método compra o desprezado e vende o amado, capturando ineficiência.",
         "points": [
-          "Contra a moda",
-          "Ineficiência",
-          "Disciplina"
+          {
+            "t": "Contra a moda",
+            "e": "O método compra o desprezado e vende o amado, capturando ineficiência.",
+            "f": "Na visão de Joel Greenblatt, \"contra a moda\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Ineficiência",
+            "e": "O método compra o desprezado e vende o amado, capturando ineficiência.",
+            "f": "Na visão de Joel Greenblatt, \"ineficiência\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina",
+            "e": "O método compra o desprezado e vende o amado, capturando ineficiência.",
+            "f": "Você não precisa ser um gênio para vencer, precisa de disciplina.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Como Aplicar",
         "text": "Carteira de 20 a 30 nomes, rebalanceada uma vez por ano.",
         "points": [
-          "Tamanho da carteira",
-          "Rebalanceamento anual",
-          "Ignorar ruído"
+          {
+            "t": "Tamanho da carteira",
+            "e": "Carteira de 20 a 30 nomes, rebalanceada uma vez por ano.",
+            "f": "Na visão de Joel Greenblatt, \"tamanho da carteira\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Rebalanceamento anual",
+            "e": "Carteira de 20 a 30 nomes, rebalanceada uma vez por ano.",
+            "f": "Na visão de Joel Greenblatt, \"rebalanceamento anual\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Ignorar ruído",
+            "e": "Carteira de 20 a 30 nomes, rebalanceada uma vez por ano.",
+            "f": "Na visão de Joel Greenblatt, \"ignorar ruído\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Tédio é a Proteção",
         "text": "A estratégia é chata de propósito; o tédio evita o erro emocional.",
         "points": [
-          "Tédio por design",
-          "Emoção como inimigo",
-          "Constância"
+          {
+            "t": "Tédio por design",
+            "e": "A estratégia é chata de propósito; o tédio evita o erro emocional.",
+            "f": "Na visão de Joel Greenblatt, \"tédio por design\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Emoção como inimigo",
+            "e": "A estratégia é chata de propósito; o tédio evita o erro emocional.",
+            "f": "Na visão de Joel Greenblatt, \"emoção como inimigo\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Constância",
+            "e": "A estratégia é chata de propósito; o tédio evita o erro emocional.",
+            "f": "Na visão de Joel Greenblatt, \"constância\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Resultados e Limites",
         "text": "Greenblatt mostra o histórico e avisa que a fórmula também passa por secas.",
         "points": [
-          "Histórico",
-          "Secas possíveis",
-          "Persistir"
+          {
+            "t": "Histórico",
+            "e": "Greenblatt mostra o histórico e avisa que a fórmula também passa por secas.",
+            "f": "Na visão de Joel Greenblatt, \"histórico\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Secas possíveis",
+            "e": "Greenblatt mostra o histórico e avisa que a fórmula também passa por secas.",
+            "f": "Na visão de Joel Greenblatt, \"secas possíveis\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Persistir",
+            "e": "Greenblatt mostra o histórico e avisa que a fórmula também passa por secas.",
+            "f": "Na visão de Joel Greenblatt, \"persistir\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O Caminho do Investidor",
         "text": "Conclui que método simples e seguido vence o brilho esporádico.",
         "points": [
-          "Método sobre gênio",
-          "Disciplina",
-          "Liberdade do leigo"
+          {
+            "t": "Método sobre gênio",
+            "e": "Conclui que método simples e seguido vence o brilho esporádico.",
+            "f": "Você não precisa ser um gênio para vencer, precisa de disciplina.",
+            "real": true
+          },
+          {
+            "t": "Disciplina",
+            "e": "Conclui que método simples e seguido vence o brilho esporádico.",
+            "f": "Na visão de Joel Greenblatt, \"disciplina\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade do leigo",
+            "e": "Conclui que método simples e seguido vence o brilho esporádico.",
+            "f": "Na visão de Joel Greenblatt, \"liberdade do leigo\" é parte essencial da proposta de \"O Pequeno Livro que Ainda Vence o Mercado\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -49048,62 +49438,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Conheça os grandes",
-        "text": "As entrevistas revelam que método importa menos que processo e risco."
+        "text": "As entrevistas revelam que método importa menos que processo e risco.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Conheça os grandes\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: As entrevistas revelam que método importa menos que processo e risco — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça os grandes\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Corte perdas rápido",
-        "text": "A regra número um dos feiticeiros é sair do erro sem drama."
+        "text": "A regra número um dos feiticeiros é sair do erro sem drama.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Corte perdas rápido\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: A regra número um dos feiticeiros é sair do erro sem drama — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Corte perdas rápido\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Deixe os lucros correrem",
-        "text": "Não trave o ganhador cedo; o tamanho da vitória sustenta a curva."
+        "text": "Não trave o ganhador cedo; o tamanho da vitória sustenta a curva.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Deixe os lucros correrem\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Não trave o ganhador cedo; o tamanho da vitória sustenta a curva — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Deixe os lucros correrem\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Taxa de acerto não é tudo",
-        "text": "Acertar pouco com risco controlado ainda gera lucro líquido."
+        "text": "Acertar pouco com risco controlado ainda gera lucro líquido.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Taxa de acerto não é tudo\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Acertar pouco com risco controlado ainda gera lucro líquido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Taxa de acerto não é tudo\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Defina risco por trade",
-        "text": "Só aumente posição quando o risco máximo estiver claro."
+        "text": "Só aumente posição quando o risco máximo estiver claro.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Defina risco por trade\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Só aumente posição quando o risco máximo estiver claro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina risco por trade\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Conheça seu temperamento",
-        "text": "Opere dentro do seu perfil emocional; fora dele, o erro cresce."
+        "text": "Opere dentro do seu perfil emocional; fora dele, o erro cresce.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Conheça seu temperamento\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Opere dentro do seu perfil emocional; fora dele, o erro cresce — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça seu temperamento\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Desconfie de sistemas mágicos",
-        "text": "Promessas de robô infalível são venda, não estratégia."
+        "text": "Promessas de robô infalível são venda, não estratégia.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Desconfie de sistemas mágicos\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Promessas de robô infalível são venda, não estratégia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desconfie de sistemas mágicos\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Menos trades, melhor",
-        "text": "Qualidade de setup supera quantidade de operações."
+        "text": "Qualidade de setup supera quantidade de operações.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Menos trades, melhor\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Qualidade de setup supera quantidade de operações — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Menos trades, melhor\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Edge repetível vence",
-        "text": "Pequena vantagem executada sistematicamente bate o gênio ocasional."
+        "text": "Pequena vantagem executada sistematicamente bate o gênio ocasional.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Edge repetível vence\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Pequena vantagem executada sistematicamente bate o gênio ocasional — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Edge repetível vence\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Psicologia é o diferencial",
-        "text": "Medo e ganância derrubam planos; dominá-los é a verdadeira borda."
+        "text": "Medo e ganância derrubam planos; dominá-los é a verdadeira borda.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Psicologia é o diferencial\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Medo e ganância derrubam planos; dominá-los é a verdadeira borda — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Psicologia é o diferencial\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Use parada rígida",
-        "text": "Stop definido antes de entrar protege da negação em tempo real."
+        "text": "Stop definido antes de entrar protege da negação em tempo real.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Use parada rígida\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Stop definido antes de entrar protege da negação em tempo real — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use parada rígida\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Humildade diante do mercado",
-        "text": "Os melhores sabem que o mercado sempre pode surpreender."
+        "text": "Os melhores sabem que o mercado sempre pode surpreender.",
+        "explicacoes": [
+          "Em \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\", Jack D. Schwager trata \"Humildade diante do mercado\" como peça-chave para as conversas com os grandes traders do mundo.",
+          "Na prática: Os melhores sabem que o mercado sempre pode surpreender — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Humildade diante do mercado\" aplica as conversas com os grandes traders do mundo de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -49125,81 +49575,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Busca pelos Feiticeiros",
         "text": "Schwager parte para entrevistar os maiores nomes e descobrir o que os une.",
         "points": [
-          "A proposta",
-          "Os nomes",
-          "A surpresa inicial"
+          {
+            "t": "A proposta",
+            "e": "Schwager parte para entrevistar os maiores nomes e descobrir o que os une.",
+            "f": "Na visão de Jack D. Schwager, \"a proposta\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Os nomes",
+            "e": "Schwager parte para entrevistar os maiores nomes e descobrir o que os une.",
+            "f": "Na visão de Jack D. Schwager, \"os nomes\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "A surpresa inicial",
+            "e": "Schwager parte para entrevistar os maiores nomes e descobrir o que os une.",
+            "f": "Na visão de Jack D. Schwager, \"a surpresa inicial\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Mito do Acerto",
         "text": "Revela que muitos campeões acertam pouco e lucram por gestão de risco.",
         "points": [
-          "Taxa de acerto",
-          "Risco vs. direção",
-          "O segredo"
+          {
+            "t": "Taxa de acerto",
+            "e": "Revela que muitos campeões acertam pouco e lucram por gestão de risco.",
+            "f": "Uma taxa de acerto baixa não impede o lucro se o risco estiver sob controle.",
+            "real": true
+          },
+          {
+            "t": "Risco vs. direção",
+            "e": "Revela que muitos campeões acertam pouco e lucram por gestão de risco.",
+            "f": "Os melhores traders têm uma relação íntima com o risco, não com a previsão.",
+            "real": true
+          },
+          {
+            "t": "O segredo",
+            "e": "Revela que muitos campeões acertam pouco e lucram por gestão de risco.",
+            "f": "O segredo não está em acertar sempre, mas em cortar perdas e deixar os lucros correrem.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Paul Tudor Jones e a Macro",
         "text": "Disciplina, preparação e respeito ao risco na gestão macro global.",
         "points": [
-          "Macro global",
-          "Preparação",
-          "Risco"
+          {
+            "t": "Macro global",
+            "e": "Disciplina, preparação e respeito ao risco na gestão macro global.",
+            "f": "Na visão de Jack D. Schwager, \"macro global\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Preparação",
+            "e": "Disciplina, preparação e respeito ao risco na gestão macro global.",
+            "f": "Na visão de Jack D. Schwager, \"preparação\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Risco",
+            "e": "Disciplina, preparação e respeito ao risco na gestão macro global.",
+            "f": "Os melhores traders têm uma relação íntima com o risco, não com a previsão.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Ed Seykota e o Sistema",
         "text": "O pioneiro dos sistemas mostra que o método é menos que a execução.",
         "points": [
-          "Sistemas",
-          "Execução",
-          "Tendência"
+          {
+            "t": "Sistemas",
+            "e": "O pioneiro dos sistemas mostra que o método é menos que a execução.",
+            "f": "Na visão de Jack D. Schwager, \"sistemas\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Execução",
+            "e": "O pioneiro dos sistemas mostra que o método é menos que a execução.",
+            "f": "Na visão de Jack D. Schwager, \"execução\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Tendência",
+            "e": "O pioneiro dos sistemas mostra que o método é menos que a execução.",
+            "f": "Na visão de Jack D. Schwager, \"tendência\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Marty Schwartz e a Virada",
         "text": "De analista falido a trader de sucesso cortando perdas rápido.",
         "points": [
-          "Corte rápido",
-          "Disciplina",
-          "Transformação"
+          {
+            "t": "Corte rápido",
+            "e": "De analista falido a trader de sucesso cortando perdas rápido.",
+            "f": "Na visão de Jack D. Schwager, \"corte rápido\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina",
+            "e": "De analista falido a trader de sucesso cortando perdas rápido.",
+            "f": "Na visão de Jack D. Schwager, \"disciplina\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Transformação",
+            "e": "De analista falido a trader de sucesso cortando perdas rápido.",
+            "f": "Na visão de Jack D. Schwager, \"transformação\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Bruce Kovner e o Risco",
         "text": "Fundos e tamanho de posição como arte da sobrevivência.",
         "points": [
-          "Tamanho",
-          "Sobrevivência",
-          "Paciência"
+          {
+            "t": "Tamanho",
+            "e": "Fundos e tamanho de posição como arte da sobrevivência.",
+            "f": "Os melhores traders têm uma relação íntima com o risco, não com a previsão.",
+            "real": true
+          },
+          {
+            "t": "Sobrevivência",
+            "e": "Fundos e tamanho de posição como arte da sobrevivência.",
+            "f": "Uma taxa de acerto baixa não impede o lucro se o risco estiver sob controle.",
+            "real": true
+          },
+          {
+            "t": "Paciência",
+            "e": "Fundos e tamanho de posição como arte da sobrevivência.",
+            "f": "Na visão de Jack D. Schwager, \"paciência\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Que Eles Têm em Comum",
         "text": "Schwager sintetiza: risco, autoconhecimento e edge repetível.",
         "points": [
-          "Risco",
-          "Autoconhecimento",
-          "Edge"
+          {
+            "t": "Risco",
+            "e": "Schwager sintetiza: risco, autoconhecimento e edge repetível.",
+            "f": "Os melhores traders têm uma relação íntima com o risco, não com a previsão.",
+            "real": true
+          },
+          {
+            "t": "Autoconhecimento",
+            "e": "Schwager sintetiza: risco, autoconhecimento e edge repetível.",
+            "f": "Na visão de Jack D. Schwager, \"autoconhecimento\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Edge",
+            "e": "Schwager sintetiza: risco, autoconhecimento e edge repetível.",
+            "f": "Na visão de Jack D. Schwager, \"edge\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Psicologia do Trader",
         "text": "Medo e ganância derrubam planos; dominá-los é a verdadeira vantagem.",
         "points": [
-          "Medo",
-          "Ganância",
-          "Controle"
+          {
+            "t": "Medo",
+            "e": "Medo e ganância derrubam planos; dominá-los é a verdadeira vantagem.",
+            "f": "Na visão de Jack D. Schwager, \"medo\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Ganância",
+            "e": "Medo e ganância derrubam planos; dominá-los é a verdadeira vantagem.",
+            "f": "Na visão de Jack D. Schwager, \"ganância\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Controle",
+            "e": "Medo e ganância derrubam planos; dominá-los é a verdadeira vantagem.",
+            "f": "Uma taxa de acerto baixa não impede o lucro se o risco estiver sob controle.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Lições para o Leitor",
         "text": "Não copie o guru; construa método, risco e autoconhecimento próprios.",
         "points": [
-          "Não copiar",
-          "Construir",
-          "Humildade"
+          {
+            "t": "Não copiar",
+            "e": "Não copie o guru; construa método, risco e autoconhecimento próprios.",
+            "f": "Não existe um único método correto; existe o que funciona para o seu temperamento.",
+            "real": true
+          },
+          {
+            "t": "Construir",
+            "e": "Não copie o guru; construa método, risco e autoconhecimento próprios.",
+            "f": "Na visão de Jack D. Schwager, \"construir\" é parte essencial da proposta de \"Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Humildade",
+            "e": "Não copie o guru; construa método, risco e autoconhecimento próprios.",
+            "f": "O mercado sempre dará um jeito de humilhar quem perde a humildade.",
+            "real": true
+          }
         ]
       }
     ]
