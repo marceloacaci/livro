@@ -27825,12 +27825,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Cargo faz líder",
-        "text": "Maxwell afirma que cargo é a menor forma de liderança; influência é a essência.",
-        "reflection": "Você lidera pelo cargo ou pela influência?"
-      },
-      {
         "type": "truth",
         "title": "Liderança é influência",
         "text": "Se ninguém o segue, você não lidera, apenas ocupa posição.",
@@ -27838,9 +27832,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Líder nasce pronto",
-        "text": "A Lei do Processo mostra que liderança se desenvolve diariamente.",
-        "reflection": "Você acha que nasceu ou se faz líder?"
+        "title": "Cargo faz líder",
+        "text": "Maxwell afirma que cargo é a menor forma de liderança; influência é a essência.",
+        "reflection": "Você lidera pelo cargo ou pela influência?"
       },
       {
         "type": "truth",
@@ -27850,9 +27844,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Crise revela qualquer um",
-        "text": "A Lei do Navio: todos sabem quem manda quando o mar agita.",
-        "reflection": "Sua equipe sabe quem é o capitão na crise?"
+        "title": "Líder nasce pronto",
+        "text": "A Lei do Processo mostra que liderança se desenvolve diariamente.",
+        "reflection": "Você acha que nasceu ou se faz líder?"
       },
       {
         "type": "truth",
@@ -27862,9 +27856,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Resultado isolado importa",
-        "text": "A Lei do Cimento: confiança se constrói em pequenas interações.",
-        "reflection": "Você cultiva confiança no dia a dia?"
+        "title": "Crise revela qualquer um",
+        "text": "A Lei do Navio: todos sabem quem manda quando o mar agita.",
+        "reflection": "Sua equipe sabe quem é o capitão na crise?"
       },
       {
         "type": "truth",
@@ -27874,9 +27868,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mandar é liderar",
-        "text": "Comandar não cria seguidores; servir e inspirar, sim.",
-        "reflection": "Você manda ou serve ao time?"
+        "title": "Resultado isolado importa",
+        "text": "A Lei do Cimento: confiança se constrói em pequenas interações.",
+        "reflection": "Você cultiva confiança no dia a dia?"
       },
       {
         "type": "truth",
@@ -27886,9 +27880,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Liderança é solitária",
-        "text": "O líder de sucesso constrói círculo íntimo de confiança.",
-        "reflection": "Você tem círculo de apoio ou isola?"
+        "title": "Mandar é liderar",
+        "text": "Comandar não cria seguidores; servir e inspirar, sim.",
+        "reflection": "Você manda ou serve ao time?"
       },
       {
         "type": "truth",
@@ -27898,9 +27892,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
+        "title": "Liderança é solitária",
+        "text": "O líder de sucesso constrói círculo íntimo de confiança.",
+        "reflection": "Você tem círculo de apoio ou isola?"
+      },
+      {
+        "type": "truth",
+        "title": "Liderança é influência, não cargo",
+        "text": "Maxwell sustenta que a autoridade concedida pode ser ignrada; a liderança ganha-se dia a dia.",
+        "reflection": "As pessoas o seguem pelo organograma ou pela confiança?"
+      },
+      {
+        "type": "myth",
         "title": "Intuição não conta",
         "text": "A Lei da Intuição: líderes leem situações além dos dados.",
         "reflection": "Você desenvolve leitura de contexto?"
+      },
+      {
+        "type": "truth",
+        "title": "A tese de As 21 Leis Irrefutáveis da Liderança resiste ao senso comum",
+        "text": "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell sustenta que the 21 irrefutable laws of leadership (1998) sintetiza john c — o oposto da sabedoria popular.",
+        "reflection": "Você aceitou essa ideia apenas porque todo mundo repete?"
       }
     ],
     "summary": "The 21 Irrefutable Laws of Leadership (1998) sintetiza John C. Maxwell décadas de liderança em 21 \"leis\" atemporais, cada uma ilustrada com exemplos históricos e lições práticas. O gancho central é que liderança é influência, não cargo — \"se as pessoas não o seguem, você não é líder\". Entre as leis: a \"Lei do Tampo\" (a equipe não supera a capacidade do líder), a \"Lei da Influência\" (o cargo é a menor forma de liderança), a \"Lei do Processo\" (liderança se desenvolve diariamente, não num dia), a \"Lei da Navio\" (a equipe sabe quem é o capitão na crise), a \"Lei da Conexão\" (você só lidera quem tocou), a \"Lei do Cimento\" (a confiança é construída em pequenas interações), e a \"Lei do Legado\" (um líder é julgado pela capacidade de desenvolver outros). O livro é estruturado, acessível e amplamente usado em treinamentos corporativos e religiosos. Sua força está em tratar liderança como habilidade aprendível e em enfatizar caráter e desenvolvimento de pessoas acima de autoridade formal.",
@@ -27921,28 +27933,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A Lei do Tampo: a equipe só chega onde o líder a leva.",
         "autor": "John Maxwell",
         "obra": "The 21 Irrefutable Laws of Leadership"
-      },
-      {
-        "texto": "Liderança se desenvolve diariamente, não em um único dia.",
-        "autor": "John Maxwell",
-        "obra": "The 21 Irrefutable Laws of Leadership"
-      },
-      {
-        "texto": "Um líder é julgado pela capacidade de desenvolver outros líderes.",
-        "autor": "John Maxwell",
-        "obra": "The 21 Irrefutable Laws of Leadership"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Usei as 21 leis num treinamento de gestores e funcionou muito bem.",
-        "autor": "Treinador",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Bastante repetitivo, mas ótimo como manual de referência.",
         "autor": "Crítico",
-        "fonte": "Amazon BR"
+        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -27958,9 +27960,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Lidere por influência",
         "text": "Construa autoridade real, não só o título.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Lidere por influência\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Construa autoridade real, não só o título — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Lidere por influência\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Lidere por influência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Construa autoridade real, não só o título — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Lidere por influência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27968,9 +27970,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desenvolva-se diariamente",
         "text": "Liderança é processo, não evento.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Desenvolva-se diariamente\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Liderança é processo, não evento — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desenvolva-se diariamente\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Desenvolva-se diariamente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Liderança é processo, não evento — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Desenvolva-se diariamente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27978,9 +27980,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Elevo o teto do time",
         "text": "Cresça para que a equipe possa crescer.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Elevo o teto do time\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Cresça para que a equipe possa crescer — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Elevo o teto do time\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Elevo o teto do time\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cresça para que a equipe possa crescer — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Elevo o teto do time\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27988,9 +27990,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conecte-se primeiro",
         "text": "Toque as pessoas antes de liderá-las.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Conecte-se primeiro\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Toque as pessoas antes de liderá-las — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conecte-se primeiro\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Conecte-se primeiro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Toque as pessoas antes de liderá-las — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Conecte-se primeiro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -27998,9 +28000,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Construa confiança",
         "text": "Pequenas interações diárias cimentam lealdade.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Construa confiança\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Pequenas interações diárias cimentam lealdade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Construa confiança\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Construa confiança\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenas interações diárias cimentam lealdade — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Construa confiança\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28008,9 +28010,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha caráter",
         "text": "Integridade é o piso da liderança.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Mantenha caráter\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Integridade é o piso da liderança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha caráter\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Mantenha caráter\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Integridade é o piso da liderança — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Mantenha caráter\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28018,9 +28020,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sirva, não só comande",
         "text": "Liderança de serviço atrai seguidores.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Sirva, não só comande\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Liderança de serviço atrai seguidores — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sirva, não só comande\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Sirva, não só comande\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Liderança de serviço atrai seguidores — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Sirva, não só comande\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28028,9 +28030,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Forme outros líderes",
         "text": "Seu legado é quem você desenvolve.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Forme outros líderes\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Seu legado é quem você desenvolve — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Forme outros líderes\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Forme outros líderes\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Seu legado é quem você desenvolve — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Forme outros líderes\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28038,9 +28040,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Monte círculo íntimo",
         "text": "Cerque-se de conselheiros de confiança.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Monte círculo íntimo\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Cerque-se de conselheiros de confiança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Monte círculo íntimo\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Monte círculo íntimo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cerque-se de conselheiros de confiança — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Monte círculo íntimo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28048,9 +28050,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Some valor às pessoas",
         "text": "Foque em elevar quem está ao redor.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Some valor às pessoas\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Foque em elevar quem está ao redor — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Some valor às pessoas\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Some valor às pessoas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Foque em elevar quem está ao redor — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Some valor às pessoas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28058,9 +28060,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Leia a intuição",
         "text": "Desenvolva leitura de contexto além dos dados.",
         "explicacoes": [
-          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell trata \"Leia a intuição\" como peça-chave para a liderança como influência e serviço aos outros.",
-          "Na prática: Desenvolva leitura de contexto além dos dados — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Leia a intuição\" aplica a liderança como influência e serviço aos outros de forma concreta, não apenas como conceito."
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Leia a intuição\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desenvolva leitura de contexto além dos dados — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Leia a intuição\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Liderança soma, não subtrai",
+        "text": "Maxwell ensina que o líder de sucesso faz os outros ganharem, não apenas ele.",
+        "explicacoes": [
+          "Em \"As 21 Leis Irrefutáveis da Liderança\", John C. Maxwell coloca \"Liderança soma, não subtrai\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Maxwell ensina que o líder de sucesso faz os outros ganharem, não apenas ele — traduzido para a prática, é o passo concreto que liga a teoria de John C. Maxwell ao comportamento diário.",
+          "Ignorar \"Liderança soma, não subtrai\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -28094,6 +28106,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O time não supera a capacidade do líder.",
             "f": "Na visão de John C. Maxwell, \"limite.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
             "real": false
+          },
+          {
+            "t": "A Lei do Tampo",
+            "e": "O time não supera a capacidade do líder.",
+            "f": "Na visão de John C. Maxwell, a Lei do Tampo é o ponto central deste capítulo de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
           }
         ]
       },
@@ -28112,6 +28130,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Cargo é a menor forma de liderança.",
             "f": "Se as pessoas não o seguem, você não é um líder; apenas ocupa um cargo.",
             "real": true
+          },
+          {
+            "t": "A Lei da Influência",
+            "e": "Cargo é a menor forma de liderança.",
+            "f": "Na visão de John C. Maxwell, a Lei da Influência é o ponto central deste capítulo de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
           }
         ]
       },
@@ -28129,6 +28153,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Crescimento.",
             "e": "Liderança se desenvolve diariamente.",
             "f": "Na visão de John C. Maxwell, \"crescimento.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          },
+          {
+            "t": "A Lei do Processo",
+            "e": "Liderança se desenvolve diariamente.",
+            "f": "Na visão de John C. Maxwell, a Lei do Processo é o ponto central deste capítulo de \"As 21 Leis Irrefutáveis da Liderança\".",
             "real": false
           }
         ]
@@ -28148,6 +28178,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Na crise, todos sabem quem manda.",
             "f": "Na visão de John C. Maxwell, \"capitão.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
             "real": false
+          },
+          {
+            "t": "A Lei do Navio",
+            "e": "Na crise, todos sabem quem manda.",
+            "f": "Na visão de John C. Maxwell, a Lei do Navio é o ponto central deste capítulo de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
           }
         ]
       },
@@ -28165,6 +28201,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Laço.",
             "e": "Só lidera quem tocou a pessoa.",
             "f": "Na visão de John C. Maxwell, \"laço.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          },
+          {
+            "t": "A Lei da Conexão",
+            "e": "Só lidera quem tocou a pessoa.",
+            "f": "Na visão de John C. Maxwell, a Lei da Conexão é o ponto central deste capítulo de \"As 21 Leis Irrefutáveis da Liderança\".",
             "real": false
           }
         ]
@@ -28184,6 +28226,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Confiança se constrói em pequenas interações.",
             "f": "Na visão de John C. Maxwell, \"pequenos.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
             "real": false
+          },
+          {
+            "t": "A Lei do Cimento",
+            "e": "Confiança se constrói em pequenas interações.",
+            "f": "Na visão de John C. Maxwell, a Lei do Cimento é o ponto central deste capítulo de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
           }
         ]
       },
@@ -28202,6 +28250,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Líder é julgado por quem desenvolve.",
             "f": "Na visão de John C. Maxwell, \"formação.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
             "real": false
+          },
+          {
+            "t": "A Lei do Legado",
+            "e": "Líder é julgado por quem desenvolve.",
+            "f": "Na visão de John C. Maxwell, a Lei do Legado é o ponto central deste capítulo de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
           }
         ]
       },
@@ -28219,6 +28273,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Soma.",
             "e": "Líderes somam valor às pessoas ao redor.",
             "f": "Na visão de John C. Maxwell, \"soma.\" é parte essencial da proposta de \"As 21 Leis Irrefutáveis da Liderança\".",
+            "real": false
+          },
+          {
+            "t": "A Lei da Adição",
+            "e": "Líderes somam valor às pessoas ao redor.",
+            "f": "Na visão de John C. Maxwell, a Lei da Adição é o ponto central deste capítulo de \"As 21 Leis Irrefutáveis da Liderança\".",
             "real": false
           }
         ]
@@ -28242,12 +28302,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Eficácia é dom de nascença",
-        "text": "Drucker argumenta que a eficácia é uma prática que se aprende e se melhora, não um talento inato.",
-        "reflection": "Você já culpou a falta de \"dom\" por não entregar o que importa?"
-      },
-      {
         "type": "truth",
         "title": "Eficiência não é eficácia",
         "text": "Fazer bem a coisa errada (eficiência) não substitui fazer a coisa certa (eficácia).",
@@ -28255,9 +28309,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Gestão é sobre controlar pessoas",
-        "text": "O executivo eficaz gerencia a si mesmo primeiro; as pessoas são parceiras de desempenho.",
-        "reflection": "Você tenta controlar outros em vez de ordenar seu próprio tempo?"
+        "title": "Eficácia é dom de nascença",
+        "text": "Drucker argumenta que a eficácia é uma prática que se aprende e se melhora, não um talento inato.",
+        "reflection": "Você já culpou a falta de \"dom\" por não entregar o que importa?"
       },
       {
         "type": "truth",
@@ -28267,9 +28321,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Reuniões longas geram alinhamento",
-        "text": "Drucker mostra que a maioria das reuniões consome tempo sem produzir decisão.",
-        "reflection": "Quantas reuniões terminaram sem uma decisão clara?"
+        "title": "Gestão é sobre controlar pessoas",
+        "text": "O executivo eficaz gerencia a si mesmo primeiro; as pessoas são parceiras de desempenho.",
+        "reflection": "Você tenta controlar outros em vez de ordenar seu próprio tempo?"
       },
       {
         "type": "truth",
@@ -28279,9 +28333,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Trabalhe nas fraquezas",
-        "text": "Construir sobre forças alheias e próprias rende muito mais que tentar consertar fraguezas.",
-        "reflection": "Quanto esforço você gasta consertando o que não é seu ponto forte?"
+        "title": "Reuniões longas geram alinhamento",
+        "text": "Drucker mostra que a maioria das reuniões consome tempo sem produzir decisão.",
+        "reflection": "Quantas reuniões terminaram sem uma decisão clara?"
       },
       {
         "type": "truth",
@@ -28291,9 +28345,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Decisões devem ser rápidas e muitas",
-        "text": "Decisões certas são poucas, demoram e exigem divergência antes da conclusão.",
-        "reflection": "Você decide rápido demais por pressão ou por clareza?"
+        "title": "Trabalhe nas fraquezas",
+        "text": "Construir sobre forças alheias e próprias rende muito mais que tentar consertar fraguezas.",
+        "reflection": "Quanto esforço você gasta consertando o que não é seu ponto forte?"
       },
       {
         "type": "truth",
@@ -28303,9 +28357,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Planejamento prevê o futuro",
-        "text": "Drucker avisa: o planejamento não prevê, apenas prepara para o imprevisto.",
-        "reflection": "Você confunde previsão com preparação?"
+        "title": "Decisões devem ser rápidas e muitas",
+        "text": "Decisões certas são poucas, demoram e exigem divergência antes da conclusão.",
+        "reflection": "Você decide rápido demais por pressão ou por clareza?"
       },
       {
         "type": "truth",
@@ -28315,15 +28369,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Conhecimento dispensa comunicação",
-        "text": "O especialista precisa traduzir seu saber para quem decide; silêncio é ineficácia.",
-        "reflection": "Seu conhecimento chega a quem precisa dele?"
+        "title": "Planejamento prevê o futuro",
+        "text": "Drucker avisa: o planejamento não prevê, apenas prepara para o imprevisto.",
+        "reflection": "Você confunde previsão com preparação?"
       },
       {
         "type": "truth",
         "title": "Forças dos outros multiplicam",
         "text": "Colocar cada um na função de sua força é a alavanca do executivo.",
         "reflection": "Você posiciona as pessoas por força ou por conveniência?"
+      },
+      {
+        "type": "myth",
+        "title": "Conhecimento dispensa comunicação",
+        "text": "O especialista precisa traduzir seu saber para quem decide; silêncio é ineficácia.",
+        "reflection": "Seu conhecimento chega a quem precisa dele?"
+      },
+      {
+        "type": "truth",
+        "title": "Eficácia é hábito de decisão sobre o que ignorar",
+        "text": "Drucker ensina que o executivo eficaz foca no que contribui e delega ou corta o resto.",
+        "reflection": "Quanto do seu tempo serve a prioridades alheias às suas?"
       }
     ],
     "summary": "Em \"O Executivo Eficaz\", Peter Drucker sustenta que a eficácia — fazer a coisa certa — pode ser aprendida, ao contrário do que se pensa, e que não é dom de nascença. Escrito em 1966 mas inteiramente atual, o livro destaca que o executivo (toda pessoa cujas decisões afetam o desempenho de outra) é pago pela contribuição, não pela ocupação. O gancho central é simples e subversivo: a eficácia começa com o tempo. Drucker propõe diagnosticar onde o tempo realmente vai, eliminar o desperdício e concentrá-lo nas poucas atividades que geram resultado. Depois, pede que se foque na contribuição para a organização, que se construa sobre as próprias forças (e não nas fraquezas) e que se tome decisões poucas, mas certas. O executivo eficaz também sabe que \"não\" é uma decisão, organiza-se para as informações certas e reúne a diversidade de pontos de vista antes de decidir. Mais que um manual de gestão, é uma filosofia de autogestão para quem trabalha com o conhecimento e quer que o esforço vire resultado real.",
@@ -28344,33 +28410,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Não há nada tão inútil como fazer eficientemente aquilo que não deveria ser feito de forma alguma.",
         "autor": "Peter F. Drucker",
         "obra": "O Executivo Eficaz"
-      },
-      {
-        "texto": "O executivo eficaz focaliza sua energia nas contribuições que faz à organização.",
-        "autor": "Peter F. Drucker",
-        "obra": "O Executivo Eficaz"
-      },
-      {
-        "texto": "A eficácia tem pouco a ver com inteligência e tudo a ver com escolhas.",
-        "autor": "Peter F. Drucker",
-        "obra": "O Executivo Eficaz"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que todo gestor deveria reler todo ano. Simples, seco e mais atual que a maioria das novidades.",
-        "autor": "Leitor corporativo",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Drucker escreveu em 1966 o que ainda cobramos em MBAs caríssimos hoje.",
-        "autor": "Crítico de negócios",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "A parte sobre diagnóstico de tempo mudou minha semana de trabalho sozinha.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -28386,9 +28437,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Diagnostique seu tempo",
         "text": "Registre onde o tempo vai por semanas. A percepção raramente bate com a realidade. Elimine, reduza e consolide o que for desperdício.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Diagnostique seu tempo\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Registre onde o tempo vai por semanas. A percepção raramente bate com a realidade. Elimine, reduza e consolide o que for desperdício — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Diagnostique seu tempo\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Diagnostique seu tempo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Registre onde o tempo vai por semanas. A percepção raramente bate com a realidade. Elimine, reduza e consolide o que for desperdício — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Diagnostique seu tempo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28396,9 +28447,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pergunte pela contribuição",
         "text": "Em vez de \"o que devo fazer\", pergunte \"que contribuição esta função exige\". Isso alinha esforço e resultado.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Pergunte pela contribuição\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Em vez de \"o que devo fazer\", pergunte \"que contribuição esta função exige\". Isso alinha esforço e resultado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pergunte pela contribuição\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Pergunte pela contribuição\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Em vez de \"o que devo fazer\", pergunte \"que contribuição esta função exige\". Isso alinha esforço e resultado — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Pergunte pela contribuição\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28406,9 +28457,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Identifique suas forças",
         "text": "A eficácia vem de operar nas próprias forças. Mapeie o que você faz bem e delegue ou evite o resto.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Identifique suas forças\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: A eficácia vem de operar nas próprias forças. Mapeie o que você faz bem e delegue ou evite o resto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Identifique suas forças\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Identifique suas forças\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A eficácia vem de operar nas próprias forças. Mapeie o que você faz bem e delegue ou evite o resto — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Identifique suas forças\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28416,9 +28467,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Concentre-se, não espalhe",
         "text": "Defina as poucas prioridades que importam. Fazer muitas coisas medianamente é pior que poucas coisas bem.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Concentre-se, não espalhe\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Defina as poucas prioridades que importam. Fazer muitas coisas medianamente é pior que poucas coisas bem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Concentre-se, não espalhe\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Concentre-se, não espalhe\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defina as poucas prioridades que importam. Fazer muitas coisas medianamente é pior que poucas coisas bem — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Concentre-se, não espalhe\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28426,9 +28477,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Decida poucas vezes, bem",
         "text": "Boas decisões são raras e demoram. Não transforme cada detalhe em decisão executiva.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Decida poucas vezes, bem\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Boas decisões são raras e demoram. Não transforme cada detalhe em decisão executiva — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Decida poucas vezes, bem\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Decida poucas vezes, bem\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Boas decisões são raras e demoram. Não transforme cada detalhe em decisão executiva — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Decida poucas vezes, bem\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28436,9 +28487,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque a divergência",
         "text": "Antes de fechar uma decisão, ouça quem discorda. O consenso prévio costuma esconder riscos.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Busque a divergência\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Antes de fechar uma decisão, ouça quem discorda. O consenso prévio costuma esconder riscos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque a divergência\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Busque a divergência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Antes de fechar uma decisão, ouça quem discorda. O consenso prévio costuma esconder riscos — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Busque a divergência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28446,9 +28497,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aprenda a dizer não",
         "text": "Dizer não ao menor protege o sim ao maior. O executivo eficaz protege seu tempo.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Aprenda a dizer não\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Dizer não ao menor protege o sim ao maior. O executivo eficaz protege seu tempo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aprenda a dizer não\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Aprenda a dizer não\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dizer não ao menor protege o sim ao maior. O executivo eficaz protege seu tempo — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Aprenda a dizer não\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28456,9 +28507,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Traduza seu conhecimento",
         "text": "Especialistas precisam comunicar em termos de quem decide. Saber e não ser ouvido é inútil.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Traduza seu conhecimento\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Especialistas precisam comunicar em termos de quem decide. Saber e não ser ouvido é inútil — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Traduza seu conhecimento\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Traduza seu conhecimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Especialistas precisam comunicar em termos de quem decide. Saber e não ser ouvido é inútil — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Traduza seu conhecimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28466,9 +28517,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Reúna para decidir, não para aparecer",
         "text": "Reuniões devem terminar com responsável e prazo. Caso contrário, foram roubo de tempo.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Reúna para decidir, não para aparecer\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Reuniões devem terminar com responsável e prazo. Caso contrário, foram roubo de tempo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Reúna para decidir, não para aparecer\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Reúna para decidir, não para aparecer\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reuniões devem terminar com responsável e prazo. Caso contrário, foram roubo de tempo — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Reúna para decidir, não para aparecer\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28476,9 +28527,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use as forças alheias",
         "text": "Posicione cada colaborador na função de sua força. Isso vale mais que treinar fraquezas.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Use as forças alheias\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Posicione cada colaborador na função de sua força. Isso vale mais que treinar fraquezas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use as forças alheias\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Use as forças alheias\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Posicione cada colaborador na função de sua força. Isso vale mais que treinar fraquezas — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Use as forças alheias\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28486,9 +28537,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Prepare-se, não profetize",
         "text": "Planejamento serve para estar pronto para o inesperado, não para adivinhar o futuro.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Prepare-se, não profetize\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Planejamento serve para estar pronto para o inesperado, não para adivinhar o futuro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Prepare-se, não profetize\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Prepare-se, não profetize\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Planejamento serve para estar pronto para o inesperado, não para adivinhar o futuro — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Prepare-se, não profetize\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28496,9 +28547,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a autogestão",
         "text": "Eficácia é, antes de tudo, governar a si mesmo: tempo, foco e decisões.",
         "explicacoes": [
-          "Em \"O Executivo Eficaz\", Peter F. Drucker trata \"Pratique a autogestão\" como peça-chave para a gestão eficaz pelo foco no que é essencial.",
-          "Na prática: Eficácia é, antes de tudo, governar a si mesmo: tempo, foco e decisões — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a autogestão\" aplica a gestão eficaz pelo foco no que é essencial de forma concreta, não apenas como conceito."
+          "Em \"O Executivo Eficaz\", Peter F. Drucker coloca \"Pratique a autogestão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Eficácia é, antes de tudo, governar a si mesmo: tempo, foco e decisões — traduzido para a prática, é o passo concreto que liga a teoria de Peter F. Drucker ao comportamento diário.",
+          "Ignorar \"Pratique a autogestão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -28752,12 +28803,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Criatividade é dom de poucos",
-        "text": "Cameron defende que todos somos criativos por natureza; o bloqueio é aprendido, não inato.",
-        "reflection": "Você achou que não era \"o tipo criativo\" por quê?"
-      },
-      {
         "type": "truth",
         "title": "Bloqueio é bloqueio espiritual",
         "text": "O bloqueio artístico vem de medo e cinismo, não de falta de talento.",
@@ -28765,9 +28810,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Precisa de inspiração para começar",
-        "text": "As páginas matinais funcionam por disciplina leve, não por inspiração.",
-        "reflection": "Você espera o \"momento certo\" para criar?"
+        "title": "Criatividade é dom de poucos",
+        "text": "Cameron defende que todos somos criativos por natureza; o bloqueio é aprendido, não inato.",
+        "reflection": "Você achou que não era \"o tipo criativo\" por quê?"
       },
       {
         "type": "truth",
@@ -28777,9 +28822,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Arte exige sofrimento",
-        "text": "Cameron propõe prazer e brincadeira como caminho, não martírio.",
-        "reflection": "Você associou criar a esforço doloroso?"
+        "title": "Precisa de inspiração para começar",
+        "text": "As páginas matinais funcionam por disciplina leve, não por inspiração.",
+        "reflection": "Você espera o \"momento certo\" para criar?"
       },
       {
         "type": "truth",
@@ -28789,9 +28834,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Crítica constrói o artista",
-        "text": "A voz crítica interna paralisa; o livro ensina a silenciá-la no processo.",
-        "reflection": "Sua voz interna ajuda ou sabota você?"
+        "title": "Arte exige sofrimento",
+        "text": "Cameron propõe prazer e brincadeira como caminho, não martírio.",
+        "reflection": "Você associou criar a esforço doloroso?"
       },
       {
         "type": "truth",
@@ -28801,9 +28846,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Acertar é o objetivo",
-        "text": "O processo importa mais que o produto perfeito; errar é parte.",
-        "reflection": "Você se paralisa tentando acertar de primeira?"
+        "title": "Crítica constrói o artista",
+        "text": "A voz crítica interna paralisa; o livro ensina a silenciá-la no processo.",
+        "reflection": "Sua voz interna ajuda ou sabota você?"
       },
       {
         "type": "truth",
@@ -28813,9 +28858,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tempo livre é preguiça",
-        "text": "Brincar e vagar são combustível criativo, não desperdício.",
-        "reflection": "Você se culpa por não estar \"produzindo\"?"
+        "title": "Acertar é o objetivo",
+        "text": "O processo importa mais que o produto perfeito; errar é parte.",
+        "reflection": "Você se paralisa tentando acertar de primeira?"
       },
       {
         "type": "truth",
@@ -28825,15 +28870,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Arte é só para artistas",
-        "text": "O método serve a qualquer vida que queira mais sentido e expressão.",
-        "reflection": "Você reservou a criatividade só para \"profissionais\"?"
+        "title": "Tempo livre é preguiça",
+        "text": "Brincar e vagar são combustível criativo, não desperdício.",
+        "reflection": "Você se culpa por não estar \"produzindo\"?"
       },
       {
         "type": "truth",
         "title": "Recuperação é possível",
         "text": "Mesmo após anos de bloqueio, a criatividade pode ser reativada.",
         "reflection": "Há quanto tempo você não se permite criar?"
+      },
+      {
+        "type": "myth",
+        "title": "Arte é só para artistas",
+        "text": "O método serve a qualquer vida que queira mais sentido e expressão.",
+        "reflection": "Você reservou a criatividade só para \"profissionais\"?"
+      },
+      {
+        "type": "truth",
+        "title": "Criatividade é prática diária, não inspiração rara",
+        "text": "Cameron propõe os 'morning pages' e a saída do artista para reabrir o fluxo criativo.",
+        "reflection": "Você espera a musa ou exercita a criatividade todo dia?"
       }
     ],
     "summary": "Julia Cameron criou \"O Caminho do Artista\" como um curso de 12 semanas para a \"recuperação\" da criança criativa adormecida em cada um. O livro parte de uma tese gentil e profunda: a criatividade é uma forma de espiritualidade, e o bloqueio artístico é, na verdade, um bloqueio espiritual causado por críticas internas e medos. O gancho central são duas ferramentas práticas que viraram cultura pop — as \"páginas matinais\" (três páginas livres escritas à mão toda manhã) e o \"encontro com o artista\" (um compromisso semanal de lazer consigo mesmo). Cameron argumenta que não precisamos ser gênios para criar; precisamos apenas remover as camadas de cinismo e medo acumuladas. Cada capítulo combina ensaio inspirador com exercícios práticos. Mais que um manual para escritores, é um guia para quem quer reencontrar a própria voz e o próprio sentido de vida, tratando a arte como uma maneira de honrar a própria existência e recuperar a espontaneidade que a rotina silenciou.",
@@ -28854,33 +28911,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Faça suas páginas matinais como quem toma café da manhã: toda manhã.",
         "autor": "Julia Cameron",
         "obra": "O Caminho do Artista"
-      },
-      {
-        "texto": "A criatividade não é um talento. É uma maneira de viver.",
-        "autor": "Julia Cameron",
-        "obra": "O Caminho do Artista"
-      },
-      {
-        "texto": "Leve a sério a si mesmo o suficiente para não se levar tão a sério.",
-        "autor": "Julia Cameron",
-        "obra": "O Caminho do Artista"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "As páginas matinais são a única coisa que me tira do bloqueio há dez anos.",
-        "autor": "Escritora independente",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Parece autoajuda brega no início e muda sua vida nas semanas seguintes.",
-        "autor": "Leitor cético",
+        "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Não é só para artistas — usei com minha equipe de engenharia e funcionou.",
-        "autor": "Gerente",
-        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -28896,9 +28938,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça páginas matinais",
         "text": "Escreva três páginas à mão, sem censura, logo ao acordar. É descarga mental, não literatura.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Faça páginas matinais\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: Escreva três páginas à mão, sem censura, logo ao acordar. É descarga mental, não literatura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça páginas matinais\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Faça páginas matinais\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Escreva três páginas à mão, sem censura, logo ao acordar. É descarga mental, não literatura — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Faça páginas matinais\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28906,9 +28948,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Agende o encontro com o artista",
         "text": "Reserve uma saída semanal só de prazer, sozinho, para reabastecer a criatividade.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Agende o encontro com o artista\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: Reserve uma saída semanal só de prazer, sozinho, para reabastecer a criatividade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Agende o encontro com o artista\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Agende o encontro com o artista\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reserve uma saída semanal só de prazer, sozinho, para reabastecer a criatividade — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Agende o encontro com o artista\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28916,9 +28958,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cale a voz crítica",
         "text": "Durante o processo, a crítica atrapalha. Avalie só depois, se for o caso.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Cale a voz crítica\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: Durante o processo, a crítica atrapalha. Avalie só depois, se for o caso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cale a voz crítica\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Cale a voz crítica\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Durante o processo, a crítica atrapalha. Avalie só depois, se for o caso — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Cale a voz crítica\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28926,9 +28968,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trate a arte como espiritualidade",
         "text": "Criar pode ser uma forma de oração ou conexão; honre esse aspecto.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Trate a arte como espiritualidade\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: Criar pode ser uma forma de oração ou conexão; honre esse aspecto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trate a arte como espiritualidade\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Trate a arte como espiritualidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Criar pode ser uma forma de oração ou conexão; honre esse aspecto — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Trate a arte como espiritualidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28936,9 +28978,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Recupere a criança interior",
         "text": "A espontaneidade infantil é a fonte da criação; cultive-a de novo.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Recupere a criança interior\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: A espontaneidade infantil é a fonte da criação; cultive-a de novo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Recupere a criança interior\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Recupere a criança interior\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A espontaneidade infantil é a fonte da criação; cultive-a de novo — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Recupere a criança interior\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28946,9 +28988,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Valorize o processo",
         "text": "O caminho importa mais que o produto perfeito. Aproveite fazer.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Valorize o processo\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: O caminho importa mais que o produto perfeito. Aproveite fazer — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Valorize o processo\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Valorize o processo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O caminho importa mais que o produto perfeito. Aproveite fazer — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Valorize o processo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28956,9 +28998,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Brinque sem culpa",
         "text": "Vagar e brincar não são preguiça; são combustível para criar.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Brinque sem culpa\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: Vagar e brincar não são preguiça; são combustível para criar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Brinque sem culpa\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Brinque sem culpa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vagar e brincar não são preguiça; são combustível para criar — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Brinque sem culpa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28966,9 +29008,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use aforismos",
         "text": "Cameron sugere frases curtas de ancoragem para dias difíceis; crie as suas.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Use aforismos\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: Cameron sugere frases curtas de ancoragem para dias difíceis; crie as suas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use aforismos\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Use aforismos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cameron sugere frases curtas de ancoragem para dias difíceis; crie as suas — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Use aforismos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28976,9 +29018,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Identifique seus venenos",
         "text": "Liste o que drena sua criatividade (pessoas, mídia, perfeccionismo) e corte.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Identifique seus venenos\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: Liste o que drena sua criatividade (pessoas, mídia, perfeccionismo) e corte — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Identifique seus venenos\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Identifique seus venenos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Liste o que drena sua criatividade (pessoas, mídia, perfeccionismo) e corte — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Identifique seus venenos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28986,9 +29028,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a gratidão criativa",
         "text": "Agradecer pelo que já criou abre espaço para criar mais.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Pratique a gratidão criativa\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: Agradecer pelo que já criou abre espaço para criar mais — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a gratidão criativa\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Pratique a gratidão criativa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Agradecer pelo que já criou abre espaço para criar mais — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Pratique a gratidão criativa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -28996,9 +29038,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Siga o curso em 12 semanas",
         "text": "A estrutura semanal combina leitura e exercício; não pule etapas.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Siga o curso em 12 semanas\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: A estrutura semanal combina leitura e exercício; não pule etapas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Siga o curso em 12 semanas\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Siga o curso em 12 semanas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A estrutura semanal combina leitura e exercício; não pule etapas — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Siga o curso em 12 semanas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29006,9 +29048,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Permita-se ser amador",
         "text": "Começar feio é normal. O \"amador\" é quem ainda se permite tentar.",
         "explicacoes": [
-          "Em \"O Caminho do Artista\", Julia Cameron trata \"Permita-se ser amador\" como peça-chave para a criatividade como prática espiritual e artística.",
-          "Na prática: Começar feio é normal. O \"amador\" é quem ainda se permite tentar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Permita-se ser amador\" aplica a criatividade como prática espiritual e artística de forma concreta, não apenas como conceito."
+          "Em \"O Caminho do Artista\", Julia Cameron coloca \"Permita-se ser amador\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Começar feio é normal. O \"amador\" é quem ainda se permite tentar — traduzido para a prática, é o passo concreto que liga a teoria de Julia Cameron ao comportamento diário.",
+          "Ignorar \"Permita-se ser amador\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -29262,12 +29304,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Falta de talento impede",
-        "text": "Pressfield diz que o talento raramente é o problema; a Resistência é.",
-        "reflection": "Você culpa o \"talento\" para não começar?"
-      },
-      {
         "type": "truth",
         "title": "A Resistência é interna",
         "text": "O inimigo mora dentro de você, não no mercado ou na crítica alheia.",
@@ -29275,9 +29311,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Preciso de inspiração",
-        "text": "Profissionais não esperam o museu; eles aparecem e trabalham.",
-        "reflection": "Você espera o clima certo para agir?"
+        "title": "Falta de talento impede",
+        "text": "Pressfield diz que o talento raramente é o problema; a Resistência é.",
+        "reflection": "Você culpa o \"talento\" para não começar?"
       },
       {
         "type": "truth",
@@ -29287,9 +29323,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Procrastinação é preguiça",
-        "text": "É medo disfarçado; a Resistência usa o prazer para nos desviar.",
-        "reflection": "Suas distrações escondem medo de quê?"
+        "title": "Preciso de inspiração",
+        "text": "Profissionais não esperam o museu; eles aparecem e trabalham.",
+        "reflection": "Você espera o clima certo para agir?"
       },
       {
         "type": "truth",
@@ -29299,9 +29335,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Perfeccionismo protege a obra",
-        "text": "O perfeccionismo é a Resistência pedindo para você não terminar.",
-        "reflection": "Você aperfeiçoa para evitar entregar?"
+        "title": "Procrastinação é preguiça",
+        "text": "É medo disfarçado; a Resistência usa o prazer para nos desviar.",
+        "reflection": "Suas distrações escondem medo de quê?"
       },
       {
         "type": "truth",
@@ -29311,9 +29347,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Familiares entendem",
-        "text": "Próximos muitas vezes sabotam por inveja ou desconforto com sua mudança.",
-        "reflection": "Alguém próximo desencoraja seu trabalho?"
+        "title": "Perfeccionismo protege a obra",
+        "text": "O perfeccionismo é a Resistência pedindo para você não terminar.",
+        "reflection": "Você aperfeiçoa para evitar entregar?"
       },
       {
         "type": "truth",
@@ -29323,9 +29359,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sonhar basta",
-        "text": "Sonhar é grátis e confortável; a Resistência adora sonhadores passivos.",
-        "reflection": "Você sonha muito e faz pouco?"
+        "title": "Familiares entendem",
+        "text": "Próximos muitas vezes sabotam por inveja ou desconforto com sua mudança.",
+        "reflection": "Alguém próximo desencoraja seu trabalho?"
       },
       {
         "type": "truth",
@@ -29335,15 +29371,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Tudo tem que ter sentido",
-        "text": "O profissional trabalha mesmo sem certeza do resultado.",
-        "reflection": "Você para de agir quando não vê \"sentido\"?"
+        "title": "Sonhar basta",
+        "text": "Sonhar é grátis e confortável; a Resistência adora sonhadores passivos.",
+        "reflection": "Você sonha muito e faz pouco?"
       },
       {
         "type": "truth",
         "title": "A arte pede sacrifício",
         "text": "Entregar o trabalho exige abrir mão de conforto e aprovação.",
         "reflection": "O que você recusa sacrificar pela sua obra?"
+      },
+      {
+        "type": "myth",
+        "title": "Tudo tem que ter sentido",
+        "text": "O profissional trabalha mesmo sem certeza do resultado.",
+        "reflection": "Você para de agir quando não vê \"sentido\"?"
+      },
+      {
+        "type": "truth",
+        "title": "A Resistência é o inimigo real, não a falta de ideias",
+        "text": "Pressfield personifica o que nos afasta do trabalho essencial e defende sentar-se à mesa toda manhã.",
+        "reflection": "Qual resistência está roubando sua obra hoje?"
       }
     ],
     "summary": "Steven Pressfield escreve \"A Guerra da Arte\" como um chamado às armas contra a \"Resistência\" — a força invisível, interna e perversa que nos impede de fazer o trabalho que importa. O livro é curto, seco e quase militante. Sua tese central: o maior inimigo da realização criativa e pessoal não é a falta de talento ou oportunidade, mas a autossabotagem que se disfarça de medo, procrastinação, perfeccionismo e drama. Pressfield divide a obra em três partes — Definição, Combate e Profissionalismo — e propõe que a cura é \"virar profissional\": sentar-se à mesa todo dia, independentemente do humor, da inspiração ou do medo. O gancho é libertador: a angústia some assim que começamos a agir. Mais que um livro de escrita, é um manual de disciplina existencial para qualquer um que queira parar de sonhar e começar a entregar, enfrentando o saboto interno com constância e coragem diárias em vez de esperar pelo momento perfeito.",
@@ -29364,33 +29412,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A angústia some assim que começamos.",
         "autor": "Steven Pressfield",
         "obra": "A Guerra da Arte"
-      },
-      {
-        "texto": "A maioria de nós tem apenas uma obra em si; é a obra de tornar-se nós mesmos.",
-        "autor": "Steven Pressfield",
-        "obra": "A Guerra da Arte"
-      },
-      {
-        "texto": "Vire profissional. É a única cura.",
-        "autor": "Steven Pressfield",
-        "obra": "A Guerra da Arte"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro mais curto e mais chicote que já li sobre parar de procrastinar.",
-        "autor": "Leitor criativo",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Li em uma tarde e voltei ao trabalho no dia seguinte. Raridade.",
-        "autor": "Roteirista",
+        "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Pressfield escreve como quem grita ordens no campo de treino — e funciona.",
-        "autor": "Crítico",
-        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -29406,9 +29439,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Nomeie a Resistência",
         "text": "Reconhecer o inimigo interno é o primeiro passo. Ela se disfarça de medo e distração.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Nomeie a Resistência\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: Reconhecer o inimigo interno é o primeiro passo. Ela se disfarça de medo e distração — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Nomeie a Resistência\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Nomeie a Resistência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer o inimigo interno é o primeiro passo. Ela se disfarça de medo e distração — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Nomeie a Resistência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29416,9 +29449,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trabalhe todo dia",
         "text": "Estabeleça horário fixo e apareça, independentemente do humor ou inspiração.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Trabalhe todo dia\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: Estabeleça horário fixo e apareça, independentemente do humor ou inspiração — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trabalhe todo dia\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Trabalhe todo dia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estabeleça horário fixo e apareça, independentemente do humor ou inspiração — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Trabalhe todo dia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29426,9 +29459,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não espere o museu",
         "text": "A inspiração vem depois de começar, não antes. Ação precede motivação.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Não espere o museu\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: A inspiração vem depois de começar, não antes. Ação precede motivação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não espere o museu\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Não espere o museu\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A inspiração vem depois de começar, não antes. Ação precede motivação — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Não espere o museu\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29436,9 +29469,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Termine as coisas",
         "text": "O perfeccionismo é sabotagem. Feche o trabalho e entregue.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Termine as coisas\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: O perfeccionismo é sabotagem. Feche o trabalho e entregue — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Termine as coisas\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Termine as coisas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O perfeccionismo é sabotagem. Feche o trabalho e entregue — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Termine as coisas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29446,9 +29479,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o medo",
         "text": "O medo não some; o profissional age com medo, não sem ele.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Aceite o medo\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: O medo não some; o profissional age com medo, não sem ele — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o medo\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Aceite o medo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O medo não some; o profissional age com medo, não sem ele — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Aceite o medo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29456,9 +29489,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Corte distrações",
         "text": "Identifique os \"substitutos confortáveis\" que a Resistência usa contra você.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Corte distrações\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: Identifique os \"substitutos confortáveis\" que a Resistência usa contra você — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Corte distrações\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Corte distrações\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identifique os \"substitutos confortáveis\" que a Resistência usa contra você — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Corte distrações\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29466,9 +29499,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja invisível",
         "text": "Não anuncie o projeto antes de fazê-lo; a aprovação precoce alimenta a Resistência.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Seja invisível\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: Não anuncie o projeto antes de fazê-lo; a aprovação precoce alimenta a Resistência — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja invisível\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Seja invisível\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não anuncie o projeto antes de fazê-lo; a aprovação precoce alimenta a Resistência — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Seja invisível\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29476,9 +29509,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Assuma o custo",
         "text": "A grande obra exige abrir mão de conforto, status e aprovação alheia.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Assuma o custo\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: A grande obra exige abrir mão de conforto, status e aprovação alheia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Assuma o custo\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Assuma o custo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A grande obra exige abrir mão de conforto, status e aprovação alheia — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Assuma o custo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29486,9 +29519,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A dor indica o caminho",
         "text": "Onde a Resistência é mais forte, ali está o trabalho que importa.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"A dor indica o caminho\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: Onde a Resistência é mais forte, ali está o trabalho que importa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"A dor indica o caminho\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"A dor indica o caminho\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Onde a Resistência é mais forte, ali está o trabalho que importa — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"A dor indica o caminho\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29496,9 +29529,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Viva como profissional",
         "text": "Constância e responsabilidade com o ofício vencem o amadorismo.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Viva como profissional\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: Constância e responsabilidade com o ofício vencem o amadorismo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Viva como profissional\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Viva como profissional\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Constância e responsabilidade com o ofício vencem o amadorismo — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Viva como profissional\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29506,9 +29539,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ignore sabotadores",
         "text": "Próximos podem desencorajar; proteja seu trabalho com limites.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Ignore sabotadores\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: Próximos podem desencorajar; proteja seu trabalho com limites — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ignore sabotadores\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Ignore sabotadores\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Próximos podem desencorajar; proteja seu trabalho com limites — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Ignore sabotadores\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29516,9 +29549,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece agora",
         "text": "A ação imediata é o antídoto mais rápido contra a paralisia.",
         "explicacoes": [
-          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Comece agora\" como peça-chave em torno de vencer a Resistência e entregar o trabalho criativo.",
-          "Na prática: A ação imediata é o antídoto mais rápido contra a paralisia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece agora\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+          "Em \"A Guerra da Arte\", Steven Pressfield coloca \"Comece agora\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A ação imediata é o antídoto mais rápido contra a paralisia — traduzido para a prática, é o passo concreto que liga a teoria de Steven Pressfield ao comportamento diário.",
+          "Ignorar \"Comece agora\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -29772,12 +29805,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Otimismo é temperamento",
-        "text": "Seligman mostra que é um estilo explicativo aprendido, não um traço fixo.",
-        "reflection": "Você achou que \"nasceu pessimista\"?"
-      },
-      {
         "type": "truth",
         "title": "Otimismo se aprende",
         "text": "Com exercício, qualquer um pode reestruturar seus pensamentos automáticos.",
@@ -29785,9 +29812,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Pensar positivo resolve",
-        "text": "O ingênuo \"tudo dá certo\" não funciona; o método é disputar o real.",
-        "reflection": "Você confunde otimismo com autoengano?"
+        "title": "Otimismo é temperamento",
+        "text": "Seligman mostra que é um estilo explicativo aprendido, não um traço fixo.",
+        "reflection": "Você achou que \"nasceu pessimista\"?"
       },
       {
         "type": "truth",
@@ -29797,9 +29824,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Depressão é química pura",
-        "text": "Seligman liga a aprendizagem da impotência ao padrão de pensamento.",
-        "reflection": "Seus pensamentos alimentam seu baque?"
+        "title": "Pensar positivo resolve",
+        "text": "O ingênuo \"tudo dá certo\" não funciona; o método é disputar o real.",
+        "reflection": "Você confunde otimismo com autoengano?"
       },
       {
         "type": "truth",
@@ -29809,9 +29836,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Ignorar o negativo é saudável",
-        "text": "O método encara o fato e disputa a interpretação, não o evento.",
-        "reflection": "Você foge dos fatos ou os reenquadra?"
+        "title": "Depressão é química pura",
+        "text": "Seligman liga a aprendizagem da impotência ao padrão de pensamento.",
+        "reflection": "Seus pensamentos alimentam seu baque?"
       },
       {
         "type": "truth",
@@ -29821,9 +29848,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Pessimistas são mais realistas",
-        "text": "Estudos mostram que otimistas enxergam melhor a realidade controlável.",
-        "reflection": "Sua \"realidade\" é visão ou profecia?"
+        "title": "Ignorar o negativo é saudável",
+        "text": "O método encara o fato e disputa a interpretação, não o evento.",
+        "reflection": "Você foge dos fatos ou os reenquadra?"
       },
       {
         "type": "truth",
@@ -29833,9 +29860,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Crianças já vêm prontas",
-        "text": "O estilo explicativo é modelado por pais e escola; pode ser reensinado.",
-        "reflection": "Que explicações você repete para crianças?"
+        "title": "Pessimistas são mais realistas",
+        "text": "Estudos mostram que otimistas enxergam melhor a realidade controlável.",
+        "reflection": "Sua \"realidade\" é visão ou profecia?"
       },
       {
         "type": "truth",
@@ -29845,15 +29872,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Esforço sempre compensa",
-        "text": "Seligman avisa: otimismo ajuda, mas não substitui estratégia e habilidade.",
-        "reflection": "Você usa otimismo como desculpa para não planejar?"
+        "title": "Crianças já vêm prontas",
+        "text": "O estilo explicativo é modelado por pais e escola; pode ser reensinado.",
+        "reflection": "Que explicações você repete para crianças?"
       },
       {
         "type": "truth",
         "title": "Otimismo melhora desempenho",
         "text": "Atletas e vendedores otimistas persistem mais e performam melhor.",
         "reflection": "Sua interpretação dos erros te faz desistir cedo?"
+      },
+      {
+        "type": "myth",
+        "title": "Esforço sempre compensa",
+        "text": "Seligman avisa: otimismo ajuda, mas não substitui estratégia e habilidade.",
+        "reflection": "Você usa otimismo como desculpa para não planejar?"
+      },
+      {
+        "type": "truth",
+        "title": "Otimismo é explicação aprendida, não traço fixo",
+        "text": "Seligman mostra que reenquadrar o fracasso como temporário e específico protege contra a depressão.",
+        "reflection": "Sua voz interna generaliza as derrotas ou as isola?"
       }
     ],
     "summary": "Martin Seligman, um dos pais da psicologia positiva, escreve \"Aprendendo a Ser Otimista\" para provar que o otimismo não é temperamento, mas estilo explicativo — e, portanto, algo que se aprende. A tese central parte da \"aprendizagem da impotência\": animais e pessoas que sofrem eventos sem controle param de tentar, mesmo quando o controle volta. O otimista explica os reveses como temporários, específicos e externos; o pessimista, como permanentes, generalizados e internos. Seligman mostra que esse estilo afeta saúde, desempenho e depressão, e ensina a \"reestruturação cognitiva\" para disputar pensamentos pessimistas. O gancho é empoderador: mudar a forma como interpretamos a realidade muda os resultados. O livro traz testes práticos e um programa de exercícios para treinar o otimismo sem cair no pensamento positivo ingênuo, oferecendo uma ponte científica entre como pensamos e como vivemos, age e nos recuperamos das quedas. Ao contrário do pensamento positivo ingênuo, Seligman propõe um otimismo realista: encarar os fatos e reenquadrar a interpretação, não fugir da realidade.",
@@ -29874,16 +29913,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O pessimista acredita que o que dá errado é permanente, universal e sua culpa.",
         "autor": "Martin E.P. Seligman",
         "obra": "Aprendendo a Ser Otimista"
-      },
-      {
-        "texto": "O otimismo pode ser aprendido. Não é um dom, é uma habilidade.",
-        "autor": "Martin E.P. Seligman",
-        "obra": "Aprendendo a Ser Otimista"
-      },
-      {
-        "texto": "Disputar o pensamento pessimista é a chave da mudança.",
-        "autor": "Martin E.P. Seligman",
-        "obra": "Aprendendo a Ser Otimista"
       }
     ],
     "citacoesTerceiros": [
@@ -29894,13 +29923,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "Mais ciência e menos autoajuda barata. Raridade no gênero.",
-        "autor": "Psicólogo",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Os testes no final valem o preço do livro.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -29916,9 +29940,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mapeie seu estilo explicativo",
         "text": "Faça o teste de Seligman: como você explica fracassos e sucessos?",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Mapeie seu estilo explicativo\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Faça o teste de Seligman: como você explica fracassos e sucessos? — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mapeie seu estilo explicativo\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Mapeie seu estilo explicativo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Faça o teste de Seligman: como você explica fracassos e sucessos? — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Mapeie seu estilo explicativo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29926,9 +29950,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Separe permanente de temporário",
         "text": "Reveja o \"sempre/nunca\" para \"agora/às vezes\" nos reveses.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Separe permanente de temporário\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Reveja o \"sempre/nunca\" para \"agora/às vezes\" nos reveses — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Separe permanente de temporário\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Separe permanente de temporário\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reveja o \"sempre/nunca\" para \"agora/às vezes\" nos reveses — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Separe permanente de temporário\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29936,9 +29960,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Circunscreva o problema",
         "text": "Troque \"tudo\" por \"só essa parte\" para evitar generalização.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Circunscreva o problema\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Troque \"tudo\" por \"só essa parte\" para evitar generalização — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Circunscreva o problema\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Circunscreva o problema\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Troque \"tudo\" por \"só essa parte\" para evitar generalização — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Circunscreva o problema\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29946,9 +29970,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dispute a evidência",
         "text": "Pergunte: qual a prova real desse pensamento pessimista?",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Dispute a evidência\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Pergunte: qual a prova real desse pensamento pessimista? — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dispute a evidência\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Dispute a evidência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pergunte: qual a prova real desse pensamento pessimista? — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Dispute a evidência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29956,9 +29980,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a reestruturação",
         "text": "Reescreva o pensamento automático com fatos e alternativas.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Pratique a reestruturação\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Reescreva o pensamento automático com fatos e alternativas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a reestruturação\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Pratique a reestruturação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reescreva o pensamento automático com fatos e alternativas — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Pratique a reestruturação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29966,9 +29990,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não ignore a realidade",
         "text": "Otimismo realista encara o fato e muda a interpretação.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Não ignore a realidade\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Otimismo realista encara o fato e muda a interpretação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não ignore a realidade\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Não ignore a realidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Otimismo realista encara o fato e muda a interpretação — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Não ignore a realidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29976,9 +30000,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ensine crianças",
         "text": "Modele explicações temporárias e específicas para os pequenos.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Ensine crianças\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Modele explicações temporárias e específicas para os pequenos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ensine crianças\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Ensine crianças\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Modele explicações temporárias e específicas para os pequenos — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Ensine crianças\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29986,9 +30010,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o ABCDE",
         "text": "Adversidade, Crença, Consequência, Disputa, Energização: o protocolo.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Use o ABCDE\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Adversidade, Crença, Consequência, Disputa, Energização: o protocolo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o ABCDE\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Use o ABCDE\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Adversidade, Crença, Consequência, Disputa, Energização: o protocolo — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Use o ABCDE\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -29996,9 +30020,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja a saúde",
         "text": "Otimismo moderado fortalece imunidade e reduz risco de depressão.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Proteja a saúde\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Otimismo moderado fortalece imunidade e reduz risco de depressão — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja a saúde\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Proteja a saúde\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Otimismo moderado fortalece imunidade e reduz risco de depressão — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Proteja a saúde\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30006,9 +30030,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha o realismo",
         "text": "Otimismo não substitui competência; soma-se a ela.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Mantenha o realismo\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Otimismo não substitui competência; soma-se a ela — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha o realismo\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Mantenha o realismo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Otimismo não substitui competência; soma-se a ela — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Mantenha o realismo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30016,9 +30040,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Recupere o controle",
         "text": "Identifique onde você desistiu por impotência aprendida e retome.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Recupere o controle\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Identifique onde você desistiu por impotência aprendida e retome — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Recupere o controle\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Recupere o controle\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identifique onde você desistiu por impotência aprendida e retome — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Recupere o controle\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30026,9 +30050,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Celebre o específico",
         "text": "Atribua sucessos a fatores estáveis para reforçar confiança.",
         "explicacoes": [
-          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Celebre o específico\" como peça-chave para a psicologia positiva e o florescer humano.",
-          "Na prática: Atribua sucessos a fatores estáveis para reforçar confiança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Celebre o específico\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman coloca \"Celebre o específico\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Atribua sucessos a fatores estáveis para reforçar confiança — traduzido para a prática, é o passo concreto que liga a teoria de Martin E.P. Seligman ao comportamento diário.",
+          "Ignorar \"Celebre o específico\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -30282,12 +30306,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Sucesso exige grande virada",
-        "text": "Olson sustenta que o sucesso é composto de pequenas escolhas repetidas, não de golpes de sorte.",
-        "reflection": "Você espera o \"evento\" que vai mudar tudo?"
-      },
-      {
         "type": "truth",
         "title": "Pequenas ações acumulam",
         "text": "Decisões aparentemente irrelevantes definem resultados anos à frente.",
@@ -30295,9 +30313,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "O tempo não muda nada",
-        "text": "O tempo é a variável mágica que amplia escolhas simples em destino.",
-        "reflection": "Você desconsidera o efeito de anos de repetição?"
+        "title": "Sucesso exige grande virada",
+        "text": "Olson sustenta que o sucesso é composto de pequenas escolhas repetidas, não de golpes de sorte.",
+        "reflection": "Você espera o \"evento\" que vai mudar tudo?"
       },
       {
         "type": "truth",
@@ -30307,9 +30325,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Resultado rápido é real",
-        "text": "Ganhos rápidos costumam ser ilusórios; a pequena borda é lenta e real.",
-        "reflection": "Você busca atalhos que não duram?"
+        "title": "O tempo não muda nada",
+        "text": "O tempo é a variável mágica que amplia escolhas simples em destino.",
+        "reflection": "Você desconsidera o efeito de anos de repetição?"
       },
       {
         "type": "truth",
@@ -30319,9 +30337,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Falta de força de vontade",
-        "text": "O problema raramente é vontade; é não ver o efeito composto das ações.",
-        "reflection": "Você culpa a disciplina sem medir o hábito?"
+        "title": "Resultado rápido é real",
+        "text": "Ganhos rápidos costumam ser ilusórios; a pequena borda é lenta e real.",
+        "reflection": "Você busca atalhos que não duram?"
       },
       {
         "type": "truth",
@@ -30331,9 +30349,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Sorte explica os ricos",
-        "text": "Olson foca no padrão de escolhas, não em sorte ou herança.",
-        "reflection": "Você atribui o sucesso alheio só à sorte?"
+        "title": "Falta de força de vontade",
+        "text": "O problema raramente é vontade; é não ver o efeito composto das ações.",
+        "reflection": "Você culpa a disciplina sem medir o hábito?"
       },
       {
         "type": "truth",
@@ -30343,9 +30361,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudança exige sofrimento",
-        "text": "Pequenas ações indolores vencem planos heroicos e insustentáveis.",
-        "reflection": "Você só leva a sério esforço doloroso?"
+        "title": "Sorte explica os ricos",
+        "text": "Olson foca no padrão de escolhas, não em sorte ou herança.",
+        "reflection": "Você atribui o sucesso alheio só à sorte?"
       },
       {
         "type": "truth",
@@ -30355,15 +30373,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Basta planejar",
-        "text": "Planos sem execução diária são inúteis; a execução é a borda.",
-        "reflection": "Você planeja muito e executa pouco?"
+        "title": "Mudança exige sofrimento",
+        "text": "Pequenas ações indolores vencem planos heroicos e insustentáveis.",
+        "reflection": "Você só leva a sério esforço doloroso?"
       },
       {
         "type": "truth",
         "title": "O momento é agora",
         "text": "O efeito composto começa na próxima ação, não \"um dia\".",
         "reflection": "Você adia o início para \"quando der\"?"
+      },
+      {
+        "type": "myth",
+        "title": "Basta planejar",
+        "text": "Planos sem execução diária são inúteis; a execução é a borda.",
+        "reflection": "Você planeja muito e executa pouco?"
+      },
+      {
+        "type": "truth",
+        "title": "Pequenas margens diárias vencem a sorte a longo prazo",
+        "text": "Olson defende que consistência simples supera ações esporádicas grandiosas.",
+        "reflection": "Você subestima o que um hábito minúsculo faz em uma década?"
       }
     ],
     "summary": "Jeff Olson, em \"A Pequena Borda\" (The Slight Edge), defende uma ideia desarmante: o sucesso não vem de grandes viradas, mas da acumulação de pequenas escolhas diárias que parecem irrelevantes no momento. A tese central é que todas as ações têm um custo ou retorno que só se revela no longo prazo, e que a maioria das pessoas subestima o poder do tempo. O que você faz (ou deixa de fazer) hoje — ler uma página, comer pior, treinar dez minutos — parece não importar amanhã, mas, composto por anos, define sua vida. Olson chama de \"pequena borda\" a margem minúscula de vantagem que decide corridas longas. O gancho: o caminho da ruína e o da glória são feitos das mesmíssimas ações pequenas; a diferença é a constância. O livro mistura filosofia e prática para converter intenção em hábito sustentável e mostrar que o tempo é o aliado silencioso de quem persistir.",
@@ -30384,16 +30414,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Simples não é fácil.",
         "autor": "Jeff Olson",
         "obra": "A Pequena Borda"
-      },
-      {
-        "texto": "A pequena borda é a margem mínima que decide no longo prazo.",
-        "autor": "Jeff Olson",
-        "obra": "A Pequena Borda"
-      },
-      {
-        "texto": "Você já está caminhando para o sucesso ou para a ruína — pelas mesmas ações.",
-        "autor": "Jeff Olson",
-        "obra": "A Pequena Borda"
       }
     ],
     "citacoesTerceiros": [
@@ -30404,13 +30424,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "Me fez perceber que meu problema não é falta de plano, é falta de repetição.",
-        "autor": "Empreendedor",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "A frase \"simples não é fácil\" vale o livro inteiro.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -30426,9 +30441,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escolha a pequena borda",
         "text": "Defina ações simples de alta vantagem composta e repita diariamente.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Escolha a pequena borda\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Defina ações simples de alta vantagem composta e repita diariamente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escolha a pequena borda\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Escolha a pequena borda\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Defina ações simples de alta vantagem composta e repita diariamente — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Escolha a pequena borda\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30436,9 +30451,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Respeite o tempo",
         "text": "Veja o tempo como aliado que amplifica escolhas pequenas.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Respeite o tempo\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Veja o tempo como aliado que amplifica escolhas pequenas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Respeite o tempo\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Respeite o tempo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Veja o tempo como aliado que amplifica escolhas pequenas — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Respeite o tempo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30446,9 +30461,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Separe simples de fácil",
         "text": "Planeje para o \"não fácil\": automatize e reduza atrito.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Separe simples de fácil\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Planeje para o \"não fácil\": automatize e reduza atrito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Separe simples de fácil\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Separe simples de fácil\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Planeje para o \"não fácil\": automatize e reduza atrito — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Separe simples de fácil\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30456,9 +30471,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Jogue a favor do composto",
         "text": "Pequenas vitórias diárias viram resultados anos depois.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Jogue a favor do composto\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Pequenas vitórias diárias viram resultados anos depois — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Jogue a favor do composto\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Jogue a favor do composto\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenas vitórias diárias viram resultados anos depois — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Jogue a favor do composto\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30466,9 +30481,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite a borda negativa",
         "text": "Pequenos descuidos diários também compostam ruína; corte-os.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Evite a borda negativa\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Pequenos descuidos diários também compostam ruína; corte-os — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite a borda negativa\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Evite a borda negativa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenos descuidos diários também compostam ruína; corte-os — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Evite a borda negativa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30476,9 +30491,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use o ambiente",
         "text": "Cerque-se de pessoas e lugares que praticam a borda.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Use o ambiente\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Cerque-se de pessoas e lugares que praticam a borda — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use o ambiente\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Use o ambiente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cerque-se de pessoas e lugares que praticam a borda — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Use o ambiente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30486,9 +30501,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não busque atalhos",
         "text": "Promessas de resultado rápido ignoram a física do composto.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Não busque atalhos\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Promessas de resultado rápido ignoram a física do composto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não busque atalhos\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Não busque atalhos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Promessas de resultado rápido ignoram a física do composto — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Não busque atalhos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30496,9 +30511,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Registre o hábito",
         "text": "Acompanhar a pequena ação diária mantém a constância.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Registre o hábito\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Acompanhar a pequena ação diária mantém a constância — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Registre o hábito\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Registre o hábito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acompanhar a pequena ação diária mantém a constância — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Registre o hábito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30506,9 +30521,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece minúsculo",
         "text": "Uma página, dez minutos: o tamanho importa menos que a regularidade.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Comece minúsculo\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Uma página, dez minutos: o tamanho importa menos que a regularidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece minúsculo\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Comece minúsculo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma página, dez minutos: o tamanho importa menos que a regularidade — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Comece minúsculo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30516,9 +30531,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mude a filosofia",
         "text": "Adite a crença de que o longo prazo é real e decide.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Mude a filosofia\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: Adite a crença de que o longo prazo é real e decide — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mude a filosofia\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Mude a filosofia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Adite a crença de que o longo prazo é real e decide — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Mude a filosofia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30526,9 +30541,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja paciente",
         "text": "A pequena borda não paga amanhã; paga no tempo certo.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Seja paciente\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: A pequena borda não paga amanhã; paga no tempo certo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja paciente\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Seja paciente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A pequena borda não paga amanhã; paga no tempo certo — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Seja paciente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30536,9 +30551,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja hoje",
         "text": "A corrida começa na próxima pequena escolha, não no plano.",
         "explicacoes": [
-          "Em \"A Pequena Borda\", Jeff Olson trata \"Aja hoje\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
-          "Na prática: A corrida começa na próxima pequena escolha, não no plano — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja hoje\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+          "Em \"A Pequena Borda\", Jeff Olson coloca \"Aja hoje\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A corrida começa na próxima pequena escolha, não no plano — traduzido para a prática, é o passo concreto que liga a teoria de Jeff Olson ao comportamento diário.",
+          "Ignorar \"Aja hoje\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -30792,12 +30807,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Um método serve para todos",
-        "text": "Rubin mostra que o perfil de cada um determina qual estratégia funciona.",
-        "reflection": "Você tentou métodos que funcionam para outros, não para você?"
-      },
-      {
         "type": "truth",
         "title": "Conheça suas tendências",
         "text": "Upholder, Questioner, Obliger ou Rebel muda tudo na formação de hábito.",
@@ -30805,9 +30814,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Falta de força de vontade",
-        "text": "Muitas falhas vêm de método errado, não de fraqueza moral.",
-        "reflection": "Você se culpa sem examinar o método?"
+        "title": "Um método serve para todos",
+        "text": "Rubin mostra que o perfil de cada um determina qual estratégia funciona.",
+        "reflection": "Você tentou métodos que funcionam para outros, não para você?"
       },
       {
         "type": "truth",
@@ -30817,9 +30826,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Porque sim basta",
-        "text": "Questioners precisam de razão; mandar \"porque sim\" falha com eles.",
-        "reflection": "Você exige obediência de quem precisa de lógica?"
+        "title": "Falta de força de vontade",
+        "text": "Muitas falhas vêm de método errado, não de fraqueza moral.",
+        "reflection": "Você se culpa sem examinar o método?"
       },
       {
         "type": "truth",
@@ -30829,9 +30838,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Rotina engessa",
-        "text": "Estrutura liberta quem se desorienta sem ela; não é prisão.",
-        "reflection": "Você rejeita rotina e depois se perde?"
+        "title": "Porque sim basta",
+        "text": "Questioners precisam de razão; mandar \"porque sim\" falha com eles.",
+        "reflection": "Você exige obediência de quem precisa de lógica?"
       },
       {
         "type": "truth",
@@ -30841,9 +30850,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudança exige sofrimento",
-        "text": "Estratégias de conveniência tornam o certo mais fácil que o errado.",
-        "reflection": "Você torna o bom hábito difícil?"
+        "title": "Rotina engessa",
+        "text": "Estrutura liberta quem se desorienta sem ela; não é prisão.",
+        "reflection": "Você rejeita rotina e depois se perde?"
       },
       {
         "type": "truth",
@@ -30853,9 +30862,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Autoajuda é individual",
-        "text": "O contexto e as pessoas à sua volta moldam o que você sustenta.",
-        "reflection": "Seu ambiente sabotou suas tentativas?"
+        "title": "Mudança exige sofrimento",
+        "text": "Estratégias de conveniência tornam o certo mais fácil que o errado.",
+        "reflection": "Você torna o bom hábito difícil?"
       },
       {
         "type": "truth",
@@ -30865,15 +30874,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Rebeldes não mudam",
-        "text": "Rebels mudam quando sentem autonomia e escolha, não obrigação.",
-        "reflection": "Você tentou obrigar quem precisa de liberdade?"
+        "title": "Autoajuda é individual",
+        "text": "O contexto e as pessoas à sua volta moldam o que você sustenta.",
+        "reflection": "Seu ambiente sabotou suas tentativas?"
       },
       {
         "type": "truth",
         "title": "Autoconhecimento acaba com culpa",
         "text": "Saber seu tipo troca autocrítica por design adequado.",
         "reflection": "Você se culpa por falhar em método errado?"
+      },
+      {
+        "type": "myth",
+        "title": "Rebeldes não mudam",
+        "text": "Rebels mudam quando sentem autonomia e escolha, não obrigação.",
+        "reflection": "Você tentou obrigar quem precisa de liberdade?"
+      },
+      {
+        "type": "truth",
+        "title": "Conhecer seu próprio modo de mudar é a chave",
+        "text": "Rubin classifica os 'quadros' de personalidade para que cada um escolha estratégias que funcionam.",
+        "reflection": "Você imita a rotina de outro em vez de descobrir a sua?"
       }
     ],
     "summary": "Gretchen Rubin, em \"Melhor Que Antes\" (Better Than Before), mergulha no que ela chama de \"eterna questão humana\": como conseguimos formar hábitos e deixar maus costumes? Sua contribuição original é o framework das \"quatro tendências\" — como cada pessoa responde a expectativas externas e internas (Upholder, Questioner, Obliger, Rebel). A tese central: não existe um método universal de hábito; o que funciona depende do seu perfil. Rubin também explora eixos como abstenção vs. moderação, estrutura vs. flexibilidade, e o papel dos relacionamentos. O gancho é libertador: descobrir seu próprio \"tipo de hábito\" acaba com a culpa de falhar em métodos feitos para outros. Com dezenas de estratégias (empilhamento, fundação, conveniência), o livro é um manual prático e compassivo para quem quer mudar sem autojulgamento e respeitando a própria psicologia em vez de imitar a dos outros. Ao identificar se você é Upholder, Questioner, Obliger ou Rebel, deixa de se culpar por falhar em métodos desenhados para outros perfis.",
@@ -30894,33 +30915,18 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Há abstinentes e moderados; saber qual você é muda tudo.",
         "autor": "Gretchen Rubin",
         "obra": "Melhor Que Antes"
-      },
-      {
-        "texto": "As expectativas revelam quem somos.",
-        "autor": "Gretchen Rubin",
-        "obra": "Melhor Que Antes"
-      },
-      {
-        "texto": "Hábitos fundamentais facilitam todos os outros.",
-        "autor": "Gretchen Rubin",
-        "obra": "Melhor Que Antes"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Descobrir que sou Obliger explicou décadas de fracasso em academias.",
-        "autor": "Leitora",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       },
       {
         "texto": "Menos inspiracional, mais útil que a maioria dos livros de hábito.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "O framework das quatro tendências é ouro para gestores.",
-        "autor": "Gerente",
-        "fonte": "Goodreads"
       }
     ],
     "sections": [
@@ -30936,9 +30942,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Descubra sua tendência",
         "text": "Faça o teste das quatro tendências para escolher estratégias certas.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Descubra sua tendência\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Faça o teste das quatro tendências para escolher estratégias certas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Descubra sua tendência\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Descubra sua tendência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Faça o teste das quatro tendências para escolher estratégias certas — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Descubra sua tendência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30946,9 +30952,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Defina abstinente ou moderado",
         "text": "Saiba se você deve cortar ou dosar; evite a zona de tentação.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Defina abstinente ou moderado\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Saiba se você deve cortar ou dosar; evite a zona de tentação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Defina abstinente ou moderado\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Defina abstinente ou moderado\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saiba se você deve cortar ou dosar; evite a zona de tentação — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Defina abstinente ou moderado\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30956,9 +30962,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use empilhamento",
         "text": "Ligue o novo hábito a um já existente para criar gatilho.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Use empilhamento\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Ligue o novo hábito a um já existente para criar gatilho — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use empilhamento\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Use empilhamento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ligue o novo hábito a um já existente para criar gatilho — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Use empilhamento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30966,9 +30972,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuide dos fundamentais",
         "text": "Sono, alimentação e exercício baseiam todos os outros hábitos.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Cuide dos fundamentais\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Sono, alimentação e exercício baseiam todos os outros hábitos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuide dos fundamentais\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Cuide dos fundamentais\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sono, alimentação e exercício baseiam todos os outros hábitos — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Cuide dos fundamentais\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30976,9 +30982,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aproveite a conveniência",
         "text": "Torne o bom hábito fácil e o ruim difícil de alcançar.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Aproveite a conveniência\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Torne o bom hábito fácil e o ruim difícil de alcançar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aproveite a conveniência\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Aproveite a conveniência\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Torne o bom hábito fácil e o ruim difícil de alcançar — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Aproveite a conveniência\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30986,9 +30992,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a obrigação social",
         "text": "Obligers devem comprometer terceiros para sustentar mudança.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Use a obrigação social\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Obligers devem comprometer terceiros para sustentar mudança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a obrigação social\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Use a obrigação social\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Obligers devem comprometer terceiros para sustentar mudança — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Use a obrigação social\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -30996,9 +31002,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Questioners busquem razão",
         "text": "Dê a si mesmo justificativas claras antes de adotar o hábito.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Questioners busquem razão\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Dê a si mesmo justificativas claras antes de adotar o hábito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Questioners busquem razão\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Questioners busquem razão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Dê a si mesmo justificativas claras antes de adotar o hábito — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Questioners busquem razão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31006,9 +31012,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Respeite a estrutura",
         "text": "Se você se perde sem rotina, abrace a estrutura em vez de combatê-la.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Respeite a estrutura\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Se você se perde sem rotina, abrace a estrutura em vez de combatê-la — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Respeite a estrutura\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Respeite a estrutura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Se você se perde sem rotina, abrace a estrutura em vez de combatê-la — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Respeite a estrutura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31016,9 +31022,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Rebels usem escolha",
         "text": "Deixe o rebel sentir autonomia; nunca imponha por autoridade.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Rebels usem escolha\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Deixe o rebel sentir autonomia; nunca imponha por autoridade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Rebels usem escolha\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Rebels usem escolha\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Deixe o rebel sentir autonomia; nunca imponha por autoridade — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Rebels usem escolha\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31026,9 +31032,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje abastecimento",
         "text": "Antecipe gatilhos e remova tentações do ambiente.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Planeje abastecimento\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Antecipe gatilhos e remova tentações do ambiente — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje abastecimento\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Planeje abastecimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Antecipe gatilhos e remova tentações do ambiente — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Planeje abastecimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31036,9 +31042,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Comece pequeno",
         "text": "Microhábitos respeitam a resistência inicial e criam confiança.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Comece pequeno\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Microhábitos respeitam a resistência inicial e criam confiança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Comece pequeno\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Comece pequeno\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Microhábitos respeitam a resistência inicial e criam confiança — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Comece pequeno\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31046,9 +31052,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sem autoculpa",
         "text": "Falhar é sinal de método errado; ajuste o design, não a autoestima.",
         "explicacoes": [
-          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Sem autoculpa\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
-          "Na prática: Falhar é sinal de método errado; ajuste o design, não a autoestima — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sem autoculpa\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+          "Em \"Melhor Que Antes\", Gretchen Rubin coloca \"Sem autoculpa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Falhar é sinal de método errado; ajuste o design, não a autoestima — traduzido para a prática, é o passo concreto que liga a teoria de Gretchen Rubin ao comportamento diário.",
+          "Ignorar \"Sem autoculpa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -31302,12 +31308,6 @@ window.MEU_BOLSO_BOOKS=[
     "topic": "habitos",
     "myths": [
       {
-        "type": "myth",
-        "title": "Força de vontade é ilimitada",
-        "text": "Baumeister mostra que é um recurso finito que se esgota com o uso.",
-        "reflection": "Você tenta decidir tudo e acaba cedendo?"
-      },
-      {
         "type": "truth",
         "title": "Depleção do ego existe",
         "text": "Autocontrole gasta energia; depois de muitas decisões, cedemos.",
@@ -31315,9 +31315,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Decisões fortes mostram caráter",
-        "text": "Quem decide demais se torna mais fraco; poupe decisões.",
-        "reflection": "Você gasta disciplina em escolhas triviais?"
+        "title": "Força de vontade é ilimitada",
+        "text": "Baumeister mostra que é um recurso finito que se esgota com o uso.",
+        "reflection": "Você tenta decidir tudo e acaba cedendo?"
       },
       {
         "type": "truth",
@@ -31327,9 +31327,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Basta querer",
-        "text": "Vontade isolada raramente vence ambiente mal desenhado.",
-        "reflection": "Você confia na vontade e ignora o ambiente?"
+        "title": "Decisões fortes mostram caráter",
+        "text": "Quem decide demais se torna mais fraco; poupe decisões.",
+        "reflection": "Você gasta disciplina em escolhas triviais?"
       },
       {
         "type": "truth",
@@ -31339,9 +31339,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Super-homens nascem prontos",
-        "text": "Disciplina é treinada, não dom; método vence dom.",
-        "reflection": "Você acha que \"não nasceu disciplinado\"?"
+        "title": "Basta querer",
+        "text": "Vontade isolada raramente vence ambiente mal desenhado.",
+        "reflection": "Você confia na vontade e ignora o ambiente?"
       },
       {
         "type": "truth",
@@ -31351,9 +31351,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Mudança exige esforço contínuo",
-        "text": "Hábitos automatizados reduzem o custo de vontade a zero.",
-        "reflection": "Você reluta em automatizar ganhos?"
+        "title": "Super-homens nascem prontos",
+        "text": "Disciplina é treinada, não dom; método vence dom.",
+        "reflection": "Você acha que \"não nasceu disciplinado\"?"
       },
       {
         "type": "truth",
@@ -31363,9 +31363,9 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Foco em várias metas",
-        "text": "Muitas metas simultâneas drenam o mesmo recurso; foque.",
-        "reflection": "Você tenta mudar tudo de uma vez?"
+        "title": "Mudança exige esforço contínuo",
+        "text": "Hábitos automatizados reduzem o custo de vontade a zero.",
+        "reflection": "Você reluta em automatizar ganhos?"
       },
       {
         "type": "truth",
@@ -31375,15 +31375,27 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "type": "myth",
-        "title": "Motivação substitui vontade",
-        "text": "Motivação oscila; sistemas poupam o recurso quando ela falta.",
-        "reflection": "Você conta com motivação e não com sistema?"
+        "title": "Foco em várias metas",
+        "text": "Muitas metas simultâneas drenam o mesmo recurso; foque.",
+        "reflection": "Você tenta mudar tudo de uma vez?"
       },
       {
         "type": "truth",
         "title": "Treino aumenta a capacidade",
         "text": "Exercícios pequenos de autocontrole elevam a reserva geral.",
         "reflection": "Você treina disciplina ou só a gasta?"
+      },
+      {
+        "type": "myth",
+        "title": "Motivação substitui vontade",
+        "text": "Motivação oscila; sistemas poupam o recurso quando ela falta.",
+        "reflection": "Você conta com motivação e não com sistema?"
+      },
+      {
+        "type": "truth",
+        "title": "Força de vontade é recurso finito que se recupera com hábito",
+        "text": "Baumeister mostra que a autodisciplina se esgota no dia e se poupa com rotinas e ambiente.",
+        "reflection": "Você cobra foco máximo de si nas horas em que já está esgotado?"
       }
     ],
     "summary": "Roy Baumeister e John Tierney, em \"Força de Vontade\" (Willpower), traduzem décadas de psicologia experimental para o público: a autodisciplina não é um traço ilimitado, mas um recurso finito que se esgota com o uso — o fenômeno da \"depleção do ego\". A tese central é que a força de vontade funciona como um músculo: cansa com o exercício, mas se fortalece com treino. Os autores mostram que glucose importa, que decidir demais drena a disciplina e que o ambiente bem desenhado poupa esse recurso. O gancho prático: em vez de confiar na força de vontade, reduza a necessidade dela com comprometimento prévio e design de escolha. O livro desmistifica a ideia de \"super-homens disciplinados\" e entrega táticas baseadas em evidência para quem quer vencer impulsos sem lutar toda hora, poupando energia mental para o que realmente importa no dia. A lição prática é clara: não confie na força de vontade isolada; desenhe o ambiente para que o certo seja o caminho fácil e poupe esse recurso.",
@@ -31404,16 +31416,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Quem decide demais no fim do dia cede à tentação.",
         "autor": "Roy F. Baumeister",
         "obra": "Força de Vontade"
-      },
-      {
-        "texto": "O melhor uso da força de vontade é não precisar dela.",
-        "autor": "Roy F. Baumeister",
-        "obra": "Força de Vontade"
-      },
-      {
-        "texto": "O autocontrole prevê o sucesso melhor que o QI.",
-        "autor": "Roy F. Baumeister",
-        "obra": "Força de Vontade"
       }
     ],
     "citacoesTerceiros": [
@@ -31424,13 +31426,8 @@ window.MEU_BOLSO_BOOKS=[
       },
       {
         "texto": "Ciência real de autocontrole, sem misticismo.",
-        "autor": "Psicólogo",
-        "fonte": "Amazon"
-      },
-      {
-        "texto": "Implementei o \"jantar decidido de manhã\" e economizei energia.",
         "autor": "Leitor",
-        "fonte": "Goodreads"
+        "fonte": "Amazon"
       }
     ],
     "sections": [
@@ -31446,9 +31443,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Poupe decisões",
         "text": "Automatize escolhas triviais (roupa, refeições) para guardar disciplina.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Poupe decisões\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Automatize escolhas triviais (roupa, refeições) para guardar disciplina — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Poupe decisões\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Poupe decisões\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Automatize escolhas triviais (roupa, refeições) para guardar disciplina — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Poupe decisões\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31456,9 +31453,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Trate como músculo",
         "text": "Treine autocontrole em pequenas doses para fortalecer a reserva.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Trate como músculo\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Treine autocontrole em pequenas doses para fortalecer a reserva — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Trate como músculo\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Trate como músculo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Treine autocontrole em pequenas doses para fortalecer a reserva — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Trate como músculo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31466,9 +31463,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Coma e durma",
         "text": "Glicose e sono estão na base da capacidade de resistir.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Coma e durma\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Glicose e sono estão na base da capacidade de resistir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Coma e durma\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Coma e durma\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Glicose e sono estão na base da capacidade de resistir — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Coma e durma\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31476,9 +31473,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use comprometimento",
         "text": "Decida de antemão e crie barreiras que impedem o recuo.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Use comprometimento\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Decida de antemão e crie barreiras que impedem o recuo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use comprometimento\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Use comprometimento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Decida de antemão e crie barreiras que impedem o recuo — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Use comprometimento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31486,9 +31483,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Remova tentações",
         "text": "Tire o estímulo do ambiente; é mais fácil que resistir.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Remova tentações\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Tire o estímulo do ambiente; é mais fácil que resistir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Remova tentações\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Remova tentações\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tire o estímulo do ambiente; é mais fácil que resistir — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Remova tentações\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31496,9 +31493,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foque em uma meta",
         "text": "Mudanças demais ao mesmo tempo drenam o mesmo recurso.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Foque em uma meta\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Mudanças demais ao mesmo tempo drenam o mesmo recurso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foque em uma meta\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Foque em uma meta\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mudanças demais ao mesmo tempo drenam o mesmo recurso — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Foque em uma meta\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31506,9 +31503,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Monitore",
         "text": "Registrar o comportamento aumenta a chance de controle.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Monitore\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Registrar o comportamento aumenta a chance de controle — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Monitore\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Monitore\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Registrar o comportamento aumenta a chance de controle — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Monitore\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31516,9 +31513,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Automatize hábitos",
         "text": "Quando vira automático, deixa de custar força de vontade.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Automatize hábitos\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Quando vira automático, deixa de custar força de vontade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Automatize hábitos\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Automatize hábitos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quando vira automático, deixa de custar força de vontade — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Automatize hábitos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31526,9 +31523,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Evite a noite fraca",
         "text": "Agende decisões difíceis para quando a reserva está cheia.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Evite a noite fraca\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Agende decisões difíceis para quando a reserva está cheia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Evite a noite fraca\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Evite a noite fraca\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Agende decisões difíceis para quando a reserva está cheia — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Evite a noite fraca\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31536,9 +31533,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje o ambiente",
         "text": "Desenhe escolhas para que o certo seja o caminho fácil.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Planeje o ambiente\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Desenhe escolhas para que o certo seja o caminho fácil — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje o ambiente\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Planeje o ambiente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Desenhe escolhas para que o certo seja o caminho fácil — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Planeje o ambiente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31546,9 +31543,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Recarregue",
         "text": "Pausas e refeições recuperam o recurso drenado.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Recarregue\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: Pausas e refeições recuperam o recurso drenado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Recarregue\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Recarregue\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pausas e refeições recuperam o recurso drenado — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Recarregue\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -31556,9 +31553,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine a longo prazo",
         "text": "A capacidade cresce com prática consistente, não com heroísmo.",
         "explicacoes": [
-          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Treine a longo prazo\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
-          "Na prática: A capacidade cresce com prática consistente, não com heroísmo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine a longo prazo\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+          "Em \"Força de Vontade\", Roy F. Baumeister coloca \"Treine a longo prazo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A capacidade cresce com prática consistente, não com heroísmo — traduzido para a prática, é o passo concreto que liga a teoria de Roy F. Baumeister ao comportamento diário.",
+          "Ignorar \"Treine a longo prazo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
