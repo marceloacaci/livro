@@ -18095,62 +18095,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Adote mentalidade de crescimento",
-        "text": "Creia que habilidades se desenvolvem com prática."
+        "text": "Creia que habilidades se desenvolvem com prática.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Adote mentalidade de crescimento\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Creia que habilidades se desenvolvem com prática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Adote mentalidade de crescimento\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Elogie o esforço e a estratégia",
-        "text": "Louvar processo, não rótulo, faz persistir."
+        "text": "Louvar processo, não rótulo, faz persistir.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Elogie o esforço e a estratégia\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Louvar processo, não rótulo, faz persistir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Elogie o esforço e a estratégia\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Use o \"ainda não\"",
-        "text": "Reconheça trajetória; mantenha a porta aberta."
+        "text": "Reconheça trajetória; mantenha a porta aberta.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Use o \"ainda não\"\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Reconheça trajetória; mantenha a porta aberta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o \"ainda não\"\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Veja erro como dado",
-        "text": "Erro é informação de aprendizagem, não ameaça."
+        "text": "Erro é informação de aprendizagem, não ameaça.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Veja erro como dado\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Erro é informação de aprendizagem, não ameaça — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Veja erro como dado\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Busque desafios",
-        "text": "Dificuldade é onde se aprende; evitá-la trava."
+        "text": "Dificuldade é onde se aprende; evitá-la trava.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Busque desafios\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Dificuldade é onde se aprende; evitá-la trava — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque desafios\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Ajuste a estratégia",
-        "text": "Persistir com método; mudar abordagem quando necessário."
+        "text": "Persistir com método; mudar abordagem quando necessário.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Ajuste a estratégia\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Persistir com método; mudar abordagem quando necessário — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ajuste a estratégia\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Lidere com crescimento",
-        "text": "Cultura que acolhe erro aprende mais rápido."
+        "text": "Cultura que acolhe erro aprende mais rápido.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Lidere com crescimento\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Cultura que acolhe erro aprende mais rápido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Lidere com crescimento\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Aplique nos relacionamentos",
-        "text": "Encare problemas como conjuntos, não traços fixos."
+        "text": "Encare problemas como conjuntos, não traços fixos.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Aplique nos relacionamentos\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Encare problemas como conjuntos, não traços fixos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique nos relacionamentos\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Aprenda com o exemplo alheio",
-        "text": "Sucesso de outros inspira, não ameaça."
+        "text": "Sucesso de outros inspira, não ameaça.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Aprenda com o exemplo alheio\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Sucesso de outros inspira, não ameaça — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aprenda com o exemplo alheio\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Reconheça gatilhos fixos",
-        "text": "Identifique quando a mente fixa aparece e responda com crescimento."
+        "text": "Identifique quando a mente fixa aparece e responda com crescimento.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Reconheça gatilhos fixos\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Identifique quando a mente fixa aparece e responda com crescimento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reconheça gatilhos fixos\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Confie na plasticidade",
-        "text": "Praticar muda o cérebro; capacidade não é estática."
+        "text": "Praticar muda o cérebro; capacidade não é estática.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Confie na plasticidade\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Praticar muda o cérebro; capacidade não é estática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Confie na plasticidade\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Foque na própria trajetória",
-        "text": "Progresso próprio bate ranking externo constante."
+        "text": "Progresso próprio bate ranking externo constante.",
+        "explicacoes": [
+          "Em \"Mindset: A Atitude para o Sucesso\", Carol S. Dweck trata \"Foque na própria trajetória\" como peça-chave para a mentalidade de crescimento versus a fixa.",
+          "Na prática: Progresso próprio bate ranking externo constante — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque na própria trajetória\" aplica a mentalidade de crescimento versus a fixa de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -18172,72 +18232,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Os dois mindsets",
         "text": "Fixo vs crescimento e como surgem.",
         "points": [
-          "Fixo",
-          "Crescimento",
-          "Origem"
+          {
+            "t": "Fixo",
+            "e": "Fixo vs crescimento e como surgem.",
+            "f": "Na visão de Carol S. Dweck, \"fixo\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Crescimento",
+            "e": "Fixo vs crescimento e como surgem.",
+            "f": "Na mentalidade de crescimento, as pessoas acreditam que suas capacidades podem ser desenvolvidas através do esforço e da estratégia.",
+            "real": true
+          },
+          {
+            "t": "Origem",
+            "e": "Fixo vs crescimento e como surgem.",
+            "f": "Na visão de Carol S. Dweck, \"origem\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Dentro da mente fixa",
         "text": "Medo do erro e necessidade de provar.",
         "points": [
-          "Ameaça",
-          "Prova",
-          "Paralisia"
+          {
+            "t": "Ameaça",
+            "e": "Medo do erro e necessidade de provar.",
+            "f": "Líderes de mentalidade fixa silenciam o erro; os de crescimento o transformam em aprendizagem.",
+            "real": true
+          },
+          {
+            "t": "Prova",
+            "e": "Medo do erro e necessidade de provar.",
+            "f": "Na visão de Carol S. Dweck, \"prova\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Paralisia",
+            "e": "Medo do erro e necessidade de provar.",
+            "f": "Na visão de Carol S. Dweck, \"paralisia\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A força do \"ainda\"",
         "text": "Trajetória e porta aberta.",
         "points": [
-          "Ainda",
-          "Trajetória",
-          "Esperança"
+          {
+            "t": "Ainda",
+            "e": "Trajetória e porta aberta.",
+            "f": "A palavra \"ainda\" pode mudar tudo: você ainda não consegue, mas está no caminho.",
+            "real": true
+          },
+          {
+            "t": "Trajetória",
+            "e": "Trajetória e porta aberta.",
+            "f": "Na visão de Carol S. Dweck, \"trajetória\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Esperança",
+            "e": "Trajetória e porta aberta.",
+            "f": "Na visão de Carol S. Dweck, \"esperança\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Esportes e mindset",
         "text": "Talento vs trabalho em campeões.",
         "points": [
-          "Talento",
-          "Trabalho",
-          "Campeões"
+          {
+            "t": "Talento",
+            "e": "Talento vs trabalho em campeões.",
+            "f": "Na visão de Carol S. Dweck, \"talento\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Trabalho",
+            "e": "Talento vs trabalho em campeões.",
+            "f": "Na visão de Carol S. Dweck, \"trabalho\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Campeões",
+            "e": "Talento vs trabalho em campeões.",
+            "f": "Na visão de Carol S. Dweck, \"campeões\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Negócios e liderança",
         "text": "Como chefes moldam a cultura do erro.",
         "points": [
-          "Liderança",
-          "Cultura",
-          "Erro"
+          {
+            "t": "Liderança",
+            "e": "Como chefes moldam a cultura do erro.",
+            "f": "Na visão de Carol S. Dweck, \"liderança\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Cultura",
+            "e": "Como chefes moldam a cultura do erro.",
+            "f": "Na visão de Carol S. Dweck, \"cultura\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Erro",
+            "e": "Como chefes moldam a cultura do erro.",
+            "f": "Líderes de mentalidade fixa silenciam o erro; os de crescimento o transformam em aprendizagem.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Relacionamentos",
         "text": "Crescimento aplicado ao amor.",
         "points": [
-          "Casal",
-          "Problema",
-          "Evolução"
+          {
+            "t": "Casal",
+            "e": "Crescimento aplicado ao amor.",
+            "f": "Na visão de Carol S. Dweck, \"casal\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Problema",
+            "e": "Crescimento aplicado ao amor.",
+            "f": "Na visão de Carol S. Dweck, \"problema\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Evolução",
+            "e": "Crescimento aplicado ao amor.",
+            "f": "Na visão de Carol S. Dweck, \"evolução\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Pais e professores",
         "text": "O perigo de elogiar o rótulo.",
         "points": [
-          "Elogio",
-          "Processo",
-          "Criança"
+          {
+            "t": "Elogio",
+            "e": "O perigo de elogiar o rótulo.",
+            "f": "Na visão de Carol S. Dweck, \"elogio\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Processo",
+            "e": "O perigo de elogiar o rótulo.",
+            "f": "Na visão de Carol S. Dweck, \"processo\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Criança",
+            "e": "O perigo de elogiar o rótulo.",
+            "f": "Na visão de Carol S. Dweck, \"criança\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Mudando o mindset",
         "text": "Reconhecer gatilhos e responder com crescimento.",
         "points": [
-          "Gatilho",
-          "Resposta",
-          "Prática"
+          {
+            "t": "Gatilho",
+            "e": "Reconhecer gatilhos e responder com crescimento.",
+            "f": "Na visão de Carol S. Dweck, \"gatilho\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Resposta",
+            "e": "Reconhecer gatilhos e responder com crescimento.",
+            "f": "Na visão de Carol S. Dweck, \"resposta\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Prática",
+            "e": "Reconhecer gatilhos e responder com crescimento.",
+            "f": "Na visão de Carol S. Dweck, \"prática\" é parte essencial da proposta de \"Mindset: A Atitude para o Sucesso\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -18401,62 +18581,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Assuma responsabilidade total",
-        "text": "Você cria sua realidade; essa é a base da mudança."
+        "text": "Você cria sua realidade; essa é a base da mudança.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Assuma responsabilidade total\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Você cria sua realidade; essa é a base da mudança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma responsabilidade total\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Acorde com intenção",
-        "text": "Antecipe o despertar; a manhã é seu tempo sagrado."
+        "text": "Antecipe o despertar; a manhã é seu tempo sagrado.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Acorde com intenção\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Antecipe o despertar; a manhã é seu tempo sagrado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acorde com intenção\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Pratique SAVERS",
-        "text": "Silêncio, afirmações, visualização, exercício, leitura e escrita."
+        "text": "Silêncio, afirmações, visualização, exercício, leitura e escrita.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Pratique SAVERS\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Silêncio, afirmações, visualização, exercício, leitura e escrita — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique SAVERS\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Comece com 6 minutos",
-        "text": "O milagre resumido cabe em pouco; amplie depois."
+        "text": "O milagre resumido cabe em pouco; amplie depois.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Comece com 6 minutos\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: O milagre resumido cabe em pouco; amplie depois — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece com 6 minutos\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Use o silêncio",
-        "text": "Medite/respire para centrar a mente antes da correria."
+        "text": "Medite/respire para centrar a mente antes da correria.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Use o silêncio\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Medite/respire para centrar a mente antes da correria — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o silêncio\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Faça afirmações",
-        "text": "Reprograme crenças com frases direcionadas ao objetivo."
+        "text": "Reprograme crenças com frases direcionadas ao objetivo.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Faça afirmações\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Reprograme crenças com frases direcionadas ao objetivo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça afirmações\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Visualize o dia",
-        "text": "Veja os resultados antes de agir; programa o cérebro."
+        "text": "Veja os resultados antes de agir; programa o cérebro.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Visualize o dia\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Veja os resultados antes de agir; programa o cérebro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Visualize o dia\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Mova o corpo",
-        "text": "Exercício matinal energiza o resto do dia."
+        "text": "Exercício matinal energiza o resto do dia.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Mova o corpo\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Exercício matinal energiza o resto do dia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mova o corpo\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Leia e escreva",
-        "text": "Leitura de crescimento e journaling consolidam aprendizado."
+        "text": "Leitura de crescimento e journaling consolidam aprendizado.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Leia e escreva\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Leitura de crescimento e journaling consolidam aprendizado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Leia e escreva\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Seja consistente",
-        "text": "Todos os dias, mesmo pouco, vence a intensidade esporádica."
+        "text": "Todos os dias, mesmo pouco, vence a intensidade esporádica.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Seja consistente\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Todos os dias, mesmo pouco, vence a intensidade esporádica — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja consistente\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Aja para gerar motivação",
-        "text": "Motivação vem da ação, não antes dela."
+        "text": "Motivação vem da ação, não antes dela.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Aja para gerar motivação\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Motivação vem da ação, não antes dela — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja para gerar motivação\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Eleve as áreas da vida",
-        "text": "Use a manhã para subir saúde, emoção, relação, finanças e propósito."
+        "text": "Use a manhã para subir saúde, emoção, relação, finanças e propósito.",
+        "explicacoes": [
+          "Em \"O Milagre da Manhã\", Hal Elrod trata \"Eleve as áreas da vida\" como peça-chave para a rotina matinal SAVERS como alavanca do dia.",
+          "Na prática: Use a manhã para subir saúde, emoção, relação, finanças e propósito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Eleve as áreas da vida\" aplica a rotina matinal SAVERS como alavanca do dia de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -18478,72 +18718,192 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O acidente e a virada",
         "text": "A história de Hal e como nasceu o método.",
         "points": [
-          "Acidente",
-          "Recuperação",
-          "Método"
+          {
+            "t": "Acidente",
+            "e": "A história de Hal e como nasceu o método.",
+            "f": "Na visão de Hal Elrod, \"acidente\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Recuperação",
+            "e": "A história de Hal e como nasceu o método.",
+            "f": "Na visão de Hal Elrod, \"recuperação\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Método",
+            "e": "A história de Hal e como nasceu o método.",
+            "f": "Na visão de Hal Elrod, \"método\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Responsabilidade total",
         "text": "Assumir a criação da própria realidade.",
         "points": [
-          "Responsabilidade",
-          "Poder",
-          "Mudança"
+          {
+            "t": "Responsabilidade",
+            "e": "Assumir a criação da própria realidade.",
+            "f": "O momento em que você aceita total responsabilidade por tudo em sua vida é o momento em que reivindica o poder de mudar qualquer coisa.",
+            "real": true
+          },
+          {
+            "t": "Poder",
+            "e": "Assumir a criação da própria realidade.",
+            "f": "Na visão de Hal Elrod, \"poder\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Mudança",
+            "e": "Assumir a criação da própria realidade.",
+            "f": "Na visão de Hal Elrod, \"mudança\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O que é o Milagre da Manhã",
         "text": "A ideia de investir na primeira hora.",
         "points": [
-          "Manhã",
-          "Intenção",
-          "Definição"
+          {
+            "t": "Manhã",
+            "e": "A ideia de investir na primeira hora.",
+            "f": "Você não precisa de mais tempo; precisa de uma manhã que trabalhe a seu favor.",
+            "real": true
+          },
+          {
+            "t": "Intenção",
+            "e": "A ideia de investir na primeira hora.",
+            "f": "Na visão de Hal Elrod, \"intenção\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Definição",
+            "e": "A ideia de investir na primeira hora.",
+            "f": "Na visão de Hal Elrod, \"definição\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — SAVERS: S e A",
         "text": "Silêncio e afirmações.",
         "points": [
-          "Silêncio",
-          "Afirmações",
-          "Crença"
+          {
+            "t": "Silêncio",
+            "e": "Silêncio e afirmações.",
+            "f": "O SAVERS é o ritual que eleva sua mente, seu corpo e seu propósito antes do mundo acordar.",
+            "real": true
+          },
+          {
+            "t": "Afirmações",
+            "e": "Silêncio e afirmações.",
+            "f": "Na visão de Hal Elrod, \"afirmações\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Crença",
+            "e": "Silêncio e afirmações.",
+            "f": "Na visão de Hal Elrod, \"crença\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — SAVERS: V e E",
         "text": "Visualização e exercício.",
         "points": [
-          "Visualização",
-          "Exercício",
-          "Energia"
+          {
+            "t": "Visualização",
+            "e": "Visualização e exercício.",
+            "f": "O SAVERS é o ritual que eleva sua mente, seu corpo e seu propósito antes do mundo acordar.",
+            "real": true
+          },
+          {
+            "t": "Exercício",
+            "e": "Visualização e exercício.",
+            "f": "Na visão de Hal Elrod, \"exercício\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Energia",
+            "e": "Visualização e exercício.",
+            "f": "Na visão de Hal Elrod, \"energia\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — SAVERS: R e S",
         "text": "Leitura e escrita (journaling).",
         "points": [
-          "Leitura",
-          "Escrita",
-          "Consolidação"
+          {
+            "t": "Leitura",
+            "e": "Leitura e escrita (journaling).",
+            "f": "O SAVERS é o ritual que eleva sua mente, seu corpo e seu propósito antes do mundo acordar.",
+            "real": true
+          },
+          {
+            "t": "Escrita",
+            "e": "Leitura e escrita (journaling).",
+            "f": "Na visão de Hal Elrod, \"escrita\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Consolidação",
+            "e": "Leitura e escrita (journaling).",
+            "f": "Na visão de Hal Elrod, \"consolidação\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O milagre de 6 minutos",
         "text": "Versão enxuta para dias apertados.",
         "points": [
-          "6 minutos",
-          "Enxuto",
-          "Possível"
+          {
+            "t": "6 minutos",
+            "e": "Versão enxuta para dias apertados.",
+            "f": "Na visão de Hal Elrod, \"6 minutos\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Enxuto",
+            "e": "Versão enxuta para dias apertados.",
+            "f": "Na visão de Hal Elrod, \"enxuto\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Possível",
+            "e": "Versão enxuta para dias apertados.",
+            "f": "Na visão de Hal Elrod, \"possível\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Elevando as áreas da vida",
         "text": "Como a manhã melhora saúde, finanças e propósito.",
         "points": [
-          "Áreas",
-          "Nível de vida",
-          "Consistência"
+          {
+            "t": "Áreas",
+            "e": "Como a manhã melhora saúde, finanças e propósito.",
+            "f": "O momento em que você aceita total responsabilidade por tudo em sua vida é o momento em que reivindica o poder de mudar qualquer coisa.",
+            "real": true
+          },
+          {
+            "t": "Nível de vida",
+            "e": "Como a manhã melhora saúde, finanças e propósito.",
+            "f": "Na visão de Hal Elrod, \"nível de vida\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          },
+          {
+            "t": "Consistência",
+            "e": "Como a manhã melhora saúde, finanças e propósito.",
+            "f": "Na visão de Hal Elrod, \"consistência\" é parte essencial da proposta de \"O Milagre da Manhã\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -18696,57 +19056,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Defina um fim principal",
-        "text": "Escreva um objetivo único e definido, com prazo e preço a pagar. Meta vaga não mobiliza o subconsciente nem atrai recursos."
+        "text": "Escreva um objetivo único e definido, com prazo e preço a pagar. Meta vaga não mobiliza o subconsciente nem atrai recursos.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Defina um fim principal\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Escreva um objetivo único e definido, com prazo e preço a pagar. Meta vaga não mobiliza o subconsciente nem atrai recursos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina um fim principal\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Alimente a fé por autossugestão",
-        "text": "Repita seu objetivo em voz alta, com emoção, todos os dias, até que a crença vire convicção automática."
+        "text": "Repita seu objetivo em voz alta, com emoção, todos os dias, até que a crença vire convicção automática.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Alimente a fé por autossugestão\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Repita seu objetivo em voz alta, com emoção, todos os dias, até que a crença vire convicção automática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Alimente a fé por autossugestão\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Crie uma mente mestra",
-        "text": "Reúna pessoas de confiança e complementares para pensar e agir em conjunto com propósito comum."
+        "text": "Reúna pessoas de confiança e complementares para pensar e agir em conjunto com propósito comum.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Crie uma mente mestra\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Reúna pessoas de confiança e complementares para pensar e agir em conjunto com propósito comum — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie uma mente mestra\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Acumule conhecimento especializado",
-        "text": "Aprenda o que o mercado paga e aplique-o; conhecimento geral serve pouco sem utilidade prática."
+        "text": "Aprenda o que o mercado paga e aplique-o; conhecimento geral serve pouco sem utilidade prática.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Acumule conhecimento especializado\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Aprenda o que o mercado paga e aplique-o; conhecimento geral serve pouco sem utilidade prática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acumule conhecimento especializado\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Planeje organizadamente",
-        "text": "Transforme o desejo em planos concretos, por escrito, e inicie a execução imediata."
+        "text": "Transforme o desejo em planos concretos, por escrito, e inicie a execução imediata.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Planeje organizadamente\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Transforme o desejo em planos concretos, por escrito, e inicie a execução imediata — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje organizadamente\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Decida rápido e mude devagar",
-        "text": "Tome resoluções com segurança e sustente-as; indecisão crônica drena energia e credibilidade."
+        "text": "Tome resoluções com segurança e sustente-as; indecisão crônica drena energia e credibilidade.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Decida rápido e mude devagar\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Tome resoluções com segurança e sustente-as; indecisão crônica drena energia e credibilidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Decida rápido e mude devagar\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Pratique a persistência",
-        "text": "Quando o plano falha, ajuste a tática mas nunca abandone o objetivo principal."
+        "text": "Quando o plano falha, ajuste a tática mas nunca abandone o objetivo principal.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Pratique a persistência\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Quando o plano falha, ajuste a tática mas nunca abandone o objetivo principal — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a persistência\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Use a imaginação como oficina",
-        "text": "Reserve tempo para combinar ideias conhecidas em soluções novas e vendáveis."
+        "text": "Reserve tempo para combinar ideias conhecidas em soluções novas e vendáveis.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Use a imaginação como oficina\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Reserve tempo para combinar ideias conhecidas em soluções novas e vendáveis — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a imaginação como oficina\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Transmute a energia sexual",
-        "text": "Canalize o desejo e a vitalidade para criatividade, trabalho e relacionamentos construtivos."
+        "text": "Canalize o desejo e a vitalidade para criatividade, trabalho e relacionamentos construtivos.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Transmute a energia sexual\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Canalize o desejo e a vitalidade para criatividade, trabalho e relacionamentos construtivos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Transmute a energia sexual\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Domine o subconsciente",
-        "text": "Envie a ele apenas comandos claros e emocionais; ele não distingue realidade de crença repetida."
+        "text": "Envie a ele apenas comandos claros e emocionais; ele não distingue realidade de crença repetida.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Domine o subconsciente\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: Envie a ele apenas comandos claros e emocionais; ele não distingue realidade de crença repetida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Domine o subconsciente\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Exija de si antes dos outros",
-        "text": "A disciplina pessoal é a base de toda liderança e de toda riqueza sustentável."
+        "text": "A disciplina pessoal é a base de toda liderança e de toda riqueza sustentável.",
+        "explicacoes": [
+          "Em \"Pense e Enriqueça\", Napoleon Hill trata \"Exija de si antes dos outros\" como peça-chave para o sucesso pela fé, desejo ardente e persistência.",
+          "Na prática: A disciplina pessoal é a base de toda liderança e de toda riqueza sustentável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exija de si antes dos outros\" aplica o sucesso pela fé, desejo ardente e persistência de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -18768,64 +19183,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Poder do Desejo",
         "text": "Hill abre definindo que riqueza começa com um desejo ardente e específico, não com dinheiro. Ele pede que o leitor fixe uma quantia exata e um prazo.",
         "points": [
-          "O \"fim principal definido\".",
-          "Por que vaguidão sabota o subconsciente."
+          {
+            "t": "O \"fim principal definido\".",
+            "e": "Hill abre definindo que riqueza começa com um desejo ardente e específico, não com dinheiro. Ele pede que o leitor fixe uma quantia exata e um prazo.",
+            "f": "Desejo ardente de realizar é o ponto de partida de toda realização.",
+            "real": true
+          },
+          {
+            "t": "Por que vaguidão sabota o subconsciente.",
+            "e": "Hill abre definindo que riqueza começa com um desejo ardente e específico, não com dinheiro. Ele pede que o leitor fixe uma quantia exata e um prazo.",
+            "f": "Na visão de Napoleon Hill, \"por que vaguidão sabota o subconsciente.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Fé",
         "text": "Trata a fé como estado mental treinável por autossugestão repetida. A convicção emocional precede a realização material.",
         "points": [
-          "Autossugestão como ferramenta.",
-          "Fé versus dúvida paralisante."
+          {
+            "t": "Autossugestão como ferramenta.",
+            "e": "Trata a fé como estado mental treinável por autossugestão repetida. A convicção emocional precede a realização material.",
+            "f": "Na visão de Napoleon Hill, \"autossugestão como ferramenta.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          },
+          {
+            "t": "Fé versus dúvida paralisante.",
+            "e": "Trata a fé como estado mental treinável por autossugestão repetida. A convicção emocional precede a realização material.",
+            "f": "Na visão de Napoleon Hill, \"fé versus dúvida paralisante.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Autossugestão",
         "text": "Explica como impressões repetidas penetram o subconsciente e moldam hábitos. O capítulo é o mecanismo prático da fé.",
         "points": [
-          "O papel do subconsciente.",
-          "Comando diário do objetivo."
+          {
+            "t": "O papel do subconsciente.",
+            "e": "Explica como impressões repetidas penetram o subconsciente e moldam hábitos. O capítulo é o mecanismo prático da fé.",
+            "f": "Na visão de Napoleon Hill, \"o papel do subconsciente.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          },
+          {
+            "t": "Comando diário do objetivo.",
+            "e": "Explica como impressões repetidas penetram o subconsciente e moldam hábitos. O capítulo é o mecanismo prático da fé.",
+            "f": "Na visão de Napoleon Hill, \"comando diário do objetivo.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Conhecimento Especializado",
         "text": "Distingue conhecimento geral de conhecimento aplicável e vendável. Hill manda buscar especialistas, não virar especialista em tudo.",
         "points": [
-          "Conhecimento vs aplicação.",
-          "A \"mente mestra\" de consultores."
+          {
+            "t": "Conhecimento vs aplicação.",
+            "e": "Distingue conhecimento geral de conhecimento aplicável e vendável. Hill manda buscar especialistas, não virar especialista em tudo.",
+            "f": "Na visão de Napoleon Hill, \"conhecimento vs aplicação.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          },
+          {
+            "t": "A \"mente mestra\" de consultores.",
+            "e": "Distingue conhecimento geral de conhecimento aplicável e vendável. Hill manda buscar especialistas, não virar especialista em tudo.",
+            "f": "O que a mente do homem pode conceber e crer, ela pode alcançar.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Imaginação",
         "text": "Apresenta a imaginação sintética (recombinar o conhecido) e a criativa (novo absoluto). Toda riqueza nasce aqui antes de existir.",
         "points": [
-          "Duas formas de imaginação.",
-          "Ideias como base de planos."
+          {
+            "t": "Duas formas de imaginação.",
+            "e": "Apresenta a imaginação sintética (recombinar o conhecido) e a criativa (novo absoluto). Toda riqueza nasce aqui antes de existir.",
+            "f": "Na visão de Napoleon Hill, \"duas formas de imaginação.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          },
+          {
+            "t": "Ideias como base de planos.",
+            "e": "Apresenta a imaginação sintética (recombinar o conhecido) e a criativa (novo absoluto). Toda riqueza nasce aqui antes de existir.",
+            "f": "Na visão de Napoleon Hill, \"ideias como base de planos.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Planejamento Organizado",
         "text": "Ensina converter desejo em planos escritos e iniciar a ação. Sem organização, o entusiasmo evapora.",
         "points": [
-          "Plano por escrito.",
-          "Ação imediata."
+          {
+            "t": "Plano por escrito.",
+            "e": "Ensina converter desejo em planos escritos e iniciar a ação. Sem organização, o entusiasmo evapora.",
+            "f": "Na visão de Napoleon Hill, \"plano por escrito.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          },
+          {
+            "t": "Ação imediata.",
+            "e": "Ensina converter desejo em planos escritos e iniciar a ação. Sem organização, o entusiasmo evapora.",
+            "f": "Na visão de Napoleon Hill, \"ação imediata.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Decisão",
         "text": "Mostra que líderes decidem rápido e mudam devagar; seguidores hesitam e se deixam influenciar.",
         "points": [
-          "Indecisão como fraqueza.",
-          "Autossuficiência de opinião."
+          {
+            "t": "Indecisão como fraqueza.",
+            "e": "Mostra que líderes decidem rápido e mudam devagar; seguidores hesitam e se deixam influenciar.",
+            "f": "Na visão de Napoleon Hill, \"indecisão como fraqueza.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          },
+          {
+            "t": "Autossuficiência de opinião.",
+            "e": "Mostra que líderes decidem rápido e mudam devagar; seguidores hesitam e se deixam influenciar.",
+            "f": "Na visão de Napoleon Hill, \"autossuficiência de opinião.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Persistência",
         "text": "Descreve a persistência como hábito cultivável e o maior divisor de águas entre fracasso e sucesso.",
         "points": [
-          "Sintomas de falta de persistência.",
-          "Como desenvolver a tenacidade."
+          {
+            "t": "Sintomas de falta de persistência.",
+            "e": "Descreve a persistência como hábito cultivável e o maior divisor de águas entre fracasso e sucesso.",
+            "f": "A persistência é um estado da mente que pode ser cultivado por esforço e definição de propósito.",
+            "real": true
+          },
+          {
+            "t": "Como desenvolver a tenacidade.",
+            "e": "Descreve a persistência como hábito cultivável e o maior divisor de águas entre fracasso e sucesso.",
+            "f": "Na visão de Napoleon Hill, \"como desenvolver a tenacidade.\" é parte essencial da proposta de \"Pense e Enriqueça\".",
+            "real": false
+          }
         ]
       }
     ]
