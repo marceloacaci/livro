@@ -19444,5 +19444,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Etapa."
       }
     ]
+  },
+  {
+    "id": "seneca",
+    "slug": "a-vida-feliz",
+    "title": "De Vita Beata",
+    "titlePt": "A Vida Feliz: Cartas e Diálogos Estoicos",
+    "author": "Séneca",
+    "year": "c. 58 d.C.",
+    "editionYear": "2018",
+    "publisher": "L&PM / Penguin",
+    "pages": "224",
+    "genre": "Filosofia / Estoicismo",
+    "language": "Latim/Português",
+    "copiesSold": "Clássico",
+    "cover": "img/seneca-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Virtude basta",
+        "text": "Caráter é o bem real.",
+        "reflection": "Você busca fora?"
+      },
+      {
+        "type": "myth",
+        "title": "Prazer é bem",
+        "text": "Prazer passageiro ilude.",
+        "reflection": "Você confunde prazer?"
+      },
+      {
+        "type": "truth",
+        "title": "Tempo é vida",
+        "text": "Cada dia conta.",
+        "reflection": "Você gasta tempo?"
+      },
+      {
+        "type": "myth",
+        "title": "Ter é feliz",
+        "text": "Posse não preenche.",
+        "reflection": "Você acha que possuir?"
+      },
+      {
+        "type": "truth",
+        "title": "Razão guia",
+        "text": "Pensar antes de agir.",
+        "reflection": "Você age no impulso?"
+      },
+      {
+        "type": "myth",
+        "title": "Azar derruba",
+        "text": "Postura vence.",
+        "reflection": "Você culpa sorte?"
+      }
+    ],
+    "summary": "Séneca ensina que a felicidade vem da virtude e do domínio de si, não de bens externos, em cartas e diálogos estoicos atemporais.",
+    "color": "#8e44ad",
+    "file": "livro.html#a-vida-feliz",
+    "citacoes": [
+      {
+        "texto": "Não é porque as coisas são difíceis que não ousamos; é porque não ousamos que são difíceis.",
+        "autor": "Séneca",
+        "obra": "A Vida Feliz"
+      },
+      {
+        "texto": "Enquanto poupamos a vida, ela passa.",
+        "autor": "Séneca",
+        "obra": "Cartas a Lucílio"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pilar do estoicismo romano.",
+        "autor": "Filosofia",
+        "fonte": "Cânone"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Virtude",
+        "text": "Bem que depende de você.",
+        "explicacoes": [
+          "Externo não conta.",
+          "Dignidade.",
+          "Paz."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Tempo",
+        "text": "É sua vida.",
+        "explicacoes": [
+          "Não adie.",
+          "Uso real.",
+          "Fim claro."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Razão",
+        "text": "Antes de agir.",
+        "explicacoes": [
+          "Impulso cai.",
+          "Escolha.",
+          "Calma."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Virtude",
+        "texto": "Bem."
+      },
+      {
+        "titulo": "Tempo",
+        "texto": "Vida."
+      },
+      {
+        "titulo": "Razão",
+        "texto": "Guia."
+      }
+    ]
+  },
+  {
+    "id": "epiteto",
+    "slug": "o-manual",
+    "title": "Enchiridion",
+    "titlePt": "O Manual de Epiteto: O Caminho da Liberdade",
+    "author": "Epiteto",
+    "year": "c. 125 d.C.",
+    "editionYear": "2015",
+    "publisher": "L&PM / Martin Claret",
+    "pages": "128",
+    "genre": "Filosofia / Estoicismo",
+    "language": "Grego/Português",
+    "copiesSold": "Clássico",
+    "cover": "img/epiteto-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Distinguir controle",
+        "text": "O que é seu vs externo.",
+        "reflection": "Você se irrita com externo?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudar outros",
+        "text": "Só você muda.",
+        "reflection": "Você tenta mudar gente?"
+      },
+      {
+        "type": "truth",
+        "title": "Opinião dói",
+        "text": "Dor é julgamento.",
+        "reflection": "Você sofre pelo rótulo?"
+      },
+      {
+        "type": "myth",
+        "title": "Coisas machucam",
+        "text": "Sentido machuca.",
+        "reflection": "Você culpa objeto?"
+      },
+      {
+        "type": "truth",
+        "title": "Aceitar",
+        "text": "Real é real.",
+        "reflection": "Você briga com fato?"
+      },
+      {
+        "type": "myth",
+        "title": "Merecer",
+        "text": "Mundo não deve.",
+        "reflection": "Você cobra mundo?"
+      }
+    ],
+    "summary": "Epiteto, ex-escravo, resume o estoicismo em frases diretas: separe o que depende de você do que não depende, e encontre liberdade na resposta.",
+    "color": "#c0392b",
+    "file": "livro.html#o-manual",
+    "citacoes": [
+      {
+        "texto": "Algumas coisas estão em nosso poder, outras não.",
+        "autor": "Epiteto",
+        "obra": "Enchiridion"
+      },
+      {
+        "texto": "Não são as coisas que perturbam os homens, mas as opiniões sobre as coisas.",
+        "autor": "Epiteto",
+        "obra": "Enchiridion"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Manual estoico mais citado.",
+        "autor": "Filosofia",
+        "fonte": "Cânone"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Controle",
+        "text": "Separe o seu do externo.",
+        "explicacoes": [
+          "Externo solta.",
+          "Você foca.",
+          "Paz."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Opinião",
+        "text": "Dor é julgamento.",
+        "explicacoes": [
+          "Mudar rótulo.",
+          "Sofrer menos.",
+          "Livre."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Aceitar",
+        "text": "Fato é facto.",
+        "explicacoes": [
+          "Briga sai.",
+          "Agir no possível.",
+          "Real."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Controle",
+        "texto": "Separe."
+      },
+      {
+        "titulo": "Opinião",
+        "texto": "Dói."
+      },
+      {
+        "titulo": "Aceitar",
+        "texto": "Fato."
+      }
+    ]
+  },
+  {
+    "id": "aurelio",
+    "slug": "meditacoes",
+    "title": "Meditations",
+    "titlePt": "Meditações: Reflexões para Si Mesmo",
+    "author": "Marco Aurélio",
+    "year": "c. 180 d.C.",
+    "editionYear": "2017",
+    "publisher": "L&PM / Penguin",
+    "pages": "208",
+    "genre": "Filosofia / Estoicismo",
+    "language": "Grego/Português",
+    "copiesSold": "Clássico",
+    "cover": "img/aurelio-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Agora basta",
+        "text": "Presente é o único.",
+        "reflection": "Você vive no futuro?"
+      },
+      {
+        "type": "myth",
+        "title": "Fama importa",
+        "text": "Conduta é o que fica.",
+        "reflection": "Você corre atrás de aplauso?"
+      },
+      {
+        "type": "truth",
+        "title": "Natureza aceita",
+        "text": "Fluir com o real.",
+        "reflection": "Você resiste ao real?"
+      },
+      {
+        "type": "myth",
+        "title": "Outros julgam",
+        "text": "Seu caráter pesa.",
+        "reflection": "Você se dobra a opinião?"
+      },
+      {
+        "type": "truth",
+        "title": "Morte presente",
+        "text": "Viver como se breve.",
+        "reflection": "Você adia viver?"
+      },
+      {
+        "type": "myth",
+        "title": "Ter tempo",
+        "text": "Agora é curto.",
+        "reflection": "Você desperdiça hoje?"
+      }
+    ],
+    "summary": "Marco Aurélio, imperador e estoico, escreve anotações privadas para guiar a própria conduta: viver no presente, aceitar o que não controla e agir com dever.",
+    "color": "#2980b9",
+    "file": "livro.html#meditacoes",
+    "citacoes": [
+      {
+        "texto": "Você tem poder sobre sua mente, não sobre os acontecimentos externos.",
+        "autor": "Marco Aurélio",
+        "obra": "Meditações"
+      },
+      {
+        "texto": "A felicidade da vida depende da qualidade dos pensamentos.",
+        "autor": "Marco Aurélio",
+        "obra": "Meditações"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Diário de um imperador estoico.",
+        "autor": "História",
+        "fonte": "Cânone"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Presente",
+        "text": "Apenas o agora.",
+        "explicacoes": [
+          "Futuro solta.",
+          "Viver real.",
+          "Paz."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Natureza",
+        "text": "Fluir com o real.",
+        "explicacoes": [
+          "Resistir cansa.",
+          "Aceitar leve.",
+          "Agir."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Dever",
+        "text": "Caráter primeiro.",
+        "explicacoes": [
+          "Opinião fora.",
+          "Conduta guia.",
+          "Dignidade."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Agora",
+        "texto": "Único."
+      },
+      {
+        "titulo": "Natureza",
+        "texto": "Fluir."
+      },
+      {
+        "titulo": "Dever",
+        "texto": "Caráter."
+      }
+    ]
+  },
+  {
+    "id": "holiday",
+    "slug": "o-obstaculo-e-o-caminho",
+    "title": "The Obstacle Is the Way",
+    "titlePt": "O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor",
+    "author": "Ryan Holiday",
+    "year": "2014",
+    "editionYear": "2016",
+    "publisher": "Portfolio / Sextante",
+    "pages": "224",
+    "genre": "Filosofia / Estoicismo",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/holiday-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Obstáculo ensina",
+        "text": "Dificuldade é via.",
+        "reflection": "Você foge do problema?"
+      },
+      {
+        "type": "myth",
+        "title": "Ruim é ruim",
+        "text": "Uso muda sentido.",
+        "reflection": "Você rotula como fim?"
+      },
+      {
+        "type": "truth",
+        "title": "Percepção muda",
+        "text": "Ver diferente abre.",
+        "reflection": "Você vê só o mal?"
+      },
+      {
+        "type": "myth",
+        "title": "Sorte ausente",
+        "text": "Adversidade forma.",
+        "reflection": "Você culpa falta de sorte?"
+      },
+      {
+        "type": "truth",
+        "title": "Ação vence",
+        "text": "Fazer com o que há.",
+        "reflection": "Você espera ideal?"
+      },
+      {
+        "type": "myth",
+        "title": "Parar no erro",
+        "text": "Erro é degrau.",
+        "reflection": "Você para na queda?"
+      }
+    ],
+    "summary": "Ryan Holiday atualiza o estoicismo: o obstáculo não é bloqueio, é o caminho — percepção, ação e vontade transformam adversidade em vantagem.",
+    "color": "#27ae60",
+    "file": "livro.html#o-obstaculo-e-o-caminho",
+    "citacoes": [
+      {
+        "texto": "O obstáculo é o caminho.",
+        "autor": "Ryan Holiday",
+        "obra": "The Obstacle Is the Way"
+      },
+      {
+        "texto": "O que fica no caminho se torna o caminho.",
+        "autor": "Ryan Holiday",
+        "obra": "The Obstacle Is the Way"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Estoicismo moderno para negócios.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Percepção",
+        "text": "Enxergue o uso.",
+        "explicacoes": [
+          "Rótulo sai.",
+          "Via abre.",
+          "Calma."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Ação",
+        "text": "Faça com o que há.",
+        "explicacoes": [
+          "Ideal fora.",
+          "Andar.",
+          "Resultado."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Vontade",
+        "text": "Aceite o que vem.",
+        "explicacoes": [
+          "Resistir cansa.",
+          "Seguir.",
+          "Forte."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Percepção",
+        "texto": "Muda."
+      },
+      {
+        "titulo": "Ação",
+        "texto": "Faz."
+      },
+      {
+        "titulo": "Vontade",
+        "texto": "Aceita."
+      }
+    ]
+  },
+  {
+    "id": "babauta",
+    "slug": "zen-to-done",
+    "title": "Zen To Done",
+    "titlePt": "Zen To Done: O Guia Simples para a Produtividade com Foco",
+    "author": "Leo Babauta",
+    "year": "2009",
+    "editionYear": "2012",
+    "publisher": "Self-published / Novatec",
+    "pages": "144",
+    "genre": "Produtividade / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 300 mil",
+    "cover": "img/babauta-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Simples vence",
+        "text": "Poucos hábitos bastam.",
+        "reflection": "Você complica sistema?"
+      },
+      {
+        "type": "myth",
+        "title": "App resolve",
+        "text": "Método importa.",
+        "reflection": "Você troca app?"
+      },
+      {
+        "type": "truth",
+        "title": "Foco único",
+        "text": "Uma coisa por vez.",
+        "reflection": "Você faz várias?"
+      },
+      {
+        "type": "myth",
+        "title": "Listar longa",
+        "text": "Poucas prioridades.",
+        "reflection": "Você lista demais?"
+      },
+      {
+        "type": "truth",
+        "title": "Revisão diária",
+        "text": "Olhar o plano.",
+        "reflection": "Você revisita?"
+      },
+      {
+        "type": "myth",
+        "title": "Perfeito",
+        "text": "Constância leva.",
+        "reflection": "Você quer perfeito?"
+      }
+    ],
+    "summary": "Leo Babauta propõe um GTD simplificado em 10 hábitos: foco, rotina, poucas prioridades e revisão, para produtividade sem estresse.",
+    "color": "#16a085",
+    "file": "livro.html#zen-to-done",
+    "citacoes": [
+      {
+        "texto": "Foco em uma coisa de cada vez.",
+        "autor": "Leo Babauta",
+        "obra": "Zen To Done"
+      },
+      {
+        "texto": "A simplicidade é a forma final da sofisticação.",
+        "autor": "Leo Babauta",
+        "obra": "Zen To Done"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "GTD enxuto e humano.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Foco",
+        "text": "Uma tarefa.",
+        "explicacoes": [
+          "Mente clara.",
+          "Termina.",
+          "Qualidade."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Poucas",
+        "text": "Prioridades mínimas.",
+        "explicacoes": [
+          "Lista curta.",
+          "Foco real.",
+          "Faz."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Revisar",
+        "text": "Todo dia.",
+        "explicacoes": [
+          "Ajuste.",
+          "Rumo clara.",
+          "Consistência."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Foco",
+        "texto": "Único."
+      },
+      {
+        "titulo": "Poucas",
+        "texto": "Prioriza."
+      },
+      {
+        "titulo": "Revisar",
+        "texto": "Diário."
+      }
+    ]
+  },
+  {
+    "id": "becker",
+    "slug": "o-que-resta",
+    "title": "The More of Less",
+    "titlePt": "O Que Resta: Liberdade Através do Minimalismo Intencional",
+    "author": "Joshua Becker",
+    "year": "2016",
+    "editionYear": "2017",
+    "publisher": "WaterBrook / Sextante",
+    "pages": "240",
+    "genre": "Minimalismo / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/becker-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Menos liberta",
+        "text": "Ter pouco abre tempo.",
+        "reflection": "Você se prende a coisas?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais feliz",
+        "text": "Posse não preenche.",
+        "reflection": "Você compra feliz?"
+      },
+      {
+        "type": "truth",
+        "title": "Intenção",
+        "text": "Escolher o que fica.",
+        "reflection": "Você escolhe ou acumula?"
+      },
+      {
+        "type": "myth",
+        "title": "Precisar de tudo",
+        "text": "Pouco basta.",
+        "reflection": "Você retém por medo?"
+      },
+      {
+        "type": "truth",
+        "title": "Tempo volta",
+        "text": "Menos gestão de bem.",
+        "reflection": "Você cuida de tralha?"
+      },
+      {
+        "type": "myth",
+        "title": "Comparar",
+        "text": "Seu ritmo conta.",
+        "reflection": "Você corre com vizinho?"
+      }
+    ],
+    "summary": "Joshua Becker mostra que o minimalismo intencional devolve tempo, dinheiro e atenção para o que importa de verdade, sem extremismo.",
+    "color": "#d35400",
+    "file": "livro.html#o-que-resta",
+    "citacoes": [
+      {
+        "texto": "O minimalismo é a intenção deliberada de viver com menos para que possa focar no que importa.",
+        "autor": "Joshua Becker",
+        "obra": "The More of Less"
+      },
+      {
+        "texto": "Posses não trazem alegria duradoura.",
+        "autor": "Joshua Becker",
+        "obra": "The More of Less"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Minimalismo prático e familiar.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Menos",
+        "text": "Solte o excesso.",
+        "explicacoes": [
+          "Tempo volta.",
+          "Clareza.",
+          "Leve."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Intenção",
+        "text": "Escolha o que fica.",
+        "explicacoes": [
+          "Acúmulo sai.",
+          "Foco real.",
+          "Sentido."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Importa",
+        "text": "Direcione o ganho.",
+        "explicacoes": [
+          "Tempo bem.",
+          "Dinheiro bem.",
+          "Vida."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Menos",
+        "texto": "Liberta."
+      },
+      {
+        "titulo": "Intenção",
+        "texto": "Escolhe."
+      },
+      {
+        "titulo": "Importa",
+        "texto": "Foca."
+      }
+    ]
+  },
+  {
+    "id": "millburn",
+    "slug": "essencialismo-minimalista",
+    "title": "Everything That Remains",
+    "titlePt": "Minimalismo: Como Viver uma Vida com Significado",
+    "author": "Joshua Fields Millburn",
+    "year": "2014",
+    "editionYear": "2016",
+    "publisher": "Asymmetrical / Verbo",
+    "pages": "288",
+    "genre": "Minimalismo / Propósito",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/millburn-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Significado próprio",
+        "text": "Você define o que importa.",
+        "reflection": "Você copia sentido alheio?"
+      },
+      {
+        "type": "myth",
+        "title": "Coisas preenchem",
+        "text": "Vazio persiste.",
+        "reflection": "Você compra vazio?"
+      },
+      {
+        "type": "truth",
+        "title": "Relações importam",
+        "text": "Pessoas sobre bens.",
+        "reflection": "Você prioriza coisa?"
+      },
+      {
+        "type": "myth",
+        "title": "Sucesso padrão",
+        "text": "Seu modo conta.",
+        "reflection": "Você segue fórmula?"
+      },
+      {
+        "type": "truth",
+        "title": "Solte",
+        "text": "Menos carrega mais.",
+        "reflection": "Você retém por hábito?"
+      },
+      {
+        "type": "myth",
+        "title": "Ter liberdade",
+        "text": "Escolha é liberdade.",
+        "reflection": "Você acha que possuir?"
+      }
+    ],
+    "summary": "Joshua Fields Millburn relata a jornada de soltar bens e buscar significado, mostrando que minimalismo é meio de viver de propósito.",
+    "color": "#8e44ad",
+    "file": "livro.html#essencialismo-minimalista",
+    "citacoes": [
+      {
+        "texto": "O amor e a gratidão são as únicas coisas que importam.",
+        "autor": "Joshua Fields Millburn",
+        "obra": "Everything That Remains"
+      },
+      {
+        "texto": "A vida é melhor com menos.",
+        "autor": "Joshua Fields Millburn",
+        "obra": "Everything That Remains"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Manifesto dos Minimalists.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Significado",
+        "text": "Você define.",
+        "explicacoes": [
+          "Fórmula fora.",
+          "Real seu.",
+          "Sentido."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Relações",
+        "text": "Pessoas primeiras.",
+        "explicacoes": [
+          "Bem sai.",
+          "Vínculo sobe.",
+          "Vida."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Solte",
+        "text": "Menos carrega.",
+        "explicacoes": [
+          "Leve.",
+          "Foco.",
+          "Livre."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Significado",
+        "texto": "Seu."
+      },
+      {
+        "titulo": "Relações",
+        "texto": "Primeiras."
+      },
+      {
+        "titulo": "Solte",
+        "texto": "Leve."
+      }
+    ]
+  },
+  {
+    "id": "kwik",
+    "slug": "sem-limites",
+    "title": "Limitless",
+    "titlePt": "Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial",
+    "author": "Jim Kwik",
+    "year": "2020",
+    "editionYear": "2021",
+    "publisher": "Hay House / Sextante",
+    "pages": "344",
+    "genre": "Aprendizagem / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/kwik-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mente treina",
+        "text": "Aprender é habilidade.",
+        "reflection": "Você acha fixo?"
+      },
+      {
+        "type": "myth",
+        "title": "Dom nato",
+        "text": "Método vence.",
+        "reflection": "Você culpa dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Foco + estado",
+        "text": "Como importa.",
+        "reflection": "Você estuda cansado?"
+      },
+      {
+        "type": "myth",
+        "title": "Ler basta",
+        "text": "Reter exige técnica.",
+        "reflection": "Você só lê?"
+      },
+      {
+        "type": "truth",
+        "title": "Motivo guia",
+        "text": "Porquê move.",
+        "reflection": "Você estudade sem porquê?"
+      },
+      {
+        "type": "myth",
+        "title": "Idade limita",
+        "text": "Cérebro muda sempre.",
+        "reflection": "Você acha tarde?"
+      }
+    ],
+    "summary": "Jim Kwik ensina a aprender mais rápido com foco, estado e método (FAST): esquecer, agir, estado, ensinar — desbloqueando potencial cognitivo.",
+    "color": "#2980b9",
+    "file": "livro.html#sem-limites",
+    "citacoes": [
+      {
+        "texto": "Aprender a aprender é a habilidade máxima.",
+        "autor": "Jim Kwik",
+        "obra": "Limitless"
+      },
+      {
+        "texto": "Se você lutou na escola, não foi falta de inteligência, foi falta de método.",
+        "autor": "Jim Kwik",
+        "obra": "Limitless"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Coach de mente de celebridades.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "FAST",
+        "text": "Método de retenção.",
+        "explicacoes": [
+          "Esquecer ruído.",
+          "Agir.",
+          "Ensinar fixa."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Estado",
+        "text": "Como você estuda.",
+        "explicacoes": [
+          "Cansado não.",
+          "Foco sobe.",
+          "Retém."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Motivo",
+        "text": "Porquê aprender.",
+        "explicacoes": [
+          "Direção.",
+          "Força.",
+          "Segue."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "FAST",
+        "texto": "Método."
+      },
+      {
+        "titulo": "Estado",
+        "texto": "Importa."
+      },
+      {
+        "titulo": "Motivo",
+        "texto": "Move."
+      }
+    ]
   }
 ];
