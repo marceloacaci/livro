@@ -23226,57 +23226,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Identifique seu sapo",
-        "text": "Nomeie a tarefa mais importante e desagradável do dia."
+        "text": "Nomeie a tarefa mais importante e desagradável do dia.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Identifique seu sapo\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: Nomeie a tarefa mais importante e desagradável do dia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Identifique seu sapo\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Faça-a primeiro",
-        "text": "Resolva o sapo antes de qualquer outra coisa."
+        "text": "Resolva o sapo antes de qualquer outra coisa.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Faça-a primeiro\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: Resolva o sapo antes de qualquer outra coisa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça-a primeiro\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Aplique Pareto",
-        "text": "Foque nos 20% de atividades de maior retorno."
+        "text": "Foque nos 20% de atividades de maior retorno.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Aplique Pareto\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: Foque nos 20% de atividades de maior retorno — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique Pareto\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Use matriz A-B-C-D-E",
-        "text": "Classifique tarefas por valor e urgência para decidir."
+        "text": "Classifique tarefas por valor e urgência para decidir.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Use matriz A-B-C-D-E\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: Classifique tarefas por valor e urgência para decidir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use matriz A-B-C-D-E\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Planeje por escrito",
-        "text": "Escreva o plano diário na véspera para começar em ação."
+        "text": "Escreva o plano diário na véspera para começar em ação.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Planeje por escrito\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: Escreva o plano diário na véspera para começar em ação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje por escrito\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Foque em uma coisa",
-        "text": "Evite multitarefa; termine antes de trocar."
+        "text": "Evite multitarefa; termine antes de trocar.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Foque em uma coisa\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: Evite multitarefa; termine antes de trocar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque em uma coisa\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Imponha prazos",
-        "text": "Combata a lei de Parkinson com limites claros."
+        "text": "Combata a lei de Parkinson com limites claros.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Imponha prazos\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: Combata a lei de Parkinson com limites claros — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Imponha prazos\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Assuma responsabilidade",
-        "text": "100% de responsabilidade devolve o controle."
+        "text": "100% de responsabilidade devolve o controle.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Assuma responsabilidade\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: 100% de responsabilidade devolve o controle — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma responsabilidade\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Termine o que começa",
-        "text": "A disciplina de concluir gera confiança."
+        "text": "A disciplina de concluir gera confiança.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Termine o que começa\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: A disciplina de concluir gera confiança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Termine o que começa\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Aprenda continuamente",
-        "text": "Leitura e estudo mantêm a vantagem competitiva."
+        "text": "Leitura e estudo mantêm a vantagem competitiva.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Aprenda continuamente\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: Leitura e estudo mantêm a vantagem competitiva — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aprenda continuamente\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Celebre a conclusão",
-        "text": "Reforço positivo sustenta o hábito de agir."
+        "text": "Reforço positivo sustenta o hábito de agir.",
+        "explicacoes": [
+          "Em \"Coma o Sapo\", Brian Tracy trata \"Celebre a conclusão\" como peça-chave para a produtividade pela clareza e pela regra de comer o sapo.",
+          "Na prática: Reforço positivo sustenta o hábito de agir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Celebre a conclusão\" aplica a produtividade pela clareza e pela regra de comer o sapo de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -23298,64 +23353,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Coma o Sapo",
         "text": "A regra central de enfrentar a tarefa mais difícil primeiro.",
         "points": [
-          "Sapo.",
-          "Decisão."
+          {
+            "t": "Sapo.",
+            "e": "A regra central de enfrentar a tarefa mais difícil primeiro.",
+            "f": "Coma o sapo: faça a tarefa mais difícil e importante primeiro.",
+            "real": true
+          },
+          {
+            "t": "Decisão.",
+            "e": "A regra central de enfrentar a tarefa mais difícil primeiro.",
+            "f": "Na visão de Brian Tracy, \"decisão.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Lei de Pareto",
         "text": "Como 20% das ações geram 80% dos resultados.",
         "points": [
-          "Prioridade.",
-          "Foco."
+          {
+            "t": "Prioridade.",
+            "e": "Como 20% das ações geram 80% dos resultados.",
+            "f": "A regra de Pareto se aplica a quase tudo: 20% das ações geram 80% dos resultados.",
+            "real": true
+          },
+          {
+            "t": "Foco.",
+            "e": "Como 20% das ações geram 80% dos resultados.",
+            "f": "Na visão de Brian Tracy, \"foco.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Planejamento",
         "text": "Escrever o plano diário e definir prioridades A-B-C-D-E.",
         "points": [
-          "Plano.",
-          "Clareza."
+          {
+            "t": "Plano.",
+            "e": "Escrever o plano diário e definir prioridades A-B-C-D-E.",
+            "f": "Na visão de Brian Tracy, \"plano.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          },
+          {
+            "t": "Clareza.",
+            "e": "Escrever o plano diário e definir prioridades A-B-C-D-E.",
+            "f": "A clareza é a palavra-chave da produtividade.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Pensar em Papel",
         "text": "Externalizar decisões para libertar a mente.",
         "points": [
-          "Escrita.",
-          "Foco."
+          {
+            "t": "Escrita.",
+            "e": "Externalizar decisões para libertar a mente.",
+            "f": "Na visão de Brian Tracy, \"escrita.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          },
+          {
+            "t": "Foco.",
+            "e": "Externalizar decisões para libertar a mente.",
+            "f": "Na visão de Brian Tracy, \"foco.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Foco Único",
         "text": "Evitar multitarefa e terminar o que começou.",
         "points": [
-          "Uma coisa.",
-          "Conclusão."
+          {
+            "t": "Uma coisa.",
+            "e": "Evitar multitarefa e terminar o que começou.",
+            "f": "Na visão de Brian Tracy, \"uma coisa.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          },
+          {
+            "t": "Conclusão.",
+            "e": "Evitar multitarefa e terminar o que começou.",
+            "f": "Na visão de Brian Tracy, \"conclusão.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — A Lei de Parkinson",
         "text": "Impor prazos para conter a expansão do trabalho.",
         "points": [
-          "Prazos.",
-          "Tempo."
+          {
+            "t": "Prazos.",
+            "e": "Impor prazos para conter a expansão do trabalho.",
+            "f": "Na visão de Brian Tracy, \"prazos.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          },
+          {
+            "t": "Tempo.",
+            "e": "Impor prazos para conter a expansão do trabalho.",
+            "f": "Na visão de Brian Tracy, \"tempo.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Autoresponsabilidade",
         "text": "Assumir o controle total sobre os próprios resultados.",
         "points": [
-          "Responsabilidade.",
-          "Controle."
+          {
+            "t": "Responsabilidade.",
+            "e": "Assumir o controle total sobre os próprios resultados.",
+            "f": "Na visão de Brian Tracy, \"responsabilidade.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          },
+          {
+            "t": "Controle.",
+            "e": "Assumir o controle total sobre os próprios resultados.",
+            "f": "Na visão de Brian Tracy, \"controle.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Ação e Energia",
         "text": "Como agir gera disposição e vence a procrastinação.",
         "points": [
-          "Ação.",
-          "Ânimo."
+          {
+            "t": "Ação.",
+            "e": "Como agir gera disposição e vence a procrastinação.",
+            "f": "Toda ação gera energia; a procrastinação gera cansaço.",
+            "real": true
+          },
+          {
+            "t": "Ânimo.",
+            "e": "Como agir gera disposição e vence a procrastinação.",
+            "f": "Na visão de Brian Tracy, \"ânimo.\" é parte essencial da proposta de \"Coma o Sapo\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -23508,57 +23643,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Pergunte as três questões",
-        "text": "Realização, relacionamento e integridade devem guiar escolhas."
+        "text": "Realização, relacionamento e integridade devem guiar escolhas.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Pergunte as três questões\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Realização, relacionamento e integridade devem guiar escolhas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pergunte as três questões\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Evite métricas de erro",
-        "text": "Não confunda acúmulo de riqueza com uma vida bem-sucedida."
+        "text": "Não confunda acúmulo de riqueza com uma vida bem-sucedida.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Evite métricas de erro\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Não confunda acúmulo de riqueza com uma vida bem-sucedida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite métricas de erro\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Alinhe recursos",
-        "text": "Direcione tempo, dinheiro e energia ao que realmente importa."
+        "text": "Direcione tempo, dinheiro e energia ao que realmente importa.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Alinhe recursos\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Direcione tempo, dinheiro e energia ao que realmente importa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Alinhe recursos\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Note a estratégia emergente",
-        "text": "Observe o que você faz de fato, não só o que planeja."
+        "text": "Observe o que você faz de fato, não só o que planeja.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Note a estratégia emergente\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Observe o que você faz de fato, não só o que planeja — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Note a estratégia emergente\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Construa nas margens",
-        "text": "Pequenas decisões diárias formam caráter e cultura."
+        "text": "Pequenas decisões diárias formam caráter e cultura.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Construa nas margens\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Pequenas decisões diárias formam caráter e cultura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa nas margens\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use o motor de crescimento",
-        "text": "Busque feedback dos \"clientes\" certos da sua vida."
+        "text": "Busque feedback dos \"clientes\" certos da sua vida.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Use o motor de crescimento\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Busque feedback dos \"clientes\" certos da sua vida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o motor de crescimento\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Invista em relacionamentos",
-        "text": "Trate família e amizade como concorrentes legítimos do trabalho."
+        "text": "Trate família e amizade como concorrentes legítimos do trabalho.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Invista em relacionamentos\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Trate família e amizade como concorrentes legítimos do trabalho — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Invista em relacionamentos\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Treine integridade",
-        "text": "Pratique coerência nas pequenas situações difíceis."
+        "text": "Pratique coerência nas pequenas situações difíceis.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Treine integridade\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Pratique coerência nas pequenas situações difíceis — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine integridade\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Defina sua cultura",
-        "text": "Valores internalizados guiam melhor em momentos caóticos."
+        "text": "Valores internalizados guiam melhor em momentos caóticos.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Defina sua cultura\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Valores internalizados guiam melhor em momentos caóticos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina sua cultura\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Equilibre ambição e sentido",
-        "text": "Ambição precisa de \"porquê\" para não se perder."
+        "text": "Ambição precisa de \"porquê\" para não se perder.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Equilibre ambição e sentido\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Ambição precisa de \"porquê\" para não se perder — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Equilibre ambição e sentido\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Meça por legado",
-        "text": "Avalie a vida por integridade e laços, não por cargo."
+        "text": "Avalie a vida por integridade e laços, não por cargo.",
+        "explicacoes": [
+          "Em \"Como Medir sua Vida\", Clayton M. Christensen trata \"Meça por legado\" como peça-chave para alocar recursos para o que realmente importa na vida.",
+          "Na prática: Avalie a vida por integridade e laços, não por cargo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça por legado\" aplica alocar recursos para o que realmente importa na vida de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -23580,64 +23770,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Por que fracassamos",
         "text": "Usa inovação disruptiva para explicar fracassos pessoais.",
         "points": [
-          "Disrupção.",
-          "Vida."
+          {
+            "t": "Disrupção.",
+            "e": "Usa inovação disruptiva para explicar fracassos pessoais.",
+            "f": "Na visão de Clayton M. Christensen, \"disrupção.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Vida.",
+            "e": "Usa inovação disruptiva para explicar fracassos pessoais.",
+            "f": "Maximizar dinheiro é uma métrica de erro para uma vida.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Modelo de Recursos",
         "text": "Cada escolha aloca tempo, dinheiro e energia.",
         "points": [
-          "Alocação.",
-          "Prioridade."
+          {
+            "t": "Alocação.",
+            "e": "Cada escolha aloca tempo, dinheiro e energia.",
+            "f": "Não é o que você quer fazer que importa, mas como você realmente aloca seus recursos.",
+            "real": true
+          },
+          {
+            "t": "Prioridade.",
+            "e": "Cada escolha aloca tempo, dinheiro e energia.",
+            "f": "Na visão de Clayton M. Christensen, \"prioridade.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Estratégia Deliberada vs Emergente",
         "text": "O que você faz diverge do que planeja.",
         "points": [
-          "Realidade.",
-          "Ação."
+          {
+            "t": "Realidade.",
+            "e": "O que você faz diverge do que planeja.",
+            "f": "Sua estratégia emergente diz mais sobre você que seus planos.",
+            "real": true
+          },
+          {
+            "t": "Ação.",
+            "e": "O que você faz diverge do que planeja.",
+            "f": "Na visão de Clayton M. Christensen, \"ação.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Motor de Crescimento",
         "text": "Feedback dos clientes certos sustenta propósitos.",
         "points": [
-          "Feedback.",
-          "Sentido."
+          {
+            "t": "Feedback.",
+            "e": "Feedback dos clientes certos sustenta propósitos.",
+            "f": "Na visão de Clayton M. Christensen, \"feedback.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Sentido.",
+            "e": "Feedback dos clientes certos sustenta propósitos.",
+            "f": "Na visão de Clayton M. Christensen, \"sentido.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Métricas de Erro",
         "text": "Riqueza como medida errada de sucesso.",
         "points": [
-          "Métrica.",
-          "Valor."
+          {
+            "t": "Métrica.",
+            "e": "Riqueza como medida errada de sucesso.",
+            "f": "Maximizar dinheiro é uma métrica de erro para uma vida.",
+            "real": true
+          },
+          {
+            "t": "Valor.",
+            "e": "Riqueza como medida errada de sucesso.",
+            "f": "Na visão de Clayton M. Christensen, \"valor.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — As Margens",
         "text": "Pequenas decisões constroem caráter e cultura.",
         "points": [
-          "Margins.",
-          "Hábito."
+          {
+            "t": "Margins.",
+            "e": "Pequenas decisões constroem caráter e cultura.",
+            "f": "O caráter é formado nas margens, não no centro das grandes decisões.",
+            "real": true
+          },
+          {
+            "t": "Hábito.",
+            "e": "Pequenas decisões constroem caráter e cultura.",
+            "f": "Na visão de Clayton M. Christensen, \"hábito.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Relacionamentos",
         "text": "Investir na família como concorrente do trabalho.",
         "points": [
-          "Família.",
-          "Tempo."
+          {
+            "t": "Família.",
+            "e": "Investir na família como concorrente do trabalho.",
+            "f": "Na visão de Clayton M. Christensen, \"família.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Tempo.",
+            "e": "Investir na família como concorrente do trabalho.",
+            "f": "Na visão de Clayton M. Christensen, \"tempo.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — As Três Perguntas",
         "text": "Realização, relacionamento e integridade como medida final.",
         "points": [
-          "Medida.",
-          "Legado."
+          {
+            "t": "Medida.",
+            "e": "Realização, relacionamento e integridade como medida final.",
+            "f": "Na visão de Clayton M. Christensen, \"medida.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          },
+          {
+            "t": "Legado.",
+            "e": "Realização, relacionamento e integridade como medida final.",
+            "f": "Na visão de Clayton M. Christensen, \"legado.\" é parte essencial da proposta de \"Como Medir sua Vida\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -23790,57 +24060,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Desconfie do grátis",
-        "text": "Avalie o custo real, não só o rótulo \"zero\"."
+        "text": "Avalie o custo real, não só o rótulo \"zero\".",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Desconfie do grátis\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Avalie o custo real, não só o rótulo \"zero\" — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desconfie do grátis\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Ancore consciente",
-        "text": "Defina sua própria referência antes de ver preços."
+        "text": "Defina sua própria referência antes de ver preços.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Ancore consciente\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Defina sua própria referência antes de ver preços — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ancore consciente\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Compare com critério",
-        "text": "Use valores absolutos, não só o contexto oferecido."
+        "text": "Use valores absolutos, não só o contexto oferecido.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Compare com critério\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Use valores absolutos, não só o contexto oferecido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Compare com critério\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Domine a posse",
-        "text": "Não inflacione o valor do que já é seu por apego."
+        "text": "Não inflacione o valor do que já é seu por apego.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Domine a posse\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Não inflacione o valor do que já é seu por apego — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Domine a posse\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Combata a procrastinação",
-        "text": "Crie restrições de autocontrole para o futuro."
+        "text": "Crie restrições de autocontrole para o futuro.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Combata a procrastinação\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Crie restrições de autocontrole para o futuro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Combata a procrastinação\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Questione expectativas",
-        "text": "Separe o que gosta do que lhe disseram para gostar."
+        "text": "Separe o que gosta do que lhe disseram para gostar.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Questione expectativas\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Separe o que gosta do que lhe disseram para gostar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Questione expectativas\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Mantenha normas sociais",
-        "text": "Não transforme favores em transações."
+        "text": "Não transforme favores em transações.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Mantenha normas sociais\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Não transforme favores em transações — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha normas sociais\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Cuidado com o framing",
-        "text": "Repense a escolha fora da embalagem sugerida."
+        "text": "Repense a escolha fora da embalagem sugerida.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Cuidado com o framing\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Repense a escolha fora da embalagem sugerida — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuidado com o framing\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Limite opções",
-        "text": "Reduzir alternativas pode aumentar satisfação."
+        "text": "Reduzir alternativas pode aumentar satisfação.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Limite opções\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Reduzir alternativas pode aumentar satisfação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Limite opções\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Estude seus vieses",
-        "text": "Conhecer padrões protege contra manipulação."
+        "text": "Conhecer padrões protege contra manipulação.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Estude seus vieses\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Conhecer padrões protege contra manipulação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estude seus vieses\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Separe preço de mérito",
-        "text": "Pague pelo valor real, não pelo rótulo caro."
+        "text": "Pague pelo valor real, não pelo rótulo caro.",
+        "explicacoes": [
+          "Em \"Previsivelmente Irracional\", Dan Ariely trata \"Separe preço de mérito\" como peça-chave para a irracionalidade previsível das decisões humanas.",
+          "Na prática: Pague pelo valor real, não pelo rótulo caro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Separe preço de mérito\" aplica a irracionalidade previsível das decisões humanas de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -23862,64 +24187,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Custo Zero",
         "text": "Por que o grátis nos seduz e nos faz escolhas piores.",
         "points": [
-          "Grátis.",
-          "Armadilha."
+          {
+            "t": "Grátis.",
+            "e": "Por que o grátis nos seduz e nos faz escolhas piores.",
+            "f": "O que é grátis exerce um apelo emocional desproporcional.",
+            "real": true
+          },
+          {
+            "t": "Armadilha.",
+            "e": "Por que o grátis nos seduz e nos faz escolhas piores.",
+            "f": "Na visão de Dan Ariely, \"armadilha.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Efeito Âncora",
         "text": "Como o primeiro preço vista vira referência.",
         "points": [
-          "Âncora.",
-          "Referência."
+          {
+            "t": "Âncora.",
+            "e": "Como o primeiro preço vista vira referência.",
+            "f": "A primeira informação vista torna-se a âncora de todas as decisões seguintes.",
+            "real": true
+          },
+          {
+            "t": "Referência.",
+            "e": "Como o primeiro preço vista vira referência.",
+            "f": "Na visão de Dan Ariely, \"referência.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Relatividade",
         "text": "Decidimos por comparação, não por valor absoluto.",
         "points": [
-          "Comparação.",
-          "Contexto."
+          {
+            "t": "Comparação.",
+            "e": "Decidimos por comparação, não por valor absoluto.",
+            "f": "Na visão de Dan Ariely, \"comparação.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "Contexto.",
+            "e": "Decidimos por comparação, não por valor absoluto.",
+            "f": "Na visão de Dan Ariely, \"contexto.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O Efeito do Proprietário",
         "text": "Possuir algo infla seu valor subjetivo.",
         "points": [
-          "Posse.",
-          "Apego."
+          {
+            "t": "Posse.",
+            "e": "Possuir algo infla seu valor subjetivo.",
+            "f": "Na visão de Dan Ariely, \"posse.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "Apego.",
+            "e": "Possuir algo infla seu valor subjetivo.",
+            "f": "Na visão de Dan Ariely, \"apego.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Procrastinação",
         "text": "Preferência pelo prazer imediato e falta de autocontrole.",
         "points": [
-          "Adiar.",
-          "Futuro."
+          {
+            "t": "Adiar.",
+            "e": "Preferência pelo prazer imediato e falta de autocontrole.",
+            "f": "Na visão de Dan Ariely, \"adiar.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "Futuro.",
+            "e": "Preferência pelo prazer imediato e falta de autocontrole.",
+            "f": "Na visão de Dan Ariely, \"futuro.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Expectativa",
         "text": "Crença e preço alteram a percepção de prazer.",
         "points": [
-          "Crença.",
-          "Percepção."
+          {
+            "t": "Crença.",
+            "e": "Crença e preço alteram a percepção de prazer.",
+            "f": "Na visão de Dan Ariely, \"crença.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "Percepção.",
+            "e": "Crença e preço alteram a percepção de prazer.",
+            "f": "Na visão de Dan Ariely, \"percepção.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Normas Sociais vs Mercado",
         "text": "Misturar dinheiro e afeto destrói generosidade.",
         "points": [
-          "Normas.",
-          "Dinheiro."
+          {
+            "t": "Normas.",
+            "e": "Misturar dinheiro e afeto destrói generosidade.",
+            "f": "Na visão de Dan Ariely, \"normas.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "Dinheiro.",
+            "e": "Misturar dinheiro e afeto destrói generosidade.",
+            "f": "Na visão de Dan Ariely, \"dinheiro.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Decidir Melhor",
         "text": "Reconhecer vieses para proteger escolhas.",
         "points": [
-          "Viés.",
-          "Defesa."
+          {
+            "t": "Viés.",
+            "e": "Reconhecer vieses para proteger escolhas.",
+            "f": "Na visão de Dan Ariely, \"viés.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          },
+          {
+            "t": "Defesa.",
+            "e": "Reconhecer vieses para proteger escolhas.",
+            "f": "Na visão de Dan Ariely, \"defesa.\" é parte essencial da proposta de \"Previsivelmente Irracional\".",
+            "real": false
+          }
         ]
       }
     ]
