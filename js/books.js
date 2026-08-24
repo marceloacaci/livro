@@ -37607,57 +37607,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Busque clareza toda manhã",
-        "text": "Defina o que é mais importante antes de abrir o e-mail. A clareza reduz a paralisia e direciona a energia para o que conta."
+        "text": "Defina o que é mais importante antes de abrir o e-mail. A clareza reduz a paralisia e direciona a energia para o que conta.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Busque clareza toda manhã\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Defina o que é mais importante antes de abrir o e-mail. A clareza reduz a paralisia e direciona a energia para o que conta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque clareza toda manhã\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Conecte metas a uma necessidade real",
-        "text": "Quando uma meta toca algo que você precisa provar ou entregar para quem ama, a disciplina floresce sem esforço heroico."
+        "text": "Quando uma meta toca algo que você precisa provar ou entregar para quem ama, a disciplina floresce sem esforço heroico.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Conecte metas a uma necessidade real\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Quando uma meta toca algo que você precisa provar ou entregar para quem ama, a disciplina floresce sem esforço heroico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conecte metas a uma necessidade real\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Proteja sua saúde como ativo",
-        "text": "Sono, exercício e nutrição não são custos; são a infraestrutura sobre a qual toda performance é construída."
+        "text": "Sono, exercício e nutrição não são custos; são a infraestrutura sobre a qual toda performance é construída.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Proteja sua saúde como ativo\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Sono, exercício e nutrição não são custos; são a infraestrutura sobre a qual toda performance é construída — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja sua saúde como ativo\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Pratique a produtividade focada",
-        "text": "Bloquear tempo para o trabalho profundo, sem fragmentação, entrega muito mais que horas longas e interrompidas."
+        "text": "Bloquear tempo para o trabalho profundo, sem fragmentação, entrega muito mais que horas longas e interrompidas.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Pratique a produtividade focada\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Bloquear tempo para o trabalho profundo, sem fragmentação, entrega muito mais que horas longas e interrompidas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a produtividade focada\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Exerça a coragem em pequenas doses",
-        "text": "Cada conversa difícil ou recusa honesta treina o músculo da coragem para os momentos decisivos."
+        "text": "Cada conversa difícil ou recusa honesta treina o músculo da coragem para os momentos decisivos.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Exerça a coragem em pequenas doses\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Cada conversa difícil ou recusa honesta treina o músculo da coragem para os momentos decisivos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exerça a coragem em pequenas doses\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Influencie servindo",
-        "text": "Pergunte como pode elevar os outros; a autoridade natural nasce de contribuir, não de comandar."
+        "text": "Pergunte como pode elevar os outros; a autoridade natural nasce de contribuir, não de comandar.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Influencie servindo\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Pergunte como pode elevar os outros; a autoridade natural nasce de contribuir, não de comandar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Influencie servindo\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Mantenha o hábito sob atenção",
-        "text": "Re-afirme intenção diária; rotinas desatentas perdem o poder de transformar."
+        "text": "Re-afirme intenção diária; rotinas desatentas perdem o poder de transformar.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Mantenha o hábito sob atenção\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Re-afirme intenção diária; rotinas desatentas perdem o poder de transformar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha o hábito sob atenção\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Reflita semanalmente",
-        "text": "Uma revisão de fim de semana sobre o que funcionou revela padrões que a correria esconde."
+        "text": "Uma revisão de fim de semana sobre o que funcionou revela padrões que a correria esconde.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Reflita semanalmente\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Uma revisão de fim de semana sobre o que funcionou revela padrões que a correria esconde — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reflita semanalmente\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Celebre progressos",
-        "text": "Reconhecer avanços sustenta a motivação muito mais do que perseguir apenas o fim."
+        "text": "Reconhecer avanços sustenta a motivação muito mais do que perseguir apenas o fim.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Celebre progressos\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Reconhecer avanços sustenta a motivação muito mais do que perseguir apenas o fim — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Celebre progressos\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Busque feedback honesto",
-        "text": "Pergunte às pessoas como seu comportamento as afeta; pontos cegos só saem com espelho alheio."
+        "text": "Pergunte às pessoas como seu comportamento as afeta; pontos cegos só saem com espelho alheio.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Busque feedback honesto\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Pergunte às pessoas como seu comportamento as afeta; pontos cegos só saem com espelho alheio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque feedback honesto\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Defina sua identidade de desempenho",
-        "text": "Declarar quem você quer ser orienta escolhas melhores que listas de tarefas."
+        "text": "Declarar quem você quer ser orienta escolhas melhores que listas de tarefas.",
+        "explicacoes": [
+          "Em \"Hábitos de Alta Performance\", Brendon Burchard trata \"Defina sua identidade de desempenho\" como peça-chave para a carga (charged) vida de alta performance e propósito.",
+          "Na prática: Declarar quem você quer ser orienta escolhas melhores que listas de tarefas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina sua identidade de desempenho\" aplica a carga (charged) vida de alta performance e propósito de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -37679,72 +37734,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O mito do talento",
         "text": "Burchard abre mostrando que a alta performance é aprendida, não inata, com base em sua pesquisa de dez anos.",
         "points": [
-          "Diferença entre sucesso pontual e performance sustentada",
-          "O papel do esforço deliberado"
+          {
+            "t": "Diferença entre sucesso pontual e performance sustentada",
+            "e": "Burchard abre mostrando que a alta performance é aprendida, não inata, com base em sua pesquisa de dez anos.",
+            "f": "A alta performance não é sobre ser o melhor; é sobre ser melhor que a sua versão anterior.",
+            "real": true
+          },
+          {
+            "t": "O papel do esforço deliberado",
+            "e": "Burchard abre mostrando que a alta performance é aprendida, não inata, com base em sua pesquisa de dez anos.",
+            "f": "Na visão de Brendon Burchard, \"o papel do esforço deliberado\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O hábito da clareza",
         "text": "O primeiro pilar: saber por que se age direciona toda a energia restante.",
         "points": [
-          "Perguntas de clareza matinal",
-          "Visão, intenção e resultado"
+          {
+            "t": "Perguntas de clareza matinal",
+            "e": "O primeiro pilar: saber por que se age direciona toda a energia restante.",
+            "f": "A clareza é o pré-requisito de todo progresso.",
+            "real": true
+          },
+          {
+            "t": "Visão, intenção e resultado",
+            "e": "O primeiro pilar: saber por que se age direciona toda a energia restante.",
+            "f": "Na visão de Brendon Burchard, \"visão, intenção e resultado\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O hábito da necessidade",
         "text": "Como ligar metas a propósitos que tocam emocionalmente sustenta a ação.",
         "points": [
-          "Necessidade vs. obrigação",
-          "Conectar meta a pessoas"
+          {
+            "t": "Necessidade vs. obrigação",
+            "e": "Como ligar metas a propósitos que tocam emocionalmente sustenta a ação.",
+            "f": "Na visão de Brendon Burchard, \"necessidade vs. obrigação\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          },
+          {
+            "t": "Conectar meta a pessoas",
+            "e": "Como ligar metas a propósitos que tocam emocionalmente sustenta a ação.",
+            "f": "Na visão de Brendon Burchard, \"conectar meta a pessoas\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O hábito da saúde",
         "text": "Energia física e mental como infraestrutura do desempenho.",
         "points": [
-          "Sono e recuperação",
-          "Exercício e nutrição para foco"
+          {
+            "t": "Sono e recuperação",
+            "e": "Energia física e mental como infraestrutura do desempenho.",
+            "f": "Na visão de Brendon Burchard, \"sono e recuperação\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          },
+          {
+            "t": "Exercício e nutrição para foco",
+            "e": "Energia física e mental como infraestrutura do desempenho.",
+            "f": "Você não precisa se sentir motivado para agir; agir gera motivação.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O hábito da produtividade",
         "text": "Trabalho focado e profundo supera ocupação constante.",
         "points": [
-          "Blocos de foco",
-          "Eliminar fragmentação"
+          {
+            "t": "Blocos de foco",
+            "e": "Trabalho focado e profundo supera ocupação constante.",
+            "f": "Na visão de Brendon Burchard, \"blocos de foco\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          },
+          {
+            "t": "Eliminar fragmentação",
+            "e": "Trabalho focado e profundo supera ocupação constante.",
+            "f": "Na visão de Brendon Burchard, \"eliminar fragmentação\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O hábito da influência",
         "text": "Elevar os outros gera autoridade natural e impacto duradouro.",
         "points": [
-          "Servir como base da liderança",
-          "Feedback e escuta"
+          {
+            "t": "Servir como base da liderança",
+            "e": "Elevar os outros gera autoridade natural e impacto duradouro.",
+            "f": "Se você não decidir como vai viver, alguém ou algo decidirá por você.",
+            "real": true
+          },
+          {
+            "t": "Feedback e escuta",
+            "e": "Elevar os outros gera autoridade natural e impacto duradouro.",
+            "f": "Na visão de Brendon Burchard, \"feedback e escuta\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O hábito da coragem",
         "text": "Agir com medo presente, não após vencê-lo, é a definição prática.",
         "points": [
-          "Coragem diária",
-          "Enfrentar conversas difíceis"
+          {
+            "t": "Coragem diária",
+            "e": "Agir com medo presente, não após vencê-lo, é a definição prática.",
+            "f": "Na visão de Brendon Burchard, \"coragem diária\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          },
+          {
+            "t": "Enfrentar conversas difíceis",
+            "e": "Agir com medo presente, não após vencê-lo, é a definição prática.",
+            "f": "Na visão de Brendon Burchard, \"enfrentar conversas difíceis\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Integrando os seis hábitos",
         "text": "O autor mostra como os pilares se reforçam e propõe ritual semanal.",
         "points": [
-          "Revisão semanal",
-          "Identidade de desempenho"
+          {
+            "t": "Revisão semanal",
+            "e": "O autor mostra como os pilares se reforçam e propõe ritual semanal.",
+            "f": "Na visão de Brendon Burchard, \"revisão semanal\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          },
+          {
+            "t": "Identidade de desempenho",
+            "e": "O autor mostra como os pilares se reforçam e propõe ritual semanal.",
+            "f": "Na visão de Brendon Burchard, \"identidade de desempenho\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Medindo o progresso",
         "text": "Indicadores de alta performance que qualquer um pode acompanhar.",
         "points": [
-          "Acompanhamento de energia",
-          "Celebração de avanços"
+          {
+            "t": "Acompanhamento de energia",
+            "e": "Indicadores de alta performance que qualquer um pode acompanhar.",
+            "f": "A clareza é o pré-requisito de todo progresso.",
+            "real": true
+          },
+          {
+            "t": "Celebração de avanços",
+            "e": "Indicadores de alta performance que qualquer um pode acompanhar.",
+            "f": "Na visão de Brendon Burchard, \"celebração de avanços\" é parte essencial da proposta de \"Hábitos de Alta Performance\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -37902,57 +38047,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "A escolha é sua âncora",
-        "text": "Em qualquer circunstância, resta a liberdade de escolher o sentido. Exercitar essa escolha é o primeiro passo da libertação."
+        "text": "Em qualquer circunstância, resta a liberdade de escolher o sentido. Exercitar essa escolha é o primeiro passo da libertação.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"A escolha é sua âncora\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: Em qualquer circunstância, resta a liberdade de escolher o sentido. Exercitar essa escolha é o primeiro passo da libertação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"A escolha é sua âncora\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Perdoe para se libertar",
-        "text": "Perdoar não absolve o outro; solta você da amargura que o mantém presente."
+        "text": "Perdoar não absolve o outro; solta você da amargura que o mantém presente.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Perdoe para se libertar\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: Perdoar não absolve o outro; solta você da amargura que o mantém presente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Perdoe para se libertar\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Não se defina pela dor",
-        "text": "Você é mais que o que sofreu; separar o papel de vítima da identidade abre caminho."
+        "text": "Você é mais que o que sofreu; separar o papel de vítima da identidade abre caminho.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Não se defina pela dor\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: Você é mais que o que sofreu; separar o papel de vítima da identidade abre caminho — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não se defina pela dor\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Escute o corpo",
-        "text": "Tensões e reações físicas revelam traumas que a narrativa esconde; atendê-las faz parte da cura."
+        "text": "Tensões e reações físicas revelam traumas que a narrativa esconde; atendê-las faz parte da cura.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Escute o corpo\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: Tensões e reações físicas revelam traumas que a narrativa esconde; atendê-las faz parte da cura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escute o corpo\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Permita o sentimento",
-        "text": "Medo e tristeza não são fraqueza; senti-los e prosseguir é a verdadeira força."
+        "text": "Medo e tristeza não são fraqueza; senti-los e prosseguir é a verdadeira força.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Permita o sentimento\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: Medo e tristeza não são fraqueza; senti-los e prosseguir é a verdadeira força — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Permita o sentimento\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Converse com a dor",
-        "text": "Dialogar com a própria ferida, como Eger faz com Mengele imaginário, reduz seu poder."
+        "text": "Dialogar com a própria ferida, como Eger faz com Mengele imaginário, reduz seu poder.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Converse com a dor\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: Dialogar com a própria ferida, como Eger faz com Mengele imaginário, reduz seu poder — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Converse com a dor\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Liberte-se da culpa injusta",
-        "text": "Sobreviventes e cuidadores carregam culpas que não lhes pertencem; reconhecê-las alivia."
+        "text": "Sobreviventes e cuidadores carregam culpas que não lhes pertencem; reconhecê-las alivia.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Liberte-se da culpa injusta\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: Sobreviventes e cuidadores carregam culpas que não lhes pertencem; reconhecê-las alivia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Liberte-se da culpa injusta\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Aceite a imperfeição da cura",
-        "text": "A cura é processo recorrente; cobrar fim definitivo gera frustração."
+        "text": "A cura é processo recorrente; cobrar fim definitivo gera frustração.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Aceite a imperfeição da cura\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: A cura é processo recorrente; cobrar fim definitivo gera frustração — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite a imperfeição da cura\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Encontre gratidão na perda",
-        "text": "Agradecer pelas memórias e ensinamentos mantém viva a conexão sem negar a dor."
+        "text": "Agradecer pelas memórias e ensinamentos mantém viva a conexão sem negar a dor.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Encontre gratidão na perda\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: Agradecer pelas memórias e ensinamentos mantém viva a conexão sem negar a dor — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Encontre gratidão na perda\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Use a dor como empatia",
-        "text": "A ferida curada vira ponte para acolher o sofrimento alheio com autoridade gentil."
+        "text": "A ferida curada vira ponte para acolher o sofrimento alheio com autoridade gentil.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Use a dor como empatia\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: A ferida curada vira ponte para acolher o sofrimento alheio com autoridade gentil — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a dor como empatia\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Recuse a comparação de dores",
-        "text": "Toda dor é válida; minimizá-la sob o peso de outras paralisa a própria cura."
+        "text": "Toda dor é válida; minimizá-la sob o peso de outras paralisa a própria cura.",
+        "explicacoes": [
+          "Em \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\", Edith Eger trata \"Recuse a comparação de dores\" como peça-chave para a escolha da liberdade interior após o trauma.",
+          "Na prática: Toda dor é válida; minimizá-la sob o peso de outras paralisa a própria cura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Recuse a comparação de dores\" aplica a escolha da liberdade interior após o trauma de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -37974,72 +38174,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Auschwitz",
         "text": "Eger relata a chegada, a separação dos pais e o encontro com Mengele, sem florear o horror.",
         "points": [
-          "A perda imediata da família",
-          "A violência como laboratório"
+          {
+            "t": "A perda imediata da família",
+            "e": "Eger relata a chegada, a separação dos pais e o encontro com Mengele, sem florear o horror.",
+            "f": "Na visão de Edith Eger, \"a perda imediata da família\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "A violência como laboratório",
+            "e": "Eger relata a chegada, a separação dos pais e o encontro com Mengele, sem florear o horror.",
+            "f": "Na visão de Edith Eger, \"a violência como laboratório\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A escolha",
         "text": "O conceito central: mesmo cativa, ela podia escolher o sentido de resistir.",
         "points": [
-          "Liberdade interna",
-          "Recusa da identidade de vítima"
+          {
+            "t": "Liberdade interna",
+            "e": "O conceito central: mesmo cativa, ela podia escolher o sentido de resistir.",
+            "f": "Não somos nossas circunstâncias; somos a escolha que fazemos diante delas.",
+            "real": true
+          },
+          {
+            "t": "Recusa da identidade de vítima",
+            "e": "O conceito central: mesmo cativa, ela podia escolher o sentido de resistir.",
+            "f": "Na visão de Edith Eger, \"recusa da identidade de vítima\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O corpo traumatizado",
         "text": "Como o trauma se instala fisicamente e pede escuta clínica.",
         "points": [
-          "Memória corporal",
-          "Sinais de alerta"
+          {
+            "t": "Memória corporal",
+            "e": "Como o trauma se instala fisicamente e pede escuta clínica.",
+            "f": "Na visão de Edith Eger, \"memória corporal\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Sinais de alerta",
+            "e": "Como o trauma se instala fisicamente e pede escuta clínica.",
+            "f": "Na visão de Edith Eger, \"sinais de alerta\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Perdão",
         "text": "O perdão como libertação de si, não absolvição do agressor.",
         "points": [
-          "Perdoar Mengele imaginário",
-          "Soltar a amargura"
+          {
+            "t": "Perdoar Mengele imaginário",
+            "e": "O perdão como libertação de si, não absolvição do agressor.",
+            "f": "Perdoar não é esquecer; é soltar a pessoa que prendeu você no passado.",
+            "real": true
+          },
+          {
+            "t": "Soltar a amargura",
+            "e": "O perdão como libertação de si, não absolvição do agressor.",
+            "f": "Na visão de Edith Eger, \"soltar a amargura\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Culpa e sobrevivência",
         "text": "A culpa do sobrevivente e como nomeá-la abre a cura.",
         "points": [
-          "Culpa injusta",
-          "Autoacolhimento"
+          {
+            "t": "Culpa injusta",
+            "e": "A culpa do sobrevivente e como nomeá-la abre a cura.",
+            "f": "Na visão de Edith Eger, \"culpa injusta\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Autoacolhimento",
+            "e": "A culpa do sobrevivente e como nomeá-la abre a cura.",
+            "f": "Na visão de Edith Eger, \"autoacolhimento\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O papel da vítima",
         "text": "Reconhecer o papel sem virar identidade permanente.",
         "points": [
-          "Papel vs. identidade",
-          "Sair da prisão interna"
+          {
+            "t": "Papel vs. identidade",
+            "e": "Reconhecer o papel sem virar identidade permanente.",
+            "f": "Na visão de Edith Eger, \"papel vs. identidade\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Sair da prisão interna",
+            "e": "Reconhecer o papel sem virar identidade permanente.",
+            "f": "Na visão de Edith Eger, \"sair da prisão interna\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Amor e casamento",
         "text": "Como Eger construiu vínculos saudáveis apesar do passado.",
         "points": [
-          "Vulnerabilidade",
-          "Confiança reconstruída"
+          {
+            "t": "Vulnerabilidade",
+            "e": "Como Eger construiu vínculos saudáveis apesar do passado.",
+            "f": "Na visão de Edith Eger, \"vulnerabilidade\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Confiança reconstruída",
+            "e": "Como Eger construiu vínculos saudáveis apesar do passado.",
+            "f": "Na visão de Edith Eger, \"confiança reconstruída\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Integrando a dor",
         "text": "A ferida como professor e ponte de empatia.",
         "points": [
-          "Dor como empatia",
-          "Gratidão na perda"
+          {
+            "t": "Dor como empatia",
+            "e": "A ferida como professor e ponte de empatia.",
+            "f": "Na visão de Edith Eger, \"dor como empatia\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          },
+          {
+            "t": "Gratidão na perda",
+            "e": "A ferida como professor e ponte de empatia.",
+            "f": "Na visão de Edith Eger, \"gratidão na perda\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — A prisão feliz",
         "text": "O fechamento: liberdade diária pela escolha consciente.",
         "points": [
-          "Escolha contínua",
-          "Viver inteiro"
+          {
+            "t": "Escolha contínua",
+            "e": "O fechamento: liberdade diária pela escolha consciente.",
+            "f": "Não somos nossas circunstâncias; somos a escolha que fazemos diante delas.",
+            "real": true
+          },
+          {
+            "t": "Viver inteiro",
+            "e": "O fechamento: liberdade diária pela escolha consciente.",
+            "f": "Na visão de Edith Eger, \"viver inteiro\" é parte essencial da proposta de \"O Prisioneiro Feliz: Um Psicólogo em Busca da Liberdade\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -38197,57 +38487,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Conheça seus dois sistemas",
-        "text": "Identificar quando o sistema quente assume o controle é o primeiro passo para acionar o frio."
+        "text": "Identificar quando o sistema quente assume o controle é o primeiro passo para acionar o frio.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Conheça seus dois sistemas\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Identificar quando o sistema quente assume o controle é o primeiro passo para acionar o frio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça seus dois sistemas\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Desvie o olhar da tentação",
-        "text": "Reduzir a atenção sobre o estímulo enfraquece o impulso sem esforço heroico."
+        "text": "Reduzir a atenção sobre o estímulo enfraquece o impulso sem esforço heroico.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Desvie o olhar da tentação\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Reduzir a atenção sobre o estímulo enfraquece o impulso sem esforço heroico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desvie o olhar da tentação\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Reenquadre a recompensa",
-        "text": "Mudar como você descreve o objeto de desejo altera seu apelo emocional."
+        "text": "Mudar como você descreve o objeto de desejo altera seu apelo emocional.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Reenquadre a recompensa\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Mudar como você descreve o objeto de desejo altera seu apelo emocional — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reenquadre a recompensa\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Crie distância física",
-        "text": "Tornar a tentação menos visível ou acessível vale mais que força de vontade."
+        "text": "Tornar a tentação menos visível ou acessível vale mais que força de vontade.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Crie distância física\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Tornar a tentação menos visível ou acessível vale mais que força de vontade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie distância física\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Ancore no futuro",
-        "text": "Ligar a espera a uma meta maior ativa o planejamento e dilata a paciência."
+        "text": "Ligar a espera a uma meta maior ativa o planejamento e dilata a paciência.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Ancore no futuro\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Ligar a espera a uma meta maior ativa o planejamento e dilata a paciência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ancore no futuro\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use distração construtiva",
-        "text": "Brincar, cantarolar ou focar em outra tarefa ocupa o sistema quente de forma útil."
+        "text": "Brincar, cantarolar ou focar em outra tarefa ocupa o sistema quente de forma útil.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Use distração construtiva\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Brincar, cantarolar ou focar em outra tarefa ocupa o sistema quente de forma útil — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use distração construtiva\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Treine em ambientes seguros",
-        "text": "Praticar estratégias em situações de baixo risco prepara para as decisivas."
+        "text": "Praticar estratégias em situações de baixo risco prepara para as decisivas.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Treine em ambientes seguros\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Praticar estratégias em situações de baixo risco prepara para as decisivas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine em ambientes seguros\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Não moralize o impulso",
-        "text": "Ver ceder como falha de técnica, não de caráter, reduz a vergonha e facilita o ajuste."
+        "text": "Ver ceder como falha de técnica, não de caráter, reduz a vergonha e facilita o ajuste.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Não moralize o impulso\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Ver ceder como falha de técnica, não de caráter, reduz a vergonha e facilita o ajuste — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não moralize o impulso\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Ensine crianças a esperar",
-        "text": "Mostrar truques de atenção a pequenos melhora resultados escolares e sociais."
+        "text": "Mostrar truques de atenção a pequenos melhora resultados escolares e sociais.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Ensine crianças a esperar\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Mostrar truques de atenção a pequenos melhora resultados escolares e sociais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ensine crianças a esperar\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Monitore gatilhos",
-        "text": "Mapear quando e onde o sistema quente dispara permite antecipar defesas."
+        "text": "Mapear quando e onde o sistema quente dispara permite antecipar defesas.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Monitore gatilhos\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Mapear quando e onde o sistema quente dispara permite antecipar defesas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Monitore gatilhos\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Pratique o 'cool' deliberado",
-        "text": "Pausar e descrever a situação em termos neutros reativa o planejamento."
+        "text": "Pausar e descrever a situação em termos neutros reativa o planejamento.",
+        "explicacoes": [
+          "Em \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\", Walter Mischel trata \"Pratique o 'cool' deliberado\" como peça-chave para o teste do marshmallow e o autocontrole.",
+          "Na prática: Pausar e descrever a situação em termos neutros reativa o planejamento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique o 'cool' deliberado\" aplica o teste do marshmallow e o autocontrole de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -38269,72 +38614,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O experimento",
         "text": "Mischel descreve a origem do teste e por que ele intrigou o mundo.",
         "points": [
-          "A sala com o doce",
-          "A promessa do segundo"
+          {
+            "t": "A sala com o doce",
+            "e": "Mischel descreve a origem do teste e por que ele intrigou o mundo.",
+            "f": "Na visão de Walter Mischel, \"a sala com o doce\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "A promessa do segundo",
+            "e": "Mischel descreve a origem do teste e por que ele intrigou o mundo.",
+            "f": "Na visão de Walter Mischel, \"a promessa do segundo\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O sistema quente e o frio",
         "text": "A base neural e cognitiva de como reagimos por impulso ou planejamos.",
         "points": [
-          "Processamento quente",
-          "Processamento frio"
+          {
+            "t": "Processamento quente",
+            "e": "A base neural e cognitiva de como reagimos por impulso ou planejamos.",
+            "f": "Na visão de Walter Mischel, \"processamento quente\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "Processamento frio",
+            "e": "A base neural e cognitiva de como reagimos por impulso ou planejamos.",
+            "f": "Na visão de Walter Mischel, \"processamento frio\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Estratégias de espera",
         "text": "O que as crianças faziam para resistir revela técnicas universais.",
         "points": [
-          "Distração visual",
-          "Brincar com a ideia"
+          {
+            "t": "Distração visual",
+            "e": "O que as crianças faziam para resistir revela técnicas universais.",
+            "f": "Na visão de Walter Mischel, \"distração visual\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "Brincar com a ideia",
+            "e": "O que as crianças faziam para resistir revela técnicas universais.",
+            "f": "Na visão de Walter Mischel, \"brincar com a ideia\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Reenquadramento",
         "text": "Mudar a descrição mental da recompensa desarma o desejo.",
         "points": [
-          "Doce como nuvem",
-          "Valor simbólico"
+          {
+            "t": "Doce como nuvem",
+            "e": "Mudar a descrição mental da recompensa desarma o desejo.",
+            "f": "O segredo está em mudar como pensamos sobre a recompensa, não em combatê-la.",
+            "real": true
+          },
+          {
+            "t": "Valor simbólico",
+            "e": "Mudar a descrição mental da recompensa desarma o desejo.",
+            "f": "Na visão de Walter Mischel, \"valor simbólico\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Ambiente e autocontrole",
         "text": "Como tornar tentações invisíveis facilita a escolha certa.",
         "points": [
-          "Distância física",
-          "Desenho do contexto"
+          {
+            "t": "Distância física",
+            "e": "Como tornar tentações invisíveis facilita a escolha certa.",
+            "f": "O autocontrole não é um traço que se tem ou não; é um conjunto de habilidades que se aprende.",
+            "real": true
+          },
+          {
+            "t": "Desenho do contexto",
+            "e": "Como tornar tentações invisíveis facilita a escolha certa.",
+            "f": "Na visão de Walter Mischel, \"desenho do contexto\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O eu e o tempo",
         "text": "A capacidade de conectar presente e futuro sustenta a paciência.",
         "points": [
-          "Eu presente vs eu futuro",
-          "Metas dilatadas"
+          {
+            "t": "Eu presente vs eu futuro",
+            "e": "A capacidade de conectar presente e futuro sustenta a paciência.",
+            "f": "Na visão de Walter Mischel, \"eu presente vs eu futuro\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "Metas dilatadas",
+            "e": "A capacidade de conectar presente e futuro sustenta a paciência.",
+            "f": "Na visão de Walter Mischel, \"metas dilatadas\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Autocontrole e vida",
         "text": "Correlações com desempenho escolar, saúde e relacionamentos.",
         "points": [
-          "Desfechos de longo prazo",
-          "Limites da previsão"
+          {
+            "t": "Desfechos de longo prazo",
+            "e": "Correlações com desempenho escolar, saúde e relacionamentos.",
+            "f": "O autocontrole não é um traço que se tem ou não; é um conjunto de habilidades que se aprende.",
+            "real": true
+          },
+          {
+            "t": "Limites da previsão",
+            "e": "Correlações com desempenho escolar, saúde e relacionamentos.",
+            "f": "Na visão de Walter Mischel, \"limites da previsão\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Ensinando a esperar",
         "text": "Intervenções que treinam estratégias em sala de aula.",
         "points": [
-          "Treino de atenção",
-          "Resultados"
+          {
+            "t": "Treino de atenção",
+            "e": "Intervenções que treinam estratégias em sala de aula.",
+            "f": "Na visão de Walter Mischel, \"treino de atenção\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "Resultados",
+            "e": "Intervenções que treinam estratégias em sala de aula.",
+            "f": "Na visão de Walter Mischel, \"resultados\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Além do marshmallow",
         "text": "Aplicar o modelo a vícios, finanças e decisões adultas.",
         "points": [
-          "Finanças pessoais",
-          "Saúde comportamental"
+          {
+            "t": "Finanças pessoais",
+            "e": "Aplicar o modelo a vícios, finanças e decisões adultas.",
+            "f": "Na visão de Walter Mischel, \"finanças pessoais\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          },
+          {
+            "t": "Saúde comportamental",
+            "e": "Aplicar o modelo a vícios, finanças e decisões adultas.",
+            "f": "Na visão de Walter Mischel, \"saúde comportamental\" é parte essencial da proposta de \"O Teste do Marshmallow: Domar o Impulso para o Auto-controle\".",
+            "real": false
+          }
         ]
       }
     ]
