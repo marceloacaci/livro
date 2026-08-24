@@ -20724,57 +20724,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Pratique o domínio pessoal",
-        "text": "Defina claramente o que importa e cultive disciplina para persegui-lo."
+        "text": "Defina claramente o que importa e cultive disciplina para persegui-lo.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Pratique o domínio pessoal\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Defina claramente o que importa e cultive disciplina para persegui-lo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique o domínio pessoal\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Exponha modelos mentais",
-        "text": "Traga à tona e teste as premissas que guiam suas decisões."
+        "text": "Traga à tona e teste as premissas que guiam suas decisões.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Exponha modelos mentais\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Traga à tona e teste as premissas que guiam suas decisões — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exponha modelos mentais\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Construa visão compartilhada",
-        "text": "Envolva as pessoas na criação da aspiração coletiva, não a imponha."
+        "text": "Envolva as pessoas na criação da aspiração coletiva, não a imponha.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Construa visão compartilhada\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Envolva as pessoas na criação da aspiração coletiva, não a imponha — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa visão compartilhada\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Desenvolva aprendizagem em equipe",
-        "text": "Incentive diálogo e sincronia que ultrapassam a soma individual."
+        "text": "Incentive diálogo e sincronia que ultrapassam a soma individual.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Desenvolva aprendizagem em equipe\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Incentive diálogo e sincronia que ultrapassam a soma individual — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desenvolva aprendizagem em equipe\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Adote o pensamento sistêmico",
-        "text": "Veja padrões, ciclos e atrasos em vez de eventos isolados."
+        "text": "Veja padrões, ciclos e atrasos em vez de eventos isolados.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Adote o pensamento sistêmico\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Veja padrões, ciclos e atrasos em vez de eventos isolados — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Adote o pensamento sistêmico\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Mapeie arquétipos",
-        "text": "Use padrões como \"transferir a carga\" para antecipar armadilhas."
+        "text": "Use padrões como \"transferir a carga\" para antecipar armadilhas.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Mapeie arquétipos\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Use padrões como \"transferir a carga\" para antecipar armadilhas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mapeie arquétipos\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Respeite os atrasos",
-        "text": "Avalie políticas pelo efeito no tempo certo do sistema."
+        "text": "Avalie políticas pelo efeito no tempo certo do sistema.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Respeite os atrasos\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Avalie políticas pelo efeito no tempo certo do sistema — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Respeite os atrasos\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Substitua culpa por estrutura",
-        "text": "Conserte o desenho que reproduz o erro, não só a pessoa."
+        "text": "Conserte o desenho que reproduz o erro, não só a pessoa.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Substitua culpa por estrutura\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Conserte o desenho que reproduz o erro, não só a pessoa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Substitua culpa por estrutura\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Alinhe pessoal e institucional",
-        "text": "A aliança estratégica sustenta engajamento de longo prazo."
+        "text": "A aliança estratégica sustenta engajamento de longo prazo.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Alinhe pessoal e institucional\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: A aliança estratégica sustenta engajamento de longo prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Alinhe pessoal e institucional\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Troque eficiência por eficácia",
-        "text": "Otimize o todo antes de otimizar as partes."
+        "text": "Otimize o todo antes de otimizar as partes.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Troque eficiência por eficácia\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Otimize o todo antes de otimizar as partes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Troque eficiência por eficácia\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Aprenda a aprender",
-        "text": "Foque em mudar capacidade de criar, não em acumular dados."
+        "text": "Foque em mudar capacidade de criar, não em acumular dados.",
+        "explicacoes": [
+          "Em \"A Quinta Disciplina\", Peter M. Senge trata \"Aprenda a aprender\" como peça-chave para a organização que aprende e o pensamento sistêmico.",
+          "Na prática: Foque em mudar capacidade de criar, não em acumular dados — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aprenda a aprender\" aplica a organização que aprende e o pensamento sistêmico de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -20796,64 +20851,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Declaração de Interdependência",
         "text": "Senge abre defendendo que organizações precisam aprender para sobreviver à mudança.",
         "points": [
-          "Necessidade de aprender.",
-          "Interdependência."
+          {
+            "t": "Necessidade de aprender.",
+            "e": "Senge abre defendendo que organizações precisam aprender para sobreviver à mudança.",
+            "f": "Aprender em equipe começa com o diálogo, não com o consenso fingido.",
+            "real": true
+          },
+          {
+            "t": "Interdependência.",
+            "e": "Senge abre defendendo que organizações precisam aprender para sobreviver à mudança.",
+            "f": "Na visão de Peter M. Senge, \"interdependência.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Seu Trabalho e a Você",
         "text": "Introduz o domínio pessoal como fundação da aprendizagem organizacional.",
         "points": [
-          "Domínio pessoal.",
-          "Clareza de propósito."
+          {
+            "t": "Domínio pessoal.",
+            "e": "Introduz o domínio pessoal como fundação da aprendizagem organizacional.",
+            "f": "Na visão de Peter M. Senge, \"domínio pessoal.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          },
+          {
+            "t": "Clareza de propósito.",
+            "e": "Introduz o domínio pessoal como fundação da aprendizagem organizacional.",
+            "f": "Na visão de Peter M. Senge, \"clareza de propósito.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Modelos Mentais",
         "text": "Mostra como premissas ocultas bloqueiam a percepção e a ação.",
         "points": [
-          "Premissas ocultas.",
-          "Refinamento."
+          {
+            "t": "Premissas ocultas.",
+            "e": "Mostra como premissas ocultas bloqueiam a percepção e a ação.",
+            "f": "Modelos mentais são imagens internas que nos impedem de ver o mundo como ele é.",
+            "real": true
+          },
+          {
+            "t": "Refinamento.",
+            "e": "Mostra como premissas ocultas bloqueiam a percepção e a ação.",
+            "f": "Na visão de Peter M. Senge, \"refinamento.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Construindo a Visão Compartilhada",
         "text": "Descreve como alinhar aspiração individual e coletiva genuinamente.",
         "points": [
-          "Aspiração coletiva.",
-          "Engajamento."
+          {
+            "t": "Aspiração coletiva.",
+            "e": "Descreve como alinhar aspiração individual e coletiva genuinamente.",
+            "f": "Visão compartilhada não é imposta; é construída.",
+            "real": true
+          },
+          {
+            "t": "Engajamento.",
+            "e": "Descreve como alinhar aspiração individual e coletiva genuinamente.",
+            "f": "Na visão de Peter M. Senge, \"engajamento.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Aprendizagem em Equipe",
         "text": "Ensina diálogo e sincronia que liberam inteligência do grupo.",
         "points": [
-          "Diálogo.",
-          "Síncro."
+          {
+            "t": "Diálogo.",
+            "e": "Ensina diálogo e sincronia que liberam inteligência do grupo.",
+            "f": "Aprender em equipe começa com o diálogo, não com o consenso fingido.",
+            "real": true
+          },
+          {
+            "t": "Síncro.",
+            "e": "Ensina diálogo e sincronia que liberam inteligência do grupo.",
+            "f": "Na visão de Peter M. Senge, \"síncro.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Pensamento Sistêmico",
         "text": "Apresenta a quinta disciplina e suas ferramentas centrais.",
         "points": [
-          "Lente sistêmica.",
-          "Integração."
+          {
+            "t": "Lente sistêmica.",
+            "e": "Apresenta a quinta disciplina e suas ferramentas centrais.",
+            "f": "O pensamento sistêmico é a quinta disciplina que integra as outras.",
+            "real": true
+          },
+          {
+            "t": "Integração.",
+            "e": "Apresenta a quinta disciplina e suas ferramentas centrais.",
+            "f": "Na visão de Peter M. Senge, \"integração.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Arquétipos Sistêmicos",
         "text": "Detalha padrões recorrentes como \"transferir a carga\" e \"corrida aos armamentos\".",
         "points": [
-          "Padrões.",
-          "Armadilhas."
+          {
+            "t": "Padrões.",
+            "e": "Detalha padrões recorrentes como \"transferir a carga\" e \"corrida aos armamentos\".",
+            "f": "Na visão de Peter M. Senge, \"padrões.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          },
+          {
+            "t": "Armadilhas.",
+            "e": "Detalha padrões recorrentes como \"transferir a carga\" e \"corrida aos armamentos\".",
+            "f": "Na visão de Peter M. Senge, \"armadilhas.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A Estratégia da Aprendizagem",
         "text": "Conclui com como institucionalizar a organização que aprende.",
         "points": [
-          "Institucionalizar.",
-          "Cultura."
+          {
+            "t": "Institucionalizar.",
+            "e": "Conclui com como institucionalizar a organização que aprende.",
+            "f": "Na visão de Peter M. Senge, \"institucionalizar.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          },
+          {
+            "t": "Cultura.",
+            "e": "Conclui com como institucionalizar a organização que aprende.",
+            "f": "Na visão de Peter M. Senge, \"cultura.\" é parte essencial da proposta de \"A Quinta Disciplina\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -21006,57 +21141,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Busque o equilíbrio desafio-skill",
-        "text": "Calibre tarefas para que habilidade e dificuldade coincidam."
+        "text": "Calibre tarefas para que habilidade e dificuldade coincidam.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Busque o equilíbrio desafio-skill\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Calibre tarefas para que habilidade e dificuldade coincidam — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque o equilíbrio desafio-skill\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Defina metas claras",
-        "text": "Objetivos nítidos ancoram a atenção e convidam ao flow."
+        "text": "Objetivos nítidos ancoram a atenção e convidam ao flow.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Defina metas claras\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Objetivos nítidos ancoram a atenção e convidam ao flow — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina metas claras\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Garanta feedback rápido",
-        "text": "Crie laços de retorno imediato para sustentar concentração."
+        "text": "Crie laços de retorno imediato para sustentar concentração.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Garanta feedback rápido\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Crie laços de retorno imediato para sustentar concentração — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Garanta feedback rápido\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Focalize a atenção",
-        "text": "Proteja a consciência de distrações para entrar em imersão."
+        "text": "Proteja a consciência de distrações para entrar em imersão.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Focalize a atenção\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Proteja a consciência de distrações para entrar em imersão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Focalize a atenção\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Cultive a autotelização",
-        "text": "Escolha atividades valiosas por si mesmas, não só por prêmio."
+        "text": "Escolha atividades valiosas por si mesmas, não só por prêmio.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Cultive a autotelização\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Escolha atividades valiosas por si mesmas, não só por prêmio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive a autotelização\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Reduza a entropia mental",
-        "text": "Estruture rotinas e sentidos para evitar a desordem da mente."
+        "text": "Estruture rotinas e sentidos para evitar a desordem da mente.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Reduza a entropia mental\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Estruture rotinas e sentidos para evitar a desordem da mente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza a entropia mental\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Abraçe a complexidade",
-        "text": "Desenvolva metas e significados que organizam a psique."
+        "text": "Desenvolva metas e significados que organizam a psique.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Abraçe a complexidade\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Desenvolva metas e significados que organizam a psique — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abraçe a complexidade\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Use o tédio como sinal",
-        "text": "Quando entedia, aumente o desafio; quando ansioso, treine a skill."
+        "text": "Quando entedia, aumente o desafio; quando ansioso, treine a skill.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Use o tédio como sinal\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Quando entedia, aumente o desafio; quando ansioso, treine a skill — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o tédio como sinal\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Separar prazer de felicidade",
-        "text": "Busque realização (flow), não apenas conforto passageiro."
+        "text": "Busque realização (flow), não apenas conforto passageiro.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Separar prazer de felicidade\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Busque realização (flow), não apenas conforto passageiro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Separar prazer de felicidade\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Pratique em qualquer domínio",
-        "text": "Flow é possível em trabalho, esporte, estudo e lazer intencional."
+        "text": "Flow é possível em trabalho, esporte, estudo e lazer intencional.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Pratique em qualquer domínio\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: Flow é possível em trabalho, esporte, estudo e lazer intencional — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique em qualquer domínio\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Perder o ego com graça",
-        "text": "No flow o ego se dissolve; isso é sinal de saúde, não perda."
+        "text": "No flow o ego se dissolve; isso é sinal de saúde, não perda.",
+        "explicacoes": [
+          "Em \"Flow: A Psicologia da Experiência Ótima\", Mihaly Csikszentmihalyi trata \"Perder o ego com graça\" como peça-chave para o estado de flow e o controle da própria consciência.",
+          "Na prática: No flow o ego se dissolve; isso é sinal de saúde, não perda — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Perder o ego com graça\" aplica o estado de flow e o controle da própria consciência de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -21078,64 +21268,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Felicidade é um Fluxo",
         "text": "Csikszentmihalyi define flow e por que a felicidade se constrói, não se recebe.",
         "points": [
-          "Definição de flow.",
-          "Felicidade ativa."
+          {
+            "t": "Definição de flow.",
+            "e": "Csikszentmihalyi define flow e por que a felicidade se constrói, não se recebe.",
+            "f": "O flow ocorre quando o desafio encontra a habilidade no ponto certo.",
+            "real": true
+          },
+          {
+            "t": "Felicidade ativa.",
+            "e": "Csikszentmihalyi define flow e por que a felicidade se constrói, não se recebe.",
+            "f": "A felicidade não acontece; ela é construída pelo controle da própria experiência.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Anatomia do Flow",
         "text": "Descreve as condições: metas claras, feedback, concentração, equilíbrio.",
         "points": [
-          "Condições.",
-          "Imersão."
+          {
+            "t": "Condições.",
+            "e": "Descreve as condições: metas claras, feedback, concentração, equilíbrio.",
+            "f": "O flow ocorre quando o desafio encontra a habilidade no ponto certo.",
+            "real": true
+          },
+          {
+            "t": "Imersão.",
+            "e": "Descreve as condições: metas claras, feedback, concentração, equilíbrio.",
+            "f": "A mente em flow esquece o tempo e o eu.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Entropia da Consciência",
         "text": "Explica como a mente tende ao caos sem ordem intencional.",
         "points": [
-          "Desordem mental.",
-          "Atenção."
+          {
+            "t": "Desordem mental.",
+            "e": "Explica como a mente tende ao caos sem ordem intencional.",
+            "f": "O controle da consciência determina a qualidade da vida.",
+            "real": true
+          },
+          {
+            "t": "Atenção.",
+            "e": "Explica como a mente tende ao caos sem ordem intencional.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, \"atenção.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Ação e Consciência",
         "text": "Mostra o alinhamento de fazer e perceber no estado de flow.",
         "points": [
-          "Unidade.",
-          "Foco."
+          {
+            "t": "Unidade.",
+            "e": "Mostra o alinhamento de fazer e perceber no estado de flow.",
+            "f": "O controle da consciência determina a qualidade da vida.",
+            "real": true
+          },
+          {
+            "t": "Foco.",
+            "e": "Mostra o alinhamento de fazer e perceber no estado de flow.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, \"foco.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A Personalidade Autotélica",
         "text": "Apresenta quem age pela atividade em si e seus traços.",
         "points": [
-          "Autotelização.",
-          "Motivação interna."
+          {
+            "t": "Autotelização.",
+            "e": "Apresenta quem age pela atividade em si e seus traços.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, \"autotelização.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          },
+          {
+            "t": "Motivação interna.",
+            "e": "Apresenta quem age pela atividade em si e seus traços.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, \"motivação interna.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O Fluxo nas Atividades",
         "text": "Exemplos em trabalho, jogo, arte e esporte mostram a universalidade.",
         "points": [
-          "Domínios.",
-          "Aplicações."
+          {
+            "t": "Domínios.",
+            "e": "Exemplos em trabalho, jogo, arte e esporte mostram a universalidade.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, \"domínios.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          },
+          {
+            "t": "Aplicações.",
+            "e": "Exemplos em trabalho, jogo, arte e esporte mostram a universalidade.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, \"aplicações.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A Complexidade",
         "text": "Discute desenvolver a si através de metas e estrutura psicológica.",
         "points": [
-          "Crescimento.",
-          "Ordem."
+          {
+            "t": "Crescimento.",
+            "e": "Discute desenvolver a si através de metas e estrutura psicológica.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, \"crescimento.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          },
+          {
+            "t": "Ordem.",
+            "e": "Discute desenvolver a si através de metas e estrutura psicológica.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, \"ordem.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Tornar a Vida Significativa",
         "text": "Conclui com como desenhar uma vida rica em momentos de excelência.",
         "points": [
-          "Significado.",
-          "Projeto de vida."
+          {
+            "t": "Significado.",
+            "e": "Conclui com como desenhar uma vida rica em momentos de excelência.",
+            "f": "O controle da consciência determina a qualidade da vida.",
+            "real": true
+          },
+          {
+            "t": "Projeto de vida.",
+            "e": "Conclui com como desenhar uma vida rica em momentos de excelência.",
+            "f": "Na visão de Mihaly Csikszentmihalyi, \"projeto de vida.\" é parte essencial da proposta de \"Flow: A Psicologia da Experiência Ótima\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -21288,57 +21558,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Controle seu estado",
-        "text": "Use respiração, postura e foco para entrar em estado de pico."
+        "text": "Use respiração, postura e foco para entrar em estado de pico.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Controle seu estado\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Use respiração, postura e foco para entrar em estado de pico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Controle seu estado\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Interrompa padrões",
-        "text": "Quebre o circuito de hábitos indesejados com uma ação consciente."
+        "text": "Quebre o circuito de hábitos indesejados com uma ação consciente.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Interrompa padrões\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Quebre o circuito de hábitos indesejados com uma ação consciente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Interrompa padrões\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Substitua crenças",
-        "text": "Troque crenças limitantes por capacitantes, com repetição emocional."
+        "text": "Troque crenças limitantes por capacitantes, com repetição emocional.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Substitua crenças\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Troque crenças limitantes por capacitantes, com repetição emocional — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Substitua crenças\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Use linguagem transformacional",
-        "text": "Mude \"tenho de\" por \"escolho\"; palavras mudam estado."
+        "text": "Mude \"tenho de\" por \"escolho\"; palavras mudam estado.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Use linguagem transformacional\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Mude \"tenho de\" por \"escolho\"; palavras mudam estado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use linguagem transformacional\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Alinhe valores",
-        "text": "Defina quem quer ser e regras de vida coerentes com isso."
+        "text": "Defina quem quer ser e regras de vida coerentes com isso.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Alinhe valores\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Defina quem quer ser e regras de vida coerentes com isso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Alinhe valores\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Decida em vez de duvidar",
-        "text": "A decisão firme libera energia que a dúvida consome."
+        "text": "A decisão firme libera energia que a dúvida consome.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Decida em vez de duvidar\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: A decisão firme libera energia que a dúvida consome — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Decida em vez de duvidar\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Visualize com emoção",
-        "text": "Antecipe cenário e sentimento para treinar a execução."
+        "text": "Antecipe cenário e sentimento para treinar a execução.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Visualize com emoção\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Antecipe cenário e sentimento para treinar a execução — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Visualize com emoção\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Aja antes de sentir",
-        "text": "Estado e ação precedem a motivação; não espere o clima."
+        "text": "Estado e ação precedem a motivação; não espere o clima.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Aja antes de sentir\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Estado e ação precedem a motivação; não espere o clima — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja antes de sentir\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Gerencie o foco",
-        "text": "Direcione a atenção para o que serve ao seu objetivo."
+        "text": "Direcione a atenção para o que serve ao seu objetivo.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Gerencie o foco\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Direcione a atenção para o que serve ao seu objetivo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Gerencie o foco\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Pratique diariamente",
-        "text": "Os exercícios de estado e crença exigem rotina para vingar."
+        "text": "Os exercícios de estado e crença exigem rotina para vingar.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Pratique diariamente\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Os exercícios de estado e crença exigem rotina para vingar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique diariamente\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Assuma o gigante",
-        "text": "Lembre-se de que o potencial existe; cabe despertá-lo."
+        "text": "Lembre-se de que o potencial existe; cabe despertá-lo.",
+        "explicacoes": [
+          "Em \"Desperte o Gigante Interior\", Tony Robbins trata \"Assuma o gigante\" como peça-chave para a mudança de estado e o foco como motores de resultado.",
+          "Na prática: Lembre-se de que o potencial existe; cabe despertá-lo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma o gigante\" aplica a mudança de estado e o foco como motores de resultado de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -21360,64 +21685,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Gigante Adormecido",
         "text": "Robbins afirma que o potencial está lá; basta despertá-lo com decisão.",
         "points": [
-          "Potencial interno.",
-          "Decisão."
+          {
+            "t": "Potencial interno.",
+            "e": "Robbins afirma que o potencial está lá; basta despertá-lo com decisão.",
+            "f": "Você já possui um gigante adormecido; basta despertá-lo.",
+            "real": true
+          },
+          {
+            "t": "Decisão.",
+            "e": "Robbins afirma que o potencial está lá; basta despertá-lo com decisão.",
+            "f": "Decisão é o momento em que a dúvida destrutiva cede à ação.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Poder da Decisão",
         "text": "Mostra como decidir rompe a dúvida e libera energia para agir.",
         "points": [
-          "Decisão.",
-          "Ação."
+          {
+            "t": "Decisão.",
+            "e": "Mostra como decidir rompe a dúvida e libera energia para agir.",
+            "f": "Decisão é o momento em que a dúvida destrutiva cede à ação.",
+            "real": true
+          },
+          {
+            "t": "Ação.",
+            "e": "Mostra como decidir rompe a dúvida e libera energia para agir.",
+            "f": "Crenças capacitantes são o motor da ação; limitantes são sua prisão.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Domínio do Estado",
         "text": "Ensina controlar fisiologia e foco para mudar emoção instantaneamente.",
         "points": [
-          "Estado de pico.",
-          "Fisiologia."
+          {
+            "t": "Estado de pico.",
+            "e": "Ensina controlar fisiologia e foco para mudar emoção instantaneamente.",
+            "f": "Mude seu estado fisiológico e mudará sua emoção na hora.",
+            "real": true
+          },
+          {
+            "t": "Fisiologia.",
+            "e": "Ensina controlar fisiologia e foco para mudar emoção instantaneamente.",
+            "f": "Na visão de Tony Robbins, \"fisiologia.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Crenças que Capacitam",
         "text": "Explica substituir crenças limitantes por capacitantes.",
         "points": [
-          "Crenças.",
-          "Mudança."
+          {
+            "t": "Crenças.",
+            "e": "Explica substituir crenças limitantes por capacitantes.",
+            "f": "Crenças capacitantes são o motor da ação; limitantes são sua prisão.",
+            "real": true
+          },
+          {
+            "t": "Mudança.",
+            "e": "Explica substituir crenças limitantes por capacitantes.",
+            "f": "Na visão de Tony Robbins, \"mudança.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Interrupção de Padrão",
         "text": "Apresenta a técnica de quebrar hábitos automáticos.",
         "points": [
-          "Padrões.",
-          "Quebra."
+          {
+            "t": "Padrões.",
+            "e": "Apresenta a técnica de quebrar hábitos automáticos.",
+            "f": "Na visão de Tony Robbins, \"padrões.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          },
+          {
+            "t": "Quebra.",
+            "e": "Apresenta a técnica de quebrar hábitos automáticos.",
+            "f": "Na visão de Tony Robbins, \"quebra.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Linguagem Transformacional",
         "text": "Mostra como palavras moldam estado e realidade percebida.",
         "points": [
-          "Linguagem.",
-          "Estado."
+          {
+            "t": "Linguagem.",
+            "e": "Mostra como palavras moldam estado e realidade percebida.",
+            "f": "Na visão de Tony Robbins, \"linguagem.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          },
+          {
+            "t": "Estado.",
+            "e": "Mostra como palavras moldam estado e realidade percebida.",
+            "f": "Mude seu estado fisiológico e mudará sua emoção na hora.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Valores e Regras",
         "text": "Ensina alinhar regras de vida a valores definidos.",
         "points": [
-          "Valores.",
-          "Coerência."
+          {
+            "t": "Valores.",
+            "e": "Ensina alinhar regras de vida a valores definidos.",
+            "f": "Na visão de Tony Robbins, \"valores.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          },
+          {
+            "t": "Coerência.",
+            "e": "Ensina alinhar regras de vida a valores definidos.",
+            "f": "Na visão de Tony Robbins, \"coerência.\" é parte essencial da proposta de \"Desperte o Gigante Interior\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Visualização e Ação",
         "text": "Conclui com exercícios de imaginar e agir para realizar metas.",
         "points": [
-          "Visualização.",
-          "Execução."
+          {
+            "t": "Visualização.",
+            "e": "Conclui com exercícios de imaginar e agir para realizar metas.",
+            "f": "Crenças capacitantes são o motor da ação; limitantes são sua prisão.",
+            "real": true
+          },
+          {
+            "t": "Execução.",
+            "e": "Conclui com exercícios de imaginar e agir para realizar metas.",
+            "f": "Decisão é o momento em que a dúvida destrutiva cede à ação.",
+            "real": true
+          }
         ]
       }
     ]
