@@ -36083,62 +36083,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Pratique deliberadamente",
-        "text": "Foque em zona de desafio com meta clara e feedback."
+        "text": "Foque em zona de desafio com meta clara e feedback.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Pratique deliberadamente\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Foque em zona de desafio com meta clara e feedback — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique deliberadamente\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Busque feedback",
-        "text": "Corrija o erro imediatamente; sem isso, não há melhora."
+        "text": "Corrija o erro imediatamente; sem isso, não há melhora.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Busque feedback\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Corrija o erro imediatamente; sem isso, não há melhora — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque feedback\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Defina metas pequenas",
-        "text": "Cada sessão deve ter objetivo específico e alcançável."
+        "text": "Cada sessão deve ter objetivo específico e alcançável.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Defina metas pequenas\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Cada sessão deve ter objetivo específico e alcançável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina metas pequenas\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Saia da zona conforto",
-        "text": "Melhorar exige operar no limite do domínio atual."
+        "text": "Melhorar exige operar no limite do domínio atual.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Saia da zona conforto\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Melhorar exige operar no limite do domínio atual — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Saia da zona conforto\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Construa representações",
-        "text": "Desenvolva mapas mentais ricos da habilidade."
+        "text": "Desenvolva mapas mentais ricos da habilidade.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Construa representações\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Desenvolva mapas mentais ricos da habilidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa representações\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Não repita o óbvio",
-        "text": "Repetição sem desafio consolida, não eleva."
+        "text": "Repetição sem desafio consolida, não eleva.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Não repita o óbvio\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Repetição sem desafio consolida, não eleva — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não repita o óbvio\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Use um mestre",
-        "text": "Professor acelera a prática deliberada correta no início."
+        "text": "Professor acelera a prática deliberada correta no início.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Use um mestre\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Professor acelera a prática deliberada correta no início — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use um mestre\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Mantenha regularidade",
-        "text": "Sessões consistentes vencem maratonas ocasionais."
+        "text": "Sessões consistentes vencem maratonas ocasionais.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Mantenha regularidade\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Sessões consistentes vencem maratonas ocasionais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha regularidade\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Meça progresso",
-        "text": "Acompanhe marcas para saber se o treino funciona."
+        "text": "Acompanhe marcas para saber se o treino funciona.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Meça progresso\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Acompanhe marcas para saber se o treino funciona — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça progresso\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Ignore o teto",
-        "text": "Potencial é maleável; não assuma limite precoce."
+        "text": "Potencial é maleável; não assuma limite precoce.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Ignore o teto\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Potencial é maleável; não assuma limite precoce — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ignore o teto\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Treine a mente",
-        "text": "Foco e atenção são treináveis, não só a técnica."
+        "text": "Foco e atenção são treináveis, não só a técnica.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Treine a mente\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Foco e atenção são treináveis, não só a técnica — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine a mente\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Comece tarde é ok",
-        "text": "Adultos也能 melhorar com prática deliberada bem feita."
+        "text": "Adultos也能 melhorar com prática deliberada bem feita.",
+        "explicacoes": [
+          "Em \"Peak: Como a Maestria em Tudo o que Fazemos\", Anders Ericsson trata \"Comece tarde é ok\" como peça-chave para a excelência pela prática deliberada e os 10 mil horas.",
+          "Na prática: Adultos也能 melhorar com prática deliberada bem feita — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece tarde é ok\" aplica a excelência pela prática deliberada e os 10 mil horas de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -36160,81 +36220,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O mito do talento",
         "text": "Ericsson começa desconstruindo a ideia de dom inato.",
         "points": [
-          "Talento",
-          "Mito",
-          "Evidência"
+          {
+            "t": "Talento",
+            "e": "Ericsson começa desconstruindo a ideia de dom inato.",
+            "f": "O mito das 10.000 horas ignora o que realmente importa.",
+            "real": true
+          },
+          {
+            "t": "Mito",
+            "e": "Ericsson começa desconstruindo a ideia de dom inato.",
+            "f": "Na visão de Anders Ericsson, \"mito\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Evidência",
+            "e": "Ericsson começa desconstruindo a ideia de dom inato.",
+            "f": "Não há evidência de um limite fixo para o potencial humano.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — As 10.000 horas",
         "text": "Corrige Gladwell: a qualidade da prática é o que conta.",
         "points": [
-          "Gladwell",
-          "Tempo",
-          "Qualidade"
+          {
+            "t": "Gladwell",
+            "e": "Corrige Gladwell: a qualidade da prática é o que conta.",
+            "f": "O mito das 10.000 horas ignora o que realmente importa.",
+            "real": true
+          },
+          {
+            "t": "Tempo",
+            "e": "Corrige Gladwell: a qualidade da prática é o que conta.",
+            "f": "Não é o tempo de prática; é a qualidade da prática deliberada.",
+            "real": true
+          },
+          {
+            "t": "Qualidade",
+            "e": "Corrige Gladwell: a qualidade da prática é o que conta.",
+            "f": "Na visão de Anders Ericsson, \"qualidade\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O treino deliberado",
         "text": "Define os componentes da prática que gera elite.",
         "points": [
-          "Foco",
-          "Feedback",
-          "Desafio"
+          {
+            "t": "Foco",
+            "e": "Define os componentes da prática que gera elite.",
+            "f": "Treino deliberado requer desconforto, meta clara e feedback.",
+            "real": true
+          },
+          {
+            "t": "Feedback",
+            "e": "Define os componentes da prática que gera elite.",
+            "f": "Na visão de Anders Ericsson, \"feedback\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Desafio",
+            "e": "Define os componentes da prática que gera elite.",
+            "f": "Na visão de Anders Ericsson, \"desafio\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Representações mentais",
         "text": "Como especialistas constroem mapas ricos da habilidade.",
         "points": [
-          "Mapa",
-          "Memória",
-          "Modelo"
+          {
+            "t": "Mapa",
+            "e": "Como especialistas constroem mapas ricos da habilidade.",
+            "f": "Na visão de Anders Ericsson, \"mapa\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Memória",
+            "e": "Como especialistas constroem mapas ricos da habilidade.",
+            "f": "Na visão de Anders Ericsson, \"memória\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Modelo",
+            "e": "Como especialistas constroem mapas ricos da habilidade.",
+            "f": "Na visão de Anders Ericsson, \"modelo\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O cérebro muda",
         "text": "Plasticidade e reestruturação neural pela prática.",
         "points": [
-          "Neuro",
-          "Plasticidade",
-          "Mudança"
+          {
+            "t": "Neuro",
+            "e": "Plasticidade e reestruturação neural pela prática.",
+            "f": "O cérebro se reestrutura com a prática intensa e focada.",
+            "real": true
+          },
+          {
+            "t": "Plasticidade",
+            "e": "Plasticidade e reestruturação neural pela prática.",
+            "f": "Na visão de Anders Ericsson, \"plasticidade\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Mudança",
+            "e": "Plasticidade e reestruturação neural pela prática.",
+            "f": "Na visão de Anders Ericsson, \"mudança\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Além da criança prodígio",
         "text": "Por que começar tarde ainda permite excelência.",
         "points": [
-          "Idade",
-          "Início",
-          "Treino"
+          {
+            "t": "Idade",
+            "e": "Por que começar tarde ainda permite excelência.",
+            "f": "Na visão de Anders Ericsson, \"idade\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Início",
+            "e": "Por que começar tarde ainda permite excelência.",
+            "f": "Na visão de Anders Ericsson, \"início\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Treino",
+            "e": "Por que começar tarde ainda permite excelência.",
+            "f": "Treino deliberado requer desconforto, meta clara e feedback.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O papel do mestre",
         "text": "Como bons professores aceleram a prática deliberada.",
         "points": [
-          "Mestre",
-          "Guia",
-          "Aceleração"
+          {
+            "t": "Mestre",
+            "e": "Como bons professores aceleram a prática deliberada.",
+            "f": "Na visão de Anders Ericsson, \"mestre\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Guia",
+            "e": "Como bons professores aceleram a prática deliberada.",
+            "f": "Na visão de Anders Ericsson, \"guia\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Aceleração",
+            "e": "Como bons professores aceleram a prática deliberada.",
+            "f": "Na visão de Anders Ericsson, \"aceleração\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Aplicando na vida",
         "text": "Como usar treino deliberado em trabalho e estudo.",
         "points": [
-          "Trabalho",
-          "Estudo",
-          "Vida"
+          {
+            "t": "Trabalho",
+            "e": "Como usar treino deliberado em trabalho e estudo.",
+            "f": "Na visão de Anders Ericsson, \"trabalho\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Estudo",
+            "e": "Como usar treino deliberado em trabalho e estudo.",
+            "f": "Na visão de Anders Ericsson, \"estudo\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Vida",
+            "e": "Como usar treino deliberado em trabalho e estudo.",
+            "f": "Na visão de Anders Ericsson, \"vida\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Potencial humano",
         "text": "Encerra mostrando a maleabilidade do potencial.",
         "points": [
-          "Potencial",
-          "Limite",
-          "Esperança"
+          {
+            "t": "Potencial",
+            "e": "Encerra mostrando a maleabilidade do potencial.",
+            "f": "Não há evidência de um limite fixo para o potencial humano.",
+            "real": true
+          },
+          {
+            "t": "Limite",
+            "e": "Encerra mostrando a maleabilidade do potencial.",
+            "f": "Na visão de Anders Ericsson, \"limite\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          },
+          {
+            "t": "Esperança",
+            "e": "Encerra mostrando a maleabilidade do potencial.",
+            "f": "Na visão de Anders Ericsson, \"esperança\" é parte essencial da proposta de \"Peak: Como a Maestria em Tudo o que Fazemos\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -36398,62 +36593,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Conheça os dados",
-        "text": "Baseie juízo sobre jovens em pesquisa, não estereótipo."
+        "text": "Baseie juízo sobre jovens em pesquisa, não estereótipo.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Conheça os dados\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Baseie juízo sobre jovens em pesquisa, não estereótipo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça os dados\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Limite telas",
-        "text": "Defina teto de uso e especialmente fora do quarto à noite."
+        "text": "Defina teto de uso e especialmente fora do quarto à noite.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Limite telas\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Defina teto de uso e especialmente fora do quarto à noite — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Limite telas\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Proteja o sono",
-        "text": "Tela à noite destrói sono; remova do quarto."
+        "text": "Tela à noite destrói sono; remova do quarto.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Proteja o sono\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Tela à noite destrói sono; remova do quarto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja o sono\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Estimule independência",
-        "text": "Crie oportunidades de responsabilidade e saída."
+        "text": "Crie oportunidades de responsabilidade e saída.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Estimule independência\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Crie oportunidades de responsabilidade e saída — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Estimule independência\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Modere redes",
-        "text": "Uso moderado preserva bem-estar melhor que excesso."
+        "text": "Uso moderado preserva bem-estar melhor que excesso.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Modere redes\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Uso moderado preserva bem-estar melhor que excesso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Modere redes\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Acolha ansiedade",
-        "text": "Reconheça o aumento real de ansiedade e depressão."
+        "text": "Reconheça o aumento real de ansiedade e depressão.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Acolha ansiedade\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Reconheça o aumento real de ansiedade e depressão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acolha ansiedade\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Não moralize",
-        "text": "A mudança é tecnológica; evite julgar a geração."
+        "text": "A mudança é tecnológica; evite julgar a geração.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Não moralize\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: A mudança é tecnológica; evite julgar a geração — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não moralize\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Compare 2012",
-        "text": "Use o marco de 2012 para entender a virada."
+        "text": "Use o marco de 2012 para entender a virada.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Compare 2012\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Use o marco de 2012 para entender a virada — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Compare 2012\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Valorize presença",
-        "text": "Convívio real compensa tempo de tela excessivo."
+        "text": "Convívio real compensa tempo de tela excessivo.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Valorize presença\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Convívio real compensa tempo de tela excessivo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize presença\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Ensine uso saudável",
-        "text": "Educadores devem ensinar relação equilibrada com tech."
+        "text": "Educadores devem ensinar relação equilibrada com tech.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Ensine uso saudável\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Educadores devem ensinar relação equilibrada com tech — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ensine uso saudável\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Observe sinais",
-        "text": "Mudanças de humor podem vir de uso de tela."
+        "text": "Mudanças de humor podem vir de uso de tela.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Observe sinais\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Mudanças de humor podem vir de uso de tela — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Observe sinais\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Aja cedo",
-        "text": "Hábitos de tela na infância moldam bem-estar futuro."
+        "text": "Hábitos de tela na infância moldam bem-estar futuro.",
+        "explicacoes": [
+          "Em \"iGen: Por que os Superconectados Estão Mudando\", Jean M. Twenge trata \"Aja cedo\" como peça-chave para a geração i e o custo do excesso de autoestima.",
+          "Na prática: Hábitos de tela na infância moldam bem-estar futuro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja cedo\" aplica a geração i e o custo do excesso de autoestima de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -36475,81 +36730,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Quem é o iGen",
         "text": "Twenge define a geração nascida após 1995 e seu marco tech.",
         "points": [
-          "Definição",
-          "Smartphone",
-          "Marco"
+          {
+            "t": "Definição",
+            "e": "Twenge define a geração nascida após 1995 e seu marco tech.",
+            "f": "iGen é a primeira geração a crescer com o smartphone desde a infância.",
+            "real": true
+          },
+          {
+            "t": "Smartphone",
+            "e": "Twenge define a geração nascida após 1995 e seu marco tech.",
+            "f": "iGen é menos independente, mas mais ansiosa que as gerações anteriores.",
+            "real": true
+          },
+          {
+            "t": "Marco",
+            "e": "Twenge define a geração nascida após 1995 e seu marco tech.",
+            "f": "Na visão de Jean M. Twenge, \"marco\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A onipresença da tela",
         "text": "Como o celular mudou o dia a dia dos adolescentes.",
         "points": [
-          "Tela",
-          "Rotina",
-          "Mudança"
+          {
+            "t": "Tela",
+            "e": "Como o celular mudou o dia a dia dos adolescentes.",
+            "f": "Mais tela, menos felicidade — o padrão se repete nos dados.",
+            "real": true
+          },
+          {
+            "t": "Rotina",
+            "e": "Como o celular mudou o dia a dia dos adolescentes.",
+            "f": "Na visão de Jean M. Twenge, \"rotina\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Mudança",
+            "e": "Como o celular mudou o dia a dia dos adolescentes.",
+            "f": "Na visão de Jean M. Twenge, \"mudança\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O ponto de 2012",
         "text": "A virada de bem-estar coincidente com redes sociais.",
         "points": [
-          "2012",
-          "Redes",
-          "Queda"
+          {
+            "t": "2012",
+            "e": "A virada de bem-estar coincidente com redes sociais.",
+            "f": "O ponto de virada do bem-estar foi 2012, com a explosão das redes.",
+            "real": true
+          },
+          {
+            "t": "Redes",
+            "e": "A virada de bem-estar coincidente com redes sociais.",
+            "f": "Na visão de Jean M. Twenge, \"redes\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Queda",
+            "e": "A virada de bem-estar coincidente com redes sociais.",
+            "f": "Na visão de Jean M. Twenge, \"queda\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Ansiedade e depressão",
         "text": "O aumento real de problemas mentais na geração.",
         "points": [
-          "Ansiedade",
-          "Depressão",
-          "Dados"
+          {
+            "t": "Ansiedade",
+            "e": "O aumento real de problemas mentais na geração.",
+            "f": "Na visão de Jean M. Twenge, \"ansiedade\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Depressão",
+            "e": "O aumento real de problemas mentais na geração.",
+            "f": "Na visão de Jean M. Twenge, \"depressão\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Dados",
+            "e": "O aumento real de problemas mentais na geração.",
+            "f": "Mais tela, menos felicidade — o padrão se repete nos dados.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Menos independência",
         "text": "iGen sai menos, dirige menos, amadurece depois.",
         "points": [
-          "Dependência",
-          "Idade",
-          "Risco"
+          {
+            "t": "Dependência",
+            "e": "iGen sai menos, dirige menos, amadurece depois.",
+            "f": "Mais tela, menos felicidade — o padrão se repete nos dados.",
+            "real": true
+          },
+          {
+            "t": "Idade",
+            "e": "iGen sai menos, dirige menos, amadurece depois.",
+            "f": "iGen é menos independente, mas mais ansiosa que as gerações anteriores.",
+            "real": true
+          },
+          {
+            "t": "Risco",
+            "e": "iGen sai menos, dirige menos, amadurece depois.",
+            "f": "Na visão de Jean M. Twenge, \"risco\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Relações e sexo",
         "text": "Mudanças nos encontros, namoro e atividade sexual.",
         "points": [
-          "Namoro",
-          "Sexo",
-          "Tela"
+          {
+            "t": "Namoro",
+            "e": "Mudanças nos encontros, namoro e atividade sexual.",
+            "f": "Na visão de Jean M. Twenge, \"namoro\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Sexo",
+            "e": "Mudanças nos encontros, namoro e atividade sexual.",
+            "f": "Na visão de Jean M. Twenge, \"sexo\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Tela",
+            "e": "Mudanças nos encontros, namoro e atividade sexual.",
+            "f": "Mais tela, menos felicidade — o padrão se repete nos dados.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Sono e bem-estar",
         "text": "Como telas à noite destroem o sono e o humor.",
         "points": [
-          "Sono",
-          "Humor",
-          "Noite"
+          {
+            "t": "Sono",
+            "e": "Como telas à noite destroem o sono e o humor.",
+            "f": "O ponto de virada do bem-estar foi 2012, com a explosão das redes.",
+            "real": true
+          },
+          {
+            "t": "Humor",
+            "e": "Como telas à noite destroem o sono e o humor.",
+            "f": "Na visão de Jean M. Twenge, \"humor\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Noite",
+            "e": "Como telas à noite destroem o sono e o humor.",
+            "f": "Na visão de Jean M. Twenge, \"noite\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O que funciona",
         "text": "Uso moderado e limites que preservam bem-estar.",
         "points": [
-          "Moderação",
-          "Limites",
-          "Saúde"
+          {
+            "t": "Moderação",
+            "e": "Uso moderado e limites que preservam bem-estar.",
+            "f": "Na visão de Jean M. Twenge, \"moderação\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Limites",
+            "e": "Uso moderado e limites que preservam bem-estar.",
+            "f": "Na visão de Jean M. Twenge, \"limites\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Saúde",
+            "e": "Uso moderado e limites que preservam bem-estar.",
+            "f": "Na visão de Jean M. Twenge, \"saúde\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Conclusão para adultos",
         "text": "O que pais e educadores podem fazer com base nos dados.",
         "points": [
-          "Pais",
-          "Escola",
-          "Ação"
+          {
+            "t": "Pais",
+            "e": "O que pais e educadores podem fazer com base nos dados.",
+            "f": "Não é culpa dos pais; é o momento histórico da tecnologia.",
+            "real": true
+          },
+          {
+            "t": "Escola",
+            "e": "O que pais e educadores podem fazer com base nos dados.",
+            "f": "Na visão de Jean M. Twenge, \"escola\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          },
+          {
+            "t": "Ação",
+            "e": "O que pais e educadores podem fazer com base nos dados.",
+            "f": "Na visão de Jean M. Twenge, \"ação\" é parte essencial da proposta de \"iGen: Por que os Superconectados Estão Mudando\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -36713,62 +37103,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Comece pequeno",
-        "text": "Poucos minutos diários de meditação já trazem efeito."
+        "text": "Poucos minutos diários de meditação já trazem efeito.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Comece pequeno\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Poucos minutos diários de meditação já trazem efeito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece pequeno\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Versão secular",
-        "text": "Pratique sem crença religiosa; foco na evidência."
+        "text": "Pratique sem crença religiosa; foco na evidência.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Versão secular\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Pratique sem crença religiosa; foco na evidência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Versão secular\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Mire 10%",
-        "text": "Meta modesta evita frustração e sustenta a prática."
+        "text": "Meta modesta evita frustração e sustenta a prática.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Mire 10%\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Meta modesta evita frustração e sustenta a prática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mire 10%\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Observe, não julgue",
-        "text": "Veja pensamentos como eventos, não verdades, e reduza a identificação com eles."
+        "text": "Veja pensamentos como eventos, não verdades, e reduza a identificação com eles.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Observe, não julgue\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Veja pensamentos como eventos, não verdades, e reduza a identificação com eles — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Observe, não julgue\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Treine o foco",
-        "text": "Atenção plena fortalece a concentração no trabalho."
+        "text": "Atenção plena fortalece a concentração no trabalho.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Treine o foco\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Atenção plena fortalece a concentração no trabalho — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine o foco\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Reduza reatividade",
-        "text": "Pausar antes de reagir melhora decisões e vínculos."
+        "text": "Pausar antes de reagir melhora decisões e vínculos.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Reduza reatividade\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Pausar antes de reagir melhora decisões e vínculos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza reatividade\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Use a ciência",
-        "text": "Apoie-se em estudos de estresse e atenção."
+        "text": "Apoie-se em estudos de estresse e atenção.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Use a ciência\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Apoie-se em estudos de estresse e atenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a ciência\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Seja constante",
-        "text": "Regularidade vence sessões longas e raras."
+        "text": "Regularidade vence sessões longas e raras.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Seja constante\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Regularidade vence sessões longas e raras — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja constante\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Acolha o caos",
-        "text": "Mente agitada é normal; persistir é a prática."
+        "text": "Mente agitada é normal; persistir é a prática.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Acolha o caos\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Mente agitada é normal; persistir é a prática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Acolha o caos\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Busque apoio",
-        "text": "Pedir ajuda após colapso é força, não fraqueza."
+        "text": "Pedir ajuda após colapso é força, não fraqueza.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Busque apoio\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Pedir ajuda após colapso é força, não fraqueza — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque apoio\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Não espere vazio",
-        "text": "Objetivo é observar, não silenciar a mente."
+        "text": "Objetivo é observar, não silenciar a mente.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Não espere vazio\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Objetivo é observar, não silenciar a mente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não espere vazio\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Aplique no dia",
-        "text": "Use micro-pausas de respiração nas crises reais."
+        "text": "Use micro-pausas de respiração nas crises reais.",
+        "explicacoes": [
+          "Em \"Só Respira: Como a Meditação Me Salvou da Loucura\", Dan Harris trata \"Aplique no dia\" como peça-chave para a liberdade da mente pela meditação e desidentificação.",
+          "Na prática: Use micro-pausas de respiração nas crises reais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique no dia\" aplica a liberdade da mente pela meditação e desidentificação de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -36790,81 +37240,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O colapso ao vivo",
         "text": "Harris relata o ataque de pânico na TV que iniciou a busca.",
         "points": [
-          "Pânico",
-          "TV",
-          "Busca"
+          {
+            "t": "Pânico",
+            "e": "Harris relata o ataque de pânico na TV que iniciou a busca.",
+            "f": "Na visão de Dan Harris, \"pânico\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "TV",
+            "e": "Harris relata o ataque de pânico na TV que iniciou a busca.",
+            "f": "Na visão de Dan Harris, \"tv\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Busca",
+            "e": "Harris relata o ataque de pânico na TV que iniciou a busca.",
+            "f": "Na visão de Dan Harris, \"busca\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A busca cética",
         "text": "O jornalista investiga meditação sem romantizar.",
         "points": [
-          "Ceticismo",
-          "Investigação",
-          "Caminho"
+          {
+            "t": "Ceticismo",
+            "e": "O jornalista investiga meditação sem romantizar.",
+            "f": "Na visão de Dan Harris, \"ceticismo\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Investigação",
+            "e": "O jornalista investiga meditação sem romantizar.",
+            "f": "Na visão de Dan Harris, \"investigação\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Caminho",
+            "e": "O jornalista investiga meditação sem romantizar.",
+            "f": "Na visão de Dan Harris, \"caminho\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Encontros com mestres",
         "text": "Dalai Lama, Tolle e cientistas no percurso.",
         "points": [
-          "Dalai Lama",
-          "Tolle",
-          "Ciência"
+          {
+            "t": "Dalai Lama",
+            "e": "Dalai Lama, Tolle e cientistas no percurso.",
+            "f": "Na visão de Dan Harris, \"dalai lama\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Tolle",
+            "e": "Dalai Lama, Tolle e cientistas no percurso.",
+            "f": "Na visão de Dan Harris, \"tolle\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Ciência",
+            "e": "Dalai Lama, Tolle e cientistas no percurso.",
+            "f": "Na visão de Dan Harris, \"ciência\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A versão secular",
         "text": "Mindfulness sem religião, focado em evidência.",
         "points": [
-          "Secular",
-          "Evidência",
-          "Prática"
+          {
+            "t": "Secular",
+            "e": "Mindfulness sem religião, focado em evidência.",
+            "f": "Mindfulness secular tem evidência científica, não só misticismo.",
+            "real": true
+          },
+          {
+            "t": "Evidência",
+            "e": "Mindfulness sem religião, focado em evidência.",
+            "f": "Na visão de Dan Harris, \"evidência\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Prática",
+            "e": "Mindfulness sem religião, focado em evidência.",
+            "f": "Na visão de Dan Harris, \"prática\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O cérebro e a meditação",
         "text": "O que a neurociência diz sobre atenção plena.",
         "points": [
-          "Neuro",
-          "Estresse",
-          "Foco"
+          {
+            "t": "Neuro",
+            "e": "O que a neurociência diz sobre atenção plena.",
+            "f": "A meditação funciona mesmo para céticos pragmáticos.",
+            "real": true
+          },
+          {
+            "t": "Estresse",
+            "e": "O que a neurociência diz sobre atenção plena.",
+            "f": "Na visão de Dan Harris, \"estresse\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Foco",
+            "e": "O que a neurociência diz sobre atenção plena.",
+            "f": "Na visão de Dan Harris, \"foco\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — 10% basta",
         "text": "Meta modesta que sustenta a prática sem frustrar.",
         "points": [
-          "Meta",
-          "Realismo",
-          "Progresso"
+          {
+            "t": "Meta",
+            "e": "Meta modesta que sustenta a prática sem frustrar.",
+            "f": "Na visão de Dan Harris, \"meta\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Realismo",
+            "e": "Meta modesta que sustenta a prática sem frustrar.",
+            "f": "Na visão de Dan Harris, \"realismo\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Progresso",
+            "e": "Meta modesta que sustenta a prática sem frustrar.",
+            "f": "Na visão de Dan Harris, \"progresso\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Observar, não julgar",
         "text": "Como ver pensamentos como eventos, não verdades.",
         "points": [
-          "Observar",
-          "Pensamento",
-          "Distância"
+          {
+            "t": "Observar",
+            "e": "Como ver pensamentos como eventos, não verdades.",
+            "f": "Na visão de Dan Harris, \"observar\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Pensamento",
+            "e": "Como ver pensamentos como eventos, não verdades.",
+            "f": "Na visão de Dan Harris, \"pensamento\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Distância",
+            "e": "Como ver pensamentos como eventos, não verdades.",
+            "f": "Na visão de Dan Harris, \"distância\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Aplicando no caos",
         "text": "Micro-pausas de respiração nas crises reais.",
         "points": [
-          "Crise",
-          "Respiração",
-          "Uso"
+          {
+            "t": "Crise",
+            "e": "Micro-pausas de respiração nas crises reais.",
+            "f": "Na visão de Dan Harris, \"crise\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Respiração",
+            "e": "Micro-pausas de respiração nas crises reais.",
+            "f": "Na visão de Dan Harris, \"respiração\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Uso",
+            "e": "Micro-pausas de respiração nas crises reais.",
+            "f": "Na visão de Dan Harris, \"uso\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Só respira",
         "text": "Encerra convidando à prática diária humilde.",
         "points": [
-          "Prática",
-          "Humildade",
-          "Vida"
+          {
+            "t": "Prática",
+            "e": "Encerra convidando à prática diária humilde.",
+            "f": "Só respira: a pausa antes de reagir muda tudo.",
+            "real": true
+          },
+          {
+            "t": "Humildade",
+            "e": "Encerra convidando à prática diária humilde.",
+            "f": "Na visão de Dan Harris, \"humildade\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          },
+          {
+            "t": "Vida",
+            "e": "Encerra convidando à prática diária humilde.",
+            "f": "Na visão de Dan Harris, \"vida\" é parte essencial da proposta de \"Só Respira: Como a Meditação Me Salvou da Loucura\".",
+            "real": false
+          }
         ]
       }
     ]
