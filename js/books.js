@@ -39303,5 +39303,2237 @@ window.MEU_BOLSO_BOOKS=[
         ]
       }
     ]
+  },
+  {
+    "id": "mandino",
+    "slug": "o-maior-vendedor-do-mundo",
+    "title": "The Greatest Salesman in the World",
+    "titlePt": "O Maior Vendedor do Mundo",
+    "author": "Og Mandino",
+    "year": "1968",
+    "editionYear": "2019",
+    "publisher": "Frederick Fell / Sextante",
+    "pages": "144",
+    "genre": "Autoajuda / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 10 milhões",
+    "cover": "img/mandino-cover.jpg",
+    "color": "#c0392b",
+    "file": "livro.html#o-maior-vendedor-do-mundo",
+    "topic": "habitos",
+    "summary": "Em \"O Maior Vendedor do Mundo\", Og Mandino conta a parábola de Hafid, um pobre pastor que recebe dez pergaminhos antigos capazes de transformar qualquer pessoa em uma das pessoas mais prósperas e realizadas da Terra. A tese central não é vender produtos, mas vender a si mesmo: a disciplina emocional e os hábitos diários constroem a vida que se deseja. Cada pergaminho traz uma lei repetida dezenas de vezes ao dia, até virar costume — porque o costume, diz o livro, é um cabo de aço trançado de pequenos fios invisíveis. Mandino funde espiritualidade, persistência e ação num roteiro quase ritualístico: ame, persista, levante após a queda, agradeça. O gancho é que o sucesso pertence a quem repete o certo sem desistir, não a quem tem talento ou sorte. Mais que um manual de vendas, é um manifesto de renovação diária para quem cansou de promessas e quer resultado por repetição.",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Hábitos se constroem por repetição",
+        "text": "Ler e praticar uma lei todos os dias a transforma em costume automático.",
+        "reflection": "Qual hábito você repetiria hoje para virar quem quer ser?"
+      },
+      {
+        "type": "myth",
+        "title": "Basta querer comforte para mudar",
+        "text": "Vontade isolada some; só a repetição sustentada muda o padrão.",
+        "reflection": "Você já \"quis\" mudar e voltou ao mesmo ponto? Por quê?"
+      },
+      {
+        "type": "truth",
+        "title": "Pequenas ações diárias vencem",
+        "text": "Os pergaminhos pedem atos mínimos repetidos, não grandes gestos.",
+        "reflection": "O que você faria todos os dias se fosse pequeno e infalível?"
+      },
+      {
+        "type": "myth",
+        "title": "Talento ou sorte explicam o topo",
+        "text": "Mandino mostra humildes pastores vencendo pela disciplina, não pelo dom.",
+        "reflection": "Você culpa a falta de sorte por onde poderia ter insistido?"
+      },
+      {
+        "type": "truth",
+        "title": "Amar é a base de tudo",
+        "text": "O primeiro pergaminho ordena amar a todos e a si mesmo como pré-requisito.",
+        "reflection": "Você age por amor ou por medo na maioria dos dias?"
+      },
+      {
+        "type": "myth",
+        "title": "Críticas destroem quem as ouve",
+        "text": "O livro ensina usar a rejeição como combustível, não como fim.",
+        "reflection": "Uma crítica recente parou você ou te moveu?"
+      },
+      {
+        "type": "truth",
+        "title": "Cada queda é recomeço",
+        "text": "Levantar após falhar é a única métrica que importa no longo prazo.",
+        "reflection": "Quantas vezes você desistiu de algo por uma única queda?"
+      },
+      {
+        "type": "myth",
+        "title": "O tempo certo para começar existe",
+        "text": "A parábola recusa a espera: o momento é sempre agora.",
+        "reflection": "Você espera a \"fase certa\" para começar o que adiou?"
+      },
+      {
+        "type": "truth",
+        "title": "Gratidão muda a percepção",
+        "text": "Agradecer diariamente realinha o foco do que falta para o que há.",
+        "reflection": "Pelo que você agradeceu hoje, antes de reclamar?"
+      },
+      {
+        "type": "myth",
+        "title": "Foco no destino acelera",
+        "text": "Fixar só no resultado gera ansiedade; o ritual do dia é o caminho.",
+        "reflection": "Você sofre mais pelo destino ou pelo passo de hoje?"
+      },
+      {
+        "type": "truth",
+        "title": "A persistência supera o medo",
+        "text": "Agir com medo, mesmo trêmulo, desidrata o pânico com o tempo.",
+        "reflection": "Você já agiu com medo e viu o medo baixar?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudar é rápido e fácil",
+        "text": "Mandino avisa: transformar costume leva meses de insistência silenciosa.",
+        "reflection": "Você abandona hábitos novos por achá-los lentos?"
+      },
+      {
+        "type": "truth",
+        "title": "Serve o próximo para prosperar",
+        "text": "Quem ajuda o outro a ganhar acaba ganhando também, diz o livro.",
+        "reflection": "Você mede sucesso só por lucro ou por servir?"
+      },
+      {
+        "type": "myth",
+        "title": "Conhecimento isolado basta",
+        "text": "Saber a lei não vale nada sem a leitura e a prática diária.",
+        "reflection": "Você \"sabe\" muito e faz pouco? Qual a distância?"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Leia a lei todo dia",
+        "text": "Repita a mensagem escolhida em voz alta todas as manhãs e noites até virar costume."
+      },
+      {
+        "number": "2",
+        "title": "Ame antes de agir",
+        "text": "A fundação de qualquer conquista é a boa vontade sincera para com os outros e consigo."
+      },
+      {
+        "number": "3",
+        "title": "Persista até virar hábito",
+        "text": "A mudança exige centenas de repetições; não avalie pelo primeiro dia."
+      },
+      {
+        "number": "4",
+        "title": "Levante sempre",
+        "text": "Após cada tropeço, o ato de levantar vale mais que a queda anterior."
+      },
+      {
+        "number": "5",
+        "title": "Pratique a gratidão",
+        "text": "Listar motivos de agradecimento diário desloca a mente da escassez para a abundância."
+      },
+      {
+        "number": "6",
+        "title": "Controle o tempo",
+        "text": "Divida o dia em porções e proteja a primeira para o que importa de verdade."
+      },
+      {
+        "number": "7",
+        "title": "Aja com medo",
+        "text": "A coragem não é ausência de medo, é movimento mesmo sentindo-o."
+      },
+      {
+        "number": "8",
+        "title": "Silencie a dúvida",
+        "text": "A voz interna que diz \"não vai dar\" deve ser substituída pela ação imediata."
+      },
+      {
+        "number": "9",
+        "title": "Sirva para receber",
+        "text": "Oferecer valor primeiro cria reciprocidade sólida e duradoura."
+      },
+      {
+        "number": "10",
+        "title": "Celebre o pequeno",
+        "text": "Reconhecer a vitória mínima mantém acesa a motivação para a próxima."
+      },
+      {
+        "number": "11",
+        "title": "Renove-se todo dia",
+        "text": "Trate cada manhã como um nascimento: ontem acabou, hoje recomeça limpo."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Comece hoje. Cada dia que eu atraso é um dia perdido, e ao perder um dia, eu quebro o hábito de vencer.",
+        "autor": "Og Mandino",
+        "obra": "O Maior Vendedor do Mundo"
+      },
+      {
+        "texto": "Eu serei mestre do meu destino, eu serei capitão da minha alma.",
+        "autor": "Og Mandino",
+        "obra": "O Maior Vendedor do Mundo"
+      },
+      {
+        "texto": "Os hábitos são cabos de aço trançados de fios invisíveis, e um hábito bom é a melhor de todas as amizades.",
+        "autor": "Og Mandino",
+        "obra": "O Maior Vendedor do Mundo"
+      },
+      {
+        "texto": "Fracassar não é vergonha se eu me levantar e sigo em frente. Há mais honra em uma queda e uma recomeço do que em cento passos sem tropeço.",
+        "autor": "Og Mandino",
+        "obra": "O Maior Vendedor do Mundo"
+      },
+      {
+        "texto": "Eu persistirei até vencer. Porque cada lei da natureza é esta mesma lei: a terra persistiu até curvar a rocha com a gota de água.",
+        "autor": "Og Mandino",
+        "obra": "O Maior Vendedor do Mundo"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Um dos livros de autoajuda mais vendidos e gentis já escritos — mais parábola que manual.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Li os pergaminhos todo ano; é o ritual mais simples e teimoso que mantenho.",
+        "autor": "Leitor",
+        "fonte": "Amazon"
+      },
+      {
+        "texto": "Clássico da motivação de vendas, mas o real gancho é a disciplina de repetir o certo.",
+        "autor": "Crítico",
+        "fonte": "Skoob"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O encontro com o velho",
+        "text": "Hafid recebe os pergaminhos de um vendedor próspero e descobre que a riqueza é ensinável.",
+        "points": [
+          "A pobreza como estado temporário",
+          "O segredo está nos pergaminhos"
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O primeiro pergaminho: ame",
+        "text": "A lei da benevolência abre o caminho: ninguém vende a quem não confia.",
+        "points": [
+          "Amar como estratégia",
+          "Confiança gera negócio"
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A repetição sagrada",
+        "text": "Cada lei deve ser lida trinta vezes ao dia por trinta dias para virar costume.",
+        "points": [
+          "O cabo de aço do hábito",
+          "Tempo como aliado"
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Levante e siga",
+        "text": "A queda não encerra a jornada; o ato de levantar é a vitória real.",
+        "points": [
+          "A honra na recomeço",
+          "Persistência sobre perfeição"
+        ]
+      },
+      {
+        "title": "Capítulo 5 — A gratidão diária",
+        "text": "Agradecer realinha o foco e afasta a mentalidade de escassez.",
+        "points": [
+          "Gratidão como lente",
+          "Abundância percebida"
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Aja com medo",
+        "text": "A coragem é movimento apesar do pânico; a paralisia é o inimigo.",
+        "points": [
+          "Medo como ruído",
+          "Ação como remédio"
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Sirva para prosperar",
+        "text": "Quem entrega valor primeiro colhe reciprocidade duradoura.",
+        "points": [
+          "Servir como alavanca",
+          "Reciprocidade real"
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Renove-se amanhã",
+        "text": "Cada manhã apaga o ontem; a disciplina recomeça limpa.",
+        "points": [
+          "O dia como nascimento",
+          "Recomeço como hábito"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "willink",
+    "slug": "propriedade-extrema",
+    "title": "Extreme Ownership",
+    "titlePt": "Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem",
+    "author": "Jocko Willink e Leif Babin",
+    "year": "2015",
+    "editionYear": "2017",
+    "publisher": "St. Martin’s Press / Alta Books",
+    "pages": "320",
+    "genre": "Liderança / Negócios",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/willink-cover.jpg",
+    "color": "#2c3e50",
+    "file": "livro.html#propriedade-extrema",
+    "topic": "lideranca",
+    "summary": "Em \"Propriedade Extrema\", os ex-comandantes de Navy SEAL Jocko Willink e Leif Babin traduzem lições de guerra do Iraque para o mundo dos negócios. A tese central é implacável e libertadora: o líder assume total responsabilidade por tudo o que acontece sob seu comando — inclusive pelos erros da equipe e pelos próprios fracassos. Não há espaço para culpar o outro, o mercado ou o azar. Quando o líder assume a culpa, ele ganha o poder de corrigir a causa. Os autores estruturam o livro em princípios (propriedade extrema, nenhuma tarefa beneath you, crer, cobrar, descentralizar comando, planejar, simplificar, priorizar e executar, frente unida, decidir, disciplina igual liberdade). Cada capítulo alterna um relato de combate real com a aplicação corporativa. O gancho é que a disciplina é o que liberta: quem não controla a si mesmo vira escravo das circunstâncias. Leitura dura e prática para quem lidera pessoas e quer parar de apontar o dedo.",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "O líder é dono de tudo",
+        "text": "Assumir a falha da equipe é o que dá poder para corrigir a causa raiz.",
+        "reflection": "Você culpa ou assume quando algo do seu time quebra?"
+      },
+      {
+        "type": "myth",
+        "title": "Apontar o erro do outro resolve",
+        "text": "Culpar subordinados ou o mercado só esconde o problema e o repete.",
+        "reflection": "Quantas vezes você culpos outro em vez de olhar o próprio comando?"
+      },
+      {
+        "type": "truth",
+        "title": "Disciplina é liberdade",
+        "text": "Quem se autocontrola não é refém das emoções nem do caos externo.",
+        "reflection": "Sua falta de rotina te prende ou te liberta?"
+      },
+      {
+        "type": "myth",
+        "title": "Líder deve mandar de cima",
+        "text": "Ordens vagas de cima matam a execução; quem está na linha precisa entender o porquê.",
+        "reflection": "Seu time sabe o porquê ou só recebe ordem?"
+      },
+      {
+        "type": "truth",
+        "title": "Simplificar vence",
+        "text": "Planos complexos quebram sob fogo; o simples executa sob pressão.",
+        "reflection": "Seus planos são claros sob estresse ou emaranhados?"
+      },
+      {
+        "type": "myth",
+        "title": "Confiar basta, não checar",
+        "text": "Confiança sem verificação vira cegueira; o líder confere o essencial.",
+        "reflection": "Você confia cegamente ou monitora o crítico?"
+      },
+      {
+        "type": "truth",
+        "title": "Priorizar é dizer não",
+        "text": "Fazer tudo é fazer nada bem; escolher o vital é a decisão do líder.",
+        "reflection": "Você diz não ao importante ou sim a tudo?"
+      },
+      {
+        "type": "myth",
+        "title": "Conflito na equipe é ruim",
+        "text": "Desacordo honesto antes da ação evita desastre na execução.",
+        "reflection": "Você cala atrito ou o usa para decidir melhor?"
+      },
+      {
+        "type": "truth",
+        "title": "Decidir com dados parciais",
+        "text": "Esperar certeza total paralisa; o líder decide com o que tem.",
+        "reflection": "Você decide ou espera o relatório perfeito que nunca vem?"
+      },
+      {
+        "type": "myth",
+        "title": "Cargo traz respeito",
+        "text": "Respeito se ganha agindo na linha de frente, não pelo distintivo.",
+        "reflection": "Seu time te respeita pelo cargo ou pela presença?"
+      },
+      {
+        "type": "truth",
+        "title": "Frente unida importa",
+        "text": "Equipes divididas perdem; alinhar após o debate é obrigação do líder.",
+        "reflection": "Você alinha o time após discordar ou deixa a fissura?"
+      },
+      {
+        "type": "myth",
+        "title": "Plano sobrevive ao contato",
+        "text": "Realidade muda; quem não improvisa dentro do plano naufraga.",
+        "reflection": "Seu plano prevê o improvável ou quebra no primeiro imprevisto?"
+      },
+      {
+        "type": "truth",
+        "title": "Cobrar é cuidar",
+        "text": "Exigir padrão alto é respeito pela pessoa e pelo resultado coletivo.",
+        "reflection": "Você cobra alto ou evita o constrangimento?"
+      },
+      {
+        "type": "myth",
+        "title": "Tudo abaixo de mim é menor",
+        "text": "O líder faz a tarefa mais humilde quando necessário, sem orgulho.",
+        "reflection": "Você faria a tarefa \"baixa\" do seu time se precisasse?"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Assuma a culpa",
+        "text": "Quando algo falha, pergunte o que você, líder, deixou de fazer ou comunicar."
+      },
+      {
+        "number": "2",
+        "title": "Simplifique o plano",
+        "text": "Reduza etapas até que qualquer um na linha de frente entenda e execute."
+      },
+      {
+        "number": "3",
+        "title": "Descentralize o comando",
+        "text": "Treine sublíderes a decidir; controle central morre sob carga."
+      },
+      {
+        "number": "4",
+        "title": "Planeje, mas flexibilize",
+        "text": "Tenha rota e reserva; o campo reescreve o roteiro toda hora."
+      },
+      {
+        "number": "5",
+        "title": "Priorize com crueldade",
+        "text": "Corte o secundário; foque a energia no pouco que decide o resultado."
+      },
+      {
+        "number": "6",
+        "title": "Mantenha frente unida",
+        "text": "Debata à vontade, mas após decidir todos puxam o mesmo barco."
+      },
+      {
+        "number": "7",
+        "title": "Decida sem certeza",
+        "text": "Informação incompleta é a regra; atrase a decisão só se o custo for alto."
+      },
+      {
+        "number": "8",
+        "title": "Cobre alto",
+        "text": "Padrão exigido é sinal de respeito; baixar o nível corrói a equipe."
+      },
+      {
+        "number": "9",
+        "title": "Creia na missão",
+        "text": "Conviction transmite convicção; time sem fé no porquê não sustenta o difícil."
+      },
+      {
+        "number": "10",
+        "title": "Discipline-se",
+        "text": "Rotina e autocontrole do líder ditam o teto da equipe inteira."
+      },
+      {
+        "number": "11",
+        "title": "Faça a tarefa humilde",
+        "text": "Estar disposto ao trabalho menor mantém autoridade moral e contato com a realidade."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "A propriedade extrema exige que líderes assumam a responsabilidade total por tudo em sua esfera de influência.",
+        "autor": "Jocko Willink",
+        "obra": "Extreme Ownership"
+      },
+      {
+        "texto": "Não há más equipes, apenas líderes ruins. E nenhuma equipe pode superar a habilidade ou o compromisso de seu líder.",
+        "autor": "Jocko Willink",
+        "obra": "Extreme Ownership"
+      },
+      {
+        "texto": "Disciplina iguala liberdade. A liberdade de escolher, de agir, só existe sob o teto da autodisciplina.",
+        "autor": "Jocko Willink",
+        "obra": "Extreme Ownership"
+      },
+      {
+        "texto": "Quando as circunstâncias parecem fora de controle, fique calmo e concentre-se no que pode controlar: a si mesmo.",
+        "autor": "Jocko Willink",
+        "obra": "Extreme Ownership"
+      },
+      {
+        "texto": "Se você quer ser um líder à frente, deve ser capaz de fazer as tarefas de seus subordinados, não importa quão humildes.",
+        "autor": "Jocko Willink",
+        "obra": "Extreme Ownership"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O livro de liderança mais duro e aplicável que li — guerra vira negócio sem perder a seriedade.",
+        "autor": "Leitor",
+        "fonte": "Amazon"
+      },
+      {
+        "texto": "Willink é seco, mas o \"assuma a culpa\" mudou como conduzo reuniões.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Não é autoajuda, é manual de comando para quem lida com vida alheia sob pressão.",
+        "autor": "Crítico",
+        "fonte": "Skoob"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O campo de batalha",
+        "text": "A operação em Ramadi mostra por que o comando decide a vida ou a morte.",
+        "points": [
+          "Guerra como laboratório",
+          "Erro de líder custa tudo"
+        ]
+      },
+      {
+        "title": "Capítulo 2 — Propriedade extrema",
+        "text": "O princípio central: o líder é dono de cada resultado da equipe.",
+        "points": [
+          "Culpar é perder",
+          "Assumir é poder corrigir"
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Nenhuma tarefa é pequena",
+        "text": "O comandante que faz o serviço humilde mantém autoridade moral.",
+        "points": [
+          "Humildade como poder",
+          "Perto da linha de frente"
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Crer",
+        "text": "Convicção do líder contagia; time sem fé não segura o difícil.",
+        "points": [
+          "Fé na missão",
+          "Conviction transmite"
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Simplificar",
+        "text": "Planos enxutos sobrevivem ao caos; complexidade é inimiga da execução.",
+        "points": [
+          "Menos etapas",
+          "Clareza sob fogo"
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Priorizar e executar",
+        "text": "Escolher o vital e dizer não ao resto é a decisão do líder.",
+        "points": [
+          "Dizer não",
+          "Foco no essencial"
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Frente unida",
+        "text": "Debater à vontade, mas alinhar após a decisão mantém a equipe inteira.",
+        "points": [
+          "Unidade pós-debate",
+          "Fissura perde"
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Disciplina igual liberdade",
+        "text": "Autocontrole diário é o que liberta o líder das circunstâncias.",
+        "points": [
+          "Rotina como liberdade",
+          "Controle de si"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "haidt",
+    "slug": "a-hipotese-da-felicidade",
+    "title": "The Happiness Hypothesis",
+    "titlePt": "A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga",
+    "author": "Jonathan Haidt",
+    "year": "2006",
+    "editionYear": "2014",
+    "publisher": "Basic Books / Cultrix",
+    "pages": "320",
+    "genre": "Psicologia / Filosofia",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/haidt-cover.jpg",
+    "color": "#16a085",
+    "file": "livro.html#a-hipotese-da-felicidade",
+    "topic": "comportamento",
+    "summary": "Em \"A Hipótese da Felicidade\", o psicólogo Jonathan Haidt faz uma ponte entre a sabedoria de Buda, Sócrates, Jesus, Marx e Franklin e a psicologia experimental moderna. A tese central é que a felicidade humana não vem de fora, mas da relação entre dois sistemas mentais que ele batiza de \"o elefante e o condutor\": o condutor (razão) segura as rédeas, mas o elefante (emoção e instinto) é quem tem a força. Por isso sabemos o certo e fazemos o oposto. Haidt mostra que o bem-estar depende de três fontes — genes (ponto de ajuste), condições de vida e atividades voluntárias — e que o ponto de ajustte recupera quase tudo após ganhos ou perdas. O gancho é que a virtude, o sentido e os vínculos sociais movem o ponteiro mais que dinheiro ou fama. O livro é um encontro erudito e acessível entre filosofia moral e laboratório, útil para quem quer entender por que \"ter mais\" raramente traz paz.",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "A felicidade tem ponto de ajuste",
+        "text": "Genes e hábito puxam o humor de volta ao nível basilar após altos e baixos.",
+        "reflection": "Você notou que ganhos grandes pararam de te deixar feliz?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais dinheiro resolve",
+        "text": "Acima do básico, renda extra muda pouco o ponto de ajustte de longo prazo.",
+        "reflection": "Você trocou tempo por dinheiro achando que seria mais feliz?"
+      },
+      {
+        "type": "truth",
+        "title": "Razão não manda sozinha",
+        "text": "O \"elefante\" emocional decide; a razão só justifica depois.",
+        "reflection": "Você racionaliza escolhas que o sentimento já tomou?"
+      },
+      {
+        "type": "myth",
+        "title": "Conhecer o certo basta",
+        "text": "Saber não muda conduta; só prática e ambiente mudam o elefante.",
+        "reflection": "Você sabe o que fazer e não faz? O que falta?"
+      },
+      {
+        "type": "truth",
+        "title": "Vínculos sociais importam",
+        "text": "Relações e sentido explicam mais felicidade que bens materiais.",
+        "reflection": "Sua agenda prioriza pessoas ou tarefas?"
+      },
+      {
+        "type": "myth",
+        "title": "Ambiente perfeito traz paz",
+        "text": "Mudar de lugar raramente muda quem sente; o interno acompanha.",
+        "reflection": "Você mudou de vida e continuou igual por dentro?"
+      },
+      {
+        "type": "truth",
+        "title": "A virtude move o ponteiro",
+        "text": "Agir com propósito e generosidade eleva o bem-estar sustentável.",
+        "reflection": "Você já sentiu feliz por fazer o certo sem recompensa?"
+      },
+      {
+        "type": "myth",
+        "title": "Amar o destino é conformismo",
+        "text": "Aceitar o que não controla é liberdade, não rendição passiva.",
+        "reflection": "Você confunde aceitar com desistir?"
+      },
+      {
+        "type": "truth",
+        "title": "Atenção é o campo de batalha",
+        "text": "O que você foca é o que sente; redirecionar o foco é a técnica.",
+        "reflection": "Onde sua mente fica na maior parte do dia?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudança externa rápida",
+        "text": "Hábitos e afeto mudam devagar; promessas de virada são ilusão.",
+        "reflection": "Você cai em promessas de mudança instantânea?"
+      },
+      {
+        "type": "truth",
+        "title": "O corpo influencia a mente",
+        "text": "Postura, respiração e sono afetam o elefante mais que frases motivacionais.",
+        "reflection": "Você cuida do corpo como alavanca do humor?"
+      },
+      {
+        "type": "myth",
+        "title": "Foco no eu traz bem",
+        "text": "Excesso de auto foco aumenta ansiedade; servir desloca o foco para fora.",
+        "reflection": "Você pensa demais em si e fica pior?"
+      },
+      {
+        "type": "truth",
+        "title": "Sabedoria antiga acerta",
+        "text": "Buda e Sócrates anteciparam achados que a ciência confirmou séculos depois.",
+        "reflection": "Você desdenha do antigo por ser \"velho\"?"
+      },
+      {
+        "type": "myth",
+        "title": "Ciência substitui ética",
+        "text": "Dados explicam o mecanismo, mas o sentido ainda é escolha humana.",
+        "reflection": "Você acha que medir é o mesmo que viver bem?"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Conheça o elefante",
+        "text": "Perceba quando a emoção manda e a razão só justifica; nomear já ajuda."
+      },
+      {
+        "number": "2",
+        "title": "Mude o ambiente",
+        "text": "Em vez de forçar a vontade, desenhe escolhas que favoreçam o hábito bom."
+      },
+      {
+        "number": "3",
+        "title": "Aceite o que não controla",
+        "text": "Separar o interno do externo reduz sofrimento e libera energia."
+      },
+      {
+        "number": "4",
+        "title": "Invista em vínculos",
+        "text": "Relações profundas valem mais por ano de vida que salário extra."
+      },
+      {
+        "number": "5",
+        "title": "Pratique a virtude",
+        "text": "Agir certo repetidamente treina o elefante a sentir o bem."
+      },
+      {
+        "number": "6",
+        "title": "Cuide do corpo",
+        "text": "Sono, movimento e respiração são alavancas diretas do humor."
+      },
+      {
+        "number": "7",
+        "title": "Redirecione a atenção",
+        "text": "O foco decide a experiência; escolha onde a mente repousa."
+      },
+      {
+        "number": "8",
+        "title": "Espere o ponto de ajuste",
+        "text": "Saiba que altos caem; não deixe o momento definir sua identidade."
+      },
+      {
+        "number": "9",
+        "title": "Busque sentido",
+        "text": "Propósito maior sustenta mais que prazer imediato e passageiro."
+      },
+      {
+        "number": "10",
+        "title": "Estude os antigos",
+        "text": "Filosofia moral antiga antecipa a ciência; leia-a como laboratório."
+      },
+      {
+        "number": "11",
+        "title": "Sirva para fora de si",
+        "text": "Sair do eu reduz ansiedade e devolve perspectiva ao dia."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "A mente humana é um elefante com um condutor minúsculo; o condutor segura as rédeas, mas o elefante decide aonde ir.",
+        "autor": "Jonathan Haidt",
+        "obra": "A Hipótese da Felicidade"
+      },
+      {
+        "texto": "O segredo da felicidade não é ganhar ou alcançar, mas sim mudar a relação entre o condutor e o elefante.",
+        "autor": "Jonathan Haidt",
+        "obra": "A Hipótese da Felicidade"
+      },
+      {
+        "texto": "A felicidade vem de dentro e de cima: do ajuste entre nossos instintos e nossos ideais, não das circunstâncias externas.",
+        "autor": "Jonathan Haidt",
+        "obra": "A Hipótese da Felicidade"
+      },
+      {
+        "texto": "As pessoas são como geleiras: o que se vê é pequeno comparado ao que há embaixo da água.",
+        "autor": "Jonathan Haidt",
+        "obra": "A Hipótese da Felicidade"
+      },
+      {
+        "texto": "A sabedoria antiga não foi provada errada pela ciência moderna; em grande parte, foi confirmada.",
+        "autor": "Jonathan Haidt",
+        "obra": "A Hipótese da Felicidade"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O melhor casamento entre filosofia moral e psicologia experimental que já li.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Haidt escreve como professor que quer que você entenda, não como guru que quer que você obedeça.",
+        "autor": "Leitor",
+        "fonte": "Amazon"
+      },
+      {
+        "texto": "Denso, mas a metáfora do elefante e do condutor vale por todo o livro.",
+        "autor": "Crítico",
+        "fonte": "Skoob"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — A divisão da mente",
+        "text": "A metáfora do elefante e do condutor explica por que sabemos e não fazemos.",
+        "points": [
+          "Razão vs emoção",
+          "Quem manda de fato"
+        ]
+      },
+      {
+        "title": "Capítulo 2 — Mudança de ponto de ajuste",
+        "text": "Genes e hábito puxam o humor de volta; externos explicam pouco.",
+        "points": [
+          "O piso do bem-estar",
+          "Por que ganhos caem"
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A felicidade de fora",
+        "text": "Riqueza, fama e clima afetam menos do que se imagina a longo prazo.",
+        "points": [
+          "Limite do externo",
+          "Adaptação hedônica"
+        ]
+      },
+      {
+        "title": "Capítulo 4 — A felicidade de dentro",
+        "text": "Virtude, fluxo e sentido movem o ponteiro de forma durável.",
+        "points": [
+          "Fontes voluntárias",
+          "Sentido sobre prazer"
+        ]
+      },
+      {
+        "title": "Capítulo 5 — O papel da sorte",
+        "text": "Acaso molda muito, mas a resposta a ele é treinável.",
+        "points": [
+          "Acaso e resposta",
+          "O que resta controlar"
+        ]
+      },
+      {
+        "title": "Capítulo 6 — O corpo e a mente",
+        "text": "Postura e respiração influenciam o elefante mais que frases.",
+        "points": [
+          "Alavanca física",
+          "Estado importa"
+        ]
+      },
+      {
+        "title": "Capítulo 7 — A reciprocidade e o vínculo",
+        "text": "Relações e confiança são base da vida boa segundo antigos e ciência.",
+        "points": [
+          "Vínculo como bem",
+          "Confiança paga"
+        ]
+      },
+      {
+        "title": "Capítulo 8 — A síntese",
+        "text": "Unir razão, emoção e virtude é a hipótese da felicidade real.",
+        "points": [
+          "Condutor + elefante",
+          "Vida boa na prática"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "burkeman",
+    "slug": "quatro-mil-semanas",
+    "title": "Four Thousand Weeks",
+    "titlePt": "Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena",
+    "author": "Oliver Burkeman",
+    "year": "2021",
+    "editionYear": "2022",
+    "publisher": "Farrar, Straus and Giroux / Intrínseca",
+    "pages": "320",
+    "genre": "Produtividade / Tempo",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/burkeman-cover.jpg",
+    "color": "#8e44ad",
+    "file": "livro.html#quatro-mil-semanas",
+    "topic": "produtividade",
+    "summary": "Em \"Quatro Mil Semanas\", Oliver Burkeman faz as contas que ninguém quer fazer: se vivermos cerca de 80 anos, tereuimos algo em torno de quatro mil semanas — e acabou. A tese central é que a produtividade infinita é uma ilusão perversa: quanto mais tentamos \"dominar o tempo\", mais escravos dele ficamos, porque a lista de coisas possíveis sempre será infinita. O caminho honesto é aceitar a limitação finita e, com ela, escolher ativamente o que NEGLIGENCIAR. Burkeman ataca a \"falácia da eficiência\" e propõe viver de forma finita: fazer menos, porém com presença; abraçar a ansiedade do não-acabamento; e tratar o tempo como dom dado, não como recurso a otimizar. O gancho é libertador: parar de tentar esvaziar a caixa de entrada da vida e, em vez disso, dedicar as poucas semanas que restam àquilo que importa de verdade. É um antídoto calmo para a ansiedade da era do \"faça tudo\".",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Sua vida tem cerca de 4 mil semanas",
+        "text": "A finitude é o dado real; fingir infinito é o que gera ansiedade.",
+        "reflection": "Se você soubesse que restam poucas semanas, o que cortaria?"
+      },
+      {
+        "type": "myth",
+        "title": "Dá para fazer tudo",
+        "text": "A lista do possível é infinita; tentar esvazi-la é perseguir fantasma.",
+        "reflection": "Você ainda acredita que um dia \"organiza tudo\"?"
+      },
+      {
+        "type": "truth",
+        "title": "Escolher o que negligenciar",
+        "text": "Dizer não ao secundário é a única forma honesta de dizer sim ao essencial.",
+        "reflection": "O que você recusa hoje para proteger o que ama?"
+      },
+      {
+        "type": "myth",
+        "title": "Eficiência traz paz",
+        "text": "Otimizar o tempo cria mais lista, não mais vida; o ciclo não acaba.",
+        "reflection": "Você ficou mais \"produtivo\" e mais ansioso?"
+      },
+      {
+        "type": "truth",
+        "title": "A ansiedade do não-acabado",
+        "text": "Aceitar que muita coisa ficará por fazer libera presença no agora.",
+        "reflection": "Você aguenta deixar tarefas eternas incompletas?"
+      },
+      {
+        "type": "myth",
+        "title": "Ferramenta certa resolve",
+        "text": "App e método novo só realocam atenção; não ampliam a vida.",
+        "reflection": "Você trocou de app achando que o tempo apareceria?"
+      },
+      {
+        "type": "truth",
+        "title": "Menos com presença",
+        "text": "Fazer pouco, mas inteiro, rende mais sentido que muito pela metade.",
+        "reflection": "Você faz várias coisas ao mesmo tempo ou uma de cada vez?"
+      },
+      {
+        "type": "myth",
+        "title": "Começar cedo garante",
+        "text": "Antecipar não anula a finitude; planejamento vira procrastinação disfarçada.",
+        "reflection": "Você planeja tanto que não vive o que planejou?"
+      },
+      {
+        "type": "truth",
+        "title": "O tempo é dom, não recurso",
+        "text": "Tratar minutos como mercadoria a lucrar esvazia o dia de vida.",
+        "reflection": "Você mede o dia ou o habita?"
+      },
+      {
+        "type": "myth",
+        "title": "Foco no legado imortal",
+        "text": "Querer deixar marca eterna foge da finitude; o finito é o que há.",
+        "reflection": "Você busca imortalidade ou vivência real?"
+      },
+      {
+        "type": "truth",
+        "title": "Atenção é vida",
+        "text": "Onde sua atenção está é onde sua vida está sendo gasta, ponto.",
+        "reflection": "Sua atenção foi parar onde você queria hoje?"
+      },
+      {
+        "type": "myth",
+        "title": "Equilíbrio perfeito existe",
+        "text": "Balanço é ilusão; escolhas dolorosas de exclusão são a regra.",
+        "reflection": "Você espera o dia em que tudo cabe?"
+      },
+      {
+        "type": "truth",
+        "title": "Limite gera sentido",
+        "text": "Por ser pouco, o tempo ganha valor; o infinito não teria preço.",
+        "reflection": "A morte próxima é o que dá preço ao agora?"
+      },
+      {
+        "type": "myth",
+        "title": "Adiar para depois",
+        "text": "O \"depois\" raramente chega com mais tempo; o agora é o único terreno.",
+        "reflection": "Você empurrou para depois o que devia fazer hoje?"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Some as semanas",
+        "text": "Calcular sua finitude torna concreta a escolha do que importa."
+      },
+      {
+        "number": "2",
+        "title": "Abandone a lista infinita",
+        "text": "Não tente zerar; aceite que boa parte ficará por fazer."
+      },
+      {
+        "number": "3",
+        "title": "Negligencie de propósito",
+        "text": "Exclua categorias inteiras para proteger o essencial."
+      },
+      {
+        "number": "4",
+        "title": "Fuja da eficiência",
+        "text": "Pare de otimizar; use o tempo como experiência, não como recurso."
+      },
+      {
+        "number": "5",
+        "title": "Abraçe o não-acabado",
+        "text": "A ansiedade de deixar coisas abertas é sinal de vida finita, aceite-a."
+      },
+      {
+        "number": "6",
+        "title": "Faça um de cada vez",
+        "text": "Atenção plena em pouco vale mais que multitarefa ansiosa."
+      },
+      {
+        "number": "7",
+        "title": "Prazo como aliado",
+        "text": "O limite de tempo força escolha real e evita a procrastinação."
+      },
+      {
+        "number": "8",
+        "title": "Menos compromissos",
+        "text": "Reduza obrigações para ter margem de manobra e presença."
+      },
+      {
+        "number": "9",
+        "title": "Viva o agora",
+        "text": "O presente é o único terreno real; o futuro é promessa."
+      },
+      {
+        "number": "10",
+        "title": "Procure sentido, não legado",
+        "text": "Construir marca eterna foge da finitude; viver pleno a aceita."
+      },
+      {
+        "number": "11",
+        "title": "Revise semanalmente",
+        "text": "Um ritual curto para cortar o que sugou atenção à toa."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "A vida humana é breve: se você viver até os oitenta, terá cerca de quatro mil semanas, e é isso.",
+        "autor": "Oliver Burkeman",
+        "obra": "Quatro Mil Semanas"
+      },
+      {
+        "texto": "A produtividade não nos liberta do tempo; ela nos torna escravos dele, porque a lista nunca acaba.",
+        "autor": "Oliver Burkeman",
+        "obra": "Quatro Mil Semanas"
+      },
+      {
+        "texto": "A única maneira honesta de lidar com a finitude é escolher o que negligenciar.",
+        "autor": "Oliver Burkeman",
+        "obra": "Quatro Mil Semanas"
+      },
+      {
+        "texto": "Quanto mais tentamos \"dominar\" o tempo, mais ele nos domina; o segredo é render-se à limitação.",
+        "autor": "Oliver Burkeman",
+        "obra": "Quatro Mil Semanas"
+      },
+      {
+        "texto": "A atenção é a forma como a vida é gasta; onde ela vai, sua vida vai junto.",
+        "autor": "Oliver Burkeman",
+        "obra": "Quatro Mil Semanas"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O livro de produtividade que destrói a produtividade. Libertador e desconfortável.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Burkeman escreve como quem te tira de uma armadilha que você achava confortável.",
+        "autor": "Leitor",
+        "fonte": "Amazon"
+      },
+      {
+        "texto": "Antídoto para o culto à eficiência; li em três dias e mudei a agenda.",
+        "autor": "Crítico",
+        "fonte": "Skoob"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — A aritmética da vida",
+        "text": "Quatro mil semanas é o saldo real; a finitude é o ponto de partida.",
+        "points": [
+          "Tempo finito",
+          "O dado que dói"
+        ]
+      },
+      {
+        "title": "Capítulo 2 — A falácia da eficiência",
+        "text": "Otimizar cria mais lista e mais ansiedade, não mais vida.",
+        "points": [
+          "Eficácia ilusória",
+          "Mais não é melhor"
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A lista infinita",
+        "text": "Tentar zerar é perseguir o impossível; aceite o não-acabado.",
+        "points": [
+          "Caixa nunca vazia",
+          "Aceite sobrar"
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Escolher negligenciar",
+        "text": "Dizer não a categorias inteiras protege o essencial.",
+        "points": [
+          "Exclusão ativa",
+          "Não como poder"
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Tempo como dom",
+        "text": "Minutos são vida, não mercadoria; parar de lucrar com eles.",
+        "points": [
+          "Viver, não medir",
+          "Tempo habita"
+        ]
+      },
+      {
+        "title": "Capítulo 6 — A ansiedade finita",
+        "text": "O desconforto de deixar coisas abertas é sinal de vida real.",
+        "points": [
+          "Angústia honesta",
+          "Sobrar é normal"
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Atenção plena",
+        "text": "Fazer um de cada vez devolve presença ao pouco que se faz.",
+        "points": [
+          "Um, não vários",
+          "Presença paga"
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Viver de modo finito",
+        "text": "Aceitar o limite transforma a escolha diária em ato consciente.",
+        "points": [
+          "Finito como guia",
+          "Agora ou nunca"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "mcraven",
+    "slug": "faca-sua-cama",
+    "title": "Make Your Bed",
+    "titlePt": "Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo",
+    "author": "William H. McRaven",
+    "year": "2017",
+    "editionYear": "2018",
+    "publisher": "Grand Central Publishing / Sextante",
+    "pages": "144",
+    "genre": "Liderança / Disciplina",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/mcraven-cover.jpg",
+    "color": "#27ae60",
+    "file": "livro.html#faca-sua-cama",
+    "topic": "habitos",
+    "summary": "Em \"Faza Sua Cama\", o almirante aposentado e ex-comandante de operações especiais da Marinha dos EUA William H. McRaven transforma um discurso de formatura em dez lições de vida extraídas do treinamento de Navy SEAL. A primeira e mais famosa: faça sua cama logo ao acordar. Um pequeno ato de ordem prova que você pode completar ao menos uma tarefa no dia — e uma série de pequenas vitórias constrói orgulho e momentum. Das outras: você não pode sozinho, o barro nivela, medir homens pela largura dos ombros engana, há tarefas grandes e pequenas, fracasse uma vez por dia, seja amigo do morro, não conte os dias, dê seu melhor, e não tenha medo do escuro. O gancho é que a grandeza começa no trivial: a disciplina dos detalhes sustenta quem enfrenta o caos. Leitura curta e direta, útil para quem quer começar o dia com intenção e terminar com dignidade.",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Fazer a cama muda o dia",
+        "text": "Um ato de ordem cedo prova que você consegue cumprir ao menos uma tarefa.",
+        "reflection": "Você começa o dia com uma vitória pequena ou com caos?"
+      },
+      {
+        "type": "myth",
+        "title": "Pequeno não importa",
+        "text": "Detalhes trivialis acumulam disciplina ou descuido; o trivial conta.",
+        "reflection": "Você deixa o pequeno de lado achando que não faz diferença?"
+      },
+      {
+        "type": "truth",
+        "title": "Ninguém vence sozinho",
+        "text": "Times carregam o peso; isolamento é fraqueza operacional.",
+        "reflection": "Você pede ajuda ou finge que dá conta?"
+      },
+      {
+        "type": "myth",
+        "title": "Força física decide",
+        "text": "O treino nivela; mental e confiança valem mais que músculo.",
+        "reflection": "Você julga capacidade por aparência ou por prova?"
+      },
+      {
+        "type": "truth",
+        "title": "Fracassar faz parte",
+        "text": "Quem nunca cai não aprende; o erro diário treina a resposta.",
+        "reflection": "Você se permite errar uma vez por dia para aprender?"
+      },
+      {
+        "type": "myth",
+        "title": "Evitar o morro ajuda",
+        "text": "Quem abraça a dificuldade sai mais forte; fugir adia a queda.",
+        "reflection": "Você contorna o difícil ou o enfrenta de frente?"
+      },
+      {
+        "type": "truth",
+        "title": "O tempo é finito",
+        "text": "Contar os dias paralisa; viver o dia é o que resta.",
+        "reflection": "Você conta o tempo ou o habita?"
+      },
+      {
+        "type": "myth",
+        "title": "Dar o melhor só na hora boa",
+        "text": "O máximo importa justo no pior momento, não no fácil.",
+        "reflection": "Você entrega o mesmo quando tudo dá errado?"
+      },
+      {
+        "type": "truth",
+        "title": "O medo do escuro existe",
+        "text": "Reconhecer o medo e agir é a coragem; negá-lo é negação.",
+        "reflection": "Você age com medo ou finge que não o sente?"
+      },
+      {
+        "type": "myth",
+        "title": "Grandeza é só dos grandes",
+        "text": "A pequena ação repetida é o que ergue o comum ao notável.",
+        "reflection": "Você espera o palco enorme para ser grande?"
+      },
+      {
+        "type": "truth",
+        "title": "A esperança vem de outros",
+        "text": "Inspirar e ser inspirado mantém o fogo sob pressão.",
+        "reflection": "Você cercou quem te levanta ou quem te derruba?"
+      },
+      {
+        "type": "myth",
+        "title": "Treino fácil prepara",
+        "text": "O barro e o frio são a faculdade real; conforto ilude.",
+        "reflection": "Você se prepara no conforto ou no incômodo?"
+      },
+      {
+        "type": "truth",
+        "title": "A coragem é soma",
+        "text": "Pequenos atos de bravura diários viram caráter resistente.",
+        "reflection": "Você pratica coragem ou espera a emergência?"
+      },
+      {
+        "type": "myth",
+        "title": "Resultado vem rápido",
+        "text": "McRaven avisa: mudança de vida é anos de pequenas ordens, não um dia.",
+        "reflection": "Você quer tudo agora e desiste no primeiro mês?"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Faça a cama",
+        "text": "Comece o dia com uma tarefa completa; ela prova que você pode agir."
+      },
+      {
+        "number": "2",
+        "title": "Você precisa de time",
+        "text": "Ninguém sustenta o difícil sozinho; construa rede de confiança."
+      },
+      {
+        "number": "3",
+        "title": "O barro nivela",
+        "text": "Circunstância difícil equaliza todos; responda com calma."
+      },
+      {
+        "number": "4",
+        "title": "Não julgue pela largura",
+        "text": "Capacidade real aparece na ação, não no físico."
+      },
+      {
+        "number": "5",
+        "title": "Fracasse uma vez por dia",
+        "text": "Errar mantém humildade e treina a recuperação."
+      },
+      {
+        "number": "6",
+        "title": "Seja amigo do morro",
+        "text": "A dificuldade é professor; abrace em vez de fugir."
+      },
+      {
+        "number": "7",
+        "title": "Não conte os dias",
+        "text": "Viver o agora vale mais que contabilizar o prazo."
+      },
+      {
+        "number": "8",
+        "title": "Dê seu melhor sempre",
+        "text": "O máximo importa justo quando tudo desaba."
+      },
+      {
+        "number": "9",
+        "title": "Enfrente o escuro",
+        "text": "Reconhecer o medo e avançar é a coragem real."
+      },
+      {
+        "number": "10",
+        "title": "Inspire outros",
+        "text": "Levantar quem está perto multiplica sua própria força."
+      },
+      {
+        "number": "11",
+        "title": "Acumule pequenas vitórias",
+        "text": "A soma do trivial é o que constrói caráter e resultado."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Se você quer mudar o mundo, comece fazendo sua cama.",
+        "autor": "William H. McRaven",
+        "obra": "Faza Sua Cama"
+      },
+      {
+        "texto": "Se cada dia você fizer sua cama, terá completado a primeira tarefa do dia. Isso lhe dará um pequeno senso de orgulho.",
+        "autor": "William H. McRaven",
+        "obra": "Faza Sua Cama"
+      },
+      {
+        "texto": "A vida é preenchida de sofrimento, e o barro nivela; se você quer fazer a diferença, não saia correndo dele.",
+        "autor": "William H. McRaven",
+        "obra": "Faza Sua Cama"
+      },
+      {
+        "texto": "Ninguém pode fazer a diferença sozinho; se você quer mudar o mundo, comece pelos que estão ao seu lado.",
+        "autor": "William H. McRaven",
+        "obra": "Faza Sua Cama"
+      },
+      {
+        "texto": "Se você tem que fazer um passeio pelo inferno, faça-o de uma vez; não conte os dias, viva os dias.",
+        "autor": "William H. McRaven",
+        "obra": "Faza Sua Cama"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O discurso que virou livro; li em uma sentada e adotei a cama de manhã.",
+        "autor": "Leitor",
+        "fonte": "Amazon"
+      },
+      {
+        "texto": "Simples até demais, mas funciona: o hábito da cama mudou meu início de dia.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Autoajuda militar direta, sem jargão; ótimo para quem precisa de ordem.",
+        "autor": "Crítico",
+        "fonte": "Skoob"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — Faza sua cama",
+        "text": "A primeira tarefa do dia prova que você consegue cumprir o que propõe.",
+        "points": [
+          "Vitória mínima",
+          "Ordem ao acordar"
+        ]
+      },
+      {
+        "title": "Capítulo 2 — Você não pode sozinho",
+        "text": "Times carregam o peso que um sozinho não aguenta.",
+        "points": [
+          "Rede de apoio",
+          "Força coletiva"
+        ]
+      },
+      {
+        "title": "Capítulo 3 — O barro nivela",
+        "text": "O incômodo iguala todos; a resposta define quem segue.",
+        "points": [
+          "Igualdade no difícil",
+          "Calma sob lama"
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Meça pelo certo",
+        "text": "Largura de ombro não prevê nada; ação e confiança sim.",
+        "points": [
+          "Não julgue a vista",
+          "Prova real"
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Fracasse uma vez",
+        "text": "Errar diário treina humildade e recuperação rápida.",
+        "points": [
+          "Erro como treino",
+          "Queda ensina"
+        ]
+      },
+      {
+        "title": "Capítulo 6 — O morro",
+        "text": "A tarefa ingrata é onde se forja resistência; abrace-a.",
+        "points": [
+          "Dificuldade útil",
+          "Suba o morro"
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Não conte os dias",
+        "text": "Viver o agora vale mais que contar o prazo que falta.",
+        "points": [
+          "Agora, não contagem",
+          "Dia vivido"
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Dê o melhor",
+        "text": "O máximo importa no pior momento; pratique antes dele chegar.",
+        "points": [
+          "Pico sob pressão",
+          "Melhor sempre"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sapolsky",
+    "slug": "por-que-as-zebras-nao-tem-ulceras",
+    "title": "Why Zebras Don’t Get Ulcers",
+    "titlePt": "Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante",
+    "author": "Robert M. Sapolsky",
+    "year": "1994",
+    "editionYear": "2004",
+    "publisher": "Henry Holt / Objetiva",
+    "pages": "416",
+    "genre": "Saúde / Biologia",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/sapolsky-cover.jpg",
+    "color": "#2980b9",
+    "file": "livro.html#por-que-as-zebras-nao-tem-ulceras",
+    "topic": "saude",
+    "summary": "Em \"Por que as Zebras não têm Úlceras\", o neurobiólogo Robert Sapolsky explica por que o corpo humano é perfeito para o estresse agudo — a zebra foge do leão e, se sobrevive, relaxa — mas é desastroso para o estresse crônico que a vida moderna impõe. A tese central: o sistema de luta-ou-fuga (cortisol, adrenalina, pressão alta) salva quem enfrenta perigo real e pontual; quando dispara todos os dias por e-mail, trânsito e preocupação social, ele corrói o coração, o sistema imune e o cérebro. Sapolsky percorre a fisiologia do estresse e mostra que o que mata não é o evento, é a falta de controle e de desligamento. O gancho prático é que coisas simples — senso de controle, vínculos sociais, exercício, riso, toque — reduzem o dano. É ciência séria contada com humor, leitura essencial para quem vive acelerado e quer entender por que o corpo adoece sem precisar.",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Estresse agudo salva",
+        "text": "A reação de fuga é vital e passa; o problema é quando não passa.",
+        "reflection": "Sua tensão some após o gatilho ou fica o dia todo?"
+      },
+      {
+        "type": "myth",
+        "title": "Estresse é só mental",
+        "text": "O cortisol derruba imunidade e fere órgãos; é corporal e mensurável.",
+        "reflection": "Você trata estresse como frescura e ignora o corpo?"
+      },
+      {
+        "type": "truth",
+        "title": "Crônico adoece",
+        "text": "Disparo diário sem fim destrói coração, imunidade e memória.",
+        "reflection": "Você vive em alerta baixo contínuo sem notar?"
+      },
+      {
+        "type": "myth",
+        "title": "Ter controle não importa",
+        "text": "Sapolsky mostra: quem decide sofre menos que quem obedece passivo.",
+        "reflection": "Você aceita o reativo ou busca decidir sua rotina?"
+      },
+      {
+        "type": "truth",
+        "title": "Vínculo social protege",
+        "text": "Apoio e toque reduzem hormônios do estresse na prática.",
+        "reflection": "Você isola sob pressão ou procura quem ajuda?"
+      },
+      {
+        "type": "myth",
+        "title": "Trabalhar mais resolve",
+        "text": "Mais horas sob tensão multiplica o dano, não a saúde.",
+        "reflection": "Você responde ao estresse com mais trabalho?"
+      },
+      {
+        "type": "truth",
+        "title": "Exercício desliga",
+        "text": "Movimento metaboliza o cortisol como a fuga que o corpo espera.",
+        "reflection": "Você sedenta o estresse no sofá ou no corpo?"
+      },
+      {
+        "type": "myth",
+        "title": "Dor psy = frescura",
+        "text": "Estresse crônico é causa biológica real de doença, não fraqueza.",
+        "reflection": "Você julga quem adoece por \"nervoso\"?"
+      },
+      {
+        "type": "truth",
+        "title": "Rir e brincar ajudam",
+        "text": "Risos e lazer baixam cortisol; leveza é mecanismo, não luxo.",
+        "reflection": "Você riscou o lazer como \"perda de tempo\"?"
+      },
+      {
+        "type": "myth",
+        "title": "Resiliente não sente",
+        "text": "Quem não sente não existe; o ponto é não deixar o disparo virar rotina.",
+        "reflection": "Você acha que aguentar calado é força?"
+      },
+      {
+        "type": "truth",
+        "title": "Previsibilidade acalma",
+        "text": "Saber o que vem reduz a resposta; incerteza crônica fere.",
+        "reflection": "Sua vida é imprevisível a ponto de manter o alerta?"
+      },
+      {
+        "type": "myth",
+        "title": "Sono pouco aguenta",
+        "text": "Privar sono amplifica cortisol e corrói recuperação noturna.",
+        "reflection": "Você troca sono por tarefa e soma estresse?"
+      },
+      {
+        "type": "truth",
+        "title": "Escapismo pontual serve",
+        "text": "Desligar de propósito (hobby, natureza) reseta o sistema.",
+        "reflection": "Você se permite parar ou se sente culpado?"
+      },
+      {
+        "type": "myth",
+        "title": "Suplemento cura",
+        "text": "Pílula não substitui controle e vínculo; o gatilho social continua.",
+        "reflection": "Você comprou solução rápida e manteve a causa?"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Entenda o mecanismo",
+        "text": "Saber o que cortisol faz ajuda a não tratar estresse como frescura."
+      },
+      {
+        "number": "2",
+        "title": "Busque controle",
+        "text": "Decidir a própria rotina reduz dano tanto quanto remédio."
+      },
+      {
+        "number": "3",
+        "title": "Mova o corpo",
+        "text": "Exercício é a \"fuga\" que o metabolismo espera para limpar o hormônio."
+      },
+      {
+        "number": "4",
+        "title": "Cultive vínculos",
+        "text": "Apoio social e toque baixam cortisol na prática, não na teoria."
+      },
+      {
+        "number": "5",
+        "title": "Durma de verdade",
+        "text": "Sono é o desligamento noturno que o sistema precisa para curar."
+      },
+      {
+        "number": "6",
+        "title": "Ria e brinque",
+        "text": "Humor e lazer são válvulas reais; trate-os como saúde."
+      },
+      {
+        "number": "7",
+        "title": "Torne o dia previsível",
+        "text": "Rotina e aviso reduzem a incerteza que mantém o alerta ligado."
+      },
+      {
+        "number": "8",
+        "title": "Desligue de propósito",
+        "text": "Hobby e natureza resetam; não espere o colapso para parar."
+      },
+      {
+        "number": "9",
+        "title": "Corte o crônico",
+        "text": "Identifique o gatilho diário e remova ou limite o que puder."
+      },
+      {
+        "number": "10",
+        "title": "Não ignore o corpo",
+        "text": "Sintoma físico sob estresse é biológico; leve a sério."
+      },
+      {
+        "number": "11",
+        "title": "Aceite o agudo",
+        "text": "Susto pontual é normal; o perigo é quando ele nunca desliga."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "A zebra que escapa do leão relaxa minutos depois; nós, não. É esse não-relaxar que nos adoece.",
+        "autor": "Robert M. Sapolsky",
+        "obra": "Por que as Zebras não têm Úlceras"
+      },
+      {
+        "texto": "O estresse não é o que machuca; é o estresse ao qual você não pode dar fim, nem controle, que destrói.",
+        "autor": "Robert M. Sapolsky",
+        "obra": "Por que as Zebras não têm Úlceras"
+      },
+      {
+        "texto": "Se você é incapaz de ligar e desligar o sistema de estresse, vira presa de você mesmo.",
+        "autor": "Robert M. Sapolsky",
+        "obra": "Por que as Zebras não têm Úlceras"
+      },
+      {
+        "texto": "O corpo foi feito para correr do predador, não para ler 200 e-mails ameaçadores por dia.",
+        "autor": "Robert M. Sapolsky",
+        "obra": "Por que as Zebras não têm Úlceras"
+      },
+      {
+        "texto": "O que protege não é evitar o estresse, mas ter controle, vínculo e um fim claro para ele.",
+        "autor": "Robert M. Sapolsky",
+        "obra": "Por que as Zebras não têm Úlceras"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O melhor livro de divulgação científica sobre estresse já escrito; rigor e humor.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Sapolsky explica cortisol sem enrolação; depois dele, não ignoro mais o corpo.",
+        "autor": "Leitor",
+        "fonte": "Amazon"
+      },
+      {
+        "texto": "Denso em biologia, mas acessível; leitura obrigatória para quem vive acelerado.",
+        "autor": "Crítico",
+        "fonte": "Skoob"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — A zebra e o leão",
+        "text": "Estresse agudo salva; o problema humano é o disparo que não cessa.",
+        "points": [
+          "Agudo vs crônico",
+          "Por que a zebra relaxa"
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O sistema de alerta",
+        "text": "Cortisol e adrenalina preparam o corpo para luta ou fuga.",
+        "points": [
+          "Hormônios na ação",
+          "Corpo em prontidão"
+        ]
+      },
+      {
+        "title": "Capítulo 3 — Quando não desliga",
+        "text": "Estresse diário corrói coração, imunidade e cérebro.",
+        "points": [
+          "Dano contínuo",
+          "Alerta sem fim"
+        ]
+      },
+      {
+        "title": "Capítulo 4 — O papel do controle",
+        "text": "Quem decide sofre menos; o passivo paga o preço biológico.",
+        "points": [
+          "Controle como escudo",
+          "Decidir protege"
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Sociedade e estresse",
+        "text": "Incerteza, hierarquia e isolamento amplificam a resposta.",
+        "points": [
+          "Fator social",
+          "Vínculo acalma"
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Corpo sob cerco",
+        "text": "Úlceras, pressão e memória sofrem com o cortisol de longo prazo.",
+        "points": [
+          "Órgãos afetados",
+          "Preço real"
+        ]
+      },
+      {
+        "title": "Capítulo 7 — O que ajuda",
+        "text": "Exercício, sono, riso, toque e previsibilidade desligam o sistema.",
+        "points": [
+          "Válvulas reais",
+          "Resetar o corpo"
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Viver menos estressado",
+        "text": "Mudar gatilho e rotina vale mais que remédio pontual.",
+        "points": [
+          "Prática diária",
+          "Saúde sustentável"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "carr",
+    "slug": "o-efeito-google",
+    "title": "The Shallows",
+    "titlePt": "O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros",
+    "author": "Nicholas Carr",
+    "year": "2010",
+    "editionYear": "2011",
+    "publisher": "W. W. Norton / Agir",
+    "pages": "304",
+    "genre": "Tecnologia / Atenção",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/carr-cover.jpg",
+    "color": "#d35400",
+    "file": "livro.html#o-efeito-google",
+    "topic": "tecnologia",
+    "summary": "Em \"O Efeito Google\", o jornalista Nicholas Carr levanta a mão tímida que todos sentem: desde que a internet tomou a leitura, a concentração profunda ficou mais rara. A tese central é que a tecnologia não é neutra — ela molda o cérebro pela neuroplasticidade. Ler na tela incentiva o escaneamento, o clique e a fragmentação; a leitura linear e contemplativa, que sustenta o pensamento crítico, atrofia. Carr não é contra a rede: reconhece que ela amplia o acesso e a velocidade. Mas alerta que trocamos a sabedoria pela informação, e a atenção pelo reflexo. O gancho é que \"fora de vista, fora da mente\": ao ter tudo à mão, pensamos menos por nós. O livro mistura história da tecnologia (do livro à máquina de escrever) e neurologia para defender a leitura profunda como músculo que precisa ser exercido — e não deixado à mercê do algoritmo. Carr conclui que a atenção é o recurso mais ameaçado da era digital, e protegê-la é uma decisão deliberada, não um acidente feliz.",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "A rede muda o cérebro",
+        "text": "Neuroplasticidade: ler na tela treina dispersão, não concentração.",
+        "reflection": "Você percebe que ler tela cansa mais que ler papel?"
+      },
+      {
+        "type": "myth",
+        "title": "Tecnologia é neutra",
+        "text": "A ferramenta direciona o uso; a tela premia o clique, não o estudo.",
+        "reflection": "Você acha que o app não influencia como pensa?"
+      },
+      {
+        "type": "truth",
+        "title": "Leitura profunda atrofia",
+        "text": "Menos leitura linear reduz o músculo do pensamento crítico.",
+        "reflection": "Você leu um livro inteiro sem pular este ano?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais acesso é mais saber",
+        "text": "Ter tudo à mão troca sabedoria por informação de superfície.",
+        "reflection": "Você confunde localizar dados com entender?"
+      },
+      {
+        "type": "truth",
+        "title": "Atenção é finita",
+        "text": "Cada aba rouba foco; multitarefa de tela fragmenta o raciocínio.",
+        "reflection": "Você trabalha em várias abas e acha que produz mais?"
+      },
+      {
+        "type": "myth",
+        "title": "Memorizar é velho",
+        "text": "Não decorar nada externaliza a memória e enfraquece o pensar.",
+        "reflection": "Você delega à busca o que antes guardava?"
+      },
+      {
+        "type": "truth",
+        "title": "Ler devagar pensa",
+        "text": "Leitura contemplativa sustenta argumento e criatividade profunda.",
+        "reflection": "Você reflete ou só consome rápido?"
+      },
+      {
+        "type": "myth",
+        "title": "Velocidade é sempre bem",
+        "text": "Rapidez de leitura troca profundidade por volume vazio.",
+        "reflection": "Você corre a leitura e perde o sentido?"
+      },
+      {
+        "type": "truth",
+        "title": "A ferramenta treina o hábito",
+        "text": "Quem usa só fragmentos vira leitor de fragmentos por treino.",
+        "reflection": "Seu uso diário treina foco ou dispersão?"
+      },
+      {
+        "type": "myth",
+        "title": "Cérebro igual sempre",
+        "text": "O cérebro se reconstrói com o uso; o meio muda a mente.",
+        "reflection": "Você acha que pensa igual com ou sem rede?"
+      },
+      {
+        "type": "truth",
+        "title": "Escrever muda de novo",
+        "text": "Ao redigir, reorganizamos o pensamento; a rede encurta o escrever.",
+        "reflection": "Você escreve para pensar ou só responde rápido?"
+      },
+      {
+        "type": "myth",
+        "title": "Tudo na nuvem basta",
+        "text": "Externalizar tudo enfraquece o domínio interno do conhecimento.",
+        "reflection": "Você sabe menos porque \"está lá fora\"?"
+      },
+      {
+        "type": "truth",
+        "title": "Escolha o meio",
+        "text": "Decidir quando ler tela e quando ler livro protege a atenção.",
+        "reflection": "Você separa tempo de leitura profunda do tempo de tela?"
+      },
+      {
+        "type": "myth",
+        "title": "Impossível voltar",
+        "text": "Carr mostra que o hábito de concentrar se recupera com prática.",
+        "reflection": "Você acha que perdeu a capacidade de focar para sempre?"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Saiba que a tela treina",
+        "text": "Reconhecer o efeito é o primeiro passo para não ser seu resultado."
+      },
+      {
+        "number": "2",
+        "title": "Separe leitura profunda",
+        "text": "Reserve tempo de livro/papel longe de notificações."
+      },
+      {
+        "number": "3",
+        "title": "Feche as abas",
+        "text": "Uma tarefa de cada vez recupera o foco fragmentado."
+      },
+      {
+        "number": "4",
+        "title": "Escreva para pensar",
+        "text": "Redigir à mão ou longo organiza melhor que responder rápido."
+      },
+      {
+        "number": "5",
+        "title": "Memorize o essencial",
+        "text": "Guardar núcleo interno fortalece o raciocínio, não só buscar."
+      },
+      {
+        "number": "6",
+        "title": "Cuidado do reflexo",
+        "text": "Clique automático cansa a atenção; pause antes de abrir."
+      },
+      {
+        "number": "7",
+        "title": "Use a rede com intenção",
+        "text": "Acesse para algo e saia; não naufrague no feed."
+      },
+      {
+        "number": "8",
+        "title": "Recupere o silêncio",
+        "text": "Períodos offline são onde a síntese acontece de fato."
+      },
+      {
+        "number": "9",
+        "title": "Leia devagar",
+        "text": "Ler linear treina o músculo do pensamento crítico."
+      },
+      {
+        "number": "10",
+        "title": "Aceite a troca",
+        "text": "Toda comodidade tem custo de atenção; escolha pagar menos."
+      },
+      {
+        "number": "11",
+        "title": "Proteja a mente",
+        "text": "Tratar atenção como recurso finito muda o uso diário."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Fora de vista, fora da mente; ao ter tudo à mão, paramos de pensar por nós mesmos.",
+        "autor": "Nicholas Carr",
+        "obra": "O Efeito Google"
+      },
+      {
+        "texto": "A internet não está apenas mudando o que lemos; está mudando a forma como nosso cérebro processa o que lê.",
+        "autor": "Nicholas Carr",
+        "obra": "O Efeito Google"
+      },
+      {
+        "texto": "A leitura profunda é um músculo; se não o exercitarmos, ele atrofia.",
+        "autor": "Nicholas Carr",
+        "obra": "O Efeito Google"
+      },
+      {
+        "texto": "Trocamos a sabedoria pela informação, e a atenção pelo reflexo.",
+        "autor": "Nicholas Carr",
+        "obra": "O Efeito Google"
+      },
+      {
+        "texto": "A máquina de escrever não mudou como pensamos; a tela interativa, sim.",
+        "autor": "Nicholas Carr",
+        "obra": "O Efeito Google"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Leitura incomodava; depois dele, cortei abas e voltei a ler livros inteiros.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Carr faz a pergunta que a Silicon Valley evita: o que a rede faz com a mente?",
+        "autor": "Leitor",
+        "fonte": "Amazon"
+      },
+      {
+        "texto": "Finalista do Pulitzer; denso, mas essencial para quem vive online.",
+        "autor": "Crítico",
+        "fonte": "Skoob"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — A mão que treme",
+        "text": "A memória pessoal de Carr: a concentração sumiu com a tela.",
+        "points": [
+          "Perda percebida",
+          "O antes e o depois"
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O cérebro maleável",
+        "text": "Neuroplasticidade: o uso remodela a mente, inclusive a leitura.",
+        "points": [
+          "Mente que muda",
+          "Uso molda"
+        ]
+      },
+      {
+        "title": "Capítulo 3 — A tela contra o livro",
+        "text": "Ler linear vs escanear; a diferença no pensamento crítico.",
+        "points": [
+          "Leitura profunda",
+          "Tela fragmenta"
+        ]
+      },
+      {
+        "title": "Capítulo 4 — A história da tecnologia",
+        "text": "Do livro à máquina: cada meio reconfigurou o cérebro.",
+        "points": [
+          "Meio como molde",
+          "Ferramenta muda"
+        ]
+      },
+      {
+        "title": "Capítulo 5 — A atenção vendida",
+        "text": "A economia do clique lucra com sua dispersão, não com foco.",
+        "points": [
+          "Atenção como bem",
+          "Feed lucra"
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Memória externalizada",
+        "text": "Tudo na nuvem enfraquece o domínio interno do saber.",
+        "points": [
+          "Memória de fora",
+          "Saber menor"
+        ]
+      },
+      {
+        "title": "Capítulo 7 — O custo invisível",
+        "text": "Velocidade troca profundidade; o preço aparece devagar.",
+        "points": [
+          "Troca silenciosa",
+          "Rapidez cara"
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Recuperar o foco",
+        "text": "Prática de leitura profunda e offline reconstrói a atenção.",
+        "points": [
+          "Músculo recuperado",
+          "Foco de volta"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "goleman",
+    "slug": "inteligencia-emocional",
+    "title": "Emotional Intelligence",
+    "titlePt": "Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso",
+    "author": "Daniel Goleman",
+    "year": "1995",
+    "editionYear": "2015",
+    "publisher": "Bantam Books / Objetiva",
+    "pages": "384",
+    "genre": "Psicologia / Comportamento",
+    "language": "Inglês",
+    "copiesSold": "Mais de 5 milhões",
+    "cover": "img/goleman-cover.jpg",
+    "color": "#c0392b",
+    "file": "livro.html#inteligencia-emocional",
+    "topic": "comportamento",
+    "summary": "Em \"Inteligência Emocional\", o psicólogo Daniel Goleman popularizou a ideia de que o QI importa menos para o sucesso na vida do que a capacidade de manejar emoções — a própria e a alheia. A tese central: o cérebro tem dois centros de decisão, e o emocional (amígdala) pode sequestrar a razão num instante de raiva ou pânico — o \"seqüestro da amígdala\". Quem desenvolve autoconsciência, autorregulação, motivação, empatia e habilidade social navega melhor relações, trabalho e saúde. Goleman apoiou-se em pesquisas de neurociência e mostrou que essas competências se aprendem, não são traço fixo. O gancho é libertador: não somos reféns do impulso; treinar a pausa entre estímulo e resposta muda resultados. Leitura fundadora para quem quer entender por que pessoas inteligentes sabotam a si mesmas — e como parar. Goleman encerra lembrando que a inteligência emocional não substitui o estudo ou a técnica, mas decide quem os usa bem sob pressão.",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "QI não é tudo",
+        "text": "Nota alta prevê pouco o sucesso; emoção maneja o resto.",
+        "reflection": "Você já viu gente brilhante se sabota? Por quê?"
+      },
+      {
+        "type": "myth",
+        "title": "Razão manda sempre",
+        "text": "A amígdala sequestra a decisão em segundos de emoção forte.",
+        "reflection": "Você agiu por impulso e se arrependeu depois?"
+      },
+      {
+        "type": "truth",
+        "title": "Emoção se aprende",
+        "text": "As cinco competências de EQ treinam; não são dom fixo.",
+        "reflection": "Você acha que é \"pessoa nervosa\" para sempre?"
+      },
+      {
+        "type": "myth",
+        "title": "Sentir é fraqueza",
+        "text": "Reconhecer a emoção é força; negá-la é que destrói o controle.",
+        "reflection": "Você esconde o que sente achando que é fraqueza?"
+      },
+      {
+        "type": "truth",
+        "title": "A pausa salva",
+        "text": "O intervalo entre estímulo e resposta é onde a escolha acontece.",
+        "reflection": "Você reage na hora ou respira antes de falar?"
+      },
+      {
+        "type": "myth",
+        "title": "Empatia é frufru",
+        "text": "Ler o outro reduz conflito e abre portas; é habilidade útil.",
+        "reflection": "Você escuta para entender ou para responder?"
+      },
+      {
+        "type": "truth",
+        "title": "Autorregulação protege",
+        "text": "Conter o impulso evita erros que a inteligência sozinha não evita.",
+        "reflection": "Sua falta de freio já custou caro?"
+      },
+      {
+        "type": "myth",
+        "title": "Sucesso é só esforço",
+        "text": "Esforço sem consciência emocional descarrilha sob pressão.",
+        "reflection": "Você ralou e mesmo assim se sabota?"
+      },
+      {
+        "type": "truth",
+        "title": "Estresse embaça",
+        "text": "Sob cortisol, a razão cai; acalmar antes de decidir melhora tudo.",
+        "reflection": "Você decide bravo e se arrepende?"
+      },
+      {
+        "type": "myth",
+        "title": "Criança não treina",
+        "text": "EQ se forma cedo, mas adulto ainda aprende com prática.",
+        "reflection": "Você acha que já é tarde para mudar?"
+      },
+      {
+        "type": "truth",
+        "title": "Vínculo depende de EQ",
+        "text": "Relações saudáveis exigem empatia e regulação, não só afeto.",
+        "reflection": "Seus relacionamentos sofrem por falta de escuta?"
+      },
+      {
+        "type": "myth",
+        "title": "Líder só competência",
+        "text": "Time segue quem acalma e entende, não quem só manda.",
+        "reflection": "Você obedece a quem entende ou só a quem manda?"
+      },
+      {
+        "type": "truth",
+        "title": "Saúde liga emoção",
+        "text": "Crônico de raiva e ansiedade fere o corpo tanto quanto vício.",
+        "reflection": "Sua emoção mal curada adoece você?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudar é impossível",
+        "text": "Goleman mostra que treino diário reconstrói o padrão emocional.",
+        "reflection": "Você desistiu de mudar achando que é assim?"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Nomeie a emoção",
+        "text": "Identificar o que sente devolve o leme à razão antes do estrago."
+      },
+      {
+        "number": "2",
+        "title": "Pare antes de agir",
+        "text": "A pausa de um segundo quebra o sequestro da amígdala."
+      },
+      {
+        "number": "3",
+        "title": "Treine empatia",
+        "text": "Ler o outro como ele se sente reduz atrito e abre diálogo."
+      },
+      {
+        "number": "4",
+        "title": "Regule o impulso",
+        "text": "Conter a reação evita erros que inteligência não impede."
+      },
+      {
+        "number": "5",
+        "title": "Mantenha motivo",
+        "text": "Propósito sustenta esforço quando o ânimo falta."
+      },
+      {
+        "number": "6",
+        "title": "Acalme o estresse",
+        "text": "Respirar antes de decidir protege a qualidade da escolha."
+      },
+      {
+        "number": "7",
+        "title": "Escute para entender",
+        "text": "Ouvir sem preparar resposta melhora relações e negócios."
+      },
+      {
+        "number": "8",
+        "title": "Aprenda cedo, melhore tarde",
+        "text": "EQ se forma na infância, mas adulto ainda treina."
+      },
+      {
+        "number": "9",
+        "title": "Use em liderança",
+        "text": "Time segue quem acalma e entende, não só quem ordena."
+      },
+      {
+        "number": "10",
+        "title": "Cuide do corpo",
+        "text": "Sono e movimento estabilizam o emocional base."
+      },
+      {
+        "number": "11",
+        "title": "Pratique todo dia",
+        "text": "Pequenos atos de consciência reconstroem o padrão emocional."
+      }
+    ],
+    "citacoes": [
+      {
+        "texto": "Num momento de paixão, as pessoas inteligentes fazem coisas estúpidas; a emoção sequestra a razão.",
+        "autor": "Daniel Goleman",
+        "obra": "Inteligência Emocional"
+      },
+      {
+        "texto": "Entre o estímulo e a resposta há um espaço; nesse espaço está nossa liberdade de escolher.",
+        "autor": "Daniel Goleman",
+        "obra": "Inteligência Emocional"
+      },
+      {
+        "texto": "O que conta no sucesso raramente é o QI; é a inteligência emocional que decide.",
+        "autor": "Daniel Goleman",
+        "obra": "Inteligência Emocional"
+      },
+      {
+        "texto": "Quem não gerencia suas emoções destrói a si mesmo mais do que qualquer inimigo externo.",
+        "autor": "Daniel Goleman",
+        "obra": "Inteligência Emocional"
+      },
+      {
+        "texto": "A empatia não é luxo social; é a habilidade que faz relações e equipes funcionarem.",
+        "autor": "Daniel Goleman",
+        "obra": "Inteligência Emocional"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "O livro que tirou o QI do pedestal; mudou como empresas e escolas pensam gente.",
+        "autor": "Leitor",
+        "fonte": "Goodreads"
+      },
+      {
+        "texto": "Goleman tornou a ciência das emoções legível para qualquer um.",
+        "autor": "Leitor",
+        "fonte": "Amazon"
+      },
+      {
+        "texto": "Clássico obrigatório de comportamento; o \"seqüestro da amígdala\" virou lugar-comum.",
+        "autor": "Crítico",
+        "fonte": "Skoob"
+      }
+    ],
+    "chapters": [
+      {
+        "title": "Capítulo 1 — O QI e o destino",
+        "text": "Nota alta prevê pouco; o resto é emoção bem conduzida.",
+        "points": [
+          "Além do QI",
+          "Sucesso estranho"
+        ]
+      },
+      {
+        "title": "Capítulo 2 — O cérebro emocional",
+        "text": "Amígdala e córtex: o centro que sequestra a razão em segundos.",
+        "points": [
+          "Dois centros",
+          "Razão sitiada"
+        ]
+      },
+      {
+        "title": "Capítulo 3 — O seqüestro",
+        "text": "Raiva ou pânico tomam a decisão antes do pensar.",
+        "points": [
+          "Amígdala na frente",
+          "Impulso manda"
+        ]
+      },
+      {
+        "title": "Capítulo 4 — Conheça a si",
+        "text": "Autoconsciência é a base das outras quatro competências.",
+        "points": [
+          "Ver a emoção",
+          "Nomear ajuda"
+        ]
+      },
+      {
+        "title": "Capítulo 5 — Segurar o impulso",
+        "text": "Autorregulação evita erros que inteligência sozinha não evita.",
+        "points": [
+          "Freio útil",
+          "Pausa salva"
+        ]
+      },
+      {
+        "title": "Capítulo 6 — Ler o outro",
+        "text": "Empatia reduz atrito e abre portas em relação e trabalho.",
+        "points": [
+          "Sentir o outro",
+          "Escuta útil"
+        ]
+      },
+      {
+        "title": "Capítulo 7 — Habilidade social",
+        "text": "Influenciar e lidar com gente é competência treinável.",
+        "points": [
+          "Conviver bem",
+          "Time segue"
+        ]
+      },
+      {
+        "title": "Capítulo 8 — Treinar a EQ",
+        "text": "Adulto aprende com prática diária; não é traço fixo.",
+        "points": [
+          "Mudar dá",
+          "Prática reconstrói"
+        ]
+      }
+    ]
   }
 ];
