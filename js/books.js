@@ -29957,62 +29957,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Descubra sua tendência",
-        "text": "Faça o teste das quatro tendências para escolher estratégias certas."
+        "text": "Faça o teste das quatro tendências para escolher estratégias certas.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Descubra sua tendência\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Faça o teste das quatro tendências para escolher estratégias certas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Descubra sua tendência\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Defina abstinente ou moderado",
-        "text": "Saiba se você deve cortar ou dosar; evite a zona de tentação."
+        "text": "Saiba se você deve cortar ou dosar; evite a zona de tentação.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Defina abstinente ou moderado\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Saiba se você deve cortar ou dosar; evite a zona de tentação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina abstinente ou moderado\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Use empilhamento",
-        "text": "Ligue o novo hábito a um já existente para criar gatilho."
+        "text": "Ligue o novo hábito a um já existente para criar gatilho.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Use empilhamento\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Ligue o novo hábito a um já existente para criar gatilho — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use empilhamento\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Cuide dos fundamentais",
-        "text": "Sono, alimentação e exercício baseiam todos os outros hábitos."
+        "text": "Sono, alimentação e exercício baseiam todos os outros hábitos.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Cuide dos fundamentais\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Sono, alimentação e exercício baseiam todos os outros hábitos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuide dos fundamentais\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Aproveite a conveniência",
-        "text": "Torne o bom hábito fácil e o ruim difícil de alcançar."
+        "text": "Torne o bom hábito fácil e o ruim difícil de alcançar.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Aproveite a conveniência\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Torne o bom hábito fácil e o ruim difícil de alcançar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aproveite a conveniência\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use a obrigação social",
-        "text": "Obligers devem comprometer terceiros para sustentar mudança."
+        "text": "Obligers devem comprometer terceiros para sustentar mudança.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Use a obrigação social\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Obligers devem comprometer terceiros para sustentar mudança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a obrigação social\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Questioners busquem razão",
-        "text": "Dê a si mesmo justificativas claras antes de adotar o hábito."
+        "text": "Dê a si mesmo justificativas claras antes de adotar o hábito.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Questioners busquem razão\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Dê a si mesmo justificativas claras antes de adotar o hábito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Questioners busquem razão\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Respeite a estrutura",
-        "text": "Se você se perde sem rotina, abrace a estrutura em vez de combatê-la."
+        "text": "Se você se perde sem rotina, abrace a estrutura em vez de combatê-la.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Respeite a estrutura\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Se você se perde sem rotina, abrace a estrutura em vez de combatê-la — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Respeite a estrutura\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Rebels usem escolha",
-        "text": "Deixe o rebel sentir autonomia; nunca imponha por autoridade."
+        "text": "Deixe o rebel sentir autonomia; nunca imponha por autoridade.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Rebels usem escolha\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Deixe o rebel sentir autonomia; nunca imponha por autoridade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Rebels usem escolha\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Planeje abastecimento",
-        "text": "Antecipe gatilhos e remova tentações do ambiente."
+        "text": "Antecipe gatilhos e remova tentações do ambiente.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Planeje abastecimento\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Antecipe gatilhos e remova tentações do ambiente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje abastecimento\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Comece pequeno",
-        "text": "Microhábitos respeitam a resistência inicial e criam confiança."
+        "text": "Microhábitos respeitam a resistência inicial e criam confiança.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Comece pequeno\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Microhábitos respeitam a resistência inicial e criam confiança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece pequeno\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Sem autoculpa",
-        "text": "Falhar é sinal de método errado; ajuste o design, não a autoestima."
+        "text": "Falhar é sinal de método errado; ajuste o design, não a autoestima.",
+        "explicacoes": [
+          "Em \"Melhor Que Antes\", Gretchen Rubin trata \"Sem autoculpa\" como peça-chave para a busca da felicidade pelas próprias regras de vida.",
+          "Na prática: Falhar é sinal de método errado; ajuste o design, não a autoestima — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sem autoculpa\" aplica a busca da felicidade pelas próprias regras de vida de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -30034,81 +30094,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A eterna questão dos hábitos",
         "text": "Rubin abre explicando por que formar hábitos é o núcleo da autogestão.",
         "points": [
-          "Por que hábitos",
-          "O desafio",
-          "A promessa"
+          {
+            "t": "Por que hábitos",
+            "e": "Rubin abre explicando por que formar hábitos é o núcleo da autogestão.",
+            "f": "O maior obstáculo aos bons hábitos somos nós mesmos.",
+            "real": true
+          },
+          {
+            "t": "O desafio",
+            "e": "Rubin abre explicando por que formar hábitos é o núcleo da autogestão.",
+            "f": "Hábitos fundamentais facilitam todos os outros.",
+            "real": true
+          },
+          {
+            "t": "A promessa",
+            "e": "Rubin abre explicando por que formar hábitos é o núcleo da autogestão.",
+            "f": "Na visão de Gretchen Rubin, \"a promessa\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — As quatro tendências",
         "text": "Apresenta Upholder, Questioner, Obliger e Rebel com exemplos.",
         "points": [
-          "Expectativas",
-          "Os quatro tipos",
-          "Teste"
+          {
+            "t": "Expectativas",
+            "e": "Apresenta Upholder, Questioner, Obliger e Rebel com exemplos.",
+            "f": "As expectativas revelam quem somos.",
+            "real": true
+          },
+          {
+            "t": "Os quatro tipos",
+            "e": "Apresenta Upholder, Questioner, Obliger e Rebel com exemplos.",
+            "f": "Na visão de Gretchen Rubin, \"os quatro tipos\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Teste",
+            "e": "Apresenta Upholder, Questioner, Obliger e Rebel com exemplos.",
+            "f": "Na visão de Gretchen Rubin, \"teste\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Abstinência ou moderação",
         "text": "O eixo que decide se você corta ou dosar determinado vício.",
         "points": [
-          "Cortar vs. dosar",
-          "Zona de tentação",
-          "Autoavaliação"
+          {
+            "t": "Cortar vs. dosar",
+            "e": "O eixo que decide se você corta ou dosar determinado vício.",
+            "f": "Na visão de Gretchen Rubin, \"cortar vs. dosar\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Zona de tentação",
+            "e": "O eixo que decide se você corta ou dosar determinado vício.",
+            "f": "Na visão de Gretchen Rubin, \"zona de tentação\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Autoavaliação",
+            "e": "O eixo que decide se você corta ou dosar determinado vício.",
+            "f": "Na visão de Gretchen Rubin, \"autoavaliação\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Estrutura e conveniência",
         "text": "Como desenhar o ambiente para tornar o certo mais fácil.",
         "points": [
-          "Ambiente",
-          "Atrito",
-          "Design"
+          {
+            "t": "Ambiente",
+            "e": "Como desenhar o ambiente para tornar o certo mais fácil.",
+            "f": "Na visão de Gretchen Rubin, \"ambiente\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Atrito",
+            "e": "Como desenhar o ambiente para tornar o certo mais fácil.",
+            "f": "Na visão de Gretchen Rubin, \"atrito\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Design",
+            "e": "Como desenhar o ambiente para tornar o certo mais fácil.",
+            "f": "Na visão de Gretchen Rubin, \"design\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Estratégias de empilhamento",
         "text": "Amarração de hábitos e gatilhos para ancorar o novo.",
         "points": [
-          "Triggers",
-          "Rotina",
-          "Ancoragem"
+          {
+            "t": "Triggers",
+            "e": "Amarração de hábitos e gatilhos para ancorar o novo.",
+            "f": "Na visão de Gretchen Rubin, \"triggers\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Rotina",
+            "e": "Amarração de hábitos e gatilhos para ancorar o novo.",
+            "f": "Na visão de Gretchen Rubin, \"rotina\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Ancoragem",
+            "e": "Amarração de hábitos e gatilhos para ancorar o novo.",
+            "f": "Na visão de Gretchen Rubin, \"ancoragem\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Hábitos fundamentais",
         "text": "Sono, comida e movimento como base de tudo.",
         "points": [
-          "Sono",
-          "Alimentação",
-          "Exercício"
+          {
+            "t": "Sono",
+            "e": "Sono, comida e movimento como base de tudo.",
+            "f": "Hábitos fundamentais facilitam todos os outros.",
+            "real": true
+          },
+          {
+            "t": "Alimentação",
+            "e": "Sono, comida e movimento como base de tudo.",
+            "f": "O maior obstáculo aos bons hábitos somos nós mesmos.",
+            "real": true
+          },
+          {
+            "t": "Exercício",
+            "e": "Sono, comida e movimento como base de tudo.",
+            "f": "Na visão de Gretchen Rubin, \"exercício\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O poder dos relacionamentos",
         "text": "Como terceiros ajudam ou atrapalham conforme sua tendência.",
         "points": [
-          "Obligers",
-          "Apoio",
-          "Pressão"
+          {
+            "t": "Obligers",
+            "e": "Como terceiros ajudam ou atrapalham conforme sua tendência.",
+            "f": "Na visão de Gretchen Rubin, \"obligers\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Apoio",
+            "e": "Como terceiros ajudam ou atrapalham conforme sua tendência.",
+            "f": "Na visão de Gretchen Rubin, \"apoio\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Pressão",
+            "e": "Como terceiros ajudam ou atrapalham conforme sua tendência.",
+            "f": "Na visão de Gretchen Rubin, \"pressão\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Escolha e autonomia",
         "text": "Rebels e a necessidade de liberdade para mudar.",
         "points": [
-          "Autonomia",
-          "Rebel",
-          "Controle"
+          {
+            "t": "Autonomia",
+            "e": "Rebels e a necessidade de liberdade para mudar.",
+            "f": "Na visão de Gretchen Rubin, \"autonomia\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Rebel",
+            "e": "Rebels e a necessidade de liberdade para mudar.",
+            "f": "Na visão de Gretchen Rubin, \"rebel\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          },
+          {
+            "t": "Controle",
+            "e": "Rebels e a necessidade de liberdade para mudar.",
+            "f": "Na visão de Gretchen Rubin, \"controle\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Forme seus hábitos",
         "text": "Encerra com plano prático de aplicar estratégias ao seu tipo.",
         "points": [
-          "Plano",
-          "Ajuste",
-          "Compaixão"
+          {
+            "t": "Plano",
+            "e": "Encerra com plano prático de aplicar estratégias ao seu tipo.",
+            "f": "O maior obstáculo aos bons hábitos somos nós mesmos.",
+            "real": true
+          },
+          {
+            "t": "Ajuste",
+            "e": "Encerra com plano prático de aplicar estratégias ao seu tipo.",
+            "f": "Hábitos fundamentais facilitam todos os outros.",
+            "real": true
+          },
+          {
+            "t": "Compaixão",
+            "e": "Encerra com plano prático de aplicar estratégias ao seu tipo.",
+            "f": "Na visão de Gretchen Rubin, \"compaixão\" é parte essencial da proposta de \"Melhor Que Antes\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -30272,62 +30467,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Poupe decisões",
-        "text": "Automatize escolhas triviais (roupa, refeições) para guardar disciplina."
+        "text": "Automatize escolhas triviais (roupa, refeições) para guardar disciplina.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Poupe decisões\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Automatize escolhas triviais (roupa, refeições) para guardar disciplina — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Poupe decisões\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Trate como músculo",
-        "text": "Treine autocontrole em pequenas doses para fortalecer a reserva."
+        "text": "Treine autocontrole em pequenas doses para fortalecer a reserva.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Trate como músculo\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Treine autocontrole em pequenas doses para fortalecer a reserva — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trate como músculo\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Coma e durma",
-        "text": "Glicose e sono estão na base da capacidade de resistir."
+        "text": "Glicose e sono estão na base da capacidade de resistir.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Coma e durma\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Glicose e sono estão na base da capacidade de resistir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Coma e durma\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Use comprometimento",
-        "text": "Decida de antemão e crie barreiras que impedem o recuo."
+        "text": "Decida de antemão e crie barreiras que impedem o recuo.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Use comprometimento\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Decida de antemão e crie barreiras que impedem o recuo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use comprometimento\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Remova tentações",
-        "text": "Tire o estímulo do ambiente; é mais fácil que resistir."
+        "text": "Tire o estímulo do ambiente; é mais fácil que resistir.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Remova tentações\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Tire o estímulo do ambiente; é mais fácil que resistir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Remova tentações\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Foque em uma meta",
-        "text": "Mudanças demais ao mesmo tempo drenam o mesmo recurso."
+        "text": "Mudanças demais ao mesmo tempo drenam o mesmo recurso.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Foque em uma meta\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Mudanças demais ao mesmo tempo drenam o mesmo recurso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque em uma meta\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Monitore",
-        "text": "Registrar o comportamento aumenta a chance de controle."
+        "text": "Registrar o comportamento aumenta a chance de controle.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Monitore\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Registrar o comportamento aumenta a chance de controle — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Monitore\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Automatize hábitos",
-        "text": "Quando vira automático, deixa de custar força de vontade."
+        "text": "Quando vira automático, deixa de custar força de vontade.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Automatize hábitos\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Quando vira automático, deixa de custar força de vontade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Automatize hábitos\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Evite a noite fraca",
-        "text": "Agende decisões difíceis para quando a reserva está cheia."
+        "text": "Agende decisões difíceis para quando a reserva está cheia.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Evite a noite fraca\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Agende decisões difíceis para quando a reserva está cheia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite a noite fraca\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Planeje o ambiente",
-        "text": "Desenhe escolhas para que o certo seja o caminho fácil."
+        "text": "Desenhe escolhas para que o certo seja o caminho fácil.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Planeje o ambiente\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Desenhe escolhas para que o certo seja o caminho fácil — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje o ambiente\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Recarregue",
-        "text": "Pausas e refeições recuperam o recurso drenado."
+        "text": "Pausas e refeições recuperam o recurso drenado.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Recarregue\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: Pausas e refeições recuperam o recurso drenado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Recarregue\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Treine a longo prazo",
-        "text": "A capacidade cresce com prática consistente, não com heroísmo."
+        "text": "A capacidade cresce com prática consistente, não com heroísmo.",
+        "explicacoes": [
+          "Em \"Força de Vontade\", Roy F. Baumeister trata \"Treine a longo prazo\" como peça-chave para a força de vontade como músculo que se esgota e treina.",
+          "Na prática: A capacidade cresce com prática consistente, não com heroísmo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine a longo prazo\" aplica a força de vontade como músculo que se esgota e treina de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -30349,81 +30604,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A força de vontade como músculo",
         "text": "Baumeister apresenta a metáfora e a evidência da depleção do ego.",
         "points": [
-          "Depleção",
-          "Recurso finito",
-          "Músculo"
+          {
+            "t": "Depleção",
+            "e": "Baumeister apresenta a metáfora e a evidência da depleção do ego.",
+            "f": "A força de vontade é como um músculo: cansa com o uso, mas fortalece com o treino.",
+            "real": true
+          },
+          {
+            "t": "Recurso finito",
+            "e": "Baumeister apresenta a metáfora e a evidência da depleção do ego.",
+            "f": "O melhor uso da força de vontade é não precisar dela.",
+            "real": true
+          },
+          {
+            "t": "Músculo",
+            "e": "Baumeister apresenta a metáfora e a evidência da depleção do ego.",
+            "f": "Na visão de Roy F. Baumeister, \"músculo\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O que esgota a disciplina",
         "text": "Decisões, controle emocional e tentação consomem o recurso.",
         "points": [
-          "Decisões",
-          "Emoção",
-          "Tentação"
+          {
+            "t": "Decisões",
+            "e": "Decisões, controle emocional e tentação consomem o recurso.",
+            "f": "Cada decisão drena um pouco da sua disciplina.",
+            "real": true
+          },
+          {
+            "t": "Emoção",
+            "e": "Decisões, controle emocional e tentação consomem o recurso.",
+            "f": "Na visão de Roy F. Baumeister, \"emoção\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Tentação",
+            "e": "Decisões, controle emocional e tentação consomem o recurso.",
+            "f": "Quem decide demais no fim do dia cede à tentação.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Glucose e mente",
         "text": "Mostra como o corpo e a glicose afetam o autocontrole.",
         "points": [
-          "Glicose",
-          "Corpo",
-          "Cérebro"
+          {
+            "t": "Glicose",
+            "e": "Mostra como o corpo e a glicose afetam o autocontrole.",
+            "f": "Na visão de Roy F. Baumeister, \"glicose\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Corpo",
+            "e": "Mostra como o corpo e a glicose afetam o autocontrole.",
+            "f": "Na visão de Roy F. Baumeister, \"corpo\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Cérebro",
+            "e": "Mostra como o corpo e a glicose afetam o autocontrole.",
+            "f": "Na visão de Roy F. Baumeister, \"cérebro\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A ilusão do \"basta querer\"",
         "text": "Desmistifica a ideia de vontade infinita e castiga autojulgamento.",
         "points": [
-          "Mito",
-          "Autoimagem",
-          "Realidade"
+          {
+            "t": "Mito",
+            "e": "Desmistifica a ideia de vontade infinita e castiga autojulgamento.",
+            "f": "Na visão de Roy F. Baumeister, \"mito\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Autoimagem",
+            "e": "Desmistifica a ideia de vontade infinita e castiga autojulgamento.",
+            "f": "Na visão de Roy F. Baumeister, \"autoimagem\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Realidade",
+            "e": "Desmistifica a ideia de vontade infinita e castiga autojulgamento.",
+            "f": "Na visão de Roy F. Baumeister, \"realidade\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Comprometimento prévio",
         "text": "Estratégias para decidir antes e evitar uso do recurso.",
         "points": [
-          "Barreiras",
-          "Contratos",
-          "Antecipação"
+          {
+            "t": "Barreiras",
+            "e": "Estratégias para decidir antes e evitar uso do recurso.",
+            "f": "Na visão de Roy F. Baumeister, \"barreiras\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Contratos",
+            "e": "Estratégias para decidir antes e evitar uso do recurso.",
+            "f": "Na visão de Roy F. Baumeister, \"contratos\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Antecipação",
+            "e": "Estratégias para decidir antes e evitar uso do recurso.",
+            "f": "Na visão de Roy F. Baumeister, \"antecipação\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Ambiente e tentação",
         "text": "Como desenhar o contexto para poupar disciplina.",
         "points": [
-          "Remover",
-          "Facilitar",
-          "Design"
+          {
+            "t": "Remover",
+            "e": "Como desenhar o contexto para poupar disciplina.",
+            "f": "Quem decide demais no fim do dia cede à tentação.",
+            "real": true
+          },
+          {
+            "t": "Facilitar",
+            "e": "Como desenhar o contexto para poupar disciplina.",
+            "f": "Na visão de Roy F. Baumeister, \"facilitar\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Design",
+            "e": "Como desenhar o contexto para poupar disciplina.",
+            "f": "Na visão de Roy F. Baumeister, \"design\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Treinando a capacidade",
         "text": "Exercícios pequenos que aumentam a reserva geral.",
         "points": [
-          "Treino",
-          "Hábito",
-          "Progresso"
+          {
+            "t": "Treino",
+            "e": "Exercícios pequenos que aumentam a reserva geral.",
+            "f": "A força de vontade é como um músculo: cansa com o uso, mas fortalece com o treino.",
+            "real": true
+          },
+          {
+            "t": "Hábito",
+            "e": "Exercícios pequenos que aumentam a reserva geral.",
+            "f": "Na visão de Roy F. Baumeister, \"hábito\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Progresso",
+            "e": "Exercícios pequenos que aumentam a reserva geral.",
+            "f": "Na visão de Roy F. Baumeister, \"progresso\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Aplicações práticas",
         "text": "Estudo, dieta, trabalho e vícios sob a lente da vontade.",
         "points": [
-          "Dieta",
-          "Trabalho",
-          "Vícios"
+          {
+            "t": "Dieta",
+            "e": "Estudo, dieta, trabalho e vícios sob a lente da vontade.",
+            "f": "Na visão de Roy F. Baumeister, \"dieta\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Trabalho",
+            "e": "Estudo, dieta, trabalho e vícios sob a lente da vontade.",
+            "f": "Na visão de Roy F. Baumeister, \"trabalho\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          },
+          {
+            "t": "Vícios",
+            "e": "Estudo, dieta, trabalho e vícios sob a lente da vontade.",
+            "f": "Na visão de Roy F. Baumeister, \"vícios\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O sistema sobre a força",
         "text": "Encerra defendendo rotinas que reduzem o uso de vontade.",
         "points": [
-          "Sistemas",
-          "Hábitos",
-          "Liberdade"
+          {
+            "t": "Sistemas",
+            "e": "Encerra defendendo rotinas que reduzem o uso de vontade.",
+            "f": "A força de vontade é como um músculo: cansa com o uso, mas fortalece com o treino.",
+            "real": true
+          },
+          {
+            "t": "Hábitos",
+            "e": "Encerra defendendo rotinas que reduzem o uso de vontade.",
+            "f": "O melhor uso da força de vontade é não precisar dela.",
+            "real": true
+          },
+          {
+            "t": "Liberdade",
+            "e": "Encerra defendendo rotinas que reduzem o uso de vontade.",
+            "f": "Na visão de Roy F. Baumeister, \"liberdade\" é parte essencial da proposta de \"Força de Vontade\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -30587,62 +30977,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Dirija o Rider",
-        "text": "Dê direção clara e específica; evite metas vagas que paralisam."
+        "text": "Dê direção clara e específica; evite metas vagas que paralisam.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Dirija o Rider\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Dê direção clara e específica; evite metas vagas que paralisam — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dirija o Rider\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Motive o Elephant",
-        "text": "Encontre o que emociona; a energia vem do sentir, não só do saber."
+        "text": "Encontre o que emociona; a energia vem do sentir, não só do saber.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Motive o Elephant\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Encontre o que emociona; a energia vem do sentir, não só do saber — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Motive o Elephant\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Molde o Path",
-        "text": "Mude o ambiente para que o certo seja o caminho fácil."
+        "text": "Mude o ambiente para que o certo seja o caminho fácil.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Molde o Path\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Mude o ambiente para que o certo seja o caminho fácil — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Molde o Path\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Achate as escolhas",
-        "text": "Reduza opções para decidir melhor; menos é mais aqui."
+        "text": "Reduza opções para decidir melhor; menos é mais aqui.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Achate as escolhas\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Reduza opções para decidir melhor; menos é mais aqui — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Achate as escolhas\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Busque pontos brilhantes",
-        "text": "Copie o que já funciona em algum contexto similar."
+        "text": "Copie o que já funciona em algum contexto similar.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Busque pontos brilhantes\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Copie o que já funciona em algum contexto similar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque pontos brilhantes\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Construa hábitos",
-        "text": "Automatize a mudança para que ela não dependa de esforço."
+        "text": "Automatize a mudança para que ela não dependa de esforço.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Construa hábitos\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Automatize a mudança para que ela não dependa de esforço — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Construa hábitos\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Use a identidade",
-        "text": "Ancore a mudança em \"eu sou\" para sustentar o elefante."
+        "text": "Ancore a mudança em \"eu sou\" para sustentar o elefante.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Use a identidade\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Ancore a mudança em \"eu sou\" para sustentar o elefante — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a identidade\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Celebre pequenas vitórias",
-        "text": "Sucessos pequenos mantêm a energia do elefante."
+        "text": "Sucessos pequenos mantêm a energia do elefante.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Celebre pequenas vitórias\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Sucessos pequenos mantêm a energia do elefante — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Celebre pequenas vitórias\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Tire atrito do caminho",
-        "text": "Remova barreiras que tornam o novo comportamento difícil."
+        "text": "Remova barreiras que tornam o novo comportamento difícil.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Tire atrito do caminho\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Remova barreiras que tornam o novo comportamento difícil — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Tire atrito do caminho\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Envolva a cultura",
-        "text": "Mudança coletiva precisa de norma e apoio do grupo."
+        "text": "Mudança coletiva precisa de norma e apoio do grupo.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Envolva a cultura\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Mudança coletiva precisa de norma e apoio do grupo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Envolva a cultura\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Comece agindo",
-        "text": "Ação gera motivação; não espere o animo perfeito."
+        "text": "Ação gera motivação; não espere o animo perfeito.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Comece agindo\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Ação gera motivação; não espere o animo perfeito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece agindo\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Meça o path",
-        "text": "Acompanhe se o ambiente está facilitando ou bloqueando."
+        "text": "Acompanhe se o ambiente está facilitando ou bloqueando.",
+        "explicacoes": [
+          "Em \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\", Chip & Dan Heath trata \"Meça o path\" como peça-chave para fazer ideias pegar e mudanças durareiras.",
+          "Na prática: Acompanhe se o ambiente está facilitando ou bloqueando — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça o path\" aplica fazer ideias pegar e mudanças durareiras de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -30664,81 +31114,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Por que a mudança é difícil",
         "text": "Os Heath explicam o conflito entre razão e emoção na mudança.",
         "points": [
-          "Rider",
-          "Elephant",
-          "Path"
+          {
+            "t": "Rider",
+            "e": "Os Heath explicam o conflito entre razão e emoção na mudança.",
+            "f": "A mudança é difícil porque o elefante e o rider divergem.",
+            "real": true
+          },
+          {
+            "t": "Elephant",
+            "e": "Os Heath explicam o conflito entre razão e emoção na mudança.",
+            "f": "Para mudar as coisas, você precisa dirigir o rider, motivar o elephant e moldar o path.",
+            "real": true
+          },
+          {
+            "t": "Path",
+            "e": "Os Heath explicam o conflito entre razão e emoção na mudança.",
+            "f": "Na visão de Chip & Dan Heath, \"path\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Dirija o Rider",
         "text": "Como dar direção clara e evitar a paralisia analítica.",
         "points": [
-          "Clareza",
-          "Direção",
-          "Foco"
+          {
+            "t": "Clareza",
+            "e": "Como dar direção clara e evitar a paralisia analítica.",
+            "f": "Para mudar as coisas, você precisa dirigir o rider, motivar o elephant e moldar o path.",
+            "real": true
+          },
+          {
+            "t": "Direção",
+            "e": "Como dar direção clara e evitar a paralisia analítica.",
+            "f": "A mudança é difícil porque o elefante e o rider divergem.",
+            "real": true
+          },
+          {
+            "t": "Foco",
+            "e": "Como dar direção clara e evitar a paralisia analítica.",
+            "f": "Na visão de Chip & Dan Heath, \"foco\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Motive o Elephant",
         "text": "A emoção como fonte de energia para sair do lugar.",
         "points": [
-          "Emoção",
-          "Sentir",
-          "Energia"
+          {
+            "t": "Emoção",
+            "e": "A emoção como fonte de energia para sair do lugar.",
+            "f": "Para mudar as coisas, você precisa dirigir o rider, motivar o elephant e moldar o path.",
+            "real": true
+          },
+          {
+            "t": "Sentir",
+            "e": "A emoção como fonte de energia para sair do lugar.",
+            "f": "Na visão de Chip & Dan Heath, \"sentir\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Energia",
+            "e": "A emoção como fonte de energia para sair do lugar.",
+            "f": "Na visão de Chip & Dan Heath, \"energia\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Molde o Path",
         "text": "O ambiente como fator decisivo de comportamento.",
         "points": [
-          "Ambiente",
-          "Atrito",
-          "Facilitar"
+          {
+            "t": "Ambiente",
+            "e": "O ambiente como fator decisivo de comportamento.",
+            "f": "Para mudar as coisas, você precisa dirigir o rider, motivar o elephant e moldar o path.",
+            "real": true
+          },
+          {
+            "t": "Atrito",
+            "e": "O ambiente como fator decisivo de comportamento.",
+            "f": "Na visão de Chip & Dan Heath, \"atrito\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Facilitar",
+            "e": "O ambiente como fator decisivo de comportamento.",
+            "f": "Na visão de Chip & Dan Heath, \"facilitar\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Achatando e ampliando",
         "text": "Reduzir opções e aumentar o leque de perspectivas.",
         "points": [
-          "Opções",
-          "Perspectiva",
-          "Decisão"
+          {
+            "t": "Opções",
+            "e": "Reduzir opções e aumentar o leque de perspectivas.",
+            "f": "Muitas opções paralisam; achete a escolha.",
+            "real": true
+          },
+          {
+            "t": "Perspectiva",
+            "e": "Reduzir opções e aumentar o leque de perspectivas.",
+            "f": "Na visão de Chip & Dan Heath, \"perspectiva\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Decisão",
+            "e": "Reduzir opções e aumentar o leque de perspectivas.",
+            "f": "Na visão de Chip & Dan Heath, \"decisão\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Pontos brilhantes",
         "text": "Copiar o que já funciona como atalho para a mudança.",
         "points": [
-          "Copiar",
-          "Evidência",
-          "Rapidez"
+          {
+            "t": "Copiar",
+            "e": "Copiar o que já funciona como atalho para a mudança.",
+            "f": "Procure os pontos brilhantes — o que já funciona em algum lugar.",
+            "real": true
+          },
+          {
+            "t": "Evidência",
+            "e": "Copiar o que já funciona como atalho para a mudança.",
+            "f": "Na visão de Chip & Dan Heath, \"evidência\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Rapidez",
+            "e": "Copiar o que já funciona como atalho para a mudança.",
+            "f": "Na visão de Chip & Dan Heath, \"rapidez\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Construindo hábitos",
         "text": "Como automatizar o novo comportamento no dia a dia.",
         "points": [
-          "Hábito",
-          "Gatilho",
-          "Rotina"
+          {
+            "t": "Hábito",
+            "e": "Como automatizar o novo comportamento no dia a dia.",
+            "f": "Na visão de Chip & Dan Heath, \"hábito\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Gatilho",
+            "e": "Como automatizar o novo comportamento no dia a dia.",
+            "f": "Na visão de Chip & Dan Heath, \"gatilho\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Rotina",
+            "e": "Como automatizar o novo comportamento no dia a dia.",
+            "f": "Na visão de Chip & Dan Heath, \"rotina\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Identidade e cultura",
         "text": "Sustentar a mudança pela identidade e pelo grupo.",
         "points": [
-          "Eu sou",
-          "Norma",
-          "Grupo"
+          {
+            "t": "Eu sou",
+            "e": "Sustentar a mudança pela identidade e pelo grupo.",
+            "f": "Na visão de Chip & Dan Heath, \"eu sou\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Norma",
+            "e": "Sustentar a mudança pela identidade e pelo grupo.",
+            "f": "Na visão de Chip & Dan Heath, \"norma\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Grupo",
+            "e": "Sustentar a mudança pela identidade e pelo grupo.",
+            "f": "Na visão de Chip & Dan Heath, \"grupo\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Juntando as peças",
         "text": "Integrar as três frentes em um plano de mudança real.",
         "points": [
-          "Plano",
-          "Integração",
-          "Ação"
+          {
+            "t": "Plano",
+            "e": "Integrar as três frentes em um plano de mudança real.",
+            "f": "Na visão de Chip & Dan Heath, \"plano\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Integração",
+            "e": "Integrar as três frentes em um plano de mudança real.",
+            "f": "Na visão de Chip & Dan Heath, \"integração\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          },
+          {
+            "t": "Ação",
+            "e": "Integrar as três frentes em um plano de mudança real.",
+            "f": "Na visão de Chip & Dan Heath, \"ação\" é parte essencial da proposta de \"Decisivo: Como Mudar as Coisas Quando a Mudança é Difícil\".",
+            "real": false
+          }
         ]
       }
     ]
