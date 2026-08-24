@@ -18412,5 +18412,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Fica."
       }
     ]
+  },
+  {
+    "id": "hagstrom",
+    "slug": "o-metodo-buffett",
+    "title": "The Warren Buffett Way",
+    "titlePt": "O Método Buffett: A Estratégia de Investimento do Maior Investidor do Mundo",
+    "author": "Robert G. Hagstrom",
+    "year": "1994",
+    "editionYear": "2013",
+    "publisher": "Wiley / Campus",
+    "pages": "320",
+    "genre": "Finanças / Investimentos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/hagstrom-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Negócio antes de ação",
+        "text": "Entender empresa primeira.",
+        "reflection": "Você compra sem saber?"
+      },
+      {
+        "type": "myth",
+        "title": "Diversificar muito",
+        "text": "Poucas boas valem.",
+        "reflection": "Você espalha demais?"
+      },
+      {
+        "type": "truth",
+        "title": "Economia real",
+        "text": "Vantagem competitiva conta.",
+        "reflection": "Você vê o fosso?"
+      },
+      {
+        "type": "myth",
+        "title": "Prever curto",
+        "text": "Décadas de retorno.",
+        "reflection": "Você olha trimestre?"
+      },
+      {
+        "type": "truth",
+        "title": "Margem segurança",
+        "text": "Preço abaixo do valor.",
+        "reflection": "Você paga caro?"
+      },
+      {
+        "type": "myth",
+        "title": "Seguir guru",
+        "text": "Princípio próprio manda.",
+        "reflection": "Você copia sem entender?"
+      }
+    ],
+    "summary": "Robert Hagstrom destrincha a estratégia de Buffett: comprar empresas de qualidade com margem de segurança e segurar por décadas.",
+    "color": "#2980b9",
+    "file": "livro.html#o-metodo-buffett",
+    "citacoes": [
+      {
+        "texto": "Compre qualidade com margem de segurança e segure.",
+        "autor": "Robert Hagstrom",
+        "obra": "The Warren Buffett Way"
+      },
+      {
+        "texto": "O tempo no mercado é o seu aliado.",
+        "autor": "Robert Hagstrom",
+        "obra": "The Warren Buffett Way"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Guia acessível da filosofia de Buffett.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Qualidade",
+        "text": "Fosso econômico.",
+        "explicacoes": [
+          "Protege lucro.",
+          "Dura.",
+          "Compra bem."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Margem",
+        "text": "Preço abaixo do valor.",
+        "explicacoes": [
+          "Protege queda.",
+          "Dorme.",
+          "Real colhe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Segure",
+        "text": "Décadas de retorno.",
+        "explicacoes": [
+          "Composto age.",
+          "Emoção fora.",
+          "Longo paga."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Qualidade",
+        "texto": "Fosso."
+      },
+      {
+        "titulo": "Margem",
+        "texto": "Segurança."
+      },
+      {
+        "titulo": "Segurar",
+        "texto": "Décadas."
+      }
+    ]
+  },
+  {
+    "id": "greenblatt",
+    "slug": "o-pequeno-livro-que-ainda-vence-o-mercado",
+    "title": "The Little Book That Still Beats the Market",
+    "titlePt": "O Pequeno Livro que Ainda Vence o Mercado",
+    "author": "Joel Greenblatt",
+    "year": "2005",
+    "editionYear": "2010",
+    "publisher": "Wiley / Pearson",
+    "pages": "176",
+    "genre": "Finanças / Investimentos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/greenblatt-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Fórmula simples",
+        "text": "Qualidade e preço barato.",
+        "reflection": "Você complica?"
+      },
+      {
+        "type": "myth",
+        "title": "Precisa de expert",
+        "text": "Matemática básica vence.",
+        "reflection": "Você acha que precisa de guru?"
+      },
+      {
+        "type": "truth",
+        "title": "Rentabilidade alta",
+        "text": "Retorno sobre capital importa.",
+        "reflection": "Você mede retorno?"
+      },
+      {
+        "type": "myth",
+        "title": "Escolher ação",
+        "text": "Sistema decide.",
+        "reflection": "Você decide no feeling?"
+      },
+      {
+        "type": "truth",
+        "title": "Rebalancear ano",
+        "text": "Roda a fórmula.",
+        "reflection": "Você revisa?"
+      },
+      {
+        "type": "myth",
+        "title": "Mercado está certo",
+        "text": "Preço erra.",
+        "reflection": "Você segue preço?"
+      }
+    ],
+    "summary": "Joel Greenblatt ensina a 'fórmula mágica' de investimento: comprar empresas boas e baratas, ranqueadas por retorno sobre capital e rendimento sobre empresa.",
+    "color": "#27ae60",
+    "file": "livro.html#o-pequeno-livro-que-ainda-vence-o-mercado",
+    "citacoes": [
+      {
+        "texto": "Compre boas empresas a preços baratos.",
+        "autor": "Joel Greenblatt",
+        "obra": "The Little Book That Still Beats the Market"
+      },
+      {
+        "texto": "Uma fórmula simples bate o mercado no longo prazo.",
+        "autor": "Joel Greenblatt",
+        "obra": "The Little Book That Still Beats the Market"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Investimento para leigos com lógica.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Fórmula",
+        "text": "Qualidade + barato.",
+        "explicacoes": [
+          "Ranking claro.",
+          "Sistema decide.",
+          "Bate mercado."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Retorno capital",
+        "text": "ROIC alto busca.",
+        "explicacoes": [
+          "Qualidade mede.",
+          "Lucro forte.",
+          "Composto sobe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Rode anual",
+        "text": "Reaplica todo ano.",
+        "explicacoes": [
+          "Disciplina.",
+          "Rebalanceia.",
+          "Longo dura."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Fórmula",
+        "texto": "Simples."
+      },
+      {
+        "titulo": "ROIC",
+        "texto": "Qualidade."
+      },
+      {
+        "titulo": "Rodar",
+        "texto": "Ano."
+      }
+    ]
+  },
+  {
+    "id": "schwager",
+    "slug": "feiticeiros-do-mercado",
+    "title": "Market Wizards",
+    "titlePt": "Feiticeiros do Mercado: Entrevistas com os Maiores Traders de Wall Street",
+    "author": "Jack D. Schwager",
+    "year": "1989",
+    "editionYear": "2012",
+    "publisher": "Wiley / Campus",
+    "pages": "464",
+    "genre": "Finanças / Trading",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/schwager-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Método próprio",
+        "text": "Cada trader tem sistema.",
+        "reflection": "Você tem método?"
+      },
+      {
+        "type": "myth",
+        "title": "Dica secreta",
+        "text": "Processo vence segredo.",
+        "reflection": "Você busca fórmula mágica?"
+      },
+      {
+        "type": "truth",
+        "title": "Gestão risco",
+        "text": "Sobreviver primeiro.",
+        "reflection": "Você protege capital?"
+      },
+      {
+        "type": "myth",
+        "title": "Acertar sempre",
+        "text": "Certeza parcial basta.",
+        "reflection": "Você quer 100%?"
+      },
+      {
+        "type": "truth",
+        "title": "Disciplina reina",
+        "text": "Plano seguido vence.",
+        "reflection": "Você muda o plano?"
+      },
+      {
+        "type": "myth",
+        "title": "Personalidade única",
+        "text": "Estilos variam.",
+        "reflection": "Você copia estilo?"
+      }
+    ],
+    "summary": "Jack Schwager entrevista os maiores traders e conclui que não há uma fórmula única, mas gestão de risco e disciplina são comuns a todos os vencedores.",
+    "color": "#8e44ad",
+    "file": "livro.html#feiticeiros-do-mercado",
+    "citacoes": [
+      {
+        "texto": "A gestão de risco separa os vencedores.",
+        "autor": "Jack Schwager",
+        "obra": "Market Wizards"
+      },
+      {
+        "texto": "Cada trader vence com seu próprio método.",
+        "autor": "Jack Schwager",
+        "obra": "Market Wizards"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Clássico de entrevistas de traders.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Risco",
+        "text": "Proteja capital.",
+        "explicacoes": [
+          "Sobrevive.",
+          "Dorme.",
+          "Longo dura."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Método",
+        "text": "Sistema seu.",
+        "explicacoes": [
+          "Clareza.",
+          "Repete.",
+          "Confiança."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Disciplina",
+        "text": "Siga o plano.",
+        "explicacoes": [
+          "Emoção fora.",
+          "Consistência.",
+          "Resultado vem."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Risco",
+        "texto": "Protege."
+      },
+      {
+        "titulo": "Método",
+        "texto": "Seu."
+      },
+      {
+        "titulo": "Disciplina",
+        "texto": "Segue."
+      }
+    ]
+  },
+  {
+    "id": "richards",
+    "slug": "a-lacuna-do-comportamento",
+    "title": "The Behavior Gap",
+    "titlePt": "A Lacuna do Comportamento: Simples Formas de Parar de Fazer Besteira com Dinheiro",
+    "author": "Carl Richards",
+    "year": "2012",
+    "editionYear": "2013",
+    "publisher": "Portfolio / Sextante",
+    "pages": "208",
+    "genre": "Finanças / Comportamento",
+    "language": "Inglês",
+    "copiesSold": "Mais de 300 mil",
+    "cover": "img/richards-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Comportamento custa",
+        "text": "Erro emocional derruba.",
+        "reflection": "Você age no medo?"
+      },
+      {
+        "type": "myth",
+        "title": "Produto salva",
+        "text": "Conduta pesa mais.",
+        "reflection": "Você culpa produto?"
+      },
+      {
+        "type": "truth",
+        "title": "Simples vence",
+        "text": "Plano claro basta.",
+        "reflection": "Você complica?"
+      },
+      {
+        "type": "myth",
+        "title": "Prever necessário",
+        "text": "Plano não prevê.",
+        "reflection": "Você tenta prever?"
+      },
+      {
+        "type": "truth",
+        "title": "Não faça besteira",
+        "text": "Evitar erro já ajuda.",
+        "reflection": "Você se sabota?"
+      },
+      {
+        "type": "myth",
+        "title": "Especialista sabe",
+        "text": "Você decide sua vida.",
+        "reflection": "Você terceiriza tudo?"
+      }
+    ],
+    "summary": "Carl Richards mostra que a maior perda financeira vem do próprio comportamento (a 'lacuna'), e ensina simplificar e não sabotar decisões.",
+    "color": "#d35400",
+    "file": "livro.html#a-lacuna-do-comportamento",
+    "citacoes": [
+      {
+        "texto": "A lacuna é o que separamos entre o que sabemos e o que fazemos.",
+        "autor": "Carl Richards",
+        "obra": "The Behavior Gap"
+      },
+      {
+        "texto": "Não faça besteira é a maior dica.",
+        "autor": "Carl Richards",
+        "obra": "The Behavior Gap"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Esboços simples de finanças.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Simples",
+        "text": "Plano que entende.",
+        "explicacoes": [
+          "Executa.",
+          "Dura.",
+          "Clareza."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Evite erro",
+        "text": "Não se sabote.",
+        "explicacoes": [
+          "Emoção fora.",
+          "Curto prazo sai.",
+          "Longo paga."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Decida você",
+        "text": "Você manda.",
+        "explicacoes": [
+          "Terceiriza bem.",
+          "Responsável.",
+          "Vida sua."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Lacuna",
+        "texto": "Comportamento."
+      },
+      {
+        "titulo": "Simples",
+        "texto": "Plano."
+      },
+      {
+        "titulo": "Você",
+        "texto": "Decide."
+      }
+    ]
+  },
+  {
+    "id": "sethi",
+    "slug": "eu-te-ensino-a-ficar-rico",
+    "title": "I Will Teach You To Be Rich",
+    "titlePt": "Eu te Ensino a Ficar Rico: Um Guia Definitivo de Finanças Pessoais para Jovens",
+    "author": "Ramit Sethi",
+    "year": "2009",
+    "editionYear": "2019",
+    "publisher": "Workman / Sextante",
+    "pages": "352",
+    "genre": "Finanças / Pessoais",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/sethi-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Automatize",
+        "text": "Sistema paga tudo só.",
+        "reflection": "Você faz à mão?"
+      },
+      {
+        "type": "myth",
+        "title": "Cortar tudo",
+        "text": "Gaste no que importa.",
+        "reflection": "Você corta até o lazer?"
+      },
+      {
+        "type": "truth",
+        "title": "Investe cedo",
+        "text": "Automático e constante.",
+        "reflection": "Você adia investir?"
+      },
+      {
+        "type": "myth",
+        "title": "Economizar café",
+        "text": "Grandes alavancas pesam.",
+        "reflection": "Você foca na mixaria?"
+      },
+      {
+        "type": "truth",
+        "title": "Negocie",
+        "text": "Peça aumento e taxas.",
+        "reflection": "Você negocia?"
+      },
+      {
+        "type": "myth",
+        "title": "Orçar sofre",
+        "text": "Sistema tira esforço.",
+        "reflection": "Você sofre no orçamento?"
+      }
+    ],
+    "summary": "Ramit Sethi ensina finanças práticas para jovens: automatizar contas, investir cedo e gastar com consciência no que traz felicidade.",
+    "color": "#16a085",
+    "file": "livro.html#eu-te-ensino-a-ficar-rico",
+    "citacoes": [
+      {
+        "texto": "Automatize suas finanças e esqueça.",
+        "autor": "Ramit Sethi",
+        "obra": "I Will Teach You To Be Rich"
+      },
+      {
+        "texto": "Gaste sem culpa no que importa.",
+        "autor": "Ramit Sethi",
+        "obra": "I Will Teach You To Be Rich"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Finanças práticas para iniciantes.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Automatize",
+        "text": "Contas e investem só.",
+        "explicacoes": [
+          "Esquece.",
+          "Constante.",
+          "Cresce."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Invista cedo",
+        "text": "Mesmo pouco.",
+        "explicacoes": [
+          "Tempo ajuda.",
+          "Composto.",
+          "Real colhe."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Gaste bem",
+        "text": "No que importa.",
+        "explicacoes": [
+          "Sem culpa.",
+          "Feliz.",
+          "Sustenta."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Automático",
+        "texto": "Esquece."
+      },
+      {
+        "titulo": "Cedo",
+        "texto": "Invista."
+      },
+      {
+        "titulo": "Gaste",
+        "texto": "Bem."
+      }
+    ]
+  },
+  {
+    "id": "lowenstein",
+    "slug": "quando-genio-falhou",
+    "title": "When Genius Failed",
+    "titlePt": "Quando Gênio Falhou: A Ascensão e Queda do Long-Term Capital Management",
+    "author": "Roger Lowenstein",
+    "year": "2000",
+    "editionYear": "2001",
+    "publisher": "Random House / Campus",
+    "pages": "304",
+    "genre": "Finanças / História",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/lowenstein-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Alavanca mata",
+        "text": "Dívida amplifica queda.",
+        "reflection": "Você usa alavanca?"
+      },
+      {
+        "type": "myth",
+        "title": "Gênio previne",
+        "text": "Modelo falha no real.",
+        "reflection": "Você confia cego em modelo?"
+      },
+      {
+        "type": "truth",
+        "title": "Risco de cauda",
+        "text": "Evento raro destrói.",
+        "reflection": "Você ignora o improvável?"
+      },
+      {
+        "type": "myth",
+        "title": "Diversificar salva",
+        "text": "Correlação sobe na crise.",
+        "reflection": "Você acha que divergiu?"
+      },
+      {
+        "type": "truth",
+        "title": "Humildade",
+        "text": "Mercado surpreende.",
+        "reflection": "Você acha que sabe tudo?"
+      },
+      {
+        "type": "myth",
+        "title": "Certo sempre",
+        "text": "História humilha.",
+        "reflection": "Você se acha imune?"
+      }
+    ],
+    "summary": "Roger Lowenstein narra a queda do LTCM, mostrando como alavancagem e confiança excessiva em modelos destruíram um fundo de gênios.",
+    "color": "#c0392b",
+    "file": "livro.html#quando-genio-falhou",
+    "citacoes": [
+      {
+        "texto": "Alavancagem transforma erro em desastre.",
+        "autor": "Roger Lowenstein",
+        "obra": "When Genius Failed"
+      },
+      {
+        "texto": "Modelos não capturam o pânico real.",
+        "autor": "Roger Lowenstein",
+        "obra": "When Genius Failed"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Caso de estudo de risco sistêmico.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Alavanca",
+        "text": "Evite excesso.",
+        "explicacoes": [
+          "Queda amplia.",
+          "Sobrevive.",
+          "Dorme."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Cauda",
+        "text": "Prepare o improvável.",
+        "explicacoes": [
+          "Reserva.",
+          "Fosso.",
+          "Calma na crise."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Humildade",
+        "text": "Modelo não é tudo.",
+        "explicacoes": [
+          "Dúvida sã.",
+          "Margem.",
+          "Sobrevive."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Alavanca",
+        "texto": "Mata."
+      },
+      {
+        "titulo": "Cauda",
+        "texto": "Prepara."
+      },
+      {
+        "titulo": "Humildade",
+        "texto": "Modelo."
+      }
+    ]
+  },
+  {
+    "id": "lencioni",
+    "slug": "as-5-disfuncoes-de-uma-equipe",
+    "title": "The Five Dysfunctions of a Team",
+    "titlePt": "As 5 Disfunções de uma Equipe: Um Guia de Liderança",
+    "author": "Patrick Lencioni",
+    "year": "2002",
+    "editionYear": "2010",
+    "publisher": "Jossey-Bass / Sextante",
+    "pages": "240",
+    "genre": "Negócios / Liderança",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/lencioni-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Confiança base",
+        "text": "Sem confiança, nada.",
+        "reflection": "Sua equipe confia?"
+      },
+      {
+        "type": "myth",
+        "title": "Técnica basta",
+        "text": "Relação decide.",
+        "reflection": "Você só treina skill?"
+      },
+      {
+        "type": "truth",
+        "title": "Conflito sadio",
+        "text": "Discutir melhora.",
+        "reflection": "Você evita atrito?"
+      },
+      {
+        "type": "myth",
+        "title": "Harmonia fingida",
+        "text": "Conflito escondido corrói.",
+        "reflection": "Você finge paz?"
+      },
+      {
+        "type": "truth",
+        "title": "Compromisso claro",
+        "text": "Decisão alinhada.",
+        "reflection": "Todos sabem o rumo?"
+      },
+      {
+        "type": "myth",
+        "title": "Responsável sobra",
+        "text": "Cobrança mútua importa.",
+        "reflection": "Você protege underperformer?"
+      }
+    ],
+    "summary": "Patrick Lencioni descreve as 5 disfunções (ausência de confiança, medo de conflito, falta de compromisso, aversão a responsabilidade, desatenção a resultados) e como vencer.",
+    "color": "#2980b9",
+    "file": "livro.html#as-5-disfuncoes-de-uma-equipe",
+    "citacoes": [
+      {
+        "texto": "A confiança é a base de toda equipe funcional.",
+        "autor": "Patrick Lencioni",
+        "obra": "The Five Dysfunctions of a Team"
+      },
+      {
+        "texto": "O conflito saudável gera compromisso real.",
+        "autor": "Patrick Lencioni",
+        "obra": "The Five Dysfunctions of a Team"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Parábola de liderança mais lida.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Confiança",
+        "text": "Vulnerabilidade segura.",
+        "explicacoes": [
+          "Fala clara.",
+          "Erro aceito.",
+          "Time sobe."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Conflito",
+        "text": "Discutir para decidir.",
+        "explicacoes": [
+          "Melhor sai.",
+          "Compromisso real.",
+          "Ação."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Cobrança",
+        "text": "Responsabilidade mútua.",
+        "explicacoes": [
+          "Padrão sobe.",
+          "Ninguém se esconde.",
+          "Resultado vem."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Confiança",
+        "texto": "Base."
+      },
+      {
+        "titulo": "Conflito",
+        "texto": "Sadio."
+      },
+      {
+        "titulo": "Cobrança",
+        "texto": "Mútua."
+      }
+    ]
+  },
+  {
+    "id": "voss",
+    "slug": "nunca-divida-por-dois",
+    "title": "Never Split the Difference",
+    "titlePt": "Nunca Divida por Dois: Táticas de Negociação de um Negociador do FBI",
+    "author": "Chris Voss",
+    "year": "2016",
+    "editionYear": "2017",
+    "publisher": "HarperBusiness / Sextante",
+    "pages": "288",
+    "genre": "Negociação / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/voss-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Escute para influenciar",
+        "text": "Calle de espelho abre.",
+        "reflection": "Você fala mais que ouve?"
+      },
+      {
+        "type": "myth",
+        "title": "Dividir resolve",
+        "text": "Meio-termo perde.",
+        "reflection": "Você cede no meio?"
+      },
+      {
+        "type": "truth",
+        "title": "Palavra não",
+        "text": "Não é acordo de fala.",
+        "reflection": "Você teme o não?"
+      },
+      {
+        "type": "myth",
+        "title": "Pressão funciona",
+        "text": "Calma e empatia vencem.",
+        "reflection": "Você pressiona?"
+      },
+      {
+        "type": "truth",
+        "title": "Espelho",
+        "text": "Repetir palavra desarma.",
+        "reflection": "Você repete?"
+      },
+      {
+        "type": "myth",
+        "title": "Objetivo fixo",
+        "text": "Curiosidade descobre.",
+        "reflection": "Você impõe?"
+      }
+    ],
+    "summary": "Chris Voss, ex-negociador do FBI, ensina táticas de negociação baseadas em empatia, escuta ativa e técnicas como espelho e rótulo para conseguir melhores acordos.",
+    "color": "#27ae60",
+    "file": "livro.html#nunca-divida-por-dois",
+    "citacoes": [
+      {
+        "texto": "A negociação é persuasão por compreensão, não por pressão.",
+        "autor": "Chris Voss",
+        "obra": "Never Split the Difference"
+      },
+      {
+        "texto": "O não é o começo da conversa, não o fim.",
+        "autor": "Chris Voss",
+        "obra": "Never Split the Difference"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Táticas de negociação do mundo real.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Espelho",
+        "text": "Repita a última palavra.",
+        "explicacoes": [
+          "Desarma.",
+          "Fala mais.",
+          "Info vem."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Rótulo",
+        "text": "Nomeie o sentimento.",
+        "explicacoes": [
+          "Empatia.",
+          "Abre.",
+          "Confiança."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Ouça não",
+        "text": "Não é etapa.",
+        "explicacoes": [
+          "Conversa continua.",
+          "Descobre.",
+          "Acordo perto."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Espelho",
+        "texto": "Desarma."
+      },
+      {
+        "titulo": "Rótulo",
+        "texto": "Empatia."
+      },
+      {
+        "titulo": "Não",
+        "texto": "Etapa."
+      }
+    ]
   }
 ];
