@@ -45527,57 +45527,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Aceite o random walk",
-        "text": "O próximo passo do preço é imprevisível; pare de tentar adivinhar."
+        "text": "O próximo passo do preço é imprevisível; pare de tentar adivinhar.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Aceite o random walk\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: O próximo passo do preço é imprevisível; pare de tentar adivinhar — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o random walk\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Fuja da análise técnica",
-        "text": "Gráficos não entregam vantagem consistente após custos."
+        "text": "Gráficos não entregam vantagem consistente após custos.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Fuja da análise técnica\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Gráficos não entregam vantagem consistente após custos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fuja da análise técnica\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Prefira o índice",
-        "text": "Fundos indexados diversificados superam a maioria dos ativos."
+        "text": "Fundos indexados diversificados superam a maioria dos ativos.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Prefira o índice\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Fundos indexados diversificados superam a maioria dos ativos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Prefira o índice\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Reduza custos",
-        "text": "Taxas e giro são inimigos do retorno líquido."
+        "text": "Taxas e giro são inimigos do retorno líquido.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Reduza custos\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Taxas e giro são inimigos do retorno líquido — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza custos\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Não cronometre",
-        "text": "Tempo no mercado bate tentativa de acertar o momento."
+        "text": "Tempo no mercado bate tentativa de acertar o momento.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Não cronometre\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Tempo no mercado bate tentativa de acertar o momento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não cronometre\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Rebalanceie",
-        "text": "Voltar à alocação-alvo força disciplina de comprar barato."
+        "text": "Voltar à alocação-alvo força disciplina de comprar barato.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Rebalanceie\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Voltar à alocação-alvo força disciplina de comprar barato — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Rebalanceie\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Desconfie de fundos quentes",
-        "text": "Desempenho passado não garante futuro; evite perseguição."
+        "text": "Desempenho passado não garante futuro; evite perseguição.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Desconfie de fundos quentes\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Desempenho passado não garante futuro; evite perseguição — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desconfie de fundos quentes\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Diversifique amplamente",
-        "text": "Espalhar exposição reduz risco de fracasso individual."
+        "text": "Espalhar exposição reduz risco de fracasso individual.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Diversifique amplamente\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Espalhar exposição reduz risco de fracasso individual — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diversifique amplamente\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Mantenha o plano",
-        "text": "Comportamento disciplinado vence inteligência tática."
+        "text": "Comportamento disciplinado vence inteligência tática.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Mantenha o plano\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Comportamento disciplinado vence inteligência tática — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha o plano\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Cuidado com insider",
-        "text": "Dicas trazem risco legal e frequentemente chegam tarde."
+        "text": "Dicas trazem risco legal e frequentemente chegam tarde.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Cuidado com insider\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Dicas trazem risco legal e frequentemente chegam tarde — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuidado com insider\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Pense longo prazo",
-        "text": "Horizonte amplo colhe crescimento e ignora ruído."
+        "text": "Horizonte amplo colhe crescimento e ignora ruído.",
+        "explicacoes": [
+          "Em \"Um Passo à Frente de Wall Street\", Burton G. Malkiel trata \"Pense longo prazo\" como peça-chave para a caminhada aleatória e o investimento passivo.",
+          "Na prática: Horizonte amplo colhe crescimento e ignora ruído — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense longo prazo\" aplica a caminhada aleatória e o investimento passivo de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -45599,72 +45654,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O random walk",
         "text": "Malkiel introduz a ideia de preços imprevisíveis.",
         "points": [
-          "Aleatoriedade",
-          "Preço"
+          {
+            "t": "Aleatoriedade",
+            "e": "Malkiel introduz a ideia de preços imprevisíveis.",
+            "f": "Na visão de Burton G. Malkiel, \"aleatoriedade\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Preço",
+            "e": "Malkiel introduz a ideia de preços imprevisíveis.",
+            "f": "Na visão de Burton G. Malkiel, \"preço\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A falha da análise técnica",
         "text": "Por que gráficos não vencem o mercado.",
         "points": [
-          "Chartistas",
-          "Teste"
+          {
+            "t": "Chartistas",
+            "e": "Por que gráficos não vencem o mercado.",
+            "f": "A análise técnica é como a astrologia: parece funcionar até ser testada.",
+            "real": true
+          },
+          {
+            "t": "Teste",
+            "e": "Por que gráficos não vencem o mercado.",
+            "f": "Na visão de Burton G. Malkiel, \"teste\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Análise fundamental",
         "text": "Limites de usar balanços para bater o índice.",
         "points": [
-          "Fundamentos",
-          "Limites"
+          {
+            "t": "Fundamentos",
+            "e": "Limites de usar balanços para bater o índice.",
+            "f": "A análise técnica é como a astrologia: parece funcionar até ser testada.",
+            "real": true
+          },
+          {
+            "t": "Limites",
+            "e": "Limites de usar balanços para bater o índice.",
+            "f": "Na visão de Burton G. Malkiel, \"limites\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Eficiência de mercado",
         "text": "Preços refletem informação rapidamente.",
         "points": [
-          "Eficiência",
-          "Informação"
+          {
+            "t": "Eficiência",
+            "e": "Preços refletem informação rapidamente.",
+            "f": "Na visão de Burton G. Malkiel, \"eficiência\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Informação",
+            "e": "Preços refletem informação rapidamente.",
+            "f": "Na visão de Burton G. Malkiel, \"informação\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Gestores ativos",
         "text": "Por que a maioria perde líquido de custos.",
         "points": [
-          "Taxas",
-          "Comparação"
+          {
+            "t": "Taxas",
+            "e": "Por que a maioria perde líquido de custos.",
+            "f": "Depois de descontar custos, a maioria dos fundos ativos perde para o índice.",
+            "real": true
+          },
+          {
+            "t": "Comparação",
+            "e": "Por que a maioria perde líquido de custos.",
+            "f": "Na visão de Burton G. Malkiel, \"comparação\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Fundos indexados",
         "text": "A recomendação central de baixo custo.",
         "points": [
-          "Índice",
-          "Custo"
+          {
+            "t": "Índice",
+            "e": "A recomendação central de baixo custo.",
+            "f": "Depois de descontar custos, a maioria dos fundos ativos perde para o índice.",
+            "real": true
+          },
+          {
+            "t": "Custo",
+            "e": "A recomendação central de baixo custo.",
+            "f": "Na visão de Burton G. Malkiel, \"custo\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Rebalanceamento",
         "text": "Disciplina de voltar à alocação-alvo.",
         "points": [
-          "Alocação",
-          "Disciplina"
+          {
+            "t": "Alocação",
+            "e": "Disciplina de voltar à alocação-alvo.",
+            "f": "Na visão de Burton G. Malkiel, \"alocação\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina",
+            "e": "Disciplina de voltar à alocação-alvo.",
+            "f": "Na visão de Burton G. Malkiel, \"disciplina\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Comportamento",
         "text": "Por que manter o plano na volatilidade.",
         "points": [
-          "Emoção",
-          "Plano"
+          {
+            "t": "Emoção",
+            "e": "Por que manter o plano na volatilidade.",
+            "f": "Na visão de Burton G. Malkiel, \"emoção\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Plano",
+            "e": "Por que manter o plano na volatilidade.",
+            "f": "Na visão de Burton G. Malkiel, \"plano\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Aplicação prática",
         "text": "Como montar carteira de cidadão comum.",
         "points": [
-          "Carteira",
-          "Longo prazo"
+          {
+            "t": "Carteira",
+            "e": "Como montar carteira de cidadão comum.",
+            "f": "Na visão de Burton G. Malkiel, \"carteira\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          },
+          {
+            "t": "Longo prazo",
+            "e": "Como montar carteira de cidadão comum.",
+            "f": "Na visão de Burton G. Malkiel, \"longo prazo\" é parte essencial da proposta de \"Um Passo à Frente de Wall Street\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -45822,57 +45967,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Busque margem de segurança",
-        "text": "Pague bem abaixo do valor intrínseco para proteger contra erro."
+        "text": "Pague bem abaixo do valor intrínseco para proteger contra erro.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Busque margem de segurança\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Pague bem abaixo do valor intrínseco para proteger contra erro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque margem de segurança\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Defina risco como perda",
-        "text": "Risco é perda permanente de capital, não volatilidade."
+        "text": "Risco é perda permanente de capital, não volatilidade.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Defina risco como perda\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Risco é perda permanente de capital, não volatilidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina risco como perda\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Preserve o capital",
-        "text": "Evitar perda supera a busca de retorno máximo."
+        "text": "Evitar perda supera a busca de retorno máximo.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Preserve o capital\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Evitar perda supera a busca de retorno máximo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Preserve o capital\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Pense como dono",
-        "text": "Avalie o negócio por trás da cotação, não o gráfico."
+        "text": "Avalie o negócio por trás da cotação, não o gráfico.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Pense como dono\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Avalie o negócio por trás da cotação, não o gráfico — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense como dono\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Seja contrário",
-        "text": "Oportunidade mora no desprezado, não no consenso caro."
+        "text": "Oportunidade mora no desprezado, não no consenso caro.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Seja contrário\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Oportunidade mora no desprezado, não no consenso caro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja contrário\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Mantenha liquidez",
-        "text": "Ter caixa permite agir quando outros estão presos."
+        "text": "Ter caixa permite agir quando outros estão presos.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Mantenha liquidez\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Ter caixa permite agir quando outros estão presos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha liquidez\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Tenha paciência",
-        "text": "Esperar precificação errada supera operar por ansiedade."
+        "text": "Esperar precificação errada supera operar por ansiedade.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Tenha paciência\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Esperar precificação errada supera operar por ansiedade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Tenha paciência\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Cuidado com modelos",
-        "text": "VaR e quant não substituem margem real de segurança."
+        "text": "VaR e quant não substituem margem real de segurança.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Cuidado com modelos\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: VaR e quant não substituem margem real de segurança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cuidado com modelos\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Concentre com convicção",
-        "text": "Concentração exige estudo profundo; sem ele, diversifique."
+        "text": "Concentração exige estudo profundo; sem ele, diversifique.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Concentre com convicção\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Concentração exige estudo profundo; sem ele, diversifique — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Concentre com convicção\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Foque risco-retorno",
-        "text": "Sucesso é retorno ajustado ao risco, não bater índice."
+        "text": "Sucesso é retorno ajustado ao risco, não bater índice.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Foque risco-retorno\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Sucesso é retorno ajustado ao risco, não bater índice — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Foque risco-retorno\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Use erros de mercado",
-        "text": "Precificações erradas são a fonte real de vantagem."
+        "text": "Precificações erradas são a fonte real de vantagem.",
+        "explicacoes": [
+          "Em \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\", Seth A. Klarman trata \"Use erros de mercado\" como peça-chave para o investimento de valor e a margem de segurança.",
+          "Na prática: Precificações erradas são a fonte real de vantagem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use erros de mercado\" aplica o investimento de valor e a margem de segurança de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -45894,72 +46094,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O investidor em valor",
         "text": "Klarman define a filosofia de margem e preservação.",
         "points": [
-          "Valor",
-          "Margen"
+          {
+            "t": "Valor",
+            "e": "Klarman define a filosofia de margem e preservação.",
+            "f": "O investidor em valor pensa em termos de preservação de capital antes de retorno.",
+            "real": true
+          },
+          {
+            "t": "Margen",
+            "e": "Klarman define a filosofia de margem e preservação.",
+            "f": "Na visão de Seth A. Klarman, \"margen\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Risco de verdade",
         "text": "Por que risco é perda permanente, não volatilidade.",
         "points": [
-          "Perda",
-          "VaR"
+          {
+            "t": "Perda",
+            "e": "Por que risco é perda permanente, não volatilidade.",
+            "f": "Risco não é volatilidade; é a possibilidade de perda permanente de capital.",
+            "real": true
+          },
+          {
+            "t": "VaR",
+            "e": "Por que risco é perda permanente, não volatilidade.",
+            "f": "Na visão de Seth A. Klarman, \"var\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Margem de segurança",
         "text": "O princípio central e sua aplicação.",
         "points": [
-          "Valor intrínseco",
-          "Folga"
+          {
+            "t": "Valor intrínseco",
+            "e": "O princípio central e sua aplicação.",
+            "f": "A margem de segurança é a única defesa real contra incerteza e erro.",
+            "real": true
+          },
+          {
+            "t": "Folga",
+            "e": "O princípio central e sua aplicação.",
+            "f": "Compre quando há sangue na rua; o consenso raramente oferece margem.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Pensar como dono",
         "text": "Avaliar negócios, não cotações.",
         "points": [
-          "Negócio",
-          "Ticker"
+          {
+            "t": "Negócio",
+            "e": "Avaliar negócios, não cotações.",
+            "f": "Na visão de Seth A. Klarman, \"negócio\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Ticker",
+            "e": "Avaliar negócios, não cotações.",
+            "f": "Na visão de Seth A. Klarman, \"ticker\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Postura contrária",
         "text": "Oportunidade no desprezado, não no consenso.",
         "points": [
-          "Contrário",
-          "Consenso"
+          {
+            "t": "Contrário",
+            "e": "Oportunidade no desprezado, não no consenso.",
+            "f": "Na visão de Seth A. Klarman, \"contrário\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Consenso",
+            "e": "Oportunidade no desprezado, não no consenso.",
+            "f": "Compre quando há sangue na rua; o consenso raramente oferece margem.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Liquidez e paciência",
         "text": "Caixa e espera como vantagens.",
         "points": [
-          "Caixa",
-          "Espera"
+          {
+            "t": "Caixa",
+            "e": "Caixa e espera como vantagens.",
+            "f": "A paciência para esperar a precificação errada é uma vantagem competitiva.",
+            "real": true
+          },
+          {
+            "t": "Espera",
+            "e": "Caixa e espera como vantagens.",
+            "f": "Na visão de Seth A. Klarman, \"espera\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Falha de modelos",
         "text": "Limites de quant e VaR em crises.",
         "points": [
-          "Modelos",
-          "Crise"
+          {
+            "t": "Modelos",
+            "e": "Limites de quant e VaR em crises.",
+            "f": "Na visão de Seth A. Klarman, \"modelos\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Crise",
+            "e": "Limites de quant e VaR em crises.",
+            "f": "Na visão de Seth A. Klarman, \"crise\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Concentração",
         "text": "Convicção com estudo vs diversificação prudente.",
         "points": [
-          "Convicção",
-          "Diversificar"
+          {
+            "t": "Convicção",
+            "e": "Convicção com estudo vs diversificação prudente.",
+            "f": "Na visão de Seth A. Klarman, \"convicção\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Diversificar",
+            "e": "Convicção com estudo vs diversificação prudente.",
+            "f": "Na visão de Seth A. Klarman, \"diversificar\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Aplicação prática",
         "text": "Como operar com risco-retorno em mente.",
         "points": [
-          "Prática",
-          "Risco"
+          {
+            "t": "Prática",
+            "e": "Como operar com risco-retorno em mente.",
+            "f": "Na visão de Seth A. Klarman, \"prática\" é parte essencial da proposta de \"Margem de Segurança: Filosofia de Investimento em Valor de Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Risco",
+            "e": "Como operar com risco-retorno em mente.",
+            "f": "Risco não é volatilidade; é a possibilidade de perda permanente de capital.",
+            "real": true
+          }
         ]
       }
     ]
@@ -46118,62 +46408,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Invertir no que você conhece",
-        "text": "Comece pelas empresas cujos produtos você usa e entende. A familiaridade vira margem de segurança."
+        "text": "Comece pelas empresas cujos produtos você usa e entende. A familiaridade vira margem de segurança.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Invertir no que você conhece\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Comece pelas empresas cujos produtos você usa e entende. A familiaridade vira margem de segurança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Invertir no que você conhece\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "As seis categorias de ações",
-        "text": "Crescedoras lentas, gigantes estáveis, crescedoras rápidas, cíclicas, recuperações e jogadas de ativo pedem estratégias diferentes."
+        "text": "Crescedoras lentas, gigantes estáveis, crescedoras rápidas, cíclicas, recuperações e jogadas de ativo pedem estratégias diferentes.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"As seis categorias de ações\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Crescedoras lentas, gigantes estáveis, crescedoras rápidas, cíclicas, recuperações e jogadas de ativo pedem estratégias diferentes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"As seis categorias de ações\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Caçe os tenbaggers",
-        "text": "Procure empresas pequenas com potencial de multiplicar por dez o valor. Elas mudam uma carteira."
+        "text": "Procure empresas pequenas com potencial de multiplicar por dez o valor. Elas mudam uma carteira.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Caçe os tenbaggers\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Procure empresas pequenas com potencial de multiplicar por dez o valor. Elas mudam uma carteira — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Caçe os tenbaggers\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "O teste de dois minutos",
-        "text": "Se não consegue explicar a empresa em dois minutos, não a compre. Clareza precede convicção."
+        "text": "Se não consegue explicar a empresa em dois minutos, não a compre. Clareza precede convicção.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"O teste de dois minutos\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Se não consegue explicar a empresa em dois minutos, não a compre. Clareza precede convicção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"O teste de dois minutos\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Faça seu dever de casa",
-        "text": "Leia o relatório anual, demonstrações e a concorrência antes de apertar o botão de compra."
+        "text": "Leia o relatório anual, demonstrações e a concorrência antes de apertar o botão de compra.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Faça seu dever de casa\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Leia o relatório anual, demonstrações e a concorrência antes de apertar o botão de compra — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça seu dever de casa\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Ignore o barulho de curto prazo",
-        "text": "Cotações diárias são ruído; os fundamentos é que ditam o resultado de longo prazo."
+        "text": "Cotações diárias são ruído; os fundamentos é que ditam o resultado de longo prazo.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Ignore o barulho de curto prazo\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Cotações diárias são ruído; os fundamentos é que ditam o resultado de longo prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ignore o barulho de curto prazo\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Evite prever o mercado",
-        "text": "Ninguém sabe quando vem a correção. Foque na empresa, não no calendário."
+        "text": "Ninguém sabe quando vem a correção. Foque na empresa, não no calendário.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Evite prever o mercado\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Ninguém sabe quando vem a correção. Foque na empresa, não no calendário — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite prever o mercado\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Entenda o ciclo das cíclicas",
-        "text": "Com ações como siderúrgicas e varejo, compre no fundo do ciclo e realize no auge."
+        "text": "Com ações como siderúrgicas e varejo, compre no fundo do ciclo e realize no auge.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Entenda o ciclo das cíclicas\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Com ações como siderúrgicas e varejo, compre no fundo do ciclo e realize no auge — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda o ciclo das cíclicas\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Recuperações podem triplicar",
-        "text": "Empresas à beira da falência que se reerguem oferecem ganhos espetaculares — com risco alto."
+        "text": "Empresas à beira da falência que se reerguem oferecem ganhos espetaculares — com risco alto.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Recuperações podem triplicar\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Empresas à beira da falência que se reerguem oferecem ganhos espetaculares — com risco alto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Recuperações podem triplicar\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "O estoque é uma empresa",
-        "text": "Por trás de cada ticker há negócio real. Visite lojas, teste produtos, fale com clientes."
+        "text": "Por trás de cada ticker há negócio real. Visite lojas, teste produtos, fale com clientes.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"O estoque é uma empresa\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Por trás de cada ticker há negócio real. Visite lojas, teste produtos, fale com clientes — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"O estoque é uma empresa\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Use o final de semana",
-        "text": "Lynch construía planilhas simples em casa; organize suas ideias fora do horário de pregão."
+        "text": "Lynch construía planilhas simples em casa; organize suas ideias fora do horário de pregão.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Use o final de semana\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Lynch construía planilhas simples em casa; organize suas ideias fora do horário de pregão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o final de semana\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Paciência supera o trade",
-        "text": "Quem vira e mexe a carteira a cada notícia perde para quem segura bons nomes anos a fio."
+        "text": "Quem vira e mexe a carteira a cada notícia perde para quem segura bons nomes anos a fio.",
+        "explicacoes": [
+          "Em \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\", Peter Lynch trata \"Paciência supera o trade\" como peça-chave para investir no que você conhece (bolsa batida).",
+          "Na prática: Quem vira e mexe a carteira a cada notícia perde para quem segura bons nomes anos a fio — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Paciência supera o trade\" aplica investir no que você conhece (bolsa batida) de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -46195,81 +46545,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A Vantagem do Investidor Amador",
         "text": "Lynch defende que o cidadão comum enxerga tendências antes de Wall Street. A observação cotidiana é uma borda real.",
         "points": [
-          "O consumidor percebe produtos vencedores primeiro",
-          "Especialistas não têm monopólio da verdade",
-          "Bom senso supera modelos complexos"
+          {
+            "t": "O consumidor percebe produtos vencedores primeiro",
+            "e": "Lynch defende que o cidadão comum enxerga tendências antes de Wall Street. A observação cotidiana é uma borda real.",
+            "f": "Na visão de Peter Lynch, \"o consumidor percebe produtos vencedores primeiro\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Especialistas não têm monopólio da verdade",
+            "e": "Lynch defende que o cidadão comum enxerga tendências antes de Wall Street. A observação cotidiana é uma borda real.",
+            "f": "Na visão de Peter Lynch, \"especialistas não têm monopólio da verdade\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Bom senso supera modelos complexos",
+            "e": "Lynch defende que o cidadão comum enxerga tendências antes de Wall Street. A observação cotidiana é uma borda real.",
+            "f": "Na visão de Peter Lynch, \"bom senso supera modelos complexos\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — As Seis Categorias de Ações",
         "text": "Classificar o tipo de empresa muda tudo: o que vale para uma crescedora rápida destrói uma cíclica. Cada uma pede regra própria.",
         "points": [
-          "Crescedoras lentas e gigantes estáveis",
-          "Crescedoras rápidas e cíclicas",
-          "Recuperações e jogadas de ativo"
+          {
+            "t": "Crescedoras lentas e gigantes estáveis",
+            "e": "Classificar o tipo de empresa muda tudo: o que vale para uma crescedora rápida destrói uma cíclica. Cada uma pede regra própria.",
+            "f": "Na visão de Peter Lynch, \"crescedoras lentas e gigantes estáveis\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Crescedoras rápidas e cíclicas",
+            "e": "Classificar o tipo de empresa muda tudo: o que vale para uma crescedora rápida destrói uma cíclica. Cada uma pede regra própria.",
+            "f": "Na visão de Peter Lynch, \"crescedoras rápidas e cíclicas\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Recuperações e jogadas de ativo",
+            "e": "Classificar o tipo de empresa muda tudo: o que vale para uma crescedora rápida destrói uma cíclica. Cada uma pede regra própria.",
+            "f": "Na visão de Peter Lynch, \"recuperações e jogadas de ativo\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Que Aprendi na Escola de Páscoa",
         "text": "A primeira lição de Lynch foi que o mercado sobe mais do que cai. Investir cedo sempre venceu deixar o dinheiro parado.",
         "points": [
-          "O viés de alta de longo prazo",
-          "Comece cedo, mesmo com pouco",
-          "O poder dos juros compostos"
+          {
+            "t": "O viés de alta de longo prazo",
+            "e": "A primeira lição de Lynch foi que o mercado sobe mais do que cai. Investir cedo sempre venceu deixar o dinheiro parado.",
+            "f": "No longo prazo, os índices e os lucros das empresas que os compõem seguem a mesma direção.",
+            "real": true
+          },
+          {
+            "t": "Comece cedo, mesmo com pouco",
+            "e": "A primeira lição de Lynch foi que o mercado sobe mais do que cai. Investir cedo sempre venceu deixar o dinheiro parado.",
+            "f": "Na visão de Peter Lynch, \"comece cedo, mesmo com pouco\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "O poder dos juros compostos",
+            "e": "A primeira lição de Lynch foi que o mercado sobe mais do que cai. Investir cedo sempre venceu deixar o dinheiro parado.",
+            "f": "Na visão de Peter Lynch, \"o poder dos juros compostos\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O Fundo Magellan e as Lições de Campo",
         "text": "Gerir o maior fundo do mundo ensinou Lynch a privilegiar o que ele próprio conseguia entender e visitar.",
         "points": [
-          "Visitas a lojas valem relatórios",
-          "Concentrar onde se entende",
-          "Evitar modismos de escritório"
+          {
+            "t": "Visitas a lojas valem relatórios",
+            "e": "Gerir o maior fundo do mundo ensinou Lynch a privilegiar o que ele próprio conseguia entender e visitar.",
+            "f": "Na visão de Peter Lynch, \"visitas a lojas valem relatórios\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Concentrar onde se entende",
+            "e": "Gerir o maior fundo do mundo ensinou Lynch a privilegiar o que ele próprio conseguia entender e visitar.",
+            "f": "Na visão de Peter Lynch, \"concentrar onde se entende\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Evitar modismos de escritório",
+            "e": "Gerir o maior fundo do mundo ensinou Lynch a privilegiar o que ele próprio conseguia entender e visitar.",
+            "f": "Na visão de Peter Lynch, \"evitar modismos de escritório\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Os Tenbaggers",
         "text": "Ações que multiplicam por dez existem e são o segredo de carteiras vencedoras. O desafio é não vendê-las cedo demais.",
         "points": [
-          "Como identificar potencial de 10x",
-          "Por que vendemos cedo demais",
-          "O peso de poucos acertos"
+          {
+            "t": "Como identificar potencial de 10x",
+            "e": "Ações que multiplicam por dez existem e são o segredo de carteiras vencedoras. O desafio é não vendê-las cedo demais.",
+            "f": "Na visão de Peter Lynch, \"como identificar potencial de 10x\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Por que vendemos cedo demais",
+            "e": "Ações que multiplicam por dez existem e são o segredo de carteiras vencedoras. O desafio é não vendê-las cedo demais.",
+            "f": "Na visão de Peter Lynch, \"por que vendemos cedo demais\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "O peso de poucos acertos",
+            "e": "Ações que multiplicam por dez existem e são o segredo de carteiras vencedoras. O desafio é não vendê-las cedo demais.",
+            "f": "Na visão de Peter Lynch, \"o peso de poucos acertos\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O Teste de Dois Minutos",
         "text": "Se não consegue justificar a compra em dois minutos, não a faça. Clareza é filtro contra impulso.",
         "points": [
-          "A regra da explicação simples",
-          "Tese escrita antes de comprar",
-          "Evitar o ruído da multidão"
+          {
+            "t": "A regra da explicação simples",
+            "e": "Se não consegue justificar a compra em dois minutos, não a faça. Clareza é filtro contra impulso.",
+            "f": "Na visão de Peter Lynch, \"a regra da explicação simples\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Tese escrita antes de comprar",
+            "e": "Se não consegue justificar a compra em dois minutos, não a faça. Clareza é filtro contra impulso.",
+            "f": "Na visão de Peter Lynch, \"tese escrita antes de comprar\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Evitar o ruído da multidão",
+            "e": "Se não consegue justificar a compra em dois minutos, não a faça. Clareza é filtro contra impulso.",
+            "f": "Na visão de Peter Lynch, \"evitar o ruído da multidão\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Que Evitar",
         "text": "Lynch lista perigos: diversificação excessiva, modismo, seguir gurus e tentar prever o mercado.",
         "points": [
-          "Diversificar até perder o controle",
-          "A armadilha das dicas quentes",
-          "O custo de virar a carteira"
+          {
+            "t": "Diversificar até perder o controle",
+            "e": "Lynch lista perigos: diversificação excessiva, modismo, seguir gurus e tentar prever o mercado.",
+            "f": "Na visão de Peter Lynch, \"diversificar até perder o controle\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "A armadilha das dicas quentes",
+            "e": "Lynch lista perigos: diversificação excessiva, modismo, seguir gurus e tentar prever o mercado.",
+            "f": "Na visão de Peter Lynch, \"a armadilha das dicas quentes\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "O custo de virar a carteira",
+            "e": "Lynch lista perigos: diversificação excessiva, modismo, seguir gurus e tentar prever o mercado.",
+            "f": "Na visão de Peter Lynch, \"o custo de virar a carteira\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Planilhas e Final de Semana",
         "text": "Um método caseiro de acompanhar fundamentos bate muita análise cara. Organização vence ansiedade.",
         "points": [
-          "Indicadores simples que importam",
-          "Acompanhar a concorrência",
-          "Disciplina sem consultoria"
+          {
+            "t": "Indicadores simples que importam",
+            "e": "Um método caseiro de acompanhar fundamentos bate muita análise cara. Organização vence ansiedade.",
+            "f": "Na visão de Peter Lynch, \"indicadores simples que importam\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Acompanhar a concorrência",
+            "e": "Um método caseiro de acompanhar fundamentos bate muita análise cara. Organização vence ansiedade.",
+            "f": "Na visão de Peter Lynch, \"acompanhar a concorrência\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina sem consultoria",
+            "e": "Um método caseiro de acompanhar fundamentos bate muita análise cara. Organização vence ansiedade.",
+            "f": "Na visão de Peter Lynch, \"disciplina sem consultoria\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Longo Prazo e o Fim do Jogo",
         "text": "Quem segura boas empresas por anos colhe o que o curto prazo esconde. O tempo é o aliado do paciente.",
         "points": [
-          "Por que market timing falha",
-          "Os lucros comandam no fim",
-          "Investir é ser dono, não apostar"
+          {
+            "t": "Por que market timing falha",
+            "e": "Quem segura boas empresas por anos colhe o que o curto prazo esconde. O tempo é o aliado do paciente.",
+            "f": "No longo prazo, os índices e os lucros das empresas que os compõem seguem a mesma direção.",
+            "real": true
+          },
+          {
+            "t": "Os lucros comandam no fim",
+            "e": "Quem segura boas empresas por anos colhe o que o curto prazo esconde. O tempo é o aliado do paciente.",
+            "f": "Na visão de Peter Lynch, \"os lucros comandam no fim\" é parte essencial da proposta de \"Um Investidor Antes de Tudo: Como Usar o que Você Já Sabe para Ganhar no Mercado\".",
+            "real": false
+          },
+          {
+            "t": "Investir é ser dono, não apostar",
+            "e": "Quem segura boas empresas por anos colhe o que o curto prazo esconde. O tempo é o aliado do paciente.",
+            "f": "O tempo está do seu lado quando você é dono de boas empresas.",
+            "real": true
+          }
         ]
       }
     ]
