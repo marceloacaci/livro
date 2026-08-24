@@ -55945,6 +55945,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Filosofia é passiva",
         "text": "O estoicismo de Holiday é ação; refletir para agir, não fugir.",
         "reflection": "Você filosofa para agir ou para escapar?"
+      },
+      {
+        "type": "truth",
+        "title": "A adversidade é matéria-prima do progresso",
+        "text": "Holiday retoma Estoicismo: o obstáculo vira caminho quando mudamos a percepção.",
+        "reflection": "Qual bloqueio atual é a porta disfarçada?"
       }
     ],
     "summary": "Ryan Holiday, em \"O Obstáculo é o Caminho\", traduz o estoicismo clássico para a ação contemporânea. A tese é ousada e libertadora: o obstáculo não está no caminho, ele é o caminho. Dividido em três disciplinas — percepção, ação e vontade — o livro mostra como transformar bloqueios em vantagens. Na percepção, aprendemos a ver a realidade sem distorção e a reenquadrar o problema. Na ação, a disciplina de fazer o que está à mão, com persistência e criatividade. Na vontade, a aceitação do que não se pode mudar. Holiday usa exemplos de figuras como Roosevelt, Jobs e Cato para provar que quem converte adversidade em combustível vence. O gancho é que a grandeza nasce do atrito, não da facilidade. Leitura de autoafirmação estoica, é o manual perfeito para quem encara fracassos e precisa transformá-los em trampolim. Cada disciplina vem acompanhada de exercícios curtos que任何人 pode aplicar no mesmo dia em que tropeça.",
@@ -55965,27 +55971,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Não é o que acontece com você, mas como você reage que importa.",
         "autor": "Ryan Holiday",
         "obra": "O Obstáculo é o Caminho"
-      },
-      {
-        "texto": "A vontade estoica aceita o que não pode ser mudado e segue.",
-        "autor": "Ryan Holiday",
-        "obra": "O Obstáculo é o Caminho"
-      },
-      {
-        "texto": "A adversidade é o material com o qual a grandeza é construída.",
-        "autor": "Ryan Holiday",
-        "obra": "O Obstáculo é o Caminho"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O livro que me fez parar de reclamar e começar a usar o que bloqueava.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Estoicismo aplicado que funciona no dia a dia real, não só na teoria.",
-        "autor": "Crítico de Desenvolvimento",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -56002,9 +55998,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A tríade estoica",
         "text": "Percepção, ação e vontade são as três disciplinas do método.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"A tríade estoica\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: Percepção, ação e vontade são as três disciplinas do método — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"A tríade estoica\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"A tríade estoica\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Percepção, ação e vontade são as três disciplinas do método — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"A tríade estoica\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56012,9 +56008,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mude a percepção",
         "text": "Ver a realidade sem drama e reenquadrar abre a saída.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Mude a percepção\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: Ver a realidade sem drama e reenquadrar abre a saída — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mude a percepção\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Mude a percepção\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ver a realidade sem drama e reenquadrar abre a saída — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Mude a percepção\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56022,9 +56018,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja com o que tem",
         "text": "O próximo passo possível vale mais que o plano perfeito.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Aja com o que tem\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: O próximo passo possível vale mais que o plano perfeito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja com o que tem\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Aja com o que tem\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O próximo passo possível vale mais que o plano perfeito — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Aja com o que tem\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56032,9 +56028,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Persista criativamente",
         "text": "Mudar a abordagem mantendo o objetivo vence o muro.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Persista criativamente\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: Mudar a abordagem mantendo o objetivo vence o muro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Persista criativamente\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Persista criativamente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mudar a abordagem mantendo o objetivo vence o muro — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Persista criativamente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56042,9 +56038,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o incontrolável",
         "text": "Vontade estoica libera energia para o que se pode mudar.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Aceite o incontrolável\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: Vontade estoica libera energia para o que se pode mudar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o incontrolável\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Aceite o incontrolável\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vontade estoica libera energia para o que se pode mudar — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Aceite o incontrolável\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56052,9 +56048,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Converta o pior",
         "text": "O que bloqueia vira material de vantagem e força.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Converta o pior\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: O que bloqueia vira material de vantagem e força — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Converta o pior\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Converta o pior\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O que bloqueia vira material de vantagem e força — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Converta o pior\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56062,9 +56058,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Controle a narrativa",
         "text": "O sentido do evento é seu; escolha o que serve.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Controle a narrativa\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: O sentido do evento é seu; escolha o que serve — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Controle a narrativa\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Controle a narrativa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O sentido do evento é seu; escolha o que serve — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Controle a narrativa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56072,9 +56068,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a adversidade",
         "text": "O atrito é escola; conforto acomoda e estagna.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Use a adversidade\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: O atrito é escola; conforto acomoda e estagna — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a adversidade\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Use a adversidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O atrito é escola; conforto acomoda e estagna — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Use a adversidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56082,9 +56078,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estude exemplos",
         "text": "Vidas reais de quem converteu o pior dão prova e modelo.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Estude exemplos\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: Vidas reais de quem converteu o pior dão prova e modelo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estude exemplos\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Estude exemplos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Vidas reais de quem converteu o pior dão prova e modelo — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Estude exemplos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56092,9 +56088,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Filosofia é ação",
         "text": "Refletir para agir, não para fugir da realidade.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Filosofia é ação\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: Refletir para agir, não para fugir da realidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Filosofia é ação\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Filosofia é ação\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Refletir para agir, não para fugir da realidade — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Filosofia é ação\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56102,9 +56098,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça o que está à mão",
         "text": "Comece pelo próximo passo concreto, não pela visão total.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Faça o que está à mão\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: Comece pelo próximo passo concreto, não pela visão total — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça o que está à mão\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Faça o que está à mão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comece pelo próximo passo concreto, não pela visão total — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Faça o que está à mão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56112,9 +56108,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Grandeza nasce do atrito",
         "text": "Quem transforma obstáculo em caminho se destaca.",
         "explicacoes": [
-          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday trata \"Grandeza nasce do atrito\" como peça-chave para a resistência e o obstáculo como caminho.",
-          "Na prática: Quem transforma obstáculo em caminho se destaca — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Grandeza nasce do atrito\" aplica a resistência e o obstáculo como caminho de forma concreta, não apenas como conceito."
+          "Em \"O Obstáculo é o Caminho: A Arte de Virar a Adversidade a Seu Favor\", Ryan Holiday coloca \"Grandeza nasce do atrito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quem transforma obstáculo em caminho se destaca — traduzido para a prática, é o passo concreto que liga a teoria de Ryan Holiday ao comportamento diário.",
+          "Ignorar \"Grandeza nasce do atrito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -56450,6 +56446,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fracasso é defeito seu",
         "text": "Babauta recusa culpa; ajuste o sistema, não se culpe.",
         "reflection": "Você se culpa em vez de ajustar?"
+      },
+      {
+        "type": "truth",
+        "title": "Foco nasce de simplificar radicalmente",
+        "text": "Babauta funde zen e produtividade: menos, com atenção plena, rende mais.",
+        "reflection": "Você faz muitas coisas rasas ou poucas profundas?"
       }
     ],
     "summary": "Leo Babauta, criador do blog Zen Habits, escreve \"Zen To Done\" (ZTD) como uma resposta humana e gentil ao método GTD de David Allen. O problema, diz ele, não é a falta de um sistema perfeito, mas a falta de foco e de hábitos simples sustentáveis. O ZTD propõe foco em um hábito de cada vez, listas enxutas, revisão semanal e a regra de \"fazer o que importa primeiro\". O gancho é a simplicidade: em vez de gerenciar centenas de tarefas, escolha muito poucas e termine. Babauta enfatiza a atenção plena na execução (um único hábito por vez), a limitação da lista diária a três itens e a celebração de pequenas vitórias para construir confiança. Escrito por quem superou o caos pessoal, o livro é um manual compassivo de produtividade real, para quem tentou métodos complexos e naufragou. Menos é mais: foco, calma e execução vencem a sobrecarga. Quem já tentou sistemas complexos e naufragou encontra aqui o caminho de volta à execução simples e compassiva.",
@@ -56470,27 +56472,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Faça o que importa primeiro, antes de qualquer distração fácil.",
         "autor": "Leo Babauta",
         "obra": "Zen To Done"
-      },
-      {
-        "texto": "Celebre as pequenas vitórias; elas constroem a confiança para as grandes.",
-        "autor": "Leo Babauta",
-        "obra": "Zen To Done"
-      },
-      {
-        "texto": "Menos compromissos e mais foco é o que devolve o controle da vida.",
-        "autor": "Leo Babauta",
-        "obra": "Zen To Done"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "O único método de produtividade que realmente grudou comigo — gentil e simples.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Resposta humana ao GTD; funciona para quem naufragou em sistemas complexos.",
-        "autor": "Crítico de Produtividade",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -56507,9 +56499,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Um hábito por vez",
         "text": "Mudança graduai vence a lista de dez resoluções mortas.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Um hábito por vez\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Mudança graduai vence a lista de dez resoluções mortas — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Um hábito por vez\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Um hábito por vez\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mudança graduai vence a lista de dez resoluções mortas — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Um hábito por vez\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56517,9 +56509,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Lista de três",
         "text": "Limite o dia a três itens para priorizar e terminar.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Lista de três\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Limite o dia a três itens para priorizar e terminar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Lista de três\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Lista de três\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Limite o dia a três itens para priorizar e terminar — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Lista de três\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56527,9 +56519,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Revisão semanal",
         "text": "Ritual semanal mantém o sistema vivo e alinhado.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Revisão semanal\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Ritual semanal mantém o sistema vivo e alinhado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Revisão semanal\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Revisão semanal\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ritual semanal mantém o sistema vivo e alinhado — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Revisão semanal\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56537,9 +56529,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Atenção plena",
         "text": "Uma coisa de cada vez; multitarefa fragmenta o resultado.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Atenção plena\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Uma coisa de cada vez; multitarefa fragmenta o resultado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Atenção plena\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Atenção plena\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma coisa de cada vez; multitarefa fragmenta o resultado — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Atenção plena\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56547,9 +56539,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Celebre vitórias",
         "text": "Reconhecer o concluído constrói confiança para continuar.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Celebre vitórias\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Reconhecer o concluído constrói confiança para continuar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Celebre vitórias\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Celebre vitórias\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer o concluído constrói confiança para continuar — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Celebre vitórias\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56557,9 +56549,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Gentileza consigo",
         "text": "Cobrança dura sabota; compaixão sustenta o hábito.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Gentileza consigo\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Cobrança dura sabota; compaixão sustenta o hábito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Gentileza consigo\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Gentileza consigo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Cobrança dura sabota; compaixão sustenta o hábito — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Gentileza consigo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56567,9 +56559,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Prioridade primeiro",
         "text": "Comece pelo essencial para não fugir dele o dia todo.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Prioridade primeiro\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Comece pelo essencial para não fugir dele o dia todo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Prioridade primeiro\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Prioridade primeiro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comece pelo essencial para não fugir dele o dia todo — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Prioridade primeiro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56577,9 +56569,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Simplicidade",
         "text": "Menos ferramenta e listas devolvem o controle real.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Simplicidade\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Menos ferramenta e listas devolvem o controle real — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Simplicidade\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Simplicidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Menos ferramenta e listas devolvem o controle real — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Simplicidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56587,9 +56579,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Hábito sobre humor",
         "text": "Sistema substitui a espera por motivação diária.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Hábito sobre humor\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Sistema substitui a espera por motivação diária — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Hábito sobre humor\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Hábito sobre humor\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sistema substitui a espera por motivação diária — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Hábito sobre humor\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56597,9 +56589,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ajuste, não culpe",
         "text": "Falhar é sinal de sistema a corrigir, não de defeito.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Ajuste, não culpe\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Falhar é sinal de sistema a corrigir, não de defeito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ajuste, não culpe\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Ajuste, não culpe\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Falhar é sinal de sistema a corrigir, não de defeito — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Ajuste, não culpe\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56607,9 +56599,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça menos, termine",
         "text": "Concluir pouco vale mais que iniciar muito.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Faça menos, termine\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: Concluir pouco vale mais que iniciar muito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça menos, termine\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Faça menos, termine\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Concluir pouco vale mais que iniciar muito — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Faça menos, termine\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -56617,9 +56609,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Calma produtiva",
         "text": "ZTD é serenidade em execução, não correria.",
         "explicacoes": [
-          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta trata \"Calma produtiva\" como peça-chave para a simplicidade e o foco pelo método zen.",
-          "Na prática: ZTD é serenidade em execução, não correria — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Calma produtiva\" aplica a simplicidade e o foco pelo método zen de forma concreta, não apenas como conceito."
+          "Em \"Zen To Done: O Guia Simples para a Produtividade com Foco\", Leo Babauta coloca \"Calma produtiva\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "ZTD é serenidade em execução, não correria — traduzido para a prática, é o passo concreto que liga a teoria de Leo Babauta ao comportamento diário.",
+          "Ignorar \"Calma produtiva\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -56955,6 +56947,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mudança é radical",
         "text": "Becker propõe passos graduais e familiares, não ruptura.",
         "reflection": "Você acha que teria de jogar tudo fora?"
+      },
+      {
+        "type": "truth",
+        "title": "Menos posses, mais vida intencional",
+        "text": "Becker mostra que o minimalismo libera tempo e dinheiro para o que importa.",
+        "reflection": "O que você manteria se tivesse de justificar cada pertence?"
       }
     ],
     "summary": "Joshua Becker, em \"O Que Resta\" (The More of Less), convida o leitor a descobrir como o minimalismo intencional libera tempo, dinheiro e atenção para o que realmente importa. Sua tese é que ter mais coisas raramente traz mais felicidade; pelo contrário, a posse vira manutenção, dívida e distração. O gancho é libertador: ao possuir menos, você ganha mais — mais liberdade, mais relação, mais propósito. Becker diferencia minimalismo de privação: não é viver sem, é viver com o suficiente e com intenção. Ele oferece passos práticos para desapegar (a regra dos 12 meses, doar, vender) e mostra como o excesso de bens esconde o que dá sentido à vida. Escrito de dentro de uma família real, o livro é aplicável e terno. Para quem se sente sufocado por objetos e agenda, é o convite a escolher o que fica e, assim, escolher a própria vida. Becker escreve de dentro de uma família real, o que torna suas sugestões aplicáveis e livres de moralismo.",
@@ -56975,27 +56973,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O minimalismo não é privação, é viver com intenção e o suficiente.",
         "autor": "Joshua Becker",
         "obra": "O Que Resta"
-      },
-      {
-        "texto": "Se não usou algo em doze meses, provavelmente não precisa dele.",
-        "autor": "Joshua Becker",
-        "obra": "O Que Resta"
-      },
-      {
-        "texto": "A felicidade raramente vem de mais coisas, e sim de mais relações.",
-        "autor": "Joshua Becker",
-        "obra": "O Que Resta"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Fez minha família repensar o que guarda e o que realmente importa.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Minimalismo aplicável e sem culpa; funciona em casa com crianças.",
-        "autor": "Crítico de Estilo de Vida",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -57012,9 +57000,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mais não é felicidade",
         "text": "Posse vira manutenção; felicidade mora em relação e propósito.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Mais não é felicidade\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Posse vira manutenção; felicidade mora em relação e propósito — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mais não é felicidade\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Mais não é felicidade\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Posse vira manutenção; felicidade mora em relação e propósito — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Mais não é felicidade\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57022,9 +57010,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Minimalismo intencional",
         "text": "Viver com o suficiente e com intenção, não em privação.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Minimalismo intencional\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Viver com o suficiente e com intenção, não em privação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Minimalismo intencional\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Minimalismo intencional\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Viver com o suficiente e com intenção, não em privação — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Minimalismo intencional\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57032,9 +57020,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ganhe ao ter menos",
         "text": "Menos bens devolvem tempo, dinheiro e atenção.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Ganhe ao ter menos\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Menos bens devolvem tempo, dinheiro e atenção — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ganhe ao ter menos\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Ganhe ao ter menos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Menos bens devolvem tempo, dinheiro e atenção — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Ganhe ao ter menos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57042,9 +57030,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cada objeto serve",
         "text": "Guarde o que tem propósito ou alegria real; solte o resto.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Cada objeto serve\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Guarde o que tem propósito ou alegria real; solte o resto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cada objeto serve\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Cada objeto serve\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Guarde o que tem propósito ou alegria real; solte o resto — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Cada objeto serve\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57052,9 +57040,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Regra dos 12 meses",
         "text": "Não usou em um ano, provavelmente não usará; libere.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Regra dos 12 meses\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Não usou em um ano, provavelmente não usará; libere — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Regra dos 12 meses\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Regra dos 12 meses\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não usou em um ano, provavelmente não usará; libere — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Regra dos 12 meses\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57062,9 +57050,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não só organizar",
         "text": "Descartar o desnecessário vale mais que reorganizá-lo.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Não só organizar\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Descartar o desnecessário vale mais que reorganizá-lo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não só organizar\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Não só organizar\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Descartar o desnecessário vale mais que reorganizá-lo — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Não só organizar\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57072,9 +57060,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Excesso esconde propósito",
         "text": "Agenda e armários cheios mascaram o essencial.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Excesso esconde propósito\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Agenda e armários cheios mascaram o essencial — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Excesso esconde propósito\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Excesso esconde propósito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Agenda e armários cheios mascaram o essencial — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Excesso esconde propósito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57082,9 +57070,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Doe e redistribua",
         "text": "O excesso útil a outros é alívio e ganho para todos.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Doe e redistribua\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: O excesso útil a outros é alívio e ganho para todos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Doe e redistribua\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Doe e redistribua\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O excesso útil a outros é alívio e ganho para todos — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Doe e redistribua\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57092,9 +57080,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Agenda de propósito",
         "text": "Comprometer menos abre espaço para o que se escolhe.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Agenda de propósito\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Comprometer menos abre espaço para o que se escolhe — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Agenda de propósito\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Agenda de propósito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comprometer menos abre espaço para o que se escolhe — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Agenda de propósito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57102,9 +57090,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Redefina sucesso",
         "text": "Liberdade e relação, não acúmulo, são a verdadeira riqueza.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Redefina sucesso\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Liberdade e relação, não acúmulo, são a verdadeira riqueza — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Redefina sucesso\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Redefina sucesso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Liberdade e relação, não acúmulo, são a verdadeira riqueza — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Redefina sucesso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57112,9 +57100,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Passos graduais",
         "text": "Mudança familiar e lenta vence a ruptura insustentável.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Passos graduais\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Mudança familiar e lenta vence a ruptura insustentável — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Passos graduais\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Passos graduais\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mudança familiar e lenta vence a ruptura insustentável — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Passos graduais\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57122,9 +57110,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escolha o que fica",
         "text": "Decidir o que guarda é decidir que vida levar.",
         "explicacoes": [
-          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker trata \"Escolha o que fica\" como peça-chave para a minimalismo e a vida com menos.",
-          "Na prática: Decidir o que guarda é decidir que vida levar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escolha o que fica\" aplica a minimalismo e a vida com menos de forma concreta, não apenas como conceito."
+          "Em \"O Que Resta: Liberdade Através do Minimalismo Intencional\", Joshua Becker coloca \"Escolha o que fica\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Decidir o que guarda é decidir que vida levar — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Becker ao comportamento diário.",
+          "Ignorar \"Escolha o que fica\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -57460,6 +57448,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Vazio é falha pessoal",
         "text": "Millburn normaliza a busca; sentir vazio é convite, não defeito.",
         "reflection": "Você se culpa por sentir vazio?"
+      },
+      {
+        "type": "truth",
+        "title": "Minimalismo é liberdade para viver com propósito",
+        "text": "Millburn descreve a prática como remover o excesso que esconde o que importa.",
+        "reflection": "Sua agenda reflete seus valores ou os de outros?"
       }
     ],
     "summary": "Joshua Fields Millburn e Ryan Nicodemus, a dupla \"The Minimalists\", narram em \"Minimalismo\" (Everything That Remains) a jornada pessoal de dois executivos endinheirados e vazios que abandonaram carreiras lucrativas para buscar uma vida com significado. O gancho é a pergunta que guia o livro: como vivemos better com menos? Millburn relata a morte da mãe e o fim de um casamento como catalisadores para perceber que o excesso material mascarava um vazio interior. O minimalismo aqui não é estética de casa branca, mas ferramenta para remover o desnecessário e abrir espaço para as cinco dimensões que importam: saúde, relacionamentos, crescimento, contribuição e paixão. Com prosa honesta e confessional, o livro prova que menos pode, de fato, ser mais — quando o \"menos\" remove o que roubava tempo e atenção do que dá sentido. Leitura de desapego e redescoberta, para quem suspeita que a corrida por mais esconde a vida. O relato confessional funciona como espelho para quem suspeita que a corrida por mais esconde a própria vida.",
@@ -57480,27 +57474,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O excesso material muitas vezes mascara um vazio que só relações curam.",
         "autor": "Joshua Fields Millburn",
         "obra": "Minimalismo"
-      },
-      {
-        "texto": "Menos coisas, mais significado; menos ruído, mais atenção.",
-        "autor": "Joshua Fields Millburn",
-        "obra": "Minimalismo"
-      },
-      {
-        "texto": "A pergunta não é quanto você tem, e sim o que resta quando tira o excesso.",
-        "autor": "Joshua Fields Millburn",
-        "obra": "Minimalismo"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "A história deles me fez olhar para minha própria vida e mudar rota.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Confessional e honesto; minimalismo como despertar, não decoração.",
-        "autor": "Crítico de Estilo de Vida",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -57517,9 +57501,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A pergunta guia",
         "text": "Como vivemos melhor com menos? É o norte de toda a jornada.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"A pergunta guia\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Como vivemos melhor com menos? É o norte de toda a jornada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"A pergunta guia\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"A pergunta guia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Como vivemos melhor com menos? É o norte de toda a jornada — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"A pergunta guia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57527,9 +57511,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Menos pode ser mais",
         "text": "Remover o desnecessário devolve tempo e atenção ao essencial.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Menos pode ser mais\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Remover o desnecessário devolve tempo e atenção ao essencial — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Menos pode ser mais\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Menos pode ser mais\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Remover o desnecessário devolve tempo e atenção ao essencial — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Menos pode ser mais\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57537,9 +57521,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "As cinco dimensões",
         "text": "Saúde, relação, crescimento, contribuição e paixão são o núcleo.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"As cinco dimensões\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Saúde, relação, crescimento, contribuição e paixão são o núcleo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"As cinco dimensões\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"As cinco dimensões\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saúde, relação, crescimento, contribuição e paixão são o núcleo — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"As cinco dimensões\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57547,9 +57531,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Minimalismo como ferramenta",
         "text": "Não é visual, é meio de abrir espaço para o que importa.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Minimalismo como ferramenta\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Não é visual, é meio de abrir espaço para o que importa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Minimalismo como ferramenta\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Minimalismo como ferramenta\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não é visual, é meio de abrir espaço para o que importa — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Minimalismo como ferramenta\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57557,9 +57541,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a dor",
         "text": "Perdas podem ser o catalisador de reavaliação necessária.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Use a dor\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Perdas podem ser o catalisador de reavaliação necessária — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a dor\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Use a dor\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Perdas podem ser o catalisador de reavaliação necessária — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Use a dor\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57567,9 +57551,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Relações sobre coisas",
         "text": "Pessoas sustentam a vida com sentido; objetos, não.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Relações sobre coisas\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Pessoas sustentam a vida com sentido; objetos, não — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Relações sobre coisas\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Relações sobre coisas\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pessoas sustentam a vida com sentido; objetos, não — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Relações sobre coisas\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57577,9 +57561,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Contribuição",
         "text": "Servir a algo maior preenche o vazio do eu.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Contribuição\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Servir a algo maior preenche o vazio do eu — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Contribuição\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Contribuição\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Servir a algo maior preenche o vazio do eu — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Contribuição\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57587,9 +57571,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abandone o excesso",
         "text": "Soltar o acúmulo libera atenção e leveza.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Abandone o excesso\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Soltar o acúmulo libera atenção e leveza — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abandone o excesso\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Abandone o excesso\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Soltar o acúmulo libera atenção e leveza — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Abandone o excesso\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57597,9 +57581,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Transição possível",
         "text": "Mudar é gradual; não exige largar tudo de uma vez.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Transição possível\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Mudar é gradual; não exige largar tudo de uma vez — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Transição possível\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Transição possível\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mudar é gradual; não exige largar tudo de uma vez — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Transição possível\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57607,9 +57591,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Saúde primeiro",
         "text": "Corpo e mente em ordem sustentam todo o resto.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Saúde primeiro\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Corpo e mente em ordem sustentam todo o resto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Saúde primeiro\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Saúde primeiro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Corpo e mente em ordem sustentam todo o resto — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Saúde primeiro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57617,9 +57601,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Crescimento contínuo",
         "text": "Aprender e evoluir dá sentido ao cotidiano.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Crescimento contínuo\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Aprender e evoluir dá sentido ao cotidiano — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Crescimento contínuo\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Crescimento contínuo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Aprender e evoluir dá sentido ao cotidiano — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Crescimento contínuo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -57627,9 +57611,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Paixão que alimenta",
         "text": "Fazer o que ama sustenta energia para o todo.",
         "explicacoes": [
-          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn trata \"Paixão que alimenta\" como peça-chave para a vida essencialista e a liberdade com menos.",
-          "Na prática: Fazer o que ama sustenta energia para o todo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Paixão que alimenta\" aplica a vida essencialista e a liberdade com menos de forma concreta, não apenas como conceito."
+          "Em \"Minimalismo: Como Viver uma Vida com Significado\", Joshua Fields Millburn coloca \"Paixão que alimenta\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Fazer o que ama sustenta energia para o todo — traduzido para a prática, é o passo concreto que liga a teoria de Joshua Fields Millburn ao comportamento diário.",
+          "Ignorar \"Paixão que alimenta\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -57965,6 +57949,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Talento explica o gênio",
         "text": "Método e repetição explicam mais que dom natural isolado.",
         "reflection": "Você culpa a falta de dom?"
+      },
+      {
+        "type": "truth",
+        "title": "Aprender é habilidade treinável, não dom",
+        "text": "Kwik ensina técnicas de foco, memória e leitura que aceleram qualquer aprendizado.",
+        "reflection": "Você culpa a memória ou nunca treinou o cérebro?"
       }
     ],
     "summary": "Jim Kwik, especialista em treinamento de memória e aprendizagem que já ensinou gigantes da tecnologia, escreve \"Sem Limites\" (Limitless) para destruir a crença de que inteligência é fixa. Sua equação central é simples e libertadora: Limite = (Potencialidade − Crenças) ÷ Método. Ou seja, o teto da nossa performance é derrubado quando mudamos crenças limitantes e adotamos métodos de aprendizagem. Kwik ataca os \"inimigos da aprendizagem\" — digital, material e pessoal — e ensina a otimizar cérebro, corpo e meio. O gancho é que ninguém é \"ruim de aprender\"; as pessoas foram mal treinadas. Ele entrega técnicas de leitura rápida, memorização (como a \"palácio da memória\") e foco. Com tom motivacional e prático, o livro prova que o cérebro é um músculo: treinado, cresce. Para quem sente que não aprende rápido o bastante, é o empurrão para descobrir que os limites estavam na cabeça. Kwik fecha com um plano de 21 dias para colocar a equação em prática e medir a própria evolução.",
@@ -57985,27 +57975,17 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Seu cérebro é um músculo; treinado da maneira certa, ele cresce.",
         "autor": "Jim Kwik",
         "obra": "Sem Limites"
-      },
-      {
-        "texto": "A distração é o assassino do aprendizado profundo.",
-        "autor": "Jim Kwik",
-        "obra": "Sem Limites"
-      },
-      {
-        "texto": "Não existe pessoa ruim de memória, existe pessoa que não foi ensinada a usá-la.",
-        "autor": "Jim Kwik",
-        "obra": "Sem Limites"
       }
     ],
     "citacoesTerceiros": [
       {
         "texto": "Apliquei a leitura rápida e dobrei meu ritmo em duas semanas — funcionou.",
-        "autor": "Leitor Verificado",
+        "autor": "Leitor",
         "fonte": "Amazon"
       },
       {
         "texto": "Motivacional sem ser vazio; as técnicas são aplicáveis de verdade.",
-        "autor": "Crítico de Aprendizagem",
+        "autor": "Leitor",
         "fonte": "Goodreads"
       }
     ],
@@ -58022,9 +58002,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "A equação do limite",
         "text": "Limite = (Potencial - Crença) / Método; mude crença e método.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"A equação do limite\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Limite = (Potencial - Crença) / Método; mude crença e método — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"A equação do limite\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"A equação do limite\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Limite = (Potencial - Crença) / Método; mude crença e método — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"A equação do limite\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58032,9 +58012,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ninguém é ruim de aprender",
         "text": "Quase todos foram mal treinados; capacidade existe.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Ninguém é ruim de aprender\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Quase todos foram mal treinados; capacidade existe — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ninguém é ruim de aprender\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Ninguém é ruim de aprender\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quase todos foram mal treinados; capacidade existe — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Ninguém é ruim de aprender\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58042,9 +58022,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Vencedores dos inimigos",
         "text": "Digital, material e pessoal sabotam o aprendizado; identifique-os.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Vencedores dos inimigos\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Digital, material e pessoal sabotam o aprendizado; identifique-os — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Vencedores dos inimigos\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Vencedores dos inimigos\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Digital, material e pessoal sabotam o aprendizado; identifique-os — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Vencedores dos inimigos\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58052,9 +58032,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine o foco",
         "text": "Atenção é músculo; ambiente e hábito definem a concentração.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Treine o foco\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Atenção é músculo; ambiente e hábito definem a concentração — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine o foco\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Treine o foco\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Atenção é músculo; ambiente e hábito definem a concentração — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Treine o foco\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58062,9 +58042,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Leitura rápida",
         "text": "Técnica de aceleração com retenção supera a leitura arrastada.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Leitura rápida\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Técnica de aceleração com retenção supera a leitura arrastada — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Leitura rápida\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Leitura rápida\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Técnica de aceleração com retenção supera a leitura arrastada — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Leitura rápida\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58072,9 +58052,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Palácio da memória",
         "text": "Ancore informação em espaços conhecidos para recordar.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Palácio da memória\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Ancore informação em espaços conhecidos para recordar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Palácio da memória\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Palácio da memória\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ancore informação em espaços conhecidos para recordar — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Palácio da memória\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58082,9 +58062,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Corpo nutre mente",
         "text": "Sono, água e movimento são parte do método de aprender.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Corpo nutre mente\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Sono, água e movimento são parte do método de aprender — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Corpo nutre mente\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Corpo nutre mente\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sono, água e movimento são parte do método de aprender — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Corpo nutre mente\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58092,9 +58072,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ambiente importa",
         "text": "Meio digital, material e pessoal apoiam ou sabotam o foco.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Ambiente importa\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Meio digital, material e pessoal apoiam ou sabotam o foco — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ambiente importa\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Ambiente importa\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Meio digital, material e pessoal apoiam ou sabotam o foco — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Ambiente importa\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58102,9 +58082,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mude a crença",
         "text": "Frases limitantes viram profecia; reescreva a fala interna.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Mude a crença\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Frases limitantes viram profecia; reescreva a fala interna — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mude a crença\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Mude a crença\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Frases limitantes viram profecia; reescreva a fala interna — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Mude a crença\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58112,9 +58092,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cérebro é músculo",
         "text": "Treinado, cresce; prática deliberada expande a capacidade.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Cérebro é músculo\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Treinado, cresce; prática deliberada expande a capacidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cérebro é músculo\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Cérebro é músculo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Treinado, cresce; prática deliberada expande a capacidade — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Cérebro é músculo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58122,9 +58102,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Foco profundo",
         "text": "Sem distração, o aprendizado se consolida de verdade.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Foco profundo\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Sem distração, o aprendizado se consolida de verdade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Foco profundo\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Foco profundo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sem distração, o aprendizado se consolida de verdade — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Foco profundo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58132,9 +58112,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Método sobre talento",
         "text": "Repetição e técnica explicam o gênio mais que dom isolado.",
         "explicacoes": [
-          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik trata \"Método sobre talento\" como peça-chave para a leitura e o aprendizado acelerado da mente.",
-          "Na prática: Repetição e técnica explicam o gênio mais que dom isolado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Método sobre talento\" aplica a leitura e o aprendizado acelerado da mente de forma concreta, não apenas como conceito."
+          "Em \"Sem Limites: Aumente sua Inteligência, Aprenda Mais Rápido e Desbloqueie seu Potencial\", Jim Kwik coloca \"Método sobre talento\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Repetição e técnica explicam o gênio mais que dom isolado — traduzido para a prática, é o passo concreto que liga a teoria de Jim Kwik ao comportamento diário.",
+          "Ignorar \"Método sobre talento\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -58473,6 +58453,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conhecimento isolado basta",
         "text": "Saber a lei não vale nada sem a leitura e a prática diária.",
         "reflection": "Você \"sabe\" muito e faz pouco? Qual a distância?"
+      },
+      {
+        "type": "truth",
+        "title": "Hábito diário repete a mensagem até virar caráter",
+        "text": "Mandino entrega os pergaminhos como rituais de lavagem mental rumo à prosperidade.",
+        "reflection": "Qual mensagem você repete a si mesmo todo dia?"
       }
     ],
     "sections": [
@@ -58488,9 +58474,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Leia a lei todo dia",
         "text": "Repita a mensagem escolhida em voz alta todas as manhãs e noites até virar costume.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Leia a lei todo dia\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: Repita a mensagem escolhida em voz alta todas as manhãs e noites até virar costume — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Leia a lei todo dia\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Leia a lei todo dia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Repita a mensagem escolhida em voz alta todas as manhãs e noites até virar costume — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Leia a lei todo dia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58498,9 +58484,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ame antes de agir",
         "text": "A fundação de qualquer conquista é a boa vontade sincera para com os outros e consigo.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Ame antes de agir\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: A fundação de qualquer conquista é a boa vontade sincera para com os outros e consigo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ame antes de agir\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Ame antes de agir\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A fundação de qualquer conquista é a boa vontade sincera para com os outros e consigo — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Ame antes de agir\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58508,9 +58494,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Persista até virar hábito",
         "text": "A mudança exige centenas de repetições; não avalie pelo primeiro dia.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Persista até virar hábito\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: A mudança exige centenas de repetições; não avalie pelo primeiro dia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Persista até virar hábito\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Persista até virar hábito\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A mudança exige centenas de repetições; não avalie pelo primeiro dia — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Persista até virar hábito\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58518,9 +58504,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Levante sempre",
         "text": "Após cada tropeço, o ato de levantar vale mais que a queda anterior.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Levante sempre\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: Após cada tropeço, o ato de levantar vale mais que a queda anterior — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Levante sempre\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Levante sempre\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Após cada tropeço, o ato de levantar vale mais que a queda anterior — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Levante sempre\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58528,9 +58514,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a gratidão",
         "text": "Listar motivos de agradecimento diário desloca a mente da escassez para a abundância.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Pratique a gratidão\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: Listar motivos de agradecimento diário desloca a mente da escassez para a abundância — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a gratidão\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Pratique a gratidão\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Listar motivos de agradecimento diário desloca a mente da escassez para a abundância — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Pratique a gratidão\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58538,9 +58524,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Controle o tempo",
         "text": "Divida o dia em porções e proteja a primeira para o que importa de verdade.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Controle o tempo\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: Divida o dia em porções e proteja a primeira para o que importa de verdade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Controle o tempo\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Controle o tempo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Divida o dia em porções e proteja a primeira para o que importa de verdade — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Controle o tempo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58548,9 +58534,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aja com medo",
         "text": "A coragem não é ausência de medo, é movimento mesmo sentindo-o.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Aja com medo\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: A coragem não é ausência de medo, é movimento mesmo sentindo-o — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aja com medo\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Aja com medo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A coragem não é ausência de medo, é movimento mesmo sentindo-o — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Aja com medo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58558,9 +58544,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Silencie a dúvida",
         "text": "A voz interna que diz \"não vai dar\" deve ser substituída pela ação imediata.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Silencie a dúvida\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: A voz interna que diz \"não vai dar\" deve ser substituída pela ação imediata — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Silencie a dúvida\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Silencie a dúvida\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A voz interna que diz \"não vai dar\" deve ser substituída pela ação imediata — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Silencie a dúvida\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58568,9 +58554,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sirva para receber",
         "text": "Oferecer valor primeiro cria reciprocidade sólida e duradoura.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Sirva para receber\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: Oferecer valor primeiro cria reciprocidade sólida e duradoura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sirva para receber\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Sirva para receber\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Oferecer valor primeiro cria reciprocidade sólida e duradoura — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Sirva para receber\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58578,9 +58564,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Celebre o pequeno",
         "text": "Reconhecer a vitória mínima mantém acesa a motivação para a próxima.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Celebre o pequeno\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: Reconhecer a vitória mínima mantém acesa a motivação para a próxima — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Celebre o pequeno\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Celebre o pequeno\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer a vitória mínima mantém acesa a motivação para a próxima — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Celebre o pequeno\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58588,9 +58574,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Renove-se todo dia",
         "text": "Trate cada manhã como um nascimento: ontem acabou, hoje recomeça limpo.",
         "explicacoes": [
-          "Em \"O Maior Vendedor do Mundo\", Og Mandino trata \"Renove-se todo dia\" como peça-chave para os pergaminhos da persistência e do hábito do sucesso.",
-          "Na prática: Trate cada manhã como um nascimento: ontem acabou, hoje recomeça limpo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Renove-se todo dia\" aplica os pergaminhos da persistência e do hábito do sucesso de forma concreta, não apenas como conceito."
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Renove-se todo dia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Trate cada manhã como um nascimento: ontem acabou, hoje recomeça limpo — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Renove-se todo dia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Persistência vence o desânimo",
+        "text": "Mandino encerra: ler os pergaminhos todos os dias mantém o fogo aceso.",
+        "explicacoes": [
+          "Em \"O Maior Vendedor do Mundo\", Og Mandino coloca \"Persistência vence o desânimo\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Mandino encerra: ler os pergaminhos todos os dias mantém o fogo aceso — traduzido para a prática, é o passo concreto que liga a teoria de Og Mandino ao comportamento diário.",
+          "Ignorar \"Persistência vence o desânimo\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -58609,16 +58605,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Os hábitos são cabos de aço trançados de fios invisíveis, e um hábito bom é a melhor de todas as amizades.",
         "autor": "Og Mandino",
         "obra": "O Maior Vendedor do Mundo"
-      },
-      {
-        "texto": "Fracassar não é vergonha se eu me levantar e sigo em frente. Há mais honra em uma queda e uma recomeço do que em cento passos sem tropeço.",
-        "autor": "Og Mandino",
-        "obra": "O Maior Vendedor do Mundo"
-      },
-      {
-        "texto": "Eu persistirei até vencer. Porque cada lei da natureza é esta mesma lei: a terra persistiu até curvar a rocha com a gota de água.",
-        "autor": "Og Mandino",
-        "obra": "O Maior Vendedor do Mundo"
       }
     ],
     "citacoesTerceiros": [
@@ -58631,11 +58617,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Li os pergaminhos todo ano; é o ritual mais simples e teimoso que mantenho.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Clássico da motivação de vendas, mas o real gancho é a disciplina de repetir o certo.",
-        "autor": "Crítico",
-        "fonte": "Skoob"
       }
     ],
     "chapters": [
@@ -58653,6 +58634,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "O segredo está nos pergaminhos",
             "e": "Hafid recebe os pergaminhos de um vendedor próspero e descobre que a riqueza é ensinável.",
             "f": "Na visão de Og Mandino, \"o segredo está nos pergaminhos\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "O encontro com o velho",
+            "e": "Hafid recebe os pergaminhos de um vendedor próspero e descobre que a riqueza é ensinável.",
+            "f": "Na visão de Og Mandino, o encontro com o velho é o ponto central deste capítulo de \"O Maior Vendedor do Mundo\".",
             "real": false
           }
         ]
@@ -58672,6 +58659,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A lei da benevolência abre o caminho: ninguém vende a quem não confia.",
             "f": "Na visão de Og Mandino, \"confiança gera negócio\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
             "real": false
+          },
+          {
+            "t": "O primeiro pergaminho: ame",
+            "e": "A lei da benevolência abre o caminho: ninguém vende a quem não confia.",
+            "f": "Na visão de Og Mandino, o primeiro pergaminho: ame é o ponto central deste capítulo de \"O Maior Vendedor do Mundo\".",
+            "real": false
           }
         ]
       },
@@ -58689,6 +58682,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Tempo como aliado",
             "e": "Cada lei deve ser lida trinta vezes ao dia por trinta dias para virar costume.",
             "f": "Na visão de Og Mandino, \"tempo como aliado\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "A repetição sagrada",
+            "e": "Cada lei deve ser lida trinta vezes ao dia por trinta dias para virar costume.",
+            "f": "Na visão de Og Mandino, a repetição sagrada é o ponto central deste capítulo de \"O Maior Vendedor do Mundo\".",
             "real": false
           }
         ]
@@ -58708,6 +58707,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A queda não encerra a jornada; o ato de levantar é a vitória real.",
             "f": "Na visão de Og Mandino, \"persistência sobre perfeição\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
             "real": false
+          },
+          {
+            "t": "Levante e siga",
+            "e": "A queda não encerra a jornada; o ato de levantar é a vitória real.",
+            "f": "Na visão de Og Mandino, levante e siga é o ponto central deste capítulo de \"O Maior Vendedor do Mundo\".",
+            "real": false
           }
         ]
       },
@@ -58725,6 +58730,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Abundância percebida",
             "e": "Agradecer realinha o foco e afasta a mentalidade de escassez.",
             "f": "Na visão de Og Mandino, \"abundância percebida\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "A gratidão diária",
+            "e": "Agradecer realinha o foco e afasta a mentalidade de escassez.",
+            "f": "Na visão de Og Mandino, a gratidão diária é o ponto central deste capítulo de \"O Maior Vendedor do Mundo\".",
             "real": false
           }
         ]
@@ -58744,6 +58755,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A coragem é movimento apesar do pânico; a paralisia é o inimigo.",
             "f": "Na visão de Og Mandino, \"ação como remédio\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
             "real": false
+          },
+          {
+            "t": "Aja com medo",
+            "e": "A coragem é movimento apesar do pânico; a paralisia é o inimigo.",
+            "f": "Na visão de Og Mandino, aja com medo é o ponto central deste capítulo de \"O Maior Vendedor do Mundo\".",
+            "real": false
           }
         ]
       },
@@ -58761,6 +58778,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Reciprocidade real",
             "e": "Quem entrega valor primeiro colhe reciprocidade duradoura.",
             "f": "Na visão de Og Mandino, \"reciprocidade real\" é parte essencial da proposta de \"O Maior Vendedor do Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Sirva para prosperar",
+            "e": "Quem entrega valor primeiro colhe reciprocidade duradoura.",
+            "f": "Na visão de Og Mandino, sirva para prosperar é o ponto central deste capítulo de \"O Maior Vendedor do Mundo\".",
             "real": false
           }
         ]
@@ -58780,6 +58803,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Cada manhã apaga o ontem; a disciplina recomeça limpa.",
             "f": "Comece hoje. Cada dia que eu atraso é um dia perdido, e ao perder um dia, eu quebro o hábito de vencer.",
             "real": true
+          },
+          {
+            "t": "Renove-se amanhã",
+            "e": "Cada manhã apaga o ontem; a disciplina recomeça limpa.",
+            "f": "Na visão de Og Mandino, renove-se amanhã é o ponto central deste capítulo de \"O Maior Vendedor do Mundo\".",
+            "real": false
           }
         ]
       }
@@ -58887,6 +58916,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Tudo abaixo de mim é menor",
         "text": "O líder faz a tarefa mais humilde quando necessário, sem orgulho.",
         "reflection": "Você faria a tarefa \"baixa\" do seu time se precisasse?"
+      },
+      {
+        "type": "truth",
+        "title": "Posse extrema remove a desculpa de culpar outro",
+        "text": "Willink e Babin mostram que líder assume o controle mesmo sem autoridade formal.",
+        "reflection": "Você cobra do outro ou assume a responsabilidade total?"
       }
     ],
     "sections": [
@@ -58902,9 +58937,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Assuma a culpa",
         "text": "Quando algo falha, pergunte o que você, líder, deixou de fazer ou comunicar.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Assuma a culpa\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Quando algo falha, pergunte o que você, líder, deixou de fazer ou comunicar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Assuma a culpa\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Assuma a culpa\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Quando algo falha, pergunte o que você, líder, deixou de fazer ou comunicar — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Assuma a culpa\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58912,9 +58947,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Simplifique o plano",
         "text": "Reduza etapas até que qualquer um na linha de frente entenda e execute.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Simplifique o plano\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Reduza etapas até que qualquer um na linha de frente entenda e execute — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Simplifique o plano\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Simplifique o plano\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduza etapas até que qualquer um na linha de frente entenda e execute — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Simplifique o plano\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58922,9 +58957,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Descentralize o comando",
         "text": "Treine sublíderes a decidir; controle central morre sob carga.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Descentralize o comando\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Treine sublíderes a decidir; controle central morre sob carga — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Descentralize o comando\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Descentralize o comando\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Treine sublíderes a decidir; controle central morre sob carga — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Descentralize o comando\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58932,9 +58967,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Planeje, mas flexibilize",
         "text": "Tenha rota e reserva; o campo reescreve o roteiro toda hora.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Planeje, mas flexibilize\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Tenha rota e reserva; o campo reescreve o roteiro toda hora — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Planeje, mas flexibilize\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Planeje, mas flexibilize\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tenha rota e reserva; o campo reescreve o roteiro toda hora — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Planeje, mas flexibilize\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58942,9 +58977,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Priorize com crueldade",
         "text": "Corte o secundário; foque a energia no pouco que decide o resultado.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Priorize com crueldade\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Corte o secundário; foque a energia no pouco que decide o resultado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Priorize com crueldade\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Priorize com crueldade\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Corte o secundário; foque a energia no pouco que decide o resultado — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Priorize com crueldade\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58952,9 +58987,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha frente unida",
         "text": "Debata à vontade, mas após decidir todos puxam o mesmo barco.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Mantenha frente unida\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Debata à vontade, mas após decidir todos puxam o mesmo barco — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha frente unida\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Mantenha frente unida\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Debata à vontade, mas após decidir todos puxam o mesmo barco — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Mantenha frente unida\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58962,9 +58997,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Decida sem certeza",
         "text": "Informação incompleta é a regra; atrase a decisão só se o custo for alto.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Decida sem certeza\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Informação incompleta é a regra; atrase a decisão só se o custo for alto — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Decida sem certeza\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Decida sem certeza\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Informação incompleta é a regra; atrase a decisão só se o custo for alto — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Decida sem certeza\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58972,9 +59007,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cobre alto",
         "text": "Padrão exigido é sinal de respeito; baixar o nível corrói a equipe.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Cobre alto\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Padrão exigido é sinal de respeito; baixar o nível corrói a equipe — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cobre alto\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Cobre alto\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Padrão exigido é sinal de respeito; baixar o nível corrói a equipe — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Cobre alto\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58982,9 +59017,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Creia na missão",
         "text": "Conviction transmite convicção; time sem fé no porquê não sustenta o difícil.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Creia na missão\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Conviction transmite convicção; time sem fé no porquê não sustenta o difícil — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Creia na missão\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Creia na missão\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conviction transmite convicção; time sem fé no porquê não sustenta o difícil — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Creia na missão\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -58992,9 +59027,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Discipline-se",
         "text": "Rotina e autocontrole do líder ditam o teto da equipe inteira.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Discipline-se\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Rotina e autocontrole do líder ditam o teto da equipe inteira — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Discipline-se\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Discipline-se\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Rotina e autocontrole do líder ditam o teto da equipe inteira — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Discipline-se\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59002,9 +59037,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça a tarefa humilde",
         "text": "Estar disposto ao trabalho menor mantém autoridade moral e contato com a realidade.",
         "explicacoes": [
-          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin trata \"Faça a tarefa humilde\" como peça-chave para a liderança pela propriedade extrema e disciplina.",
-          "Na prática: Estar disposto ao trabalho menor mantém autoridade moral e contato com a realidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça a tarefa humilde\" aplica a liderança pela propriedade extrema e disciplina de forma concreta, não apenas como conceito."
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Faça a tarefa humilde\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Estar disposto ao trabalho menor mantém autoridade moral e contato com a realidade — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Faça a tarefa humilde\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Disciplina é liberdade",
+        "text": "Willink conclui que controle de si abre opções que o caos fecharia.",
+        "explicacoes": [
+          "Em \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\", Jocko Willink e Leif Babin coloca \"Disciplina é liberdade\" no centro de lideranca, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Willink conclui que controle de si abre opções que o caos fecharia — traduzido para a prática, é o passo concreto que liga a teoria de Jocko Willink e Leif Babin ao comportamento diário.",
+          "Ignorar \"Disciplina é liberdade\" é o erro mais comum de quem consome lideranca sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -59023,16 +59068,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Disciplina iguala liberdade. A liberdade de escolher, de agir, só existe sob o teto da autodisciplina.",
         "autor": "Jocko Willink",
         "obra": "Extreme Ownership"
-      },
-      {
-        "texto": "Quando as circunstâncias parecem fora de controle, fique calmo e concentre-se no que pode controlar: a si mesmo.",
-        "autor": "Jocko Willink",
-        "obra": "Extreme Ownership"
-      },
-      {
-        "texto": "Se você quer ser um líder à frente, deve ser capaz de fazer as tarefas de seus subordinados, não importa quão humildes.",
-        "autor": "Jocko Willink",
-        "obra": "Extreme Ownership"
       }
     ],
     "citacoesTerceiros": [
@@ -59045,11 +59080,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Willink é seco, mas o \"assuma a culpa\" mudou como conduzo reuniões.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "Não é autoajuda, é manual de comando para quem lida com vida alheia sob pressão.",
-        "autor": "Crítico",
-        "fonte": "Skoob"
       }
     ],
     "chapters": [
@@ -59068,6 +59098,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A operação em Ramadi mostra por que o comando decide a vida ou a morte.",
             "f": "A propriedade extrema exige que líderes assumam a responsabilidade total por tudo em sua esfera de influência.",
             "real": true
+          },
+          {
+            "t": "O campo de batalha",
+            "e": "A operação em Ramadi mostra por que o comando decide a vida ou a morte.",
+            "f": "Na visão de Jocko Willink e Leif Babin, o campo de batalha é o ponto central deste capítulo de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
           }
         ]
       },
@@ -59085,6 +59121,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Assumir é poder corrigir",
             "e": "O princípio central: o líder é dono de cada resultado da equipe.",
             "f": "Na visão de Jocko Willink e Leif Babin, \"assumir é poder corrigir\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          },
+          {
+            "t": "Propriedade extrema",
+            "e": "O princípio central: o líder é dono de cada resultado da equipe.",
+            "f": "Na visão de Jocko Willink e Leif Babin, propriedade extrema é o ponto central deste capítulo de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
             "real": false
           }
         ]
@@ -59104,6 +59146,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "O comandante que faz o serviço humilde mantém autoridade moral.",
             "f": "Se você quer ser um líder à frente, deve ser capaz de fazer as tarefas de seus subordinados, não importa quão humildes.",
             "real": true
+          },
+          {
+            "t": "Nenhuma tarefa é pequena",
+            "e": "O comandante que faz o serviço humilde mantém autoridade moral.",
+            "f": "Na visão de Jocko Willink e Leif Babin, nenhuma tarefa é pequena é o ponto central deste capítulo de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
           }
         ]
       },
@@ -59121,6 +59169,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Conviction transmite",
             "e": "Convicção do líder contagia; time sem fé não segura o difícil.",
             "f": "Na visão de Jocko Willink e Leif Babin, \"conviction transmite\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          },
+          {
+            "t": "Crer",
+            "e": "Convicção do líder contagia; time sem fé não segura o difícil.",
+            "f": "Na visão de Jocko Willink e Leif Babin, crer é o ponto central deste capítulo de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
             "real": false
           }
         ]
@@ -59140,6 +59194,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Planos enxutos sobrevivem ao caos; complexidade é inimiga da execução.",
             "f": "Na visão de Jocko Willink e Leif Babin, \"clareza sob fogo\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
             "real": false
+          },
+          {
+            "t": "Simplificar",
+            "e": "Planos enxutos sobrevivem ao caos; complexidade é inimiga da execução.",
+            "f": "Na visão de Jocko Willink e Leif Babin, simplificar é o ponto central deste capítulo de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
           }
         ]
       },
@@ -59157,6 +59217,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Foco no essencial",
             "e": "Escolher o vital e dizer não ao resto é a decisão do líder.",
             "f": "Na visão de Jocko Willink e Leif Babin, \"foco no essencial\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
+          },
+          {
+            "t": "Priorizar e executar",
+            "e": "Escolher o vital e dizer não ao resto é a decisão do líder.",
+            "f": "Na visão de Jocko Willink e Leif Babin, priorizar e executar é o ponto central deste capítulo de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
             "real": false
           }
         ]
@@ -59176,6 +59242,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Debater à vontade, mas alinhar após a decisão mantém a equipe inteira.",
             "f": "Na visão de Jocko Willink e Leif Babin, \"fissura perde\" é parte essencial da proposta de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
             "real": false
+          },
+          {
+            "t": "Frente unida",
+            "e": "Debater à vontade, mas alinhar após a decisão mantém a equipe inteira.",
+            "f": "Na visão de Jocko Willink e Leif Babin, frente unida é o ponto central deste capítulo de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
           }
         ]
       },
@@ -59194,6 +59266,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Autocontrole diário é o que liberta o líder das circunstâncias.",
             "f": "Quando as circunstâncias parecem fora de controle, fique calmo e concentre-se no que pode controlar: a si mesmo.",
             "real": true
+          },
+          {
+            "t": "Disciplina igual liberdade",
+            "e": "Autocontrole diário é o que liberta o líder das circunstâncias.",
+            "f": "Na visão de Jocko Willink e Leif Babin, disciplina igual liberdade é o ponto central deste capítulo de \"Propriedade Extrema: Como as Equipes de Combate da Marinha dos EUA Lideram e Vencem\".",
+            "real": false
           }
         ]
       }
@@ -59301,6 +59379,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ciência substitui ética",
         "text": "Dados explicam o mecanismo, mas o sentido ainda é escolha humana.",
         "reflection": "Você acha que medir é o mesmo que viver bem?"
+      },
+      {
+        "type": "truth",
+        "title": "A mente é um elefante guiado por um cavaleiro frágil",
+        "text": "Haidt integra ciência e sabedoria antiga mostrando que emoção lidera a razão.",
+        "reflection": "Você acha que decide pela razão ou pela emoção?"
       }
     ],
     "sections": [
@@ -59316,9 +59400,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Conheça o elefante",
         "text": "Perceba quando a emoção manda e a razão só justifica; nomear já ajuda.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Conheça o elefante\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Perceba quando a emoção manda e a razão só justifica; nomear já ajuda — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Conheça o elefante\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Conheça o elefante\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Perceba quando a emoção manda e a razão só justifica; nomear já ajuda — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Conheça o elefante\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59326,9 +59410,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mude o ambiente",
         "text": "Em vez de forçar a vontade, desenhe escolhas que favoreçam o hábito bom.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Mude o ambiente\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Em vez de forçar a vontade, desenhe escolhas que favoreçam o hábito bom — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mude o ambiente\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Mude o ambiente\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Em vez de forçar a vontade, desenhe escolhas que favoreçam o hábito bom — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Mude o ambiente\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59336,9 +59420,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o que não controla",
         "text": "Separar o interno do externo reduz sofrimento e libera energia.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Aceite o que não controla\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Separar o interno do externo reduz sofrimento e libera energia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o que não controla\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Aceite o que não controla\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Separar o interno do externo reduz sofrimento e libera energia — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Aceite o que não controla\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59346,9 +59430,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Invista em vínculos",
         "text": "Relações profundas valem mais por ano de vida que salário extra.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Invista em vínculos\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Relações profundas valem mais por ano de vida que salário extra — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Invista em vínculos\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Invista em vínculos\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Relações profundas valem mais por ano de vida que salário extra — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Invista em vínculos\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59356,9 +59440,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique a virtude",
         "text": "Agir certo repetidamente treina o elefante a sentir o bem.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Pratique a virtude\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Agir certo repetidamente treina o elefante a sentir o bem — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique a virtude\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Pratique a virtude\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Agir certo repetidamente treina o elefante a sentir o bem — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Pratique a virtude\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59366,9 +59450,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuide do corpo",
         "text": "Sono, movimento e respiração são alavancas diretas do humor.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Cuide do corpo\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Sono, movimento e respiração são alavancas diretas do humor — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuide do corpo\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Cuide do corpo\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sono, movimento e respiração são alavancas diretas do humor — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Cuide do corpo\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59376,9 +59460,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Redirecione a atenção",
         "text": "O foco decide a experiência; escolha onde a mente repousa.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Redirecione a atenção\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: O foco decide a experiência; escolha onde a mente repousa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Redirecione a atenção\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Redirecione a atenção\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O foco decide a experiência; escolha onde a mente repousa — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Redirecione a atenção\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59386,9 +59470,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Espere o ponto de ajuste",
         "text": "Saiba que altos caem; não deixe o momento definir sua identidade.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Espere o ponto de ajuste\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Saiba que altos caem; não deixe o momento definir sua identidade — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Espere o ponto de ajuste\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Espere o ponto de ajuste\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saiba que altos caem; não deixe o momento definir sua identidade — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Espere o ponto de ajuste\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59396,9 +59480,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque sentido",
         "text": "Propósito maior sustenta mais que prazer imediato e passageiro.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Busque sentido\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Propósito maior sustenta mais que prazer imediato e passageiro — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque sentido\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Busque sentido\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Propósito maior sustenta mais que prazer imediato e passageiro — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Busque sentido\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59406,9 +59490,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Estude os antigos",
         "text": "Filosofia moral antiga antecipa a ciência; leia-a como laboratório.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Estude os antigos\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Filosofia moral antiga antecipa a ciência; leia-a como laboratório — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Estude os antigos\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Estude os antigos\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Filosofia moral antiga antecipa a ciência; leia-a como laboratório — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Estude os antigos\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59416,9 +59500,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Sirva para fora de si",
         "text": "Sair do eu reduz ansiedade e devolve perspectiva ao dia.",
         "explicacoes": [
-          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt trata \"Sirva para fora de si\" como peça-chave para a mente dividida e a retidão de cavalo e cavaleiro.",
-          "Na prática: Sair do eu reduz ansiedade e devolve perspectiva ao dia — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Sirva para fora de si\" aplica a mente dividida e a retidão de cavalo e cavaleiro de forma concreta, não apenas como conceito."
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Sirva para fora de si\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sair do eu reduz ansiedade e devolve perspectiva ao dia — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Sirva para fora de si\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Relações e sentido sustentam a felicidade",
+        "text": "Haidt mostra que vínculos e propósito pesam mais que circunstância externa.",
+        "explicacoes": [
+          "Em \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\", Jonathan Haidt coloca \"Relações e sentido sustentam a felicidade\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Haidt mostra que vínculos e propósito pesam mais que circunstância externa — traduzido para a prática, é o passo concreto que liga a teoria de Jonathan Haidt ao comportamento diário.",
+          "Ignorar \"Relações e sentido sustentam a felicidade\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -59437,16 +59531,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A felicidade vem de dentro e de cima: do ajuste entre nossos instintos e nossos ideais, não das circunstâncias externas.",
         "autor": "Jonathan Haidt",
         "obra": "A Hipótese da Felicidade"
-      },
-      {
-        "texto": "As pessoas são como geleiras: o que se vê é pequeno comparado ao que há embaixo da água.",
-        "autor": "Jonathan Haidt",
-        "obra": "A Hipótese da Felicidade"
-      },
-      {
-        "texto": "A sabedoria antiga não foi provada errada pela ciência moderna; em grande parte, foi confirmada.",
-        "autor": "Jonathan Haidt",
-        "obra": "A Hipótese da Felicidade"
       }
     ],
     "citacoesTerceiros": [
@@ -59459,11 +59543,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Haidt escreve como professor que quer que você entenda, não como guru que quer que você obedeça.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Denso, mas a metáfora do elefante e do condutor vale por todo o livro.",
-        "autor": "Crítico",
-        "fonte": "Skoob"
       }
     ],
     "chapters": [
@@ -59481,6 +59560,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Quem manda de fato",
             "e": "A metáfora do elefante e do condutor explica por que sabemos e não fazemos.",
             "f": "Na visão de Jonathan Haidt, \"quem manda de fato\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          },
+          {
+            "t": "A divisão da mente",
+            "e": "A metáfora do elefante e do condutor explica por que sabemos e não fazemos.",
+            "f": "Na visão de Jonathan Haidt, a divisão da mente é o ponto central deste capítulo de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
             "real": false
           }
         ]
@@ -59500,6 +59585,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Genes e hábito puxam o humor de volta; externos explicam pouco.",
             "f": "Na visão de Jonathan Haidt, \"por que ganhos caem\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
             "real": false
+          },
+          {
+            "t": "Mudança de ponto de ajuste",
+            "e": "Genes e hábito puxam o humor de volta; externos explicam pouco.",
+            "f": "Na visão de Jonathan Haidt, mudança de ponto de ajuste é o ponto central deste capítulo de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
           }
         ]
       },
@@ -59518,6 +59609,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Riqueza, fama e clima afetam menos do que se imagina a longo prazo.",
             "f": "A felicidade vem de dentro e de cima: do ajuste entre nossos instintos e nossos ideais, não das circunstâncias externas.",
             "real": true
+          },
+          {
+            "t": "A felicidade de fora",
+            "e": "Riqueza, fama e clima afetam menos do que se imagina a longo prazo.",
+            "f": "Na visão de Jonathan Haidt, a felicidade de fora é o ponto central deste capítulo de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
           }
         ]
       },
@@ -59536,6 +59633,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Virtude, fluxo e sentido movem o ponteiro de forma durável.",
             "f": "O segredo da felicidade não é ganhar ou alcançar, mas sim mudar a relação entre o condutor e o elefante.",
             "real": true
+          },
+          {
+            "t": "A felicidade de dentro",
+            "e": "Virtude, fluxo e sentido movem o ponteiro de forma durável.",
+            "f": "Na visão de Jonathan Haidt, a felicidade de dentro é o ponto central deste capítulo de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
           }
         ]
       },
@@ -59553,6 +59656,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "O que resta controlar",
             "e": "Acaso molda muito, mas a resposta a ele é treinável.",
             "f": "Na visão de Jonathan Haidt, \"o que resta controlar\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          },
+          {
+            "t": "O papel da sorte",
+            "e": "Acaso molda muito, mas a resposta a ele é treinável.",
+            "f": "Na visão de Jonathan Haidt, o papel da sorte é o ponto central deste capítulo de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
             "real": false
           }
         ]
@@ -59572,6 +59681,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Postura e respiração influenciam o elefante mais que frases.",
             "f": "Na visão de Jonathan Haidt, \"estado importa\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
             "real": false
+          },
+          {
+            "t": "O corpo e a mente",
+            "e": "Postura e respiração influenciam o elefante mais que frases.",
+            "f": "Na visão de Jonathan Haidt, o corpo e a mente é o ponto central deste capítulo de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
           }
         ]
       },
@@ -59590,6 +59705,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Relações e confiança são base da vida boa segundo antigos e ciência.",
             "f": "Na visão de Jonathan Haidt, \"confiança paga\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
             "real": false
+          },
+          {
+            "t": "A reciprocidade e o vínculo",
+            "e": "Relações e confiança são base da vida boa segundo antigos e ciência.",
+            "f": "Na visão de Jonathan Haidt, a reciprocidade e o vínculo é o ponto central deste capítulo de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
           }
         ]
       },
@@ -59607,6 +59728,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Vida boa na prática",
             "e": "Unir razão, emoção e virtude é a hipótese da felicidade real.",
             "f": "Na visão de Jonathan Haidt, \"vida boa na prática\" é parte essencial da proposta de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
+            "real": false
+          },
+          {
+            "t": "A síntese",
+            "e": "Unir razão, emoção e virtude é a hipótese da felicidade real.",
+            "f": "Na visão de Jonathan Haidt, a síntese é o ponto central deste capítulo de \"A Hipótese da Felicidade: O Que a Ciência Moderna Aprendeu com a Sabedoria Antiga\".",
             "real": false
           }
         ]
