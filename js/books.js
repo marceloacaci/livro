@@ -41567,57 +41567,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Proteja a atenção",
-        "text": "Trate atenção como recurso finito; corte notificações e decisões triviais."
+        "text": "Trate atenção como recurso finito; corte notificações e decisões triviais.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Proteja a atenção\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Trate atenção como recurso finito; corte notificações e decisões triviais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja a atenção\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Gerencie energia",
-        "text": "Agende tarefas difíceis nos picos de energia e leves nos vales."
+        "text": "Agende tarefas difíceis nos picos de energia e leves nos vales.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Gerencie energia\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Agende tarefas difíceis nos picos de energia e leves nos vales — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Gerencie energia\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Pratique monotarefa",
-        "text": "Uma tarefa por vez entrega mais e com melhor qualidade que multitarefa."
+        "text": "Uma tarefa por vez entrega mais e com melhor qualidade que multitarefa.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Pratique monotarefa\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Uma tarefa por vez entrega mais e com melhor qualidade que multitarefa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique monotarefa\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Pareie intencionalmente",
-        "text": "Alinhar tarefa, horário, energia e atenção multiplica o resultado."
+        "text": "Alinhar tarefa, horário, energia e atenção multiplica o resultado.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Pareie intencionalmente\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Alinhar tarefa, horário, energia e atenção multiplica o resultado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pareie intencionalmente\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Faça pausas",
-        "text": "Intervalos regulares sustentam foco ao longo do dia."
+        "text": "Intervalos regulares sustentam foco ao longo do dia.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Faça pausas\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Intervalos regulares sustentam foco ao longo do dia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Faça pausas\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Reduza o ruído informacional",
-        "text": "Consumir menos conteúdo eleva a clareza e o pensamento."
+        "text": "Consumir menos conteúdo eleva a clareza e o pensamento.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Reduza o ruído informacional\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Consumir menos conteúdo eleva a clareza e o pensamento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza o ruído informacional\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Use o devaneio",
-        "text": "Ócio estratégico recarrega criatividade e atenção."
+        "text": "Ócio estratégico recarrega criatividade e atenção.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Use o devaneio\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Ócio estratégico recarrega criatividade e atenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o devaneio\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Limite horas extras",
-        "text": "Além do ponto ótimo, mais horas diminuem a produtividade real."
+        "text": "Além do ponto ótimo, mais horas diminuem a produtividade real.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Limite horas extras\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Além do ponto ótimo, mais horas diminuem a produtividade real — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Limite horas extras\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Planeje o dia à noite",
-        "text": "Decidir à noite o essencial libera atenção pela manhã."
+        "text": "Decidir à noite o essencial libera atenção pela manhã.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Planeje o dia à noite\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Decidir à noite o essencial libera atenção pela manhã — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Planeje o dia à noite\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Meça por relevância",
-        "text": "Avalie o dia pelo que importou, não pelo que foi feito."
+        "text": "Avalie o dia pelo que importou, não pelo que foi feito.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Meça por relevância\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Avalie o dia pelo que importou, não pelo que foi feito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça por relevância\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Treine o foco",
-        "text": "Reduzir distrações progressivamente fortalece a atenção."
+        "text": "Reduzir distrações progressivamente fortalece a atenção.",
+        "explicacoes": [
+          "Em \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\", Chris Bailey trata \"Treine o foco\" como peça-chave para a simplificação da vida pela tecnologia e foco.",
+          "Na prática: Reduzir distrações progressivamente fortalece a atenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine o foco\" aplica a simplificação da vida pela tecnologia e foco de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -41639,72 +41694,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O ano de experimentos",
         "text": "Bailey apresenta o projeto de virar cobaia da produtividade.",
         "points": [
-          "Método",
-          "Hipóteses"
+          {
+            "t": "Método",
+            "e": "Bailey apresenta o projeto de virar cobaia da produtividade.",
+            "f": "Na visão de Chris Bailey, \"método\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Hipóteses",
+            "e": "Bailey apresenta o projeto de virar cobaia da produtividade.",
+            "f": "Na visão de Chris Bailey, \"hipóteses\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Tempo, atenção, energia",
         "text": "Os três recursos que definem produtividade real.",
         "points": [
-          "Tríade",
-          "Atenção"
+          {
+            "t": "Tríade",
+            "e": "Os três recursos que definem produtividade real.",
+            "f": "Você não precisa de mais tempo; precisa de mais atenção.",
+            "real": true
+          },
+          {
+            "t": "Atenção",
+            "e": "Os três recursos que definem produtividade real.",
+            "f": "Atenção é o recurso mais valioso que temos, e o mais desperdiçado.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Jejum de tecnologia",
         "text": "Resultados de afastar telas e notificações.",
         "points": [
-          "Foco",
-          "Custo"
+          {
+            "t": "Foco",
+            "e": "Resultados de afastar telas e notificações.",
+            "f": "Na visão de Chris Bailey, \"foco\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Custo",
+            "e": "Resultados de afastar telas e notificações.",
+            "f": "Na visão de Chris Bailey, \"custo\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Horas extremas",
         "text": "O que acontece ao forçar jornadas longas.",
         "points": [
-          "Diminishing",
-          "Energia"
+          {
+            "t": "Diminishing",
+            "e": "O que acontece ao forçar jornadas longas.",
+            "f": "Trabalhar mais horas raramente entrega proporcionalmente mais.",
+            "real": true
+          },
+          {
+            "t": "Energia",
+            "e": "O que acontece ao forçar jornadas longas.",
+            "f": "Na visão de Chris Bailey, \"energia\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Dieta de informação",
         "text": "Consumir menos para pensar melhor.",
         "points": [
-          "Ruído",
-          "Clareza"
+          {
+            "t": "Ruído",
+            "e": "Consumir menos para pensar melhor.",
+            "f": "Na visão de Chris Bailey, \"ruído\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Clareza",
+            "e": "Consumir menos para pensar melhor.",
+            "f": "Na visão de Chris Bailey, \"clareza\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Monotarefa",
         "text": "Testes contra a multitarefa.",
         "points": [
-          "Foco único",
-          "Qualidade"
+          {
+            "t": "Foco único",
+            "e": "Testes contra a multitarefa.",
+            "f": "A monotarefa derrota a multitarefa em quase todo cenário.",
+            "real": true
+          },
+          {
+            "t": "Qualidade",
+            "e": "Testes contra a multitarefa.",
+            "f": "Na visão de Chris Bailey, \"qualidade\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Pausas e sono",
         "text": "Como descanso sustenta atenção.",
         "points": [
-          "Intervalos",
-          "Recuperação"
+          {
+            "t": "Intervalos",
+            "e": "Como descanso sustenta atenção.",
+            "f": "Na visão de Chris Bailey, \"intervalos\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Recuperação",
+            "e": "Como descanso sustenta atenção.",
+            "f": "Na visão de Chris Bailey, \"recuperação\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Pareamento intencional",
         "text": "Alinhar os quatro fatores para execução ótima.",
         "points": [
-          "Alinhamento",
-          "Resultado"
+          {
+            "t": "Alinhamento",
+            "e": "Alinhar os quatro fatores para execução ótima.",
+            "f": "Na visão de Chris Bailey, \"alinhamento\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Resultado",
+            "e": "Alinhar os quatro fatores para execução ótima.",
+            "f": "Na visão de Chris Bailey, \"resultado\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Conclusões",
         "text": "Síntese do que vale e do que é mito.",
         "points": [
-          "Aplicação",
-          "Mitos"
+          {
+            "t": "Aplicação",
+            "e": "Síntese do que vale e do que é mito.",
+            "f": "Na visão de Chris Bailey, \"aplicação\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          },
+          {
+            "t": "Mitos",
+            "e": "Síntese do que vale e do que é mito.",
+            "f": "Na visão de Chris Bailey, \"mitos\" é parte essencial da proposta de \"O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -41862,57 +42007,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Aja antes da confiança",
-        "text": "Não espere sentir segurança; mova-se em direção aos valores mesmo com medo."
+        "text": "Não espere sentir segurança; mova-se em direção aos valores mesmo com medo.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Aja antes da confiança\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Não espere sentir segurança; mova-se em direção aos valores mesmo com medo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja antes da confiança\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Pratique a defusão",
-        "text": "Rotule pensamentos como 'estou tendo o pensamento de...' para desarmá-los."
+        "text": "Rotule pensamentos como 'estou tendo o pensamento de...' para desarmá-los.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Pratique a defusão\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Rotule pensamentos como 'estou tendo o pensamento de...' para desarmá-los — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a defusão\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Expanda a emoção",
-        "text": "Abra espaço interno para a ansiedade em vez de lutar contra ela."
+        "text": "Abra espaço interno para a ansiedade em vez de lutar contra ela.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Expanda a emoção\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Abra espaço interno para a ansiedade em vez de lutar contra ela — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Expanda a emoção\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Conecte-se a valores",
-        "text": "Definir o que importa dá bússola quando a confiança falta."
+        "text": "Definir o que importa dá bússola quando a confiança falta.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Conecte-se a valores\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Definir o que importa dá bússola quando a confiança falta — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conecte-se a valores\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Note a armadilha",
-        "text": "Reconhecer 'preciso de confiança para agir' é o primeiro passo de saída."
+        "text": "Reconhecer 'preciso de confiança para agir' é o primeiro passo de saída.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Note a armadilha\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Reconhecer 'preciso de confiança para agir' é o primeiro passo de saída — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Note a armadilha\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Aceite o desconforto",
-        "text": "Desconforto acompanhando ação importante é dado, não erro."
+        "text": "Desconforto acompanhando ação importante é dado, não erro.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Aceite o desconforto\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Desconforto acompanhando ação importante é dado, não erro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o desconforto\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Use compromisso",
-        "text": "Comprometer-se com a ação supera o estado emocional variável."
+        "text": "Comprometer-se com a ação supera o estado emocional variável.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Use compromisso\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Comprometer-se com a ação supera o estado emocional variável — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use compromisso\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Observe, não obedeça",
-        "text": "Ver a mente como comentarista reduz sua autoridade sobre você."
+        "text": "Ver a mente como comentarista reduz sua autoridade sobre você.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Observe, não obedeça\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Ver a mente como comentarista reduz sua autoridade sobre você — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Observe, não obedeça\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Enfrente a evitação",
-        "text": "Identificar o que você evita por medo e aproximar-se gradualmente."
+        "text": "Identificar o que você evita por medo e aproximar-se gradualmente.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Enfrente a evitação\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Identificar o que você evita por medo e aproximar-se gradualmente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Enfrente a evitação\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Celebre passos pequenos",
-        "text": "Reconhecer avanços reforça a disposição de agir com medo."
+        "text": "Reconhecer avanços reforça a disposição de agir com medo.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Celebre passos pequenos\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Reconhecer avanços reforça a disposição de agir com medo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Celebre passos pequenos\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Coragem é carregar o medo",
-        "text": "Avançar apesar do medo é a definição prática de coragem."
+        "text": "Avançar apesar do medo é a definição prática de coragem.",
+        "explicacoes": [
+          "Em \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\", Russ Harris trata \"Coragem é carregar o medo\" como peça-chave para a terapia de aceitação e compromisso (ACT).",
+          "Na prática: Avançar apesar do medo é a definição prática de coragem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Coragem é carregar o medo\" aplica a terapia de aceitação e compromisso (ACT) de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -41934,72 +42134,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A armadilha",
         "text": "Harris descreve como esperar confiança paralisa a vida.",
         "points": [
-          "A lacuna",
-          "A paralisia"
+          {
+            "t": "A lacuna",
+            "e": "Harris descreve como esperar confiança paralisa a vida.",
+            "f": "Ação guiada por valores, não por emoções, é a saída da lacuna.",
+            "real": true
+          },
+          {
+            "t": "A paralisia",
+            "e": "Harris descreve como esperar confiança paralisa a vida.",
+            "f": "Na visão de Russ Harris, \"a paralisia\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A ciência do medo",
         "text": "Como o cérebro gera ansiedade e por que ela acompanha ação.",
         "points": [
-          "Amygdala",
-          "Normalidade"
+          {
+            "t": "Amygdala",
+            "e": "Como o cérebro gera ansiedade e por que ela acompanha ação.",
+            "f": "Na visão de Russ Harris, \"amygdala\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          },
+          {
+            "t": "Normalidade",
+            "e": "Como o cérebro gera ansiedade e por que ela acompanha ação.",
+            "f": "Na visão de Russ Harris, \"normalidade\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Defusão",
         "text": "Técnicas para ver pensamentos como eventos, não verdades.",
         "points": [
-          "Rótulo",
-          "Distância"
+          {
+            "t": "Rótulo",
+            "e": "Técnicas para ver pensamentos como eventos, não verdades.",
+            "f": "Na visão de Russ Harris, \"rótulo\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          },
+          {
+            "t": "Distância",
+            "e": "Técnicas para ver pensamentos como eventos, não verdades.",
+            "f": "Na visão de Russ Harris, \"distância\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Expansão",
         "text": "Acolher emoções difíceis em vez de evitá-las.",
         "points": [
-          "Espaço",
-          "Aceitação"
+          {
+            "t": "Espaço",
+            "e": "Acolher emoções difíceis em vez de evitá-las.",
+            "f": "Abra espaço para a ansiedade; lutar contra ela a torna mais forte.",
+            "real": true
+          },
+          {
+            "t": "Aceitação",
+            "e": "Acolher emoções difíceis em vez de evitá-las.",
+            "f": "Na visão de Russ Harris, \"aceitação\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Valores",
         "text": "Descobrir o que importa para dar direção à ação.",
         "points": [
-          "Bússola",
-          "Compromisso"
+          {
+            "t": "Bússola",
+            "e": "Descobrir o que importa para dar direção à ação.",
+            "f": "Ação guiada por valores, não por emoções, é a saída da lacuna.",
+            "real": true
+          },
+          {
+            "t": "Compromisso",
+            "e": "Descobrir o que importa para dar direção à ação.",
+            "f": "Na visão de Russ Harris, \"compromisso\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Ação engajada",
         "text": "Mover-se pelos valores mesmo com medo presente.",
         "points": [
-          "Passos",
-          "Coragem"
+          {
+            "t": "Passos",
+            "e": "Mover-se pelos valores mesmo com medo presente.",
+            "f": "A confiança não vem antes da ação; na maioria das vezes, vem depois, ou não vem.",
+            "real": true
+          },
+          {
+            "t": "Coragem",
+            "e": "Mover-se pelos valores mesmo com medo presente.",
+            "f": "Ação guiada por valores, não por emoções, é a saída da lacuna.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O mito da autoestima",
         "text": "Por que buscar confiança fixa falha e o que fazer.",
         "points": [
-          "Estado",
-          "Processo"
+          {
+            "t": "Estado",
+            "e": "Por que buscar confiança fixa falha e o que fazer.",
+            "f": "Na visão de Russ Harris, \"estado\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          },
+          {
+            "t": "Processo",
+            "e": "Por que buscar confiança fixa falha e o que fazer.",
+            "f": "Na visão de Russ Harris, \"processo\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Enfrentando evitação",
         "text": "Reduzir evitação progressivamente para recuperar vida.",
         "points": [
-          "Exposição",
-          "Liberdade"
+          {
+            "t": "Exposição",
+            "e": "Reduzir evitação progressivamente para recuperar vida.",
+            "f": "Na visão de Russ Harris, \"exposição\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Reduzir evitação progressivamente para recuperar vida.",
+            "f": "Na visão de Russ Harris, \"liberdade\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Vivendo a lacuna",
         "text": "Integrar as ferramentas numa prática contínua.",
         "points": [
-          "Prática",
-          "Valores"
+          {
+            "t": "Prática",
+            "e": "Integrar as ferramentas numa prática contínua.",
+            "f": "Ação guiada por valores, não por emoções, é a saída da lacuna.",
+            "real": true
+          },
+          {
+            "t": "Valores",
+            "e": "Integrar as ferramentas numa prática contínua.",
+            "f": "Na visão de Russ Harris, \"valores\" é parte essencial da proposta de \"A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -42157,57 +42447,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Mapeie o loop",
-        "text": "Anote gatilho, comportamento (preocupar) e recompensa falsa da ansiedade."
+        "text": "Anote gatilho, comportamento (preocupar) e recompensa falsa da ansiedade.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Mapeie o loop\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Anote gatilho, comportamento (preocupar) e recompensa falsa da ansiedade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mapeie o loop\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Substitua controle por curiosidade",
-        "text": "Olhar a ansiedade com interesse desarma a recompensa do hábito."
+        "text": "Olhar a ansiedade com interesse desarma a recompensa do hábito.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Substitua controle por curiosidade\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Olhar a ansiedade com interesse desarma a recompensa do hábito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Substitua controle por curiosidade\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Sinta o corpo primeiro",
-        "text": "Notar a sensação física interrompe a espiral mental de ruminação."
+        "text": "Notar a sensação física interrompe a espiral mental de ruminação.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Sinta o corpo primeiro\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Notar a sensação física interrompe a espiral mental de ruminação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Sinta o corpo primeiro\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Reconheça a falsa recompensa",
-        "text": "Ver que preocupar não controla nada enfraquece o ciclo."
+        "text": "Ver que preocupar não controla nada enfraquece o ciclo.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Reconheça a falsa recompensa\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Ver que preocupar não controla nada enfraquece o ciclo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reconheça a falsa recompensa\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Pratique atenção curiosa",
-        "text": "Mindfulness investigativo reduz a ativação do circuito de hábito."
+        "text": "Mindfulness investigativo reduz a ativação do circuito de hábito.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Pratique atenção curiosa\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Mindfulness investigativo reduz a ativação do circuito de hábito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique atenção curiosa\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Não lute contra",
-        "text": "Parar de suprimir a ansiedade evita o reforço do loop."
+        "text": "Parar de suprimir a ansiedade evita o reforço do loop.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Não lute contra\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Parar de suprimir a ansiedade evita o reforço do loop — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não lute contra\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Use o 'mapa de hábito'",
-        "text": "A ferramenta do livro estrutura como identificar e quebrar ciclos."
+        "text": "A ferramenta do livro estrutura como identificar e quebrar ciclos.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Use o 'mapa de hábito'\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: A ferramenta do livro estrutura como identificar e quebrar ciclos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o 'mapa de hábito'\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Aplique ao comer e dormir",
-        "text": "Ansiedade afeta ambos; curiosidade melhora ambos os hábitos."
+        "text": "Ansiedade afeta ambos; curiosidade melhora ambos os hábitos.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Aplique ao comer e dormir\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Ansiedade afeta ambos; curiosidade melhora ambos os hábitos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique ao comer e dormir\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Reduza a evitação",
-        "text": "Expor-se ao gatilho com curiosidade desaprende o medo."
+        "text": "Expor-se ao gatilho com curiosidade desaprende o medo.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Reduza a evitação\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Expor-se ao gatilho com curiosidade desaprende o medo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza a evitação\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Aceite ansiedade funcional",
-        "text": "Distinguir sinal útil de hábito evita patologizar tudo."
+        "text": "Distinguir sinal útil de hábito evita patologizar tudo.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Aceite ansiedade funcional\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Distinguir sinal útil de hábito evita patologizar tudo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite ansiedade funcional\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Treine diariamente",
-        "text": "Pequenas pausas curiosas no dia quebram o loop acumulado."
+        "text": "Pequenas pausas curiosas no dia quebram o loop acumulado.",
+        "explicacoes": [
+          "Em \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\", Judson Brewer trata \"Treine diariamente\" como peça-chave para a desidentificação dos hábitos pelo mindfulness.",
+          "Na prática: Pequenas pausas curiosas no dia quebram o loop acumulado — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine diariamente\" aplica a desidentificação dos hábitos pelo mindfulness de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -42229,72 +42574,162 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Ansiedade como hábito",
         "text": "Brewer redefine ansiedade como loop de recompensa, não evento.",
         "points": [
-          "Loop",
-          "Recompensa falsa"
+          {
+            "t": "Loop",
+            "e": "Brewer redefine ansiedade como loop de recompensa, não evento.",
+            "f": "A ansiedade não é só uma emoção; é um hábito reforçado por recompensa falsa.",
+            "real": true
+          },
+          {
+            "t": "Recompensa falsa",
+            "e": "Brewer redefine ansiedade como loop de recompensa, não evento.",
+            "f": "Tentar controlar a ansiedade a fortalece; a curiosidade a desfaz.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O mapa de hábito",
         "text": "Gatilho, comportamento e recompensa explicados.",
         "points": [
-          "Tríade",
-          "Mapear"
+          {
+            "t": "Tríade",
+            "e": "Gatilho, comportamento e recompensa explicados.",
+            "f": "A ansiedade não é só uma emoção; é um hábito reforçado por recompensa falsa.",
+            "real": true
+          },
+          {
+            "t": "Mapear",
+            "e": "Gatilho, comportamento e recompensa explicados.",
+            "f": "A curiosidade é a antítese do hábito; ela abre o que o hábito fecha.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A armadilha da preocupação",
         "text": "Como preocupar dá sensação ilusória de controle.",
         "points": [
-          "Controle falso",
-          "Reforço"
+          {
+            "t": "Controle falso",
+            "e": "Como preocupar dá sensação ilusória de controle.",
+            "f": "A preocupação nos dá a ilusão de controle, e é isso que a mantém viva.",
+            "real": true
+          },
+          {
+            "t": "Reforço",
+            "e": "Como preocupar dá sensação ilusória de controle.",
+            "f": "Na visão de Judson Brewer, \"reforço\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Por que lutar falha",
         "text": "Suprimir ativa o mesmo circuito que sustenta o hábito.",
         "points": [
-          "Supressão",
-          "Ciclo"
+          {
+            "t": "Supressão",
+            "e": "Suprimir ativa o mesmo circuito que sustenta o hábito.",
+            "f": "Na visão de Judson Brewer, \"supressão\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          },
+          {
+            "t": "Ciclo",
+            "e": "Suprimir ativa o mesmo circuito que sustenta o hábito.",
+            "f": "Na visão de Judson Brewer, \"ciclo\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A curiosidade",
         "text": "Observar com interesse quebra a recompensa do loop.",
         "points": [
-          "Investigação",
-          "Desarme"
+          {
+            "t": "Investigação",
+            "e": "Observar com interesse quebra a recompensa do loop.",
+            "f": "Tentar controlar a ansiedade a fortalece; a curiosidade a desfaz.",
+            "real": true
+          },
+          {
+            "t": "Desarme",
+            "e": "Observar com interesse quebra a recompensa do loop.",
+            "f": "A curiosidade é a antítese do hábito; ela abre o que o hábito fecha.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O corpo primeiro",
         "text": "Sensações físicas como ponto de entrada da atenção.",
         "points": [
-          "Ínsula",
-          "Sinal"
+          {
+            "t": "Ínsula",
+            "e": "Sensações físicas como ponto de entrada da atenção.",
+            "f": "Na visão de Judson Brewer, \"ínsula\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          },
+          {
+            "t": "Sinal",
+            "e": "Sensações físicas como ponto de entrada da atenção.",
+            "f": "Na visão de Judson Brewer, \"sinal\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Aplicações",
         "text": "Usar o método em comer, dormir e relacionamentos.",
         "points": [
-          "Sonho",
-          "Comida"
+          {
+            "t": "Sonho",
+            "e": "Usar o método em comer, dormir e relacionamentos.",
+            "f": "Na visão de Judson Brewer, \"sonho\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          },
+          {
+            "t": "Comida",
+            "e": "Usar o método em comer, dormir e relacionamentos.",
+            "f": "Na visão de Judson Brewer, \"comida\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Treino diário",
         "text": "Práticas curtas para desaprender a ansiedade.",
         "points": [
-          "Rotina",
-          "Presença"
+          {
+            "t": "Rotina",
+            "e": "Práticas curtas para desaprender a ansiedade.",
+            "f": "Na visão de Judson Brewer, \"rotina\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          },
+          {
+            "t": "Presença",
+            "e": "Práticas curtas para desaprender a ansiedade.",
+            "f": "Na visão de Judson Brewer, \"presença\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Liberdade do loop",
         "text": "Como o cérebro solta o hábito quando a recompensa some.",
         "points": [
-          "Desaprendizagem",
-          "Paz"
+          {
+            "t": "Desaprendizagem",
+            "e": "Como o cérebro solta o hábito quando a recompensa some.",
+            "f": "Na visão de Judson Brewer, \"desaprendizagem\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          },
+          {
+            "t": "Paz",
+            "e": "Como o cérebro solta o hábito quando a recompensa some.",
+            "f": "Na visão de Judson Brewer, \"paz\" é parte essencial da proposta de \"Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem\".",
+            "real": false
+          }
         ]
       }
     ]
