@@ -46913,62 +46913,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Adote a realidade",
-        "text": "Veja o mundo como ele é, não como gostaria que fosse. Aceitar a verdade é o primeiro passo."
+        "text": "Veja o mundo como ele é, não como gostaria que fosse. Aceitar a verdade é o primeiro passo.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Adote a realidade\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Veja o mundo como ele é, não como gostaria que fosse. Aceitar a verdade é o primeiro passo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Adote a realidade\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Dor + reflexão = progresso",
-        "text": "Use o sofrimento como gatilho para analisar o que falhou e ajustar a regra."
+        "text": "Use o sofrimento como gatilho para analisar o que falhou e ajustar a regra.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Dor + reflexão = progresso\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Use o sofrimento como gatilho para analisar o que falhou e ajustar a regra — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dor + reflexão = progresso\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Seja radicalmente honesto",
-        "text": "Diga e ouça a verdade, mesmo dolorosa. A transparência poupa meses de erro."
+        "text": "Diga e ouça a verdade, mesmo dolorosa. A transparência poupa meses de erro.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Seja radicalmente honesto\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Diga e ouça a verdade, mesmo dolorosa. A transparência poupa meses de erro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja radicalmente honesto\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Pense em causa e efeito",
-        "text": "Substitua preferências por mecânicas. Entenda por que as coisas acontecem."
+        "text": "Substitua preferências por mecânicas. Entenda por que as coisas acontecem.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Pense em causa e efeito\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Substitua preferências por mecânicas. Entenda por que as coisas acontecem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense em causa e efeito\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Crie uma meritocracia de ideias",
-        "text": "Faça a melhor hipótese vencer, independentemente de quem a trouxe."
+        "text": "Faça a melhor hipótese vencer, independentemente de quem a trouxe.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Crie uma meritocracia de ideias\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Faça a melhor hipótese vencer, independentemente de quem a trouxe — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie uma meritocracia de ideias\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Transforme decisões em algoritmos",
-        "text": "Registre critérios de escolha para repetir acertos e evitar vieses."
+        "text": "Registre critérios de escolha para repetir acertos e evitar vieses.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Transforme decisões em algoritmos\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Registre critérios de escolha para repetir acertos e evitar vieses — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Transforme decisões em algoritmos\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Conheça seu perfil C-A-P-V-E",
-        "text": "Saber onde você brilha e onde fraqueja orienta alocação e parcerias."
+        "text": "Saber onde você brilha e onde fraqueja orienta alocação e parcerias.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Conheça seu perfil C-A-P-V-E\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Saber onde você brilha e onde fraqueja orienta alocação e parcerias — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Conheça seu perfil C-A-P-V-E\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Delegue pontos fracos",
-        "text": "Busque quem completa você em vez de fingir onipotência."
+        "text": "Busque quem completa você em vez de fingir onipotência.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Delegue pontos fracos\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Busque quem completa você em vez de fingir onipotência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Delegue pontos fracos\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Escreva seus princípios",
-        "text": "Tornar regras explícitas libera energia mental e escala decisões."
+        "text": "Tornar regras explícitas libera energia mental e escala decisões.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Escreva seus princípios\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Tornar regras explícitas libera energia mental e escala decisões — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escreva seus princípios\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Abra os processos",
-        "text": "Transparência radical diminui política e alinha times em torno de fatos."
+        "text": "Transparência radical diminui política e alinha times em torno de fatos.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Abra os processos\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Transparência radical diminui política e alinha times em torno de fatos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abra os processos\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Abrace o fracasso como dado",
-        "text": "Cada falha é experimento; colete aprendizado sistematicamente."
+        "text": "Cada falha é experimento; colete aprendizado sistematicamente.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Abrace o fracasso como dado\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Cada falha é experimento; colete aprendizado sistematicamente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Abrace o fracasso como dado\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Busque o que é melhor, não o que é fácil",
-        "text": "Escolhas difíceis alinhadas à realidade superam conforto de curto prazo."
+        "text": "Escolhas difíceis alinhadas à realidade superam conforto de curto prazo.",
+        "explicacoes": [
+          "Em \"Princípios: Vida e Trabalho\", Ray Dalio trata \"Busque o que é melhor, não o que é fácil\" como peça-chave para os princípios e o sistema de decisão baseado em realidade.",
+          "Na prática: Escolhas difíceis alinhadas à realidade superam conforto de curto prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque o que é melhor, não o que é fácil\" aplica os princípios e o sistema de decisão baseado em realidade de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -46990,81 +47050,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Minha Jornada",
         "text": "Dalio narra a falência de 1982 e como o erro virou a base de seus princípios. A queda ensinou a humildade.",
         "points": [
-          "O colapso que gerou o método",
-          "A importância de assumir erros",
-          "Construir a partir da dor"
+          {
+            "t": "O colapso que gerou o método",
+            "e": "Dalio narra a falência de 1982 e como o erro virou a base de seus princípios. A queda ensinou a humildade.",
+            "f": "Na visão de Ray Dalio, \"o colapso que gerou o método\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "A importância de assumir erros",
+            "e": "Dalio narra a falência de 1982 e como o erro virou a base de seus princípios. A queda ensinou a humildade.",
+            "f": "O segredo não é ser perfeito, é saber como lidar com seus erros.",
+            "real": true
+          },
+          {
+            "t": "Construir a partir da dor",
+            "e": "Dalio narra a falência de 1982 e como o erro virou a base de seus princípios. A queda ensinou a humildade.",
+            "f": "Na visão de Ray Dalio, \"construir a partir da dor\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Tudo é uma Máquina",
         "text": "O mundo funciona por causas e efeitos previsíveis. Entender a máquina é entender a vida.",
         "points": [
-          "Realidade como sistema",
-          "Causa e efeito",
-          "Evitar o viés de desejos"
+          {
+            "t": "Realidade como sistema",
+            "e": "O mundo funciona por causas e efeitos previsíveis. Entender a máquina é entender a vida.",
+            "f": "Adote a realidade e lidarei com ela.",
+            "real": true
+          },
+          {
+            "t": "Causa e efeito",
+            "e": "O mundo funciona por causas e efeitos previsíveis. Entender a máquina é entender a vida.",
+            "f": "Na visão de Ray Dalio, \"causa e efeito\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Evitar o viés de desejos",
+            "e": "O mundo funciona por causas e efeitos previsíveis. Entender a máquina é entender a vida.",
+            "f": "Na visão de Ray Dalio, \"evitar o viés de desejos\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Verdade é a Fonte",
         "text": "Ser honesto radicalmente com os fatos é doloroso, mas é o que libera progresso real.",
         "points": [
-          "Honestidade radical",
-          "Superar o ego",
-          "Aceitar a realidade"
+          {
+            "t": "Honestidade radical",
+            "e": "Ser honesto radicalmente com os fatos é doloroso, mas é o que libera progresso real.",
+            "f": "Na visão de Ray Dalio, \"honestidade radical\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Superar o ego",
+            "e": "Ser honesto radicalmente com os fatos é doloroso, mas é o que libera progresso real.",
+            "f": "Na visão de Ray Dalio, \"superar o ego\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Aceitar a realidade",
+            "e": "Ser honesto radicalmente com os fatos é doloroso, mas é o que libera progresso real.",
+            "f": "Adote a realidade e lidarei com ela.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Dor + Reflexão = Progresso",
         "text": "O sofrimento vira aprendizado quando processado; caso contrário, repete-se.",
         "points": [
-          "Usar a dor como gatilho",
-          "O loop de melhoria",
-          "Não temer errar"
+          {
+            "t": "Usar a dor como gatilho",
+            "e": "O sofrimento vira aprendizado quando processado; caso contrário, repete-se.",
+            "f": "Dor mais reflexão iguala progresso.",
+            "real": true
+          },
+          {
+            "t": "O loop de melhoria",
+            "e": "O sofrimento vira aprendizado quando processado; caso contrário, repete-se.",
+            "f": "Na visão de Ray Dalio, \"o loop de melhoria\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Não temer errar",
+            "e": "O sofrimento vira aprendizado quando processado; caso contrário, repete-se.",
+            "f": "Na visão de Ray Dalio, \"não temer errar\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — A Mente Aberta e a Mente Radiante",
         "text": "Reconhecer que se pode estar errado e buscar quem sabe mais é competência vital.",
         "points": [
-          "Mente aberta vs. ego",
-          "Buscar o melhor pensador",
-          "Sinergia de pontos fortes"
+          {
+            "t": "Mente aberta vs. ego",
+            "e": "Reconhecer que se pode estar errado e buscar quem sabe mais é competência vital.",
+            "f": "Na visão de Ray Dalio, \"mente aberta vs. ego\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Buscar o melhor pensador",
+            "e": "Reconhecer que se pode estar errado e buscar quem sabe mais é competência vital.",
+            "f": "Na visão de Ray Dalio, \"buscar o melhor pensador\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Sinergia de pontos fortes",
+            "e": "Reconhecer que se pode estar errado e buscar quem sabe mais é competência vital.",
+            "f": "Na visão de Ray Dalio, \"sinergia de pontos fortes\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Princípios de Trabalho",
         "text": "A Bridgewater opera em meritocracia de ideias e transparência total gravada.",
         "points": [
-          "Meritocracia da ideia",
-          "Transparência radical",
-          "Regras explícitas"
+          {
+            "t": "Meritocracia da ideia",
+            "e": "A Bridgewater opera em meritocracia de ideias e transparência total gravada.",
+            "f": "Na visão de Ray Dalio, \"meritocracia da ideia\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Transparência radical",
+            "e": "A Bridgewater opera em meritocracia de ideias e transparência total gravada.",
+            "f": "Na visão de Ray Dalio, \"transparência radical\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Regras explícitas",
+            "e": "A Bridgewater opera em meritocracia de ideias e transparência total gravada.",
+            "f": "Na visão de Ray Dalio, \"regras explícitas\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — O Teste das Cinco Dimensões",
         "text": "Criatividade, Aplicação, Posição, Valores e Entendimento mapeiam onde cada um rende.",
         "points": [
-          "C-A-P-V-E",
-          "Alocação por perfil",
-          "Complementaridade"
+          {
+            "t": "C-A-P-V-E",
+            "e": "Criatividade, Aplicação, Posição, Valores e Entendimento mapeiam onde cada um rende.",
+            "f": "Na visão de Ray Dalio, \"c-a-p-v-e\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Alocação por perfil",
+            "e": "Criatividade, Aplicação, Posição, Valores e Entendimento mapeiam onde cada um rende.",
+            "f": "Na visão de Ray Dalio, \"alocação por perfil\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Complementaridade",
+            "e": "Criatividade, Aplicação, Posição, Valores e Entendimento mapeiam onde cada um rende.",
+            "f": "Na visão de Ray Dalio, \"complementaridade\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Decisões como Algoritmos",
         "text": "Registrar critérios de escolha elimina emoção e torna o acerto repetível.",
         "points": [
-          "Sistematizar escolhas",
-          "Reduzir viés",
-          "Aprender com o passado"
+          {
+            "t": "Sistematizar escolhas",
+            "e": "Registrar critérios de escolha elimina emoção e torna o acerto repetível.",
+            "f": "Quem quer que você seja, você deve aceitar a responsabilidade por suas decisões.",
+            "real": true
+          },
+          {
+            "t": "Reduzir viés",
+            "e": "Registrar critérios de escolha elimina emoção e torna o acerto repetível.",
+            "f": "O segredo não é ser perfeito, é saber como lidar com seus erros.",
+            "real": true
+          },
+          {
+            "t": "Aprender com o passado",
+            "e": "Registrar critérios de escolha elimina emoção e torna o acerto repetível.",
+            "f": "Na visão de Ray Dalio, \"aprender com o passado\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Viver de Forma Principlística",
         "text": "Aplicar princípios a cada esfera cria coerência entre vida e trabalho.",
         "points": [
-          "Coerência total",
-          "Regras que escalam",
-          "Legado de clareza"
+          {
+            "t": "Coerência total",
+            "e": "Aplicar princípios a cada esfera cria coerência entre vida e trabalho.",
+            "f": "Na visão de Ray Dalio, \"coerência total\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Regras que escalam",
+            "e": "Aplicar princípios a cada esfera cria coerência entre vida e trabalho.",
+            "f": "Na visão de Ray Dalio, \"regras que escalam\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          },
+          {
+            "t": "Legado de clareza",
+            "e": "Aplicar princípios a cada esfera cria coerência entre vida e trabalho.",
+            "f": "Na visão de Ray Dalio, \"legado de clareza\" é parte essencial da proposta de \"Princípios: Vida e Trabalho\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -47223,62 +47418,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Pense no segundo nível",
-        "text": "Não basta \"a empresa é boa\". Pense no que o consenso espera e no que virá além."
+        "text": "Não basta \"a empresa é boa\". Pense no que o consenso espera e no que virá além.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Pense no segundo nível\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: Não basta \"a empresa é boa\". Pense no que o consenso espera e no que virá além — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense no segundo nível\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "O preço é a variável-chave",
-        "text": "A qualidade do ativo importa menos que o preço pago por ele."
+        "text": "A qualidade do ativo importa menos que o preço pago por ele.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"O preço é a variável-chave\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: A qualidade do ativo importa menos que o preço pago por ele — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"O preço é a variável-chave\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Risco é perda permanente",
-        "text": "Volatilidade assusta, mas a perda real é a que não se recupera."
+        "text": "Volatilidade assusta, mas a perda real é a que não se recupera.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Risco é perda permanente\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: Volatilidade assusta, mas a perda real é a que não se recupera — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Risco é perda permanente\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Respeite o ciclo",
-        "text": "Saber onde o pêndulo está ajuda a ser cauteloso no topo e corajoso no fundo."
+        "text": "Saber onde o pêndulo está ajuda a ser cauteloso no topo e corajoso no fundo.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Respeite o ciclo\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: Saber onde o pêndulo está ajuda a ser cauteloso no topo e corajoso no fundo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Respeite o ciclo\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Busque margem de segurança",
-        "text": "Compre com folga entre preço e valor intrínseco para absorver erros."
+        "text": "Compre com folga entre preço e valor intrínseco para absorver erros.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Busque margem de segurança\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: Compre com folga entre preço e valor intrínseco para absorver erros — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque margem de segurança\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Desconfie do consenso",
-        "text": "O que todos sabem já está no preço; o lucro está na discordância certa."
+        "text": "O que todos sabem já está no preço; o lucro está na discordância certa.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Desconfie do consenso\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: O que todos sabem já está no preço; o lucro está na discordância certa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desconfie do consenso\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Diferencie sorte de habilidade",
-        "text": "Ciclos de alta mascaram incompetência; avalie resultados em crise."
+        "text": "Ciclos de alta mascaram incompetência; avalie resultados em crise.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Diferencie sorte de habilidade\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: Ciclos de alta mascaram incompetência; avalie resultados em crise — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diferencie sorte de habilidade\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Evite previsões frágeis",
-        "text": "Monte carteira para incerteza, não para o cenário que você acha certo."
+        "text": "Monte carteira para incerteza, não para o cenário que você acha certo.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Evite previsões frágeis\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: Monte carteira para incerteza, não para o cenário que você acha certo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite previsões frágeis\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Tenha convicção para contrariar",
-        "text": "Posições diferentes da manada exigem tese sólida e estômago."
+        "text": "Posições diferentes da manada exigem tese sólida e estômago.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Tenha convicção para contrariar\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: Posições diferentes da manada exigem tese sólida e estômago — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Tenha convicção para contrariar\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Entenda a eficiência de mercado",
-        "text": "O mercado tende ao justo, mas oscila entre o pânico e a euforia."
+        "text": "O mercado tende ao justo, mas oscila entre o pânico e a euforia.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Entenda a eficiência de mercado\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: O mercado tende ao justo, mas oscila entre o pânico e a euforia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda a eficiência de mercado\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "O risco é assimétrico",
-        "text": "Risco alto oferece chance de ganho, não certeza; cobre o downside."
+        "text": "Risco alto oferece chance de ganho, não certeza; cobre o downside.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"O risco é assimétrico\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: Risco alto oferece chance de ganho, não certeza; cobre o downside — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"O risco é assimétrico\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Cultive humildade",
-        "text": "Até os melhores erran; a humildade mantém a margem e a atenção."
+        "text": "Até os melhores erran; a humildade mantém a margem e a atenção.",
+        "explicacoes": [
+          "Em \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\", Howard Marks trata \"Cultive humildade\" como peça-chave para o investimento contrário e o ciclo de mercado.",
+          "Na prática: Até os melhores erran; a humildade mantém a margem e a atenção — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive humildade\" aplica o investimento contrário e o ciclo de mercado de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -47300,81 +47555,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Segundo Nível de Pensamento",
         "text": "Ganhar exige ver além do óbvio e discordar do consenso com razão. O pensamento trivial rende o trivial.",
         "points": [
-          "Pensar além do óbvio",
-          "Discordar e estar certo",
-          "O consenso já está precificado"
+          {
+            "t": "Pensar além do óbvio",
+            "e": "Ganhar exige ver além do óbvio e discordar do consenso com razão. O pensamento trivial rende o trivial.",
+            "f": "O investimento não é sobre o que você sabe, e sim sobre o quanto seu pensamento se afasta do consenso.",
+            "real": true
+          },
+          {
+            "t": "Discordar e estar certo",
+            "e": "Ganhar exige ver além do óbvio e discordar do consenso com razão. O pensamento trivial rende o trivial.",
+            "f": "É melhor ser errático e estar certo do que ser consistente e estar errado.",
+            "real": true
+          },
+          {
+            "t": "O consenso já está precificado",
+            "e": "Ganhar exige ver além do óbvio e discordar do consenso com razão. O pensamento trivial rende o trivial.",
+            "f": "Você não ganha por estar certo, ganha por estar certamente certo quando o consenso está errado.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Eficiência de Mercado",
         "text": "Marks explica por que o mercado tende ao justo, mas oscila entre extremos emocionais.",
         "points": [
-          "Mercado quase eficiente",
-          "Preço tende ao valor",
-          "Extremos criam oportunidade"
+          {
+            "t": "Mercado quase eficiente",
+            "e": "Marks explica por que o mercado tende ao justo, mas oscila entre extremos emocionais.",
+            "f": "Na visão de Howard Marks, \"mercado quase eficiente\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Preço tende ao valor",
+            "e": "Marks explica por que o mercado tende ao justo, mas oscila entre extremos emocionais.",
+            "f": "Na visão de Howard Marks, \"preço tende ao valor\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Extremos criam oportunidade",
+            "e": "Marks explica por que o mercado tende ao justo, mas oscila entre extremos emocionais.",
+            "f": "Na visão de Howard Marks, \"extremos criam oportunidade\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Valor do Preço",
         "text": "O ativo certo no preço errado vira erro. Preço pago define o resultado.",
         "points": [
-          "Qualidade vs. preço",
-          "O que você paga importa",
-          "Oportunidade na distorção"
+          {
+            "t": "Qualidade vs. preço",
+            "e": "O ativo certo no preço errado vira erro. Preço pago define o resultado.",
+            "f": "Na visão de Howard Marks, \"qualidade vs. preço\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "O que você paga importa",
+            "e": "O ativo certo no preço errado vira erro. Preço pago define o resultado.",
+            "f": "O investimento não é sobre o que você sabe, e sim sobre o quanto seu pensamento se afasta do consenso.",
+            "real": true
+          },
+          {
+            "t": "Oportunidade na distorção",
+            "e": "O ativo certo no preço errado vira erro. Preço pago define o resultado.",
+            "f": "Na visão de Howard Marks, \"oportunidade na distorção\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — O Risco",
         "text": "Risco real é perda permanente, não volatilidade. Ele é elusivo e mal medido.",
         "points": [
-          "Risco não é volatilidade",
-          "Perda permanente",
-          "Risco assimétrico"
+          {
+            "t": "Risco não é volatilidade",
+            "e": "Risco real é perda permanente, não volatilidade. Ele é elusivo e mal medido.",
+            "f": "O risco não vem da volatilidade, mas da possibilidade de perda permanente.",
+            "real": true
+          },
+          {
+            "t": "Perda permanente",
+            "e": "Risco real é perda permanente, não volatilidade. Ele é elusivo e mal medido.",
+            "f": "Na visão de Howard Marks, \"perda permanente\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Risco assimétrico",
+            "e": "Risco real é perda permanente, não volatilidade. Ele é elusivo e mal medido.",
+            "f": "Na visão de Howard Marks, \"risco assimétrico\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O Ciclo de Mercado",
         "text": "O pêndulo oscila entre euforia e pânico. Conhecê-lo orienta cautela e coragem.",
         "points": [
-          "O pêndulo emocional",
-          "Exageros recorrentes",
-          "Posição no ciclo"
+          {
+            "t": "O pêndulo emocional",
+            "e": "O pêndulo oscila entre euforia e pânico. Conhecê-lo orienta cautela e coragem.",
+            "f": "Na visão de Howard Marks, \"o pêndulo emocional\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Exageros recorrentes",
+            "e": "O pêndulo oscila entre euforia e pânico. Conhecê-lo orienta cautela e coragem.",
+            "f": "Na visão de Howard Marks, \"exageros recorrentes\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Posição no ciclo",
+            "e": "O pêndulo oscila entre euforia e pânico. Conhecê-lo orienta cautela e coragem.",
+            "f": "Na visão de Howard Marks, \"posição no ciclo\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — A Margem de Segurança",
         "text": "Comprar com folga absorve erros de previsão e protege o capital.",
         "points": [
-          "Folga entre preço e valor",
-          "Proteção contra erro",
-          "Legado de Graham"
+          {
+            "t": "Folga entre preço e valor",
+            "e": "Comprar com folga absorve erros de previsão e protege o capital.",
+            "f": "A margem de segurança é o que nos protege quando estamos errados.",
+            "real": true
+          },
+          {
+            "t": "Proteção contra erro",
+            "e": "Comprar com folga absorve erros de previsão e protege o capital.",
+            "f": "Na visão de Howard Marks, \"proteção contra erro\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Legado de Graham",
+            "e": "Comprar com folga absorve erros de previsão e protege o capital.",
+            "f": "Na visão de Howard Marks, \"legado de graham\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Ser Contrário",
         "text": "Investir contra a manada dói até dar certo; exige tese e convicção.",
         "points": [
-          "Contrariação consciente",
-          "Custo emocional",
-          "Convicção sustentada"
+          {
+            "t": "Contrariação consciente",
+            "e": "Investir contra a manada dói até dar certo; exige tese e convicção.",
+            "f": "Na visão de Howard Marks, \"contrariação consciente\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Custo emocional",
+            "e": "Investir contra a manada dói até dar certo; exige tese e convicção.",
+            "f": "Na visão de Howard Marks, \"custo emocional\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Convicção sustentada",
+            "e": "Investir contra a manada dói até dar certo; exige tese e convicção.",
+            "f": "Na visão de Howard Marks, \"convicção sustentada\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Sorte e Habilidade",
         "text": "Ciclos mascaram incompetência. O teste real de habilidade é sobreviver à crise.",
         "points": [
-          "Sorte disfarçada",
-          "Crise revela",
-          "Avaliar de verdade"
+          {
+            "t": "Sorte disfarçada",
+            "e": "Ciclos mascaram incompetência. O teste real de habilidade é sobreviver à crise.",
+            "f": "Na visão de Howard Marks, \"sorte disfarçada\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Crise revela",
+            "e": "Ciclos mascaram incompetência. O teste real de habilidade é sobreviver à crise.",
+            "f": "Na visão de Howard Marks, \"crise revela\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Avaliar de verdade",
+            "e": "Ciclos mascaram incompetência. O teste real de habilidade é sobreviver à crise.",
+            "f": "Na visão de Howard Marks, \"avaliar de verdade\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O Que É Mais Importante",
         "text": "Marks conclui que entender risco, ciclo e preço é o núcleo da vantagem duradoura.",
         "points": [
-          "Síntese final",
-          "Humildade ativa",
-          "Vantagem sustentável"
+          {
+            "t": "Síntese final",
+            "e": "Marks conclui que entender risco, ciclo e preço é o núcleo da vantagem duradoura.",
+            "f": "Na visão de Howard Marks, \"síntese final\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Humildade ativa",
+            "e": "Marks conclui que entender risco, ciclo e preço é o núcleo da vantagem duradoura.",
+            "f": "Na visão de Howard Marks, \"humildade ativa\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          },
+          {
+            "t": "Vantagem sustentável",
+            "e": "Marks conclui que entender risco, ciclo e preço é o núcleo da vantagem duradoura.",
+            "f": "Na visão de Howard Marks, \"vantagem sustentável\" é parte essencial da proposta de \"O Mais Importante para o Investidor: Lições Incomuns sobre o Mercado de Capitais\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -47533,62 +47923,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Reconheça o jogo dos perdedores",
-        "text": "Tentar superar o mercado sozinho é estatisticamente desfavorável. Aceite."
+        "text": "Tentar superar o mercado sozinho é estatisticamente desfavorável. Aceite.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Reconheça o jogo dos perdedores\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Tentar superar o mercado sozinho é estatisticamente desfavorável. Aceite — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reconheça o jogo dos perdedores\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Prefira o jogo dos vencedores",
-        "text": "Diversificação ampla, baixo custo e paciência vencem no longo prazo."
+        "text": "Diversificação ampla, baixo custo e paciência vencem no longo prazo.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Prefira o jogo dos vencedores\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Diversificação ampla, baixo custo e paciência vencem no longo prazo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Prefira o jogo dos vencedores\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Corte custos agressivamente",
-        "text": "Cada ponto percentual de taxa é retorno seu perdido para sempre."
+        "text": "Cada ponto percentual de taxa é retorno seu perdido para sempre.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Corte custos agressivamente\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Cada ponto percentual de taxa é retorno seu perdido para sempre — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Corte custos agressivamente\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Fuja do market timing",
-        "text": "Acertar entrada e saída repetidamente é quase impossível; não tente."
+        "text": "Acertar entrada e saída repetidamente é quase impossível; não tente.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Fuja do market timing\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Acertar entrada e saída repetidamente é quase impossível; não tente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Fuja do market timing\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Diversifique de verdade",
-        "text": "Espalhe risco para não depender do acaso de poucas posições."
+        "text": "Espalhe risco para não depender do acaso de poucas posições.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Diversifique de verdade\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Espalhe risco para não depender do acaso de poucas posições — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Diversifique de verdade\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use fundos indexados",
-        "text": "O índice de baixo custo é a ferramenta racional do investidor comum."
+        "text": "O índice de baixo custo é a ferramenta racional do investidor comum.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Use fundos indexados\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: O índice de baixo custo é a ferramenta racional do investidor comum — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use fundos indexados\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Reduza o giro",
-        "text": "Menos trades significam menos imposto e menos erro emocional."
+        "text": "Menos trades significam menos imposto e menos erro emocional.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Reduza o giro\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Menos trades significam menos imposto e menos erro emocional — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Reduza o giro\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Pense como instituição",
-        "text": "Os grandes fundos de pensão vencem por disciplina, não por palpite."
+        "text": "Os grandes fundos de pensão vencem por disciplina, não por palpite.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Pense como instituição\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Os grandes fundos de pensão vencem por disciplina, não por palpite — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pense como instituição\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Tenha política, não palpites",
-        "text": "Regras escritas de alocação evitam o erro comportamental."
+        "text": "Regras escritas de alocação evitam o erro comportamental.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Tenha política, não palpites\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Regras escritas de alocação evitam o erro comportamental — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Tenha política, não palpites\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Ignore o ruído de curto prazo",
-        "text": "Notícias diárias distraem; o plano de longo prazo é o que importa."
+        "text": "Notícias diárias distraem; o plano de longo prazo é o que importa.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Ignore o ruído de curto prazo\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Notícias diárias distraem; o plano de longo prazo é o que importa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ignore o ruído de curto prazo\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Rebalanceie com método",
-        "text": "Volte à alocação alvo periodicamente; isso força comprar barato."
+        "text": "Volte à alocação alvo periodicamente; isso força comprar barato.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Rebalanceie com método\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Volte à alocação alvo periodicamente; isso força comprar barato — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Rebalanceie com método\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Cultive humildade estratégica",
-        "text": "Saber o que não se deve tentar é tão valioso quanto saber investir."
+        "text": "Saber o que não se deve tentar é tão valioso quanto saber investir.",
+        "explicacoes": [
+          "Em \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\", Charles D. Ellis trata \"Cultive humildade estratégica\" como peça-chave para a bolsa e a estratégia vencedora no longo prazo.",
+          "Na prática: Saber o que não se deve tentar é tão valioso quanto saber investir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive humildade estratégica\" aplica a bolsa e a estratégia vencedora no longo prazo de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -47610,81 +48060,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Maior Jogo do Mundo",
         "text": "Ellis descreve o mercado de capitais como o jogo mais competitivo que existe. Os profissionais são formidáveis.",
         "points": [
-          "Mercado altamente competitivo",
-          "Adversários formidáveis",
-          "O indivíduo em desvantagem"
+          {
+            "t": "Mercado altamente competitivo",
+            "e": "Ellis descreve o mercado de capitais como o jogo mais competitivo que existe. Os profissionais são formidáveis.",
+            "f": "O mercado de capitais é o maior jogo do mundo, e o mais difícil de vencer.",
+            "real": true
+          },
+          {
+            "t": "Adversários formidáveis",
+            "e": "Ellis descreve o mercado de capitais como o jogo mais competitivo que existe. Os profissionais são formidáveis.",
+            "f": "Para o investidor individual, tentar bater o mercado é um jogo de perdedores.",
+            "real": true
+          },
+          {
+            "t": "O indivíduo em desvantagem",
+            "e": "Ellis descreve o mercado de capitais como o jogo mais competitivo que existe. Os profissionais são formidáveis.",
+            "f": "Na visão de Charles D. Ellis, \"o indivíduo em desvantagem\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Por Que Você Vai Perder",
         "text": "Do outro lado estão especialistas dedicados; vencer exige vantagem que o amador não tem.",
         "points": [
-          "Assimetria de recursos",
-          "Tempo integral vs. lazer",
-          "A ilusão do amador"
+          {
+            "t": "Assimetria de recursos",
+            "e": "Do outro lado estão especialistas dedicados; vencer exige vantagem que o amador não tem.",
+            "f": "Na visão de Charles D. Ellis, \"assimetria de recursos\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Tempo integral vs. lazer",
+            "e": "Do outro lado estão especialistas dedicados; vencer exige vantagem que o amador não tem.",
+            "f": "Na visão de Charles D. Ellis, \"tempo integral vs. lazer\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "A ilusão do amador",
+            "e": "Do outro lado estão especialistas dedicados; vencer exige vantagem que o amador não tem.",
+            "f": "Na visão de Charles D. Ellis, \"a ilusão do amador\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Custo Devora o Retorno",
         "text": "Taxas, impostos e giro consomem o que a seleção de ações tenta ganhar.",
         "points": [
-          "Erosão por taxas",
-          "Imposto de giro",
-          "Custo como inimigo"
+          {
+            "t": "Erosão por taxas",
+            "e": "Taxas, impostos e giro consomem o que a seleção de ações tenta ganhar.",
+            "f": "Na visão de Charles D. Ellis, \"erosão por taxas\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Imposto de giro",
+            "e": "Taxas, impostos e giro consomem o que a seleção de ações tenta ganhar.",
+            "f": "Na visão de Charles D. Ellis, \"imposto de giro\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Custo como inimigo",
+            "e": "Taxas, impostos e giro consomem o que a seleção de ações tenta ganhar.",
+            "f": "Custos são a única certeza em investimento; trate-os como inimigo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Armadilha do Market Timing",
         "text": "Quase ninguém acerta o momento certo; a tentativa destrói retornos.",
         "points": [
-          "Impossibilidade prática",
-          "Custo emocional",
-          "Ficar investido vence"
+          {
+            "t": "Impossibilidade prática",
+            "e": "Quase ninguém acerta o momento certo; a tentativa destrói retornos.",
+            "f": "Na visão de Charles D. Ellis, \"impossibilidade prática\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Custo emocional",
+            "e": "Quase ninguém acerta o momento certo; a tentativa destrói retornos.",
+            "f": "Na visão de Charles D. Ellis, \"custo emocional\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Ficar investido vence",
+            "e": "Quase ninguém acerta o momento certo; a tentativa destrói retornos.",
+            "f": "A estratégia vencedora é a mais simples e a mais difícil de manter: ficar investido.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O Jogo dos Vencedores",
         "text": "A estratégia racional é diversificar, baratear e ter paciência de longo prazo.",
         "points": [
-          "Diversificação ampla",
-          "Custo baixo",
-          "Disciplina"
+          {
+            "t": "Diversificação ampla",
+            "e": "A estratégia racional é diversificar, baratear e ter paciência de longo prazo.",
+            "f": "Para o investidor individual, tentar bater o mercado é um jogo de perdedores.",
+            "real": true
+          },
+          {
+            "t": "Custo baixo",
+            "e": "A estratégia racional é diversificar, baratear e ter paciência de longo prazo.",
+            "f": "O mercado de capitais é o maior jogo do mundo, e o mais difícil de vencer.",
+            "real": true
+          },
+          {
+            "t": "Disciplina",
+            "e": "A estratégia racional é diversificar, baratear e ter paciência de longo prazo.",
+            "f": "Na visão de Charles D. Ellis, \"disciplina\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O Poder do Indexado",
         "text": "Fundos que seguem o índice entregam o mercado com custo mínimo ao indivíduo.",
         "points": [
-          "Índice como ferramenta",
-          "Eficiência de custo",
-          "Resultado líquido superior"
+          {
+            "t": "Índice como ferramenta",
+            "e": "Fundos que seguem o índice entregam o mercado com custo mínimo ao indivíduo.",
+            "f": "Quase ninguém consegue, com consistência, bater o índice após os custos.",
+            "real": true
+          },
+          {
+            "t": "Eficiência de custo",
+            "e": "Fundos que seguem o índice entregam o mercado com custo mínimo ao indivíduo.",
+            "f": "Na visão de Charles D. Ellis, \"eficiência de custo\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Resultado líquido superior",
+            "e": "Fundos que seguem o índice entregam o mercado com custo mínimo ao indivíduo.",
+            "f": "Na visão de Charles D. Ellis, \"resultado líquido superior\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Disciplina Institucional",
         "text": "Grandes fundos de pensão vencem por política e processo, não por gênio.",
         "points": [
-          "Processo sobre gênio",
-          "Política escrita",
-          "Evitar erro"
+          {
+            "t": "Processo sobre gênio",
+            "e": "Grandes fundos de pensão vencem por política e processo, não por gênio.",
+            "f": "Na visão de Charles D. Ellis, \"processo sobre gênio\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Política escrita",
+            "e": "Grandes fundos de pensão vencem por política e processo, não por gênio.",
+            "f": "Na visão de Charles D. Ellis, \"política escrita\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Evitar erro",
+            "e": "Grandes fundos de pensão vencem por política e processo, não por gênio.",
+            "f": "Na visão de Charles D. Ellis, \"evitar erro\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Como Se Comportar",
         "text": "Rebalancear e ignorar o ruído sustenta a estratégia passiva no longo prazo.",
         "points": [
-          "Rebalanceamento",
-          "Ignorar ruído",
-          "Paciência ativa"
+          {
+            "t": "Rebalanceamento",
+            "e": "Rebalancear e ignorar o ruído sustenta a estratégia passiva no longo prazo.",
+            "f": "Custos são a única certeza em investimento; trate-os como inimigo.",
+            "real": true
+          },
+          {
+            "t": "Ignorar ruído",
+            "e": "Rebalancear e ignorar o ruído sustenta a estratégia passiva no longo prazo.",
+            "f": "Na visão de Charles D. Ellis, \"ignorar ruído\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Paciência ativa",
+            "e": "Rebalancear e ignorar o ruído sustenta a estratégia passiva no longo prazo.",
+            "f": "Na visão de Charles D. Ellis, \"paciência ativa\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — A Decisão Final",
         "text": "Ellis conclui: assuma a humildade e jogue o jogo que pode ser ganho.",
         "points": [
-          "Humildade estratégica",
-          "Escolha o jogo certo",
-          "Liberdade do amador"
+          {
+            "t": "Humildade estratégica",
+            "e": "Ellis conclui: assuma a humildade e jogue o jogo que pode ser ganho.",
+            "f": "Na visão de Charles D. Ellis, \"humildade estratégica\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          },
+          {
+            "t": "Escolha o jogo certo",
+            "e": "Ellis conclui: assuma a humildade e jogue o jogo que pode ser ganho.",
+            "f": "Para o investidor individual, tentar bater o mercado é um jogo de perdedores.",
+            "real": true
+          },
+          {
+            "t": "Liberdade do amador",
+            "e": "Ellis conclui: assuma a humildade e jogue o jogo que pode ser ganho.",
+            "f": "Na visão de Charles D. Ellis, \"liberdade do amador\" é parte essencial da proposta de \"Vencendo o Jogo dos Perdedores: Estratégias de Investimento para Quem Quer Vencer\".",
+            "real": false
+          }
         ]
       }
     ]
