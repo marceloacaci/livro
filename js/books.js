@@ -16348,5 +16348,1037 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Atrai."
       }
     ]
+  },
+  {
+    "id": "allen",
+    "slug": "getting-things-done",
+    "title": "Getting Things Done",
+    "titlePt": "Getting Things Done: A Arte da Produtividade sem Estresse",
+    "author": "David Allen",
+    "year": "2001",
+    "editionYear": "2015",
+    "publisher": "Penguin / Sextante",
+    "pages": "352",
+    "genre": "Produtividade / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/allen-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mente vazia foca",
+        "text": "Externalizar tarefas libera mente.",
+        "reflection": "Sua cabeça segura tudo?"
+      },
+      {
+        "type": "myth",
+        "title": "Lembrar basta",
+        "text": "Sistema confiável descarrega.",
+        "reflection": "Você confia na memória?"
+      },
+      {
+        "type": "truth",
+        "title": "Próxima ação",
+        "text": "Cada item vira passo concreto.",
+        "reflection": "Suas tarefas são vagas?"
+      },
+      {
+        "type": "myth",
+        "title": "Listar resolve",
+        "text": "Sem próximo passo, nada anda.",
+        "reflection": "Você só lista?"
+      },
+      {
+        "type": "truth",
+        "title": "Revisão semanal",
+        "text": "Checar sistema mantém fluxo.",
+        "reflection": "Você revisita o sistema?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais ferramenta",
+        "text": "Método vale mais que app.",
+        "reflection": "Você troca app mas não faz?"
+      }
+    ],
+    "summary": "David Allen cria o método GTD: capturar, clarificar, organizar e revisar para ter a mente livre e agir com confiança.",
+    "color": "#2980b9",
+    "file": "livro.html#getting-things-done",
+    "citacoes": [
+      {
+        "texto": "A mente é para ter ideias, não guardá-las.",
+        "autor": "David Allen",
+        "obra": "Getting Things Done"
+      },
+      {
+        "texto": "Defina a próxima ação física e visível.",
+        "autor": "David Allen",
+        "obra": "Getting Things Done"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Método de produtividade mais adotado.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Capture tudo",
+        "text": "Fora da cabeça, num lugar.",
+        "explicacoes": [
+          "Mente livre.",
+          "Nada esquece.",
+          "Foco sobra."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Próxima ação",
+        "text": "Passo concreto por item.",
+        "explicacoes": [
+          "Vago não anda.",
+          "Decisão clara.",
+          "Executa."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Revise semana",
+        "text": "Olhar o sistema uma vez.",
+        "explicacoes": [
+          "Confiança mantém.",
+          "Ajuste cedo.",
+          "Fluxo dura."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Capturar",
+        "texto": "Mente livre."
+      },
+      {
+        "titulo": "Ação",
+        "texto": "Concreta."
+      },
+      {
+        "titulo": "Revisar",
+        "texto": "Mantém."
+      }
+    ]
+  },
+  {
+    "id": "bailey",
+    "slug": "o-projeto-produtividade",
+    "title": "The Productivity Project",
+    "titlePt": "O Projeto Produtividade: Pausando o Tempo para Fazer o que Importa",
+    "author": "Chris Bailey",
+    "year": "2016",
+    "editionYear": "2017",
+    "publisher": "Crown Business / Sextante",
+    "pages": "304",
+    "genre": "Produtividade / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 300 mil",
+    "cover": "img/bailey-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Atenção é tudo",
+        "text": "Gestão de foco supera tempo.",
+        "reflection": "Você gere atenção?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais tempo",
+        "text": "Foco vale mais que horas.",
+        "reflection": "Você só busca tempo?"
+      },
+      {
+        "type": "truth",
+        "title": "Menos melhor",
+        "text": "Fazer pouco bem vale.",
+        "reflection": "Você espalha?"
+      },
+      {
+        "type": "myth",
+        "title": "Multitarefa",
+        "text": "Uma coisa por vez.",
+        "reflection": "Você divide?"
+      },
+      {
+        "type": "truth",
+        "title": "Intencionalidade",
+        "text": "Escolher onde energia vai.",
+        "reflection": "Sua energia é automática?"
+      },
+      {
+        "type": "myth",
+        "title": "Agendar basta",
+        "text": "Executar é o ponto.",
+        "reflection": "Você agenda e não faz?"
+      }
+    ],
+    "summary": "Chris Bailey relata um ano testando produtividade e conclui que gerenciar atenção, energia e intenção supera gerenciar o relógio.",
+    "color": "#27ae60",
+    "file": "livro.html#o-projeto-produtividade",
+    "citacoes": [
+      {
+        "texto": "A produtividade é gerenciar atenção, energia e intenção.",
+        "autor": "Chris Bailey",
+        "obra": "The Productivity Project"
+      },
+      {
+        "texto": "Foco é o novo IQ.",
+        "autor": "Chris Bailey",
+        "obra": "The Productivity Project"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Autoexperimento de produtividade.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Atenção",
+        "text": "Proteja o foco.",
+        "explicacoes": [
+          "Tempo cede.",
+          "Qualidade sobe.",
+          "Menos erro."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Energia",
+        "text": "Pico para o importante.",
+        "explicacoes": [
+          "Quando rende.",
+          "Usa bem.",
+          "Resultado vem."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Intenção",
+        "text": "Escolha onde vai.",
+        "explicacoes": [
+          "Automático não.",
+          "Decisão direta.",
+          "Valor cresce."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Atenção",
+        "texto": "Foco."
+      },
+      {
+        "titulo": "Energia",
+        "texto": "Pico."
+      },
+      {
+        "titulo": "Intenção",
+        "texto": "Escolha."
+      }
+    ]
+  },
+  {
+    "id": "rharris",
+    "slug": "a-lacuna-da-confianca",
+    "title": "The Confidence Gap",
+    "titlePt": "A Lacuna da Confiança: Uma Guia para Superar o Medo e a Insegurança",
+    "author": "Russ Harris",
+    "year": "2009",
+    "editionYear": "2011",
+    "publisher": "Trumpeter / Sextante",
+    "pages": "256",
+    "genre": "Autoajuda / Mindfulness",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/rharris-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Ação antes de pronto",
+        "text": "Confiança vem fazendo.",
+        "reflection": "Você espera coragem?"
+      },
+      {
+        "type": "myth",
+        "title": "Preciso me sentir pronto",
+        "text": "Fazer gera confiança.",
+        "reflection": "Você adia?"
+      },
+      {
+        "type": "truth",
+        "title": "Pensamentos não comando",
+        "text": "Notar sem obedecer.",
+        "reflection": "Você obedece ao medo?"
+      },
+      {
+        "type": "myth",
+        "title": "Eliminar medo",
+        "text": "Acolher e seguir.",
+        "reflection": "Você foge do medo?"
+      },
+      {
+        "type": "truth",
+        "title": "Valores guiam",
+        "text": "Agir pelo que importa.",
+        "reflection": "Seus valores guiam?"
+      },
+      {
+        "type": "myth",
+        "title": "Pensar positivo",
+        "text": "Aceitar real importa.",
+        "reflection": "Você força sorriso?"
+      }
+    ],
+    "summary": "Russ Harris usa ACT (Terapia de Aceitação e Compromisso) para mostrar que confiança não é sentir-se pronto, mas agir conforme valores mesmo com medo.",
+    "color": "#d35400",
+    "file": "livro.html#a-lacuna-da-confianca",
+    "citacoes": [
+      {
+        "texto": "A confiança não vem antes da ação; ela vem dela.",
+        "autor": "Russ Harris",
+        "obra": "The Confidence Gap"
+      },
+      {
+        "texto": "Não precisa se sentir bem para agir bem.",
+        "autor": "Russ Harris",
+        "obra": "The Confidence Gap"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Aplicação de ACT à autoconfiança.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Aja com medo",
+        "text": "Mesmo inseguro, faça.",
+        "explicacoes": [
+          "Confiança cresce.",
+          "Espera trava.",
+          "Passo dá."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Note pensamento",
+        "text": "É só pensamento.",
+        "explicacoes": [
+          "Não é fato.",
+          "Solta.",
+          "Segue."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Valores",
+        "text": "Por que importa.",
+        "explicacoes": [
+          "Direção clara.",
+          "Medo menor.",
+          "Compromisso sobe."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Agir",
+        "texto": "Confiança."
+      },
+      {
+        "titulo": "Notar",
+        "texto": "Solta."
+      },
+      {
+        "titulo": "Valores",
+        "texto": "Guia."
+      }
+    ]
+  },
+  {
+    "id": "brewer",
+    "slug": "desarmando-a-ansiedade",
+    "title": "Unwinding Anxiety",
+    "titlePt": "Desarmando a Ansiedade: Novas Ciências de Como Quebrar os Ciclos que Nos Prendem",
+    "author": "Judson Brewer",
+    "year": "2021",
+    "editionYear": "2022",
+    "publisher": "Avery / Sextante",
+    "pages": "304",
+    "genre": "Mindfulness / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 500 mil",
+    "cover": "img/brewer-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Ansiedade é hábito",
+        "text": "Loop de recompensa mantém.",
+        "reflection": "Você repete o ciclo?"
+      },
+      {
+        "type": "myth",
+        "title": "Pensar resolve",
+        "text": "Analisar alimenta loop.",
+        "reflection": "Você rumia?"
+      },
+      {
+        "type": "truth",
+        "title": "Curiosidade quebra",
+        "text": "Observar sem julgar desfaz.",
+        "reflection": "Você julga a emoção?"
+      },
+      {
+        "type": "myth",
+        "title": "Suprimir funciona",
+        "text": "Acolher dissipa.",
+        "reflection": "Você reprime?"
+      },
+      {
+        "type": "truth",
+        "title": "Mapa de recompensa",
+        "text": "Ver o ganho falso ajuda.",
+        "reflection": "Você vê o truque?"
+      },
+      {
+        "type": "myth",
+        "title": "Força de vontade",
+        "text": "Atenção ampla vence.",
+        "reflection": "Você resiste?"
+      }
+    ],
+    "summary": "Judson Brewer explica a ansiedade como hábito de recompensa e ensina usar curiosidade e mindfulness para desarmar os loops.",
+    "color": "#16a085",
+    "file": "livro.html#desarmando-a-ansiedade",
+    "citacoes": [
+      {
+        "texto": "Ansiedade é um hábito aprendido que pode ser desaprendido.",
+        "autor": "Judson Brewer",
+        "obra": "Unwinding Anxiety"
+      },
+      {
+        "texto": "A curiosidade é o antídoto do hábito.",
+        "autor": "Judson Brewer",
+        "obra": "Unwinding Anxiety"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pesquisa de mindfulness e vício.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Veja o loop",
+        "text": "Gatilho, comportamento, recompensa.",
+        "explicacoes": [
+          "Padrão claro.",
+          "Consciência.",
+          "Escolha aparece."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Curiosidade",
+        "text": "Observar a sensação.",
+        "explicacoes": [
+          "Julgar para.",
+          "Loop solta.",
+          "Calma vem."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Bigger melhor",
+        "text": "Recompensa saudável substitui.",
+        "explicacoes": [
+          "Troca real.",
+          "Novo hábito.",
+          "Dura."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Loop",
+        "texto": "Ver."
+      },
+      {
+        "titulo": "Curiosidade",
+        "texto": "Desarma."
+      },
+      {
+        "titulo": "Trocar",
+        "texto": "Melhor."
+      }
+    ]
+  },
+  {
+    "id": "walker",
+    "slug": "por-que-nos-dormimos",
+    "title": "Why We Sleep",
+    "titlePt": "Por Que Nós Dormimos: A Nova Ciência do Sono e dos Sonhos",
+    "author": "Matthew Walker",
+    "year": "2017",
+    "editionYear": "2018",
+    "publisher": "Scribner / Intrínseca",
+    "pages": "368",
+    "genre": "Hábitos / Saúde",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/walker-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Sono é vital",
+        "text": "Falta derruba tudo.",
+        "reflection": "Você corta sono?"
+      },
+      {
+        "type": "myth",
+        "title": "Dormir é perder",
+        "text": "Sono recupera mente.",
+        "reflection": "Você acha perda?"
+      },
+      {
+        "type": "truth",
+        "title": "Rotina ajuda",
+        "text": "Horário fixo sincroniza.",
+        "reflection": "Seu horário varia?"
+      },
+      {
+        "type": "myth",
+        "title": "Recupera fim semana",
+        "text": "Débito não paga.",
+        "reflection": "Você acumula?"
+      },
+      {
+        "type": "truth",
+        "title": "Tela prejudica",
+        "text": "Luz à noite atrapalha.",
+        "reflection": "Você usa à noite?"
+      },
+      {
+        "type": "myth",
+        "title": "Pouco é ok",
+        "text": "Menos de 7 prejudica.",
+        "reflection": "Você dorme pouco?"
+      }
+    ],
+    "summary": "Matthew Walker reúne evidências de que o sono regula memória, emoção e saúde, e ensina higiene do sono para recuperar a capacidade de pensar e viver bem.",
+    "color": "#8e44ad",
+    "file": "livro.html#por-que-nos-dormimos",
+    "citacoes": [
+      {
+        "texto": "O sono é a base da saúde e do aprendizado.",
+        "autor": "Matthew Walker",
+        "obra": "Why We Sleep"
+      },
+      {
+        "texto": "Não há função do corpo ou mente que não melhore com sono.",
+        "autor": "Matthew Walker",
+        "obra": "Why We Sleep"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Síntese de pesquisa do sono.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Horário fixo",
+        "text": "Mesmo ao acordar.",
+        "explicacoes": [
+          "Relógio sincroniza.",
+          "Sono cai.",
+          "Qualidade sobe."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Sem tela à noite",
+        "text": "Luz azul fora.",
+        "explicacoes": [
+          "Melatonina sobe.",
+          "Adormece.",
+          "Profundo vem."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "7 a 9 horas",
+        "text": "Priorize o sono.",
+        "explicacoes": [
+          "Memória consolida.",
+          "Humor melhora.",
+          "Risco cai."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Sono",
+        "texto": "Vital."
+      },
+      {
+        "titulo": "Rotina",
+        "texto": "Sincroniza."
+      },
+      {
+        "titulo": "Tela",
+        "texto": "Fora."
+      }
+    ]
+  },
+  {
+    "id": "tippett",
+    "slug": "tornar-se-sabio",
+    "title": "Becoming Wise",
+    "titlePt": "Tornar-se Sábio: Uma Investigação sobre Como Viver uma Vida Significativa",
+    "author": "Krista Tippett",
+    "year": "2016",
+    "editionYear": "2017",
+    "publisher": "Penguin / Sextante",
+    "pages": "320",
+    "genre": "Sabedoria / Propósito",
+    "language": "Inglês",
+    "copiesSold": "Mais de 300 mil",
+    "cover": "img/tippett-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Sabedoria é prática",
+        "text": "Cultivar atenção e voz.",
+        "reflection": "Você pratica sabedoria?"
+      },
+      {
+        "type": "myth",
+        "title": "Sábio nasce",
+        "text": "Torna-se com tempo.",
+        "reflection": "Você acha raro?"
+      },
+      {
+        "type": "truth",
+        "title": "Conversa aprofunda",
+        "text": "Diálogo honesto forma.",
+        "reflection": "Suas conversas aprofundam?"
+      },
+      {
+        "type": "myth",
+        "title": "Resposta pronta",
+        "text": "Pergunta abre.",
+        "reflection": "Você responde rápido?"
+      },
+      {
+        "type": "truth",
+        "title": "Generosidade ouve",
+        "text": "Escutar amplia.",
+        "reflection": "Você ouve de verdade?"
+      },
+      {
+        "type": "myth",
+        "title": "Certeza basta",
+        "text": "Dúvida fértil ajuda.",
+        "reflection": "Você foge da dúvida?"
+      }
+    ],
+    "summary": "Krista Tippett compila conversas com pensadores para mostrar que sabedoria é uma prática diária de atenção, linguagem e escuta generosa.",
+    "color": "#c0392b",
+    "file": "livro.html#tornar-se-sabio",
+    "citacoes": [
+      {
+        "texto": "A sabedoria é uma prática, não um estado.",
+        "autor": "Krista Tippett",
+        "obra": "Becoming Wise"
+      },
+      {
+        "texto": "A escuta generosa transforma.",
+        "autor": "Krista Tippett",
+        "obra": "Becoming Wise"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Da série de rádio On Being.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Pergunte bem",
+        "text": "Pergunta certa abre.",
+        "explicacoes": [
+          "Resposta rica.",
+          "Diálogo sobe.",
+          "Aprende."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Escute generoso",
+        "text": "Ouça para entender.",
+        "explicacoes": [
+          "Vínculo cresce.",
+          "Viés cai.",
+          "Sabedoria vem."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Pratique",
+        "text": "Atenção todo dia.",
+        "explicacoes": [
+          "Torna-se.",
+          "Consistência.",
+          "Vida inteira."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Pergunta",
+        "texto": "Abre."
+      },
+      {
+        "titulo": "Escuta",
+        "texto": "Generosa."
+      },
+      {
+        "titulo": "Prática",
+        "texto": "Torna."
+      }
+    ]
+  },
+  {
+    "id": "dass",
+    "slug": "esteja-aqui-agora",
+    "title": "Be Here Now",
+    "titlePt": "Esteja Aqui Agora",
+    "author": "Ram Dass",
+    "year": "1971",
+    "editionYear": "2010",
+    "publisher": "Crown / Pensamento",
+    "pages": "416",
+    "genre": "Mindfulness / Espiritualidade",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/dass-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Presente é lar",
+        "text": "Agora é onde estar.",
+        "reflection": "Você vive no passado/futuro?"
+      },
+      {
+        "type": "myth",
+        "title": "Buscar fora",
+        "text": "Dentro é a fonte.",
+        "reflection": "Você procura fora?"
+      },
+      {
+        "type": "truth",
+        "title": "Solte papel",
+        "text": "Identidade rígida prende.",
+        "reflection": "Você se prende a rótulo?"
+      },
+      {
+        "type": "myth",
+        "title": "Destino distante",
+        "text": "Caminho é aqui.",
+        "reflection": "Você adia viver?"
+      },
+      {
+        "type": "truth",
+        "title": "Servir liberta",
+        "text": "Amor ao outro expande.",
+        "reflection": "Você serve?"
+      },
+      {
+        "type": "myth",
+        "title": "Técnica única",
+        "text": "Caminho é pessoal.",
+        "reflection": "Você copia?"
+      }
+    ],
+    "summary": "Ram Dass relata sua jornada de Harvard à Índia, ensinando presença, desapego e serviço como caminho de libertação interior.",
+    "color": "#2980b9",
+    "file": "livro.html#esteja-aqui-agora",
+    "citacoes": [
+      {
+        "texto": "Seja aqui agora.",
+        "autor": "Ram Dass",
+        "obra": "Be Here Now"
+      },
+      {
+        "texto": "O viajante e a jornada são um.",
+        "autor": "Ram Dass",
+        "obra": "Be Here Now"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Ícone da contracultura espiritual.",
+        "autor": "Mídia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Aqui agora",
+        "text": "Atenção no presente.",
+        "explicacoes": [
+          "Mente quieta.",
+          "Vida real.",
+          "Paz sobe."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Solte rótulo",
+        "text": "Identidade flui.",
+        "explicacoes": [
+          "Prender sai.",
+          "Leveza vem.",
+          "Ser amplia."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Sirva",
+        "text": "Amor em ação.",
+        "explicacoes": [
+          "Ego cede.",
+          "Conexão.",
+          "Libera."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Presente",
+        "texto": "Lar."
+      },
+      {
+        "titulo": "Soltar",
+        "texto": "Leve."
+      },
+      {
+        "titulo": "Servir",
+        "texto": "Libera."
+      }
+    ]
+  },
+  {
+    "id": "kabat",
+    "slug": "onde-voce-esta",
+    "title": "Wherever You Go, There You Are",
+    "titlePt": "Onde Você Está? Mindfulness para o Dia a Dia",
+    "author": "Jon Kabat-Zinn",
+    "year": "1994",
+    "editionYear": "2005",
+    "publisher": "Hyperion / Sextante",
+    "pages": "288",
+    "genre": "Mindfulness / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/kabat-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Mindfulness diário",
+        "text": "Atenção na rotina.",
+        "reflection": "Você traz atenção?"
+      },
+      {
+        "type": "myth",
+        "title": "Precisa retiro",
+        "text": "Dia a dia basta.",
+        "reflection": "Você espera lugar?"
+      },
+      {
+        "type": "truth",
+        "title": "Não julgar",
+        "text": "Notar sem rotular.",
+        "reflection": "Você julga tudo?"
+      },
+      {
+        "type": "myth",
+        "title": "Esvaziar mente",
+        "text": "Observar, não limpar.",
+        "reflection": "Você tenta apagar?"
+      },
+      {
+        "type": "truth",
+        "title": "Respiração ancora",
+        "text": "Suspiro traz ao agora.",
+        "reflection": "Você respira consciente?"
+      },
+      {
+        "type": "myth",
+        "title": "Relaxar só",
+        "text": "Presença é acordar.",
+        "reflection": "Você confunde com descanso?"
+      }
+    ],
+    "summary": "Jon Kabat-Zinn traz a atenção plena para o cotidiano em pequenos capítulos, mostrando que mindfulness é estar presente na vida comum.",
+    "color": "#27ae60",
+    "file": "livro.html#onde-voce-esta",
+    "citacoes": [
+      {
+        "texto": "Você já é perfeito, e ainda pode crescer.",
+        "autor": "Jon Kabat-Zinn",
+        "obra": "Wherever You Go, There You Are"
+      },
+      {
+        "texto": "A atenção plena é estar presente no que é.",
+        "autor": "Jon Kabat-Zinn",
+        "obra": "Wherever You Go, There You Are"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Pioneiro de mindfulness na medicina.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Presente",
+        "text": "Atenção no que é.",
+        "explicacoes": [
+          "Automático cai.",
+          "Real aparece.",
+          "Calma sobe."
+        ]
+      },
+      {
+        "number": "2",
+        "title": " Não julgue",
+        "text": "Observar sem rótulo.",
+        "explicacoes": [
+          "Pressão sai.",
+          "Clareza vem.",
+          "Paz cresce."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Respire",
+        "text": "Âncora de volta.",
+        "explicacoes": [
+          "Agora volta.",
+          "Corpo acalma.",
+          "Foco renasce."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Presente",
+        "texto": "Atenção."
+      },
+      {
+        "titulo": "Sem julgar",
+        "texto": "Observa."
+      },
+      {
+        "titulo": "Respirar",
+        "texto": "Âncora."
+      }
+    ]
   }
 ];
