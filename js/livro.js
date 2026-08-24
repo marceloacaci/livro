@@ -28,8 +28,22 @@
       return;
     }
 
-    document.getElementById('heroCover').src = book.cover;
-  document.getElementById('heroCover').alt = 'Capa ' + book.title;
+    var heroCover = document.getElementById('heroCover');
+    var coverImg = new Image();
+    coverImg.onload = function () { heroCover.src = book.cover; };
+    coverImg.onerror = function () {
+      if (typeof window.bookCoverFallback === 'function') {
+        heroCover.onerror = null;
+        heroCover.setAttribute('data-color', book.color || '#2980b9');
+        heroCover.setAttribute('data-title', (book.titlePt || book.title).toUpperCase().slice(0, 28));
+        heroCover.setAttribute('data-author', book.author || '');
+        window.bookCoverFallback(heroCover);
+      } else {
+        heroCover.src = book.cover;
+      }
+    };
+    coverImg.src = book.cover;
+  heroCover.alt = 'Capa ' + book.title;
   document.getElementById('heroTitle').textContent = book.titlePt;
   document.getElementById('heroLead').textContent = book.summary;
   document.title = 'Reflexões — ' + book.titlePt;
