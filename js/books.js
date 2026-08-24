@@ -19473,57 +19473,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Aceite a limitação cognitiva",
-        "text": "Reconheça que nenhum especialista retém todo passo crítico sob estresse."
+        "text": "Reconheça que nenhum especialista retém todo passo crítico sob estresse.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Aceite a limitação cognitiva\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Reconheça que nenhum especialista retém todo passo crítico sob estresse — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite a limitação cognitiva\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Crie checklists enxutos",
-        "text": "Liste só o essencial que, se pulado, causa dano; o resto vai à memória."
+        "text": "Liste só o essencial que, se pulado, causa dano; o resto vai à memória.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Crie checklists enxutos\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Liste só o essencial que, se pulado, causa dano; o resto vai à memória — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Crie checklists enxutos\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Escolha o tipo certo",
-        "text": "Use \"faça-verificando\" para execução linear e \"verifique-feito\" para confirmação posterior."
+        "text": "Use \"faça-verificando\" para execução linear e \"verifique-feito\" para confirmação posterior.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Escolha o tipo certo\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Use \"faça-verificando\" para execução linear e \"verifique-feito\" para confirmação posterior — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escolha o tipo certo\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Padronize a comunicação",
-        "text": "Comece com apresentação da equipe e confirmação de papéis para evitar silêncios fatais."
+        "text": "Comece com apresentação da equipe e confirmação de papéis para evitar silêncios fatais.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Padronize a comunicação\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Comece com apresentação da equipe e confirmação de papéis para evitar silêncios fatais — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Padronize a comunicação\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Teste em campo real",
-        "text": "Valide a lista em condições reais antes de decretá-la obrigatória."
+        "text": "Valide a lista em condições reais antes de decretá-la obrigatória.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Teste em campo real\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Valide a lista em condições reais antes de decretá-la obrigatória — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Teste em campo real\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Não burocratize",
-        "text": "Listas longas são rejeitadas; menos itens, mais adesão."
+        "text": "Listas longas são rejeitadas; menos itens, mais adesão.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Não burocratize\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Listas longas são rejeitadas; menos itens, mais adesão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não burocratize\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Libere o julgamento",
-        "text": "Use a lista para o básico e reserve atenção para o que exige criatividade."
+        "text": "Use a lista para o básico e reserve atenção para o que exige criatividade.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Libere o julgamento\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Use a lista para o básico e reserve atenção para o que exige criatividade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Libere o julgamento\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Meça resultados",
-        "text": "Acompanhe taxas de infecção, erro ou retrabalho para provar o valor."
+        "text": "Acompanhe taxas de infecção, erro ou retrabalho para provar o valor.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Meça resultados\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Acompanhe taxas de infecção, erro ou retrabalho para provar o valor — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Meça resultados\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Institucionalize sem culpa",
-        "text": "Erros devem gerar ajuste de processo, não punição que esconde a causa."
+        "text": "Erros devem gerar ajuste de processo, não punição que esconde a causa.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Institucionalize sem culpa\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Erros devem gerar ajuste de processo, não punição que esconde a causa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Institucionalize sem culpa\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Adapte ao contexto",
-        "text": "A mesma lógica serve a hospitais, obras, escritórios e lares."
+        "text": "A mesma lógica serve a hospitais, obras, escritórios e lares.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Adapte ao contexto\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: A mesma lógica serve a hospitais, obras, escritórios e lares — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Adapte ao contexto\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Lidere pela humildade",
-        "text": "Quem manda usar lista e também a segue transforma a cultura."
+        "text": "Quem manda usar lista e também a segue transforma a cultura.",
+        "explicacoes": [
+          "Em \"O Checklist do Sucesso\", Atul Gawande trata \"Lidere pela humildade\" como peça-chave para a execução segura através de listas de verificação.",
+          "Na prática: Quem manda usar lista e também a segue transforma a cultura — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Lidere pela humildade\" aplica a execução segura através de listas de verificação de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -19545,64 +19600,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O Problema do Cedro",
         "text": "Gawande narra o colapso de um edifício por uma falha simples ignorada, mostrando que complexidade vence o expertise.",
         "points": [
-          "Complexidade moderna.",
-          "Falha do básico."
+          {
+            "t": "Complexidade moderna.",
+            "e": "Gawande narra o colapso de um edifício por uma falha simples ignorada, mostrando que complexidade vence o expertise.",
+            "f": "Na visão de Atul Gawande, \"complexidade moderna.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Falha do básico.",
+            "e": "Gawande narra o colapso de um edifício por uma falha simples ignorada, mostrando que complexidade vence o expertise.",
+            "f": "Na visão de Atul Gawande, \"falha do básico.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — O Check-list",
         "text": "Introduz o conceito e a história das listas na aviação, que tornou o voo comercial seguro.",
         "points": [
-          "Origem na aviação.",
-          "Disciplina sobre heroísmo."
+          {
+            "t": "Origem na aviação.",
+            "e": "Introduz o conceito e a história das listas na aviação, que tornou o voo comercial seguro.",
+            "f": "Na visão de Atul Gawande, \"origem na aviação.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Disciplina sobre heroísmo.",
+            "e": "Introduz o conceito e a história das listas na aviação, que tornou o voo comercial seguro.",
+            "f": "Na visão de Atul Gawande, \"disciplina sobre heroísmo.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O Fim da Asas do Homem",
         "text": "Conta como a Força Aérea testou pilotos e descobriu que processo vence talento individual.",
         "points": [
-          "Testes de piloto.",
-          "Papel do procedimento."
+          {
+            "t": "Testes de piloto.",
+            "e": "Conta como a Força Aérea testou pilotos e descobriu que processo vence talento individual.",
+            "f": "Na visão de Atul Gawande, \"testes de piloto.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Papel do procedimento.",
+            "e": "Conta como a Força Aérea testou pilotos e descobriu que processo vence talento individual.",
+            "f": "A humildade de usar um cartão de papel salvou mais vidas que qualquer nova tecnologia.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A Ponta do Lápis",
         "text": "Mostra a engenharia de uma boa lista: poucos itens, linguagem clara, fácil de usar.",
         "points": [
-          "Design de checklist.",
-          "Menos é mais."
+          {
+            "t": "Design de checklist.",
+            "e": "Mostra a engenharia de uma boa lista: poucos itens, linguagem clara, fácil de usar.",
+            "f": "O checklist não substitui o julgamento; ele o libera.",
+            "real": true
+          },
+          {
+            "t": "Menos é mais.",
+            "e": "Mostra a engenharia de uma boa lista: poucos itens, linguagem clara, fácil de usar.",
+            "f": "A humildade de usar um cartão de papel salvou mais vidas que qualquer nova tecnologia.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O Teste da OMS",
         "text": "Descreve a criação e os resultados do checklist cirúrgico global da Organização Mundial da Saúde.",
         "points": [
-          "Redução de mortalidade.",
-          "Adoção em hospitais."
+          {
+            "t": "Redução de mortalidade.",
+            "e": "Descreve a criação e os resultados do checklist cirúrgico global da Organização Mundial da Saúde.",
+            "f": "Na visão de Atul Gawande, \"redução de mortalidade.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Adoção em hospitais.",
+            "e": "Descreve a criação e os resultados do checklist cirúrgico global da Organização Mundial da Saúde.",
+            "f": "Na visão de Atul Gawande, \"adoção em hospitais.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O Herói e o Lápis",
         "text": "Discute a resistência dos médicos e por que humildade melhora a prática clínica.",
         "points": [
-          "Cultura médica.",
-          "Humildade profissional."
+          {
+            "t": "Cultura médica.",
+            "e": "Discute a resistência dos médicos e por que humildade melhora a prática clínica.",
+            "f": "Na visão de Atul Gawande, \"cultura médica.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Humildade profissional.",
+            "e": "Discute a resistência dos médicos e por que humildade melhora a prática clínica.",
+            "f": "A humildade de usar um cartão de papel salvou mais vidas que qualquer nova tecnologia.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A Salvação na Simplicidade",
         "text": "Relata aplicações em construção e finanças, provando a universalidade do método.",
         "points": [
-          "Outros setores.",
-          "Simplicidade escalável."
+          {
+            "t": "Outros setores.",
+            "e": "Relata aplicações em construção e finanças, provando a universalidade do método.",
+            "f": "Na visão de Atul Gawande, \"outros setores.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Simplicidade escalável.",
+            "e": "Relata aplicações em construção e finanças, provando a universalidade do método.",
+            "f": "Na visão de Atul Gawande, \"simplicidade escalável.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O Poder do Faça e Confirme",
         "text": "Detalha os dois tipos de lista e quando usar cada um na prática.",
         "points": [
-          "Read-do vs do-confirm.",
-          "Momento certo da lista."
+          {
+            "t": "Read-do vs do-confirm.",
+            "e": "Detalha os dois tipos de lista e quando usar cada um na prática.",
+            "f": "Na visão de Atul Gawande, \"read-do vs do-confirm.\" é parte essencial da proposta de \"O Checklist do Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Momento certo da lista.",
+            "e": "Detalha os dois tipos de lista e quando usar cada um na prática.",
+            "f": "A lista de verificação é uma ferramenta que compensa as limitações do cérebro humano.",
+            "real": true
+          }
         ]
       }
     ]
@@ -19755,57 +19890,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Entenda a equação do esforço",
-        "text": "Habilidade e realização dependem de esforço multiplicado, não só de dom."
+        "text": "Habilidade e realização dependem de esforço multiplicado, não só de dom.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Entenda a equação do esforço\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Habilidade e realização dependem de esforço multiplicado, não só de dom — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Entenda a equação do esforço\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Defina um objetivo superior",
-        "text": "Paixão exige meta de longo prazo que dá sentido ao cotidiano."
+        "text": "Paixão exige meta de longo prazo que dá sentido ao cotidiano.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Defina um objetivo superior\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Paixão exige meta de longo prazo que dá sentido ao cotidiano — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Defina um objetivo superior\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Adote a mentalidade de crescimento",
-        "text": "Crera na capacidade de desenvolver-se mantém o esforço após falhas."
+        "text": "Crera na capacidade de desenvolver-se mantém o esforço após falhas.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Adote a mentalidade de crescimento\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Crera na capacidade de desenvolver-se mantém o esforço após falhas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Adote a mentalidade de crescimento\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Pratique a regra da coisa difícil",
-        "text": "Comprometa-se com algo desafiador e sustente-o por longo tempo."
+        "text": "Comprometa-se com algo desafiador e sustente-o por longo tempo.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Pratique a regra da coisa difícil\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Comprometa-se com algo desafiador e sustente-o por longo tempo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a regra da coisa difícil\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Atravesse o tédio",
-        "text": "O meio do caminho é monótono; persistir ali é o músculo do grit."
+        "text": "O meio do caminho é monótono; persistir ali é o músculo do grit.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Atravesse o tédio\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: O meio do caminho é monótono; persistir ali é o músculo do grit — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Atravesse o tédio\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Cultive esperança ativa",
-        "text": "Diante de bloqueios, trace rotas alternativas em vez de desistir."
+        "text": "Diante de bloqueios, trace rotas alternativas em vez de desistir.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Cultive esperança ativa\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Diante de bloqueios, trace rotas alternativas em vez de desistir — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Cultive esperança ativa\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Busque cultura de exigência",
-        "text": "Cerque-se de ambientes e pessoas que demandam constância."
+        "text": "Cerque-se de ambientes e pessoas que demandam constância.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Busque cultura de exigência\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Cerque-se de ambientes e pessoas que demandam constância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque cultura de exigência\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Alinhe esforço a propósito",
-        "text": "Disciplina sem direção cansa; conecte-a a um \"porquê\"."
+        "text": "Disciplina sem direção cansa; conecte-a a um \"porquê\".",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Alinhe esforço a propósito\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Disciplina sem direção cansa; conecte-a a um \"porquê\" — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Alinhe esforço a propósito\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Valorize o progresso visível",
-        "text": "Marcos pequenos sustentam interesse ao longo de anos."
+        "text": "Marcos pequenos sustentam interesse ao longo de anos.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Valorize o progresso visível\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Marcos pequenos sustentam interesse ao longo de anos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Valorize o progresso visível\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Não romantize o sofrimento",
-        "text": "Reconheça quando o ambiente é tóxico e saia, sem rótulo de fracasso."
+        "text": "Reconheça quando o ambiente é tóxico e saia, sem rótulo de fracasso.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Não romantize o sofrimento\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Reconheça quando o ambiente é tóxico e saia, sem rótulo de fracasso — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não romantize o sofrimento\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Treine grit em crianças",
-        "text": "Escolas e pais devem ensinar perseverança, não só elogiar talento."
+        "text": "Escolas e pais devem ensinar perseverança, não só elogiar talento.",
+        "explicacoes": [
+          "Em \"Grit: Paixão e Perseverança\", Angela Duckworth trata \"Treine grit em crianças\" como peça-chave para o grit (paixão + perseverança) como motor do sucesso.",
+          "Na prática: Escolas e pais devem ensinar perseverança, não só elogiar talento — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Treine grit em crianças\" aplica o grit (paixão + perseverança) como motor do sucesso de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -19827,64 +20017,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Sobre o Grit",
         "text": "Duckworth define o conceito e conta como o descobriu estudando spelling bees e West Point.",
         "points": [
-          "Definição de grit.",
-          "Por que o dom não basta."
+          {
+            "t": "Definição de grit.",
+            "e": "Duckworth define o conceito e conta como o descobriu estudando spelling bees e West Point.",
+            "f": "Grit é paixão e perseverança por objetivos de longo prazo.",
+            "real": true
+          },
+          {
+            "t": "Por que o dom não basta.",
+            "e": "Duckworth define o conceito e conta como o descobriu estudando spelling bees e West Point.",
+            "f": "A esperança de quem tem grit é um plano, não um desejo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — A Evidência do Grit",
         "text": "Apresenta dados de militar, venda e academia mostrando perseverança vencendo aptidão.",
         "points": [
-          "Estudos correlacionais.",
-          "Grit como preditor."
+          {
+            "t": "Estudos correlacionais.",
+            "e": "Apresenta dados de militar, venda e academia mostrando perseverança vencendo aptidão.",
+            "f": "Grit é paixão e perseverança por objetivos de longo prazo.",
+            "real": true
+          },
+          {
+            "t": "Grit como preditor.",
+            "e": "Apresenta dados de militar, venda e academia mostrando perseverança vencendo aptidão.",
+            "f": "A esperança de quem tem grit é um plano, não um desejo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 3 — Como o Grit é Posto à Prova",
         "text": "Discute o \"teste de intestino\" e a resiliência sob pressão extrema.",
         "points": [
-          "Resistência.",
-          "Pressão prolongada."
+          {
+            "t": "Resistência.",
+            "e": "Discute o \"teste de intestino\" e a resiliência sob pressão extrema.",
+            "f": "Grit é paixão e perseverança por objetivos de longo prazo.",
+            "real": true
+          },
+          {
+            "t": "Pressão prolongada.",
+            "e": "Discute o \"teste de intestino\" e a resiliência sob pressão extrema.",
+            "f": "A esperança de quem tem grit é um plano, não um desejo.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Interesse",
         "text": "Explica que paixão é cultivada e sustentada, não achada pronta.",
         "points": [
-          "Descoberta de interesse.",
-          "Alimentar a chama."
+          {
+            "t": "Descoberta de interesse.",
+            "e": "Explica que paixão é cultivada e sustentada, não achada pronta.",
+            "f": "Sem interesse, sem paixão sustentada; sem paixão, o esforço esfria.",
+            "real": true
+          },
+          {
+            "t": "Alimentar a chama.",
+            "e": "Explica que paixão é cultivada e sustentada, não achada pronta.",
+            "f": "Na visão de Angela Duckworth, \"alimentar a chama.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Prática",
         "text": "Mostra a prática deliberada, dolorosa e focada como geradora de maestria.",
         "points": [
-          "Prática deliberada.",
-          "Desconforto útil."
+          {
+            "t": "Prática deliberada.",
+            "e": "Mostra a prática deliberada, dolorosa e focada como geradora de maestria.",
+            "f": "Na visão de Angela Duckworth, \"prática deliberada.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
+            "real": false
+          },
+          {
+            "t": "Desconforto útil.",
+            "e": "Mostra a prática deliberada, dolorosa e focada como geradora de maestria.",
+            "f": "Na visão de Angela Duckworth, \"desconforto útil.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Propósito",
         "text": "Conecta o esforço a algo maior que o eu, o que sustenta o grit.",
         "points": [
-          "Sentido.",
-          "Além de si."
+          {
+            "t": "Sentido.",
+            "e": "Conecta o esforço a algo maior que o eu, o que sustenta o grit.",
+            "f": "Na visão de Angela Duckworth, \"sentido.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
+            "real": false
+          },
+          {
+            "t": "Além de si.",
+            "e": "Conecta o esforço a algo maior que o eu, o que sustenta o grit.",
+            "f": "Na visão de Angela Duckworth, \"além de si.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Esperança",
         "text": "Descreve a esperança ativa como traçar rotas alternativas diante de bloqueios.",
         "points": [
-          "Esperança estratégica.",
-          "Planos B."
+          {
+            "t": "Esperança estratégica.",
+            "e": "Descreve a esperança ativa como traçar rotas alternativas diante de bloqueios.",
+            "f": "A esperança de quem tem grit é um plano, não um desejo.",
+            "real": true
+          },
+          {
+            "t": "Planos B.",
+            "e": "Descreve a esperança ativa como traçar rotas alternativas diante de bloqueios.",
+            "f": "Na visão de Angela Duckworth, \"planos b.\" é parte essencial da proposta de \"Grit: Paixão e Perseverança\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Cultivando o Grit",
         "text": "Dá passos para pais, escolas e líderes desenvolverem perseverança.",
         "points": [
-          "Regra da coisa difícil.",
-          "Cultura de exigência."
+          {
+            "t": "Regra da coisa difícil.",
+            "e": "Dá passos para pais, escolas e líderes desenvolverem perseverança.",
+            "f": "Grit é paixão e perseverança por objetivos de longo prazo.",
+            "real": true
+          },
+          {
+            "t": "Cultura de exigência.",
+            "e": "Dá passos para pais, escolas e líderes desenvolverem perseverança.",
+            "f": "A esperança de quem tem grit é um plano, não um desejo.",
+            "real": true
+          }
         ]
       }
     ]
@@ -20037,57 +20307,112 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Busque a antifragilidade",
-        "text": "Projete vida e negócios para ganharem com volatilidade, não só resistirem."
+        "text": "Projete vida e negócios para ganharem com volatilidade, não só resistirem.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Busque a antifragilidade\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Projete vida e negócios para ganharem com volatilidade, não só resistirem — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Busque a antifragilidade\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Use a barbell strategy",
-        "text": "Combine segurança extrema numa ponta com opções de alta recompensa na outra."
+        "text": "Combine segurança extrema numa ponta com opções de alta recompensa na outra.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Use a barbell strategy\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Combine segurança extrema numa ponta com opções de alta recompensa na outra — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use a barbell strategy\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Pratique a via negativa",
-        "text": "Prefira evitar danos irreversíveis a perseguir ganhos incertos."
+        "text": "Prefira evitar danos irreversíveis a perseguir ganhos incertos.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Pratique a via negativa\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Prefira evitar danos irreversíveis a perseguir ganhos incertos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a via negativa\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Garanta opcionalidade",
-        "text": "Mantenha o direito de se beneficiar do imprevisível sem a obrigação de sofrer."
+        "text": "Mantenha o direito de se beneficiar do imprevisível sem a obrigação de sofrer.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Garanta opcionalidade\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Mantenha o direito de se beneficiar do imprevisível sem a obrigação de sofrer — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Garanta opcionalidade\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Desconfie de previsões",
-        "text": "Invista em exposição e resiliência, não em profetas de cisne negro."
+        "text": "Invista em exposição e resiliência, não em profetas de cisne negro.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Desconfie de previsões\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Invista em exposição e resiliência, não em profetas de cisne negro — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Desconfie de previsões\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Aplique o efeito Lindy",
-        "text": "Valorize práticas e ideias que já provaram durabilidade."
+        "text": "Valorize práticas e ideias que já provaram durabilidade.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Aplique o efeito Lindy\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Valorize práticas e ideias que já provaram durabilidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aplique o efeito Lindy\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Exija pele no jogo",
-        "text": "Só confie em quem divide o risco real das próprias recomendações."
+        "text": "Só confie em quem divide o risco real das próprias recomendações.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Exija pele no jogo\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Só confie em quem divide o risco real das próprias recomendações — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Exija pele no jogo\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Subtraia antes de somar",
-        "text": "Eliminar o desnecessário frequentemente resolve mais que novas camadas."
+        "text": "Eliminar o desnecessário frequentemente resolve mais que novas camadas.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Subtraia antes de somar\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Eliminar o desnecessário frequentemente resolve mais que novas camadas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Subtraia antes de somar\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Use estresse hormético",
-        "text": "Exponha-se a choques pequenos para construir imunidade ao grande."
+        "text": "Exponha-se a choques pequenos para construir imunidade ao grande.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Use estresse hormético\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Exponha-se a choques pequenos para construir imunidade ao grande — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use estresse hormético\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Evite o meio morto",
-        "text": "O \"médio\" suave esconde risco de cauda; escolha extremos assimétricos."
+        "text": "O \"médio\" suave esconde risco de cauda; escolha extremos assimétricos.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Evite o meio morto\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: O \"médio\" suave esconde risco de cauda; escolha extremos assimétricos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite o meio morto\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Tolerância a erro barato",
-        "text": "Trate falha pequena como dado, não como vergonha."
+        "text": "Trate falha pequena como dado, não como vergonha.",
+        "explicacoes": [
+          "Em \"Antifrágil: Coisas que se Beneficiam com o Caos\", Nassim Nicholas Taleb trata \"Tolerância a erro barato\" como peça-chave para a antifragilidade e a vantagem do caos e da incerteza.",
+          "Na prática: Trate falha pequena como dado, não como vergonha — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Tolerância a erro barato\" aplica a antifragilidade e a vantagem do caos e da incerteza de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -20109,64 +20434,144 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — O que é Antifrágil",
         "text": "Taleb nomeia a propriedade de melhorar com o estresse e explica a lacuna de vocabulário.",
         "points": [
-          "Frágil vs robusto vs antifrágil.",
-          "Por que não tínhamos a palavra."
+          {
+            "t": "Frágil vs robusto vs antifrágil.",
+            "e": "Taleb nomeia a propriedade de melhorar com o estresse e explica a lacuna de vocabulário.",
+            "f": "O que é frágil quebra com o estresse; o que é antifrágil melhora com ele.",
+            "real": true
+          },
+          {
+            "t": "Por que não tínhamos a palavra.",
+            "e": "Taleb nomeia a propriedade de melhorar com o estresse e explica a lacuna de vocabulário.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"por que não tínhamos a palavra.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Sobrevivência e Cisne Negro",
         "text": "Conecta antifragilidade aos eventos raros e extremos que moldam a história.",
         "points": [
-          "Caudas grossas.",
-          "Eventos extremos."
+          {
+            "t": "Caudas grossas.",
+            "e": "Conecta antifragilidade aos eventos raros e extremos que moldam a história.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"caudas grossas.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          },
+          {
+            "t": "Eventos extremos.",
+            "e": "Conecta antifragilidade aos eventos raros e extremos que moldam a história.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"eventos extremos.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — A Terceira Via",
         "text": "Apresenta a via negativa e o princípio de não causar dano irreversível.",
         "points": [
-          "Via negativa.",
-          "Subtrair."
+          {
+            "t": "Via negativa.",
+            "e": "Apresenta a via negativa e o princípio de não causar dano irreversível.",
+            "f": "A via negativa — evitar o que é ruim — supera a via positiva na incerteza.",
+            "real": true
+          },
+          {
+            "t": "Subtrair.",
+            "e": "Apresenta a via negativa e o princípio de não causar dano irreversível.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"subtrair.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Barbell e Opções",
         "text": "Detalha a estratégia das duas pontas e o poder da opcionalidade assimétrica.",
         "points": [
-          "Barbell strategy.",
-          "Opções reais."
+          {
+            "t": "Barbell strategy.",
+            "e": "Detalha a estratégia das duas pontas e o poder da opcionalidade assimétrica.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"barbell strategy.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          },
+          {
+            "t": "Opções reais.",
+            "e": "Detalha a estratégia das duas pontas e o poder da opcionalidade assimétrica.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"opções reais.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — O Efeito Lindy",
         "text": "Mostra por que a durabilidade passada indica sobrevivência futura.",
         "points": [
-          "Tempo como filtro.",
-          "Novidade vs tradição."
+          {
+            "t": "Tempo como filtro.",
+            "e": "Mostra por que a durabilidade passada indica sobrevivência futura.",
+            "f": "O que resistiu ao tempo tende a resistir mais.",
+            "real": true
+          },
+          {
+            "t": "Novidade vs tradição.",
+            "e": "Mostra por que a durabilidade passada indica sobrevivência futura.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"novidade vs tradição.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Pele no Jogo",
         "text": "Discute responsabilidade e risco compartilhado como base de sistemas saudáveis.",
         "points": [
-          "Pele no jogo.",
-          "Incentivos."
+          {
+            "t": "Pele no jogo.",
+            "e": "Discute responsabilidade e risco compartilhado como base de sistemas saudáveis.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"pele no jogo.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          },
+          {
+            "t": "Incentivos.",
+            "e": "Discute responsabilidade e risco compartilhado como base de sistemas saudáveis.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"incentivos.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — A Intervenção",
         "text": "Critica a ação excessiva do Estado e dos experts que geram fragilidade.",
         "points": [
-          "Intervenção via positiva.",
-          "Consequências."
+          {
+            "t": "Intervenção via positiva.",
+            "e": "Critica a ação excessiva do Estado e dos experts que geram fragilidade.",
+            "f": "A via negativa — evitar o que é ruim — supera a via positiva na incerteza.",
+            "real": true
+          },
+          {
+            "t": "Consequências.",
+            "e": "Critica a ação excessiva do Estado e dos experts que geram fragilidade.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"consequências.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — A Ética da Fragilidade",
         "text": "Conclui com a moral de não transferir risco aos outros e buscar o antifrágil.",
         "points": [
-          "Responsabilidade.",
-          "Desenho antifrágil."
+          {
+            "t": "Responsabilidade.",
+            "e": "Conclui com a moral de não transferir risco aos outros e buscar o antifrágil.",
+            "f": "Na visão de Nassim Nicholas Taleb, \"responsabilidade.\" é parte essencial da proposta de \"Antifrágil: Coisas que se Beneficiam com o Caos\".",
+            "real": false
+          },
+          {
+            "t": "Desenho antifrágil.",
+            "e": "Conclui com a moral de não transferir risco aos outros e buscar o antifrágil.",
+            "f": "O que é frágil quebra com o estresse; o que é antifrágil melhora com ele.",
+            "real": true
+          }
         ]
       }
     ]
