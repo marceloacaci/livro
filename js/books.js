@@ -8078,5 +8078,1051 @@ window.MEU_BOLSO_BOOKS=[
       { "titulo": "Substituição cirúrgica", "texto": "Muda-se a rotina, preserva-se o gancho." },
       { "titulo": "Vontade como músculo", "texto": "Treina-se, não esgota-se." }
     ]
+  },
+  {
+    "id": "orman",
+    "slug": "a-mulher-e-o-dinheiro",
+    "title": "Women & Money",
+    "titlePt": "A Mulher e o Dinheiro",
+    "author": "Suze Orman",
+    "year": "2007",
+    "editionYear": "2018",
+    "publisher": "Riverhead Books / Sextante",
+    "pages": "320",
+    "genre": "Finanças pessoais / Autoajuda",
+    "language": "Inglês",
+    "copiesSold": "Mais de 3 milhões",
+    "cover": "img/orman-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Você é a única dona do seu dinheiro",
+        "text": "Orman defende autonomia financeira, especialmente para mulheres que delegam decisões.",
+        "reflection": "Você decide ou delega suas finanças?"
+      },
+      {
+        "type": "myth",
+        "title": "Amor e dinheiro não se misturam",
+        "text": "Relações saudáveis exigem conversa clara sobre dinheiro.",
+        "reflection": "Você evita o assunto com quem ama?"
+      },
+      {
+        "type": "truth",
+        "title": "Fundo de emergência é não-negociável",
+        "text": "8 meses de despesas protegem contra imprevistos reais.",
+        "reflection": "Quantos meses você aguentaria sem renda?"
+      },
+      {
+        "type": "myth",
+        "title": "Investir é só para quem entende",
+        "text": "Orman simplifica: começar vale mais que esperar dominar.",
+        "reflection": "Você espera saber tudo antes de começar?"
+      },
+      {
+        "type": "truth",
+        "title": "Divida destrói liberdade",
+        "text": "Juros compostos contra você são a maior perda silenciosa.",
+        "reflection": "Sua dívida está trabalhando contra você?"
+      },
+      {
+        "type": "myth",
+        "title": "Cartão de crédito é dinheiro disponível",
+        "text": "Limite não é renda; é promessa de pagamento futuro.",
+        "reflection": "Você confunde limite com poder de compra?"
+      }
+    ],
+    "summary": "Suze Orman ensina mulheres a assumirem o controle das próprias finanças, com regras práticas de proteção, investimento e independência que servem a qualquer pessoa.",
+    "color": "#c0392b",
+    "file": "livro.html#a-mulher-e-o-dinheiro",
+    "citacoes": [
+      {
+        "texto": "Quando você possui o poder de dizer não, você possui o poder de dizer sim a si mesma.",
+        "autor": "Suze Orman",
+        "obra": "Women & Money"
+      },
+      {
+        "texto": "O dinheiro é um meio, não um fim.",
+        "autor": "Suze Orman",
+        "obra": "Women & Money"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Referência de educação financeira feminina por duas décadas.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Proteja-se primeiro",
+        "text": "Seguros e fundo de emergência vêm antes de investir.",
+        "explicacoes": [
+          "Sem proteção, qualquer ganho pode virar perda.",
+          "8 meses de despesas é a meta de Orman.",
+          "Proteção é fundação, não luxo."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Pague a si mesma",
+        "text": "Reserve antes de pagar contas e dívidas.",
+        "explicacoes": [
+          "Autopoupança todos os meses.",
+          "Trate como conta fixa intocável.",
+          "Disciplina vence intenção."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Elimine juros contra você",
+        "text": "Quite dívidas caras antes de buscar retorno.",
+        "explicacoes": [
+          "Juros de dívida superam a maioria dos retornos.",
+          "Ordem: proteção, dívida, investimento.",
+          "Liberdade vem de juros a favor."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Autonomia financeira",
+        "texto": "Decidir por si é o primeiro passo."
+      },
+      {
+        "titulo": "Proteção antes de retorno",
+        "texto": "Base sólida antes de crescer."
+      },
+      {
+        "titulo": "Dinheiro como meio",
+        "texto": "Serve à vida, não a substitui."
+      }
+    ]
+  },
+  {
+    "id": "robin",
+    "slug": "seu-dinheiro-ou-sua-vida",
+    "title": "Your Money or Your Life",
+    "titlePt": "Seu Dinheiro ou Sua Vida",
+    "author": "Vicki Robin",
+    "year": "1992",
+    "editionYear": "2018",
+    "publisher": "Penguin Books / Novo Conceito",
+    "pages": "368",
+    "genre": "Finanças / Simplicidade voluntária",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/robin-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Dinheiro é vida trocada por tempo",
+        "text": "Cada compra custa horas da sua vida útil.",
+        "reflection": "Esse item vale as horas que custou?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais coisas = mais felicidade",
+        "text": "A curva de satisfação achata rápido.",
+        "reflection": "O que você comprou e não usou?"
+      },
+      {
+        "type": "truth",
+        "title": "Liberdade financeira é ponto de FI",
+        "text": "Quando renda passiva cobre despesas, você escolhe.",
+        "reflection": "Quanto falta para seu ponto de liberdade?"
+      },
+      {
+        "type": "myth",
+        "title": "Crescimento infinito é possível",
+        "text": "Planeta e carreira têm limites reais.",
+        "reflection": "Você planeja finito ou infinito?"
+      },
+      {
+        "type": "truth",
+        "title": "Rastrear gastos muda comportamento",
+        "text": "Consciência do fluxo reduz desperdício.",
+        "reflection": "Você sabe para onde vai cada real?"
+      },
+      {
+        "type": "myth",
+        "title": "Aposentadoria é o objetivo",
+        "text": "O programa propõe vida plena agora, não só depois.",
+        "reflection": "Você adia viver para o futuro?"
+      }
+    ],
+    "summary": "Vicki Robin propõe nove passos para transformar a relação com dinheiro, tratando cada gasto como tempo de vida e buscando independência financeira e propósito.",
+    "color": "#27ae60",
+    "file": "livro.html#seu-dinheiro-ou-sua-vida",
+    "citacoes": [
+      {
+        "texto": "A questão não é quanto você ganha, mas quanto vida você troca por isso.",
+        "autor": "Vicki Robin",
+        "obra": "Your Money or Your Life"
+      },
+      {
+        "texto": "Redefina o suficiente e o excesso.",
+        "autor": "Vicki Robin",
+        "obra": "Your Money or Your Life"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Clássico do movimento de independência financeira (FI).",
+        "autor": "Comunidade FI",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Calcule sua verdadeira taxa horária",
+        "text": "Divida ganho líquido pelo tempo total investido.",
+        "explicacoes": [
+          "Inclua deslocamento e estresse.",
+          "Revela o custo real do trabalho.",
+          "Muda decisões de compra."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Mapeie cada gasto em tempo de vida",
+        "text": "Antes de comprar, conte as horas que custa.",
+        "explicacoes": [
+          "Torna o preço emocional.",
+          "Reduz impulso.",
+          "Alinha gasto a valores."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Busque o ponto de FI",
+        "text": "Poupe até renda passiva cobrir despesas.",
+        "explicacoes": [
+          "Liberdade é escolha, não aposentadoria.",
+          "Investimento consistente acelera.",
+          "Menos gasto = menos necessário."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Tempo é vida",
+        "texto": "Gasto é pedaço da sua existência."
+      },
+      {
+        "titulo": "O suficiente",
+        "texto": "Definir limite libera."
+      },
+      {
+        "titulo": "FI como meio",
+        "texto": "Independência para viver."
+      }
+    ]
+  },
+  {
+    "id": "guillebeau",
+    "slug": "a-startup-de-100-dolares",
+    "title": "The $100 Startup",
+    "titlePt": "A Startup de 100 Dólares",
+    "author": "Chris Guillebeau",
+    "year": "2012",
+    "editionYear": "2012",
+    "publisher": "Crown Business / HSM",
+    "pages": "288",
+    "genre": "Empreendedorismo / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 1 milhão",
+    "cover": "img/guillebeau-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Negócio nasce de paixão + utilidade",
+        "text": "Unir o que ama ao que outros pagam é a fórmula.",
+        "reflection": "O que você ama que outros pagariam?"
+      },
+      {
+        "type": "myth",
+        "title": "Precisa de muito capital",
+        "text": "Milhares começaram com menos de 100 dólares.",
+        "reflection": "Você usa falta de dinheiro como desculpa?"
+      },
+      {
+        "type": "truth",
+        "title": "Pronto é melhor que perfeito",
+        "text": "Lançar cedo valida antes de investir demais.",
+        "reflection": "Você espera o momento perfeito?"
+      },
+      {
+        "type": "myth",
+        "title": "Plano de 50 páginas é essencial",
+        "text": "Ação e ajuste vencem planejamento paralisante.",
+        "reflection": "Seu plano avança ou apenas cresce?"
+      },
+      {
+        "type": "truth",
+        "title": "Poucos clientes bem servidos bastam",
+        "text": "Nicho focado supera tentar agradar todos.",
+        "reflection": "Você tenta agradar a todos?"
+      },
+      {
+        "type": "myth",
+        "title": "Empreender é arriscar tudo",
+        "text": "Modelo enxuto limita perda e permite testar.",
+        "reflection": "Você aposta tudo ou testa devagar?"
+      }
+    ],
+    "summary": "Chris Guillebeau compila histórias de quem virou negócio próprio com pouco dinheiro, mostrando que microempreendedorismo de propósito é acessível a qualquer um.",
+    "color": "#2980b9",
+    "file": "livro.html#a-startup-de-100-dolares",
+    "citacoes": [
+      {
+        "texto": "Você não precisa se aposentar rico, precisa se aposentar feliz.",
+        "autor": "Chris Guillebeau",
+        "obra": "The $100 Startup"
+      },
+      {
+        "texto": "Ação beats planejamento.",
+        "autor": "Chris Guillebeau",
+        "obra": "The $100 Startup"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Inspiração prática para microempreendedores.",
+        "autor": "Resenha",
+        "fonte": "Mídia"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Encontre a interseção",
+        "text": "O que ama encontra o que o mercado paga.",
+        "explicacoes": [
+          "Utilidade é requisito.",
+          "Paixão sem utilidade não sustenta.",
+          "Mercado valida a ideia."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Lance cedo",
+        "text": "Produto mínimo viável para aprender.",
+        "explicacoes": [
+          "Feedback real vale mais que teoria.",
+          "Erro cedo custa pouco.",
+          "Iteração sustenta."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Foque no primeiro cliente",
+        "text": "Sirva bem poucos antes de escalar.",
+        "explicacoes": [
+          "Nicho reduz concorrência.",
+          "Boca a boca cresce.",
+          "Qualidade vence preço."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Micro sim",
+        "texto": "Pequeno e viável vence grande e travado."
+      },
+      {
+        "titulo": "Utilidade",
+        "texto": "Paixão que o outro paga."
+      },
+      {
+        "titulo": "Lançar cedo",
+        "texto": "Validar antes de investir."
+      }
+    ]
+  },
+  {
+    "id": "newport",
+    "slug": "trabalho-profundo",
+    "title": "Deep Work",
+    "titlePt": "Trabalho Profundo",
+    "author": "Cal Newport",
+    "year": "2016",
+    "editionYear": "2016",
+    "publisher": "Grand Central Publishing / Alta Books",
+    "pages": "296",
+    "genre": "Produtividade / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/newport-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Foco intenso produz o que importa",
+        "text": "Trabalho profundo gera valor raro e difícil de copiar.",
+        "reflection": "Quanto do seu dia é foco real?"
+      },
+      {
+        "type": "myth",
+        "title": "Multitarefa é eficiente",
+        "text": "Troca de contexto destrói profundidade.",
+        "reflection": "Você se orgulha de fazer tudo junto?"
+      },
+      {
+        "type": "truth",
+        "title": "Atenção é músculo treinável",
+        "text": "Reduzir ruído fortalece concentração.",
+        "reflection": "Você treina ou fragmenta a atenção?"
+      },
+      {
+        "type": "myth",
+        "title": "Responder rápido é produtivo",
+        "text": "Disponibilidade constante sabota o trabalho difícil.",
+        "reflection": "Sua agenda serve a você ou aos outros?"
+      },
+      {
+        "type": "truth",
+        "title": "Tédio é necessário",
+        "text": "Momentos sem estímulo recuperam foco.",
+        "reflection": "Você suporta o tédio ou o enche de telas?"
+      },
+      {
+        "type": "myth",
+        "title": "Redes sociais são trabalho",
+        "text": "Consumo distrai mais que conecta.",
+        "reflection": "Você confunde scroll com produção?"
+      }
+    ],
+    "summary": "Cal Newport argumenta que a capacidade de se concentrar sem distração em tarefas cognitivas difíceis é uma vantagem competitiva cada vez mais rara e valiosa.",
+    "color": "#8e44ad",
+    "file": "livro.html#trabalho-profundo",
+    "citacoes": [
+      {
+        "texto": "O foco é a nova inteligência.",
+        "autor": "Cal Newport",
+        "obra": "Deep Work"
+      },
+      {
+        "texto": "Quem se dedica ao trabalho profundo vence.",
+        "autor": "Cal Newport",
+        "obra": "Deep Work"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Influente na cultura de produtividade moderna.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Agende blocos de foco",
+        "text": "Reserve horas livres de notificações.",
+        "explicacoes": [
+          "Calendário protege o foco.",
+          "Profundidade exige ritual.",
+          "Consistência supera intensidade."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Elimine o superficial",
+        "text": "Corte reuniões e mensagens que não agregam.",
+        "explicacoes": [
+          "80% do valor em 20% das tarefas.",
+          "Dizer não libera tempo.",
+          "Menos é mais aqui."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Abrace o tédio",
+        "text": "Evite estímulo constante nas folgas.",
+        "explicacoes": [
+          "Cérebro descansa e assimila.",
+          "Foco recupera.",
+          "Tédio é treino."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Foco raro",
+        "texto": "Atenção profunda vale ouro."
+      },
+      {
+        "titulo": "Ritual",
+        "texto": "Ambiente e horário ancoram."
+      },
+      {
+        "titulo": "Menos ruído",
+        "texto": "Menos distração, mais saída."
+      }
+    ]
+  },
+  {
+    "id": "kahneman",
+    "slug": "pensando-rapido-e-devagar",
+    "title": "Thinking, Fast and Slow",
+    "titlePt": "Pensando, Rápido e Devagar",
+    "author": "Daniel Kahneman",
+    "year": "2011",
+    "editionYear": "2011",
+    "publisher": "Farrar, Straus and Giroux / Objetiva",
+    "pages": "499",
+    "genre": "Comportamento / Psicologia",
+    "language": "Inglês",
+    "copiesSold": "Mais de 3 milhões",
+    "cover": "img/kahneman-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Cérebro tem dois sistemas",
+        "text": "Rápido e intuitivo vs. lento e analítico.",
+        "reflection": "Sua decisão foi intuição ou análise?"
+      },
+      {
+        "type": "myth",
+        "title": "Somos racionais por padrão",
+        "text": "Vieses sistemáticos distorcem julgamentos.",
+        "reflection": "Você revisou seu viés recentemente?"
+      },
+      {
+        "type": "truth",
+        "title": "Viés de ancoragem é real",
+        "text": "Primeiro número visto distorce estimativas.",
+        "reflection": "O que lhe serviu de âncora hoje?"
+      },
+      {
+        "type": "myth",
+        "title": "Mais informação = melhor decisão",
+        "text": "Ruído extra confunde mais que esclarece.",
+        "reflection": "Você coleta ou se afoga em dados?"
+      },
+      {
+        "type": "truth",
+        "title": "Aversão à perda guia risco",
+        "text": "Perder dói mais que ganhar agrada.",
+        "reflection": "O medo de perder paralisa você?"
+      },
+      {
+        "type": "myth",
+        "title": "Experiência prevê bem o futuro",
+        "text": "Memória edita e distorce o passado.",
+        "reflection": "Sua memória é confiável ou editada?"
+      }
+    ],
+    "summary": "Daniel Kahneman, prêmio Nobel, revela como pensamos e decidimos, expondo os vieses que afetam finanças, hábitos e escolhas cotidianas.",
+    "color": "#16a085",
+    "file": "livro.html#pensando-rapido-e-devagar",
+    "citacoes": [
+      {
+        "texto": "Nada em nossa vida intelectual é mais importante que o julgamento.",
+        "autor": "Daniel Kahneman",
+        "obra": "Thinking, Fast and Slow"
+      },
+      {
+        "texto": "A negligência da falácia da regressão é onipresente.",
+        "autor": "Daniel Kahneman",
+        "obra": "Thinking, Fast and Slow"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Obra fundamental da economia comportamental.",
+        "autor": "Academia",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Reconheça o Sistema 1",
+        "text": "Intuição rápida domina sem aviso.",
+        "explicacoes": [
+          "Ela é eficiente e propensa a erro.",
+          "Decisões de risco pedem pausa.",
+          "Consciência reduz dano."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Ative o Sistema 2",
+        "text": "Análise lenta para escolhas importantes.",
+        "explicacoes": [
+          "Esforce-se deliberadamente.",
+          "Questione a primeira resposta.",
+          "Lentidão aqui é lucro."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Mapeie vieses",
+        "text": "Ancoragem, disponibilidade, confirmação.",
+        "explicacoes": [
+          "Nomear o viés ajuda a evitá-lo.",
+          "Checklists compensam cegueira.",
+          "Humildade cognitiva protege."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Dois sistemas",
+        "texto": "Rápido e lento coexistem."
+      },
+      {
+        "titulo": "Viés é regra",
+        "texto": "Não exceção."
+      },
+      {
+        "titulo": "Lentidão útil",
+        "texto": "Decisão cara merece análise."
+      }
+    ]
+  },
+  {
+    "id": "thaler",
+    "slug": "nudge-empurrando-para-a-escolha-certa",
+    "title": "Nudge",
+    "titlePt": "Nudge: Empurrando para a Escolha Certa",
+    "author": "Richard H. Thaler",
+    "year": "2008",
+    "editionYear": "2008",
+    "publisher": "Yale University Press / Campus",
+    "pages": "312",
+    "genre": "Comportamento / Economia",
+    "language": "Inglês",
+    "copiesSold": "Mais de 2 milhões",
+    "cover": "img/thaler-cover.jpg",
+    "topic": "dinheiro",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Pequenos empurrões mudam muito",
+        "text": "Arquitetura de escolha altera decisões.",
+        "reflection": "Onde você é empurrado sem notar?"
+      },
+      {
+        "type": "myth",
+        "title": "Somos escolhedores racionais",
+        "text": "Default e contexto pesam mais que lógica.",
+        "reflection": "Seu default favorece você?"
+      },
+      {
+        "type": "truth",
+        "title": "Default vence",
+        "text": "Quem não escolhe segue o pré-definido.",
+        "explicacoes": [
+          "Aposentadoria automática adere mais.",
+          "Opt-out supera opt-in.",
+          "Contexto é decisão."
+        ]
+      },
+      {
+        "type": "myth",
+        "title": "Mais opções é sempre melhor",
+        "text": "Excesso paralisa e confunde.",
+        "reflection": "Você escolhe ou congela diante de opções?"
+      },
+      {
+        "type": "truth",
+        "title": "Libertarianismo paternalista",
+        "text": "Guia sem proibir preserve liberdade.",
+        "reflection": "Seus sistemas guiam ou forçam?"
+      },
+      {
+        "type": "myth",
+        "title": "Informação basta",
+        "text": "Saber não muda hábito; desenho sim.",
+        "reflection": "Você informa ou redesenha?"
+      }
+    ],
+    "summary": "Thaler e Sunstein mostram como pequenas mudanças na forma como as opções são apresentadas (nudges) melhoram decisões de saúde, dinheiro e vida.",
+    "color": "#d35400",
+    "file": "livro.html#nudge-empurrando-para-a-escolha-certa",
+    "citacoes": [
+      {
+        "texto": "Nós somos humanos, e humanos cometem erros.",
+        "autor": "Richard Thaler",
+        "obra": "Nudge"
+      },
+      {
+        "texto": "Arquitetura de escolha importa.",
+        "autor": "Richard Thaler",
+        "obra": "Nudge"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Base da economia comportamental aplicada a políticas públicas.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Desenhe o default",
+        "text": "Torne o bom caminho o padrão.",
+        "explicacoes": [
+          "Automático adere mais.",
+          "Menos esforço, mais adesão.",
+          "Default é decisão."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Simplifique opções",
+        "text": "Menos escolhas, melhor decisão.",
+        "explicacoes": [
+          "Paralisação por excesso é real.",
+          "Categorize e limite.",
+          "Clareza converte."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Incentive sem proibir",
+        "text": "Guie preservando liberdade.",
+        "explicacoes": [
+          "Nudge respeita autonomia.",
+          "Mudança de contexto, não de regra.",
+          "Persuasão leve funciona."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Arquitetura de escolha",
+        "texto": "Como apresenta muda tudo."
+      },
+      {
+        "titulo": "Default poderoso",
+        "texto": "O caminho automático vence."
+      },
+      {
+        "titulo": "Leveza",
+        "texto": "Guia, não obriga."
+      }
+    ]
+  },
+  {
+    "id": "covey",
+    "slug": "os-7-habitos-das-pessoas-altamente-eficazes",
+    "title": "The 7 Habits of Highly Effective People",
+    "titlePt": "Os 7 Hábitos das Pessoas Altamente Eficazes",
+    "author": "Stephen R. Covey",
+    "year": "1989",
+    "editionYear": "2004",
+    "publisher": "Free Press / BestSeller",
+    "pages": "372",
+    "genre": "Hábitos / Liderança",
+    "language": "Inglês",
+    "copiesSold": "Mais de 25 milhões",
+    "cover": "img/covey-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Eficácia vem de princípios",
+        "text": "Caráter precede técnicas de sucesso.",
+        "reflection": "Você foca em ser ou em parecer?"
+      },
+      {
+        "type": "myth",
+        "title": "Sucesso é fórmula externa",
+        "text": "Hábitos internos sustentam resultado.",
+        "reflection": "Você busca atalho ou mudança?"
+      },
+      {
+        "type": "truth",
+        "title": "Proatividade é escolha",
+        "text": "Você responde ao estímulo, não é refém.",
+        "reflection": "Você age ou reage?"
+      },
+      {
+        "type": "myth",
+        "title": "Urgente é importante",
+        "text": "Matriz separa o que importa do ruído.",
+        "reflection": "Sua semana foi urgente ou importante?"
+      },
+      {
+        "type": "truth",
+        "title": "Ganha-ganha supera competir",
+        "text": "Relações de abundance duram mais.",
+        "reflection": "Você busca vencer ou somar?"
+      },
+      {
+        "type": "myth",
+        "title": "Foco em sintomas resolve",
+        "text": "Paradigma certo muda resultado.",
+        "reflection": "Você trata causa ou efeito?"
+      }
+    ],
+    "summary": "Stephen Covey apresenta sete hábitos baseados em princípios atemporais para eficácia pessoal e interpessoal, partindo de dentro para fora.",
+    "color": "#2980b9",
+    "file": "livro.html#os-7-habitos-das-pessoas-altamente-eficazes",
+    "citacoes": [
+      {
+        "texto": "Comece com o fim em mente.",
+        "autor": "Stephen Covey",
+        "obra": "The 7 Habits"
+      },
+      {
+        "texto": "As pessoas são, antes de tudo, responsáveis por suas escolhas.",
+        "autor": "Stephen Covey",
+        "obra": "The 7 Habits"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Um dos livros de desenvolvimento pessoal mais vendidos de todos os tempos.",
+        "autor": "Editora",
+        "fonte": "Dados de vendas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Seja proativo",
+        "text": "Assuma responsabilidade pelas escolhas.",
+        "explicacoes": [
+          "Foco no círculo de influência.",
+          "Reagir menos, agir mais.",
+          "Liberdade é responder."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Comece com o fim",
+        "text": "Defina valores antes de metas.",
+        "explicacoes": [
+          "Direção evita desvio.",
+          "Propósito ancora rotina.",
+          "Metas servem a valores."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Primeiro o importante",
+        "text": "Matriz urgência x importância guia o tempo.",
+        "explicacoes": [
+          "Quadrantes II é o foco.",
+          "Urgência ilusória consome.",
+          "Agendar o essencial."
+        ]
+      },
+      {
+        "number": "4",
+        "title": "Pense ganha-ganha",
+        "text": "Busque benefício mútuo.",
+        "explicacoes": [
+          "Abundância supera escassez.",
+          "Relações duradouras.",
+          "Confiança cresce."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Princípios",
+        "texto": "Caráter antes de técnica."
+      },
+      {
+        "titulo": "Proatividade",
+        "texto": "Escolha, não reação."
+      },
+      {
+        "titulo": "Fim em mente",
+        "texto": "Propósito direciona."
+      }
+    ]
+  },
+  {
+    "id": "sharma",
+    "slug": "o-monge-que-vendeu-sua-ferrari",
+    "title": "The Monk Who Sold His Ferrari",
+    "titlePt": "O Monge Que Vendeu Sua Ferrari",
+    "author": "Robin Sharma",
+    "year": "1997",
+    "editionYear": "1999",
+    "publisher": "HarperCollins / Sextante",
+    "pages": "320",
+    "genre": "Autoajuda / Hábitos",
+    "language": "Inglês",
+    "copiesSold": "Mais de 5 milhões",
+    "cover": "img/sharma-cover.jpg",
+    "topic": "habitos",
+    "myths": [
+      {
+        "type": "truth",
+        "title": "Sucesso e paz andam juntos",
+        "text": "Realização externa sem equilíbrio interno é vazia.",
+        "reflection": "Sua conquista traz paz?"
+      },
+      {
+        "type": "myth",
+        "title": "Ter mais resolve",
+        "text": "Posse não preenche propósito.",
+        "reflection": "O que falta mesmo depois de ter?"
+      },
+      {
+        "type": "truth",
+        "title": "Disciplina diária transforma",
+        "text": "Pequenos rituais constroem grande vida.",
+        "reflection": "Você tem rituais ou reage ao dia?"
+      },
+      {
+        "type": "myth",
+        "title": "Mudança exige crise",
+        "text": "Escolha consciente antecede colapso.",
+        "reflection": "Você muda antes ou só na dor?"
+      },
+      {
+        "type": "truth",
+        "title": "Saúde é fundação",
+        "text": "Corpo e mente sustentam propósito.",
+        "reflection": "Você cuida da base?"
+      },
+      {
+        "type": "myth",
+        "title": "Velocidade é vida",
+        "text": "Pausa e presença rendem mais.",
+        "reflection": "Você corre ou vive?"
+      }
+    ],
+    "summary": "Robin Sharma conta a jornada de um advogado bem-sucedido que troca carreira e Ferrari por sabedoria e propósito, em parábola sobre hábitos e significado.",
+    "color": "#c0392b",
+    "file": "livro.html#o-monge-que-vendeu-sua-ferrari",
+    "citacoes": [
+      {
+        "texto": "Tudo o que você precisa já está dentro de você.",
+        "autor": "Robin Sharma",
+        "obra": "The Monk Who Sold His Ferrari"
+      },
+      {
+        "texto": "A vida é curta. Faça dela uma obra-prima.",
+        "autor": "Robin Sharma",
+        "obra": "The Monk Who Sold His Ferrari"
+      }
+    ],
+    "citacoesTerceiros": [
+      {
+        "texto": "Parábola de autoajuda mundialmente popular.",
+        "autor": "Crítica",
+        "fonte": "Resenhas"
+      }
+    ],
+    "sections": [
+      "sobre",
+      "ensinamentos",
+      "ideias",
+      "verdadesmitos",
+      "reflexoes"
+    ],
+    "ensinamentos": [
+      {
+        "number": "1",
+        "title": "Cultive a mente",
+        "text": "Leitura e reflexão diárias.",
+        "explicacoes": [
+          "Sabedoria composta.",
+          "Silêncio renova.",
+          "Foco amplia."
+        ]
+      },
+      {
+        "number": "2",
+        "title": "Treine o corpo",
+        "text": "Movimento e alimentação conscientes.",
+        "explicacoes": [
+          "Energia sustenta propósito.",
+          "Base física importa.",
+          "Rotina protege."
+        ]
+      },
+      {
+        "number": "3",
+        "title": "Viva com propósito",
+        "text": "Defina missão e sirva outros.",
+        "explicacoes": [
+          "Significado move.",
+          "Legado importa.",
+          "Dar amplia."
+        ]
+      }
+    ],
+    "ideias": [
+      {
+        "titulo": "Sabedoria interna",
+        "texto": "Já possui o que busca."
+      },
+      {
+        "titulo": "Rituais",
+        "texto": "Pequeno diário, grande vida."
+      },
+      {
+        "titulo": "Propósito",
+        "texto": "Meio e fim unidos."
+      }
+    ]
   }
 ];
