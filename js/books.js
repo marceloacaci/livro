@@ -28427,62 +28427,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Nomeie a Resistência",
-        "text": "Reconhecer o inimigo interno é o primeiro passo. Ela se disfarça de medo e distração."
+        "text": "Reconhecer o inimigo interno é o primeiro passo. Ela se disfarça de medo e distração.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Nomeie a Resistência\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: Reconhecer o inimigo interno é o primeiro passo. Ela se disfarça de medo e distração — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Nomeie a Resistência\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Trabalhe todo dia",
-        "text": "Estabeleça horário fixo e apareça, independentemente do humor ou inspiração."
+        "text": "Estabeleça horário fixo e apareça, independentemente do humor ou inspiração.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Trabalhe todo dia\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: Estabeleça horário fixo e apareça, independentemente do humor ou inspiração — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Trabalhe todo dia\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Não espere o museu",
-        "text": "A inspiração vem depois de começar, não antes. Ação precede motivação."
+        "text": "A inspiração vem depois de começar, não antes. Ação precede motivação.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Não espere o museu\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: A inspiração vem depois de começar, não antes. Ação precede motivação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não espere o museu\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Termine as coisas",
-        "text": "O perfeccionismo é sabotagem. Feche o trabalho e entregue."
+        "text": "O perfeccionismo é sabotagem. Feche o trabalho e entregue.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Termine as coisas\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: O perfeccionismo é sabotagem. Feche o trabalho e entregue — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Termine as coisas\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Aceite o medo",
-        "text": "O medo não some; o profissional age com medo, não sem ele."
+        "text": "O medo não some; o profissional age com medo, não sem ele.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Aceite o medo\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: O medo não some; o profissional age com medo, não sem ele — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aceite o medo\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Corte distrações",
-        "text": "Identifique os \"substitutos confortáveis\" que a Resistência usa contra você."
+        "text": "Identifique os \"substitutos confortáveis\" que a Resistência usa contra você.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Corte distrações\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: Identifique os \"substitutos confortáveis\" que a Resistência usa contra você — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Corte distrações\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Seja invisível",
-        "text": "Não anuncie o projeto antes de fazê-lo; a aprovação precoce alimenta a Resistência."
+        "text": "Não anuncie o projeto antes de fazê-lo; a aprovação precoce alimenta a Resistência.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Seja invisível\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: Não anuncie o projeto antes de fazê-lo; a aprovação precoce alimenta a Resistência — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja invisível\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Assuma o custo",
-        "text": "A grande obra exige abrir mão de conforto, status e aprovação alheia."
+        "text": "A grande obra exige abrir mão de conforto, status e aprovação alheia.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Assuma o custo\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: A grande obra exige abrir mão de conforto, status e aprovação alheia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Assuma o custo\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "A dor indica o caminho",
-        "text": "Onde a Resistência é mais forte, ali está o trabalho que importa."
+        "text": "Onde a Resistência é mais forte, ali está o trabalho que importa.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"A dor indica o caminho\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: Onde a Resistência é mais forte, ali está o trabalho que importa — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"A dor indica o caminho\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Viva como profissional",
-        "text": "Constância e responsabilidade com o ofício vencem o amadorismo."
+        "text": "Constância e responsabilidade com o ofício vencem o amadorismo.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Viva como profissional\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: Constância e responsabilidade com o ofício vencem o amadorismo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Viva como profissional\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Ignore sabotadores",
-        "text": "Próximos podem desencorajar; proteja seu trabalho com limites."
+        "text": "Próximos podem desencorajar; proteja seu trabalho com limites.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Ignore sabotadores\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: Próximos podem desencorajar; proteja seu trabalho com limites — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ignore sabotadores\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Comece agora",
-        "text": "A ação imediata é o antídoto mais rápido contra a paralisia."
+        "text": "A ação imediata é o antídoto mais rápido contra a paralisia.",
+        "explicacoes": [
+          "Em \"A Guerra da Arte\", Steven Pressfield trata \"Comece agora\" como peça-chave para vencer a Resistência e entregar o trabalho criativo.",
+          "Na prática: A ação imediata é o antídoto mais rápido contra a paralisia — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece agora\" aplica vencer a Resistência e entregar o trabalho criativo de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -28504,81 +28564,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Parte 1 — Definição: O que é a Resistência",
         "text": "Pressfield nomeia e descreve o inimigo interno que paralisa toda obra.",
         "points": [
-          "A natureza da Resistência",
-          "Como ela se disfarça",
-          "Quem ela ataca"
+          {
+            "t": "A natureza da Resistência",
+            "e": "Pressfield nomeia e descreve o inimigo interno que paralisa toda obra.",
+            "f": "A Resistência é o inimigo. É interna. É invisível. É implacável.",
+            "real": true
+          },
+          {
+            "t": "Como ela se disfarça",
+            "e": "Pressfield nomeia e descreve o inimigo interno que paralisa toda obra.",
+            "f": "Na visão de Steven Pressfield, \"como ela se disfarça\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Quem ela ataca",
+            "e": "Pressfield nomeia e descreve o inimigo interno que paralisa toda obra.",
+            "f": "Na visão de Steven Pressfield, \"quem ela ataca\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Parte 1 — Sintomas e formas",
         "text": "Procrastinação, perfeccionismo, drama e doenças como rostos da Resistência.",
         "points": [
-          "Procrastinação",
-          "Perfeccionismo",
-          "Auto-sabotagem"
+          {
+            "t": "Procrastinação",
+            "e": "Procrastinação, perfeccionismo, drama e doenças como rostos da Resistência.",
+            "f": "Na visão de Steven Pressfield, \"procrastinação\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Perfeccionismo",
+            "e": "Procrastinação, perfeccionismo, drama e doenças como rostos da Resistência.",
+            "f": "Na visão de Steven Pressfield, \"perfeccionismo\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Auto-sabotagem",
+            "e": "Procrastinação, perfeccionismo, drama e doenças como rostos da Resistência.",
+            "f": "Na visão de Steven Pressfield, \"auto-sabotagem\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Parte 1 — Por que ela é implacável",
         "text": "A Resistência tem interesse em manter você pequeno e parado.",
         "points": [
-          "Interesse próprio do medo",
-          "O conforto como armadilha",
-          "O custo da inação"
+          {
+            "t": "Interesse próprio do medo",
+            "e": "A Resistência tem interesse em manter você pequeno e parado.",
+            "f": "A Resistência é o inimigo. É interna. É invisível. É implacável.",
+            "real": true
+          },
+          {
+            "t": "O conforto como armadilha",
+            "e": "A Resistência tem interesse em manter você pequeno e parado.",
+            "f": "Na visão de Steven Pressfield, \"o conforto como armadilha\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "O custo da inação",
+            "e": "A Resistência tem interesse em manter você pequeno e parado.",
+            "f": "Na visão de Steven Pressfield, \"o custo da inação\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Parte 2 — Combate: Virar profissional",
         "text": "A resposta é o profissionalismo: agir com constância e responsabilidade.",
         "points": [
-          "Aparecer todos os dias",
-          "Ação antes de inspiração",
-          "Aceitar o medo"
+          {
+            "t": "Aparecer todos os dias",
+            "e": "A resposta é o profissionalismo: agir com constância e responsabilidade.",
+            "f": "O profissional aparece todos os dias. Não precisa de inspiração.",
+            "real": true
+          },
+          {
+            "t": "Ação antes de inspiração",
+            "e": "A resposta é o profissionalismo: agir com constância e responsabilidade.",
+            "f": "Vire profissional. É a única cura.",
+            "real": true
+          },
+          {
+            "t": "Aceitar o medo",
+            "e": "A resposta é o profissionalismo: agir com constância e responsabilidade.",
+            "f": "Na visão de Steven Pressfield, \"aceitar o medo\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Parte 2 — O amador vs. o profissional",
         "text": "O amador espera condições; o profissional as cria com disciplina.",
         "points": [
-          "Mentalidade",
-          "Rotina",
-          "Entrega"
+          {
+            "t": "Mentalidade",
+            "e": "O amador espera condições; o profissional as cria com disciplina.",
+            "f": "O profissional aparece todos os dias. Não precisa de inspiração.",
+            "real": true
+          },
+          {
+            "t": "Rotina",
+            "e": "O amador espera condições; o profissional as cria com disciplina.",
+            "f": "Vire profissional. É a única cura.",
+            "real": true
+          },
+          {
+            "t": "Entrega",
+            "e": "O amador espera condições; o profissional as cria com disciplina.",
+            "f": "Na visão de Steven Pressfield, \"entrega\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Parte 2 — O sagrado e o trabalho",
         "text": "Pressfield eleva o trabalho criativo a uma vocação quase espiritual.",
         "points": [
-          "Vocação",
-          "Serviço",
-          "Sacrifício"
+          {
+            "t": "Vocação",
+            "e": "Pressfield eleva o trabalho criativo a uma vocação quase espiritual.",
+            "f": "Na visão de Steven Pressfield, \"vocação\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Serviço",
+            "e": "Pressfield eleva o trabalho criativo a uma vocação quase espiritual.",
+            "f": "Na visão de Steven Pressfield, \"serviço\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Sacrifício",
+            "e": "Pressfield eleva o trabalho criativo a uma vocação quase espiritual.",
+            "f": "Na visão de Steven Pressfield, \"sacrifício\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Parte 3 — Profissionalismo na prática",
         "text": "Hábitos concretos: horário fixo, invisibilidade, foco no ofício.",
         "points": [
-          "Horário fixo",
-          "Não anunciar cedo",
-          "Força de vontade"
+          {
+            "t": "Horário fixo",
+            "e": "Hábitos concretos: horário fixo, invisibilidade, foco no ofício.",
+            "f": "Na visão de Steven Pressfield, \"horário fixo\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Não anunciar cedo",
+            "e": "Hábitos concretos: horário fixo, invisibilidade, foco no ofício.",
+            "f": "Na visão de Steven Pressfield, \"não anunciar cedo\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Força de vontade",
+            "e": "Hábitos concretos: horário fixo, invisibilidade, foco no ofício.",
+            "f": "Na visão de Steven Pressfield, \"força de vontade\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Parte 3 — Além da Resistência",
         "text": "Quando vencida a Resistência, resta a alegria de fazer o que importa.",
         "points": [
-          "Fluidez",
-          "Propósito",
-          "Liberdade"
+          {
+            "t": "Fluidez",
+            "e": "Quando vencida a Resistência, resta a alegria de fazer o que importa.",
+            "f": "A Resistência é o inimigo. É interna. É invisível. É implacável.",
+            "real": true
+          },
+          {
+            "t": "Propósito",
+            "e": "Quando vencida a Resistência, resta a alegria de fazer o que importa.",
+            "f": "Na visão de Steven Pressfield, \"propósito\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Liberdade",
+            "e": "Quando vencida a Resistência, resta a alegria de fazer o que importa.",
+            "f": "Na visão de Steven Pressfield, \"liberdade\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Epílogo — Chame a si mesmo",
         "text": "O livro termina com o convite a assumir a própria grandeza.",
         "points": [
-          "Assumir a voz",
-          "Coragem",
-          "Começar"
+          {
+            "t": "Assumir a voz",
+            "e": "O livro termina com o convite a assumir a própria grandeza.",
+            "f": "Na visão de Steven Pressfield, \"assumir a voz\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Coragem",
+            "e": "O livro termina com o convite a assumir a própria grandeza.",
+            "f": "Na visão de Steven Pressfield, \"coragem\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          },
+          {
+            "t": "Começar",
+            "e": "O livro termina com o convite a assumir a própria grandeza.",
+            "f": "Na visão de Steven Pressfield, \"começar\" é parte essencial da proposta de \"A Guerra da Arte\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -28742,62 +28937,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Mapeie seu estilo explicativo",
-        "text": "Faça o teste de Seligman: como você explica fracassos e sucessos?"
+        "text": "Faça o teste de Seligman: como você explica fracassos e sucessos?",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Mapeie seu estilo explicativo\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Faça o teste de Seligman: como você explica fracassos e sucessos? — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mapeie seu estilo explicativo\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Separe permanente de temporário",
-        "text": "Reveja o \"sempre/nunca\" para \"agora/às vezes\" nos reveses."
+        "text": "Reveja o \"sempre/nunca\" para \"agora/às vezes\" nos reveses.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Separe permanente de temporário\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Reveja o \"sempre/nunca\" para \"agora/às vezes\" nos reveses — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Separe permanente de temporário\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Circunscreva o problema",
-        "text": "Troque \"tudo\" por \"só essa parte\" para evitar generalização."
+        "text": "Troque \"tudo\" por \"só essa parte\" para evitar generalização.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Circunscreva o problema\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Troque \"tudo\" por \"só essa parte\" para evitar generalização — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Circunscreva o problema\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Dispute a evidência",
-        "text": "Pergunte: qual a prova real desse pensamento pessimista?"
+        "text": "Pergunte: qual a prova real desse pensamento pessimista?",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Dispute a evidência\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Pergunte: qual a prova real desse pensamento pessimista? — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Dispute a evidência\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Pratique a reestruturação",
-        "text": "Reescreva o pensamento automático com fatos e alternativas."
+        "text": "Reescreva o pensamento automático com fatos e alternativas.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Pratique a reestruturação\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Reescreva o pensamento automático com fatos e alternativas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Pratique a reestruturação\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Não ignore a realidade",
-        "text": "Otimismo realista encara o fato e muda a interpretação."
+        "text": "Otimismo realista encara o fato e muda a interpretação.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Não ignore a realidade\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Otimismo realista encara o fato e muda a interpretação — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não ignore a realidade\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Ensine crianças",
-        "text": "Modele explicações temporárias e específicas para os pequenos."
+        "text": "Modele explicações temporárias e específicas para os pequenos.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Ensine crianças\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Modele explicações temporárias e específicas para os pequenos — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Ensine crianças\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Use o ABCDE",
-        "text": "Adversidade, Crença, Consequência, Disputa, Energização: o protocolo."
+        "text": "Adversidade, Crença, Consequência, Disputa, Energização: o protocolo.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Use o ABCDE\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Adversidade, Crença, Consequência, Disputa, Energização: o protocolo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o ABCDE\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Proteja a saúde",
-        "text": "Otimismo moderado fortalece imunidade e reduz risco de depressão."
+        "text": "Otimismo moderado fortalece imunidade e reduz risco de depressão.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Proteja a saúde\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Otimismo moderado fortalece imunidade e reduz risco de depressão — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Proteja a saúde\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Mantenha o realismo",
-        "text": "Otimismo não substitui competência; soma-se a ela."
+        "text": "Otimismo não substitui competência; soma-se a ela.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Mantenha o realismo\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Otimismo não substitui competência; soma-se a ela — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mantenha o realismo\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Recupere o controle",
-        "text": "Identifique onde você desistiu por impotência aprendida e retome."
+        "text": "Identifique onde você desistiu por impotência aprendida e retome.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Recupere o controle\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Identifique onde você desistiu por impotência aprendida e retome — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Recupere o controle\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Celebre o específico",
-        "text": "Atribua sucessos a fatores estáveis para reforçar confiança."
+        "text": "Atribua sucessos a fatores estáveis para reforçar confiança.",
+        "explicacoes": [
+          "Em \"Aprendendo a Ser Otimista\", Martin E.P. Seligman trata \"Celebre o específico\" como peça-chave para a psicologia positiva e o florescer humano.",
+          "Na prática: Atribua sucessos a fatores estáveis para reforçar confiança — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Celebre o específico\" aplica a psicologia positiva e o florescer humano de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -28819,81 +29074,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — Aprendendo a ser impotente",
         "text": "Seligman narra as experiências originais que provaram a impotência aprendida.",
         "points": [
-          "Experiência com cães",
-          "Generalização da desistência",
-          "Implicações humanas"
+          {
+            "t": "Experiência com cães",
+            "e": "Seligman narra as experiências originais que provaram a impotência aprendida.",
+            "f": "Na visão de Martin E.P. Seligman, \"experiência com cães\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "Generalização da desistência",
+            "e": "Seligman narra as experiências originais que provaram a impotência aprendida.",
+            "f": "Na visão de Martin E.P. Seligman, \"generalização da desistência\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "Implicações humanas",
+            "e": "Seligman narra as experiências originais que provaram a impotência aprendida.",
+            "f": "Na visão de Martin E.P. Seligman, \"implicações humanas\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Explicações que curam ou ferem",
         "text": "Introduz o estilo explicativo como raiz do otimismo e pessimismo.",
         "points": [
-          "Permanente vs. temporário",
-          "Amplo vs. específico",
-          "Interno vs. externo"
+          {
+            "t": "Permanente vs. temporário",
+            "e": "Introduz o estilo explicativo como raiz do otimismo e pessimismo.",
+            "f": "O otimista explica o fracasso como algo temporário e específico.",
+            "real": true
+          },
+          {
+            "t": "Amplo vs. específico",
+            "e": "Introduz o estilo explicativo como raiz do otimismo e pessimismo.",
+            "f": "Na visão de Martin E.P. Seligman, \"amplo vs. específico\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "Interno vs. externo",
+            "e": "Introduz o estilo explicativo como raiz do otimismo e pessimismo.",
+            "f": "Na visão de Martin E.P. Seligman, \"interno vs. externo\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O pessimista e a depressão",
         "text": "Liga o estilo explicativo à vulnerabilidade depressiva.",
         "points": [
-          "Risco de depressão",
-          "Pensamento e humor",
-          "Prevenção"
+          {
+            "t": "Risco de depressão",
+            "e": "Liga o estilo explicativo à vulnerabilidade depressiva.",
+            "f": "O pessimista acredita que o que dá errado é permanente, universal e sua culpa.",
+            "real": true
+          },
+          {
+            "t": "Pensamento e humor",
+            "e": "Liga o estilo explicativo à vulnerabilidade depressiva.",
+            "f": "Disputar o pensamento pessimista é a chave da mudança.",
+            "real": true
+          },
+          {
+            "t": "Prevenção",
+            "e": "Liga o estilo explicativo à vulnerabilidade depressiva.",
+            "f": "Na visão de Martin E.P. Seligman, \"prevenção\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — Otimismo e saúde",
         "text": "Mostra correlação entre otimismo, imunidade e longevidade.",
         "points": [
-          "Imunidade",
-          "Longevidade",
-          "Estresse"
+          {
+            "t": "Imunidade",
+            "e": "Mostra correlação entre otimismo, imunidade e longevidade.",
+            "f": "O otimismo pode ser aprendido. Não é um dom, é uma habilidade.",
+            "real": true
+          },
+          {
+            "t": "Longevidade",
+            "e": "Mostra correlação entre otimismo, imunidade e longevidade.",
+            "f": "Na visão de Martin E.P. Seligman, \"longevidade\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "Estresse",
+            "e": "Mostra correlação entre otimismo, imunidade e longevidade.",
+            "f": "Na visão de Martin E.P. Seligman, \"estresse\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Otimismo e desempenho",
         "text": "No esporte e vendas, o otimismo prediz persistência e resultado.",
         "points": [
-          "Esportes",
-          "Vendas",
-          "Persistência"
+          {
+            "t": "Esportes",
+            "e": "No esporte e vendas, o otimismo prediz persistência e resultado.",
+            "f": "O otimismo pode ser aprendido. Não é um dom, é uma habilidade.",
+            "real": true
+          },
+          {
+            "t": "Vendas",
+            "e": "No esporte e vendas, o otimismo prediz persistência e resultado.",
+            "f": "Na visão de Martin E.P. Seligman, \"vendas\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "Persistência",
+            "e": "No esporte e vendas, o otimismo prediz persistência e resultado.",
+            "f": "Na visão de Martin E.P. Seligman, \"persistência\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — Aprendendo o otimismo",
         "text": "Apresenta o programa passo a passo de reestruturação cognitiva.",
         "points": [
-          "O método",
-          "Exercícios",
-          "ABCDE"
+          {
+            "t": "O método",
+            "e": "Apresenta o programa passo a passo de reestruturação cognitiva.",
+            "f": "O otimismo pode ser aprendido. Não é um dom, é uma habilidade.",
+            "real": true
+          },
+          {
+            "t": "Exercícios",
+            "e": "Apresenta o programa passo a passo de reestruturação cognitiva.",
+            "f": "Na visão de Martin E.P. Seligman, \"exercícios\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "ABCDE",
+            "e": "Apresenta o programa passo a passo de reestruturação cognitiva.",
+            "f": "Na visão de Martin E.P. Seligman, \"abcde\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Disputando pensamentos",
         "text": "Ensina a contestar a evidência dos pensamentos pessimistas.",
         "points": [
-          "Evidência",
-          "Alternativas",
-          "Uso"
+          {
+            "t": "Evidência",
+            "e": "Ensina a contestar a evidência dos pensamentos pessimistas.",
+            "f": "Na visão de Martin E.P. Seligman, \"evidência\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "Alternativas",
+            "e": "Ensina a contestar a evidência dos pensamentos pessimistas.",
+            "f": "Na visão de Martin E.P. Seligman, \"alternativas\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "Uso",
+            "e": "Ensina a contestar a evidência dos pensamentos pessimistas.",
+            "f": "Na visão de Martin E.P. Seligman, \"uso\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — Otimismo para crianças",
         "text": "Como pais e escolas modelam e reensinam o estilo explicativo.",
         "points": [
-          "Modelagem",
-          "Reenquadre",
-          "Hábito"
+          {
+            "t": "Modelagem",
+            "e": "Como pais e escolas modelam e reensinam o estilo explicativo.",
+            "f": "O otimismo pode ser aprendido. Não é um dom, é uma habilidade.",
+            "real": true
+          },
+          {
+            "t": "Reenquadre",
+            "e": "Como pais e escolas modelam e reensinam o estilo explicativo.",
+            "f": "Na visão de Martin E.P. Seligman, \"reenquadre\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "Hábito",
+            "e": "Como pais e escolas modelam e reensinam o estilo explicativo.",
+            "f": "Na visão de Martin E.P. Seligman, \"hábito\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — O otimismo realista",
         "text": "Adverte contra o pensamento positivo ingênuo e defende o realista.",
         "points": [
-          "Realismo",
-          "Limites",
-          "Equilíbrio"
+          {
+            "t": "Realismo",
+            "e": "Adverte contra o pensamento positivo ingênuo e defende o realista.",
+            "f": "O otimismo pode ser aprendido. Não é um dom, é uma habilidade.",
+            "real": true
+          },
+          {
+            "t": "Limites",
+            "e": "Adverte contra o pensamento positivo ingênuo e defende o realista.",
+            "f": "Na visão de Martin E.P. Seligman, \"limites\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          },
+          {
+            "t": "Equilíbrio",
+            "e": "Adverte contra o pensamento positivo ingênuo e defende o realista.",
+            "f": "Na visão de Martin E.P. Seligman, \"equilíbrio\" é parte essencial da proposta de \"Aprendendo a Ser Otimista\".",
+            "real": false
+          }
         ]
       }
     ]
@@ -29057,62 +29447,122 @@ window.MEU_BOLSO_BOOKS=[
       {
         "number": "1",
         "title": "Escolha a pequena borda",
-        "text": "Defina ações simples de alta vantagem composta e repita diariamente."
+        "text": "Defina ações simples de alta vantagem composta e repita diariamente.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Escolha a pequena borda\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Defina ações simples de alta vantagem composta e repita diariamente — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Escolha a pequena borda\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "2",
         "title": "Respeite o tempo",
-        "text": "Veja o tempo como aliado que amplifica escolhas pequenas."
+        "text": "Veja o tempo como aliado que amplifica escolhas pequenas.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Respeite o tempo\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Veja o tempo como aliado que amplifica escolhas pequenas — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Respeite o tempo\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "3",
         "title": "Separe simples de fácil",
-        "text": "Planeje para o \"não fácil\": automatize e reduza atrito."
+        "text": "Planeje para o \"não fácil\": automatize e reduza atrito.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Separe simples de fácil\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Planeje para o \"não fácil\": automatize e reduza atrito — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Separe simples de fácil\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "4",
         "title": "Jogue a favor do composto",
-        "text": "Pequenas vitórias diárias viram resultados anos depois."
+        "text": "Pequenas vitórias diárias viram resultados anos depois.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Jogue a favor do composto\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Pequenas vitórias diárias viram resultados anos depois — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Jogue a favor do composto\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "5",
         "title": "Evite a borda negativa",
-        "text": "Pequenos descuidos diários também compostam ruína; corte-os."
+        "text": "Pequenos descuidos diários também compostam ruína; corte-os.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Evite a borda negativa\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Pequenos descuidos diários também compostam ruína; corte-os — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Evite a borda negativa\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "6",
         "title": "Use o ambiente",
-        "text": "Cerque-se de pessoas e lugares que praticam a borda."
+        "text": "Cerque-se de pessoas e lugares que praticam a borda.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Use o ambiente\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Cerque-se de pessoas e lugares que praticam a borda — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Use o ambiente\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "7",
         "title": "Não busque atalhos",
-        "text": "Promessas de resultado rápido ignoram a física do composto."
+        "text": "Promessas de resultado rápido ignoram a física do composto.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Não busque atalhos\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Promessas de resultado rápido ignoram a física do composto — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Não busque atalhos\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "8",
         "title": "Registre o hábito",
-        "text": "Acompanhar a pequena ação diária mantém a constância."
+        "text": "Acompanhar a pequena ação diária mantém a constância.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Registre o hábito\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Acompanhar a pequena ação diária mantém a constância — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Registre o hábito\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "9",
         "title": "Comece minúsculo",
-        "text": "Uma página, dez minutos: o tamanho importa menos que a regularidade."
+        "text": "Uma página, dez minutos: o tamanho importa menos que a regularidade.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Comece minúsculo\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Uma página, dez minutos: o tamanho importa menos que a regularidade — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Comece minúsculo\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "10",
         "title": "Mude a filosofia",
-        "text": "Adite a crença de que o longo prazo é real e decide."
+        "text": "Adite a crença de que o longo prazo é real e decide.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Mude a filosofia\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: Adite a crença de que o longo prazo é real e decide — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Mude a filosofia\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "11",
         "title": "Seja paciente",
-        "text": "A pequena borda não paga amanhã; paga no tempo certo."
+        "text": "A pequena borda não paga amanhã; paga no tempo certo.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Seja paciente\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: A pequena borda não paga amanhã; paga no tempo certo — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Seja paciente\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       },
       {
         "number": "12",
         "title": "Aja hoje",
-        "text": "A corrida começa na próxima pequena escolha, não no plano."
+        "text": "A corrida começa na próxima pequena escolha, não no plano.",
+        "explicacoes": [
+          "Em \"A Pequena Borda\", Jeff Olson trata \"Aja hoje\" como peça-chave para o poder das pequenas ações consistentes (tiny habits).",
+          "Na prática: A corrida começa na próxima pequena escolha, não no plano — é assim que a teoria vira atitude fora do papel.",
+          "Quem assimila \"Aja hoje\" aplica o poder das pequenas ações consistentes (tiny habits) de forma concreta, não apenas como conceito."
+        ]
       }
     ],
     "ideias": [
@@ -29134,81 +29584,216 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Capítulo 1 — A filosofia da pequena borda",
         "text": "Olson apresenta a ideia de que escolhas minúsculas compostas definem o destino.",
         "points": [
-          "A premissa",
-          "O tempo como aliado",
-          "Simples vs. fácil"
+          {
+            "t": "A premissa",
+            "e": "Olson apresenta a ideia de que escolhas minúsculas compostas definem o destino.",
+            "f": "A pequena borda é a margem mínima que decide no longo prazo.",
+            "real": true
+          },
+          {
+            "t": "O tempo como aliado",
+            "e": "Olson apresenta a ideia de que escolhas minúsculas compostas definem o destino.",
+            "f": "O sucesso é a soma de pequenas escolhas diárias feitas ao longo do tempo.",
+            "real": true
+          },
+          {
+            "t": "Simples vs. fácil",
+            "e": "Olson apresenta a ideia de que escolhas minúsculas compostas definem o destino.",
+            "f": "Simples não é fácil.",
+            "real": true
+          }
         ]
       },
       {
         "title": "Capítulo 2 — Por que a maioria falha",
         "text": "Explica por que pessoas inteligentes não colhem o que plantam.",
         "points": [
-          "Cegueira do curto prazo",
-          "Resultado atrasado",
-          "Falsa simplicidade"
+          {
+            "t": "Cegueira do curto prazo",
+            "e": "Explica por que pessoas inteligentes não colhem o que plantam.",
+            "f": "A pequena borda é a margem mínima que decide no longo prazo.",
+            "real": true
+          },
+          {
+            "t": "Resultado atrasado",
+            "e": "Explica por que pessoas inteligentes não colhem o que plantam.",
+            "f": "Na visão de Jeff Olson, \"resultado atrasado\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Falsa simplicidade",
+            "e": "Explica por que pessoas inteligentes não colhem o que plantam.",
+            "f": "Na visão de Jeff Olson, \"falsa simplicidade\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 3 — O tempo e o composto",
         "text": "Mostra a matemática silenciosa que amplifica ações diárias.",
         "points": [
-          "Efeito composto",
-          "Curva de resultado",
-          "Paciência"
+          {
+            "t": "Efeito composto",
+            "e": "Mostra a matemática silenciosa que amplifica ações diárias.",
+            "f": "O sucesso é a soma de pequenas escolhas diárias feitas ao longo do tempo.",
+            "real": true
+          },
+          {
+            "t": "Curva de resultado",
+            "e": "Mostra a matemática silenciosa que amplifica ações diárias.",
+            "f": "Na visão de Jeff Olson, \"curva de resultado\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Paciência",
+            "e": "Mostra a matemática silenciosa que amplifica ações diárias.",
+            "f": "Na visão de Jeff Olson, \"paciência\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 4 — A borda que salva ou destrói",
         "text": "A mesma ação pequena vira veneno ou remédio conforme a direção.",
         "points": [
-          "Direção",
-          "Hábitos",
-          "Consequência"
+          {
+            "t": "Direção",
+            "e": "A mesma ação pequena vira veneno ou remédio conforme a direção.",
+            "f": "A pequena borda é a margem mínima que decide no longo prazo.",
+            "real": true
+          },
+          {
+            "t": "Hábitos",
+            "e": "A mesma ação pequena vira veneno ou remédio conforme a direção.",
+            "f": "Na visão de Jeff Olson, \"hábitos\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Consequência",
+            "e": "A mesma ação pequena vira veneno ou remédio conforme a direção.",
+            "f": "Na visão de Jeff Olson, \"consequência\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 5 — Simples e fácil",
         "text": "Distinguir o que é simples de fazer do que é fácil sustentar.",
         "points": [
-          "Atrito",
-          "Automatização",
-          "Esforço"
+          {
+            "t": "Atrito",
+            "e": "Distinguir o que é simples de fazer do que é fácil sustentar.",
+            "f": "Simples não é fácil.",
+            "real": true
+          },
+          {
+            "t": "Automatização",
+            "e": "Distinguir o que é simples de fazer do que é fácil sustentar.",
+            "f": "Na visão de Jeff Olson, \"automatização\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Esforço",
+            "e": "Distinguir o que é simples de fazer do que é fácil sustentar.",
+            "f": "Na visão de Jeff Olson, \"esforço\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 6 — O ambiente certo",
         "text": "Como cercar-se de influências que sustentam a borda.",
         "points": [
-          "Círculo",
-          "Modelagem",
-          "Apoio"
+          {
+            "t": "Círculo",
+            "e": "Como cercar-se de influências que sustentam a borda.",
+            "f": "Na visão de Jeff Olson, \"círculo\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Modelagem",
+            "e": "Como cercar-se de influências que sustentam a borda.",
+            "f": "Na visão de Jeff Olson, \"modelagem\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Apoio",
+            "e": "Como cercar-se de influências que sustentam a borda.",
+            "f": "Na visão de Jeff Olson, \"apoio\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 7 — Transformando filosofia em ação",
         "text": "Converte a visão de longo prazo em comportamento diário.",
         "points": [
-          "Crença",
-          "Hábito",
-          "Rotina"
+          {
+            "t": "Crença",
+            "e": "Converte a visão de longo prazo em comportamento diário.",
+            "f": "Na visão de Jeff Olson, \"crença\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Hábito",
+            "e": "Converte a visão de longo prazo em comportamento diário.",
+            "f": "Na visão de Jeff Olson, \"hábito\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Rotina",
+            "e": "Converte a visão de longo prazo em comportamento diário.",
+            "f": "Na visão de Jeff Olson, \"rotina\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 8 — O plano de execução",
         "text": "Proposta prática de escolhas diárias e acompanhamento.",
         "points": [
-          "Microações",
-          "Registro",
-          "Constância"
+          {
+            "t": "Microações",
+            "e": "Proposta prática de escolhas diárias e acompanhamento.",
+            "f": "Na visão de Jeff Olson, \"microações\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Registro",
+            "e": "Proposta prática de escolhas diárias e acompanhamento.",
+            "f": "Na visão de Jeff Olson, \"registro\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Constância",
+            "e": "Proposta prática de escolhas diárias e acompanhamento.",
+            "f": "Na visão de Jeff Olson, \"constância\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          }
         ]
       },
       {
         "title": "Capítulo 9 — Viva a pequena borda",
         "text": "Encerra convidando à consistência como estilo de vida.",
         "points": [
-          "Estilo de vida",
-          "Legado",
-          "Começo"
+          {
+            "t": "Estilo de vida",
+            "e": "Encerra convidando à consistência como estilo de vida.",
+            "f": "A pequena borda é a margem mínima que decide no longo prazo.",
+            "real": true
+          },
+          {
+            "t": "Legado",
+            "e": "Encerra convidando à consistência como estilo de vida.",
+            "f": "Na visão de Jeff Olson, \"legado\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          },
+          {
+            "t": "Começo",
+            "e": "Encerra convidando à consistência como estilo de vida.",
+            "f": "Na visão de Jeff Olson, \"começo\" é parte essencial da proposta de \"A Pequena Borda\".",
+            "real": false
+          }
         ]
       }
     ]
