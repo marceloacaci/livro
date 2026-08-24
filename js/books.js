@@ -59842,6 +59842,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Adiar para depois",
         "text": "O \"depois\" raramente chega com mais tempo; o agora é o único terreno.",
         "reflection": "Você empurrou para depois o que devia fazer hoje?"
+      },
+      {
+        "type": "truth",
+        "title": "Quatro mil semanas é tudo o que temos",
+        "text": "Burkeman propõe aceitar a finitude para escolher com honestidade o que fazer.",
+        "reflection": "Você vive como se tivesse tempo infinito?"
       }
     ],
     "sections": [
@@ -59857,9 +59863,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Some as semanas",
         "text": "Calcular sua finitude torna concreta a escolha do que importa.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Some as semanas\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: Calcular sua finitude torna concreta a escolha do que importa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Some as semanas\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Some as semanas\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Calcular sua finitude torna concreta a escolha do que importa — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Some as semanas\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59867,9 +59873,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abandone a lista infinita",
         "text": "Não tente zerar; aceite que boa parte ficará por fazer.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Abandone a lista infinita\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: Não tente zerar; aceite que boa parte ficará por fazer — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abandone a lista infinita\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Abandone a lista infinita\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Não tente zerar; aceite que boa parte ficará por fazer — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Abandone a lista infinita\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59877,9 +59883,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Negligencie de propósito",
         "text": "Exclua categorias inteiras para proteger o essencial.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Negligencie de propósito\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: Exclua categorias inteiras para proteger o essencial — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Negligencie de propósito\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Negligencie de propósito\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Exclua categorias inteiras para proteger o essencial — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Negligencie de propósito\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59887,9 +59893,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fuja da eficiência",
         "text": "Pare de otimizar; use o tempo como experiência, não como recurso.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Fuja da eficiência\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: Pare de otimizar; use o tempo como experiência, não como recurso — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fuja da eficiência\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Fuja da eficiência\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pare de otimizar; use o tempo como experiência, não como recurso — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Fuja da eficiência\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59897,9 +59903,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Abraçe o não-acabado",
         "text": "A ansiedade de deixar coisas abertas é sinal de vida finita, aceite-a.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Abraçe o não-acabado\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: A ansiedade de deixar coisas abertas é sinal de vida finita, aceite-a — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Abraçe o não-acabado\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Abraçe o não-acabado\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A ansiedade de deixar coisas abertas é sinal de vida finita, aceite-a — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Abraçe o não-acabado\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59907,9 +59913,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça um de cada vez",
         "text": "Atenção plena em pouco vale mais que multitarefa ansiosa.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Faça um de cada vez\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: Atenção plena em pouco vale mais que multitarefa ansiosa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça um de cada vez\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Faça um de cada vez\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Atenção plena em pouco vale mais que multitarefa ansiosa — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Faça um de cada vez\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59917,9 +59923,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Prazo como aliado",
         "text": "O limite de tempo força escolha real e evita a procrastinação.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Prazo como aliado\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: O limite de tempo força escolha real e evita a procrastinação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Prazo como aliado\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Prazo como aliado\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O limite de tempo força escolha real e evita a procrastinação — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Prazo como aliado\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59927,9 +59933,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Menos compromissos",
         "text": "Reduza obrigações para ter margem de manobra e presença.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Menos compromissos\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: Reduza obrigações para ter margem de manobra e presença — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Menos compromissos\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Menos compromissos\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reduza obrigações para ter margem de manobra e presença — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Menos compromissos\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59937,9 +59943,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Viva o agora",
         "text": "O presente é o único terreno real; o futuro é promessa.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Viva o agora\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: O presente é o único terreno real; o futuro é promessa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Viva o agora\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Viva o agora\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O presente é o único terreno real; o futuro é promessa — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Viva o agora\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59947,9 +59953,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Procure sentido, não legado",
         "text": "Construir marca eterna foge da finitude; viver pleno a aceita.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Procure sentido, não legado\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: Construir marca eterna foge da finitude; viver pleno a aceita — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Procure sentido, não legado\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Procure sentido, não legado\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Construir marca eterna foge da finitude; viver pleno a aceita — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Procure sentido, não legado\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -59957,9 +59963,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Revise semanalmente",
         "text": "Um ritual curto para cortar o que sugou atenção à toa.",
         "explicacoes": [
-          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman trata \"Revise semanalmente\" como peça-chave para a finitude e o paradoxo da produtividade.",
-          "Na prática: Um ritual curto para cortar o que sugou atenção à toa — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Revise semanalmente\" aplica a finitude e o paradoxo da produtividade de forma concreta, não apenas como conceito."
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Revise semanalmente\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Um ritual curto para cortar o que sugou atenção à toa — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Revise semanalmente\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Limite é o que dá sentido",
+        "text": "Burkeman encerra: aceitar o fim é o que torna cada escolha importar.",
+        "explicacoes": [
+          "Em \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\", Oliver Burkeman coloca \"Limite é o que dá sentido\" no centro de produtividade, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Burkeman encerra: aceitar o fim é o que torna cada escolha importar — traduzido para a prática, é o passo concreto que liga a teoria de Oliver Burkeman ao comportamento diário.",
+          "Ignorar \"Limite é o que dá sentido\" é o erro mais comum de quem consome produtividade sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -59978,16 +59994,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A única maneira honesta de lidar com a finitude é escolher o que negligenciar.",
         "autor": "Oliver Burkeman",
         "obra": "Quatro Mil Semanas"
-      },
-      {
-        "texto": "Quanto mais tentamos \"dominar\" o tempo, mais ele nos domina; o segredo é render-se à limitação.",
-        "autor": "Oliver Burkeman",
-        "obra": "Quatro Mil Semanas"
-      },
-      {
-        "texto": "A atenção é a forma como a vida é gasta; onde ela vai, sua vida vai junto.",
-        "autor": "Oliver Burkeman",
-        "obra": "Quatro Mil Semanas"
       }
     ],
     "citacoesTerceiros": [
@@ -60000,11 +60006,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Burkeman escreve como quem te tira de uma armadilha que você achava confortável.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Antídoto para o culto à eficiência; li em três dias e mudei a agenda.",
-        "autor": "Crítico",
-        "fonte": "Skoob"
       }
     ],
     "chapters": [
@@ -60023,6 +60024,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Quatro mil semanas é o saldo real; a finitude é o ponto de partida.",
             "f": "A atenção é a forma como a vida é gasta; onde ela vai, sua vida vai junto.",
             "real": true
+          },
+          {
+            "t": "A aritmética da vida",
+            "e": "Quatro mil semanas é o saldo real; a finitude é o ponto de partida.",
+            "f": "Na visão de Oliver Burkeman, a aritmética da vida é o ponto central deste capítulo de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
           }
         ]
       },
@@ -60041,6 +60048,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Otimizar cria mais lista e mais ansiedade, não mais vida.",
             "f": "Quanto mais tentamos \"dominar\" o tempo, mais ele nos domina; o segredo é render-se à limitação.",
             "real": true
+          },
+          {
+            "t": "A falácia da eficiência",
+            "e": "Otimizar cria mais lista e mais ansiedade, não mais vida.",
+            "f": "Na visão de Oliver Burkeman, a falácia da eficiência é o ponto central deste capítulo de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
           }
         ]
       },
@@ -60058,6 +60071,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Aceite sobrar",
             "e": "Tentar zerar é perseguir o impossível; aceite o não-acabado.",
             "f": "Na visão de Oliver Burkeman, \"aceite sobrar\" é parte essencial da proposta de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
+          },
+          {
+            "t": "A lista infinita",
+            "e": "Tentar zerar é perseguir o impossível; aceite o não-acabado.",
+            "f": "Na visão de Oliver Burkeman, a lista infinita é o ponto central deste capítulo de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
             "real": false
           }
         ]
@@ -60077,6 +60096,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Dizer não a categorias inteiras protege o essencial.",
             "f": "A atenção é a forma como a vida é gasta; onde ela vai, sua vida vai junto.",
             "real": true
+          },
+          {
+            "t": "Escolher negligenciar",
+            "e": "Dizer não a categorias inteiras protege o essencial.",
+            "f": "Na visão de Oliver Burkeman, escolher negligenciar é o ponto central deste capítulo de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
           }
         ]
       },
@@ -60095,6 +60120,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Minutos são vida, não mercadoria; parar de lucrar com eles.",
             "f": "A produtividade não nos liberta do tempo; ela nos torna escravos dele, porque a lista nunca acaba.",
             "real": true
+          },
+          {
+            "t": "Tempo como dom",
+            "e": "Minutos são vida, não mercadoria; parar de lucrar com eles.",
+            "f": "Na visão de Oliver Burkeman, tempo como dom é o ponto central deste capítulo de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
           }
         ]
       },
@@ -60112,6 +60143,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Sobrar é normal",
             "e": "O desconforto de deixar coisas abertas é sinal de vida real.",
             "f": "Na visão de Oliver Burkeman, \"sobrar é normal\" é parte essencial da proposta de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
+          },
+          {
+            "t": "A ansiedade finita",
+            "e": "O desconforto de deixar coisas abertas é sinal de vida real.",
+            "f": "Na visão de Oliver Burkeman, a ansiedade finita é o ponto central deste capítulo de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
             "real": false
           }
         ]
@@ -60131,6 +60168,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Fazer um de cada vez devolve presença ao pouco que se faz.",
             "f": "Na visão de Oliver Burkeman, \"presença paga\" é parte essencial da proposta de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
             "real": false
+          },
+          {
+            "t": "Atenção plena",
+            "e": "Fazer um de cada vez devolve presença ao pouco que se faz.",
+            "f": "Na visão de Oliver Burkeman, atenção plena é o ponto central deste capítulo de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
           }
         ]
       },
@@ -60149,6 +60192,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Aceitar o limite transforma a escolha diária em ato consciente.",
             "f": "A produtividade não nos liberta do tempo; ela nos torna escravos dele, porque a lista nunca acaba.",
             "real": true
+          },
+          {
+            "t": "Viver de modo finito",
+            "e": "Aceitar o limite transforma a escolha diária em ato consciente.",
+            "f": "Na visão de Oliver Burkeman, viver de modo finito é o ponto central deste capítulo de \"Quatro Mil Semanas: Tempo e Como Viver uma Vida Mais Plena\".",
+            "real": false
           }
         ]
       }
@@ -60256,6 +60305,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Resultado vem rápido",
         "text": "McRaven avisa: mudança de vida é anos de pequenas ordens, não um dia.",
         "reflection": "Você quer tudo agora e desiste no primeiro mês?"
+      },
+      {
+        "type": "truth",
+        "title": "Disciplina mínima diária constrói resiliência",
+        "text": "McRaven repete a lição de SEAL: tarefas simples cumpridas criam caráter para o caos.",
+        "reflection": "Qual ritual pequeno sustenta seus dias difíceis?"
       }
     ],
     "sections": [
@@ -60271,9 +60326,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Faça a cama",
         "text": "Comece o dia com uma tarefa completa; ela prova que você pode agir.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Faça a cama\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: Comece o dia com uma tarefa completa; ela prova que você pode agir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Faça a cama\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Faça a cama\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Comece o dia com uma tarefa completa; ela prova que você pode agir — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Faça a cama\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60281,9 +60336,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Você precisa de time",
         "text": "Ninguém sustenta o difícil sozinho; construa rede de confiança.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Você precisa de time\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: Ninguém sustenta o difícil sozinho; construa rede de confiança — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Você precisa de time\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Você precisa de time\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ninguém sustenta o difícil sozinho; construa rede de confiança — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Você precisa de time\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60291,9 +60346,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "O barro nivela",
         "text": "Circunstância difícil equaliza todos; responda com calma.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"O barro nivela\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: Circunstância difícil equaliza todos; responda com calma — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"O barro nivela\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"O barro nivela\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Circunstância difícil equaliza todos; responda com calma — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"O barro nivela\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60301,9 +60356,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não julgue pela largura",
         "text": "Capacidade real aparece na ação, não no físico.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Não julgue pela largura\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: Capacidade real aparece na ação, não no físico — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não julgue pela largura\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Não julgue pela largura\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Capacidade real aparece na ação, não no físico — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Não julgue pela largura\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60311,9 +60366,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Fracasse uma vez por dia",
         "text": "Errar mantém humildade e treina a recuperação.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Fracasse uma vez por dia\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: Errar mantém humildade e treina a recuperação — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Fracasse uma vez por dia\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Fracasse uma vez por dia\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Errar mantém humildade e treina a recuperação — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Fracasse uma vez por dia\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60321,9 +60376,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Seja amigo do morro",
         "text": "A dificuldade é professor; abrace em vez de fugir.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Seja amigo do morro\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: A dificuldade é professor; abrace em vez de fugir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Seja amigo do morro\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Seja amigo do morro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A dificuldade é professor; abrace em vez de fugir — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Seja amigo do morro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60331,9 +60386,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não conte os dias",
         "text": "Viver o agora vale mais que contabilizar o prazo.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Não conte os dias\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: Viver o agora vale mais que contabilizar o prazo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não conte os dias\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Não conte os dias\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Viver o agora vale mais que contabilizar o prazo — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Não conte os dias\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60341,9 +60396,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Dê seu melhor sempre",
         "text": "O máximo importa justo quando tudo desaba.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Dê seu melhor sempre\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: O máximo importa justo quando tudo desaba — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Dê seu melhor sempre\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Dê seu melhor sempre\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "O máximo importa justo quando tudo desaba — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Dê seu melhor sempre\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60351,9 +60406,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Enfrente o escuro",
         "text": "Reconhecer o medo e avançar é a coragem real.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Enfrente o escuro\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: Reconhecer o medo e avançar é a coragem real — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Enfrente o escuro\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Enfrente o escuro\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer o medo e avançar é a coragem real — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Enfrente o escuro\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60361,9 +60416,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Inspire outros",
         "text": "Levantar quem está perto multiplica sua própria força.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Inspire outros\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: Levantar quem está perto multiplica sua própria força — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Inspire outros\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Inspire outros\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Levantar quem está perto multiplica sua própria força — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Inspire outros\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60371,9 +60426,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acumule pequenas vitórias",
         "text": "A soma do trivial é o que constrói caráter e resultado.",
         "explicacoes": [
-          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven trata \"Acumule pequenas vitórias\" como peça-chave para as lições de liderança dos SEALs (faça a cama).",
-          "Na prática: A soma do trivial é o que constrói caráter e resultado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acumule pequenas vitórias\" aplica as lições de liderança dos SEALs (faça a cama) de forma concreta, não apenas como conceito."
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"Acumule pequenas vitórias\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A soma do trivial é o que constrói caráter e resultado — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"Acumule pequenas vitórias\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "A esperança é a força final",
+        "text": "McRaven conclui que, nos dias piores, oferecer esperança é a maior liderança.",
+        "explicacoes": [
+          "Em \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\", William H. McRaven coloca \"A esperança é a força final\" no centro de habitos, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "McRaven conclui que, nos dias piores, oferecer esperança é a maior liderança — traduzido para a prática, é o passo concreto que liga a teoria de William H. McRaven ao comportamento diário.",
+          "Ignorar \"A esperança é a força final\" é o erro mais comum de quem consome habitos sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -60392,16 +60457,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A vida é preenchida de sofrimento, e o barro nivela; se você quer fazer a diferença, não saia correndo dele.",
         "autor": "William H. McRaven",
         "obra": "Faza Sua Cama"
-      },
-      {
-        "texto": "Ninguém pode fazer a diferença sozinho; se você quer mudar o mundo, comece pelos que estão ao seu lado.",
-        "autor": "William H. McRaven",
-        "obra": "Faza Sua Cama"
-      },
-      {
-        "texto": "Se você tem que fazer um passeio pelo inferno, faça-o de uma vez; não conte os dias, viva os dias.",
-        "autor": "William H. McRaven",
-        "obra": "Faza Sua Cama"
       }
     ],
     "citacoesTerceiros": [
@@ -60414,11 +60469,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Simples até demais, mas funciona: o hábito da cama mudou meu início de dia.",
         "autor": "Leitor",
         "fonte": "Goodreads"
-      },
-      {
-        "texto": "Autoajuda militar direta, sem jargão; ótimo para quem precisa de ordem.",
-        "autor": "Crítico",
-        "fonte": "Skoob"
       }
     ],
     "chapters": [
@@ -60437,6 +60487,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A primeira tarefa do dia prova que você consegue cumprir o que propõe.",
             "f": "Se cada dia você fizer sua cama, terá completado a primeira tarefa do dia. Isso lhe dará um pequeno senso de orgulho.",
             "real": true
+          },
+          {
+            "t": "Faza sua cama",
+            "e": "A primeira tarefa do dia prova que você consegue cumprir o que propõe.",
+            "f": "Na visão de William H. McRaven, faza sua cama é o ponto central deste capítulo de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
           }
         ]
       },
@@ -60455,6 +60511,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Times carregam o peso que um sozinho não aguenta.",
             "f": "Se você quer mudar o mundo, comece fazendo sua cama.",
             "real": true
+          },
+          {
+            "t": "Você não pode sozinho",
+            "e": "Times carregam o peso que um sozinho não aguenta.",
+            "f": "Na visão de William H. McRaven, você não pode sozinho é o ponto central deste capítulo de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
           }
         ]
       },
@@ -60472,6 +60534,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Calma sob lama",
             "e": "O incômodo iguala todos; a resposta define quem segue.",
             "f": "Na visão de William H. McRaven, \"calma sob lama\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          },
+          {
+            "t": "O barro nivela",
+            "e": "O incômodo iguala todos; a resposta define quem segue.",
+            "f": "Na visão de William H. McRaven, o barro nivela é o ponto central deste capítulo de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
             "real": false
           }
         ]
@@ -60491,6 +60559,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Largura de ombro não prevê nada; ação e confiança sim.",
             "f": "Na visão de William H. McRaven, \"prova real\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
             "real": false
+          },
+          {
+            "t": "Meça pelo certo",
+            "e": "Largura de ombro não prevê nada; ação e confiança sim.",
+            "f": "Na visão de William H. McRaven, meça pelo certo é o ponto central deste capítulo de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
           }
         ]
       },
@@ -60508,6 +60582,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Queda ensina",
             "e": "Errar diário treina humildade e recuperação rápida.",
             "f": "Na visão de William H. McRaven, \"queda ensina\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Fracasse uma vez",
+            "e": "Errar diário treina humildade e recuperação rápida.",
+            "f": "Na visão de William H. McRaven, fracasse uma vez é o ponto central deste capítulo de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
             "real": false
           }
         ]
@@ -60527,6 +60607,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A tarefa ingrata é onde se forja resistência; abrace-a.",
             "f": "Na visão de William H. McRaven, \"suba o morro\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
             "real": false
+          },
+          {
+            "t": "O morro",
+            "e": "A tarefa ingrata é onde se forja resistência; abrace-a.",
+            "f": "Na visão de William H. McRaven, o morro é o ponto central deste capítulo de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
           }
         ]
       },
@@ -60545,6 +60631,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Viver o agora vale mais que contar o prazo que falta.",
             "f": "Na visão de William H. McRaven, \"dia vivido\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
             "real": false
+          },
+          {
+            "t": "Não conte os dias",
+            "e": "Viver o agora vale mais que contar o prazo que falta.",
+            "f": "Na visão de William H. McRaven, não conte os dias é o ponto central deste capítulo de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
           }
         ]
       },
@@ -60562,6 +60654,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Melhor sempre",
             "e": "O máximo importa no pior momento; pratique antes dele chegar.",
             "f": "Na visão de William H. McRaven, \"melhor sempre\" é parte essencial da proposta de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
+            "real": false
+          },
+          {
+            "t": "Dê o melhor",
+            "e": "O máximo importa no pior momento; pratique antes dele chegar.",
+            "f": "Na visão de William H. McRaven, dê o melhor é o ponto central deste capítulo de \"Faza Sua Cama: Pequenos Hábitos que Podem Mudar Sua Vida... e Talvez o Mundo\".",
             "real": false
           }
         ]
@@ -60670,6 +60768,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Suplemento cura",
         "text": "Pílula não substitui controle e vínculo; o gatilho social continua.",
         "reflection": "Você comprou solução rápida e manteve a causa?"
+      },
+      {
+        "type": "truth",
+        "title": "Estresse crônico adoece; controle e laços curam",
+        "text": "Sapolsky explica o corpo sob estresse e por que autonomia e vínculo protegem a saúde.",
+        "reflection": "Seu estresse é amigo ou inimigo do seu corpo?"
       }
     ],
     "sections": [
@@ -60685,9 +60789,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Entenda o mecanismo",
         "text": "Saber o que cortisol faz ajuda a não tratar estresse como frescura.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Entenda o mecanismo\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Saber o que cortisol faz ajuda a não tratar estresse como frescura — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Entenda o mecanismo\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Entenda o mecanismo\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Saber o que cortisol faz ajuda a não tratar estresse como frescura — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Entenda o mecanismo\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60695,9 +60799,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Busque controle",
         "text": "Decidir a própria rotina reduz dano tanto quanto remédio.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Busque controle\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Decidir a própria rotina reduz dano tanto quanto remédio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Busque controle\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Busque controle\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Decidir a própria rotina reduz dano tanto quanto remédio — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Busque controle\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60705,9 +60809,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mova o corpo",
         "text": "Exercício é a \"fuga\" que o metabolismo espera para limpar o hormônio.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Mova o corpo\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Exercício é a \"fuga\" que o metabolismo espera para limpar o hormônio — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mova o corpo\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Mova o corpo\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Exercício é a \"fuga\" que o metabolismo espera para limpar o hormônio — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Mova o corpo\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60715,9 +60819,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cultive vínculos",
         "text": "Apoio social e toque baixam cortisol na prática, não na teoria.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Cultive vínculos\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Apoio social e toque baixam cortisol na prática, não na teoria — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cultive vínculos\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Cultive vínculos\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Apoio social e toque baixam cortisol na prática, não na teoria — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Cultive vínculos\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60725,9 +60829,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Durma de verdade",
         "text": "Sono é o desligamento noturno que o sistema precisa para curar.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Durma de verdade\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Sono é o desligamento noturno que o sistema precisa para curar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Durma de verdade\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Durma de verdade\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sono é o desligamento noturno que o sistema precisa para curar — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Durma de verdade\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60735,9 +60839,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Ria e brinque",
         "text": "Humor e lazer são válvulas reais; trate-os como saúde.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Ria e brinque\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Humor e lazer são válvulas reais; trate-os como saúde — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Ria e brinque\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Ria e brinque\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Humor e lazer são válvulas reais; trate-os como saúde — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Ria e brinque\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60745,9 +60849,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Torne o dia previsível",
         "text": "Rotina e aviso reduzem a incerteza que mantém o alerta ligado.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Torne o dia previsível\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Rotina e aviso reduzem a incerteza que mantém o alerta ligado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Torne o dia previsível\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Torne o dia previsível\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Rotina e aviso reduzem a incerteza que mantém o alerta ligado — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Torne o dia previsível\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60755,9 +60859,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Desligue de propósito",
         "text": "Hobby e natureza resetam; não espere o colapso para parar.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Desligue de propósito\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Hobby e natureza resetam; não espere o colapso para parar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Desligue de propósito\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Desligue de propósito\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Hobby e natureza resetam; não espere o colapso para parar — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Desligue de propósito\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60765,9 +60869,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Corte o crônico",
         "text": "Identifique o gatilho diário e remova ou limite o que puder.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Corte o crônico\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Identifique o gatilho diário e remova ou limite o que puder — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Corte o crônico\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Corte o crônico\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identifique o gatilho diário e remova ou limite o que puder — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Corte o crônico\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60775,9 +60879,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Não ignore o corpo",
         "text": "Sintoma físico sob estresse é biológico; leve a sério.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Não ignore o corpo\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Sintoma físico sob estresse é biológico; leve a sério — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Não ignore o corpo\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Não ignore o corpo\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sintoma físico sob estresse é biológico; leve a sério — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Não ignore o corpo\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -60785,9 +60889,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite o agudo",
         "text": "Susto pontual é normal; o perigo é quando ele nunca desliga.",
         "explicacoes": [
-          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky trata \"Aceite o agudo\" como peça-chave para o estresse, a biologia e a decisão humana.",
-          "Na prática: Susto pontual é normal; o perigo é quando ele nunca desliga — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite o agudo\" aplica o estresse, a biologia e a decisão humana de forma concreta, não apenas como conceito."
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Aceite o agudo\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Susto pontual é normal; o perigo é quando ele nunca desliga — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Aceite o agudo\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Controle e conexão são antídotos",
+        "text": "Sapolsky mostra que autonomia e vínculo social amortecem o dano do estresse.",
+        "explicacoes": [
+          "Em \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\", Robert M. Sapolsky coloca \"Controle e conexão são antídotos\" no centro de saude, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sapolsky mostra que autonomia e vínculo social amortecem o dano do estresse — traduzido para a prática, é o passo concreto que liga a teoria de Robert M. Sapolsky ao comportamento diário.",
+          "Ignorar \"Controle e conexão são antídotos\" é o erro mais comum de quem consome saude sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -60806,16 +60920,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Se você é incapaz de ligar e desligar o sistema de estresse, vira presa de você mesmo.",
         "autor": "Robert M. Sapolsky",
         "obra": "Por que as Zebras não têm Úlceras"
-      },
-      {
-        "texto": "O corpo foi feito para correr do predador, não para ler 200 e-mails ameaçadores por dia.",
-        "autor": "Robert M. Sapolsky",
-        "obra": "Por que as Zebras não têm Úlceras"
-      },
-      {
-        "texto": "O que protege não é evitar o estresse, mas ter controle, vínculo e um fim claro para ele.",
-        "autor": "Robert M. Sapolsky",
-        "obra": "Por que as Zebras não têm Úlceras"
       }
     ],
     "citacoesTerceiros": [
@@ -60828,11 +60932,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Sapolsky explica cortisol sem enrolação; depois dele, não ignoro mais o corpo.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Denso em biologia, mas acessível; leitura obrigatória para quem vive acelerado.",
-        "autor": "Crítico",
-        "fonte": "Skoob"
       }
     ],
     "chapters": [
@@ -60850,6 +60949,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Por que a zebra relaxa",
             "e": "Estresse agudo salva; o problema humano é o disparo que não cessa.",
             "f": "Na visão de Robert M. Sapolsky, \"por que a zebra relaxa\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          },
+          {
+            "t": "A zebra e o leão",
+            "e": "Estresse agudo salva; o problema humano é o disparo que não cessa.",
+            "f": "Na visão de Robert M. Sapolsky, a zebra e o leão é o ponto central deste capítulo de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
             "real": false
           }
         ]
@@ -60869,6 +60974,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Cortisol e adrenalina preparam o corpo para luta ou fuga.",
             "f": "O corpo foi feito para correr do predador, não para ler 200 e-mails ameaçadores por dia.",
             "real": true
+          },
+          {
+            "t": "O sistema de alerta",
+            "e": "Cortisol e adrenalina preparam o corpo para luta ou fuga.",
+            "f": "Na visão de Robert M. Sapolsky, o sistema de alerta é o ponto central deste capítulo de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
           }
         ]
       },
@@ -60886,6 +60997,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Alerta sem fim",
             "e": "Estresse diário corrói coração, imunidade e cérebro.",
             "f": "Na visão de Robert M. Sapolsky, \"alerta sem fim\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          },
+          {
+            "t": "Quando não desliga",
+            "e": "Estresse diário corrói coração, imunidade e cérebro.",
+            "f": "Na visão de Robert M. Sapolsky, quando não desliga é o ponto central deste capítulo de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
             "real": false
           }
         ]
@@ -60905,6 +61022,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Quem decide sofre menos; o passivo paga o preço biológico.",
             "f": "O que protege não é evitar o estresse, mas ter controle, vínculo e um fim claro para ele.",
             "real": true
+          },
+          {
+            "t": "O papel do controle",
+            "e": "Quem decide sofre menos; o passivo paga o preço biológico.",
+            "f": "Na visão de Robert M. Sapolsky, o papel do controle é o ponto central deste capítulo de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
           }
         ]
       },
@@ -60923,6 +61046,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Incerteza, hierarquia e isolamento amplificam a resposta.",
             "f": "O que protege não é evitar o estresse, mas ter controle, vínculo e um fim claro para ele.",
             "real": true
+          },
+          {
+            "t": "Sociedade e estresse",
+            "e": "Incerteza, hierarquia e isolamento amplificam a resposta.",
+            "f": "Na visão de Robert M. Sapolsky, sociedade e estresse é o ponto central deste capítulo de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
           }
         ]
       },
@@ -60940,6 +61069,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Preço real",
             "e": "Úlceras, pressão e memória sofrem com o cortisol de longo prazo.",
             "f": "Na visão de Robert M. Sapolsky, \"preço real\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          },
+          {
+            "t": "Corpo sob cerco",
+            "e": "Úlceras, pressão e memória sofrem com o cortisol de longo prazo.",
+            "f": "Na visão de Robert M. Sapolsky, corpo sob cerco é o ponto central deste capítulo de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
             "real": false
           }
         ]
@@ -60959,6 +61094,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Exercício, sono, riso, toque e previsibilidade desligam o sistema.",
             "f": "O corpo foi feito para correr do predador, não para ler 200 e-mails ameaçadores por dia.",
             "real": true
+          },
+          {
+            "t": "O que ajuda",
+            "e": "Exercício, sono, riso, toque e previsibilidade desligam o sistema.",
+            "f": "Na visão de Robert M. Sapolsky, o que ajuda é o ponto central deste capítulo de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
           }
         ]
       },
@@ -60976,6 +61117,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Saúde sustentável",
             "e": "Mudar gatilho e rotina vale mais que remédio pontual.",
             "f": "Na visão de Robert M. Sapolsky, \"saúde sustentável\" é parte essencial da proposta de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
+            "real": false
+          },
+          {
+            "t": "Viver menos estressado",
+            "e": "Mudar gatilho e rotina vale mais que remédio pontual.",
+            "f": "Na visão de Robert M. Sapolsky, viver menos estressado é o ponto central deste capítulo de \"Por que as Zebras não têm Úlceras: Guia do Estresse para Quem Leva uma Vida Estressante\".",
             "real": false
           }
         ]
@@ -61084,6 +61231,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Impossível voltar",
         "text": "Carr mostra que o hábito de concentrar se recupera com prática.",
         "reflection": "Você acha que perdeu a capacidade de focar para sempre?"
+      },
+      {
+        "type": "truth",
+        "title": "A rede reprograma como lemos e pensamos",
+        "text": "Carr alerta que o cérebro se adapta à distração superficial da leitura em tela.",
+        "reflection": "Sua atenção é sua ou da próxima notificação?"
       }
     ],
     "sections": [
@@ -61099,9 +61252,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Saiba que a tela treina",
         "text": "Reconhecer o efeito é o primeiro passo para não ser seu resultado.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Saiba que a tela treina\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Reconhecer o efeito é o primeiro passo para não ser seu resultado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Saiba que a tela treina\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Saiba que a tela treina\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reconhecer o efeito é o primeiro passo para não ser seu resultado — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Saiba que a tela treina\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61109,9 +61262,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Separe leitura profunda",
         "text": "Reserve tempo de livro/papel longe de notificações.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Separe leitura profunda\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Reserve tempo de livro/papel longe de notificações — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Separe leitura profunda\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Separe leitura profunda\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Reserve tempo de livro/papel longe de notificações — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Separe leitura profunda\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61119,9 +61272,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Feche as abas",
         "text": "Uma tarefa de cada vez recupera o foco fragmentado.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Feche as abas\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Uma tarefa de cada vez recupera o foco fragmentado — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Feche as abas\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Feche as abas\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Uma tarefa de cada vez recupera o foco fragmentado — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Feche as abas\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61129,9 +61282,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escreva para pensar",
         "text": "Redigir à mão ou longo organiza melhor que responder rápido.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Escreva para pensar\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Redigir à mão ou longo organiza melhor que responder rápido — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escreva para pensar\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Escreva para pensar\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Redigir à mão ou longo organiza melhor que responder rápido — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Escreva para pensar\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61139,9 +61292,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Memorize o essencial",
         "text": "Guardar núcleo interno fortalece o raciocínio, não só buscar.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Memorize o essencial\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Guardar núcleo interno fortalece o raciocínio, não só buscar — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Memorize o essencial\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Memorize o essencial\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Guardar núcleo interno fortalece o raciocínio, não só buscar — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Memorize o essencial\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61149,9 +61302,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuidado do reflexo",
         "text": "Clique automático cansa a atenção; pause antes de abrir.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Cuidado do reflexo\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Clique automático cansa a atenção; pause antes de abrir — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuidado do reflexo\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Cuidado do reflexo\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Clique automático cansa a atenção; pause antes de abrir — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Cuidado do reflexo\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61159,9 +61312,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use a rede com intenção",
         "text": "Acesse para algo e saia; não naufrague no feed.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Use a rede com intenção\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Acesse para algo e saia; não naufrague no feed — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use a rede com intenção\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Use a rede com intenção\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Acesse para algo e saia; não naufrague no feed — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Use a rede com intenção\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61169,9 +61322,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Recupere o silêncio",
         "text": "Períodos offline são onde a síntese acontece de fato.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Recupere o silêncio\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Períodos offline são onde a síntese acontece de fato — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Recupere o silêncio\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Recupere o silêncio\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Períodos offline são onde a síntese acontece de fato — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Recupere o silêncio\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61179,9 +61332,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Leia devagar",
         "text": "Ler linear treina o músculo do pensamento crítico.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Leia devagar\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Ler linear treina o músculo do pensamento crítico — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Leia devagar\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Leia devagar\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ler linear treina o músculo do pensamento crítico — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Leia devagar\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61189,9 +61342,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aceite a troca",
         "text": "Toda comodidade tem custo de atenção; escolha pagar menos.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Aceite a troca\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Toda comodidade tem custo de atenção; escolha pagar menos — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aceite a troca\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Aceite a troca\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Toda comodidade tem custo de atenção; escolha pagar menos — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Aceite a troca\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61199,9 +61352,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Proteja a mente",
         "text": "Tratar atenção como recurso finito muda o uso diário.",
         "explicacoes": [
-          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr trata \"Proteja a mente\" como peça-chave para o efeito da internet na leitura profunda e na mente.",
-          "Na prática: Tratar atenção como recurso finito muda o uso diário — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Proteja a mente\" aplica o efeito da internet na leitura profunda e na mente de forma concreta, não apenas como conceito."
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Proteja a mente\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Tratar atenção como recurso finito muda o uso diário — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Proteja a mente\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Leitura profunda é treinável de volta",
+        "text": "Carr propõe recuperar o foco longo com hábitos de atenção deliberada.",
+        "explicacoes": [
+          "Em \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\", Nicholas Carr coloca \"Leitura profunda é treinável de volta\" no centro de tecnologia, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Carr propõe recuperar o foco longo com hábitos de atenção deliberada — traduzido para a prática, é o passo concreto que liga a teoria de Nicholas Carr ao comportamento diário.",
+          "Ignorar \"Leitura profunda é treinável de volta\" é o erro mais comum de quem consome tecnologia sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -61220,16 +61383,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "A leitura profunda é um músculo; se não o exercitarmos, ele atrofia.",
         "autor": "Nicholas Carr",
         "obra": "O Efeito Google"
-      },
-      {
-        "texto": "Trocamos a sabedoria pela informação, e a atenção pelo reflexo.",
-        "autor": "Nicholas Carr",
-        "obra": "O Efeito Google"
-      },
-      {
-        "texto": "A máquina de escrever não mudou como pensamos; a tela interativa, sim.",
-        "autor": "Nicholas Carr",
-        "obra": "O Efeito Google"
       }
     ],
     "citacoesTerceiros": [
@@ -61242,11 +61395,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Carr faz a pergunta que a Silicon Valley evita: o que a rede faz com a mente?",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Finalista do Pulitzer; denso, mas essencial para quem vive online.",
-        "autor": "Crítico",
-        "fonte": "Skoob"
       }
     ],
     "chapters": [
@@ -61264,6 +61412,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "O antes e o depois",
             "e": "A memória pessoal de Carr: a concentração sumiu com a tela.",
             "f": "Na visão de Nicholas Carr, \"o antes e o depois\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          },
+          {
+            "t": "A mão que treme",
+            "e": "A memória pessoal de Carr: a concentração sumiu com a tela.",
+            "f": "Na visão de Nicholas Carr, a mão que treme é o ponto central deste capítulo de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
             "real": false
           }
         ]
@@ -61283,6 +61437,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Neuroplasticidade: o uso remodela a mente, inclusive a leitura.",
             "f": "A internet não está apenas mudando o que lemos; está mudando a forma como nosso cérebro processa o que lê.",
             "real": true
+          },
+          {
+            "t": "O cérebro maleável",
+            "e": "Neuroplasticidade: o uso remodela a mente, inclusive a leitura.",
+            "f": "Na visão de Nicholas Carr, o cérebro maleável é o ponto central deste capítulo de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
           }
         ]
       },
@@ -61301,6 +61461,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Ler linear vs escanear; a diferença no pensamento crítico.",
             "f": "A máquina de escrever não mudou como pensamos; a tela interativa, sim.",
             "real": true
+          },
+          {
+            "t": "A tela contra o livro",
+            "e": "Ler linear vs escanear; a diferença no pensamento crítico.",
+            "f": "Na visão de Nicholas Carr, a tela contra o livro é o ponto central deste capítulo de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
           }
         ]
       },
@@ -61318,6 +61484,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Ferramenta muda",
             "e": "Do livro à máquina: cada meio reconfigurou o cérebro.",
             "f": "Na visão de Nicholas Carr, \"ferramenta muda\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          },
+          {
+            "t": "A história da tecnologia",
+            "e": "Do livro à máquina: cada meio reconfigurou o cérebro.",
+            "f": "Na visão de Nicholas Carr, a história da tecnologia é o ponto central deste capítulo de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
             "real": false
           }
         ]
@@ -61337,6 +61509,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "A economia do clique lucra com sua dispersão, não com foco.",
             "f": "Na visão de Nicholas Carr, \"feed lucra\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
             "real": false
+          },
+          {
+            "t": "A atenção vendida",
+            "e": "A economia do clique lucra com sua dispersão, não com foco.",
+            "f": "Na visão de Nicholas Carr, a atenção vendida é o ponto central deste capítulo de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
           }
         ]
       },
@@ -61354,6 +61532,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Saber menor",
             "e": "Tudo na nuvem enfraquece o domínio interno do saber.",
             "f": "Na visão de Nicholas Carr, \"saber menor\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          },
+          {
+            "t": "Memória externalizada",
+            "e": "Tudo na nuvem enfraquece o domínio interno do saber.",
+            "f": "Na visão de Nicholas Carr, memória externalizada é o ponto central deste capítulo de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
             "real": false
           }
         ]
@@ -61373,6 +61557,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Velocidade troca profundidade; o preço aparece devagar.",
             "f": "Na visão de Nicholas Carr, \"rapidez cara\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
             "real": false
+          },
+          {
+            "t": "O custo invisível",
+            "e": "Velocidade troca profundidade; o preço aparece devagar.",
+            "f": "Na visão de Nicholas Carr, o custo invisível é o ponto central deste capítulo de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
           }
         ]
       },
@@ -61390,6 +61580,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Foco de volta",
             "e": "Prática de leitura profunda e offline reconstrói a atenção.",
             "f": "Na visão de Nicholas Carr, \"foco de volta\" é parte essencial da proposta de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
+            "real": false
+          },
+          {
+            "t": "Recuperar o foco",
+            "e": "Prática de leitura profunda e offline reconstrói a atenção.",
+            "f": "Na visão de Nicholas Carr, recuperar o foco é o ponto central deste capítulo de \"O Efeito Google: O que a Internet está Fazendo com os Nossos Cérebros\".",
             "real": false
           }
         ]
@@ -61498,6 +61694,12 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mudar é impossível",
         "text": "Goleman mostra que treino diário reconstrói o padrão emocional.",
         "reflection": "Você desistiu de mudar achando que é assim?"
+      },
+      {
+        "type": "truth",
+        "title": "Inteligência emocional supera QI na vida real",
+        "text": "Goleman mostra que autoconsciência e empatia preveem sucesso mais que nota cognitiva.",
+        "reflection": "Você lidera suas emoções ou elas o lideram?"
       }
     ],
     "sections": [
@@ -61513,9 +61715,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Nomeie a emoção",
         "text": "Identificar o que sente devolve o leme à razão antes do estrago.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Nomeie a emoção\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: Identificar o que sente devolve o leme à razão antes do estrago — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Nomeie a emoção\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Nomeie a emoção\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Identificar o que sente devolve o leme à razão antes do estrago — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Nomeie a emoção\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61523,9 +61725,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pare antes de agir",
         "text": "A pausa de um segundo quebra o sequestro da amígdala.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Pare antes de agir\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: A pausa de um segundo quebra o sequestro da amígdala — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pare antes de agir\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Pare antes de agir\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "A pausa de um segundo quebra o sequestro da amígdala — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Pare antes de agir\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61533,9 +61735,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Treine empatia",
         "text": "Ler o outro como ele se sente reduz atrito e abre diálogo.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Treine empatia\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: Ler o outro como ele se sente reduz atrito e abre diálogo — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Treine empatia\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Treine empatia\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ler o outro como ele se sente reduz atrito e abre diálogo — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Treine empatia\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61543,9 +61745,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Regule o impulso",
         "text": "Conter a reação evita erros que inteligência não impede.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Regule o impulso\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: Conter a reação evita erros que inteligência não impede — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Regule o impulso\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Regule o impulso\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Conter a reação evita erros que inteligência não impede — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Regule o impulso\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61553,9 +61755,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Mantenha motivo",
         "text": "Propósito sustenta esforço quando o ânimo falta.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Mantenha motivo\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: Propósito sustenta esforço quando o ânimo falta — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Mantenha motivo\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Mantenha motivo\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Propósito sustenta esforço quando o ânimo falta — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Mantenha motivo\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61563,9 +61765,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Acalme o estresse",
         "text": "Respirar antes de decidir protege a qualidade da escolha.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Acalme o estresse\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: Respirar antes de decidir protege a qualidade da escolha — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Acalme o estresse\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Acalme o estresse\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Respirar antes de decidir protege a qualidade da escolha — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Acalme o estresse\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61573,9 +61775,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Escute para entender",
         "text": "Ouvir sem preparar resposta melhora relações e negócios.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Escute para entender\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: Ouvir sem preparar resposta melhora relações e negócios — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Escute para entender\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Escute para entender\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Ouvir sem preparar resposta melhora relações e negócios — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Escute para entender\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61583,9 +61785,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Aprenda cedo, melhore tarde",
         "text": "EQ se forma na infância, mas adulto ainda treina.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Aprenda cedo, melhore tarde\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: EQ se forma na infância, mas adulto ainda treina — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Aprenda cedo, melhore tarde\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Aprenda cedo, melhore tarde\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "EQ se forma na infância, mas adulto ainda treina — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Aprenda cedo, melhore tarde\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61593,9 +61795,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Use em liderança",
         "text": "Time segue quem acalma e entende, não só quem ordena.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Use em liderança\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: Time segue quem acalma e entende, não só quem ordena — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Use em liderança\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Use em liderança\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Time segue quem acalma e entende, não só quem ordena — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Use em liderança\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61603,9 +61805,9 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Cuide do corpo",
         "text": "Sono e movimento estabilizam o emocional base.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Cuide do corpo\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: Sono e movimento estabilizam o emocional base — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Cuide do corpo\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Cuide do corpo\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Sono e movimento estabilizam o emocional base — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Cuide do corpo\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       },
       {
@@ -61613,9 +61815,19 @@ window.MEU_BOLSO_BOOKS=[
         "title": "Pratique todo dia",
         "text": "Pequenos atos de consciência reconstroem o padrão emocional.",
         "explicacoes": [
-          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman trata \"Pratique todo dia\" como peça-chave para a inteligência emocional como chave do sucesso.",
-          "Na prática: Pequenos atos de consciência reconstroem o padrão emocional — é assim que a teoria vira atitude fora do papel.",
-          "Quem assimila \"Pratique todo dia\" aplica a inteligência emocional como chave do sucesso de forma concreta, não apenas como conceito."
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Pratique todo dia\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Pequenos atos de consciência reconstroem o padrão emocional — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Pratique todo dia\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
+        ]
+      },
+      {
+        "number": "12",
+        "title": "Autogestão emocional é a base da liderança",
+        "text": "Goleman conclui que quem não se regula não inspira nem conduz equipes.",
+        "explicacoes": [
+          "Em \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\", Daniel Goleman coloca \"Autogestão emocional é a base da liderança\" no centro de comportamento, mostrando que não é dica genérica e sim consequência direta da tese do livro.",
+          "Goleman conclui que quem não se regula não inspira nem conduz equipes — traduzido para a prática, é o passo concreto que liga a teoria de Daniel Goleman ao comportamento diário.",
+          "Ignorar \"Autogestão emocional é a base da liderança\" é o erro mais comum de quem consome comportamento sem resultado; dominá-lo é o que separa leitores de executores."
         ]
       }
     ],
@@ -61634,16 +61846,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "O que conta no sucesso raramente é o QI; é a inteligência emocional que decide.",
         "autor": "Daniel Goleman",
         "obra": "Inteligência Emocional"
-      },
-      {
-        "texto": "Quem não gerencia suas emoções destrói a si mesmo mais do que qualquer inimigo externo.",
-        "autor": "Daniel Goleman",
-        "obra": "Inteligência Emocional"
-      },
-      {
-        "texto": "A empatia não é luxo social; é a habilidade que faz relações e equipes funcionarem.",
-        "autor": "Daniel Goleman",
-        "obra": "Inteligência Emocional"
       }
     ],
     "citacoesTerceiros": [
@@ -61656,11 +61858,6 @@ window.MEU_BOLSO_BOOKS=[
         "texto": "Goleman tornou a ciência das emoções legível para qualquer um.",
         "autor": "Leitor",
         "fonte": "Amazon"
-      },
-      {
-        "texto": "Clássico obrigatório de comportamento; o \"seqüestro da amígdala\" virou lugar-comum.",
-        "autor": "Crítico",
-        "fonte": "Skoob"
       }
     ],
     "chapters": [
@@ -61679,6 +61876,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Nota alta prevê pouco; o resto é emoção bem conduzida.",
             "f": "O que conta no sucesso raramente é o QI; é a inteligência emocional que decide.",
             "real": true
+          },
+          {
+            "t": "O QI e o destino",
+            "e": "Nota alta prevê pouco; o resto é emoção bem conduzida.",
+            "f": "Na visão de Daniel Goleman, o QI e o destino é o ponto central deste capítulo de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -61697,6 +61900,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Amígdala e córtex: o centro que sequestra a razão em segundos.",
             "f": "Num momento de paixão, as pessoas inteligentes fazem coisas estúpidas; a emoção sequestra a razão.",
             "real": true
+          },
+          {
+            "t": "O cérebro emocional",
+            "e": "Amígdala e córtex: o centro que sequestra a razão em segundos.",
+            "f": "Na visão de Daniel Goleman, o cérebro emocional é o ponto central deste capítulo de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -61714,6 +61923,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Impulso manda",
             "e": "Raiva ou pânico tomam a decisão antes do pensar.",
             "f": "Na visão de Daniel Goleman, \"impulso manda\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "O seqüestro",
+            "e": "Raiva ou pânico tomam a decisão antes do pensar.",
+            "f": "Na visão de Daniel Goleman, o seqüestro é o ponto central deste capítulo de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
             "real": false
           }
         ]
@@ -61733,6 +61948,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Autoconsciência é a base das outras quatro competências.",
             "f": "Na visão de Daniel Goleman, \"nomear ajuda\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
             "real": false
+          },
+          {
+            "t": "Conheça a si",
+            "e": "Autoconsciência é a base das outras quatro competências.",
+            "f": "Na visão de Daniel Goleman, conheça a si é o ponto central deste capítulo de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -61750,6 +61971,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Pausa salva",
             "e": "Autorregulação evita erros que inteligência sozinha não evita.",
             "f": "Na visão de Daniel Goleman, \"pausa salva\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Segurar o impulso",
+            "e": "Autorregulação evita erros que inteligência sozinha não evita.",
+            "f": "Na visão de Daniel Goleman, segurar o impulso é o ponto central deste capítulo de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
             "real": false
           }
         ]
@@ -61769,6 +61996,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Empatia reduz atrito e abre portas em relação e trabalho.",
             "f": "Na visão de Daniel Goleman, \"escuta útil\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
             "real": false
+          },
+          {
+            "t": "Ler o outro",
+            "e": "Empatia reduz atrito e abre portas em relação e trabalho.",
+            "f": "Na visão de Daniel Goleman, ler o outro é o ponto central deste capítulo de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -61787,6 +62020,12 @@ window.MEU_BOLSO_BOOKS=[
             "e": "Influenciar e lidar com gente é competência treinável.",
             "f": "Na visão de Daniel Goleman, \"time segue\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
             "real": false
+          },
+          {
+            "t": "Habilidade social",
+            "e": "Influenciar e lidar com gente é competência treinável.",
+            "f": "Na visão de Daniel Goleman, habilidade social é o ponto central deste capítulo de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
           }
         ]
       },
@@ -61804,6 +62043,12 @@ window.MEU_BOLSO_BOOKS=[
             "t": "Prática reconstrói",
             "e": "Adulto aprende com prática diária; não é traço fixo.",
             "f": "Na visão de Daniel Goleman, \"prática reconstrói\" é parte essencial da proposta de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
+            "real": false
+          },
+          {
+            "t": "Treinar a EQ",
+            "e": "Adulto aprende com prática diária; não é traço fixo.",
+            "f": "Na visão de Daniel Goleman, treinar a EQ é o ponto central deste capítulo de \"Inteligência Emocional: A Teoria Revolucionária que Define o Sucesso\".",
             "real": false
           }
         ]
