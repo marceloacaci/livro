@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://marceloacaci.github.io/livro/sitemap.xml
