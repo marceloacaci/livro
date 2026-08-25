@@ -22,6 +22,11 @@
     <div class="nav-brand">📖 Biblioteca de Reflexões</div>
     <button class="nav-toggle" id="navToggle" aria-label="Abrir menu">☰</button>
     <button class="theme-toggle" id="themeToggle" type="button" aria-pressed="false" aria-label="Mudar tema">🌙</button>
+    <div class="reader-font-controls" id="fontControls" role="group" aria-label="Tamanho da fonte">
+      <button type="button" id="fontDecrease" aria-label="Diminuir fonte">A−</button>
+      <span class="font-size-label" id="fontSizeLabel">100%</span>
+      <button type="button" id="fontIncrease" aria-label="Aumentar fonte">A+</button>
+    </div>
   </nav>
 
   <div class="layout">
@@ -149,5 +154,7 @@
       }
     })();
   </script>
+  <div id="reflectionModalRoot"></div>
+  <script src="js/reader-ux.js"></script>
 </body>
 </html>

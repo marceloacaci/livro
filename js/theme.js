@@ -12,6 +12,14 @@
   var KEY = 'livro-theme';
   var root = document.documentElement;
 
+  // Ordem de ciclo dos temas (Sprint 2 UX: adiciona sépia).
+  var THEMES = ['dark', 'sepia', 'light'];
+  var THEME_LABELS = {
+    dark: { next: 'Mudar para tema sépia', icon: '🌙' },
+    sepia: { next: 'Mudar para tema claro', icon: '📜' },
+    light: { next: 'Mudar para tema escuro', icon: '☀️' }
+  };
+
   function systemPrefersDark() {
     return window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
   }
@@ -21,7 +29,7 @@
   }
 
   function apply(theme) {
-    if (theme === 'light' || theme === 'dark') {
+    if (theme === 'light' || theme === 'sepia' || theme === 'dark') {
       root.setAttribute('data-theme', theme);
     } else {
       root.removeAttribute('data-theme'); // volta ao :root padrão (escuro)
@@ -30,16 +38,16 @@
 
   function resolveInitial() {
     var stored = getStored();
-    if (stored === 'light' || stored === 'dark') return stored;
+    if (THEMES.indexOf(stored) !== -1) return stored;
     return systemPrefersDark() ? 'dark' : 'light';
   }
 
   function syncButton(btn, theme) {
     if (!btn) return;
-    var isDark = theme === 'dark';
-    btn.setAttribute('aria-pressed', String(isDark));
-    btn.setAttribute('aria-label', isDark ? 'Mudar para tema claro' : 'Mudar para tema escuro');
-    btn.textContent = isDark ? '☀️' : '🌙';
+    var meta = THEME_LABELS[theme] || THEME_LABELS.dark;
+    btn.setAttribute('aria-pressed', String(theme === 'dark'));
+    btn.setAttribute('aria-label', meta.next);
+    btn.textContent = meta.icon;
   }
 
   // Aplica no carregamento (antes de pintar para evitar flash)
@@ -51,8 +59,9 @@
 
   if (btn) {
     btn.addEventListener('click', function () {
-      var current = root.getAttribute('data-theme');
-      var next = (current === 'light') ? 'dark' : 'light';
+      var current = root.getAttribute('data-theme') || 'dark';
+      var idx = THEMES.indexOf(current);
+      var next = THEMES[(idx + 1) % THEMES.length];
       apply(next);
       try { localStorage.setItem(KEY, next); } catch (e) {}
       syncButton(btn, next);
@@ -64,8 +73,9 @@
     var mq = window.matchMedia('(prefers-color-scheme: dark)');
     var onChange = function (e) {
       if (getStored()) return; // escolha manual tem precedência
-      apply(e.matches ? 'dark' : 'light');
-      syncButton(btn, e.matches ? 'dark' : 'light');
+      var next = e.matches ? 'dark' : 'light';
+      apply(next);
+      syncButton(btn, next);
     };
     if (mq.addEventListener) mq.addEventListener('change', onChange);
     else if (mq.addListener) mq.addListener(onChange);
@@ -73,8 +83,11 @@
 
   window.LivroTheme = {
     apply: apply,
+    THEMES: THEMES,
     toggle: function () {
-      var next = (root.getAttribute('data-theme') === 'light') ? 'dark' : 'light';
+      var current = root.getAttribute('data-theme') || 'dark';
+      var idx = THEMES.indexOf(current);
+      var next = THEMES[(idx + 1) % THEMES.length];
       apply(next);
       try { localStorage.setItem(KEY, next); } catch (e) {}
       syncButton(btn, next);
