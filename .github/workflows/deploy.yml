@@ -47,9 +47,17 @@ jobs:
         continue-on-error: true
 
       - name: Compile PlantUML diagrams
-        uses: grassedge/plantuml-action@v1
-        with:
-          args: "-tpng -o build/diagrams docs/uml/*.puml"
+        run: |
+          set -euo pipefail
+          if ! compgen -G "docs/uml/*.puml" > /dev/null; then
+            echo "Nenhum arquivo .puml em docs/uml — nada a compilar."
+            exit 0
+          fi
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq plantuml
+          mkdir -p build/diagrams
+          plantuml -tpng -o "$PWD/build/diagrams" docs/uml/*.puml
+          ls -la build/diagrams
 
       - name: Upload diagram artifacts
         if: always()
