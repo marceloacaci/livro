@@ -228,6 +228,7 @@
   function saveReflexoes(data) {
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+      if (typeof dirHandle !== 'undefined' && dirHandle) salvarPasta();
     } catch (e) {
       alert('Não foi possível salvar. O armazenamento local pode estar cheio.');
     }
@@ -278,6 +279,80 @@
       ta.value = '';
     });
   }
+
+  // ---- Persistência em pasta do projeto (File System Access API) ----
+  var dirHandle = null;
+  var pastaStatusEl = document.getElementById('pastaStatus');
+  var btnConectarPasta = document.getElementById('btnConectarPasta');
+  var btnSalvarPasta = document.getElementById('btnSalvarPasta');
+
+  function setPastaStatus(msg, ok) {
+    if (pastaStatusEl) {
+      pastaStatusEl.textContent = msg || '';
+      pastaStatusEl.className = 'pasta-status' + (ok === false ? ' pasta-status-erro' : (ok === true ? ' pasta-status-ok' : ''));
+      pastaStatusEl.setAttribute('style', 'font-size:0.85em;opacity:0.85;' + (ok === true ? 'color:#2e7d32;' : (ok === false ? 'color:#c62828;' : '')));
+    }
+  }
+
+  async function salvarPasta() {
+    if (!dirHandle) return;
+    try {
+      var data = loadReflexoes();
+      var fileHandle = await dirHandle.getFileHandle('reflexoes.json', { create: true });
+      var writable = await fileHandle.createWritable();
+      await writable.write(JSON.stringify(data, null, 2));
+      await writable.close();
+      setPastaStatus('Salvo em Minhas Reflexões/reflexoes.json ✓', true);
+    } catch (e) {
+      setPastaStatus('Falha ao salvar na pasta: ' + (e ? e.message : e), false);
+    }
+  }
+
+  async function lerPasta() {
+    if (!dirHandle) return;
+    try {
+      var fileHandle = await dirHandle.getFileHandle('reflexoes.json');
+      var file = await fileHandle.getFile();
+      var txt = await file.text();
+      if (!txt) return;
+      var data = JSON.parse(txt);
+      if (data && typeof data === 'object') {
+        var atuais = loadReflexoes();
+        Object.keys(data).forEach(function (k) {
+          if (!atuais[k] || (data[k] && data[k].savedAt && (!atuais[k].savedAt || data[k].savedAt > atuais[k].savedAt))) {
+            atuais[k] = data[k];
+          }
+        });
+        saveReflexoes(atuais);
+        renderReflexoes();
+        loadSavedIntoTextareas();
+        setPastaStatus('Reflexões da pasta carregadas ✓', true);
+      }
+    } catch (e) {
+      if (e && e.name !== 'NotFoundError') setPastaStatus('Não foi possível ler a pasta: ' + (e ? e.message : e), false);
+    }
+  }
+
+  async function conectarPasta() {
+    if (!('showDirectoryPicker' in window)) {
+      alert('Seu navegador não suporta acesso a pasta (use Edge ou Chrome recente em http://localhost). As reflexões continuam salvas no localStorage deste navegador.');
+      return;
+    }
+    try {
+      dirHandle = await window.showDirectoryPicker();
+      if (btnSalvarPasta) btnSalvarPasta.style.display = 'inline-flex';
+      if (btnConectarPasta) btnConectarPasta.textContent = '🔗 Pasta: ' + dirHandle.name;
+      setPastaStatus('Pasta conectada. Salvando...', true);
+      await salvarPasta();
+      await lerPasta();
+    } catch (e) {
+      if (e && e.name === 'AbortError') { setPastaStatus('Conexão cancelada.', false); return; }
+      setPastaStatus('Erro ao conectar pasta: ' + (e ? e.message : e), false);
+    }
+  }
+
+  if (btnConectarPasta) btnConectarPasta.addEventListener('click', conectarPasta);
+  if (btnSalvarPasta) btnSalvarPasta.addEventListener('click', salvarPasta);
 
   var stepLabels = book.stepLabels || {};
 
