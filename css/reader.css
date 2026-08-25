@@ -1,0 +1,31 @@
+/* ===== B6 — Barra de progresso de leitura ===== */
+.reading-progress {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  height: 4px;
+  z-index: 1200;
+  background: rgba(0, 0, 0, 0.12);
+  pointer-events: none;
+}
+.reading-progress__bar {
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #00c2ff, #16a085);
+  box-shadow: 0 0 10px rgba(0, 194, 255, 0.6);
+  transition: width 0.1s linear;
+}
+
+/* ===== B8 — Modo Leitura Focada (esconde header/footer ao rolar p/ baixo) ===== */
+.reading-focused #navbar {
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+.reading-focused .footer {
+  transform: translateY(100%);
+  opacity: 0;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+#navbar { transition: transform 0.3s ease, opacity 0.3s ease; }
+.footer { transition: transform 0.3s ease, opacity 0.3s ease; }
+

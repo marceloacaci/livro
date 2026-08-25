@@ -1,0 +1,55 @@
+/* ============================================================
+   Biblioteca de Reflexões — Neon Dark Blue Theme
+   Estilos principais
+   ============================================================ */
+
+/* --- Reset & Base --- */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --color-bg: #070b14;
+  --color-bg-gradient: linear-gradient(135deg, #04060d 0%, #0a1124 100%);
+  --color-surface: #0d1220;
+  --color-surface-2: #111827;
+  --color-text: #ffffff;
+  --color-text-light: #ffffff;
+  --color-primary: #00c2ff;
+  --color-primary-hover: #33cfff;
+  --color-accent: #7b2dff;
+  --color-accent-light: rgba(123, 45, 255, 0.15);
+  --color-danger: #ff3b6b;
+  --color-border: rgba(0, 194, 255, 0.25);
+  --color-step-1: #ff3b6b;
+  --color-step-2: #ff9f43;
+  --color-step-3: #f1c40f;
+  --color-step-4: #00e676;
+  --color-step-5: #00c2ff;
+  --color-step-6: #d946ef;
+  --color-step-7: #22e3ff;
+  --radius: 12px;
+  --shadow: 0 10px 30px rgba(0,0,0,0.45);
+  --shadow-hover: 0 4px 12px rgba(255,255,255,0.18);
+  --shadow-lg: 0 20px 50px rgba(0,0,0,0.55);
+  --font-body: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  --font-heading: Georgia, 'Times New Roman', serif;
+  --max-width: 900px;
+  --transition: 0.25s ease;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 16px;
+}
+
+body {
+  font-family: var(--font-body);
+  background: var(--color-bg-gradient);
+  background-attachment: fixed;
+  color: var(--color-text);
+  line-height: 1.7;
+  min-height: 100vh;
+}
