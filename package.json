@@ -1,0 +1,16 @@
+{
+  "name": "biblioteca-de-reflexoes",
+  "version": "2.1.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "lint:syntax": "node scripts/check-syntax.js",
+    "lint:schema": "node scripts/lint-books.js",
+    "verify": "node scripts/verify-biblioteca.js",
+    "test": "node --test tests/*.test.js",
+    "qa": "npm run lint:syntax && npm run lint:schema && npm run verify && npm run test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

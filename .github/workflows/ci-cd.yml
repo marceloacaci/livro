@@ -1,0 +1,77 @@
+name: CI/CD DevSecOps — Projeto Livro v2.1
+
+on:
+  push:
+    branches: [main, master]
+    tags: ['v*']
+  pull_request:
+    branches: [main, master]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  quality-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 🔍 Syntax Check (node --check)
+        run: npm run lint:syntax
+
+      - name: 📚 Schema Validation
+        run: npm run lint:schema
+
+      - name: 📦 Build Integrity
+        run: npm run verify
+
+      - name: ✅ Testes Unitários
+        run: npm run test
+
+      - name: 🛡️ Security Audit (Zero Deps)
+        run: |
+          if [ -f package-lock.json ]; then
+            npm audit --audit-level=high
+          else
+            echo "✅ Zero-dependencies confirmed (no package-lock.json)"
+          fi
+
+      # Sem isso, o Lighthouse CI abaixo tentava acessar
+      # localhost:8000 sem nada escutando na porta.
+      - name: 🌐 Sobe servidor estático para o Lighthouse
+        run: |
+          python3 -m http.server 8000 &
+          sleep 2
+
+      - name: 📊 WPO Budget (Lighthouse CI)
+        uses: treosh/lighthouse-ci-action@v11
+        with:
+          urls: |
+            http://localhost:8000/index.html
+          budgetPath: ./lighthouse-budget.json
+          uploadArtifacts: true
+
+      # Step que faltava — sem ele o deploy-pages não tem o que publicar.
+      - name: 📤 Upload Pages Artifact
+        if: github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/v')
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+
+  deploy:
+    needs: quality-gate
+    if: github.ref == 'refs/heads/main' || startsWith(github.ref, 'refs/tags/v')
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
