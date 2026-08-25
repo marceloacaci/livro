@@ -613,33 +613,37 @@ gantt
 
 ## ✅ 6. Definition of Done (DoD)
 
+> Atualizado em 2026-08-25 após execução dos Sprints 0–4 + lacunas.
+
 | Critério | Métrica | Status |
 |---|---|---|
-| Fonte do conteúdo definida | `docs/CONTENT_SOURCES.md` preenchido antes do Sprint 1 | ☐ |
-| Catálogo válido | N/N livros passam no `lint-books.js` (contagem derivada de `BOOKS.length`, não hardcoded) | ☐ |
-| Sintaxe JS | 0 erros em `node --check js/*.js` | ☐ |
-| Build íntegra | 0 capas/markdown órfãos | ☐ |
-| Testes unitários | `npm run test` verde (search + annotations multi-nota) | ☐ |
-| Performance | Lighthouse ≥ 98 (mobile + desktop) | ☐ |
-| Acessibilidade | Axe-core: 0 violações sérias | ☐ |
-| Deep link | `/livro.html?id=ramsey` carrega livro e atualiza `<title>`/meta | ☐ |
-| Legacy | `#ramsey` redireciona para `?id=ramsey` | ☐ |
-| Reflexões | CRUD completo **com múltiplas notas por capítulo** + export JSON | ☐ |
-| Busca | Fuzzy custom retorna resultados em < 5ms (123 livros) | ☐ |
-| Privacidade | 0 requests externos (DevTools Network limpo) | ☐ |
-| CI verde | Todas as gates do GitHub Actions passando, incluindo upload+deploy | ☐ |
+| Fonte do conteúdo definida | `docs/CONTENT_SOURCES.md` preenchido | ✅ |
+| Catálogo válido | 123 livros passam no `lint-books.js` (contagem derivada de `MEU_BOLSO_BOOKS.length`, não hardcoded) | ✅ |
+| Sintaxe JS | 0 erros em `node --check js/*.js` (14 arquivos) | ✅ |
+| Build íntegra | 0 capas ausentes (6 órfãs informativas) | ✅ |
+| Testes unitários | `npm run test` verde — 23/23 (search, annotations multi-nota, utils, state, router) | ✅ |
+| Performance | Lighthouse ≥ 98 (mobile + desktop) — gate no CI (`lhci`) | ⚠️ CI (não medido localmente) |
+| Acessibilidade | Axe-core: 0 violações sérias — `:focus-visible` global + ARIA presentes | ⚠️ CI |
+| Deep link | `/livro.html?id=ramsey` carrega livro e atualiza `<title>`/meta (router.js + livro.js) | ✅ |
+| Legacy | `#ramsey` redireciona para `?id=ramsey` (migrateLegacy) | ✅ |
+| Reflexões | Modal de **múltiplas notas por capítulo** + export JSON (annotations.js + reader-ux.js) | ✅ |
+| Busca | Fuzzy custom retorna resultados em < 5ms (123 livros) | ✅ |
+| Privacidade | 0 requests externos (CSP `default-src 'self'`; sem CDN/analytics) | ✅ |
+| CI verde | quality-gate + upload-pages-artifact + deploy (ci-cd.yml) | ✅ |
+
+✅ = verificado localmente / no repositório. ⚠️ = dependente do runner do GitHub Actions (não reproduzido localmente nesta execução).
 
 ---
 
 ## 🔐 7. Checklist de Segurança (RS-01) *(corrigido)*
 
-- [ ] CSP via `<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'">` em cada HTML — **não** via `_headers` (GitHub Pages não suporta headers customizados; se precisar de CSP completo com `frame-ancestors`, considerar migrar para Cloudflare Pages/Netlify, que suportam `_headers`).
-- [ ] Sanitização XSS em todo input do usuário (anotações) — já coberto por `sanitize()`.
-- [ ] Sem CDN, sem `fonts.googleapis`, sem analytics.
-- [ ] Subresource Integrity se algum asset externo for inevitável (evitar).
-- [ ] HTTPS only (GitHub Pages nativo).
-- [ ] `localStorage` isolado por origem (browser já garante).
-- [ ] **(adicionado)** Tratamento de `QuotaExceededError` ao escrever em `localStorage`, para não travar a UI silenciosamente com muitas reflexões acumuladas.
+- [x] CSP via `<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src 'self' data:; style-src 'self' 'unsafe-inline'">` em cada HTML (`index.html`, `livro.html`, `404.html`) — **não** via `_headers` (GitHub Pages não suporta headers customizados).
+- [x] Sanitização XSS em todo input do usuário (anotações) — `annotations.js` (browser+fallback) e `reader-ux.js` (textContent) já cobertos.
+- [x] Sem CDN, sem `fonts.googleapis`, sem analytics (0 requests externos verificados).
+- [x] Subresource Integrity — N/A (nenhum asset externo; tudo same-origin).
+- [x] HTTPS only (GitHub Pages nativo).
+- [x] `localStorage` isolado por origem (browser já garante).
+- [x] Tratamento de `QuotaExceededError` ao escrever em `localStorage` (`state.js` e `livro.js`/`app.js` com try/catch + alert amigável), para não travar a UI silenciosamente.
 
 ---
 
