@@ -35,7 +35,14 @@
         <div class="sidebar-title">Navegação</div>
         <ul class="sidebar-links">
           <li><a href="index.html" class="sidebar-link" data-nav-id="biblioteca">🏠 Início</a></li>
-          <li><a href="artigos.html" class="sidebar-link" data-nav-id="artigos">📑 Artigos Científicos</a></li>
+          <li>
+            <button class="sidebar-link sidebar-toggle" id="livrosMasterToggle" aria-expanded="false" data-nav-id="biblioteca">📚 Livros</button>
+            <ul class="chapter-submenu" id="livrosMasterSubmenu"></ul>
+          </li>
+          <li>
+            <button class="sidebar-link sidebar-toggle" id="artigosMasterToggle" aria-expanded="false" data-nav-id="artigos">📑 Artigos Científicos</button>
+            <ul class="chapter-submenu" id="artigosMasterSubmenu"></ul>
+          </li>
           <li><a href="#inicio" class="sidebar-link" data-nav-id="inicio" id="sidebarBookHome">📖 <span id="sidebarBookTitle">Início do Livro</span></a></li>
         </ul>
       </div>
@@ -157,5 +164,6 @@
   </script>
   <div id="reflectionModalRoot"></div>
   <script src="js/reader-ux.js"></script>
+  <script defer src="js/nav.js"></script>
 </body>
 </html>

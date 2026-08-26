@@ -32,7 +32,14 @@
         <div class="sidebar-title">Navegação</div>
         <ul class="sidebar-links">
           <li><a href="index.html" class="sidebar-link" data-nav-id="inicio">🏠 Início</a></li>
-          <li><a href="artigos.html" class="sidebar-link" data-nav-id="artigos">📑 Artigos Científicos</a></li>
+          <li>
+            <button class="sidebar-link sidebar-toggle" id="livrosMasterToggle" aria-expanded="false" data-nav-id="biblioteca">📚 Livros</button>
+            <ul class="chapter-submenu" id="livrosMasterSubmenu"></ul>
+          </li>
+          <li>
+            <button class="sidebar-link sidebar-toggle" id="artigosMasterToggle" aria-expanded="false" data-nav-id="artigos">📑 Artigos Científicos</button>
+            <ul class="chapter-submenu" id="artigosMasterSubmenu"></ul>
+          </li>
         </ul>
 
       <div class="sidebar-section">
@@ -76,6 +83,7 @@
         <div class="container">
           <h2 class="section-title">Livros Disponíveis</h2>
           <div class="books-grid" id="booksGrid"></div>
+          <div class="books-pagination" id="booksPagination"></div>
         </div>
       </section>
 
@@ -106,6 +114,7 @@
   <script defer src="js/articles-informatica.js"></script>
   <script defer src="js/articles-teses.js"></script>
   <script defer src="js/articles.js"></script>
+  <script defer src="js/nav.js"></script>
   <script>
     (function () {
       'use strict';

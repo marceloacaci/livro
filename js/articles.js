@@ -173,6 +173,25 @@
   var blocks = document.querySelectorAll('[data-articles-block]');
   Array.prototype.forEach.call(blocks, mountBlock);
 
+  // Pré-seleciona tema a partir da hash (ex.: artigos.html#ia).
+  function applyHashTema() {
+    var h = (window.location.hash || '').replace(/^#/, '').trim().toLowerCase();
+    if (!h) return;
+    var valid = TEMAS.some(function (t) { return t.key === h; });
+    if (!valid) return;
+    Array.prototype.forEach.call(blocks, function (block) {
+      var root = block;
+      var grid = root.querySelector('[data-articles-grid]');
+      var filtersWrap = root.querySelector('[data-article-filters]');
+      if (!grid || !filtersWrap) return;
+      // dispara o clique no botão do tema correspondente
+      var btn = filtersWrap.querySelector('.book-tab[data-tema="' + h + '"]');
+      if (btn) btn.click();
+    });
+  }
+  applyHashTema();
+  window.addEventListener('hashchange', applyHashTema);
+
   // API pública
   window.LivroArticles = {
     mountBlock: mountBlock,
