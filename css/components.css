@@ -1196,3 +1196,22 @@
 :root[data-theme="light"] .page-btn:disabled {
   opacity: 0.45;
 }
+
+/* Tema sépia (papel): botões de paginação usam superfície amarelada e primário marrom */
+:root[data-theme="sepia"] .page-btn {
+  background-color: #e9dfc6;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.55), rgba(255, 255, 255, 0.08) 46%, rgba(67, 52, 34, 0.10));
+  border: 1px solid rgba(125, 70, 34, 0.28);
+  color: var(--color-text);
+}
+
+:root[data-theme="sepia"] .page-btn.active {
+  background-color: var(--color-primary);
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.28), rgba(255, 255, 255, 0.05) 46%, rgba(0, 0, 0, 0.18));
+  color: #fdf6e3;
+  box-shadow: 0 0 12px rgba(154, 91, 47, 0.40);
+}
+
+:root[data-theme="sepia"] .page-btn:disabled {
+  opacity: 0.45;
+}
