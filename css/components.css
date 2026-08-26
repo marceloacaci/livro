@@ -1047,3 +1047,53 @@
               inset 0 -4px 6px rgba(0, 0, 0, 0.12),
               0 3px 6px rgba(20, 40, 80, 0.12);
 }
+
+/* ===== Seção Artigos Científicos / Teses ===== */
+.article-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 24px;
+}
+
+.article-filters .book-tab {
+  width: auto;
+}
+
+.article-filters .tab-count {
+  opacity: 0.8;
+  font-weight: 600;
+}
+
+.article-card {
+  position: relative;
+}
+
+.article-badge {
+  position: absolute;
+  top: -10px;
+  right: 14px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  color: #03101a;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.35);
+}
+
+.article-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: auto;
+  padding-top: 6px;
+}
+
+.article-actions .btn {
+  flex: 1 1 auto;
+  justify-content: center;
+  text-align: center;
+  font-size: 0.88rem;
+  padding: 9px 14px;
+}
