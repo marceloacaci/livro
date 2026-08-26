@@ -1215,3 +1215,27 @@
 :root[data-theme="sepia"] .page-btn:disabled {
   opacity: 0.45;
 }
+
+/* ===== Submenu de temas de artigos (collapsável dentro do menu) ===== */
+.article-theme-submenu {
+  padding-left: 10px;
+  border-left: 1px solid var(--color-border);
+  margin-left: 6px;
+}
+
+.article-theme-toggle {
+  font-size: 0.82rem;
+}
+
+.article-sublink {
+  font-size: 0.8rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.article-pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 28px;
+}

@@ -109,6 +109,9 @@
       return html;
     }
 
+    var currentPage = 1;
+    var pageSize = limit > 0 ? limit : 10;
+
     function renderGrid() {
       var list = ALL.slice();
       if (currentTema !== 'todos') {
@@ -116,21 +119,53 @@
       }
       if (list.length === 0) {
         grid.innerHTML = '<p class="empty-state">Nenhum artigo neste tema ainda.</p>';
+        renderPagination(0);
         return;
       }
-      var shown = list;
-      var truncated = false;
-      if (limit > 0 && list.length > limit) {
-        shown = list.slice(0, limit);
-        truncated = true;
+      var totalPages = Math.max(1, Math.ceil(list.length / pageSize));
+      if (currentPage > totalPages) currentPage = totalPages;
+      if (currentPage < 1) currentPage = 1;
+      var start = (currentPage - 1) * pageSize;
+      var shown = list.slice(start, start + pageSize);
+      grid.innerHTML = shown.map(cardHtml).join('');
+      renderPagination(totalPages);
+    }
+
+    function renderPagination(totalPages) {
+      var wrap = root.querySelector('[data-articles-pagination]');
+      if (!wrap) return;
+      if (!totalPages || totalPages <= 1) { wrap.innerHTML = ''; return; }
+      var html = '<div class="pagination-inner">';
+      html += '<button class="page-btn" data-page="prev" ' + (currentPage === 1 ? 'disabled' : '') + '>‹ Anterior</button>';
+      var windowSize = 7;
+      var startPage = Math.max(1, currentPage - Math.floor(windowSize / 2));
+      var endPage = Math.min(totalPages, startPage + windowSize - 1);
+      startPage = Math.max(1, endPage - windowSize + 1);
+      if (startPage > 1) {
+        html += '<button class="page-btn" data-page="1">1</button>';
+        if (startPage > 2) html += '<span class="page-ellipsis">…</span>';
       }
-      var html = shown.map(cardHtml).join('');
-      if (truncated) {
-        html += '<div class="article-see-all">' +
-          '<a class="btn btn-clear" href="artigos.html">Ver todos os ' + list.length +
-          ' artigos científicos →</a></div>';
+      for (var p = startPage; p <= endPage; p++) {
+        html += '<button class="page-btn' + (p === currentPage ? ' active' : '') + '" data-page="' + p + '">' + p + '</button>';
       }
-      grid.innerHTML = html;
+      if (endPage < totalPages) {
+        if (endPage < totalPages - 1) html += '<span class="page-ellipsis">…</span>';
+        html += '<button class="page-btn" data-page="' + totalPages + '">' + totalPages + '</button>';
+      }
+      html += '<button class="page-btn" data-page="next" ' + (currentPage === totalPages ? 'disabled' : '') + '>Próximo ›</button>';
+      html += '</div>';
+      wrap.innerHTML = html;
+      wrap.querySelectorAll('.page-btn').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          var v = btn.getAttribute('data-page');
+          if (v === 'prev') currentPage = Math.max(1, currentPage - 1);
+          else if (v === 'next') currentPage = Math.min(totalPages, currentPage + 1);
+          else currentPage = parseInt(v, 10);
+          renderGrid();
+          var sec = root.closest('.section');
+          if (sec) sec.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+      });
     }
 
     function renderFilters() {
@@ -146,6 +181,7 @@
       filtersWrap.querySelectorAll('.book-tab').forEach(function (btn) {
         btn.addEventListener('click', function () {
           currentTema = btn.getAttribute('data-tema') || 'todos';
+          currentPage = 1;
           renderFilters();
           renderGrid();
         });
