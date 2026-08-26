@@ -1097,3 +1097,22 @@
   font-size: 0.88rem;
   padding: 9px 14px;
 }
+
+.article-see-all {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+  margin-top: 8px;
+}
+
+.article-see-all .btn {
+  font-size: 0.95rem;
+  padding: 12px 22px;
+}
+
+.article-see-all {
+  grid-column: 1 / -1;
+  display: flex;
+  justify-content: center;
+  margin-top: 8px;
+}

@@ -34,6 +34,12 @@
       label: 'Informática',
       color: '#16a085',
       src: window.MEU_BOLSO_ARTICLES_INFORMATICA
+    },
+    {
+      key: 'teses',
+      label: 'Teses',
+      color: '#d946ef',
+      src: window.MEU_BOLSO_ARTICLES_TESES
     }
   ];
 
@@ -71,6 +77,11 @@
 
     var currentTema = 'todos';
 
+    // Limite opcional de exibição (Home mostra só alguns destaques).
+    var limitAttr = root.getAttribute('data-articles-limit');
+    var limit = parseInt(limitAttr, 10);
+    if (isNaN(limit) || limit <= 0) limit = 0;
+
     function cardHtml(a) {
       var localPath = a.localPath || ('artigos/' + a.temaKey + '/' + (a.filename || ''));
       var sourceUrl = a.sourceUrl || '#';
@@ -105,7 +116,19 @@
         grid.innerHTML = '<p class="empty-state">Nenhum artigo neste tema ainda.</p>';
         return;
       }
-      grid.innerHTML = list.map(cardHtml).join('');
+      var shown = list;
+      var truncated = false;
+      if (limit > 0 && list.length > limit) {
+        shown = list.slice(0, limit);
+        truncated = true;
+      }
+      var html = shown.map(cardHtml).join('');
+      if (truncated) {
+        html += '<div class="article-see-all">' +
+          '<a class="btn btn-clear" href="artigos.html">Ver todos os ' + list.length +
+          ' artigos científicos →</a></div>';
+      }
+      grid.innerHTML = html;
     }
 
     function renderFilters() {

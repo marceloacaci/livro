@@ -1,57 +1,5 @@
 window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
-    id: '1706.03762',
-    title: 'Attention Is All You Need',
-    authors: 'Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin',
-    year: 2017,
-    venue: 'arXiv',
-    tema: 'tecnologia',
-    filename: 'attention-is-all-you-need.pdf',
-    localPath: 'artigos/tecnologia/attention-is-all-you-need.pdf',
-    sourceUrl: 'https://arxiv.org/abs/1706.03762',
-    summary: 'Introduziu o Transformer, arquitetura baseada puramente em mecanismos de atenção que eliminou recorrência e convoluções, tornando-se a fundação das grandes linguagens de IA modernas e de todo o ecossistema de tecnologias generativas.',
-    tags: ['tecnologia', 'inteligencia-artificial', 'transformers', 'deep-learning', 'clássico', 'emergente']
-  },
-  {
-    id: '1512.03385',
-    title: 'Deep Residual Learning for Image Recognition',
-    authors: 'Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun',
-    year: 2015,
-    venue: 'arXiv',
-    tema: 'tecnologia',
-    filename: 'deep-residual-learning.pdf',
-    localPath: 'artigos/tecnologia/deep-residual-learning.pdf',
-    sourceUrl: 'https://arxiv.org/abs/1512.03385',
-    summary: 'Apresentou as redes residuais (ResNet), que permitiram treinar redes neurais profundíssimas resolvendo o problema do desaparecimento do gradiente — marco influente em visão computacional e infraestrutura de IA.',
-    tags: ['tecnologia', 'visao-computacional', 'deep-learning', 'redes-neurais', 'clássico', 'emergente']
-  },
-  {
-    id: '1810.04805',
-    title: 'BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding',
-    authors: 'Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova',
-    year: 2018,
-    venue: 'arXiv',
-    tema: 'tecnologia',
-    filename: 'bert-pre-training.pdf',
-    localPath: 'artigos/tecnologia/bert-pre-training.pdf',
-    sourceUrl: 'https://arxiv.org/abs/1810.04805',
-    summary: 'Propôs o BERT, modelo transformador pré-treinado bidirectionalmente que revolucionou o processamento de linguagem natural e a base de busca e assistentes inteligentes atuais.',
-    tags: ['tecnologia', 'processamento-linguagem-natural', 'transformers', 'deep-learning', 'clássico', 'emergente']
-  },
-  {
-    id: '1404.5997',
-    title: 'One weird trick for parallelizing convolutional neural networks',
-    authors: 'Alex Krizhevsky',
-    year: 2014,
-    venue: 'arXiv',
-    tema: 'tecnologia',
-    filename: 'parallelizing-cnns-krizhevsky.pdf',
-    localPath: 'artigos/tecnologia/parallelizing-cnns-krizhevsky.pdf',
-    sourceUrl: 'https://arxiv.org/abs/1404.5997',
-    summary: 'Técnica prática e amplamente citada para paralelizar o treinamento de redes convolucionais entre múltiplas GPUs, acelerando a adoção de deep learning em escala industrial.',
-    tags: ['tecnologia', 'redes-convolucionais', 'deep-learning', 'hardware', 'clássico', 'emergente']
-  },
-  {
     id: '1908.07391',
     title: 'The Rise of Blockchain Technology in Agriculture and Food Supply Chains',
     authors: 'Andreas Kamilaris, Agusti Fonts, Francesc X. Prenafeta-Boldu',
@@ -128,5 +76,57 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
     sourceUrl: 'https://arxiv.org/abs/2012.05411',
     summary: 'Introduz uma tecnologia de sintonia de impedância de alta potência baseada em chaves de plasma, demonstrando componentes emergentes para sistemas de comunicação de próxima geração.',
     tags: ['tecnologia', 'hardware', 'rf', 'emergente']
+  },
+  {
+    id: '2312.05609',
+    title: 'Comprehensive Analysis of BB84, A Quantum Key Distribution Protocol',
+    authors: 'SujayKumar Reddy M, Chandra Mohan B',
+    year: 2023,
+    venue: 'arXiv',
+    tema: 'tecnologia',
+    filename: 'quantum-key-distribution-bb84.pdf',
+    localPath: 'artigos/tecnologia/quantum-key-distribution-bb84.pdf',
+    sourceUrl: 'https://arxiv.org/abs/2312.05609',
+    summary: 'Análise abrangente do protocolo BB84 de distribuição de chaves quânticas, fundamento da criptografia pós-quântica baseada em física, explorando segurança e viabilidade de comunicações quânticas.',
+    tags: ['tecnologia', 'computacao-quantica', 'criptografia', 'redes', 'seguranca']
+  },
+  {
+    id: '2106.04906',
+    title: 'Engineering-Economic Evaluation of Diffractive Non-Line-Of-Sight Backhaul (e3nb): A Techno-economic Model for 3D Wireless Backhaul Assessment',
+    authors: 'Edward J. Oughton, Erik Boch, Julius Kusuma',
+    year: 2021,
+    venue: 'arXiv',
+    tema: 'tecnologia',
+    filename: 'diffractive-nlos-backhaul.pdf',
+    localPath: 'artigos/tecnologia/diffractive-nlos-backhaul.pdf',
+    sourceUrl: 'https://arxiv.org/abs/2106.04906',
+    summary: 'Apresenta um modelo techno-econômico para backhaul sem fio 3D por difração não-line-of-sight, avaliando custo e viabilidade de infraestrutura de conectividade sem cabos para redes.',
+    tags: ['tecnologia', 'redes', 'telecom', 'infraestrutura', '6g']
+  },
+  {
+    id: '2402.11695',
+    title: 'Enabling Software Defined Optical Networks',
+    authors: 'Deven Panchal',
+    year: 2024,
+    venue: 'arXiv',
+    tema: 'tecnologia',
+    filename: 'software-defined-optical-networks.pdf',
+    localPath: 'artigos/tecnologia/software-defined-optical-networks.pdf',
+    sourceUrl: 'https://arxiv.org/abs/2402.11695',
+    summary: 'Explora redes ópticas definidas por software (SDON), controlando a camada óptica via plano de controle programável para flexibilidade e eficiência em transporte de dados de alta capacidade.',
+    tags: ['tecnologia', 'redes', 'optico', 'infraestrutura', 'comunicacoes']
+  },
+  {
+    id: '2009.03164',
+    title: 'Blockchain-based Privacy Preservation for 5G-enabled Drone Communications',
+    authors: 'Yulei Wu, Hong-Ning Dai, Hao Wang, Kim-Kwang Raymond Choo',
+    year: 2020,
+    venue: 'arXiv',
+    tema: 'tecnologia',
+    filename: 'blockchain-5g-drone-communications.pdf',
+    localPath: 'artigos/tecnologia/blockchain-5g-drone-communications.pdf',
+    sourceUrl: 'https://arxiv.org/abs/2009.03164',
+    summary: 'Propõe preservação de privacidade baseada em blockchain para comunicações de drones habilitadas por 5G, combinando mobilidade aérea e redes de próxima geração com confiança descentralizada.',
+    tags: ['tecnologia', 'blockchain', '5g', 'drones', 'redes', 'seguranca']
   }
 ];
