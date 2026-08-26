@@ -64,7 +64,7 @@
             <h1>Artigos Científicos / Teses</h1>
             <p class="hero-lead">Leitura técnica de apoio — Tecnologia, Inteligência Artificial e Informática. Cada artigo abre o PDF salvo localmente na pasta do projeto.</p>
             <div class="book-search">
-              <input type="search" id="articleSearch" data-article-search class="book-search-input"
+              <input type="search" data-article-search class="book-search-input"
                      placeholder="🔎 Buscar artigo por título, autor ou tema..."
                      aria-label="Buscar artigos" autocomplete="off" />
             </div>
@@ -75,8 +75,10 @@
       <section class="section" id="artigos">
         <div class="container">
           <h2 class="section-title">Artigos Disponíveis</h2>
-          <div class="article-filters" id="articleFilters"></div>
-          <div class="books-grid" id="articlesGrid"></div>
+          <div class="article-block" data-articles-block>
+            <div class="article-filters" data-article-filters></div>
+            <div class="books-grid" data-articles-grid></div>
+          </div>
         </div>
       </section>
 

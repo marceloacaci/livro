@@ -8,12 +8,12 @@
  *
  * Diferente dos livros, cada artigo expõe um LINK DIRETO para o PDF salvo
  * localmente na pasta `artigos/<tema>/<slug>.pdf`.
+ *
+ * Suporta MÚLTIPLOS grids na mesma página (ex.: artigos.html + Home index.html),
+ * cada um com seu próprio filtro de tema e busca independentes.
  */
 (function () {
   'use strict';
-
-  var grid = document.getElementById('articlesGrid');
-  if (!grid) return; // não estamos na página de artigos
 
   // Catálogos por tema (classe CSS de cor + rótulo).
   var TEMAS = [
@@ -57,45 +57,26 @@
 
   var ALL = buildAll();
 
-  // ---- Filtro por tema (botões) ----
-  var currentTema = 'todos';
+  /**
+   * Inicializa um bloco de artigos dentro de um container.
+   * @param {HTMLElement} root elemento que contém [data-articles-grid],
+   *        [data-article-filters] e [data-article-search].
+   */
+  function mountBlock(root) {
+    if (!root) return;
+    var grid = root.querySelector('[data-articles-grid]');
+    var filtersWrap = root.querySelector('[data-article-filters]');
+    var searchInput = root.querySelector('[data-article-search]');
+    if (!grid) return;
 
-  function renderFilters() {
-    var wrap = document.getElementById('articleFilters');
-    if (!wrap) return;
-    var html = '<button class="book-tab' + (currentTema === 'todos' ? ' active' : '') +
-      '" data-tema="todos">📚 Todos</button>';
-    TEMAS.forEach(function (t) {
-      var n = Array.isArray(t.src) ? t.src.length : 0;
-      html += '<button class="book-tab' + (currentTema === t.key ? ' active' : '') +
-        '" data-tema="' + t.key + '">' + escapeAttr(t.label) + ' <span class="tab-count">(' + n + ')</span></button>';
-    });
-    wrap.innerHTML = html;
-    wrap.querySelectorAll('.book-tab').forEach(function (btn) {
-      btn.addEventListener('click', function () {
-        currentTema = btn.getAttribute('data-tema') || 'todos';
-        renderFilters();
-        renderGrid();
-      });
-    });
-  }
+    var currentTema = 'todos';
 
-  function renderGrid() {
-    var list = ALL.slice();
-    if (currentTema !== 'todos') {
-      list = list.filter(function (a) { return a.temaKey === currentTema; });
-    }
-    var html = '';
-    if (list.length === 0) {
-      grid.innerHTML = '<p class="empty-state">Nenhum artigo neste tema ainda.</p>';
-      return;
-    }
-    list.forEach(function (a) {
+    function cardHtml(a) {
       var localPath = a.localPath || ('artigos/' + a.temaKey + '/' + (a.filename || ''));
       var sourceUrl = a.sourceUrl || '#';
       var authors = a.authors || '';
       if (authors.length > 90) authors = authors.slice(0, 87) + '…';
-      html += '<article class="book-card article-card" ' +
+      var html = '<article class="book-card article-card" ' +
         'style="border-top-color:' + escapeAttr(a.color) + ';">';
       html += '  <div class="article-badge" style="background:' + escapeAttr(a.color) + ';">' +
         escapeAttr((a.temaLabel || a.tema || '').toUpperCase()) + '</div>';
@@ -112,36 +93,66 @@
         '" target="_blank" rel="noopener">🔗 Fonte original</a>';
       html += '  </div>';
       html += '</article>';
-    });
-    grid.innerHTML = html;
+      return html;
+    }
+
+    function renderGrid() {
+      var list = ALL.slice();
+      if (currentTema !== 'todos') {
+        list = list.filter(function (a) { return a.temaKey === currentTema; });
+      }
+      if (list.length === 0) {
+        grid.innerHTML = '<p class="empty-state">Nenhum artigo neste tema ainda.</p>';
+        return;
+      }
+      grid.innerHTML = list.map(cardHtml).join('');
+    }
+
+    function renderFilters() {
+      if (!filtersWrap) return;
+      var html = '<button class="book-tab' + (currentTema === 'todos' ? ' active' : '') +
+        '" data-tema="todos">📚 Todos</button>';
+      TEMAS.forEach(function (t) {
+        var n = Array.isArray(t.src) ? t.src.length : 0;
+        html += '<button class="book-tab' + (currentTema === t.key ? ' active' : '') +
+          '" data-tema="' + t.key + '">' + escapeAttr(t.label) + ' <span class="tab-count">(' + n + ')</span></button>';
+      });
+      filtersWrap.innerHTML = html;
+      filtersWrap.querySelectorAll('.book-tab').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          currentTema = btn.getAttribute('data-tema') || 'todos';
+          renderFilters();
+          renderGrid();
+        });
+      });
+    }
+
+    function filterByText(query) {
+      var q = (query || '').trim().toLowerCase();
+      var cards = grid.querySelectorAll('.article-card');
+      Array.prototype.forEach.call(cards, function (card) {
+        var hay = (card.textContent || '').toLowerCase();
+        card.classList.toggle('book-hidden', q !== '' && hay.indexOf(q) === -1);
+      });
+    }
+
+    if (searchInput) {
+      searchInput.addEventListener('input', function () {
+        filterByText(searchInput.value);
+      });
+    }
+
+    renderFilters();
+    renderGrid();
   }
 
-  // ---- Busca client-side em tempo real ----
-  function filterByText(query) {
-    var q = (query || '').trim().toLowerCase();
-    var cards = grid.querySelectorAll('.article-card');
-    Array.prototype.forEach.call(cards, function (card) {
-      var hay = (card.textContent || '').toLowerCase();
-      card.classList.toggle('book-hidden', q !== '' && hay.indexOf(q) === -1);
-    });
-  }
-
-  var searchInput = document.querySelector('[data-article-search]');
-  if (searchInput) {
-    searchInput.addEventListener('input', function () {
-      filterByText(searchInput.value);
-    });
-  }
-
-  // ---- Init ----
-  renderFilters();
-  renderGrid();
+  // Monta todos os blocos de artigos presentes na página.
+  var blocks = document.querySelectorAll('[data-articles-block]');
+  Array.prototype.forEach.call(blocks, mountBlock);
 
   // API pública
   window.LivroArticles = {
-    renderGrid: renderGrid,
-    renderFilters: renderFilters,
-    filterByText: filterByText,
+    mountBlock: mountBlock,
     count: ALL.length
   };
 })();
