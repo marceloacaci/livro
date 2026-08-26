@@ -1177,3 +1177,22 @@
   color: var(--color-text-light);
   padding: 0 4px;
 }
+
+/* Tema claro: botões de paginação usam superfície clara e primário azul */
+:root[data-theme="light"] .page-btn {
+  background-color: #e6ecf5;
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.65), rgba(255, 255, 255, 0.10) 46%, rgba(0, 0, 0, 0.06));
+  border: 1px solid rgba(0, 0, 0, 0.10);
+  color: var(--color-text);
+}
+
+:root[data-theme="light"] .page-btn.active {
+  background-color: var(--color-primary);
+  background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.30), rgba(255, 255, 255, 0.05) 46%, rgba(0, 0, 0, 0.18));
+  color: #fff;
+  box-shadow: 0 0 12px rgba(0, 120, 212, 0.35);
+}
+
+:root[data-theme="light"] .page-btn:disabled {
+  opacity: 0.45;
+}
