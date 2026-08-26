@@ -76,6 +76,8 @@
     if (!grid) return;
 
     var currentTema = 'todos';
+    var _h = (window.location.hash || '').replace('#','');
+    if (['tecnologia','ia','informatica','teses'].indexOf(_h) !== -1) currentTema = _h;
 
     // Limite opcional de exibição (Home mostra só alguns destaques).
     var limitAttr = root.getAttribute('data-articles-limit');
