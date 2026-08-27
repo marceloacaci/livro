@@ -6,3 +6,11 @@ build/
 dist/
 .cache/
 .DS_Store
+
+# Artefatos de sessoes anteriores (fora de escopo deste trabalho)
+*-b2/
+*-b2.js
+scripts/build_tecnologia_b2.py
+scripts/fetch_arxiv.py
+scripts/fetch_arxiv_meta.py
+build_informatica_b2.py
