@@ -611,7 +611,8 @@
 }
 
 .chapter-submenu.open {
-  max-height: 4000px;
+  max-height: min(70vh, 600px);
+  overflow-y: auto;
   z-index: 30;
 }
 
