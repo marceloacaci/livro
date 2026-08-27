@@ -295,6 +295,50 @@
   box-shadow: var(--shadow-hover);
 }
 
+/* Lista inline de notas acima do campo de digitação de cada seção */
+.reflexao-notas {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 14px;
+}
+.reflexao-notas .reflexao-card {
+  margin-bottom: 0;
+  padding: 14px 16px;
+}
+.reflexao-actions {
+  display: inline-flex;
+  gap: 6px;
+  margin-left: auto;
+}
+.reflexao-edit,
+.reflexao-save,
+.reflexao-cancel {
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-light);
+  cursor: pointer;
+  font-size: 0.78rem;
+  padding: 3px 9px;
+  border-radius: var(--radius);
+  transition: var(--transition);
+}
+.reflexao-edit:hover,
+.reflexao-save:hover {
+  color: #fff;
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+}
+.reflexao-cancel:hover {
+  color: #fff;
+  background: #c62828;
+  border-color: #c62828;
+}
+.reflexao-edit-input {
+  width: 100%;
+  margin-bottom: 8px;
+}
+
 .empty-state {
   color: var(--color-text-light);
 }

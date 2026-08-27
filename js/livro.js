@@ -208,6 +208,7 @@
   var STORAGE_KEY = 'biblioteca_reflexoes';
   var STORAGE_KEY_LEGACY = 'meubolso_reflexoes';
 
+  // Nova estrutura: reflexoes[step] = array de { id, text, createdAt, updatedAt }
   function loadReflexoes() {
     try {
       var data = localStorage.getItem(STORAGE_KEY);
@@ -234,50 +235,98 @@
     }
   }
 
+  function genId() {
+    if (window.crypto && typeof window.crypto.randomUUID === 'function') return window.crypto.randomUUID();
+    return 'n-' + Date.now().toString(36) + '-' + Math.random().toString(36).slice(2, 8);
+  }
+
+  function fmtDateTime(iso) {
+    try {
+      var d = new Date(iso);
+      if (isNaN(d.getTime())) return '';
+      return d.toLocaleDateString('pt-BR', { day: '2-digit', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+    } catch (e) { return ''; }
+  }
+
+  function escapeHtml(str) {
+    var div = document.createElement('div');
+    div.appendChild(document.createTextNode(str == null ? '' : String(str)));
+    return div.innerHTML;
+  }
+
+  // ---------------------------------------------------------------------------
+  // Operações sobre notas de uma seção (step)
+  // ---------------------------------------------------------------------------
+  function addReflexao(step, text) {
+    text = (text || '').trim();
+    if (!text) return false;
+    var reflexoes = loadReflexoes();
+    var now = new Date().toISOString();
+    if (!Array.isArray(reflexoes[step])) reflexoes[step] = [];
+    reflexoes[step].push({ id: genId(), text: text, createdAt: now, updatedAt: now });
+    saveReflexoes(reflexoes);
+    renderAll();
+    return true;
+  }
+
+  function updateReflexao(step, id, text) {
+    text = (text || '').trim();
+    var reflexoes = loadReflexoes();
+    var list = Array.isArray(reflexoes[step]) ? reflexoes[step] : [];
+    var note = list.filter(function (n) { return n.id === id; })[0];
+    if (!note) return;
+    if (!text) { deleteReflexao(step, id); return; }
+    note.text = text;
+    note.updatedAt = new Date().toISOString();
+    saveReflexoes(reflexoes);
+    renderAll();
+  }
+
+  function deleteReflexao(step, id) {
+    var reflexoes = loadReflexoes();
+    if (!Array.isArray(reflexoes[step])) return;
+    reflexoes[step] = reflexoes[step].filter(function (n) { return n.id !== id; });
+    if (reflexoes[step].length === 0) delete reflexoes[step];
+    saveReflexoes(reflexoes);
+    renderAll();
+  }
+
+  // Salvar (botão da seção): adiciona nova nota com o texto do textarea e limpa o campo.
   function saveReflexao(step) {
     var textarea = document.querySelector('.reflection-input[data-step="' + step + '"]');
     if (!textarea) return;
-    var text = textarea.value.trim();
-    var reflexoes = loadReflexoes();
-
-    if (text) {
-      reflexoes[step] = { text: text, savedAt: new Date().toISOString() };
-    } else {
-      delete reflexoes[step];
-    }
-
-    saveReflexoes(reflexoes);
-    renderReflexoes();
-
-    var btn = textarea.parentElement.querySelector('.btn-save');
-    if (btn) {
-      var original = btn.textContent;
-      btn.textContent = '✅ Salvo!';
-      btn.disabled = true;
-      setTimeout(function () {
-        btn.textContent = original;
-        btn.disabled = false;
-      }, 1500);
+    var ok = addReflexao(step, textarea.value);
+    if (ok) {
+      textarea.value = '';
+      var btn = textarea.parentElement ? textarea.parentElement.querySelector('.btn-save') : null;
+      if (btn) {
+        var original = btn.textContent;
+        btn.textContent = '✅ Salvo!';
+        btn.disabled = true;
+        setTimeout(function () { btn.textContent = original; btn.disabled = false; }, 1500);
+      }
+    } else if (!textarea.value.trim()) {
+      // nada a salvar
     }
   }
 
   function clearReflexao(step) {
     var textarea = document.querySelector('.reflection-input[data-step="' + step + '"]');
-    if (!textarea) return;
-    textarea.value = '';
-    var reflexoes = loadReflexoes();
-    delete reflexoes[step];
-    saveReflexoes(reflexoes);
-    renderReflexoes();
+    if (textarea) textarea.value = '';
+    // "Limpar" apenas esvazia o campo (não apaga notas salvas); para apagar use Excluir na nota.
+    var btn = textarea && textarea.parentElement ? textarea.parentElement.querySelector('.btn-clear') : null;
+    if (btn) {
+      var original = btn.textContent;
+      btn.textContent = '🗑️ Limpo!';
+      setTimeout(function () { btn.textContent = original; }, 1200);
+    }
   }
 
   function clearAllReflexoes() {
     if (!confirm('Tem certeza? Todas as reflexões salvas serão apagadas.')) return;
     localStorage.removeItem(STORAGE_KEY);
-    renderReflexoes();
-    document.querySelectorAll('.reflection-input').forEach(function (ta) {
-      ta.value = '';
-    });
+    renderAll();
+    document.querySelectorAll('.reflection-input').forEach(function (ta) { ta.value = ''; });
   }
 
   // ---- Persistência em pasta do projeto (File System Access API) ----
@@ -356,60 +405,97 @@
 
   var stepLabels = book.stepLabels || {};
 
+  function sectionLabel(key) {
+    var label = stepLabels[key] || key;
+    if (label === key) {
+      if (key.indexOf('idea-') === 0) label = 'Ideia Central ' + key.replace('idea-', '');
+      else if (key === 'verdadesmitos') label = 'Verdades e Mitos';
+    }
+    return label;
+  }
+
+  // Renderiza a lista de notas INLINE de uma seção, acima do textarea.
+  function renderReflexoesInSection(step) {
+    var textarea = document.querySelector('.reflection-input[data-step="' + step + '"]');
+    if (!textarea) return;
+    var parent = textarea.parentElement;
+    if (!parent) return;
+
+    var container = parent.querySelector('.reflexao-notas[data-step="' + step + '"]');
+    if (!container) {
+      container = document.createElement('div');
+      container.className = 'reflexao-notas';
+      container.setAttribute('data-step', step);
+      parent.insertBefore(container, textarea); // acima do campo de digitação
+    }
+
+    var reflexoes = loadReflexoes();
+    var list = Array.isArray(reflexoes[step]) ? reflexoes[step] : [];
+    if (list.length === 0) { container.innerHTML = ''; container.style.display = 'none'; return; }
+    container.style.display = '';
+
+    var html = '';
+    list.forEach(function (note) {
+      html += '<div class="reflexao-card" data-note="' + escapeHtml(note.id) + '">';
+      html += '  <div class="reflexao-text">' + escapeHtml(note.text) + '</div>';
+      html += '  <div class="reflexao-meta">';
+      html += '    <span>📅 ' + escapeHtml(fmtDateTime(note.createdAt)) + '</span>';
+      if (note.updatedAt && note.updatedAt !== note.createdAt) {
+        html += '    <span>✏️ editado em ' + escapeHtml(fmtDateTime(note.updatedAt)) + '</span>';
+      }
+      html += '    <span class="reflexao-actions">';
+      html += '      <button class="reflexao-edit" data-step="' + escapeHtml(step) + '" data-note="' + escapeHtml(note.id) + '">✏️ Editar</button>';
+      html += '      <button class="reflexao-delete" data-step="' + escapeHtml(step) + '" data-note="' + escapeHtml(note.id) + '">🗑️ Excluir</button>';
+      html += '    </span>';
+      html += '  </div>';
+      html += '</div>';
+    });
+    container.innerHTML = html;
+  }
+
+  // Renderiza TODAS as notas na seção global "Minhas Reflexões Salvas" (fim da página).
   function renderReflexoes() {
     var reflexoes = loadReflexoes();
-    var keys = Object.keys(reflexoes);
+    var keys = Object.keys(reflexoes).filter(function (k) { return Array.isArray(reflexoes[k]) && reflexoes[k].length; });
 
     if (keys.length === 0) {
       reflexoesList.innerHTML = '<p class="empty-state">Nenhuma reflexão salva ainda. Vá para uma seção acima e comece a escrever!</p>';
       btnClearAll.style.display = 'none';
       return;
     }
-
     btnClearAll.style.display = 'inline-flex';
 
     var html = '';
     var sortedKeys = keys.slice().reverse();
     sortedKeys.forEach(function (key) {
-      var entry = reflexoes[key];
-      if (!entry) return;
-      var date = new Date(entry.savedAt);
-      var dateStr = date.toLocaleDateString('pt-BR', {
-        day: '2-digit', month: 'short', year: 'numeric',
-        hour: '2-digit', minute: '2-digit'
-      });
-      var label = stepLabels[key] || key;
-      if (label === key) {
-        if (key.indexOf('idea-') === 0) label = 'Ideia Central ' + key.replace('idea-', '');
-        else if (key === 'verdadesmitos') label = 'Verdades e Mitos';
-      }
-
-      html += '<div class="reflexao-card">';
-      html += '  <div class="reflexao-meta">';
-      html += '    <span class="reflexao-step">' + escapeHtml(label) + '</span>';
-      html += '    <span>' + escapeHtml(dateStr) + '</span>';
-      html += '  </div>';
-      html += '  <div class="reflexao-text">' + escapeHtml(entry.text) + '</div>';
-      html += '  <button class="reflexao-delete" data-step="' + key + '" title="Apagar esta reflexão">✕</button>';
-      html += '</div>';
-    });
-
-    reflexoesList.innerHTML = html;
-
-    reflexoesList.querySelectorAll('.reflexao-delete').forEach(function (btn) {
-      btn.addEventListener('click', function () {
-        var step = btn.getAttribute('data-step');
-        if (confirm('Apagar esta reflexão?')) {
-          clearReflexao(step);
+      var label = sectionLabel(key);
+      reflexoes[key].forEach(function (note) {
+        html += '<div class="reflexao-card" data-note="' + escapeHtml(note.id) + '">';
+        html += '  <div class="reflexao-meta"><span class="reflexao-step">' + escapeHtml(label) + '</span></div>';
+        html += '  <div class="reflexao-text">' + escapeHtml(note.text) + '</div>';
+        html += '  <div class="reflexao-meta">';
+        html += '    <span>📅 ' + escapeHtml(fmtDateTime(note.createdAt)) + '</span>';
+        if (note.updatedAt && note.updatedAt !== note.createdAt) {
+          html += '    <span>✏️ editado em ' + escapeHtml(fmtDateTime(note.updatedAt)) + '</span>';
         }
+        html += '    <span class="reflexao-actions">';
+        html += '      <button class="reflexao-edit" data-step="' + escapeHtml(key) + '" data-note="' + escapeHtml(note.id) + '">✏️ Editar</button>';
+        html += '      <button class="reflexao-delete" data-step="' + escapeHtml(key) + '" data-note="' + escapeHtml(note.id) + '">🗑️ Excluir</button>';
+        html += '    </span>';
+        html += '  </div>';
+        html += '</div>';
       });
     });
+    reflexoesList.innerHTML = html;
   }
 
-  function escapeHtml(str) {
-    var div = document.createElement('div');
-    div.appendChild(document.createTextNode(str));
-    return div.innerHTML;
+  // Renderiza tanto a lista global quanto as listas inline de cada seção.
+  function renderAll() {
+    renderReflexoes();
+    document.querySelectorAll('.reflection-input').forEach(function (ta) {
+      var step = ta.getAttribute('data-step');
+      if (step) renderReflexoesInSection(step);
+    });
   }
 
   document.addEventListener('click', function (e) {
@@ -422,20 +508,71 @@
       var step = e.target.getAttribute('data-step');
       clearReflexao(step);
     }
+
+    // Excluir nota (inline ou seção global)
+    if (e.target.classList.contains('reflexao-delete')) {
+      var dStep = e.target.getAttribute('data-step');
+      var dNote = e.target.getAttribute('data-note');
+      if (confirm('Excluir esta reflexão?')) deleteReflexao(dStep, dNote);
+    }
+
+    // Editar nota: troca o card por um editor inline
+    if (e.target.classList.contains('reflexao-edit')) {
+      var edStep = e.target.getAttribute('data-step');
+      var edNote = e.target.getAttribute('data-note');
+      startEditReflexao(edStep, edNote);
+    }
+  });
+
+  // Substitui o card da nota por um editor inline (textarea + Salvar/Cancelar).
+  function startEditReflexao(step, id) {
+    var reflexoes = loadReflexoes();
+    var list = Array.isArray(reflexoes[step]) ? reflexoes[step] : [];
+    var note = list.filter(function (n) { return n.id === id; })[0];
+    if (!note) return;
+
+    var card = document.querySelector('.reflexao-card[data-note="' + id + '"]');
+    if (!card) return;
+
+    card.innerHTML = '';
+    var ta = document.createElement('textarea');
+    ta.className = 'reflection-input reflexao-edit-input';
+    ta.value = note.text;
+    card.appendChild(ta);
+
+    var actions = document.createElement('div');
+    actions.className = 'reflexao-meta';
+    actions.innerHTML = '<span class="reflexao-actions">' +
+      '<button class="reflexao-save" data-step="' + escapeHtml(step) + '" data-note="' + escapeHtml(id) + '">💾 Salvar</button>' +
+      '<button class="reflexao-cancel" data-step="' + escapeHtml(step) + '" data-note="' + escapeHtml(id) + '">✖ Cancelar</button>' +
+      '</span>';
+    card.appendChild(actions);
+    ta.focus();
+  }
+
+  // Handler para Salvar/Cancelar da edição inline (delegação).
+  document.addEventListener('click', function (e) {
+    if (e.target.classList.contains('reflexao-save')) {
+      var sStep = e.target.getAttribute('data-step');
+      var sNote = e.target.getAttribute('data-note');
+      var card = document.querySelector('.reflexao-card[data-note="' + sNote + '"]');
+      var ta = card ? card.querySelector('.reflexao-edit-input') : null;
+      if (ta) updateReflexao(sStep, sNote, ta.value);
+    }
+    if (e.target.classList.contains('reflexao-cancel')) {
+      renderAll(); // descarta e re-renderiza o card original
+    }
   });
 
   btnClearAll.addEventListener('click', clearAllReflexoes);
 
   renderReflexoes();
+  setTimeout(renderAll, 0); // garante render após montagem do conteúdo das seções
 
   function loadSavedIntoTextareas() {
-    var reflexoes = loadReflexoes();
-    Object.keys(reflexoes).forEach(function (step) {
-      var textarea = document.querySelector('.reflection-input[data-step="' + step + '"]');
-      if (textarea && reflexoes[step] && reflexoes[step].text) {
-        textarea.value = reflexoes[step].text;
-      }
-    });
+    // Notas agora são exibidas em cards próprios (inline + seção global);
+    // não é necessário pré-preencher o textarea de digitação.
+    renderAll();
   }
 
   loadSavedIntoTextareas();
