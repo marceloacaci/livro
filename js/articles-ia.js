@@ -3244,5 +3244,335 @@ window.MEU_BOLSO_ARTICLES_IA = [
       "cs.RO",
       "eess.SY"
     ]
+  },
+  {
+    "id": "2608.24646",
+    "title": "On-Policy Self-Distillation in Diffusion Models",
+    "authors": "Wei Zhou; Xiongwei Zhu; Lingdong Kong; Bo Chen; Lei Zhang; Yongyuan Liang; Xiaoxia Hou; Ye Tian; Xian Sun; Yingshuo Wang; Linfeng Li; Shengqiong Wu; Leigang Qu; Feng Li; Wei Liu; Julian McAuley; Tat-Seng Chua",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "on-policy-self-distillation-in-diffusion-models.pdf",
+    "localPath": "artigos/ia/on-policy-self-distillation-in-diffusion-models.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24646",
+    "summary": "Reinforcement learning can align diffusion models with human preferences and task-specific objectives, but endpoint rewards do not specify how an intermediate denoising prediction should change. We introduce DiffusionOPSD as an on-policy self-distillation framework that converts image-level reward guidance into explicit targets for clean-output predictions at sampled queries. At each outer iter...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24644",
+    "title": "A Literate Programming Environment for Human and Machine Agents",
+    "authors": "Adam T. Burke",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "a-literate-programming-environment-for-human-and-machine-age.pdf",
+    "localPath": "artigos/ia/a-literate-programming-environment-for-human-and-machine-age.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24644",
+    "summary": "This paper introduces an environment for constructing literate programs in concert with language-aware machine agents. This environment includes a grammar for executable program essays, a parser that treats names as first-class objects, an internal name-graph which relates prose, names and executable artifacts, and a binding mechanism for existing languages and testing toolsets. This supports c...",
+    "tags": [
+      "ia",
+      "cs.SE",
+      "cs.AI",
+      "cs.PL"
+    ]
+  },
+  {
+    "id": "2608.24632",
+    "title": "Causal Modelling of Support Interventions for Student Competency Assessment",
+    "authors": "Francesca Mangili; Alessandro Antonucci; Rafael Cabañas",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "causal-modelling-of-support-interventions-for-student-compet.pdf",
+    "localPath": "artigos/ia/causal-modelling-of-support-interventions-for-student-compet.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24632",
+    "summary": "Accurate assessment of student competencies is essential for enabling educators to identify individual needs, design targeted interventions, and evaluate the effectiveness of educational strategies. Empirical assessment procedures are typically grounded in psychometric models, such as item response theory, which relate student competence levels to performance on assessment tasks. In this paper,...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24631",
+    "title": "When Similarity Is Interaction-Driven: Quantum Kernels for Regime-Sensitive Learning",
+    "authors": "Hanqiu Peng; Jianlong Lu; Ying Chen",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "when-similarity-is-interaction-driven-quantum-kernels-for-re.pdf",
+    "localPath": "artigos/ia/when-similarity-is-interaction-driven-quantum-kernels-for-re.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24631",
+    "summary": "Similarity in many decision systems is governed not by distance alone but by interactions among variables. In fraud and anomaly detection, small local perturbations can cross interaction-sensitive decision boundaries while leaving ambient distance almost unchanged. Motivated by this setting, we introduce a thin-slab interaction model and an interaction-driven quantum kernel constructed from ent...",
+    "tags": [
+      "ia",
+      "quant-ph",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24627",
+    "title": "Bandit Submodular Maximization under Matroid Constraints: Learning Compressed Exchange Policy",
+    "authors": "Zongqi Wan; Zhijie Zhang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "bandit-submodular-maximization-under-matroid-constraints-lea.pdf",
+    "localPath": "artigos/ia/bandit-submodular-maximization-under-matroid-constraints-lea.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24627",
+    "summary": "We study adversarial bandit maximization of monotone submodular functions under a matroid constraint. For a rank-$k$ matroid on $n$ elements, we give a randomized oracle-polynomial algorithm that makes one feasible value query per round and has expected $(1-1/e)$-regret $\\widetilde O(n^{1/3}k^{2/3}T^{2/3})$. This is the first sublinear-regret algorithm for adversarial bandit submodular maximiza...",
+    "tags": [
+      "ia",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24626",
+    "title": "Towards Reliable AI-Based Histological Staining: A Systematic Study of Scaling and Uncertainty in Unpaired Generative Models",
+    "authors": "Qasim Siddiqui; Adrian Friebel; Maiju Myllys; Zaynab Hobloss; Daniela Gonzalez; Ahmed Ghallab; Stefan Hoehme",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "towards-reliable-ai-based-histological-staining-a-systematic.pdf",
+    "localPath": "artigos/ia/towards-reliable-ai-based-histological-staining-a-systematic.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24626",
+    "summary": "Liver fibrosis, the principal predictor of long-term outcome in chronic liver disease, is staged from histological estimates of collagen content. Sirius Red (SR) provides the standard quantitative readout (collagen proportionate area, CPA) but is not acquired at every clinical centre and consumes tissue, time, and reagent cost beyond the routine Hematoxylin and eosin (H&E) stain. AI-based virtu...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24621",
+    "title": "Beyond Semantic Accuracy: Consequence-Aware Evaluation for Safety-Critical Language Understanding",
+    "authors": "Yujing Chang; Thinh Pham; Van-Phat Thai; Chunyao Ma; Yash Guleria; Pham Nhut Huy; Sameer Alam",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "beyond-semantic-accuracy-consequence-aware-evaluation-for-sa.pdf",
+    "localPath": "artigos/ia/beyond-semantic-accuracy-consequence-aware-evaluation-for-sa.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24621",
+    "summary": "Can language models be trusted in safety- critical operations? In such settings, strong per- formance on semantic metrics does not guaran- tee operational reliability: a misread altitude, a dropped execution condition, or a confused call- sign may score well under standard F1 yet carry sharply asymmetric operational consequences. We study this problem in air traffic control (ATC), where control...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.24615",
+    "title": "Quantization Effects on Bangla Language Understanding in Large Language Models: A Systematic Evaluation",
+    "authors": "Ismail Hossain; Nafi Ullah Shafin; Mohammad Abdullah Al Mumin",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "quantization-effects-on-bangla-language-understanding-in-lar.pdf",
+    "localPath": "artigos/ia/quantization-effects-on-bangla-language-understanding-in-lar.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24615",
+    "summary": "Post-training quantization lowers the memory footprint of Large Language Models (LLMs) and speeds up inference, which is why it is now common for on-device deployment. Most of what we know about its effects, however, comes from English benchmarks. It is not clear whether the same holds for morphologically complex, low-resource languages such as Bangla, and this gap is what we address here. We e...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.24597",
+    "title": "Taming foundation model with invariance-oriented pre-training for broad-spectrum EEG analysis across signal-level, brain-state, and brain-health tasks",
+    "authors": "Yulong Dou; Han Wu; Guo Chen; Fangmao Ju; Zhiming Cui; Dinggang Shen",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "taming-foundation-model-with-invariance-oriented-pre-trainin.pdf",
+    "localPath": "artigos/ia/taming-foundation-model-with-invariance-oriented-pre-trainin.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24597",
+    "summary": "Electroencephalography (EEG) is a widely used window into human brain function, but most EEG models remain tied to a one-dataset-one-model supervised paradigm. Recent EEG foundation models offer a route toward reusable representations, but most remain reconstruction-centered, assuming that EEG content predictable from local context is necessarily transferable neural information. Here we present...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24594",
+    "title": "Comparative Assessment of Deep Learning Architectures for Underwater Subsurface Kelp Forest Segmentation with The Kelp-o-Tron",
+    "authors": "Sundarabalan Balasubramanian; César Borja; Ana C. Murillo; Lexi N. Wilkes; Meredith L. McPherson; Kira A. Krumhansl; Jennifer A. Dijkstra; Jarrett E. K. Byrnes",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "comparative-assessment-of-deep-learning-architectures-for-un.pdf",
+    "localPath": "artigos/ia/comparative-assessment-of-deep-learning-architectures-for-un.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24594",
+    "summary": "Submerged kelp forests are vital coastal ecosystems that support marine biodiversity and ecosystem dynamics, yet accurate underwater kelp segmentation remains challenging due to optical degradation, illumination variability, turbidity, overlapping vegetation, and complex benthic backgrounds. We systematically evaluated three deep learning semantic segmentation frameworks, ResNet34-U-Net, ResNet...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24593",
+    "title": "Delayed Optimizer-State Transport Shapes Short-Horizon Training Decisions",
+    "authors": "Jinhui Guo",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "delayed-optimizer-state-transport-shapes-short-horizon-train.pdf",
+    "localPath": "artigos/ia/delayed-optimizer-state-transport-shapes-short-horizon-train.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24593",
+    "summary": "Adaptive optimizers retain gradient history in moment variables, allowing a local change in loss weighting to alter later updates. We examine whether this delayed transport is large enough to change prospective short-horizon decisions. On committed future-minibatch sequences, we differentiate eight-step AdamW trajectories through the complete model--optimizer state and select exposure-matched M...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "physics.comp-ph"
+    ]
+  },
+  {
+    "id": "2608.24590",
+    "title": "Is Discrete Difficulty Sufficient? Leveraging Continuous Difficulty for Efficient Self-Consistency in LLMs",
+    "authors": "Sihyeong Yeom; Geon Park; Geunyeong Jeong; Taewoong Yoon; Jaewook Lee; Harksoo Kim",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "is-discrete-difficulty-sufficient-leveraging-continuous-diff.pdf",
+    "localPath": "artigos/ia/is-discrete-difficulty-sufficient-leveraging-continuous-diff.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24590",
+    "summary": "Self-Consistency (SC) is a decoding strategy that samples diverse reasoning paths and selects the most consistent answer, demonstrating strong performance on complex reasoning problems. However, the excessive token consumption incurred by generating multiple reasoning paths has been identified as a major limitation of SC. To improve computational efficiency, several studies have proposed strate...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.24588",
+    "title": "IAPO: Influence-Aware Policy Optimization for Credit Assignment in Multi-Turn Service Agents",
+    "authors": "Bo Ren; Yirong Mao; Yi Yang; Wenhui Que",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "iapo-influence-aware-policy-optimization-for-credit-assignme.pdf",
+    "localPath": "artigos/ia/iapo-influence-aware-policy-optimization-for-credit-assignme.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24588",
+    "summary": "Large Language Model (LLM) agents increasingly solve long-horizon tasks through multi-turn interactions with users and external tools. In these settings, relevant task information often unfolds over time rather than being fully specified at the initial prompt. Service agents make this challenge especially concrete: users may clarify or revise their goals, while tool responses provide informatio...",
+    "tags": [
+      "ia",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24585",
+    "title": "Pivot-and-Station Multi-Agent Path Finding: Solvability, Complexity, and Algorithms",
+    "authors": "Andrea Di Nezza; Mihir Patel; Fabio Fagnani; Sara Bernardini",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "pivot-and-station-multi-agent-path-finding-solvability-compl.pdf",
+    "localPath": "artigos/ia/pivot-and-station-multi-agent-path-finding-solvability-compl.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24585",
+    "summary": "Automated high-density storage systems (warehouses, robotic parking, plant logistics, etc.) require fleets of agents to move through scarce task-critical resources and then park without obstructing future operations. We introduce Pivot-and-Station Multi-Agent Path Finding (PS-MAPF), a MAPF variant in which a subset of tasked agents must each visit one of a set of interchangeable pivots (e.g., w...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24582",
+    "title": "$\\texttt{findr}$: Transparent and Fair Credit Risk Decisions through Semi-Structured Regressions",
+    "authors": "Victor Medina-Olivares; Stefan Lessmann; Jonathan Crook",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "texttt-findr-transparent-and-fair-credit-risk-decisions-thro.pdf",
+    "localPath": "artigos/ia/texttt-findr-transparent-and-fair-credit-risk-decisions-thro.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24582",
+    "summary": "Credit risk models increasingly need to combine predictive accuracy with transparent explanations and auditable fairness constraints. Logistic regression remains attractive because its coefficients are easy to interpret, but it can miss nonlinear structure. Flexible models can improve prediction, but their explanations are often post-hoc and may not describe the decision rule itself. We introdu...",
+    "tags": [
+      "ia",
+      "stat.ML",
+      "cs.AI",
+      "cs.LG",
+      "q-fin.RM"
+    ]
+  },
+  {
+    "id": "2608.24580",
+    "title": "Human-Inspired Social Engagement Analysis via Interpretable Mutual Visual Attention",
+    "authors": "Urwa Fatima; Mohammad Zohaib; Francesca Odone; Nicoletta Noceti",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "human-inspired-social-engagement-analysis-via-interpretable.pdf",
+    "localPath": "artigos/ia/human-inspired-social-engagement-analysis-via-interpretable.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24580",
+    "summary": "Understanding social interactions from non-verbal visual data is important for behavior analysis and activity monitoring. We propose an interpretable computational model of social engagement inspired by psychological theories of mutual visual attention. Rather than learning interaction patterns end-to-end, our framework explicitly models dyadic visual attention and aggregates these cues into in...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24574",
+    "title": "PhysMLLMs: Spatial Priors for Unified Referring Segmentation and Grounded Reasoning of Images and Videos",
+    "authors": "Siyao Yan; Bo Han; Jisheng Dang; Bimei Wang; Shude Wang; Hong Peng; Yulan Guo; Jianhuang Lai; Bin Hu;  Tat-SengChua",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "physmllms-spatial-priors-for-unified-referring-segmentation.pdf",
+    "localPath": "artigos/ia/physmllms-spatial-priors-for-unified-referring-segmentation.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24574",
+    "summary": "Video multimodal large language models support language guided video segmentation, but they often show spatio temporal inconsistencies, e.g., jitter, drift, and identity switches. These failures are more common when targets are partly hidden or when similar objects appear nearby.One likely reason is that current training lacks explicit spatial priors, which makes it difficult to maintain stable...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24571",
+    "title": "Joint Optimization of Tool Creation and Use for Large Language Model Agents",
+    "authors": "Zhi Rui Tam; Chieh-Yen Lin; Yun-Nung Chen; Shao-Hua Sun; Hung-yi Lee",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "joint-optimization-of-tool-creation-and-use-for-large-langua.pdf",
+    "localPath": "artigos/ia/joint-optimization-of-tool-creation-and-use-for-large-langua.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24571",
+    "summary": "Tool-augmented language models are bounded by the APIs humans bothered to write; existing tool-creation systems patch this by prompting a frozen LLM at inference time, leaving the model that writes a tool decoupled from the one that uses it, with no signal that the schemas it produces are schemas it can invoke. We propose SMITH (Schema-grounded Multi-task Iterative Tool Honing), a reinforcement...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "2608.24570",
+    "title": "EviDx: Evidence-Aware Active Diagnosis with Scaffolded LLM Agents",
+    "authors": "Lihang Zeng; Shaoting Zhang; Xiaofan Zhang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "evidx-evidence-aware-active-diagnosis-with-scaffolded-llm-ag.pdf",
+    "localPath": "artigos/ia/evidx-evidence-aware-active-diagnosis-with-scaffolded-llm-ag.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24570",
+    "summary": "Clinical diagnosis is an active evidence-seeking process in which clinicians acquire evidence, update competing hypotheses, and decide when the available evidence is sufficient for diagnosis. Yet many medical diagnosis systems built around large language models (LLMs) still formulate diagnosis as static case-to-answer prediction, with limited support for evidence acquisition. Agentic LLMs offer...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24569",
+    "title": "When \"Must\" Becomes \"Maybe\": Constraint Weakening in LLM Agent Workflows",
+    "authors": "Yiheng Sun; Huifei Wang; Yancheng Zhu; Zhenyu Li; Zebin Zhao; Yifan Yuan",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "when-must-becomes-maybe-constraint-weakening-in-llm-agent-wo.pdf",
+    "localPath": "artigos/ia/when-must-becomes-maybe-constraint-weakening-in-llm-agent-wo.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24569",
+    "summary": "Large language model (LLM) agents coordinate complex tasks through multi-role and multi-stage workflows. Upstream state is repeatedly transformed into intermediate language artifacts, such as summaries, plans, tickets, memories, and handoff notes, from which downstream components act. For action-constraining state, topical retention is insufficient: an artifact may mention an unresolved conditi...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.MA"
+    ]
   }
 ];
