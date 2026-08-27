@@ -2906,5 +2906,343 @@ window.MEU_BOLSO_ARTICLES_IA = [
       "cs.AI",
       "cs.LG"
     ]
+  },
+  {
+    "id": "2608.24790",
+    "title": "Right Diagnoses, Decorative Reasoning:A Perturbation Audit of Medical Chain-of-Thought",
+    "authors": "Mengzhu Xu; Jifan Gao; Xia Jiang; Yaoxin Wu; Xi Long",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "right-diagnoses-decorative-reasoning-a-perturbation-audit-of.pdf",
+    "localPath": "artigos/ia/right-diagnoses-decorative-reasoning-a-perturbation-audit-of.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24790",
+    "summary": "Clinicians read chain-of-thought (CoT) rationales as evidence of medical reasoning, but whether the visible chain plays that role is rarely tested. General-domain CoT-faithfulness probes ignore clinical cost, and medical LLM evaluations treat the chain as a black box. We close this gap with a medical perturbation audit: a 30-operator battery edits both the chain and the question with clinically...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24978",
+    "title": "MSR-IVA: Masked Structural Residual Independent Vector Analysis for State-Aware Fusion of Structural MRI and Dynamic Functional Network Connectivity",
+    "authors": "Victor Solomon; Zening Fu; Rafal Angryk; Vince D. Calhoun; Jingyu Liu",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "msr-iva-masked-structural-residual-independent-vector-analys.pdf",
+    "localPath": "artigos/ia/msr-iva-masked-structural-residual-independent-vector-analys.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24978",
+    "summary": "Multimodal fusion of structural MRI (sMRI) and dynamic functional network connectivity (dFNC) can reveal how brain structure relates to changing functional states. When the same structural latent representation is coupled with multiple states, applying independent vector analysis (IVA) separately to each state can produce unrelated structural decompositions, while forcing identical decompositio...",
+    "tags": [
+      "ia",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24783",
+    "title": "MoE-based Feature Adapter for Prompt-free Binary Coronary Artery Segmentation in X-ray Angiography",
+    "authors": "Lin Xi; Yingliang Ma",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "moe-based-feature-adapter-for-prompt-free-binary-coronary-ar.pdf",
+    "localPath": "artigos/ia/moe-based-feature-adapter-for-prompt-free-binary-coronary-ar.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24783",
+    "summary": "Accurate segmentation of coronary arteries in X-ray angiography videos is essential for quantitative coronary analysis and image-guided interventions. However, accurate segmentation remains challenging because coronary vessels are thin and exhibit low contrast, while the presence of catheters, guidewires, and complex anatomical background structures can further interfere with vessel delineation...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24782",
+    "title": "Image Difference Quantification Using Autoencoder-Based Latent Representations",
+    "authors": "Manish Sharma; Timothy Yim; Clifton Forlines",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "image-difference-quantification-using-autoencoder-based-late.pdf",
+    "localPath": "artigos/ia/image-difference-quantification-using-autoencoder-based-late.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24782",
+    "summary": "Traditional image similarity metrics such as Mean Squared Error (MSE), Peak Signal-to-Noise Ratio (PSNR), and the Structural Similarity Index Measure (SSIM) rely on pixel-level comparisons and often fail to capture perceptually meaningful differences between images. In contrast, latent representations learned by deep neural networks encode high-level semantic information that is more closely al...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24780",
+    "title": "Linear Probing Provides Robust and Efficient Detection of Machine-Generated Text",
+    "authors": "Gerrit Quaremba; Hanqi Yan; Elizabeth Black; Denny Vrandecic; Elena Simperl",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "linear-probing-provides-robust-and-efficient-detection-of-ma.pdf",
+    "localPath": "artigos/ia/linear-probing-provides-robust-and-efficient-detection-of-ma.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24780",
+    "summary": "Distinguishing machine-generated text (MGT) from human-written text (HWT) becomes increasingly important due to potential misuse. However, most supervised detectors often degrade out-of-domain (OOD) and require large, diverse training sets. In this work, we analyze the linearity and quality of MGT representations and show that simple linear probes outperform a wide range of detectors while bein...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.24977",
+    "title": "Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation",
+    "authors": "Minh Tran; Cuong Dang; Tuc Nguyen; Khanh-Tung Tran; Minh Huynh Nguyen; Trinh Chau; Kien Le; Do Xuan Long; Jiahao Zhang; Hoang D. Nguyen; Thanh Le; Suhang Wang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "retrieved-but-not-reliable-a-survey-on-attacks-and-defenses.pdf",
+    "localPath": "artigos/ia/retrieved-but-not-reliable-a-survey-on-attacks-and-defenses.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24977",
+    "summary": "Retrieval-Augmented Generation (RAG) enhances large language models by grounding outputs in external knowledge, improving factuality and reducing hallucinations. At the same time, the retrieval-augmented pipeline introduces new robustness and security risks, including corpus poisoning, backdoor attacks, privacy leakage, and fairness violations. Despite rapid progress in this area, existing surv...",
+    "tags": [
+      "ia",
+      "cs.CR",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24777",
+    "title": "StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing",
+    "authors": "Zhijie Zheng; Yu Li; Chen Qian; Yuqian Fu; Yanwei Fu; Lu Sheng; Jing Shao; Dongrui Liu",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "stepguard-learning-step-level-guardrails-with-scalable-super.pdf",
+    "localPath": "artigos/ia/stepguard-learning-step-level-guardrails-with-scalable-super.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24777",
+    "summary": "LLM-based agents can interact with external environments through tool invocation, but this capability also introduces security risks such as file modification, information leakage, and unauthorized actions. Existing guardrails often evaluate completed trajectories, leaving pre-execution monitoring of step-level actions underexplored. We propose StepGuard, a step-level guard model that can audit...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.CR"
+    ]
+  },
+  {
+    "id": "2608.24771",
+    "title": "Ensemble of Convolutional Neural Networks for StrokePrediction: Towards Improved Diagnostic Accuracy",
+    "authors": "Md Shahriar Sajid",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "ensemble-of-convolutional-neural-networks-for-strokepredicti.pdf",
+    "localPath": "artigos/ia/ensemble-of-convolutional-neural-networks-for-strokepredicti.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24771",
+    "summary": "Brain stroke, known for its high mortality and incidence rates, poses significant health risks and requires rapid intervention for survival. Early diagnosis and preventive measures can greatly reduce life loss and disabilities. Recent advancements in deep learning have led to novel computer-aided diagnostic techniques for early stroke detection. This study proposes an intelligent system that pr...",
+    "tags": [
+      "ia",
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24768",
+    "title": "Score-Based Ideal Observer Approximation via Denoising Score Matching for Signal-Known-Exactly Detection Tasks",
+    "authors": "Weimin Zhou",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "score-based-ideal-observer-approximation-via-denoising-score.pdf",
+    "localPath": "artigos/ia/score-based-ideal-observer-approximation-via-denoising-score.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24768",
+    "summary": "The Bayesian Ideal Observer (IO) establishes the theoretical upper bound on task performance for binary detection tasks. However, analytical computation of the IO test statistic is generally intractable. Numerical approaches based on Markov-chain Monte Carlo (MCMC) methods, including their recent deep generative model-based extensions, typically require extensive posterior sampling for each tes...",
+    "tags": [
+      "ia",
+      "eess.IV",
+      "cs.AI",
+      "cs.CV",
+      "cs.LG",
+      "stat.CO"
+    ]
+  },
+  {
+    "id": "2608.24764",
+    "title": "Evidence Blindness in Direct Corpus Interaction: Persistent Navigation with AtlasNav",
+    "authors": "Hongyu Guo; Zhiyu Zheng; Zhao Cao",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "evidence-blindness-in-direct-corpus-interaction-persistent-n.pdf",
+    "localPath": "artigos/ia/evidence-blindness-in-direct-corpus-interaction-persistent-n.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24764",
+    "summary": "Large language model agents are moving beyond conventional retrieval-augmented generation toward direct interaction with external corpora. Direct Corpus Interaction (DCI) keeps the full corpus accessible, yet reachable evidence can remain unusable under finite interaction budgets. Required evidence may fail to surface, a surfaced supporting document may remain unopened, or an opened document ma...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24763",
+    "title": "MoTE: Mixture of Task Experts for Multi-Task Video Understanding",
+    "authors": "Muhammad Asad Ali; Umar Khan; Nadia Robertini; Didier Stricker",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "mote-mixture-of-task-experts-for-multi-task-video-understand.pdf",
+    "localPath": "artigos/ia/mote-mixture-of-task-experts-for-multi-task-video-understand.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24763",
+    "summary": "Procedural video-language models must solve heterogeneous tasks from the same visual evidence, including action recognition, forecasting, and procedure prediction. Dense transformer decoders share the same feed-forward networks across tasks, which can entangle task behavior and make controlled capability expansion difficult. Sparse Mixture-of-Experts (MoE) decoders provide conditional computati...",
+    "tags": [
+      "ia",
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24762",
+    "title": "Beyond Uniform Local Isometry and Topology: FactoMap for Disentangled Representations",
+    "authors": "Sohini Gupta; Bahareh Tolooshams",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "beyond-uniform-local-isometry-and-topology-factomap-for-dise.pdf",
+    "localPath": "artigos/ia/beyond-uniform-local-isometry-and-topology-factomap-for-dise.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24762",
+    "summary": "Many disentanglement methods represent generative factors using Euclidean product coordinates, although the underlying factor spaces may wrap, collapse, or have position-dependent geometry. We introduce factor-space structure, combining factor domains, generator-induced identifications, and position-dependent scales to distinguish topologically equivalent spaces with different factor geometries...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24760",
+    "title": "ExpConCAD: Experience-Guided Text-to-CAD Generation from Shape Descriptions with Implicit Spatial Constraints",
+    "authors": "Jingyao Liu; Jinkang Tang; Chen Huang; Wenqiang Lei; See-Kiong Ng",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "expconcad-experience-guided-text-to-cad-generation-from-shap.pdf",
+    "localPath": "artigos/ia/expconcad-experience-guided-text-to-cad-generation-from-shap.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24760",
+    "summary": "Text-to-CAD aims to generate executable CAD programs from natural-language descriptions. However, real-world descriptions are often underspecified and omit critical spatial constraints required for valid CAD construction, a challenge that has been largely overlooked by existing methods. In this paper, we argue that missing spatial constraints should be inferred with respect to the underlying co...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.24759",
+    "title": "IDeaL: Data-Free Multi-Teacher Distillation via Improved Dead Leaves",
+    "authors": "Feyza Yavuz; Mert Bülent Sarıyıldız; Diane Larlus",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "ideal-data-free-multi-teacher-distillation-via-improved-dead.pdf",
+    "localPath": "artigos/ia/ideal-data-free-multi-teacher-distillation-via-improved-dead.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24759",
+    "summary": "Multi-teacher distillation has emerged as a way to combine complementary teacher models into a single student model that exhibits the strengths of all its teachers. The student is trained to mimic the output of the teachers on a set of images, typically the union of the individual teacher's training sets, assuming this data is available. In this paper, we question that assumption and explore al...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24758",
+    "title": "RACE: Scalable Statistical Estimation of Functional Consistency in LLM Neurons",
+    "authors": "Runyu Wang; Bo Liu; Xiaxin Zhang; Yu Han; Jiawei Cao; Xiaoye Zhang; Zhe Zhang; Yifan Yang; Peng Ping",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "race-scalable-statistical-estimation-of-functional-consisten.pdf",
+    "localPath": "artigos/ia/race-scalable-statistical-estimation-of-functional-consisten.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24758",
+    "summary": "Discovering stable neuron behavior across entire domains remains a challenge in mechanistic interpretability. Existing methods often rely on instance-level point estimates or computationally expensive procedures, which either obscure population-level variability or limit scalable domain-wide analysis. We present RACE (Residual Alignment for Consistency Estimation), a forward-pass statistical fr...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24756",
+    "title": "Weakly Supervised Seafloor Segmentation for Seagrass Habitat Mapping in Side-Scan Sonar Imagery",
+    "authors": "Hayat Rajani; Nuno Gracias; Rafael Garcia",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "weakly-supervised-seafloor-segmentation-for-seagrass-habitat.pdf",
+    "localPath": "artigos/ia/weakly-supervised-seafloor-segmentation-for-seagrass-habitat.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24756",
+    "summary": "Seagrass meadows are crucial blue-carbon habitats, and mapping their extent is a prerequisite for coastal management and carbon inventory. Optical satellite sensors cover large areas but cannot reach deep or turbid water, whereas side-scan sonar (SSS) images the seabed at high resolution and at any depth. Interpreting SSS, however, still relies on dense manual annotation, which is slow and cost...",
+    "tags": [
+      "ia",
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24753",
+    "title": "The RAT: A Unified Bayesian Model for RAG Evaluation",
+    "authors": "Pius von Däniken; Felix Matthias Saaro; Mark Cieliebak; Jan Deriu",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "the-rat-a-unified-bayesian-model-for-rag-evaluation.pdf",
+    "localPath": "artigos/ia/the-rat-a-unified-bayesian-model-for-rag-evaluation.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24753",
+    "summary": "Evaluating Retrieval-Augmented Generation (RAG) systems requires assessing not only end-to-end correctness but also how individual components interact and how errors propagate through the pipeline. We introduce a Bayesian evaluation framework that jointly models retrieval success, abstention behavior, and answer correctness, factorized according to the pipeline's information flow. The model dis...",
+    "tags": [
+      "ia",
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24748",
+    "title": "Method, Mind, and Morality: How People Make Sense of Artificial Intelligence",
+    "authors": "Jacy Reese Anthis; Erik Brynjolfsson; James Evans",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "method-mind-and-morality-how-people-make-sense-of-artificial.pdf",
+    "localPath": "artigos/ia/method-mind-and-morality-how-people-make-sense-of-artificial.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24748",
+    "summary": "How can humans make sense of the rapid takeoff of artificial intelligence (AI)? We studied the sensemaking dynamics of AI through an open-ended, mixed-methods study with computational text analysis of millions of AI-related newspaper articles and social media posts grounded in 57 semi-structured interviews with AI professionals in 2021 and 2023--before and after the recent surge of public inter...",
+    "tags": [
+      "ia",
+      "cs.CY",
+      "cs.AI",
+      "cs.CL",
+      "cs.LG",
+      "stat.ML"
+    ]
+  },
+  {
+    "id": "2608.24747",
+    "title": "SkillForge: Evolving Verifiable Skills for Reinforcement Learning Agents",
+    "authors": "Shidong Yang; Ziyu Ma; Tongwen Huang; Xucong Wang; Renda Li; Yiming Hu; Yong Wang; Xiangxiang Chu",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "skillforge-evolving-verifiable-skills-for-reinforcement-lear.pdf",
+    "localPath": "artigos/ia/skillforge-evolving-verifiable-skills-for-reinforcement-lear.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24747",
+    "summary": "Large language model (LLM) agents are trained with reinforcement learning (RL) for complex decision-making tasks. However, most RL-trained agents remain episodic and cannot accumulate reusable knowledge across episodes. Recent skill-based approaches, such as SkillRL, attempt to address this issue by extracting skills from raw trajectories, but treat the skill bank as an append-only repository w...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.24743",
+    "title": "$(\\text{DNN})^2$: Doubly Non-Negative Relaxations for Deep Neural Networks",
+    "authors": "Hanna Jiamei Zhang; Alan Papalia; Michael Everett; David M. Rosen",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "text-dnn-2-doubly-non-negative-relaxations-for-deep-neural-n.pdf",
+    "localPath": "artigos/ia/text-dnn-2-doubly-non-negative-relaxations-for-deep-neural-n.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24743",
+    "summary": "Existing linear program (LP) and semidefinite program (SDP) relaxations for rectified linear unit (ReLU) neural network (NN) verification yield overly-conservative safety guarantees due to significant relaxation gaps. While the completely positive program (CPP) formulation closes this gap, it is NP-hard to solve. Its cheapest tractable relaxation, the doubly non-negative program (DNN), retains...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.RO",
+      "eess.SY"
+    ]
   }
 ];
