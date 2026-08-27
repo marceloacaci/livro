@@ -3574,5 +3574,505 @@ window.MEU_BOLSO_ARTICLES_IA = [
       "cs.AI",
       "cs.MA"
     ]
+  },
+  {
+    "id": "2608.24470",
+    "title": "Reinforcement Learning-Guided Evolutionary Policy Optimization for Preference-Adjustable Heterogeneous Agile Earth Observation Satellite Scheduling",
+    "authors": "He Wang; Junyu Wu; Hui Li; Yanjie Song; Witold Pedrycz; Liang Li",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "reinforcement-learning-guided-evolutionary-policy-optimizati.pdf",
+    "localPath": "artigos/ia/reinforcement-learning-guided-evolutionary-policy-optimizati.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24470",
+    "summary": "Heterogeneous agile Earth observation satellite (AEOS) scheduling requires task selection, satellite assignment, and observation sequencing under satellite-dependent visibility windows, attitude maneuvering requirements, energy consumption, and onboard storage constraints. Since satellites differ in orbital access, maneuvering capability, and payload resources, the same task may have different...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24469",
+    "title": "Low-Rank Ternary Adaptation for Fine-Tuning Transformers",
+    "authors": "Alexandru-Dragos Manolache; Yunqiang Li; Jan van Gemert",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "low-rank-ternary-adaptation-for-fine-tuning-transformers.pdf",
+    "localPath": "artigos/ia/low-rank-ternary-adaptation-for-fine-tuning-transformers.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24469",
+    "summary": "Ternary transformers offer extreme memory and compute efficiency, but existing low-bit LoRA-based methods cannot directly fine-tune ternary weights. Current approaches either require dequantization, restoring low-bit base weights to higher precision to merge with adaptation weight, or update only quantization parameters, preventing a merged model that remains ternary. We propose ternary multipl...",
+    "tags": [
+      "ia",
+      "cs.CV",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24467",
+    "title": "HMGCLIP: Heterogeneous Multi-Granularity Contrastive Learning for E-commerce Representation Learning",
+    "authors": "Qiuyu Zhu; Yi Gao; Zhichao Wan; Mingyang Ma",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "hmgclip-heterogeneous-multi-granularity-contrastive-learning.pdf",
+    "localPath": "artigos/ia/hmgclip-heterogeneous-multi-granularity-contrastive-learning.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24467",
+    "summary": "Although recent Multimodal Large Language Models (MLLMs) have advanced general product understanding, they implicitly encode product information into global embeddings, thereby limiting their ability to capture fine-grained attributes. This limitation hinders performance in tasks requiring precise attribute discrimination, such as distinguishing subtle material differences among visually simila...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24462",
+    "title": "Mahalanobis-Based Multi-Head Attention for Complex State Propagation",
+    "authors": "Xiaohe Li",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "mahalanobis-based-multi-head-attention-for-complex-state-pro.pdf",
+    "localPath": "artigos/ia/mahalanobis-based-multi-head-attention-for-complex-state-pro.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24462",
+    "summary": "In this paper, we propose \\textbf{Mahalanobis-Based Multi-Head Attention} (MHA-CSP), a novel attention mechanism that replaces the standard dot-product with a \\textbf{Mahalanobis distance-based RBF kernel}, which effectively computes attention in an infinite-dimensional feature space without increasing the parameter count. Crucially, the positive definiteness of the Mahalanobis distance enables...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24460",
+    "title": "Shortcut Before Circuit: Document Statistics Time In-Context Conflict Resolution",
+    "authors": "Yijun Liao; Fanwei Liang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "shortcut-before-circuit-document-statistics-time-in-context.pdf",
+    "localPath": "artigos/ia/shortcut-before-circuit-document-statistics-time-in-context.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24460",
+    "summary": "When a context asserts two values for one fact, a model commits to a cue -- recency, repetition, position -- but natural data rarely makes these disagree, so behavior cannot reveal which. We train 26M-parameter transformers on a synthetic language where recency and rarity are exactly coextensive, and separate them with a minimal causal edit that inverts one cue while holding the truth, token co...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.24441",
+    "title": "A Behavior-Guided Online Probabilistic Forecasting Method for Electric vehicle Charging Loads",
+    "authors": "Chenghan Li; Qingxiang Liu; Yinliang Xu; Yuxuan Liang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "a-behavior-guided-online-probabilistic-forecasting-method-fo.pdf",
+    "localPath": "artigos/ia/a-behavior-guided-online-probabilistic-forecasting-method-fo.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24441",
+    "summary": "Electric vehicle (EV) charging loads exhibit strong behavioral heterogeneity and temporal variability, posing significant challenges for online probabilistic forecasting under evolving operating conditions. In particular, persistent charging patterns may differ substantially across stations, while recent behavioral changes can continuously alter the underlying load distributions. This paper pro...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24439",
+    "title": "DoublesEval: Diagnosing Multi-Agent Tactical Reasoning in Vision-Language Models via Professional Doubles Badminton",
+    "authors": "Jintao Cheng; Weibin Li",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "doubleseval-diagnosing-multi-agent-tactical-reasoning-in-vis.pdf",
+    "localPath": "artigos/ia/doubleseval-diagnosing-multi-agent-tactical-reasoning-in-vis.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24439",
+    "summary": "Visual Language Models (VLMs) excel at describing visible scene content but struggle to reason about dynamic multi-agent interactions, where action semantics depend on coordinated roles and spatial-temporal dependencies. We formalize this capability as \\textbf{multi-agent tactical reasoning} and introduce \\textbf{DoublesEval}, a diagnostic evaluation framework that leverages professional double...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24436",
+    "title": "Evaluating Deep Multivariate Imputation Models on Wearable Device Data",
+    "authors": "Skye Goodman; Roussel Desmond Nzoyem; Leandro Junges; Peter Kissack; Yasser Qureshi; Amberly Brigden; Jeff Clark; Nawid Keshtmand",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "evaluating-deep-multivariate-imputation-models-on-wearable-d.pdf",
+    "localPath": "artigos/ia/evaluating-deep-multivariate-imputation-models-on-wearable-d.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24436",
+    "summary": "Wearable device data enables continuous health monitoring, but suffers from structured missingness: features sharing a physical sensor drop out together. Deep imputation methods such as BRITS and SAITS have seen limited evaluation on multimodal physiological data under realistic missingness, and existing benchmarks use random-point holdout protocols that incorrectly assume missingness is indepe...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.AI",
+      "q-bio.QM"
+    ]
+  },
+  {
+    "id": "2608.24430",
+    "title": "Vision Language Model Fusion for Explainable Face Recognition",
+    "authors": "Ana Estrada-Real; Lydia Alapatt; Christoph Busch; Christian Rathgeb",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "vision-language-model-fusion-for-explainable-face-recognitio.pdf",
+    "localPath": "artigos/ia/vision-language-model-fusion-for-explainable-face-recognitio.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24430",
+    "summary": "Responsible deployment of face verification systems requires more than accurate decisions: systems should also provide interpretable and auditable evidence that enables users to understand, assess, and challenge their decisions. Vision-language models (VLMs) provide a promising foundation for explainable face recognition by combining visual analysis with natural-language reasoning. However, rel...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24429",
+    "title": "Joint Distribution Alignment for Universal Domain Adaptation",
+    "authors": "Shizhe Li; Hongshan Pu; Mengying Xie; Yi Xiang; Xiaowei Yang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "joint-distribution-alignment-for-universal-domain-adaptation.pdf",
+    "localPath": "artigos/ia/joint-distribution-alignment-for-universal-domain-adaptation.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24429",
+    "summary": "Unsupervised domain adaptation (UDA) has been widely concerned in the fields of machine learning, pattern recognition, and computer vision. Traditional UDA learning usually assumes that the label spaces of the source and target domains are exactly the same and only needs to solve the problem of sample distribution drift existing between two domains. However, in real world applications, the labe...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24428",
+    "title": "Predictability of El Niño from Delayed Observations",
+    "authors": "Francisco J. Beron-Vera",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "predictability-of-el-nino-from-delayed-observations.pdf",
+    "localPath": "artigos/ia/predictability-of-el-nino-from-delayed-observations.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24428",
+    "summary": "Using monthly Niño-3.4 anomalies through July 2026, we investigate how much predictive information is contained in delayed observations of the index. Ridge regression identifies informative delays, while multilayer perceptron and sparse identification of nonlinear dynamics (SINDy) models test whether nonlinear complexity provides additional direct forecast skill; gated recurrent unit (GRU) and...",
+    "tags": [
+      "ia",
+      "physics.ao-ph",
+      "cs.LG",
+      "math.DS",
+      "nlin.CD"
+    ]
+  },
+  {
+    "id": "2608.24427",
+    "title": "Partial Identification under Causal Orders by Linear Programming",
+    "authors": "Eric Rossetto; Alessandro Antonucci",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "partial-identification-under-causal-orders-by-linear-program.pdf",
+    "localPath": "artigos/ia/partial-identification-under-causal-orders-by-linear-program.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24427",
+    "summary": "Non-parametric (partial) identification of counterfactual queries typically relies on a fully specified causal graph. Motivated by settings with incomplete domain knowledge, we challenge this requirement by leveraging structural assumptions that are inherently implied by the query itself. We show that any counterfactual inquiry induces a, mostly partial, topological ordering over relevant varia...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24426",
+    "title": "Sequential operator learning under dependent data",
+    "authors": "Rafael Oliveira",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "sequential-operator-learning-under-dependent-data.pdf",
+    "localPath": "artigos/ia/sequential-operator-learning-under-dependent-data.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24426",
+    "summary": "Learning operators from sequentially collected data arises in adaptive experimental design, Bayesian optimization, and dynamical-system modelling, where observations may be dependent, and future inputs or sensing operators may depend on preceding data. We derive time-uniform self-normalized concentration bounds for stochastic processes in Hilbert spaces with vector-valued noise. We use these bo...",
+    "tags": [
+      "ia",
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24973",
+    "title": "Resource-Efficient Pruning for Transformer via Low-Rank Importance Estimation",
+    "authors": "Peng Liu; Huibing Zeng; Yiqun Zhang; Yang Yi; Jigang Wu",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "resource-efficient-pruning-for-transformer-via-low-rank-impo.pdf",
+    "localPath": "artigos/ia/resource-efficient-pruning-for-transformer-via-low-rank-impo.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24973",
+    "summary": "With the rapid development of large-scale pre-trained language models based on Transformer architectures, their high computational and memory costs have become a major obstacle to deployment, especially in resource-constrained environments. Traditional pruning methods typically depend on full gradient-based importance estimation, and they necessitate prior finetuning of the model to achieve sat...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.AI",
+      "cs.ET"
+    ]
+  },
+  {
+    "id": "2608.24422",
+    "title": "ZODIAC: Zero-shot Octree-based Diffusion for Anatomical Completion",
+    "authors": "Miruna-Alexandra Gafencu; Vlad Bratulescu; Yordanka Velikova; Mohammad Farid Azampour; Nassir Navab",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "zodiac-zero-shot-octree-based-diffusion-for-anatomical-compl.pdf",
+    "localPath": "artigos/ia/zodiac-zero-shot-octree-based-diffusion-for-anatomical-compl.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24422",
+    "summary": "Recovering the full 3D spine anatomy from intraoperative ultrasound is an ill-posed inverse problem, as the complete structure must be inferred from incomplete and noisy observations. Acoustic occlusions and limited field of view create large unobserved regions, while view-dependent artifacts lead to variability in expert annotations of the visible anatomy. Current supervised ultrasound shape c...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24419",
+    "title": "A Judge Should Know What Changed:Construct Validity for LLM-as-a-Judge Evaluation",
+    "authors": "Jianlin Chen; Wenhui Chen; Ziyao Lin; Chi Man Vong",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "a-judge-should-know-what-changed-construct-validity-for-llm.pdf",
+    "localPath": "artigos/ia/a-judge-should-know-what-changed-construct-validity-for-llm.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24419",
+    "summary": "LLM-as-a-judge evaluation is usually assessed by agreement and robustness to surface perturbations, but reliability does not establish construct validity. We formalize construct validity for an evaluator as a two-dimensional profile: invariance S, the probability that a verdict is unchanged under construct-preserving edits, and construct sensitivity R, the probability that it changes under mini...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24415",
+    "title": "MRI-based Deep Radiomic Phenotyping of Neuromuscular Disorders: A Topology-driven Characterization",
+    "authors": "Martyna Żur; Łukasz Piórecki; Marek Socha; Jordi Diaz-Manera; Jose Verdu Diaz; Volker Straub; Rossella Tupler; Joanna Polańska",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "mri-based-deep-radiomic-phenotyping-of-neuromuscular-disorde.pdf",
+    "localPath": "artigos/ia/mri-based-deep-radiomic-phenotyping-of-neuromuscular-disorde.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24415",
+    "summary": "Quantitative assessment of muscle MRI is crucial for monitoring neuromuscular disorders (NMD). This study introduces an automated radiomic phenotyping framework based on original features engineered across five main architectural domains: quantitative morphometry, spatial distribution, geometric shape, interactions between progressive fat replacement stages, and graph-based topology. Utilizing...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24411",
+    "title": "ResiSpec: Enhancing Multi-Candidate Speculative Sampling via Residual Distribution Shaping",
+    "authors": "Zhi-Kai Chen; Jun-Jie Tao; Wei-Xiang Mao; De-Chuan Zhan; Han-Jia Ye",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "resispec-enhancing-multi-candidate-speculative-sampling-via.pdf",
+    "localPath": "artigos/ia/resispec-enhancing-multi-candidate-speculative-sampling-via.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24411",
+    "summary": "The efficiency of Large Language Model (LLM) serving is fundamentally limited by the sequential nature of autoregressive decoding. Speculative Decoding (SD) mitigates this by using a lightweight draft model to speculate future tokens, which are then validated by the LLM in a single parallel forward pass. To further boost efficiency, multi-candidate schemes propose diverse candidate sets to incr...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24400",
+    "title": "Multilevel Fair Allocation under Additive Preferences",
+    "authors": "Maxime Lucet; Nawal Benabbou; Aurélie Beynier; Nicolas Maudet",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "multilevel-fair-allocation-under-additive-preferences.pdf",
+    "localPath": "artigos/ia/multilevel-fair-allocation-under-additive-preferences.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24400",
+    "summary": "We study multilevel fair resource allocation with tree-structured hierarchical relations among agents. At each level, the problem can be viewed locally as allocating an agent's bundle to its children, the overall allocation being a trace of this process iterated down to the leaves. Assuming that internal nodes' utilities are the utilitarian welfare of their children, and the leaves have classic...",
+    "tags": [
+      "ia",
+      "cs.GT",
+      "cs.AI",
+      "cs.MA"
+    ]
+  },
+  {
+    "id": "2608.24386",
+    "title": "Equivariant Covariance Tensors: Guaranteed SPD Uncertainty for Tensor-Valued Geometric Learning",
+    "authors": "Ruihan Liu; Yu Ji; Jianbo Yu; Shifu Yan; Qingchao Jiang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "equivariant-covariance-tensors-guaranteed-spd-uncertainty-fo.pdf",
+    "localPath": "artigos/ia/equivariant-covariance-tensors-guaranteed-spd-uncertainty-fo.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24386",
+    "summary": "Tensor-valued prediction is fundamental to geometric deep learning, yet uncertainty quantification (UQ) for such outputs remains an open challenge. While E(3)-equivariant neural networks excel at point estimates, they lack rigorous confidence measures. We focus on symmetric rank-2 tensor prediction, where the target has six Kelvin--Mandel coordinates and full uncertainty is represented by a $6\\...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24300",
+    "title": "Contrastive Branch Policy Optimization",
+    "authors": "Ying Wang; Changlin Qiu; Bang Lin; Linbo Jin; Wen Jiang; Zhe Sun; Jingli Yang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "contrastive-branch-policy-optimization.pdf",
+    "localPath": "artigos/ia/contrastive-branch-policy-optimization.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24300",
+    "summary": "Reinforcement learning with verifiable rewards (RLVR) enables language models to learn multi-turn interaction with external tools, yet its sparse outcome rewards provide no signal for identifying which intermediate decisions are responsible for success. Branch sampling induces local comparisons among alternative continuations, but existing methods tend to conflate two distinct problems: allocat...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24293",
+    "title": "Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation",
+    "authors": "Yeonkyeong Lee; Hyunsung Go; Jongmin Kim; Sewoong Lim; Donghoon Lee",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "keep-or-drop-adaptive-tokenizer-for-compact-video-representa.pdf",
+    "localPath": "artigos/ia/keep-or-drop-adaptive-tokenizer-for-compact-video-representa.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24293",
+    "summary": "Latent diffusion models have emerged as a dominant framework for high-fidelity image and video synthesis, operating in compact latent spaces with variational autoencoders (VAEs) to enhance computational efficiency without compromising visual quality. However, conventional VAEs are suboptimal for video data as they employ fixed compression ratios that cannot adapt to the varying complexity of sp...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24291",
+    "title": "ReproAgent: Contract-Guided Paper-to-Code Reproduction",
+    "authors": "Xue Hu; Zewei Pan; Zhongyuan Wang; Zhou Liu; Zeli Su; Wentao Zhang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "reproagent-contract-guided-paper-to-code-reproduction.pdf",
+    "localPath": "artigos/ia/reproagent-contract-guided-paper-to-code-reproduction.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24291",
+    "summary": "Paper-to-code reproduction asks scientific AI agents to turn research papers into executable repositories that preserve the paper's method, protocol and artifacts. This is difficult because the specification is split: explicit paper content such as algorithms, metrics and artifacts is often lost across long agent trajectories, while implicit details such as framework defaults and conventions in...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.SE"
+    ]
+  },
+  {
+    "id": "2608.24282",
+    "title": "CARE: Camera-Residual Reserves for First Sightings in Adaptive LiDAR Sensing",
+    "authors": "Jiachen Gong; Yun Li; Ehsan Javanmardi; Wencan Mao; Manabu Tsukada",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "care-camera-residual-reserves-for-first-sightings-in-adaptiv.pdf",
+    "localPath": "artigos/ia/care-camera-residual-reserves-for-first-sightings-in-adaptiv.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24282",
+    "summary": "Adaptive LiDAR scanning concentrates a limited sensing budget on regions of interest predicted from past object tracks, lowering data volume in autonomous driving while maintaining detection accuracy. However, existing scanning policies face three challenges. First, history-driven approaches depend on past tracks, so unseen objects are detected late or missed. Second, random or uniform sampling...",
+    "tags": [
+      "ia",
+      "cs.CV",
+      "cs.RO"
+    ]
+  },
+  {
+    "id": "2608.24281",
+    "title": "Example-based Robust Abnormality Detection with Minimal Annotations using Exemplar Med-DETR",
+    "authors": "Sheethal Bhat; Bogdan Georgescu; Awais Mansoor; Mathias Zinnen; Pranjal Sahu; Florin C. Ghesu; Sasa Grbic; Andreas Maier",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "example-based-robust-abnormality-detection-with-minimal-anno.pdf",
+    "localPath": "artigos/ia/example-based-robust-abnormality-detection-with-minimal-anno.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24281",
+    "summary": "Reducing annotation requirements remains a key challenge in developing robust medical object detectors. To address this, Vision-Language (VL) object detection methods leverage grounding text information to enable powerful zero-shot and few-shot object detectors in the natural image domain [1, 2, 3, 4]. However, transferring these methods to the medical domain is challenging due to the absence o...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.24275",
+    "title": "RePolicy: Reinforcement Learning for Safety-Policy Invocation in Agent Safeguards",
+    "authors": "Houcheng Jiang; Boxuan Zhang; Qiyong Zhong; Junfeng Fang; Xiang Wang; Xiangnan He",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "repolicy-reinforcement-learning-for-safety-policy-invocation.pdf",
+    "localPath": "artigos/ia/repolicy-reinforcement-learning-for-safety-policy-invocation.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24275",
+    "summary": "Safeguarding language model agents requires assessing complete execution trajectories under context-dependent safety policies. Existing policy-aware safeguards mainly rely on prompting or supervised fine-tuning, limiting their ability to adapt to unseen trajectories and changing policy contexts. We propose RePolicy, an agent safeguard that learns safety-policy invocation through reinforcement l...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.24274",
+    "title": "Eating for a Sustainable Planet: Personalized Sustainable Diet Recommendation via Constraint-Aware Decision-Making Modeling",
+    "authors": "Ying Jin; Weiqing Min; Mingyu Huang; Shuqiang Jiang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "eating-for-a-sustainable-planet-personalized-sustainable-die.pdf",
+    "localPath": "artigos/ia/eating-for-a-sustainable-planet-personalized-sustainable-die.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24274",
+    "summary": "A sustainable diet represents a multi-dimensional synergy among four essential pillars: nutrition adequacy, economic affordability, cultural acceptability, and environmental respect. Despite the prevalence of population-level sustainability modeling, practical implementation relies on effective individual-level adoption. This transition is often hindered by inter-individual heterogeneity, posin...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.24273",
+    "title": "Matched Excess-Outranker Regularization for Candidate-Set Interference in Continual Knowledge Graph Embedding",
+    "authors": "Hao Ren; Junbin Gao; Jiaojiao Jiang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "matched-excess-outranker-regularization-for-candidate-set-in.pdf",
+    "localPath": "artigos/ia/matched-excess-outranker-regularization-for-candidate-set-in.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24273",
+    "summary": "Continual knowledge graph embedding updates entity and relation representations as a graph grows. Existing methods primarily address catastrophic forgetting, but entity admission also changes the candidate universe of every compatible query. A historical answer can therefore lose rank even when its score and its ordering among old entities are preserved. We formalize this effect as candidate-se...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.DB",
+      "cs.IR"
+    ]
+  },
+  {
+    "id": "2608.24268",
+    "title": "ROBE: Reversed-Order-Biased-Experts for Extracting Extreme Long-tail Events from Historical Texts",
+    "authors": "Stella Verkijk; Piek Vossen",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "robe-reversed-order-biased-experts-for-extracting-extreme-lo.pdf",
+    "localPath": "artigos/ia/robe-reversed-order-biased-experts-for-extracting-extreme-lo.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24268",
+    "summary": "This paper proposes methods to extract over 50 types of events from a Dutch historical corpus spanning the 17th and 18th centuries. The methods we propose aim to tackle the impossible: extracting the long-tail of the long-tail. Historic data from before the 19th century is in itself a niche domain not covered in the pre-training of Large Language Models, and we aim to extract events only very s...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.24263",
+    "title": "Real-World Knowledge-Guided Change Data Synthesis for Remote Sensing",
+    "authors": "Yaoyi Qi; Xingxing Weng; Chao Pang; Yongkang Cui; Xiangyu Hao; Xiaokang Zhang; Guibo Zhu; Gui-Song Xia",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "real-world-knowledge-guided-change-data-synthesis-for-remote.pdf",
+    "localPath": "artigos/ia/real-world-knowledge-guided-change-data-synthesis-for-remote.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24263",
+    "summary": "Change data synthesis provides a cost-effective solution for expanding training data and improving the performance of change detection models. However, existing synthesis methods typically rely on handcrafted rules to simulate changes, where limited coverage of class transitions restricts the diversity of synthesized data, while predefined transition designs limit their flexibility in accommoda...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.CV"
+    ]
   }
 ];
