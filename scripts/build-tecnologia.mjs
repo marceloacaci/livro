@@ -19,7 +19,7 @@ const JS_PATH = path.join(ROOT, 'js', 'articles-tecnologia.js');
 const PDF_DIR = path.join(ROOT, 'artigos', 'tecnologia');
 
 const MAX_NEW = parseInt(process.argv[2] || '20', 10);
-const VAR_NAME = 'MEU_BOLSO_ARTICLES_TECNOLOGIA';
+const VAR_NAME = 'LIVRO_ARTICLES_TECNOLOGIA';
 
 const CAT_LABEL = {
   'cs.ET': 'Tecnologias Emergentes',

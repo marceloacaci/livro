@@ -82,7 +82,7 @@
 
   // Resolve o id do livro ativo (reutiliza a convenção do livro.js).
   function getBookId() {
-    var books = window.MEU_BOLSO_BOOKS || [];
+    var books = window.LIVRO_BOOKS || [];
     var params = new URLSearchParams(window.location.search);
     var id = params.get('id') || (window.location.hash ? window.location.hash.replace('#', '') : '');
     var found = books.find(function (b) { return b && (b.id === id || b.slug === id); });

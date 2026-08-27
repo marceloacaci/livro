@@ -37,7 +37,7 @@
   var livrosSub = document.getElementById('livrosMasterSubmenu');
   if (livrosSub) {
     var books = (window.LivroData && window.LivroData.getAllBooks()) ||
-                (window.MEU_BOLSO_BOOKS) || [];
+                (window.LIVRO_BOOKS) || [];
     var lh = '';
     books.forEach(function (b) {
       var slug = b.slug || b.id || '';
@@ -56,7 +56,7 @@
     var ah = '';
     TEMAS.forEach(function (t) {
       var color = TEMA_COLORS[t.key] || '#6c5ce7';
-      var list = window['MEU_BOLSO_ARTICLES_' + t.key.toUpperCase()] || [];
+      var list = window['LIVRO_ARTICLES_' + t.key.toUpperCase()] || [];
       var items = '';
       list.forEach(function (a) {
         var slug = a.id || a.filename || '';

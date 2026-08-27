@@ -22,9 +22,9 @@ function loadBooks() {
   const sandbox = { window: {} };
   vm.createContext(sandbox);
   vm.runInContext(code, sandbox);
-  const books = sandbox.window.MEU_BOLSO_BOOKS;
+  const books = sandbox.window.LIVRO_BOOKS;
   if (!Array.isArray(books)) {
-    throw new Error('window.MEU_BOLSO_BOOKS não é um array.');
+    throw new Error('window.LIVRO_BOOKS não é um array.');
   }
   return books;
 }

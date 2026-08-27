@@ -34,7 +34,7 @@ npm run qa            # lint:syntax && lint:schema && verify && test
 ```
 index.html · livro.html        # Home (catálogo + busca) e Leitor
 css/styles.css                 # Estilos (CSS variables, tema dark/light)
-js/books.js                    # Catálogo (window.MEU_BOLSO_BOOKS = [...])
+js/books.js                    # Catálogo (window.LIVRO_BOOKS = [...])
 js/search.js                   # Busca fuzzy custom (NOVO, ESM, aditivo)
 js/annotations.js              # CRUD multi-nota (NOVO, ESM, aditivo)
 scripts/                       # QA Node (lint-books, verify-biblioteca, check-syntax)

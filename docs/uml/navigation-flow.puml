@@ -17,7 +17,7 @@ start
 :Usuário acessa **index.html**;
 
 if (Dados carregados?) then (sim)
-  :js/data.js expõe LIVRO_DATA / MEU_BOLSO_BOOKS;
+  :js/data.js expõe LIVRO_DATA / LIVRO_BOOKS;
 else (não)
   :Carrega js/books.js via <script defer>;
 endif

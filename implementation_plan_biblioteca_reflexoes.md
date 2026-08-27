@@ -618,7 +618,7 @@ gantt
 | Critério | Métrica | Status |
 |---|---|---|
 | Fonte do conteúdo definida | `docs/CONTENT_SOURCES.md` preenchido | ✅ |
-| Catálogo válido | 123 livros passam no `lint-books.js` (contagem derivada de `MEU_BOLSO_BOOKS.length`, não hardcoded) | ✅ |
+| Catálogo válido | 123 livros passam no `lint-books.js` (contagem derivada de `LIVRO_BOOKS.length`, não hardcoded) | ✅ |
 | Sintaxe JS | 0 erros em `node --check js/*.js` (14 arquivos) | ✅ |
 | Build íntegra | 0 capas ausentes (6 órfãs informativas) | ✅ |
 | Testes unitários | `npm run test` verde — 23/23 (search, annotations multi-nota, utils, state, router) | ✅ |

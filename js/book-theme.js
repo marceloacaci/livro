@@ -2,14 +2,14 @@
  * book-theme.js — Template base para livros da biblioteca.
  *
  * Uso:
- *   window.MEU_BOLSO_BOOK_THEME = { ...configuração... };
+ *   window.LIVRO_BOOK_THEME = { ...configuração... };
  *   books.js consome essas configurações para aplicar
  *   visual, seções e cores de forma padronizada.
  */
 (function () {
   'use strict';
 
-  window.MEU_BOLSO_BOOK_THEME = {
+  window.LIVRO_BOOK_THEME = {
     // --- Identidade do livro ---
     id: '', // 'ramsey', 'fogg', etc.
     title: '',

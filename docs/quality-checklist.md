@@ -22,7 +22,7 @@ Validação antes de commitar/marcar pronto. Foco: manter a natureza *vanilla*
 
 ## 3. Estrutura Estática Íntegra
 - [ ] `index.html` e `livro.html` abrem via `file://` **e** via `http.server`.
-- [ ] Novo livro adicionado sem quebrar o array `MEU_BOLSO_BOOKS`.
+- [ ] Novo livro adicionado sem quebrar o array `LIVRO_BOOKS`.
 - [ ] `slug` e `id` únicos.
 - [ ] Capa referenciada existe em `img/`.
 

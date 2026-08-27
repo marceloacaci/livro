@@ -2,7 +2,7 @@ flowchart TD
     A[Usuário abre index.html] --> B[navbar + sidebar fixa]
     B --> C[Seção Hero: "Biblioteca de Reflexões"]
     C --> D[Grid #booksGrid]
-    D -->|js/biblioteca.js monta cards via MEU_BOLSO_BOOKS| E{Clique em um card}
+    D -->|js/biblioteca.js monta cards via LIVRO_BOOKS| E{Clique em um card}
     E -->|card aponta para livro.html#slug| F[livro.html]
     F -->|js/livro.js resolve #slug| G[Render das seções do livro]
     G --> H[Sobre o Livro]

@@ -19,7 +19,7 @@ reflexões do leitor ficam no próprio navegador.
 
 | Arquivo | Papel | Tipo |
 |---|---|---|
-| `js/books.js` | Catálogo de 123 livros | **Não-ESM**: `window.MEU_BOLSO_BOOKS = [...]` |
+| `js/books.js` | Catálogo de 123 livros | **Não-ESM**: `window.LIVRO_BOOKS = [...]` |
 | `js/app.js` | Render do catálogo e busca inline | script global |
 | `js/reader.js` | Controller do `livro.html` | script global |
 | `js/theme.js` / `js/book-theme.js` | Tema dark/light via CSS vars | script global |
@@ -30,11 +30,11 @@ reflexões do leitor ficam no próprio navegador.
 
 ### ADR-002 — Catálogo não-ESM
 
-O catálogo é carregado como `window.MEU_BOLSO_BOOKS = [...]` (atribuição global),
+O catálogo é carregado como `window.LIVRO_BOOKS = [...]` (atribuição global),
 **não** via `export const BOOKS`. Em Node, `window` é `undefined`, então os
 scripts de QA (`scripts/lint-books.js`, `scripts/verify-biblioteca.js`) carregam
 o arquivo via `vm` com um **stub de `window`**, lendo a constante real. A contagem
-de livros é **derivada de `MEU_BOLSO_BOOKS.length`**, nunca hardcoded.
+de livros é **derivada de `LIVRO_BOOKS.length`**, nunca hardcoded.
 
 ### ADR-003 — Persistência de reflexões
 

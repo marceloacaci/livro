@@ -62,7 +62,7 @@ O modo de leitura prioriza **legibilidade e baixa fadiga visual**:
 
 ### Adicionar um novo resumo (apenas dados)
 
-1. Abra `js/books.js` (fonte única de `window.MEU_BOLSO_BOOKS`).
+1. Abra `js/books.js` (fonte única de `window.LIVRO_BOOKS`).
 2. Acrescente um objeto ao array, seguindo o schema existente:
 
 ```js

@@ -1,4 +1,4 @@
-window.MEU_BOLSO_ARTICLES_TESES = [
+window.LIVRO_ARTICLES_TESES = [
   {
     id: "lume-1433",
     title: "Tolerância a falhas e reflexão computacional num ambiente distribuído",

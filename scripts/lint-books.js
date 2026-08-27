@@ -2,7 +2,7 @@
 /**
  * scripts/lint-books.js — Validação de schema do catálogo REAL.
  *
- * O catálogo NÃO é ESM: js/books.js faz `window.MEU_BOLSO_BOOKS = [...]`.
+ * O catálogo NÃO é ESM: js/books.js faz `window.LIVRO_BOOKS = [...]`.
  * Em Node puro, `window` é undefined, então carregamos o arquivo via `vm`
  * com um stub de `window` e lemos a constante real (não hardcoded).
  *
@@ -29,9 +29,9 @@ function loadBooks() {
   const sandbox = { window: {} };
   vm.createContext(sandbox);
   vm.runInContext(code, sandbox);
-  const books = sandbox.window.MEU_BOLSO_BOOKS;
+  const books = sandbox.window.LIVRO_BOOKS;
   if (!Array.isArray(books)) {
-    throw new Error('window.MEU_BOLSO_BOOKS não é um array.');
+    throw new Error('window.LIVRO_BOOKS não é um array.');
   }
   return books;
 }

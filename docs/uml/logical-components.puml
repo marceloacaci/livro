@@ -19,7 +19,7 @@ skinparam arrow {
 }
 
 package "Camada de Dados" as Dados {
-  [js/books.js\n(window.MEU_BOLSO_BOOKS)] as Books
+  [js/books.js\n(window.LIVRO_BOOKS)] as Books
   [js/data.js\n(LIVRO_DATA + LivroData)] as Data
 }
 

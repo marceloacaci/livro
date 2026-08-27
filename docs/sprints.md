@@ -43,7 +43,7 @@ navegação intuitiva.
 
 - [ ] B11 — unificar domínio de reflexões/localStorage em um módulo.
 - [ ] B6 — barra de progresso de leitura (`scroll` + `requestAnimationFrame`).
-- [ ] B2 — busca/filtro na biblioteca (`index.html`) sobre `MEU_BOLSO_BOOKS`.
+- [ ] B2 — busca/filtro na biblioteca (`index.html`) sobre `LIVRO_BOOKS`.
 - [ ] B8 — modo Leitura Focada (hide header/footer no scroll down).
 - [ ] Melhorar transições de seção (`scroll-behavior`, `IntersectionObserver` p/ nav ativa).
 

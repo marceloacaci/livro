@@ -1,4 +1,4 @@
-window.MEU_BOLSO_ARTICLES_IA = [
+window.LIVRO_ARTICLES_IA = [
   {
     "id": "1706.03762",
     "title": "Attention Is All You Need",

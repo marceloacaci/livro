@@ -4,7 +4,7 @@
 // algoritmo do Fuse.js — é um matcher de subsequência/substring próprio.
 // Este módulo é aditivo e testável; NÃO é importado pelo site existente.
 //
-// Adaptado à realidade do catálogo (window.MEU_BOLSO_BOOKS):
+// Adaptado à realidade do catálogo (window.LIVRO_BOOKS):
 //   - `genre` é uma STRING ("Finanças pessoais / Autoajuda"), não um array.
 //   - Não há campo `chapters`; o "excerpt" usa titlePt/topic como fallback.
 //

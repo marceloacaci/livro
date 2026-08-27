@@ -2,7 +2,7 @@
  * articles-informatica.js - 10 artigos cientificos de INFORMATICA (cs.DB, cs.DS, cs.DC, cs.SE, cs.CR, cs.NI, cs.PL)
  * Fontes reais do arXiv (ids verificados via arXiv API).
  */
-window.MEU_BOLSO_ARTICLES_INFORMATICA = [
+window.LIVRO_ARTICLES_INFORMATICA = [
   {
     id: 'inf-2310.17129',
     title: "ECN based Congestion Control for a Software Defined Network",

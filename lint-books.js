@@ -4,7 +4,7 @@
  *
  * Verifica:
  *  - Sintaxe do js/books.js (carregado em sandbox isolado).
- *  - Total de livros em window.MEU_BOLSO_BOOKS.
+ *  - Total de livros em window.LIVRO_BOOKS.
  *  - IDs duplicados.
  *  - Campos obrigatórios mínimos (os que 100% dos livros possuem no schema canônico).
  *  - Arrays internos não vazios (myths/sections/ensinamentos/citacoes).
@@ -37,8 +37,8 @@ vm.createContext(sandbox);
 try { vm.runInContext(code, sandbox, { filename: 'js/books.js' }); }
 catch (e) { console.error('Erro ao carregar js/books.js: ' + e.message); process.exit(1); }
 
-const books = sandbox.window.MEU_BOLSO_BOOKS;
-if (!Array.isArray(books)) { falha('MEU_BOLSO_BOOKS nao e um array'); process.exit(1); }
+const books = sandbox.window.LIVRO_BOOKS;
+if (!Array.isArray(books)) { falha('LIVRO_BOOKS nao e um array'); process.exit(1); }
 
 ok('js/books.js carregado sem erros de sintaxe');
 console.log('  LIVROS: ' + books.length);

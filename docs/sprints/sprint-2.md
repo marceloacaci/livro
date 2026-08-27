@@ -5,7 +5,7 @@
 
 ## Escopo
 - [ ] B11 — unificar domínio de reflexões/localStorage em um módulo (`LivroData`).
-- [ ] B2 — busca/filtro na Home (`index.html`) sobre `MEU_BOLSO_BOOKS`.
+- [ ] B2 — busca/filtro na Home (`index.html`) sobre `LIVRO_BOOKS`.
 - [ ] B8 — Modo Leitura Focada (Zen) no leitor.
 - [ ] Migração para a camada canônica `js/data.js` + `js/main.js` + `js/reader.js`.
 

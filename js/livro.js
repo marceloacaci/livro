@@ -15,7 +15,7 @@
       .replace(/'/g, '&#39;');
   }
 
-  var books = window.MEU_BOLSO_BOOKS || [];
+  var books = window.LIVRO_BOOKS || [];
 
   // btnClearAll e sidebarBookHome são locais do app.js (outro IIFE); buscamos no DOM
   // para não depender de variáveis de escopo alheio (corrige ReferenceError em livro.html).

@@ -65,7 +65,7 @@ export const Router = (() => {
   }
 
   // Atualiza <title> e meta og:/description com os dados do livro ativo.
-  // `book` é o objeto do catálogo (window.MEU_BOLSO_BOOKS[i]).
+  // `book` é o objeto do catálogo (window.LIVRO_BOOKS[i]).
   function applyMeta(book) {
     const ctx = g();
     if (!ctx.document || !book) return;

@@ -1,4 +1,4 @@
-window.MEU_BOLSO_BOOKS=[
+window.LIVRO_BOOKS=[
   {
     "id": "ramsey",
     "slug": "o-poder-da-acao-financeira",

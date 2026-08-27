@@ -2,9 +2,9 @@
  * articles.js — Seção "Artigos Científicos / Teses" (camada canônica).
  *
  * Consome os catálogos gerados pelos workers (scripts clássicos, não-ESM):
- *   window.MEU_BOLSO_ARTICLES_TECNOLOGIA
- *   window.MEU_BOLSO_ARTICLES_IA
- *   window.MEU_BOLSO_ARTICLES_INFORMATICA
+ *   window.LIVRO_ARTICLES_TECNOLOGIA
+ *   window.LIVRO_ARTICLES_IA
+ *   window.LIVRO_ARTICLES_INFORMATICA
  *
  * Diferente dos livros, cada artigo expõe um LINK DIRETO para o PDF salvo
  * localmente na pasta `artigos/<tema>/<slug>.pdf`.
@@ -16,30 +16,31 @@
   'use strict';
 
   // Catálogos por tema (classe CSS de cor + rótulo).
+  // Cada tema consome a global principal + o lote extra (_B2) gerado pelos workers.
   var TEMAS = [
     {
       key: 'tecnologia',
       label: 'Tecnologia',
       color: '#6c5ce7',
-      src: window.MEU_BOLSO_ARTICLES_TECNOLOGIA
+      src: (window.LIVRO_ARTICLES_TECNOLOGIA || []).concat(window.LIVRO_ARTICLES_TECNOLOGIA_B2 || [])
     },
     {
       key: 'ia',
       label: 'Inteligência Artificial',
       color: '#00c2ff',
-      src: window.MEU_BOLSO_ARTICLES_IA
+      src: (window.LIVRO_ARTICLES_IA || []).concat(window.LIVRO_ARTICLES_IA_B2 || [])
     },
     {
       key: 'informatica',
       label: 'Informática',
       color: '#16a085',
-      src: window.MEU_BOLSO_ARTICLES_INFORMATICA
+      src: (window.LIVRO_ARTICLES_INFORMATICA || []).concat(window.LIVRO_ARTICLES_INFORMATICA_B2 || [])
     },
     {
       key: 'teses',
       label: 'Teses',
       color: '#d946ef',
-      src: window.MEU_BOLSO_ARTICLES_TESES
+      src: (window.LIVRO_ARTICLES_TESES || []).concat(window.LIVRO_ARTICLES_TESES_B2 || [])
     }
   ];
 

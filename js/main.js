@@ -18,7 +18,7 @@
 
   var PAGE_SIZE = 10;
   var books = (window.LivroData && window.LivroData.getAllBooks()) ||
-              (window.MEU_BOLSO_BOOKS) || [];
+              (window.LIVRO_BOOKS) || [];
 
   var currentList = books.slice();
   var currentPage = 1;

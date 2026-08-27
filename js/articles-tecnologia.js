@@ -1,8 +1,8 @@
-window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
+window.LIVRO_ARTICLES_TECNOLOGIA = [
   {
     id: '1908.07391',
     title: 'The Rise of Blockchain Technology in Agriculture and Food Supply Chains',
-    authors: 'Andreas Kamilaris, Agusti Fonts, Francesc X. Prenafeta-Boldu',
+    authors: 'Andreas Kamilaris; Agusti Fonts; Francesc X. Prenafeta-Boldu',
     year: 2019,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -13,35 +13,35 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
     tags: ['tecnologia', 'blockchain', 'cadeia-de-suprimento', 'sociedade', 'impacto']
   },
   {
-    id: '1907.09387',
+    id: '1907.09387v1',
     title: 'Application of Data Stream Processing Technologies in Industry 4.0 -- What is Missing?',
-    authors: 'Guenter Hesse, Werner Sinzig, Christoph Matthies, Matthias Uflacker',
+    authors: 'Guenter Hesse; Werner Sinzig; Christoph Matthies; Matthias Uflacker',
     year: 2019,
     venue: 'arXiv',
     tema: 'tecnologia',
     filename: 'industry-4-data-stream.pdf',
     localPath: 'artigos/tecnologia/industry-4-data-stream.pdf',
-    sourceUrl: 'https://arxiv.org/abs/1907.09387',
+    sourceUrl: 'https://arxiv.org/abs/1907.09387v1',
     summary: 'Analisa a aplicação de tecnologias de processamento de fluxo de dados na Indústria 4.0, apontando lacunas entre a promessa da manufatura inteligente e a realidade da implantação.',
     tags: ['tecnologia', 'industria-4.0', 'iot', 'dados', 'sociedade', 'impacto']
   },
   {
-    id: '2411.18199',
+    id: '2411.18199v3',
     title: 'Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges',
-    authors: 'Milin Zhang, Mohammad Abdi, Venkat R. Dasari, Francesco Restuccia',
+    authors: 'Milin Zhang; Mohammad Abdi; Venkat R. Dasari; Francesco Restuccia',
     year: 2024,
     venue: 'arXiv',
     tema: 'tecnologia',
     filename: 'semantic-edge-6g.pdf',
     localPath: 'artigos/tecnologia/semantic-edge-6g.pdf',
-    sourceUrl: 'https://arxiv.org/abs/2411.18199',
+    sourceUrl: 'https://arxiv.org/abs/2411.18199v3',
     summary: 'Survey unificador sobre computação de borda semântica e comunicações semânticas em redes 6G, explorando como a próxima geração de conectividade pode embarcar inteligência nos dispositivos.',
     tags: ['tecnologia', '6g', 'edge-computing', 'comunicacoes', 'emergente']
   },
   {
     id: '2509.02774',
     title: 'Computational Social Science and Critical Studies of Education and Technology: An Improbable Combination?',
-    authors: 'Rebecca Eynon, Nabeel Gillani',
+    authors: 'Rebecca Eynon; Nabeel Gillani',
     year: 2025,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -54,7 +54,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2102.13488',
     title: 'Leveraged Trading on Blockchain Technology',
-    authors: 'Johannes Rude Jensen, Victor von Wachter, Omri Ross',
+    authors: 'Johannes Rude Jensen; Victor von Wachter; Omri Ross',
     year: 2021,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -65,35 +65,35 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
     tags: ['tecnologia', 'blockchain', 'financas', 'sociedade', 'impacto']
   },
   {
-    id: '2012.05411',
+    id: '2012.05411v2',
     title: 'Plasma Switch-Based Technology for High-Speed and High-Power Impedance Tuning',
-    authors: 'Zach Vander Missen, Sergey Macheret, Abbas Semnani, Dimitrios Peroulis',
+    authors: 'Zach Vander Missen; Sergey Macheret; Abbas Semnani; Dimitrios Peroulis',
     year: 2020,
     venue: 'arXiv',
     tema: 'tecnologia',
     filename: 'plasma-switch-impedance.pdf',
     localPath: 'artigos/tecnologia/plasma-switch-impedance.pdf',
-    sourceUrl: 'https://arxiv.org/abs/2012.05411',
+    sourceUrl: 'https://arxiv.org/abs/2012.05411v2',
     summary: 'Introduz uma tecnologia de sintonia de impedância de alta potência baseada em chaves de plasma, demonstrando componentes emergentes para sistemas de comunicação de próxima geração.',
     tags: ['tecnologia', 'hardware', 'rf', 'emergente']
   },
   {
-    id: '2312.05609',
+    id: '2312.05609v1',
     title: 'Comprehensive Analysis of BB84, A Quantum Key Distribution Protocol',
-    authors: 'SujayKumar Reddy M, Chandra Mohan B',
+    authors: 'SujayKumar Reddy M; Chandra Mohan B',
     year: 2023,
     venue: 'arXiv',
     tema: 'tecnologia',
     filename: 'quantum-key-distribution-bb84.pdf',
     localPath: 'artigos/tecnologia/quantum-key-distribution-bb84.pdf',
-    sourceUrl: 'https://arxiv.org/abs/2312.05609',
+    sourceUrl: 'https://arxiv.org/abs/2312.05609v1',
     summary: 'Análise abrangente do protocolo BB84 de distribuição de chaves quânticas, fundamento da criptografia pós-quântica baseada em física, explorando segurança e viabilidade de comunicações quânticas.',
     tags: ['tecnologia', 'computacao-quantica', 'criptografia', 'redes', 'seguranca']
   },
   {
     id: '2106.04906',
     title: 'Engineering-Economic Evaluation of Diffractive Non-Line-Of-Sight Backhaul (e3nb): A Techno-economic Model for 3D Wireless Backhaul Assessment',
-    authors: 'Edward J. Oughton, Erik Boch, Julius Kusuma',
+    authors: 'Edward J. Oughton; Erik Boch; Julius Kusuma',
     year: 2021,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -117,22 +117,22 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
     tags: ['tecnologia', 'redes', 'optico', 'infraestrutura', 'comunicacoes']
   },
   {
-    id: '2009.03164',
+    id: '2009.03164v1',
     title: 'Blockchain-based Privacy Preservation for 5G-enabled Drone Communications',
-    authors: 'Yulei Wu, Hong-Ning Dai, Hao Wang, Kim-Kwang Raymond Choo',
+    authors: 'Yulei Wu; Hong-Ning Dai; Hao Wang; Kim-Kwang Raymond Choo',
     year: 2020,
     venue: 'arXiv',
     tema: 'tecnologia',
     filename: 'blockchain-5g-drone-communications.pdf',
     localPath: 'artigos/tecnologia/blockchain-5g-drone-communications.pdf',
-    sourceUrl: 'https://arxiv.org/abs/2009.03164',
+    sourceUrl: 'https://arxiv.org/abs/2009.03164v1',
     summary: 'Propõe preservação de privacidade baseada em blockchain para comunicações de drones habilitadas por 5G, combinando mobilidade aérea e redes de próxima geração com confiança descentralizada.',
     tags: ['tecnologia', 'blockchain', '5g', 'drones', 'redes', 'seguranca']
   },
   {
     id: '2608.26094v1',
     title: 'MyoMechanix: Biomechanically-Grounded Compositional Skilled Activity Understanding and Coaching',
-    authors: 'Hao Yin, Paritosh Parmar, Lijun Gu, Lin Xu, Tianxiao Guo, Xiujin Liu, Tianyou Zheng, Yang Zhang, Weiwei Fu',
+    authors: 'Hao Yin; Paritosh Parmar; Lijun Gu; Lin Xu; Tianxiao Guo; Xiujin Liu; Tianyou Zheng; Yang Zhang; Weiwei Fu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -145,7 +145,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.26072v1',
     title: 'From Fleet to Lab: Revisiting the Security and Complexity of Industrial Rowhammer Mitigation',
-    authors: 'Hritvik Taneja, Moinuddin Qureshi',
+    authors: 'Hritvik Taneja; Moinuddin Qureshi',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -158,7 +158,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.26049v1',
     title: 'RTLGuard: A Lightweight Teacher-Student Defense for Poisoned RTL Code Generation Models',
-    authors: 'Mahshid Rezakhani, Kimia Azar, Hadi Kamali',
+    authors: 'Mahshid Rezakhani; Kimia Azar; Hadi Kamali',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -171,7 +171,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.26040v1',
     title: 'Adaptive Peer Clustering with Hierarchical Random Linear Network Coding for Resilient Decentralized Wireless Networks',
-    authors: 'Navaneetha Krishnan Kamalakannan, Harinisri Velmurugan',
+    authors: 'Navaneetha Krishnan Kamalakannan; Harinisri Velmurugan',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -184,7 +184,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.26031v1',
     title: 'Vulnerable Code Search: Transferable Attack for Code Language Models',
-    authors: 'Kaicheng Wang, Liyan Huang, Jesse Thomason, Weihang Wang',
+    authors: 'Kaicheng Wang; Liyan Huang; Jesse Thomason; Weihang Wang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -197,7 +197,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.26008v1',
     title: 'A Self-Evolving Multi-Agent Framework Defense against LLM Jailbreak Attacks',
-    authors: 'Tongyan Hu, Bryan Hooi',
+    authors: 'Tongyan Hu; Bryan Hooi',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -210,7 +210,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.26000v1',
     title: 'CardioFusion-AI: Robust ECG--PPG Fusion for Multimodal Physiological Monitoring Under Signal Degradation',
-    authors: 'Navaneetha Krishnan Kamalakannan, Janakiraman Kamalakannan',
+    authors: 'Navaneetha Krishnan Kamalakannan; Janakiraman Kamalakannan',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -223,7 +223,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25996v1',
     title: 'Visualizing Wireless Propagation and Polarization in Augmented Reality with ESPARGOS',
-    authors: 'Florian Euchner, Stephan ten Brink',
+    authors: 'Florian Euchner; Stephan ten Brink',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -236,7 +236,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25955v1',
     title: 'Praxist: From Experimental Artifacts to Solution Lineages',
-    authors: 'Jin Li, Ahmed Murtadha, Zhiyu Wang, Qiwen Chen, William Chen, Yifei Wu, Guan Wang, Andy L. Siy, Jiayi Yang, Mengsha Huang, Wenhao Li, Yixuan Liu, Shuailin Pan, Mingli Yuan, Sen Song, Yuhao Sun',
+    authors: 'Jin Li; Ahmed Murtadha; Zhiyu Wang; Qiwen Chen; William Chen; Yifei Wu; Guan Wang; Andy L. Siy; Jiayi Yang; Mengsha Huang; Wenhao Li; Yixuan Liu; Shuailin Pan; Mingli Yuan; Sen Song; Yuhao Sun',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -249,7 +249,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25939v1',
     title: 'XREPOTEST: Benchmarking Multilingual Repository-Level Unit Test Generation for Large Language Models',
-    authors: 'Dung Le Quang, Dong Cao Van, Nam Le Hai, Linh Ngo Van, Anh M. T. Bui, Phuong T. Nguyen',
+    authors: 'Dung Le Quang; Dong Cao Van; Nam Le Hai; Linh Ngo Van; Anh M. T. Bui; Phuong T. Nguyen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -262,7 +262,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25920v1',
     title: 'Repair or Resample? Rethinking Failure Debugging in LLM Multi-Agent Systems',
-    authors: 'Zhongwen Luan, Xiaoyu Zhang, Ming Hu, Yue Yang, Jiongchi Yu, Xiaohong Chen',
+    authors: 'Zhongwen Luan; Xiaoyu Zhang; Ming Hu; Yue Yang; Jiongchi Yu; Xiaohong Chen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -275,7 +275,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25905v1',
     title: 'Answer Is Cheap, Show Me the Evidence! Augmenting Automated Vulnerability Assessment with Evidence',
-    authors: 'Shengyi Pan, Zelong Zheng, Jiayuan Zhou, Xing Hu, Xin Xia, Shanping Li',
+    authors: 'Shengyi Pan; Zelong Zheng; Jiayuan Zhou; Xing Hu; Xin Xia; Shanping Li',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -288,7 +288,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25880v1',
     title: 'Beyond the Editing Canvas: Evidence Divergence in OOXML-to-LLM Ingestion',
-    authors: 'Side Liu, Jiangpeng Liu, Jinwen Xin, Guojun Peng, Jiang Ming',
+    authors: 'Side Liu; Jiangpeng Liu; Jinwen Xin; Guojun Peng; Jiang Ming',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -301,7 +301,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25877v1',
     title: 'A Hybrid Security Framework for Mini-Programs: Visual UI Compliance and Network Risk Assessment',
-    authors: 'Panpan Shen, Lei Xie, Xiaoqi Li',
+    authors: 'Panpan Shen; Lei Xie; Xiaoqi Li',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -314,7 +314,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25847v1',
     title: 'Efficient DCT-Based Estimation and Compensation of Nonlinear Channels for OFDM Systems',
-    authors: 'Marc Martinez-Gost, Ana Pérez-Neira, Miguel Ángel Lagunas',
+    authors: 'Marc Martinez-Gost; Ana Pérez-Neira; Miguel Ángel Lagunas',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -327,7 +327,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25846v1',
     title: 'Why ML-based cough models do not generalize: a systematic cross-dataset evaluation for tuberculosis screening',
-    authors: 'Wensi Zhang, Tomas Teijeiro, Jérôme Thevenot, David Atienza',
+    authors: 'Wensi Zhang; Tomas Teijeiro; Jérôme Thevenot; David Atienza',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -352,21 +352,21 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   },
   {
     id: '2608.25834v1',
-    title: "SlimTCP: It's fast, but not because it's slim",
-    authors: 'Mihai Drosi Caju, Costin Raiciu',
+    title: 'SlimTCP: It\'s fast, but not because it\'s slim',
+    authors: 'Mihai Drosi Caju; Costin Raiciu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
     filename: 'slimtcp-it-s-fast-but-not-because-it-s-slim.pdf',
     localPath: 'artigos/tecnologia/slimtcp-it-s-fast-but-not-because-it-s-slim.pdf',
     sourceUrl: 'https://arxiv.org/abs/2608.25834v1',
-    summary: "Artigo \"SlimTCP: It's fast, but not because it's slim\" (2026, arXiv, Redes e Comunicação). Discute temas de redes e comunicação no contexto da tecnologia, integrando o acervo científico do tema.",
+    summary: 'Artigo "SlimTCP: It\\\'s fast, but not because it\\\'s slim" (arXiv). Discute temas de tecnologia no contexto do acervo científico do tema.',
     tags: ['tecnologia', 'csni']
   },
   {
     id: '2608.25820v1',
     title: 'Open-Source 5G RAN Platforms: A Dual Perspective on Performance and Capabilities',
-    authors: 'Maria Katarine Santana Barbosa, Iasmin Gomes, Vinícius Melo, Kelvin Lopes Dias',
+    authors: 'Maria Katarine Santana Barbosa; Iasmin Gomes; Vinícius Melo; Kelvin Lopes Dias',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -379,7 +379,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25817v1',
     title: 'SkillShield: Prompt-Space Security Skills for LLM Coding Agents',
-    authors: 'Xiaodong Wu, Zhimin Zhao, Qi Li, Xiangman Li, Yu Shi, Bram Adams, Jianbing Ni',
+    authors: 'Xiaodong Wu; Zhimin Zhao; Qi Li; Xiangman Li; Yu Shi; Bram Adams; Jianbing Ni',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -392,7 +392,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25803v1',
     title: 'Generative AI-Enabled Mission-Aware Radio Orchestration for RIS-Assisted LEO Satellite ISAC Systems',
-    authors: 'Fitsum Debebe Tilahun, Chung G. Kang',
+    authors: 'Fitsum Debebe Tilahun; Chung G. Kang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -405,7 +405,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25801v1',
     title: 'Simultaneous Digital Communication and Deformation Sensing over a Single Stretchable Interconnect',
-    authors: 'Yuji Isano, Hiroki Ota',
+    authors: 'Yuji Isano; Hiroki Ota',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -418,7 +418,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25794v1',
     title: 'Cooperative Multi-Agent Reinforcement Learning for Adaptive Aggregation in Semi-Supervised Federated Learning with non-IID Data',
-    authors: 'Rene Glitza, Luca Becker, Rainer Martin',
+    authors: 'Rene Glitza; Luca Becker; Rainer Martin',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -431,7 +431,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25793v1',
     title: 'Closing the Gap: Automated Discovery of Secure Dockerfile Reference Standards via Semantic Clustering in Enterprise Inner Source',
-    authors: 'Jessica Hösl, Benedikt Hofmann, Patrick Stöckle',
+    authors: 'Jessica Hösl; Benedikt Hofmann; Patrick Stöckle',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -444,7 +444,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25781v1',
     title: 'Update Disturbance-Resilient Analog ReRAM Crossbar Arrays for In-Memory Deep Learning Accelerators',
-    authors: 'Wooseok Choi, Tommaso Stecconi, Donato Francesco Falcone, Matteo Galetta, Victoria Clerico, Elisa Zaccaria, Mamidala Saketh Ram, Antonio La Porta, Folkert Horst, Daniel Jubin, Matias Senger, Marilyne Sousa, Steffen Reidt, Ralph Heller, Bernabe Linares-Barranco, Valeria Bragaglia, Bert Jan Offrein',
+    authors: 'Wooseok Choi; Tommaso Stecconi; Donato Francesco Falcone; Matteo Galetta; Victoria Clerico; Elisa Zaccaria; Mamidala Saketh Ram; Antonio La Porta; Folkert Horst; Daniel Jubin; Matias Senger; Marilyne Sousa; Steffen Reidt; Ralph Heller; Bernabe Linares-Barranco; Valeria Bragaglia; Bert Jan Offrein',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -457,7 +457,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25776v1',
     title: 'EVOMAL: Self-Poisoning in Self-Evolving Coding Agents',
-    authors: 'Xiaodong Wu, Yu Shi, Qi Li, Zhimin Zhao, Xiangman Li, Bram Adams, Ahmed E. Hassan, Jianbing Ni',
+    authors: 'Xiaodong Wu; Yu Shi; Qi Li; Zhimin Zhao; Xiangman Li; Bram Adams; Ahmed E. Hassan; Jianbing Ni',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -470,7 +470,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25769v1',
     title: 'Predicting Struggling Students in CS1 Programming Using Keystroke-Level Editing Features',
-    authors: 'Yasuyo Kofune, Kazumasa Shimari, Kenichi Matsumoto',
+    authors: 'Yasuyo Kofune; Kazumasa Shimari; Kenichi Matsumoto',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -483,7 +483,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25767v1',
     title: 'Study of Resistive Switching Dynamics and Memory States Equilibria in Analog Filamentary Conductive-Metal-Oxide/HfOx ReRAM via Compact Modeling',
-    authors: 'Matteo Galetta, Donato Francesco Falcone, Victoria Clerico, Wooseok Choi, Stephan Menzel, Antonio La Porta, Tommaso Stecconi, Folkert Horst, Bert Jan Offrein, Valeria Bragaglia',
+    authors: 'Matteo Galetta; Donato Francesco Falcone; Victoria Clerico; Wooseok Choi; Stephan Menzel; Antonio La Porta; Tommaso Stecconi; Folkert Horst; Bert Jan Offrein; Valeria Bragaglia',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -496,7 +496,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25750v1',
     title: 'Toward Interpretable Privacy Guarantees in Face-Swapping Anonymization',
-    authors: 'Vishnu Bondalakunta, Arman Zareian Jahromi, Shuangqing Wei, George Amariucai',
+    authors: 'Vishnu Bondalakunta; Arman Zareian Jahromi; Shuangqing Wei; George Amariucai',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -509,7 +509,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25738v1',
     title: 'MeMark: Membrane-Space Watermarking for Spiking Neural Networks',
-    authors: 'Roberto Riaño, Gorka Abad, Stjepan Picek, Aitor Urbieta',
+    authors: 'Roberto Riaño; Gorka Abad; Stjepan Picek; Aitor Urbieta',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -522,7 +522,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25735v1',
     title: 'Pointing the Way, Hiding the Destination: Practical Private Dense Retrieval at Scale',
-    authors: 'Peichun Hua, Danyang Chen, Junan Zhang, Haifeng Sun, Jingyu Wang, Diwen Xue, Mingyu Li, Yunming Xiao',
+    authors: 'Peichun Hua; Danyang Chen; Junan Zhang; Haifeng Sun; Jingyu Wang; Diwen Xue; Mingyu Li; Yunming Xiao',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -535,7 +535,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25730v1',
     title: 'From Verdict to Diagnosis: Attributable Security Review of Pull Requests',
-    authors: 'Zhuo Chen, Boyang Wang, Xiyue Zhang, Xiaoyun Xu, Ahmad-Reza Sadeghi, Stjepan Picek, Lichao Wu',
+    authors: 'Zhuo Chen; Boyang Wang; Xiyue Zhang; Xiaoyun Xu; Ahmad-Reza Sadeghi; Stjepan Picek; Lichao Wu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -548,7 +548,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25727v1',
     title: 'Are LLM-Enhanced GNNs Privacy-Safe?',
-    authors: 'Longzhu He, Zelang Wen, Chaozhuo Li, Sen Su',
+    authors: 'Longzhu He; Zelang Wen; Chaozhuo Li; Sen Su',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -561,7 +561,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25711v1',
     title: 'Reassembling Distributed Risk: Trajectory-Conditioned Action Generation for Multi-Turn Agent Safety',
-    authors: 'Yanbo Dai, Zhenlan Ji, Zongjie Li, Shuai Wang',
+    authors: 'Yanbo Dai; Zhenlan Ji; Zongjie Li; Shuai Wang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -574,7 +574,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25697v1',
     title: 'LMSM: LLM Security Framework Inspired by Linux Security Modules',
-    authors: 'XiuYu Zhang, Bonan Ruan, Junfeng Fang, An Zhang, Tat-Seng Chua, Zhenkai Liang',
+    authors: 'XiuYu Zhang; Bonan Ruan; Junfeng Fang; An Zhang; Tat-Seng Chua; Zhenkai Liang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -587,7 +587,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25694v1',
     title: 'Semi-Blind Channel Estimation for Dynamic NTN Systems via Spiked Random Matrix Theory',
-    authors: 'Xue Zhang, Abla Kammoun, Mohamed-Slim Alouini',
+    authors: 'Xue Zhang; Abla Kammoun; Mohamed-Slim Alouini',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -600,7 +600,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25681v1',
     title: 'Adversarial Training of Linear Models under Stealthy Attacks',
-    authors: 'Lovisa Eriksson, Dave Zachariah, André M. H. Teixeira',
+    authors: 'Lovisa Eriksson; Dave Zachariah; André M. H. Teixeira',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -613,7 +613,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25670v1',
     title: 'An Analysis of the Impact of Psychological Factors and Techniques Across Different Types of Social Engineering',
-    authors: 'Helin Omer, Daniela Pöhn',
+    authors: 'Helin Omer; Daniela Pöhn',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -626,7 +626,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25667v1',
     title: 'AI Slop and Hallucinations in Vulnerability Assessment: A Survey on Reasoning Failures and Trustworthy Mitigation',
-    authors: 'Junchen Ding, Jialiang Dong, Yichen Zhu, Yi Liu, Gelei Deng, Willy Susilo, Siqi Ma, Yuekang Li',
+    authors: 'Junchen Ding; Jialiang Dong; Yichen Zhu; Yi Liu; Gelei Deng; Willy Susilo; Siqi Ma; Yuekang Li',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -639,7 +639,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25661v1',
     title: 'From General Agents to RCA Experts: A Self-Evolving Harness for Root Cause Analysis',
-    authors: 'Haiyu Huang, Jiewei Lyu, Zhihan Jiang, Jinyang Liu, Xiao He, Tieying Zhang, Wu Xiang, Michael R. Lyu',
+    authors: 'Haiyu Huang; Jiewei Lyu; Zhihan Jiang; Jinyang Liu; Xiao He; Tieying Zhang; Wu Xiang; Michael R. Lyu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -652,7 +652,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25658v1',
     title: 'Stochastic End-to-End Latency Modeling of the IoT-Edge-Cloud Continuum: Impact of Jitter and Traffic Variability on Deterministic Service Provisioning',
-    authors: 'Keyvan Aghababaiyan, Javier Gozalvez, Baldomero Coll-Perales',
+    authors: 'Keyvan Aghababaiyan; Javier Gozalvez; Baldomero Coll-Perales',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -665,7 +665,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25657v1',
     title: 'Narcissus: Program Synthesis Using Context-Aware LLM Approximations',
-    authors: 'Tilman Hinnerichs, Sebastijan Dumancic, Neil Yorke-Smith',
+    authors: 'Tilman Hinnerichs; Sebastijan Dumancic; Neil Yorke-Smith',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -678,7 +678,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25634v1',
     title: 'Statistical Analysis of Primary and Random Clusters in 318 GHz Terahertz Channels for Industrial IoT',
-    authors: 'Siyuan Shao, Peize Zhang, Pekka Kyösti, Trung Q. Duong, Simon L. Cotton',
+    authors: 'Siyuan Shao; Peize Zhang; Pekka Kyösti; Trung Q. Duong; Simon L. Cotton',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -691,7 +691,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25612v1',
     title: 'A Subcarrier-Aware Approach for Robust Respiratory Monitoring with Commodity Wi-Fi',
-    authors: 'Pei Tang, Yunpeng Ge, Ivan Wang-Hei Ho',
+    authors: 'Pei Tang; Yunpeng Ge; Ivan Wang-Hei Ho',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -704,7 +704,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25600v1',
     title: 'Defending the Peg: Real-Time Dynamic Protection and Anomaly Detection in DeFi Stablecoins',
-    authors: 'Hengxing Zeng, Shipeng Ye, Xiaoqi Li',
+    authors: 'Hengxing Zeng; Shipeng Ye; Xiaoqi Li',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -717,7 +717,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25597v1',
     title: 'Multi-UE Networked Sensing: A New Paradigm for 6G Perceptive Mobile Networks',
-    authors: 'J. Andrew Zhang, Jingying Bao, Kai Wu, Henk Wymeersch, Christos Masouros, Y. Jay Guo',
+    authors: 'J. Andrew Zhang; Jingying Bao; Kai Wu; Henk Wymeersch; Christos Masouros; Y. Jay Guo',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -730,7 +730,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25589v1',
     title: 'Power from Space: Coordinated Satellite Charging for Off-Grid Wireless Systems',
-    authors: 'Osmel M. Rosabal, Amirhossein Azarbahram, Mateen Ashraf, Mohammad Shehab, Abdul Basit Khattak, Onel L. A. López, Mohamed-Slim Alouini',
+    authors: 'Osmel M. Rosabal; Amirhossein Azarbahram; Mateen Ashraf; Mohammad Shehab; Abdul Basit Khattak; Onel L. A. López; Mohamed-Slim Alouini',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -743,7 +743,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25573v1',
     title: 'DBcover: A White-box SQL Test Generation Framework for Coverage Improvement',
-    authors: 'Yankai Rong, Shuang Liu, Jinhao Dong, Qiang Yin, Wei Lu, Jianhua Wang, Xiaoyong Du',
+    authors: 'Yankai Rong; Shuang Liu; Jinhao Dong; Qiang Yin; Wei Lu; Jianhua Wang; Xiaoyong Du',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -756,7 +756,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25550v1',
     title: 'A Hybrid Usability Approach for Rating Evaluation of M-Commerce Applications',
-    authors: 'Ahmad Ibtisam, Bilal Khan, Arshad Ali',
+    authors: 'Ahmad Ibtisam; Bilal Khan; Arshad Ali',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -769,7 +769,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25535v1',
     title: 'Resilient Decentralized Wireless Federated Learning via Gradient Tracking with AdamW',
-    authors: 'Nguyen Van Thieu, Ti Ti Nguyen, Ons Aouedi, Vu Nguyen Ha, Symeon Chatzinotas',
+    authors: 'Nguyen Van Thieu; Ti Ti Nguyen; Ons Aouedi; Vu Nguyen Ha; Symeon Chatzinotas',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -782,7 +782,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25512v1',
     title: 'A Programming Paradigm for Spatiotemporal Composability',
-    authors: 'Yifan Shi, Wei Zhang, Tianyi Cui',
+    authors: 'Yifan Shi; Wei Zhang; Tianyi Cui',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -795,7 +795,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25510v1',
     title: 'Near-Field Dual-UPA Communications: A Generalized Geometric Approach',
-    authors: 'Li Zheng, Xing Hao, Ziru Chen, Yong Liu, Li Chen, Lin X. Cai',
+    authors: 'Li Zheng; Xing Hao; Ziru Chen; Yong Liu; Li Chen; Lin X. Cai',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -808,7 +808,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25490v1',
     title: 'MMJailBench: A Factorized Benchmark for Disentangling Multimodal Jailbreak Vulnerabilities',
-    authors: 'Tianshi Wang, Jingsong Wang, Yafei Huang, Fengling Li, Xin Li, Lei Zhu',
+    authors: 'Tianshi Wang; Jingsong Wang; Yafei Huang; Fengling Li; Xin Li; Lei Zhu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -821,7 +821,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25477v1',
     title: 'AERIS: Offline Policy Improvement for Multi-UAV Integrated Sensing and Communication',
-    authors: 'Ziyuan Wang, Yifan Sui, Wei Wei, Wenjie Xin, Zekai Zhang, Xiangwang Hou, Xiao-Ping, Zhang',
+    authors: 'Ziyuan Wang; Yifan Sui; Wei Wei; Wenjie Xin; Zekai Zhang; Xiangwang Hou; Xiao-Ping; Zhang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -834,7 +834,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25474v1',
     title: 'Separating Disclosure from Authorization: Field-Tier Minimization for Agent Action Mediation',
-    authors: 'Jiten Oswal, John Cadeddu',
+    authors: 'Jiten Oswal; John Cadeddu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -847,7 +847,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25457v1',
     title: 'MACGen: Toward Functionally Correct and Secure Code Generation via Multi-Agent Collaboration',
-    authors: 'Miseon Yu, Jaehoon Choi, Younghan Lee, Yunheung Paek',
+    authors: 'Miseon Yu; Jaehoon Choi; Younghan Lee; Yunheung Paek',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -860,7 +860,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25442v1',
     title: 'E2-Conditioned Finite-Horizon Effective Capacity for Public-Safety MCX over Shared O-RAN',
-    authors: 'Jingqing Wang, Wenchi Cheng',
+    authors: 'Jingqing Wang; Wenchi Cheng',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -873,7 +873,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25433v1',
     title: 'BeamGuard: Risk-Aware Multimodal Beam Forecasting and Adaptive Virtual Beamwidth Control for 6G mmWave V2I Links',
-    authors: 'Abidemi Orimogunje, Dejan Vukobratovic, Sunwoo Kim, Igbafe Orikumhi, Vukan Ninkovic, Evariste Twahirwa, Gaspard Gashema',
+    authors: 'Abidemi Orimogunje; Dejan Vukobratovic; Sunwoo Kim; Igbafe Orikumhi; Vukan Ninkovic; Evariste Twahirwa; Gaspard Gashema',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -886,7 +886,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25431v1',
     title: 'Here is a GIFT: Enforcing User Data Isolation in LLM Serving via GPU Information Flow Tracking',
-    authors: 'Jiacheng Shi, Xunjie Wang, Cheng Tan, Jinyu Gu',
+    authors: 'Jiacheng Shi; Xunjie Wang; Cheng Tan; Jinyu Gu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -899,7 +899,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25425v1',
     title: 'RotDroid: Cross-Orientation State Equivalence Testing for Detecting GUI Rotation Bugs in Android Apps',
-    authors: 'Mengdi Qin, Bo Jiang',
+    authors: 'Mengdi Qin; Bo Jiang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -912,7 +912,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25410v1',
     title: 'Token-Oriented Semantic Communication with Pretrained Vision Transformers',
-    authors: 'Jiwoong Im, Minwoo Kim, Jaeho Lee, Yo-Seb Jeon, Yongjune Kim',
+    authors: 'Jiwoong Im; Minwoo Kim; Jaeho Lee; Yo-Seb Jeon; Yongjune Kim',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -925,7 +925,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25403v1',
     title: 'Retry Amplification in Distributed Systems: A Systematic Analysis of Retry Policies and Their Role in Cascading Failures',
-    authors: 'Rishabh Mehan, Jasmit Kaur Saluja',
+    authors: 'Rishabh Mehan; Jasmit Kaur Saluja',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -938,7 +938,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25402v1',
     title: 'Lightweight AI for UAV-Mounted RIS: An Overview',
-    authors: 'Sherief Hashima, Kohei Hatano, Eiji Takimoto, Mohamed Rihan, Basem. M. Elhalawany, Hamada Rizk',
+    authors: 'Sherief Hashima; Kohei Hatano; Eiji Takimoto; Mohamed Rihan; Basem. M. Elhalawany; Hamada Rizk',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -951,7 +951,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25396v1',
     title: 'SPFR: Semantic Potential Field Routing for the Distributed Internet of Agents',
-    authors: 'Yeguang Qin, Liangqi Peng, Fengxiao Tang, Ming Zhao',
+    authors: 'Yeguang Qin; Liangqi Peng; Fengxiao Tang; Ming Zhao',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -964,7 +964,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25393v1',
     title: 'End-to-End Mobility-Aware Multi-RIS Optimization via Blockage Detection and Closed-Form Riemannian Updates',
-    authors: 'Sehyun Ryu, Seungmin Choi, Hyun Jong Yang, John M. Cioffi',
+    authors: 'Sehyun Ryu; Seungmin Choi; Hyun Jong Yang; John M. Cioffi',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -990,7 +990,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25383v1',
     title: 'Traffic-Adaptive Per-Hop Multipath Routing in Multi-Hop UAV Networks',
-    authors: 'Zhenyu Zhao, Tiankui Zhang, Xiaoxia Xu, Yuanpeng Zheng, Junjie Li, Wenjuan Xing',
+    authors: 'Zhenyu Zhao; Tiankui Zhang; Xiaoxia Xu; Yuanpeng Zheng; Junjie Li; Wenjuan Xing',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1003,7 +1003,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25378v1',
     title: 'Analog Time-Frequency Analysis and Frequency Measurement of Ultra-Wideband Microwave Signals via Dual-Comb Channelization',
-    authors: 'Taixia Shi, Wentao Ma, Fangzheng Zhang, Yang Chen',
+    authors: 'Taixia Shi; Wentao Ma; Fangzheng Zhang; Yang Chen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1016,7 +1016,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25376v1',
     title: 'GPU-Accelerated Quantum Annealing-Inspired UAV Path Planning for Smart Agriculture',
-    authors: 'Maho Hirahara, Aohan Li',
+    authors: 'Maho Hirahara; Aohan Li',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1029,7 +1029,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25373v1',
     title: 'Designing Core Layer in Campus Network Using Software-Defined Networking',
-    authors: 'Iwan Setiawan, Azis Wisnu Widhi Nugraha, Sauqi Asrorul Zaza',
+    authors: 'Iwan Setiawan; Azis Wisnu Widhi Nugraha; Sauqi Asrorul Zaza',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1042,7 +1042,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25371v1',
     title: 'Capacity Overflow: A Blind Spot for Backdoor Attacks in Vision MoE',
-    authors: 'Xiaocheng Zou, Tiancheng Zheng, Xiaolin Xu, Ruyi Ding',
+    authors: 'Xiaocheng Zou; Tiancheng Zheng; Xiaolin Xu; Ruyi Ding',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1055,7 +1055,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25348v1',
     title: 'Point-in-Time Audit Before Alpha: Public-Archive Availability and a Negative Matched-Budget Study on BTC Perpetual Futures',
-    authors: 'Baocheng Zeng, Jinhao Yang, Peilin Han, Kangnan He',
+    authors: 'Baocheng Zeng; Jinhao Yang; Peilin Han; Kangnan He',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1081,7 +1081,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25321v1',
     title: 'LLMscope: Extracting LLM Assets from Edge AI Chips via Optical Probing',
-    authors: 'Dev Mehta, Lily Dukette, William Folan, Olivia Kochol, Noah Solomon, Shahin Tajik, Fatemeh Ganji',
+    authors: 'Dev Mehta; Lily Dukette; William Folan; Olivia Kochol; Noah Solomon; Shahin Tajik; Fatemeh Ganji',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1094,7 +1094,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25301v1',
     title: 'Security-Aware Pinching-Antenna Systems (PASS): Physical-Layer Security Transmission',
-    authors: 'Zhaoming Hu, Xiaochen Nie, Ruikang Zhong, Haochen Li, Dengao Li, Xidong Mu',
+    authors: 'Zhaoming Hu; Xiaochen Nie; Ruikang Zhong; Haochen Li; Dengao Li; Xidong Mu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1107,7 +1107,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25292v1',
     title: 'Rethinking Battery-free Sensing Communication via Wake-up Radios',
-    authors: 'Gaosheng Liu, Kasim Sinan Yildirim, Sajal K. Das, Yingxin Song',
+    authors: 'Gaosheng Liu; Kasim Sinan Yildirim; Sajal K. Das; Yingxin Song',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1120,7 +1120,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25269v1',
     title: 'RWA-PoB: A Credential-Based Proof-of-Backing Framework for Tokenized U.S. Treasury Products',
-    authors: 'Rischan Mafrur, Gun Gun Febrianza, Sean Foley',
+    authors: 'Rischan Mafrur; Gun Gun Febrianza; Sean Foley',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1133,7 +1133,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25241v1',
     title: 'A Few Pages of Markdown: Committed AI Configuration and Lower Quality Cost after Coding-Agent Adoption',
-    authors: 'Yegor Denisov-Blanch, Shyam Agarwal, Pavel Azaletskiy, Hao He, Rylan Schaeffer, Brando Miranda, Bogdan Vasilescu, Sanmi Koyejo',
+    authors: 'Yegor Denisov-Blanch; Shyam Agarwal; Pavel Azaletskiy; Hao He; Rylan Schaeffer; Brando Miranda; Bogdan Vasilescu; Sanmi Koyejo',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1146,7 +1146,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25235v1',
     title: 'Multi-View Trust Evaluation for Collaborator Selection via Evidential Deep Learning',
-    authors: 'Botao Zhu, Xianbin Wang',
+    authors: 'Botao Zhu; Xianbin Wang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1159,7 +1159,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25216v1',
     title: 'Automotive HSMs - Architectural Challenges and Security Implications',
-    authors: 'Krishna Teja Medam, Austin Bruce',
+    authors: 'Krishna Teja Medam; Austin Bruce',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1172,7 +1172,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25206v1',
     title: 'Authenticated Data Structures for Dynamic Workloads',
-    authors: 'Ziheng Shangguan, Aviv Yaish, Dahlia Malkhi',
+    authors: 'Ziheng Shangguan; Aviv Yaish; Dahlia Malkhi',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1185,7 +1185,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25202v1',
     title: 'SPECMINE: A Large-Scale Corpus of Spec-Driven Development Artifacts',
-    authors: 'Shyam Agarwal, Bogdan Vasilescu',
+    authors: 'Shyam Agarwal; Bogdan Vasilescu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1198,7 +1198,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25193v1',
     title: 'Simulating Cognitive Smart Freight Corridors with Agent-Based Models and Reinforcement Learning',
-    authors: 'Madelaine Martinez-Ferguson, Chun Wang, Mustafa Can Camur, Xueping Li',
+    authors: 'Madelaine Martinez-Ferguson; Chun Wang; Mustafa Can Camur; Xueping Li',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1211,7 +1211,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25174v1',
     title: 'Model-Based Agentic Software Engineering',
-    authors: 'James C. Davis, Kelechi Kalu, Huiyun Peng, Parth V. Patil',
+    authors: 'James C. Davis; Kelechi Kalu; Huiyun Peng; Parth V. Patil',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1224,7 +1224,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25165v1',
     title: 'BGPay: An Incentive-Compatible Mechanism for BGP Hijack Filtering',
-    authors: 'Tomasz Sadowy, Constantine Doumanidis, Maria Apostolaki',
+    authors: 'Tomasz Sadowy; Constantine Doumanidis; Maria Apostolaki',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1237,7 +1237,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25158v1',
     title: 'FuzzingBrain-Bench V1: Evaluating Open-Ended Bug Discovery by LLMs',
-    authors: 'Ze Sheng, Aleksandar Kezic, Zhicheng Chen, Jeff Huang',
+    authors: 'Ze Sheng; Aleksandar Kezic; Zhicheng Chen; Jeff Huang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1263,7 +1263,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25133v1',
     title: 'Rethinking the Transferable Adversarial Attacks and Robust Defense in Federated Learning',
-    authors: 'Zuobin Xiong, Deval Mukherjee, Homook Cho, Wei Li',
+    authors: 'Zuobin Xiong; Deval Mukherjee; Homook Cho; Wei Li',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1289,7 +1289,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25091v1',
     title: 'Auto-Policy, not Auto-Skill: Compiled Agent Skills for the Physical World',
-    authors: 'Zhonghao Zhan, Hamed Haddadi',
+    authors: 'Zhonghao Zhan; Hamed Haddadi',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1302,7 +1302,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.25050v1',
     title: 'ARISMA: Guidelines for AI- and LLM-Assisted Systematic Reviews, Scoping Reviews, and Mapping Studies',
-    authors: 'Mahyar Tourchi Moghaddam, Mina Alipour',
+    authors: 'Mahyar Tourchi Moghaddam; Mina Alipour',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1315,7 +1315,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24880v1',
     title: 'Coherent Direct D-MIMO Localization',
-    authors: "Benjamin J. B. Deutschmann, Lukas D'Angelo, Erik Leitinger, Klaus Witrisal",
+    authors: 'Benjamin J. B. Deutschmann; Lukas D\'Angelo; Erik Leitinger; Klaus Witrisal',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1328,7 +1328,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24857v1',
     title: 'Prompt Structure Redistributes, Not Reduces: An Empirical Analysis of Security-Weaknesses in LLM-Generated Python Code',
-    authors: 'Maitreyee Das Urmi, Jessica Pourleyli, Fabio Santos, Glaucia Melo',
+    authors: 'Maitreyee Das Urmi; Jessica Pourleyli; Fabio Santos; Glaucia Melo',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1354,7 +1354,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24841v1',
     title: 'Next-generation O-RAN Edge: Energy-aware Joint Placement and Migration of Cloud-Native Functions',
-    authors: 'Nguyen Phuc Tran, Brigitte Jaumard, Oscar Delgado',
+    authors: 'Nguyen Phuc Tran; Brigitte Jaumard; Oscar Delgado',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1367,7 +1367,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24839v1',
     title: 'HORIZON: A Read-Efficient Firmware for DNA Storage with Horizontal Layout',
-    authors: 'Alex Sensintaffar, Roop Kiran, Yang Chen, Mai Zheng, Bingzhe Li',
+    authors: 'Alex Sensintaffar; Roop Kiran; Yang Chen; Mai Zheng; Bingzhe Li',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1380,7 +1380,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24832v1',
     title: 'Certified Randomness without Structure Against Shallow-Query Adversaries',
-    authors: 'Dakshita Khurana, Bhaskar Roberts, Avishay Tal',
+    authors: 'Dakshita Khurana; Bhaskar Roberts; Avishay Tal',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1393,7 +1393,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24819v1',
     title: 'Reliability Limits and Decoding for Partial Nanopore Protein Rereads With Persistent State',
-    authors: 'Hongbin Ni, Haofan Dong, Ozgur B. Akan',
+    authors: 'Hongbin Ni; Haofan Dong; Ozgur B. Akan',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1406,7 +1406,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24979v1',
     title: 'FrontierChallenge: Evaluating Scientific Workflow Completion',
-    authors: 'Liangcai Su, Zhaopeng Feng, Zhuo Chen, Zhen Zhang, Xiang Lin, Ruilin Li, Handuo Zhang, Ning Wang, Kailong Wen, Yueqi Guo, Feng Xing, Yiling Guo, Chenxiong Qian, Simon Shaolei Du, Lidong Bing, Xinyu Wang',
+    authors: 'Liangcai Su; Zhaopeng Feng; Zhuo Chen; Zhen Zhang; Xiang Lin; Ruilin Li; Handuo Zhang; Ning Wang; Kailong Wen; Yueqi Guo; Feng Xing; Yiling Guo; Chenxiong Qian; Simon Shaolei Du; Lidong Bing; Xinyu Wang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1419,7 +1419,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24807v1',
     title: 'Automatic Model Card Generation Using an LLM',
-    authors: 'Tajkia Rahman Toma, Balreet Grewal, Cor-Paul Bezemer',
+    authors: 'Tajkia Rahman Toma; Balreet Grewal; Cor-Paul Bezemer',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1432,7 +1432,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24806v1',
     title: 'Effects of Quantum Noise and Source Blurring on Dark-Field Signal Retrieval in X-ray Speckle-Based Imaging',
-    authors: 'Hunwoo Lee, Jingcheng Yuan, Mini Das',
+    authors: 'Hunwoo Lee; Jingcheng Yuan; Mini Das',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1445,7 +1445,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24804v1',
     title: 'StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments',
-    authors: 'Esakkivel Esakkiraja, Denis Akhiyarov, Vikas Yadav, Sai Rajeswar, Patrice Bechard, Sridhar Nemala, Sagar Davasam',
+    authors: 'Esakkivel Esakkiraja; Denis Akhiyarov; Vikas Yadav; Sai Rajeswar; Patrice Bechard; Sridhar Nemala; Sagar Davasam',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1458,7 +1458,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24799v1',
     title: 'Masked Differential-linear Distinguishers and Quantum Approaches',
-    authors: 'Shobhit Pandey, Sarbani Sen, Debajyoti Bera, Ravi Anand',
+    authors: 'Shobhit Pandey; Sarbani Sen; Debajyoti Bera; Ravi Anand',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1471,7 +1471,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24798v1',
     title: 'Rotatable Antenna Relaying: Joint Precoding and Antenna Pointing Design',
-    authors: 'Ying Gao, Qingqing Wu, Wen Chen',
+    authors: 'Ying Gao; Qingqing Wu; Wen Chen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1484,7 +1484,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24778v1',
     title: 'Security Education in Higher Education through AI-Powered Gamification',
-    authors: 'Bingjun Li, Christopher Buzaid, Weihao Qu',
+    authors: 'Bingjun Li; Christopher Buzaid; Weihao Qu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1497,7 +1497,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24977v1',
     title: 'Retrieved But Not Reliable: A Survey on Attacks, and Defenses in Retrieval-Augmented Generation',
-    authors: 'Minh Tran, Cuong Dang, Tuc Nguyen, Khanh-Tung Tran, Minh Huynh Nguyen, Trinh Chau, Kien Le, Do Xuan Long, Jiahao Zhang, Hoang D. Nguyen, Thanh Le, Suhang Wang',
+    authors: 'Minh Tran; Cuong Dang; Tuc Nguyen; Khanh-Tung Tran; Minh Huynh Nguyen; Trinh Chau; Kien Le; Do Xuan Long; Jiahao Zhang; Hoang D. Nguyen; Thanh Le; Suhang Wang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1510,7 +1510,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24777v1',
     title: 'StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing',
-    authors: 'Zhijie Zheng, Yu Li, Chen Qian, Yuqian Fu, Yanwei Fu, Lu Sheng, Jing Shao, Dongrui Liu',
+    authors: 'Zhijie Zheng; Yu Li; Chen Qian; Yuqian Fu; Yanwei Fu; Lu Sheng; Jing Shao; Dongrui Liu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1523,7 +1523,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24757v1',
     title: 'ICS Cybersecurity Datasets: A Systematic Meta-Review of Coverage, Evaluation Practice, and Structural Gaps',
-    authors: 'Konstantinos E. Kampourakis, Vyron Kampourakis, Georgios Kambourakis, Sokratis Katsikas, Stefanos Gritzalis, Mario Rodríguez-Béjar, José Luis Hernández-Ramos',
+    authors: 'Konstantinos E. Kampourakis; Vyron Kampourakis; Georgios Kambourakis; Sokratis Katsikas; Stefanos Gritzalis; Mario Rodríguez-Béjar; José Luis Hernández-Ramos',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1549,7 +1549,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24722v1',
     title: 'Relativistic Cramér-Rao Bound Scaling for Device-Based and Device-Free Sensing',
-    authors: 'Fan Liu, Yifeng Xiong, Weijie Yuan, Yuanhao Cui, Jie Yang, Shi Jin',
+    authors: 'Fan Liu; Yifeng Xiong; Weijie Yuan; Yuanhao Cui; Jie Yang; Shi Jin',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1561,21 +1561,21 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   },
   {
     id: '2608.24720v1',
-    title: "''You Can't Open an LLM With a Screwdriver'': The De-Democratization of Software",
-    authors: 'Zixuan Feng, Italo Santos, Kostadin Damevski, Anita Sarma',
+    title: '\'\'You Can\'t Open an LLM With a Screwdriver\'\': The De-Democratization of Software',
+    authors: 'Zixuan Feng; Italo Santos; Kostadin Damevski; Anita Sarma',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
     filename: 'you-can-t-open-an-llm-with-a-screwdriver-the-de.pdf',
     localPath: 'artigos/tecnologia/you-can-t-open-an-llm-with-a-screwdriver-the-de.pdf',
     sourceUrl: 'https://arxiv.org/abs/2608.24720v1',
-    summary: "Artigo \"''You Can't Open an LLM With a Screwdriver'': The De-Democratization of Software\" (2026, arXiv, Engenharia de Software). Discute temas de engenharia de software no contexto da tecnologia, integrando o acervo científico do tema.",
+    summary: 'Artigo "\\\'\\\'You Can\\\'t Open an LLM With a Screwdriver\\\'\\\': The De-Democratization of Software" (arXiv). Discute temas de tecnologia no contexto do acervo científico do tema.',
     tags: ['tecnologia', 'csse']
   },
   {
     id: '2608.24705v1',
     title: 'ECO-COMM: An Ultra Low-Latency Event Camera based Optical Communication System',
-    authors: 'Chengling Xu, Keigo Hirakawa, Feng Ye',
+    authors: 'Chengling Xu; Keigo Hirakawa; Feng Ye',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1588,7 +1588,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24687v1',
     title: 'An Efficient W-/D-Band Power Amplifier in a 130 nm SiGe BiCMOS Process',
-    authors: 'Han Zhou, Yu Yan, Haojie Chang, Herbert Zirath',
+    authors: 'Han Zhou; Yu Yan; Haojie Chang; Herbert Zirath',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1601,7 +1601,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24686v1',
     title: 'An Ultra-Compact Differential V-Band Power Amplifier Using EDMOS Transistors With 18.1 dBm P1dB and 21% PAE in 22nm FD-SOI CMOS',
-    authors: 'Han Zhou, Torgil Kjellberg, Haojie Chang, Christian Fager',
+    authors: 'Han Zhou; Torgil Kjellberg; Haojie Chang; Christian Fager',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1614,7 +1614,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24672v1',
     title: 'Causal Explanations of Process Monitor Predictions',
-    authors: 'Tom Yaacov, Nathan Blake, Hana Chockler',
+    authors: 'Tom Yaacov; Nathan Blake; Hana Chockler',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1627,7 +1627,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24669v1',
     title: 'Who Falls for SMiSh? Learning Through Survey Data Where to Best Target Awareness Training for Mobile Messaging Attacks',
-    authors: 'Cori Faklaris, Sarah Tabassum, Heather Richter Lipford',
+    authors: 'Cori Faklaris; Sarah Tabassum; Heather Richter Lipford',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1640,7 +1640,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24664v1',
     title: 'Maia 200: A Software Defined Dataflow System for Large-scale AI Acceleration',
-    authors: 'Sherry Xu, Marco Heddes, Jackson Peng, Tom Savell, Monica Tang, Prashant Ranjan, Jesse Benson, Ofer Dekel, Saurabh Dighe, Anupama Kurpad, Artour Levin, Matthew Mattina, George Petre, Cheng Tang, Yuan Yu, Li Zhang, Torsten Hoefler',
+    authors: 'Sherry Xu; Marco Heddes; Jackson Peng; Tom Savell; Monica Tang; Prashant Ranjan; Jesse Benson; Ofer Dekel; Saurabh Dighe; Anupama Kurpad; Artour Levin; Matthew Mattina; George Petre; Cheng Tang; Yuan Yu; Li Zhang; Torsten Hoefler',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1653,7 +1653,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24974v1',
     title: 'Clearing the Underbrush: AI-Enhanced RF Interference Suppression',
-    authors: 'Rahul Jain, Pierre Trepagnier, Rick Gentile, Joey Botero, Alexia Schulz',
+    authors: 'Rahul Jain; Pierre Trepagnier; Rick Gentile; Joey Botero; Alexia Schulz',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1679,7 +1679,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24641v1',
     title: 'Aging of Prompt Engineering Techniques Across LLM Versions',
-    authors: 'Anastasiia Rudyk, Julian Oertel, Regina Hebig',
+    authors: 'Anastasiia Rudyk; Julian Oertel; Regina Hebig',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1692,7 +1692,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24639v1',
     title: 'Investigating voiced and unvoiced regions of speech for audio deepfake detection',
-    authors: 'Ganesh Sivaraman, Hemlata Tak, Elie Khoury',
+    authors: 'Ganesh Sivaraman; Hemlata Tak; Elie Khoury',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1705,7 +1705,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24636v2',
     title: 'Asynchronous Verifiable Information Dispersal with Low Space and Communication Complexity',
-    authors: 'Thomas Locher, Yvonne-Anne Pignolet',
+    authors: 'Thomas Locher; Yvonne-Anne Pignolet',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1718,7 +1718,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24634v1',
     title: 'Quantifying the Relationship Between Team Dysfunctions and Performance in Capstone Projects',
-    authors: 'Luciano Pereira Soares, Luciana Campos Lima, Rafael Corsi Ferrão',
+    authors: 'Luciano Pereira Soares; Luciana Campos Lima; Rafael Corsi Ferrão',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1731,7 +1731,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24584v1',
     title: 'A Transformer for Joint Multi-Receiver Pilotless Wi-Fi Decoding',
-    authors: 'Xavier Tardy, Grégoire Lefebvre, Apostolos Kountouris, Haïfa Farès, Amor Nafkha',
+    authors: 'Xavier Tardy; Grégoire Lefebvre; Apostolos Kountouris; Haïfa Farès; Amor Nafkha',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1744,7 +1744,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24571v1',
     title: 'Joint Optimization of Tool Creation and Use for Large Language Model Agents',
-    authors: 'Zhi Rui Tam, Chieh-Yen Lin, Yun-Nung Chen, Shao-Hua Sun, Hung-yi Lee',
+    authors: 'Zhi Rui Tam; Chieh-Yen Lin; Yun-Nung Chen; Shao-Hua Sun; Hung-yi Lee',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1757,7 +1757,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24558v1',
     title: 'Array-Agnostic Ambisonics Encoding via Diffusion Posterior Sampling',
-    authors: 'Amit Milstein, Nir Shlezinger, Boaz Rafaely',
+    authors: 'Amit Milstein; Nir Shlezinger; Boaz Rafaely',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1770,7 +1770,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24527v1',
     title: 'Provable Quantum--Classical Separation for Continuous Gibbs Sampling',
-    authors: 'Enrico Olivucci, Mariia Sobchuk, Sehmimul Hoque, Jeffrey Hnybida, Kyungho W. Kim, Ala Shayeghi, Pooya Ronagh',
+    authors: 'Enrico Olivucci; Mariia Sobchuk; Sehmimul Hoque; Jeffrey Hnybida; Kyungho W. Kim; Ala Shayeghi; Pooya Ronagh',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1783,7 +1783,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24524v1',
     title: 'LumiXAI: A Modular Full-Stack Framework for Feature Attribution',
-    authors: 'Alfio Ferrara, Lorenzo Gatta, Sergio Picascia, Elisabetta Rocchetti',
+    authors: 'Alfio Ferrara; Lorenzo Gatta; Sergio Picascia; Elisabetta Rocchetti',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1796,7 +1796,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24509v1',
     title: 'PeakBench: Benchmarking Resource-Aware Tool Invocation in LLM Agents',
-    authors: 'Zhi-Kai Chen, Xu-Xiang Zhong, Song-Yan Li, De-Chuan Zhan, Han-Jia Ye',
+    authors: 'Zhi-Kai Chen; Xu-Xiang Zhong; Song-Yan Li; De-Chuan Zhan; Han-Jia Ye',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1809,7 +1809,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24498v1',
     title: 'SeriCrypt: An LLM-Driven Context-Aware Serialization Framework for Cryptographic Protocols',
-    authors: 'Maosong Chen, Xi Chen, Mengcheng Ju, Dongliang Zhao, Chunxiang Gu',
+    authors: 'Maosong Chen; Xi Chen; Mengcheng Ju; Dongliang Zhao; Chunxiang Gu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1822,7 +1822,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24496v1',
     title: 'A Capability Broker for Workflow-Network QoS Coordination in B5G/6G Industrial Services',
-    authors: 'Qize Guo, Yan Chen, Taleb Tarik, Bjoern Riemer, Hemant Zope, Hao Yu',
+    authors: 'Qize Guo; Yan Chen; Taleb Tarik; Bjoern Riemer; Hemant Zope; Hao Yu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1835,7 +1835,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24473v1',
     title: 'Ockhamareto: Pareto-Gated Segment-Level Credit Assignment for Concise Unit-Test Generation with Reinforcement Learning',
-    authors: 'Dong Huang, Mark Harman, Jie M. Zhang, Zhijiang Guo, Mingzhe Du, See Kiong Ng',
+    authors: 'Dong Huang; Mark Harman; Jie M. Zhang; Zhijiang Guo; Mingzhe Du; See Kiong Ng',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1848,7 +1848,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24461v1',
     title: 'Do System Prompts Leave Behavioral Fingerprints? A Large-Scale Empirical Study of Clone Detection via Output Similarity',
-    authors: 'Linghan Chen, Yudong Gao, Jiyao Wang, Kaiyan Ji, Honglong Chen',
+    authors: 'Linghan Chen; Yudong Gao; Jiyao Wang; Kaiyan Ji; Honglong Chen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1861,7 +1861,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24459v1',
     title: 'A high-isolation wideband channelizer for MKID readouts: a custom HLS implementation on RFSoC',
-    authors: 'Alberto Hernandez Fernandez, David Diaz Martin, Jose Javier Diaz Garcia, Roger John Hoyland, Luis Fernando Rodriguez Ramos, Diego Portero Rodriguez, Silvestre Rodriguez Perez',
+    authors: 'Alberto Hernandez Fernandez; David Diaz Martin; Jose Javier Diaz Garcia; Roger John Hoyland; Luis Fernando Rodriguez Ramos; Diego Portero Rodriguez; Silvestre Rodriguez Perez',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1874,7 +1874,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24454v1',
     title: 'Defending Network Intrusion Detection Systems Based on Graph Neural Networks Against Structural Adversarial Attacks',
-    authors: 'Dimitri Galli, Andrea Venturi, Dario Stabili, Mauro Andreolini, Mirco Marchetti',
+    authors: 'Dimitri Galli; Andrea Venturi; Dario Stabili; Mauro Andreolini; Mirco Marchetti',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1887,7 +1887,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24447v1',
     title: 'A Drop-in KEM Replacement for Client Signatures in Post-Quantum SSH',
-    authors: 'Hongbo Liu, Yufan Su, Jiangxia Ge, Qionglu Zhang, Zhaoxuan Li, Xianhui Lu, Li Song, Wenhua Gao, Li Zhou',
+    authors: 'Hongbo Liu; Yufan Su; Jiangxia Ge; Qionglu Zhang; Zhaoxuan Li; Xianhui Lu; Li Song; Wenhua Gao; Li Zhou',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1900,7 +1900,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24443v1',
     title: 'Time-Window Noise2Noise: A Self-Supervised Method for Blind Denoising of Vibration and Impact Signals in Mechanical Systems',
-    authors: 'Vinicius S. Vianna, Tiago H. Machado, Ilmar F. Santos',
+    authors: 'Vinicius S. Vianna; Tiago H. Machado; Ilmar F. Santos',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1913,7 +1913,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24973v1',
     title: 'Resource-Efficient Pruning for Transformer via Low-Rank Importance Estimation',
-    authors: 'Peng Liu, Huibing Zeng, Yiqun Zhang, Yang Yi, Jigang Wu',
+    authors: 'Peng Liu; Huibing Zeng; Yiqun Zhang; Yang Yi; Jigang Wu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1926,7 +1926,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24404v1',
     title: 'EM-KalmanNet: Learned Expectation-Maximization for Adaptive Tracking in Partially Known, Block-Wise Time-Varying State-Space Models',
-    authors: 'Ori Cohen, Nir Shlezinger, Tirza Routtenberg',
+    authors: 'Ori Cohen; Nir Shlezinger; Tirza Routtenberg',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1939,7 +1939,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24377v1',
     title: 'Predicting Only from Selected Evidence: A Tempered Product-of-Experts Bottleneck for Auditable EEG Diagnosis',
-    authors: 'Yinghao Wang, Shujian Yu, Duc Han Le, Zhikai Yu, Changming Wang, Van-Tam Nguyen',
+    authors: 'Yinghao Wang; Shujian Yu; Duc Han Le; Zhikai Yu; Changming Wang; Van-Tam Nguyen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1952,7 +1952,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24368v1',
     title: 'From State to Action: OODA-Tool for Reliable Multi-Turn Tool Use',
-    authors: 'Rongfeng Guo, Yinxuan Huang, Yusen Wu, Maoqing Zhong, Yunlu Chen, Meng Tang, Teng Long, Vincent Tao Hu',
+    authors: 'Rongfeng Guo; Yinxuan Huang; Yusen Wu; Maoqing Zhong; Yunlu Chen; Meng Tang; Teng Long; Vincent Tao Hu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1965,7 +1965,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24354v1',
     title: 'Not All Tokens Are Equal: Region-Aware Consistency Repair of Backdoors in MLLMs',
-    authors: 'Jiali Wei, Ming Fan, Mingkun Zhang, Haoyu Wang, Jun Sun, Guoheng Sun, Xiaoning Ren, Haijun Wang, Ting Liu',
+    authors: 'Jiali Wei; Ming Fan; Mingkun Zhang; Haoyu Wang; Jun Sun; Guoheng Sun; Xiaoning Ren; Haijun Wang; Ting Liu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1978,7 +1978,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24351v1',
     title: 'Small-World Communication Fabrics for Neuromorphic Multicore-SoCs',
-    authors: 'Sebastian Billaudelle, Christian Metzner, Jimmy Weber, Zhe Su, Chenxi Wen, Siqi Liu, Laura Kriener, Filippo Moro, Giacomo Indiveri, Melika Payvand',
+    authors: 'Sebastian Billaudelle; Christian Metzner; Jimmy Weber; Zhe Su; Chenxi Wen; Siqi Liu; Laura Kriener; Filippo Moro; Giacomo Indiveri; Melika Payvand',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -1991,7 +1991,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24348v1',
     title: 'Mixed-Precision SEM-Based CFD Simulations on GPUs: A Taylor-Green Vortex case',
-    authors: 'Yanxiang Chen, Manuel Münsch, Roman Iakymchuk',
+    authors: 'Yanxiang Chen; Manuel Münsch; Roman Iakymchuk',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2004,7 +2004,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24314v1',
     title: 'Benchmarking LLM Judges for Voice-Agent Evaluation: Reliability, Calibration, and Human Oversight',
-    authors: 'Anupam Purwar, Shashank Singh, Kritika Srivastava',
+    authors: 'Anupam Purwar; Shashank Singh; Kritika Srivastava',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2017,7 +2017,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24291v1',
     title: 'ReproAgent: Contract-Guided Paper-to-Code Reproduction',
-    authors: 'Xue Hu, Zewei Pan, Zhongyuan Wang, Zhou Liu, Zeli Su, Wentao Zhang',
+    authors: 'Xue Hu; Zewei Pan; Zhongyuan Wang; Zhou Liu; Zeli Su; Wentao Zhang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2030,7 +2030,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24288v1',
     title: 'Sensor Drift Compensation via Olfactory system and Reservoir Computing',
-    authors: 'ZhengChen Dong, ChenWei Li, Takeaki Yajima',
+    authors: 'ZhengChen Dong; ChenWei Li; Takeaki Yajima',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2043,7 +2043,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24287v1',
     title: 'Impact of Optical Reconfigurable Intelligent Surfaces on Channel Estimation for VLC Systems',
-    authors: 'Borja Genoves Guzman, M. Julia Fernández-Getino García',
+    authors: 'Borja Genoves Guzman; M. Julia Fernández-Getino García',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2056,7 +2056,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24277v1',
     title: 'LEMONS: Leveraging Model-Based Techniques to Enable Non-Intrusive Semantic Enrichment in Wireless Sensor Networks',
-    authors: 'Jan Novacek, Arthur Kühlwein, Sebastian Reiter, Alexander Viehl, Oliver Bringmann, Wolfgang Rosenstiel',
+    authors: 'Jan Novacek; Arthur Kühlwein; Sebastian Reiter; Alexander Viehl; Oliver Bringmann; Wolfgang Rosenstiel',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2069,7 +2069,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24271v1',
     title: 'Observability and Fault Injection for LLM-Based Multi-Agent Systems in Software Engineering',
-    authors: 'Zahra Seyedghorban, Egor Klimov, Arie van Deursen, Annibale Panichella, Burcu Kulahcioglu Ozkan',
+    authors: 'Zahra Seyedghorban; Egor Klimov; Arie van Deursen; Annibale Panichella; Burcu Kulahcioglu Ozkan',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2082,7 +2082,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24269v1',
     title: 'Towards LLM-Enhanced Android Taint Analysis',
-    authors: 'Nicholas Miazzo, Marco Alecci, Jordan Samhi, Jacques Klein, Eleonora Losiouk',
+    authors: 'Nicholas Miazzo; Marco Alecci; Jordan Samhi; Jacques Klein; Eleonora Losiouk',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2095,7 +2095,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24267v1',
     title: 'Cross-Stack Validation of Language-Model Training: A Clinical Fine-Tuning Case Study',
-    authors: 'Thang Tran, Lan Dang',
+    authors: 'Thang Tran; Lan Dang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2108,7 +2108,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24252v1',
     title: 'SA-Bench: Evaluating Semantic Alignment in LLM-Based Paper Reproduction',
-    authors: 'Xue Hu, Zewei Pan, Zeli Su, Zhou Liu, Wentao Zhang',
+    authors: 'Xue Hu; Zewei Pan; Zeli Su; Zhou Liu; Wentao Zhang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2121,7 +2121,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24250v1',
     title: 'Mutation Testing of Simulink Cyber-Physical System Models: Challenges and Solutions in Practice',
-    authors: 'Murat Kavak, Onur Kilincceker, Serge Demeyer, Kevin Vandenbroucke, Halim Abdurrahman Ceylan',
+    authors: 'Murat Kavak; Onur Kilincceker; Serge Demeyer; Kevin Vandenbroucke; Halim Abdurrahman Ceylan',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2134,7 +2134,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24241v1',
     title: 'Validation of HRV Studio: A Transparent and Quality-Control-Aware Platform for Heart Rate Variability Analysis',
-    authors: 'Cyrus Mexon Evrard Djindot, Faliang Liu, Sylvain Laborde, Yinjia Zhang, Jessie Chen, Ming Li, Congrong Wang, Weixiong Rao, Qinpei Zhao',
+    authors: 'Cyrus Mexon Evrard Djindot; Faliang Liu; Sylvain Laborde; Yinjia Zhang; Jessie Chen; Ming Li; Congrong Wang; Weixiong Rao; Qinpei Zhao',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2147,7 +2147,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24221v1',
     title: 'DeepRepoQA: Code Repository Question Answering with Deep Agent Exploration',
-    authors: 'Weihan Peng, Yuling Shi, Yingwei Ma, Longfei Yun, Beijun Shen, Xiaodong Gu',
+    authors: 'Weihan Peng; Yuling Shi; Yingwei Ma; Longfei Yun; Beijun Shen; Xiaodong Gu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2160,7 +2160,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24204v1',
     title: 'WiCi: Wireless GPU Computing Infrastructure',
-    authors: 'Yibin Shen, Wei Li, Kaiqiang Xu, Zili Meng',
+    authors: 'Yibin Shen; Wei Li; Kaiqiang Xu; Zili Meng',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2173,7 +2173,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24188v1',
     title: 'Paritok-4B: Intent-Conditioned Context Compression for Coding Agents',
-    authors: 'Jiayu Shi, Luzhuo Chen',
+    authors: 'Jiayu Shi; Luzhuo Chen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2186,7 +2186,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24156v1',
     title: 'LLM-Guided Contextual Action Evaluation for Operational Decisions in Industrial Processes',
-    authors: 'Youcheng Zong, Runda Jia, Dakuo He',
+    authors: 'Youcheng Zong; Runda Jia; Dakuo He',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2199,7 +2199,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24962v1',
     title: 'Evaluating and Preventing Security Smells in AI-Generated Ansible Code',
-    authors: 'Pandu Ranga Reddy Konala, Vimal Kumar, David Bainbridge, Junaid Haseeb',
+    authors: 'Pandu Ranga Reddy Konala; Vimal Kumar; David Bainbridge; Junaid Haseeb',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2212,7 +2212,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24152v2',
     title: 'A Dynamic-Kernel/QPacket Executable for Quantum Repeater Chains in Q2NS/ns-3',
-    authors: 'Adam Pearson, Marcello Caleffi, Angela Sara Cacciapuoti',
+    authors: 'Adam Pearson; Marcello Caleffi; Angela Sara Cacciapuoti',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2225,7 +2225,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24145v1',
     title: 'TrustDABench: Benchmarking Reliability and Robustness of LLMs for Structured Data Analysis',
-    authors: 'Boshen Shi, Yize Liu, Chen Zhao, Ce Chi, Zhendong Wang, Xing Wang, Junlan Feng',
+    authors: 'Boshen Shi; Yize Liu; Chen Zhao; Ce Chi; Zhendong Wang; Xing Wang; Junlan Feng',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2238,7 +2238,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24135v1',
     title: 'Robust Code RL via Faulty-Code-Driven Test case Synthesis and Dense Reward Shaping',
-    authors: 'Yiwen Zhang, Xiaodong Yan, Zhenyu Huang, Deng Zhao, Liang Jiang, Qing Cui, Zujie Wen, Zhiqiang Zhang, Jun Zhou',
+    authors: 'Yiwen Zhang; Xiaodong Yan; Zhenyu Huang; Deng Zhao; Liang Jiang; Qing Cui; Zujie Wen; Zhiqiang Zhang; Jun Zhou',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2251,7 +2251,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24131v1',
     title: 'Centrality-Based Deployment of Queue Policies in Acyclic Multipath Routing Networks',
-    authors: 'Mahima Gupta, Acquin Biju, Rijul Jain, Dipesh Sharma, Sreelakshmi Manjunath',
+    authors: 'Mahima Gupta; Acquin Biju; Rijul Jain; Dipesh Sharma; Sreelakshmi Manjunath',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2264,7 +2264,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24127v1',
     title: 'Anatomy of a Scam Call: What 10,000 real scam and spam calls reveal about how phone scammers operate',
-    authors: 'Ethan Traister, Ankit Raj, Jiaqi Gan, Xingyu Shen, Tyler Wu, Yuchen Zhou, Tommy Duong, Kidus Zewde, Siying Chen, Simiao Ren',
+    authors: 'Ethan Traister; Ankit Raj; Jiaqi Gan; Xingyu Shen; Tyler Wu; Yuchen Zhou; Tommy Duong; Kidus Zewde; Siying Chen; Simiao Ren',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2277,7 +2277,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24086v1',
     title: 'EMRB: A Multi-Level Benchmark for Evaluating LLM Reasoning over Raw Electromagnetic Signals',
-    authors: 'Mingxu Zhang, Ying Sun, Yuhan Li, Yang Ji, Dazhong Shen, Ke Zhang, Shan Huang',
+    authors: 'Mingxu Zhang; Ying Sun; Yuhan Li; Yang Ji; Dazhong Shen; Ke Zhang; Shan Huang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2290,7 +2290,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24069v1',
     title: 'Poisoning Agentic Alpha: Adversarial Vulnerabilities Across Roles and Architectures in Multi-Agent Trading Systems',
-    authors: 'CheolWon Na, Hao Ni, Lukasz Szpruch, Zhangyang Wang, Dhagash Mehta, Saurabh Nagrecha, Alejandro Lopez-Lira, Chanyeol Choi, Yongjae Lee, Jee-Hyong Lee',
+    authors: 'CheolWon Na; Hao Ni; Lukasz Szpruch; Zhangyang Wang; Dhagash Mehta; Saurabh Nagrecha; Alejandro Lopez-Lira; Chanyeol Choi; Yongjae Lee; Jee-Hyong Lee',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2303,7 +2303,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24957v1',
     title: 'ToolMinimize: Auditing and Rewriting LLM Agent Tool Calls to Minimize Privacy Exposure',
-    authors: 'Wenbiao Li, Yuqiao Xu',
+    authors: 'Wenbiao Li; Yuqiao Xu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2316,7 +2316,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24022v1',
     title: 'What Guides the Agent? Adjudicating Unauthorized Behavior via Localizing Behavior-Guiding Instructions',
-    authors: 'Yichao Gao, Yumo Zhang, Yunhao Yao, Haohua Du, Puhan Luo, Ruiqi Li, Zhiqiang Wang',
+    authors: 'Yichao Gao; Yumo Zhang; Yunhao Yao; Haohua Du; Puhan Luo; Ruiqi Li; Zhiqiang Wang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2329,7 +2329,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24017v1',
     title: 'WebMCP-Phalanx: Enforcing and Characterizing Trust Boundaries for Browser-Integrated LLM Agents',
-    authors: 'Lin-Fa Lee, YI-YU Chang, Kuo-Hui Yeh',
+    authors: 'Lin-Fa Lee; YI-YU Chang; Kuo-Hui Yeh',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2342,7 +2342,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23995v1',
     title: 'Physics-Informed WiFi Sensing for Robust 3D Human Pose Estimation in Mobile and Cross-Environment Settings',
-    authors: 'Kaixuan Huang, Yuanbo Chen, Guangjin Pan, Shiyi Mu, Tao Yu, Guhan Zheng, Shunqing Zhang',
+    authors: 'Kaixuan Huang; Yuanbo Chen; Guangjin Pan; Shiyi Mu; Tao Yu; Guhan Zheng; Shunqing Zhang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2355,7 +2355,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.24955v1',
     title: 'The Evolution of Binary Decompilation in the Modern Era: A Taxonomy, Literature Review, and Future Perspectives',
-    authors: 'Omar Abusabha, Sungjae Hwang',
+    authors: 'Omar Abusabha; Sungjae Hwang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2368,7 +2368,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23979v1',
     title: 'Rules Before Oracles: Auditable, User-Configurable Argument Selection for Deliberative Polling',
-    authors: 'Muntaser Syed, Markus Zanker, Marius Silaghi',
+    authors: 'Muntaser Syed; Markus Zanker; Marius Silaghi',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2381,7 +2381,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23965v1',
     title: 'RAGSentinel: Certifiable Geometric Consensus for Robust Retrieval-Augmented Generation',
-    authors: 'Yueyang Quan, Anjun Gao, Yufei Xia, Minghong Fang, Zhuqing Liu',
+    authors: 'Yueyang Quan; Anjun Gao; Yufei Xia; Minghong Fang; Zhuqing Liu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2394,7 +2394,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23961v1',
     title: 'Evaluating Language Models on Cross-Language Code Functional Equivalence',
-    authors: 'Hui Sun, Anderson Uchôa, Rohit Gheyi, Wesley K. G. Assunção',
+    authors: 'Hui Sun; Anderson Uchôa; Rohit Gheyi; Wesley K. G. Assunção',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2407,7 +2407,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23959v1',
     title: 'NeuronGuard: Robust LLM Safety Alignment via Ablation-Aware Safety Signal Redistribution',
-    authors: 'Anjun Gao, Yueyang Quan, Yufei Xia, Zhuqing Liu, Minghong Fang',
+    authors: 'Anjun Gao; Yueyang Quan; Yufei Xia; Zhuqing Liu; Minghong Fang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2433,7 +2433,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23952v1',
     title: 'STAIN-FL: Stealthy Targeted Attack Injection with Contextual Triggers in Federated Learning',
-    authors: 'Ashlinder Kaur, Purnima Murali Mohan, Zengxiang Li, Tram Truong-Huu',
+    authors: 'Ashlinder Kaur; Purnima Murali Mohan; Zengxiang Li; Tram Truong-Huu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2446,7 +2446,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23950v1',
     title: 'Receive Diversity for Differential Binary Noise Modulation',
-    authors: 'Paulo V. B. Tomé, André A. dos Anjos, Hugerles S. Silva, Daniel C. Araújo, Robson D. Vieira, Ertugrul Basar',
+    authors: 'Paulo V. B. Tomé; André A. dos Anjos; Hugerles S. Silva; Daniel C. Araújo; Robson D. Vieira; Ertugrul Basar',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2459,7 +2459,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23933v1',
     title: 'SoK: ARCUS: On the Efficiency and Efficacy of Hardware Fuzzing',
-    authors: 'Alenkruth Krishnan Murali, Raghul Saravanan, Sai Manoj P D, Ashish Venkat',
+    authors: 'Alenkruth Krishnan Murali; Raghul Saravanan; Sai Manoj P D; Ashish Venkat',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2472,7 +2472,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23901v1',
     title: 'Ray-Traced Augmentation for Signal Strength Based Localization',
-    authors: 'Jihoon Og, Ningze Sun, Ioanis Nikolaidis, Omid Ardakanian',
+    authors: 'Jihoon Og; Ningze Sun; Ioanis Nikolaidis; Omid Ardakanian',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2498,7 +2498,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23858v1',
     title: 'Beyond the Mandate: A Systematic Security Analysis of the Agent Payments Protocol (AP2)',
-    authors: 'Avital Aviv, Parth A. Gandh, Ron Bitton, Asaf Shabtai',
+    authors: 'Avital Aviv; Parth A. Gandh; Ron Bitton; Asaf Shabtai',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2511,7 +2511,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23854v2',
     title: 'BotScan: An adaptive active probing approach for identifying live IoT Botnet C2 servers at scale',
-    authors: 'S M Maksudul Alam, Vivek Jain, Zhaowei Tan, Srikanth V. Krishnamurthy, Michalis Faloutsos',
+    authors: 'S M Maksudul Alam; Vivek Jain; Zhaowei Tan; Srikanth V. Krishnamurthy; Michalis Faloutsos',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2524,7 +2524,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23842v1',
     title: 'Automated Synthesis of Cloud Emulators',
-    authors: 'Archit Bhatnagar, Zhenning Yang, Sarah McClure, Yiming Qiu, Sylvia Ratnasamy, Ang Chen',
+    authors: 'Archit Bhatnagar; Zhenning Yang; Sarah McClure; Yiming Qiu; Sylvia Ratnasamy; Ang Chen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2537,7 +2537,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23827v2',
     title: 'A unified dynamical modeling framework for cruise control and adaptive cruise control',
-    authors: 'Mingfeng Shang, Shian Wang',
+    authors: 'Mingfeng Shang; Shian Wang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2550,7 +2550,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23824v1',
     title: 'Place, Slice and Schedule: Hierarchical O-RAN Control of a Tethered mmWave UAV-gNB',
-    authors: 'Alireza Mohammadhosseini, Fatemeh Afghah',
+    authors: 'Alireza Mohammadhosseini; Fatemeh Afghah',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2563,7 +2563,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23785v1',
     title: 'A Scenario-Based Evaluation of CRQC+AI Vulnerability Spectrum for TLS 1.3 Cryptographic Dependencies',
-    authors: 'Noel Grover, Mussie Haile, Brad Pedersen, Eric Uner, Bradley J Erickson',
+    authors: 'Noel Grover; Mussie Haile; Brad Pedersen; Eric Uner; Bradley J Erickson',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2576,7 +2576,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23774v1',
     title: 'ROBBIN: Rowhammer-Based Backdoor Injection during Inference',
-    authors: 'Saion K. Roy, Yufei Wang, A. Adam Ding, Yunsi Fei',
+    authors: 'Saion K. Roy; Yufei Wang; A. Adam Ding; Yunsi Fei',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2589,7 +2589,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23771v1',
     title: 'Scale, Concentration, and Entry Timing in the Shopify App Ecosystem: A Longitudinal Study of Platform Governance and Application Survival',
-    authors: 'Fabrizio Assabese, Peter-Jan Celis, Giuseppe Destefanis',
+    authors: 'Fabrizio Assabese; Peter-Jan Celis; Giuseppe Destefanis',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2602,7 +2602,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23763v1',
     title: 'TrustShiftProbe: Characterizing, Benchmarking, and Defending Staged Trust Attacks on MCP Servers',
-    authors: 'Mehrdad Rostamzadeh, Sidhant Narula, Mohammad Ghasemigol, Daniel Takabi',
+    authors: 'Mehrdad Rostamzadeh; Sidhant Narula; Mohammad Ghasemigol; Daniel Takabi',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2615,7 +2615,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23755v1',
     title: 'SPIDER4TianoCore: Enhancing Patch-Propagation for the TianoCore UEFI Firmware Development Ecosystem',
-    authors: 'Laura Baird, Devin Haggitt, Terrance E. Boult, Aravind Machiry, Armin Moin',
+    authors: 'Laura Baird; Devin Haggitt; Terrance E. Boult; Aravind Machiry; Armin Moin',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2628,7 +2628,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23754v1',
     title: 'Enhancing Bug Report Templates in the TianoCore UEFI Firmware Development Community',
-    authors: 'Laura Baird, Neelesh Reddybattula, Nazanin Siavash, Terrance E. Boult, Armin Moin',
+    authors: 'Laura Baird; Neelesh Reddybattula; Nazanin Siavash; Terrance E. Boult; Armin Moin',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2641,7 +2641,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23740v1',
     title: 'AgentRoom: Concurrent Multi-Agent Coding in a CRDT-Backed Shared Workspace',
-    authors: 'Seonglae Cho, Donghyun Lee',
+    authors: 'Seonglae Cho; Donghyun Lee',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2654,7 +2654,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23731v1',
     title: 'Effective Pivot Attack Detection via System and Network Information',
-    authors: 'Ava Powelson, Carson Kuzniar, Hyojoon Kim, Israat Haque',
+    authors: 'Ava Powelson; Carson Kuzniar; Hyojoon Kim; Israat Haque',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2667,7 +2667,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23564v1',
     title: 'SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?',
-    authors: 'Deyao Hong, Yizhe Chi, Wenyi Li, Xiaoqiu Wang, Mingju Gao, Kaisen Yang, Bingxiang He, Youjie Zheng, Calvin Xiao, Qinhuai Na',
+    authors: 'Deyao Hong; Yizhe Chi; Wenyi Li; Xiaoqiu Wang; Mingju Gao; Kaisen Yang; Bingxiang He; Youjie Zheng; Calvin Xiao; Qinhuai Na',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2680,7 +2680,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23562v1',
     title: 'Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitoring from Triaxial Bodyseismography',
-    authors: 'Yuanyuan Zhang, Yida Zhang, Jiahui Li, Yuyan Wu, Fei Dou, Xiao Yin, Zhenlin An, Hae Young Noh, Wenzhan Song',
+    authors: 'Yuanyuan Zhang; Yida Zhang; Jiahui Li; Yuyan Wu; Fei Dou; Xiao Yin; Zhenlin An; Hae Young Noh; Wenzhan Song',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2693,7 +2693,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23552v1',
     title: 'Prime Agent: A Self-Improving RLM Harness',
-    authors: 'Seth Karten, Alex L. Zhang, Kevin Thomas, Sebastian Müller, Elie Bakouch, Daniel Auras, Mika Senghaas, Fares Obeid, Konstantin Dunas, Johannes Hagemann, Sami Jaghouar',
+    authors: 'Seth Karten; Alex L. Zhang; Kevin Thomas; Sebastian Müller; Elie Bakouch; Daniel Auras; Mika Senghaas; Fares Obeid; Konstantin Dunas; Johannes Hagemann; Sami Jaghouar',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2719,7 +2719,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23547v1',
     title: 'Robustness of Anomaly Detection Models for Industrial Control Systems under Training-Time Data Contamination',
-    authors: 'Mustafa Umut Ozbek, Taiwo Ojo, Pooria Madani, Khalil El-Khatib, Li Yang',
+    authors: 'Mustafa Umut Ozbek; Taiwo Ojo; Pooria Madani; Khalil El-Khatib; Li Yang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2732,7 +2732,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23536v1',
     title: 'Adapter-Based Few-Shot Continual Learning for Malicious Packet Recognition',
-    authors: 'Kyle Stein, Guillermo Francia, III Eman El-Sheikh, Andrew Arash Mahyari',
+    authors: 'Kyle Stein; Guillermo Francia; III Eman El-Sheikh; Andrew Arash Mahyari',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2745,7 +2745,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23501v1',
     title: 'An Interactive Agent for Requirement-Driven Candidate Sourcing',
-    authors: 'Yuanpeng He, Fangjing Li, Xiangyu Ru, Kexin Sun, Kun Yang, Lijian Li, Chi-Man Pun, Qingsong Wen, Wenpin Jiao, Mingkai Guo, Yirong Feng, Daiheng Gao, Zhi Jin',
+    authors: 'Yuanpeng He; Fangjing Li; Xiangyu Ru; Kexin Sun; Kun Yang; Lijian Li; Chi-Man Pun; Qingsong Wen; Wenpin Jiao; Mingkai Guo; Yirong Feng; Daiheng Gao; Zhi Jin',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2758,7 +2758,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23663v2',
     title: 'Confidently Wrong, Silently So: Auditing Undetectable Failures of a Deployed On-Device Language Model',
-    authors: 'Shashwat Pandey, Satwik Pandey, Suresh Raghu',
+    authors: 'Shashwat Pandey; Satwik Pandey; Suresh Raghu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2771,7 +2771,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23471v1',
     title: 'InjecMEM: Memory Injection Attack on LLM Agent Memory Systems',
-    authors: 'Hanling Tian, Gengyu Zhang, Zeyang Sha, Jingying Wang, Yuhang Liu, Zhehao Huang, Kun Yang, Xiaolin Huang',
+    authors: 'Hanling Tian; Gengyu Zhang; Zeyang Sha; Jingying Wang; Yuhang Liu; Zhehao Huang; Kun Yang; Xiaolin Huang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2784,7 +2784,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23469v1',
     title: 'Machine Learning Assisted Inverse Design of Pixelated mmWave Patch Antennas',
-    authors: 'Nadeem Rather, Holger Claussen, Lester Ho',
+    authors: 'Nadeem Rather; Holger Claussen; Lester Ho',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2797,7 +2797,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23468v1',
     title: 'RAD: Rule-Augmented Relational Anomaly Detection',
-    authors: 'Noah Dahle, Anne Tumlin, Ngoc Tran, Xenofon Koutsoukos, Tyler Derr',
+    authors: 'Noah Dahle; Anne Tumlin; Ngoc Tran; Xenofon Koutsoukos; Tyler Derr',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2810,7 +2810,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23422v1',
     title: 'RIS-Assisted Radar-Communication Coexistence: Detection Analysis with Channel Uncertainties',
-    authors: 'Rawan Derbas, Shimaa Naser, Hamad Yahya, Sanjeev Gurugopinath, Paschalis C. Sofotasios, Sami Muhaidat',
+    authors: 'Rawan Derbas; Shimaa Naser; Hamad Yahya; Sanjeev Gurugopinath; Paschalis C. Sofotasios; Sami Muhaidat',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2823,7 +2823,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23396v1',
     title: 'A Threshold Homomorphic Blockchain Architecture for Secure and Scalable IoT Sensor Data Aggregation',
-    authors: 'Narendra Kumar Dewangan, Mounira Msahli',
+    authors: 'Narendra Kumar Dewangan; Mounira Msahli',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2849,7 +2849,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23382v2',
     title: 'Spectrum-Aware Bounds on Invertibility for Privacy-Enhancing Instance Encoding',
-    authors: 'Seokjin Hwang, Yuting Li, Kiwan Maeng',
+    authors: 'Seokjin Hwang; Yuting Li; Kiwan Maeng',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2862,7 +2862,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23377v1',
     title: 'Formalizing and Automating Fine-Grained Move Refactorings Across Methods',
-    authors: 'Kota Yasuhara, Shinpei Hayashi',
+    authors: 'Kota Yasuhara; Shinpei Hayashi',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2875,7 +2875,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23376v1',
     title: 'A Fully Reconfigurable RF Vector Modulator based Wideband Phase Shifter for NextG Beamforming Phased Array in Satellite Communications (SATCOM)',
-    authors: 'Hanxiang Zhang, Hao Yan, Hong Tang, Uzair Muhammad, Ayesha Naseem, Saeed Zolfaghary Pour, Po-Wei Liu, Fei Yan, Shehryar Niazi, Jintao Chen',
+    authors: 'Hanxiang Zhang; Hao Yan; Hong Tang; Uzair Muhammad; Ayesha Naseem; Saeed Zolfaghary Pour; Po-Wei Liu; Fei Yan; Shehryar Niazi; Jintao Chen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2901,7 +2901,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23365v1',
     title: 'SxSSD: A Secure and Extensible Software-defined Solid State Drive',
-    authors: 'Josh Dafoe, Bo Chen',
+    authors: 'Josh Dafoe; Bo Chen',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2914,7 +2914,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23341v1',
     title: 'DPIAgent: Divide, Protocol, Isolate for Agentic Reproduction Test Generation',
-    authors: 'Hao Liu, Steven Liu, Xin Zhang, Jane Luo, Yu Kang, Jie Wu, Fangkai Yang, Yangyu Huang, Pengfei Gao, Scarlett Li, Yan Lu',
+    authors: 'Hao Liu; Steven Liu; Xin Zhang; Jane Luo; Yu Kang; Jie Wu; Fangkai Yang; Yangyu Huang; Pengfei Gao; Scarlett Li; Yan Lu',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2927,7 +2927,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23339v1',
     title: 'CERTIoT-6G: Continuous Cybersecurity Certification for IoT Devices in 5G/6G Networks',
-    authors: 'Evangelos Lempesis, Fabio Palmese, Hamed Haddadi, Anna Maria Mandalari',
+    authors: 'Evangelos Lempesis; Fabio Palmese; Hamed Haddadi; Anna Maria Mandalari',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2953,7 +2953,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23308v1',
     title: 'FIDES: A Concordance Protocol for LLM-Generated Trading Strategies',
-    authors: 'Arther Tian, Alex Ding, Simon Wu, Aaron Chan',
+    authors: 'Arther Tian; Alex Ding; Simon Wu; Aaron Chan',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2966,7 +2966,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23294v1',
     title: 'Dual-Orthogonality Waveforms for Integrated Communication and Imaging in Dynamic Multipath Channels',
-    authors: 'Edoardo Talignani, Francesco Linsalata, Musa Furkan Keskin, Davide Scazzoli, Alireza Pourafzal, Mohammad Mahdi Mojahedian, Henk Wymeersch',
+    authors: 'Edoardo Talignani; Francesco Linsalata; Musa Furkan Keskin; Davide Scazzoli; Alireza Pourafzal; Mohammad Mahdi Mojahedian; Henk Wymeersch',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2979,7 +2979,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23282v1',
     title: 'From Natural Language Policies to Executable Obligations: A Verification Harness for Dependable In-Car LLM Agents',
-    authors: 'Radouane Bouchekir, Damir Safin, Tomas Bueno Momcilovic',
+    authors: 'Radouane Bouchekir; Damir Safin; Tomas Bueno Momcilovic',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -2992,7 +2992,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23280v1',
     title: 'An Empirical Study of the TianoCore Community',
-    authors: 'Nazanin Siavash, Connor Glosner, Ayushi Sharma, Bianca Trinkenreich, Terrance E. Boult, Aravind Machiry, Armin Moin',
+    authors: 'Nazanin Siavash; Connor Glosner; Ayushi Sharma; Bianca Trinkenreich; Terrance E. Boult; Aravind Machiry; Armin Moin',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3005,7 +3005,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23259v1',
     title: 'TianoForge: An Automated Bug Triage Approach for the TianoCore UEFI Firmware Development Community',
-    authors: 'Nazanin Siavash, Terrance E. Boult, Armin Moin',
+    authors: 'Nazanin Siavash; Terrance E. Boult; Armin Moin',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3018,7 +3018,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23249v1',
     title: 'Semantic Reconstruction and 3-D Detection via Learned Multi-Pair Fusion in RF Imaging',
-    authors: 'Amir Rezaei, Wen-Xin Pan, Giuseppe Caire',
+    authors: 'Amir Rezaei; Wen-Xin Pan; Giuseppe Caire',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3031,7 +3031,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23199v1',
     title: 'PhiShark2026: A Multi-Layer Active-Web Raw-Evidence Dataset for Phishing Website Research',
-    authors: 'Furkan Çolhak, Ferhat Demirkıran, Hasan Dağ, Alexander Iliev',
+    authors: 'Furkan Çolhak; Ferhat Demirkıran; Hasan Dağ; Alexander Iliev',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3044,7 +3044,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23185v1',
     title: 'Towards Automated Cyber Threat Intelligence Elicitation in Underground Forums',
-    authors: 'Lorenzo Bossi, Federico Saccani, Francesco Panebianco, Antonio Maci, Stefano Zanero, Stefano Longari, Michele Carminati',
+    authors: 'Lorenzo Bossi; Federico Saccani; Francesco Panebianco; Antonio Maci; Stefano Zanero; Stefano Longari; Michele Carminati',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3057,7 +3057,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23181v2',
     title: 'CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild',
-    authors: 'Jian Yang, Haau-Sing Li, Shawn Guo, Zixi Zhao, Yibo Tan, Jiajun Wu, Aishan Liu, Zhoujun Li, Xianglong Liu, Tianyu Zheng, Bryan Dai, Chengran Yang',
+    authors: 'Jian Yang; Haau-Sing Li; Shawn Guo; Zixi Zhao; Yibo Tan; Jiajun Wu; Aishan Liu; Zhoujun Li; Xianglong Liu; Tianyu Zheng; Bryan Dai; Chengran Yang',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3070,7 +3070,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23179v1',
     title: 'NetConfArena: An Executable Benchmark for LLM Agents in Closed-Loop Network Configuration',
-    authors: 'Chang Liu, Xiaohui Xie, Xinyi Chen, Yong Cui',
+    authors: 'Chang Liu; Xiaohui Xie; Xinyi Chen; Yong Cui',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3083,7 +3083,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23170v1',
     title: '5 Shades of Cooperation: Spectrum Sharing in the Upper-Mid Band',
-    authors: 'Alberto Ceresoli, Marco Mezzavilla, Ilario Filippini, Antonio Capone',
+    authors: 'Alberto Ceresoli; Marco Mezzavilla; Ilario Filippini; Antonio Capone',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3096,7 +3096,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23158v1',
     title: 'LLMCrater: Lifecycle-Aware FAIR Metadata Generation using Large Language Models',
-    authors: 'Dani Termaat, Nafiseh Soveizi, Zhiming Zhao, Marios Avgeris',
+    authors: 'Dani Termaat; Nafiseh Soveizi; Zhiming Zhao; Marios Avgeris',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3109,7 +3109,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23146v1',
     title: 'An AI-Assisted Migration Framework for Transforming Legacy Scientific Applications into Reusable Cloud-Based Workflows',
-    authors: 'Nafiseh Soveizi, Sven Tesselaar, Hero Robinson Brouwer, Zhiming Zhao',
+    authors: 'Nafiseh Soveizi; Sven Tesselaar; Hero Robinson Brouwer; Zhiming Zhao',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3135,7 +3135,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23123v1',
     title: 'Distributed Trajectory Planning and Resource Allocation for Dynamic Multi-UAV Collaborative Computing',
-    authors: 'Tiankui Zhang, Wenlong Xu, Tianyi Shi, Xiaoxia Xu, Arumugam Nallanathan',
+    authors: 'Tiankui Zhang; Wenlong Xu; Tianyi Shi; Xiaoxia Xu; Arumugam Nallanathan',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3148,7 +3148,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23118v1',
     title: 'From Metrics to Improvement: A Lifecycle-Aware LLM Feedback Framework for Research Software Quality',
-    authors: 'Nafis Tanveer Islam, Nafiseh Soveizi, Yutong Li, Zhiming Zhao',
+    authors: 'Nafis Tanveer Islam; Nafiseh Soveizi; Yutong Li; Zhiming Zhao',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3161,7 +3161,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23115v1',
     title: 'A Multi-Viewpoint Modeling Framework for Digital Twin Integration and Reuse with LLM-Assisted Compatibility Analysis',
-    authors: 'Nafiseh Soveizi, Milan Kopp, Parinaz Rashidi, Qing Shan, Geerten M. Hengeveld, Ioannis N. Athanasiadis, Zhiming Zhao',
+    authors: 'Nafiseh Soveizi; Milan Kopp; Parinaz Rashidi; Qing Shan; Geerten M. Hengeveld; Ioannis N. Athanasiadis; Zhiming Zhao',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3174,7 +3174,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23085v1',
     title: 'Monotonicity Principle and "p-Laplace Signature" for Tomography in Nonlinear Elliptic Inverse Problems',
-    authors: 'Gianpaolo Piscitelli, Vincenzo Mottola, Antonello Tamburrino',
+    authors: 'Gianpaolo Piscitelli; Vincenzo Mottola; Antonello Tamburrino',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3187,7 +3187,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23084v1',
     title: 'ARGUS: MCP-Grounded Root Cause Analysis for Kubernetes Incidents',
-    authors: 'Ergi Senja, Seyed Mohammad Reza Razavi Zadegan, Philipp Leitner',
+    authors: 'Ergi Senja; Seyed Mohammad Reza Razavi Zadegan; Philipp Leitner',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3213,7 +3213,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23649v1',
     title: 'A Survey of Timing Variability in Microservice-Based Software-Defined Vehicles',
-    authors: 'Cyrus K. Vattes, Habib Mostafaei, Nirvana Meratnia',
+    authors: 'Cyrus K. Vattes; Habib Mostafaei; Nirvana Meratnia',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3226,7 +3226,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23054v1',
     title: 'Graph Representation Learning of Lightweight IoT Ciphers',
-    authors: 'Jonathan Cook, Sabih ur Rehman, M. Arif Khan',
+    authors: 'Jonathan Cook; Sabih ur Rehman; M. Arif Khan',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',
@@ -3239,7 +3239,7 @@ window.MEU_BOLSO_ARTICLES_TECNOLOGIA = [
   {
     id: '2608.23049v1',
     title: 'Curved Waveguide-Enabled Pinching-Antenna System (C-PAS): Communication Performance Analysis',
-    authors: 'Yayun Qu, Kunrui Cao, Tao Wang, Lu Lv, Jiwei Tian, Dimitrios Tyrovolas, Panagiotis D. Diamantoulakis, George K. Karagiannidis',
+    authors: 'Yayun Qu; Kunrui Cao; Tao Wang; Lu Lv; Jiwei Tian; Dimitrios Tyrovolas; Panagiotis D. Diamantoulakis; George K. Karagiannidis',
     year: 2026,
     venue: 'arXiv',
     tema: 'tecnologia',

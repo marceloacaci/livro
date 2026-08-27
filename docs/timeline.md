@@ -40,7 +40,7 @@ gantt
 - WCAG: foco visível, ARIA nos controles, contraste AA.
 
 ### Semana 2 — Features JS (busca/filtro) e testes cross-browser
-- Busca/filtro sobre `MEU_BOLSO_BOOKS` (Sprint 2).
+- Busca/filtro sobre `LIVRO_BOOKS` (Sprint 2).
 - Barra de progresso + Modo Leitura Focada.
 - Consolidar duplicação de `localStorage` entre `app.js`/`livro.js`.
 - Validar em Chrome/Firefox/Edge/Safari (desktop + mobile).
