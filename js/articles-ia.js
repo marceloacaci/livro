@@ -2213,5 +2213,347 @@ window.MEU_BOLSO_ARTICLES_IA = [
       "ia",
       "cs.CV"
     ]
+  },
+  {
+    "id": "2608.25217",
+    "title": "LLM-Driven, Datasheet-Aware Automated Hardware Compatibility Verification for Early-Stage, Pre-Schematic Embedded System Design",
+    "authors": "Haotian Qiao; Robert P. Dick",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "llm-driven-datasheet-aware-automated-hardware-compatibility.pdf",
+    "localPath": "artigos/ia/llm-driven-datasheet-aware-automated-hardware-compatibility.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25217",
+    "summary": "We present an LLM-driven, datasheet-aware framework for early-stage hardware compatibility verification that identifies documentation-level interface incompatibilities based on hardware datasheets and high-level component connectivity descriptions. It does not require, and can therefore be used, before detailed schematic simulation and implementation. We view trustworthy LLM-assisted design aut...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "eess.SY"
+    ]
+  },
+  {
+    "id": "2608.25215",
+    "title": "Federation Is Nearly Free, Reasoning Is Not: Tradeoffs for AI Co-Scientists in Protein Characterization Workflows",
+    "authors": "Maia Kapur; Timothy Boe; Abby Jerger; Paul Rigor",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "federation-is-nearly-free-reasoning-is-not-tradeoffs-for-ai.pdf",
+    "localPath": "artigos/ia/federation-is-nearly-free-reasoning-is-not-tradeoffs-for-ai.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25215",
+    "summary": "Natural language driven autonomous co-scientist workflows involve a fundamental trade-off between flexibility and reasoning at the expense of determinism, reproducibility, and observability. Such agents increasingly must communicate across institutional boundaries, where federation topology can shape latency and cost. We systematically evaluated these tradeoffs using a controlled ablation on a...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.MA",
+      "q-bio.QM"
+    ]
+  },
+  {
+    "id": "2608.25204",
+    "title": "LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale",
+    "authors": "Francesco Mantegna; Dulhan Jayalath; Gereon Elvers; Tasha Kim; Benjamin Ballyk; Alex Fung; SungJun Cho; Teyun Kwon; Luisa Kurth; Miran Özdogan; Gilad Landau; Pratik Somaiya; Natalie Voets; Mark Woolrich; Oiwi Parker Jones",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "libribrain100-one-hundred-hours-of-broad-and-deep-meg-data-f.pdf",
+    "localPath": "artigos/ia/libribrain100-one-hundred-hours-of-broad-and-deep-meg-data-f.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25204",
+    "summary": "We introduce LibriBrain100, a large-scale MEG dataset for speech decoding designed from the ground up for reproducible, standardised evaluation. LibriBrain100 more than doubles the size of the original LibriBrain release, resulting in over 100 hours of high-quality MEG acquired while subjects listened to naturalistic continuous speech. With $\\sim$80 hours from a single subject, LibriBrain100 se...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.25202",
+    "title": "SPECMINE: A Large-Scale Corpus of Spec-Driven Development Artifacts",
+    "authors": "Shyam Agarwal; Bogdan Vasilescu",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "specmine-a-large-scale-corpus-of-spec-driven-development-art.pdf",
+    "localPath": "artigos/ia/specmine-a-large-scale-corpus-of-spec-driven-development-art.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25202",
+    "summary": "Spec-Driven Development (SDD) is a fast-emerging practice in which a structured natural-language specification, written by a developer, or (more often) drafted by an AI tool and then curated by the developer, drives an AI coding agent's implementation. A wave of tooling (GitHub Spec Kit [3], OpenSpec [4], AWS Kiro [5], and dozens of others) has appeared since 2025, yet the artifacts these tools...",
+    "tags": [
+      "ia",
+      "cs.SE",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25200",
+    "title": "Learning Mixtures of Plackett-Luce Models for Multi-Objective Alignment",
+    "authors": "Dongyue Li; Ziniu Zhang; Lu Wang; Hongyang R. Zhang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "learning-mixtures-of-plackett-luce-models-for-multi-objectiv.pdf",
+    "localPath": "artigos/ia/learning-mixtures-of-plackett-luce-models-for-multi-objectiv.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25200",
+    "summary": "We consider the problem of learning a mixture of $k$ Plackett-Luce models given multi-way ranking responses from annotators that may represent heterogeneous underlying preferences. This problem has many applications in AI alignment and preference optimization. Prior work has studied mixtures of Bradley-Terry models from pairwise comparisons. However, uncovering mixture models is theoretically u...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.AI",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.25199",
+    "title": "Hyperbolic Latent Geometry for Tree-Structured Prototype Networks: A Local-vs-Global Trade-off",
+    "authors": "Peter Flo; Luca Grossmann",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "hyperbolic-latent-geometry-for-tree-structured-prototype-net.pdf",
+    "localPath": "artigos/ia/hyperbolic-latent-geometry-for-tree-structured-prototype-net.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25199",
+    "summary": "We study a tree-structured regularizer over class-prototype layouts in a hierarchical-classification model and ask whether the choice of latent manifold for the prototypes (Euclidean R^d vs. the Poincare ball B^d_c) affects how well that regularizer can be satisfied without distorting the data likelihood. The two manifolds differ only in their volume growth: hyperbolic space grows exponentially...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25198",
+    "title": "Tunable Tool-Call Rates in LLM Agents via Representation Steering",
+    "authors": "Yuqi Chen; Vincent Siu; Yang Liu; Dawn Song; Chenguang Wang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "tunable-tool-call-rates-in-llm-agents-via-representation-ste.pdf",
+    "localPath": "artigos/ia/tunable-tool-call-rates-in-llm-agents-via-representation-ste.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25198",
+    "summary": "Deciding whether to call a tool is a core competence of an LLM agent, and a costly one to get wrong: needless calls add latency, accrue cost, and may trigger irreversible side effects, while missing calls leave the model confidently wrong on questions it could only answer through tool-calls. Models manage this balance poorly, both over-using and under-using tools. Existing methods such as post-...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25193",
+    "title": "Simulating Cognitive Smart Freight Corridors with Agent-Based Models and Reinforcement Learning",
+    "authors": "Madelaine Martinez-Ferguson; Chun Wang; Mustafa Can Camur; Xueping Li",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "simulating-cognitive-smart-freight-corridors-with-agent-base.pdf",
+    "localPath": "artigos/ia/simulating-cognitive-smart-freight-corridors-with-agent-base.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25193",
+    "summary": "Smart freight corridors offer a practical pathway for connected and automated vehicle (CAV) deployment in freight transportation, but physical experimentation is expensive and existing approaches rely on predefined control policies that cannot capture adaptive behaviors. This paper presents an agent-based modeling (ABM) framework coupling a physical infrastructure layer, a connectivity layer (V...",
+    "tags": [
+      "ia",
+      "cs.ET",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.25190",
+    "title": "BanglaMamba: Exploring State Space Models for Bangla Fake News Detection",
+    "authors": "M. K. Khalidi Siam",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "banglamamba-exploring-state-space-models-for-bangla-fake-new.pdf",
+    "localPath": "artigos/ia/banglamamba-exploring-state-space-models-for-bangla-fake-new.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25190",
+    "summary": "Fake news detection has become an important Natural Language Processing (NLP) task due to the rapid spread of misinformation through online news platforms and social media. While transformer-based models such as BanglaBERT achieve strong performance for Bangla text classification, their quadratic computational complexity makes them less suitable for long-document processing in resource-constrai...",
+    "tags": [
+      "ia",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.25189",
+    "title": "What Should a Large Language Model See? Physical Invariants as a Data Representation for PDE Discovery",
+    "authors": "Fan Yang; Matt Thomson",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "what-should-a-large-language-model-see-physical-invariants-a.pdf",
+    "localPath": "artigos/ia/what-should-a-large-language-model-see-physical-invariants-a.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25189",
+    "summary": "Understanding how molecular interactions govern macroscopic behaviour is a central challenge in molecular sciences. However, conventional theory building cannot keep pace with the vast datasets modern experimentation routinely produces. Large language models offer a promising route to automating theory construction, but a spatiotemporal field cannot be directly placed in a prompt. Existing mode...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cond-mat.soft"
+    ]
+  },
+  {
+    "id": "2608.25188",
+    "title": "Transforms for LLM Quantization: The Great Inversion and Format Co-Design",
+    "authors": "Ehsan Jokar",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "transforms-for-llm-quantization-the-great-inversion-and-form.pdf",
+    "localPath": "artigos/ia/transforms-for-llm-quantization-the-great-inversion-and-form.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25188",
+    "summary": "Most competitive 4-bit LLM research pipelines now open the same way: apply a linear, function-preserving transform (rotation, scaling, permutation, non-orthogonal affine) so the outlier mass sits more favorably against the group scales, and only then round. Yet we are aware of no survey dedicated to this transform stage, and its literature is quietly re-deriving an older theory. We identify and...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.IT"
+    ]
+  },
+  {
+    "id": "2608.25182",
+    "title": "Minimax Alternating Regret for the Experts Problem and Online Convex Optimization",
+    "authors": "Mengxiao Zhang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "minimax-alternating-regret-for-the-experts-problem-and-onlin.pdf",
+    "localPath": "artigos/ia/minimax-alternating-regret-for-the-experts-problem-and-onlin.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25182",
+    "summary": "In this paper, we study alternating regret in online convex optimization (OCO), motivated by the success of alternating learning dynamics in two-player games. Although previous works have shown that $o(\\sqrt{T})$ alternating regret is achievable under various assumptions on the loss functions and feasible domains, the minimax regret rate has remained open even for the expert problem. In this pa...",
+    "tags": [
+      "ia",
+      "stat.ML",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.25181",
+    "title": "Simultaneous inference of environmental and interaction forces in collective dynamics",
+    "authors": "Nipuni de Silva; Ming Zhong; James M. Greene",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "simultaneous-inference-of-environmental-and-interaction-forc.pdf",
+    "localPath": "artigos/ia/simultaneous-inference-of-environmental-and-interaction-forc.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25181",
+    "summary": "Collective dynamics arise in a wide range of physical, biological, and engineering applications. Examples include cell migration, swarm robotics, social dynamics, and animal behavior. A defining characteristic of these systems is the emergence of large-scale coordination from local interactions among agents; a fundamental question is thus to understand the local interactions that give rise to t...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "math.DS"
+    ]
+  },
+  {
+    "id": "2608.25180",
+    "title": "Self-Explanation Tutor for Active Study of CS1 Worked Examples",
+    "authors": "Arun-Balajiee Lekshmi-Narayanan; Mohammad Hassany; Kamil Akhuseyinoglu; Rully Hendrawan; Peter Brusilovsky",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "self-explanation-tutor-for-active-study-of-cs1-worked-exampl.pdf",
+    "localPath": "artigos/ia/self-explanation-tutor-for-active-study-of-cs1-worked-exampl.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25180",
+    "summary": "Worked examples are a important part of introductory programming, but reading their expert explanations is passive. Self explanation, students explaining the problem and its solution to themselves with subgoal level analysis, turns that study into an active task, yet it is hard to scale because assessing free-text explanations and returning timely feedback has had no easy automated solution. We...",
+    "tags": [
+      "ia",
+      "cs.CY",
+      "cs.AI",
+      "cs.HC"
+    ]
+  },
+  {
+    "id": "2608.25178",
+    "title": "Lightweight Machine Learning-Driven Monocular Sidewalk Path Extraction for Embedded Micromobility Navigation",
+    "authors": "Lkhanaajav Mijiddorj; Yang Yan; Tyler Beringer; Bilguunzaya Mijiddorj; Alex N. Ho; Bin Xu; Binbin Weng",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "lightweight-machine-learning-driven-monocular-sidewalk-path.pdf",
+    "localPath": "artigos/ia/lightweight-machine-learning-driven-monocular-sidewalk-path.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25178",
+    "summary": "Sidewalk-scale path extraction demands perception and planning that run reliably on compact, low-power hardware in cluttered, map-sparse environments. We present a monocular vision pipeline for sidewalk path extraction in micromobility systems that progresses through three design iterations, from a skeleton-graph baseline through distance-transform corridor planning to a lightweight image-space...",
+    "tags": [
+      "ia",
+      "cs.CV",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25177",
+    "title": "AudioLens: Multi-Perspective Speech Clustering with Reasoning Audio-Language Models",
+    "authors": "Wenjun Huang; Qiaosong Chu; Tiger Shao; Pengfei Zhang; Yutong Song; Hanning Chen; Yezi Liu; Weiyi Wu; SungHeon Jeong; Ryozo Masukawa; Sanggeon Yun; Yang Ni; Jiang Gui; Mohsen Imani",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "audiolens-multi-perspective-speech-clustering-with-reasoning.pdf",
+    "localPath": "artigos/ia/audiolens-multi-perspective-speech-clustering-with-reasoning.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25177",
+    "summary": "Audio clustering is a fundamental task for organizing rapidly growing speech collections, supporting applications such as conversational analysis and speech-driven discovery. However, existing methods rely on fixed acoustic similarity metrics or ASR-based text pipelines, limiting their ability to reorganize the same audio collection under different user-specified perspectives, especially when c...",
+    "tags": [
+      "ia",
+      "cs.SD",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25176",
+    "title": "Lowering the Barrier to AI-Driven Inspection: A No-Code Workflow for Automated Structural Defect Detection",
+    "authors": "Michael Holm; Tanner McElroy; Xinghang Zhang; Guang Lin",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "lowering-the-barrier-to-ai-driven-inspection-a-no-code-workf.pdf",
+    "localPath": "artigos/ia/lowering-the-barrier-to-ai-driven-inspection-a-no-code-workf.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25176",
+    "summary": "Structural health monitoring (SHM) is essential in modern engineering, providing data for condition-based maintenance, lifecycle assessment, and predictive decision-making. Traditionally, SHM relied on visual inspection to detect defects such as cracks and deformations. Early computer vision (CV) methods, including thresholding, edge detection, and handcrafted features, aimed to automate this p...",
+    "tags": [
+      "ia",
+      "cs.CV",
+      "cs.LG",
+      "eess.IV"
+    ]
+  },
+  {
+    "id": "2608.25168",
+    "title": "See More, Detect Less? Taming Information Leakage in Multi-View Anomaly Detection",
+    "authors": "Shang-Fu Chen; Kuan-Chuan Peng; Jhih-Ciang Wu; Wen-Huang Cheng; Kai-Lung Hua",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "see-more-detect-less-taming-information-leakage-in-multi-vie.pdf",
+    "localPath": "artigos/ia/see-more-detect-less-taming-information-leakage-in-multi-vie.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25168",
+    "summary": "In multi-view anomaly detection, more cross-view information can actually hurt. When multiple inspection views are naively fused in a reconstruction-based pipeline, normal cues from intact views propagate to the decoder, which faithfully reconstructs anomalous regions, collapsing the reconstruction gap the detector depends on. We call this failure mode \\emph{cross-view information leakage} and...",
+    "tags": [
+      "ia",
+      "cs.CV",
+      "cs.MM"
+    ]
+  },
+  {
+    "id": "2608.25166",
+    "title": "The Changing Geometry of Grammar: Dimensionality and Neighborhood Reorganization across Transformer Layers",
+    "authors": "Samuele Vallisa; Federico Ravenda; Claudio Palominos; Rui He; Andrea Raballo; Antonietta Mira; Philipp Homan; Wolfram Hinzen",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "the-changing-geometry-of-grammar-dimensionality-and-neighbor.pdf",
+    "localPath": "artigos/ia/the-changing-geometry-of-grammar-dimensionality-and-neighbor.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25166",
+    "summary": "Transformer representations describe trajectories through high-dimensional vector spaces, which are shaped dynamically as tokens incorporate relational context across layers. Such data tend to concentrate on lower-dimensional sub-manifolds, a form of compression quantified by the Intrinsic Dimensionality (ID), the minimum number of independent variables needed to represent them without signific...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.25163",
+    "title": "Bayesian Flow Networks for Offline Trajectory Planning",
+    "authors": "Ludvig Killingberg; Helge Langseth",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "bayesian-flow-networks-for-offline-trajectory-planning.pdf",
+    "localPath": "artigos/ia/bayesian-flow-networks-for-offline-trajectory-planning.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25163",
+    "summary": "Offline reinforcement learning (RL) leverages static datasets to learn decision policies without real-time environment interaction. While recent sequence-modeling approaches rely on continuous diffusion models for trajectory synthesis, applying these methods to discrete planning tasks requires a categorical formulation rather than the standard Gaussian construction. We present BFN-RL, a unified...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.AI"
+    ]
   }
 ];
