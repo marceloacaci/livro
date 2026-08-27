@@ -190,89 +190,14 @@
     }
   }
 
-  // ---- Injeta o botão "📝 Notas (N)" nas seções de reflexão por capítulo ----
-  var injecting = false;
-  var mo = null;
+  // ---- Botões de reflexão removidos: o livro.js já renderiza o campo nativo
+  //      de reflexão (textarea + "Salvar Reflexão") em cada seção, tornando o
+  //      botão "Notas" do reader-ux redundante/duplicado. Mantemos o modal
+  //      disponível, mas NÃO injetamos botões. ----
+  function injectButtons() { /* injeção desativada a pedido */ }
 
-  function injectButtons() {
-    if (injecting) return;            // evita reentrada / loop do observer
-    injecting = true;
-    try {
-      // Seletores das seções que podem ter reflexões.
-      var selectors = '.chapter-card, .reflection-questions, .mt-card';
-      var scope = document.querySelector('.main-content') || document;
-
-      function keyFor(el) {
-        if (el.getAttribute('data-step')) return el.getAttribute('data-step');
-        var desc = el.querySelector('[data-step]');
-        if (desc) return desc.getAttribute('data-step');
-        var node = el;
-        while (node && node !== document.body) {
-          if (node.id) return node.id;
-          node = node.parentElement;
-        }
-        var all = scope.querySelectorAll(selectors);
-        var idx = Array.prototype.indexOf.call(all, el);
-        return 'sec-' + (idx >= 0 ? idx : Math.random().toString(36).slice(2, 8));
-      }
-      function labelFor(el) {
-        if (el.getAttribute('data-step') || el.querySelector('[data-step]')) return 'Reflexão';
-        var h = el.querySelector('h3, h4');
-        return h ? (h.textContent || '').slice(0, 24) : 'Seção';
-      }
-
-      scope.querySelectorAll(selectors).forEach(function (el) {
-        if (el.getAttribute('data-refl-injected')) return;   // já processado
-        el.setAttribute('data-refl-injected', '1');
-        var sectionKey = keyFor(el);
-        var label = labelFor(el);
-        var bookId = getBookId();
-        var all = loadAll();
-        var count = Array.isArray(all[bookId + '::' + sectionKey]) ? all[bookId + '::' + sectionKey].length : 0;
-
-        var btn = document.createElement('button');
-        btn.type = 'button';
-        btn.className = 'btn open-reflection-modal';
-        btn.setAttribute('data-section', sectionKey);
-        btn.setAttribute('data-label', label);
-        btn.style.marginTop = '10px';
-        btn.textContent = '📝 ' + label + ' (' + count + ')';
-        btn.addEventListener('click', function (e) {
-          e.preventDefault();
-          e.stopPropagation();
-          openModal(sectionKey, label);
-        });
-        var refl = el.querySelector('.reflection-input');
-        if (refl && refl.parentElement) {
-          refl.parentElement.appendChild(btn);
-        } else {
-          el.appendChild(btn);
-        }
-      });
-    } finally {
-      injecting = false;
-    }
-  }
-
-  // Injeta após o carregamento do conteúdo e novamente quando o livro troca.
   function init() {
-    injectButtons();
-    var lastHref = window.location.href;
-    window.addEventListener('popstate', function () {
-      if (window.location.href !== lastHref) { lastHref = window.location.href; setTimeout(injectButtons, 60); }
-    });
-    // Observer desconectado durante a injeção para evitar loop de mutações.
-    if (window.MutationObserver) {
-      var target = document.querySelector('#bookSections, .main-content') || document.body;
-      mo = new MutationObserver(function () {
-        if (mo) mo.disconnect();          // pausa durante a injeção
-        setTimeout(function () {
-          injectButtons();
-          if (mo) mo.observe(target, { childList: true, subtree: true });
-        }, 80);
-      });
-      mo.observe(target, { childList: true, subtree: true });
-    }
+    // Não injeta botões (ver acima). Apenas mantém o modal pronto caso necessário.
   }
 
   if (document.readyState === 'loading') {
