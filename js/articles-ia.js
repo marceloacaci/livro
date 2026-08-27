@@ -2555,5 +2555,356 @@ window.MEU_BOLSO_ARTICLES_IA = [
       "cs.LG",
       "cs.AI"
     ]
+  },
+  {
+    "id": "2608.25071",
+    "title": "HealthBench-Psych: A Mental Health Subset of OpenAI's HealthBench",
+    "authors": "Matthew Flathers; Phuong Anh Nguyen; Jill Noorily; Julian Herpertz; Meiting Chen; Jasreen Multani; Samuel Powell; Mason Granof; Mark Kalinch; John Torous",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "healthbench-psych-a-mental-health-subset-of-openai-s-healthb.pdf",
+    "localPath": "artigos/ia/healthbench-psych-a-mental-health-subset-of-openai-s-healthb.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25071",
+    "summary": "General-purpose health benchmarks increasingly anchor claims about LLM medical performance, but they are not always resolved by clinical specialty, making domain-specific performance hard to isolate. Mental health is of acute public-health concern as millions of people turn to LLMs for psychological support, and most existing evaluations are bespoke academic benchmarks that are difficult to int...",
+    "tags": [
+      "ia",
+      "cs.CL",
+      "cs.AI",
+      "cs.CY"
+    ]
+  },
+  {
+    "id": "2608.25068",
+    "title": "SHIFT-LLM: Distribution Shift Correction in Depth-Pruned LLMs",
+    "authors": "Ali Bahri; Hang Li; Hongliang Li; Zhitang Chen",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "shift-llm-distribution-shift-correction-in-depth-pruned-llms.pdf",
+    "localPath": "artigos/ia/shift-llm-distribution-shift-correction-in-depth-pruned-llms.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25068",
+    "summary": "Depth pruning removes entire Transformer blocks to reduce the inference cost of large language models, but disrupts the hidden-state distributions expected by downstream layers, leading to significant accuracy loss. We introduce SHIFT-LLM, a training-free post-pruning correction framework that inserts a Linear Residual Adapter (LRA) at each pruning site. Each LRA preserves the identity pathway...",
+    "tags": [
+      "ia",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.25067",
+    "title": "SimVerity: When Does Simulated Agent Success Survive Physical Deployment?",
+    "authors": "Zhonghao Zhan; Yefan Zhang; Krinos Li; Hamed Haddadi",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "simverity-when-does-simulated-agent-success-survive-physical.pdf",
+    "localPath": "artigos/ia/simverity-when-does-simulated-agent-success-survive-physical.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25067",
+    "summary": "Simulated evaluation is widely used to benchmark AI agents, yet how much evidence a simulated pass provides about physical deployment has not been systematically quantified. We present SimVerity, a verdict-transfer assurance framework: it replays matched scenarios on target smart home deployments and cross-validates agent execution against independently qualified physical witnesses. Our evaluat...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25062",
+    "title": "FLINT: Efficiently Leveraging High Bandwidth Flash for Capacity-Scalable LLM Inference Acceleration",
+    "authors": "Geraldo F. Oliveira; Arash Tavakkol; Xiangyu Zhu; Ahmet Caner Yüzügüler; Vamanan Arulchelvan; Lukas Cavigelli; Renzo Andri; Mohammad Sadrosadati; Jia Xinglei; Onur Mutlu; Zhou Ke; Shai Bergman; Ji Zhang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "flint-efficiently-leveraging-high-bandwidth-flash-for-capaci.pdf",
+    "localPath": "artigos/ia/flint-efficiently-leveraging-high-bandwidth-flash-for-capaci.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25062",
+    "summary": "LLM inference is increasingly constrained by accelerator memory capacity rather than compute throughput. This constraint is especially acute in single-accelerator and small-node inference systems, where limited on-package memory capacity restricts the size of deployable models. HBF is an emerging 3D-stacked NAND flash technology that provides multi-terabyte near-accelerator capacity, making it...",
+    "tags": [
+      "ia",
+      "cs.AR",
+      "cs.AI",
+      "cs.DC"
+    ]
+  },
+  {
+    "id": "2608.25061",
+    "title": "DataKernelBench: Can LLMs Optimize Database Queries on GPUs?",
+    "authors": "Gokul Karthik Kumar; Yotam Perlitz; Corey Lammie; Andrea Giovannini; Katja Hose",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "datakernelbench-can-llms-optimize-database-queries-on-gpus.pdf",
+    "localPath": "artigos/ia/datakernelbench-can-llms-optimize-database-queries-on-gpus.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25061",
+    "summary": "GPUs increasingly accelerate database systems, but query-specific peak performance still often relies on hand-written kernels. Existing LLM kernel benchmarks focus on machine learning operators, leaving irregular, heterogeneous, data-movement-heavy database-style operators untested. We introduce DataKernelBench, which translates SQL into validated PyTorch TorchPlan programs and evaluates LLMs t...",
+    "tags": [
+      "ia",
+      "cs.CL",
+      "cs.AI",
+      "cs.DB",
+      "cs.LG",
+      "cs.PL"
+    ]
+  },
+  {
+    "id": "2608.25054",
+    "title": "SPECTRA: Subspace-Preserving Embedding Calibration, Transport, and Replay for Fully Few-Shot Class-Incremental Audio Classification",
+    "authors": "Giries Abu Ayoub; Loay Mualem; Simon Korman",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "spectra-subspace-preserving-embedding-calibration-transport.pdf",
+    "localPath": "artigos/ia/spectra-subspace-preserving-embedding-calibration-transport.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25054",
+    "summary": "Fully few-shot class-incremental audio classification (FFCAC) requires recognizing new sound classes from only a handful of labeled examples per session, without forgetting previously learned classes and without any large base dataset. Existing methods typically freeze a pre-trained audio--language encoder and classify with point prototypes, but they suffer from significant performance degradat...",
+    "tags": [
+      "ia",
+      "cs.SD",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25053",
+    "title": "Hydra: Phase-Aware Workload Characterization of LLM Inference across Edge SoC Generations, Backends, and Quantization Levels",
+    "authors": "Amir Taherin; Sana Taghipour Anvari; Charles Amante; Yixiao Chen; Ruben Noroian; Zlatan Feric; Nicolas Bohm Agostini; Pu Zhao; José Cano; Bin Ren; Yanzhi Wang; David Kaeli",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "hydra-phase-aware-workload-characterization-of-llm-inference.pdf",
+    "localPath": "artigos/ia/hydra-phase-aware-workload-characterization-of-llm-inference.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25053",
+    "summary": "Edge LLM deployment is shaped by more than model size and precision: inference backend, hardware platform, memory traffic, and power management all affect latency and efficiency. We present Hydra, a common-schema, phase-aware workload characterization framework for LLM inference on edge SoCs. Hydra instruments HuggingFace Transformers and llama.cpp with a shared per-prompt timing schema and fus...",
+    "tags": [
+      "ia",
+      "cs.AR",
+      "cs.AI",
+      "cs.DC",
+      "cs.PF"
+    ]
+  },
+  {
+    "id": "2608.25052",
+    "title": "Improved Analysis for Hessian-free High-resolution Monte Carlo Sampling",
+    "authors": "Wujun Lv; Xiaoyu Wang; Yingli Wang; Lingjiong Zhu",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "improved-analysis-for-hessian-free-high-resolution-monte-car.pdf",
+    "localPath": "artigos/ia/improved-analysis-for-hessian-free-high-resolution-monte-car.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25052",
+    "summary": "Hessian-free high-resolution (HFHR) dynamics augments underdamped Langevin dynamics (ULD) with reversible position diffusion for sampling problems that arise in machine learning. We establish an explicit quantitative contraction rate for HFHR dynamics under a position Poincaré inequality, weighted Hessian and Laplacian bounds, and a compact Sobolev embedding, where the potential function is not...",
+    "tags": [
+      "ia",
+      "stat.ML",
+      "cs.LG",
+      "math.AP",
+      "math.PR"
+    ]
+  },
+  {
+    "id": "2608.25050",
+    "title": "ARISMA: Guidelines for AI- and LLM-Assisted Systematic Reviews, Scoping Reviews, and Mapping Studies",
+    "authors": "Mahyar Tourchi Moghaddam; Mina Alipour",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "arisma-guidelines-for-ai-and-llm-assisted-systematic-reviews.pdf",
+    "localPath": "artigos/ia/arisma-guidelines-for-ai-and-llm-assisted-systematic-reviews.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25050",
+    "summary": "Systematic reviews, scoping reviews, mapping studies, and related evidence syntheses are increasingly difficult to conduct with fully manual workflows as search volumes, update cycles, and synthesis requirements continue to expand. At the same time, artificial intelligence, machine learning, and large language models are rapidly entering review practice across query formulation, screening, extr...",
+    "tags": [
+      "ia",
+      "cs.SE",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25039",
+    "title": "LifePlanner: Evaluating LLM Agents for Geo-spatial Planning with Social Media Data",
+    "authors": "Zhen Dong; Yuning Peng; Yutao Shi; Lei Zhong; Yongsen Mao; Yuan Liu; Haiping Wang",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "lifeplanner-evaluating-llm-agents-for-geo-spatial-planning-w.pdf",
+    "localPath": "artigos/ia/lifeplanner-evaluating-llm-agents-for-geo-spatial-planning-w.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25039",
+    "summary": "Geo-spatial planning, like trip design, is a realistic testbed for LLM agents because it requires grounded tool use, noisy evidence retrieval, and multi-constraint reasoning. Most benchmarks, however, only provide clean geospatial data and tools, missing the open-ended social signals that people use in daily planning. We introduce LifePlanner, a benchmark that enriches map data with large-scale...",
+    "tags": [
+      "ia",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25038",
+    "title": "Padamitra: Grounded Glossary Generation for Classical Sanskrit",
+    "authors": "Manoj Balaji Jagadeeshan; Sai Pragnaan Marala; Pawan Goyal",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "padamitra-grounded-glossary-generation-for-classical-sanskri.pdf",
+    "localPath": "artigos/ia/padamitra-grounded-glossary-generation-for-classical-sanskri.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25038",
+    "summary": "We introduce grounded glossary generation, a structured task requiring models to recover semantically meaningful Sanskrit phrases and produce translation-grounded meanings from a sloka-translation pair, formalizing the traditional patha commentary practice as an evaluable NLP objective. We construct a benchmark of 31,316 sloka-translation-glossary triples from the Valmiki Ramayana and Srimad Bh...",
+    "tags": [
+      "ia",
+      "cs.CL"
+    ]
+  },
+  {
+    "id": "2608.25037",
+    "title": "Retrieve, Match, Escalate: Accurate and Scalable Product Linking with VLM-Distilled Cross-Encoders and Agentic VLMs",
+    "authors": "Jian Wang; Steven Xu; Sanjyot Thete; Maryam Barouti; Tom Tang; Elaine Wu; Charu Sareen; Kyle MacDonald",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "retrieve-match-escalate-accurate-and-scalable-product-linkin.pdf",
+    "localPath": "artigos/ia/retrieve-match-escalate-accurate-and-scalable-product-linkin.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25037",
+    "summary": "Product linking, the entity-resolution task of mapping merchant product records to canonical catalog products, consolidates fragmented listings so downstream search, recommendation, and advertising see one clean entry per product. At marketplace scale, billions of noisy, multi-category records must be resolved against tens of millions of canonical products, where scoring every candidate with a...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.CL",
+      "cs.DB",
+      "cs.IR"
+    ]
+  },
+  {
+    "id": "2608.25034",
+    "title": "On the Representational Geometry of Dynamic Programs",
+    "authors": "Richard F. M. Lim; Ruriko Yoshida",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "on-the-representational-geometry-of-dynamic-programs.pdf",
+    "localPath": "artigos/ia/on-the-representational-geometry-of-dynamic-programs.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25034",
+    "summary": "Standard neural architectures often fail to generalize to longer inputs for dynamic programming (DP) targets. We investigate what makes this hard geometrically. Every finite min-plus DP is a shortest path on a DAG, which is equivalently a tropical polynomial whose extended Newton polyhedron encodes the decision boundary of which path wins. We prove these three descriptions (graph, polynomial, p...",
+    "tags": [
+      "ia",
+      "cs.LG",
+      "cs.DM",
+      "math.AG",
+      "math.CO"
+    ]
+  },
+  {
+    "id": "2608.25028",
+    "title": "Behind the [MASK]: Disentangling Representation and Faithfulness in DAPF-Based Dementia Detection",
+    "authors": "Pardis Ranjbar-Noiey; Natalie Parde",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "behind-the-mask-disentangling-representation-and-faithfulnes.pdf",
+    "localPath": "artigos/ia/behind-the-mask-disentangling-representation-and-faithfulnes.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25028",
+    "summary": "Spoken-language analysis via prompt-based domain-adaptive models is a promising direction for low-resource, non-invasive dementia screening, but such models remain internally opaque. We study the interpretability of the Domain-Adapted models via Prompt-based Fine-tuning (DAPF) framework, which casts dementia detection as diagnosis-related masked-token prediction. We interpret DAPF and strong ba...",
+    "tags": [
+      "ia",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.25023",
+    "title": "CVE-SAI: Counterfactual Visual Evidence-Guided Selective Attribute Indexing for Risk-Controlled E-commerce Search",
+    "authors": "Xiaolong Sun; Qichao Wang; Hangyu Li; Liang Chen",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "cve-sai-counterfactual-visual-evidence-guided-selective-attr.pdf",
+    "localPath": "artigos/ia/cve-sai-counterfactual-visual-evidence-guided-selective-attr.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25023",
+    "summary": "Multimodal product models can complete missing e-commerce attributes, yet current methods still optimize attribute-answer accuracy without verifying visual support, conflate transient prediction with persistent index admission, and lack explicit risk control over factually incorrect or visually unsupported values. We address these gaps with Counterfactual Visual Evidence-Guided Selective Attrib...",
+    "tags": [
+      "ia",
+      "cs.AI",
+      "cs.CV"
+    ]
+  },
+  {
+    "id": "2608.25022",
+    "title": "A Primer on Computational Semantics for Artificial Intelligence Systems",
+    "authors": "Casey Kennington",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "a-primer-on-computational-semantics-for-artificial-intellige.pdf",
+    "localPath": "artigos/ia/a-primer-on-computational-semantics-for-artificial-intellige.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25022",
+    "summary": "As people adopt transformer-based language models (e.g., ChatGPT and Gemini) for an increasing number of use-cases, it is important to know how such models learn and represent the meaning of the language, and to be more informed about what language is. This document is an attempt to help the reader understand how linguistic meaning (i.e., semantics) is approached from different fields of scient...",
+    "tags": [
+      "ia",
+      "cs.CL",
+      "cs.AI"
+    ]
+  },
+  {
+    "id": "2608.25019",
+    "title": "EncoTESS: Age-Sensitive Encodings from Raw TESS Light Curves",
+    "authors": "Phil R. Van-Lane; Joshua S. Speagle; Ryan Cloutier; Christopher A. Theissen; Gwendolyn M. Eadie; Ilay Kamai",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "encotess-age-sensitive-encodings-from-raw-tess-light-curves.pdf",
+    "localPath": "artigos/ia/encotess-age-sensitive-encodings-from-raw-tess-light-curves.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25019",
+    "summary": "Main sequence stars of spectral types late F through M exhibit systematic variability in photometric light curves, particularly when they are young. Rotational modulation of starspots manifests as quasi-sinusoidal variability, which enables the measurement of rotation periods. Variability can also be stochastic, as in stellar flaring. However, since measurements of stochastic processes depend o...",
+    "tags": [
+      "ia",
+      "astro-ph.SR",
+      "astro-ph.GA",
+      "astro-ph.IM",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.25017",
+    "title": "Rollout-Decoded Reconstruction for Long-Horizon Prediction in Latent World Models",
+    "authors": "Rishi Shah; Rishav Shrestha",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "rollout-decoded-reconstruction-for-long-horizon-prediction-i.pdf",
+    "localPath": "artigos/ia/rollout-decoded-reconstruction-for-long-horizon-prediction-i.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25017",
+    "summary": "A latent world model trains its decoder on latents anchored to observations, then deploys it on the model's own free-running rollout, hundreds of steps past the last observation. Rollout-Decoded Reconstruction (RDR) closes this gap with a single loss term that free-runs the model during training exactly as evaluation will, decodes every rollout latent, and penalizes reconstruction error against...",
+    "tags": [
+      "ia",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.25005",
+    "title": "The Imperfective Paradox Is Not Necessarily in Large Language Models: A Benchmark Failure Before a Model Failure",
+    "authors": "Kaiqiao Han; Yizhou Sun",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "the-imperfective-paradox-is-not-necessarily-in-large-languag.pdf",
+    "localPath": "artigos/ia/the-imperfective-paradox-is-not-necessarily-in-large-languag.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.25005",
+    "summary": "The imperfective paradox provides a useful test of compositional semantic analysis. Recent work constructs an NLI benchmark and reports that models frequently infer completed telic events from progressive descriptions, attributing this behavior to a Teleological Bias. It further argues that prompting interventions cause a Calibration Crisis. We reexamine the benchmark and conclusions and show t...",
+    "tags": [
+      "ia",
+      "cs.CL",
+      "cs.LG"
+    ]
+  },
+  {
+    "id": "2608.24988",
+    "title": "Does Fine-Tuning Undo Activation Steering? Behavioural Recovery Without Weight-Edit Reversal",
+    "authors": "Philipp E. Glass; Allan Tucker; Yongmin Li; Alina Miron",
+    "year": 2026,
+    "venue": "arXiv",
+    "tema": "ia",
+    "filename": "does-fine-tuning-undo-activation-steering-behavioural-recove.pdf",
+    "localPath": "artigos/ia/does-fine-tuning-undo-activation-steering-behavioural-recove.pdf",
+    "sourceUrl": "https://arxiv.org/abs/2608.24988",
+    "summary": "Activation steering can be embedded directly into a language model's weights, shaping behaviour without inference-time intervention and offering a way to encode alignment prior to release. However, models are routinely fine-tuned after deployment, and it is unknown whether embedded interventions survive this. We study the stability of embedded steering for refusal suppression and brevity induct...",
+    "tags": [
+      "ia",
+      "cs.CL",
+      "cs.AI",
+      "cs.LG"
+    ]
   }
 ];
