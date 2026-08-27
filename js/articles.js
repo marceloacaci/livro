@@ -50,6 +50,56 @@
       .replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
 
+  // ===== Classificação de Artigos Científicos / Teses =====
+  // Vocabulário controlado (referência do usuário): Qualis CAPES A1/A2/A3/A4/B1-B4/C,
+  // Quartis Scimago/Scopus Q1-Q4, Fator de Impacto JCR, e Teses por nível (Mestrado/Doutorado).
+  // Regra de integridade: NÃO inventamos estrato/quartil para preprint do arXiv (ainda não
+  // publicado em periódico). Se o artigo já tem `classificacao` explícito no catálogo, usamos;
+  // caso contrário DERIVAMOS do `venue` já presente (honesto, sem fabricar dados).
+  var ESTRATO_CORES = {
+    'A1': '#f5b301', 'A2': '#f5b301',
+    'A3': '#16a085', 'A4': '#16a085',
+    'B1': '#2d8cf0', 'B2': '#2d8cf0', 'B3': '#2d8cf0', 'B4': '#2d8cf0',
+    'C': '#9aa5b1'
+  };
+  var QUARTIL_CORES = { 'Q1': '#8e44ad', 'Q2': '#2980b9', 'Q3': '#16a085', 'Q4': '#7f8c8d' };
+
+  // Retorna { tipo, label, sub, cor } para um artigo.
+  function classify(a) {
+    var c = a && a.classificacao;
+    if (c && typeof c === 'object') {
+      if (c.estrato) {
+        var e = String(c.estrato).toUpperCase();
+        return { tipo: 'qualis', label: 'Qualis ' + e, sub: c.meio || 'Periódico', cor: ESTRATO_CORES[e] || '#9aa5b1' };
+      }
+      if (c.quartil) {
+        var q = String(c.quartil).toUpperCase();
+        return { tipo: 'quartil', label: q, sub: 'Scimago/Scopus', cor: QUARTIL_CORES[q] || '#9aa5b1' };
+      }
+      if (c.impacto) {
+        return { tipo: 'jcr', label: 'JCR ' + c.impacto, sub: 'Web of Science', cor: '#c0392b' };
+      }
+      if (c.nivel) {
+        var n = String(c.nivel).toLowerCase();
+        if (n.indexOf('doutor') !== -1) return { tipo: 'tese', label: 'Tese (Doutorado)', sub: c.instituicao || '', cor: '#6c5ce7' };
+        if (n.indexOf('livre') !== -1) return { tipo: 'tese', label: 'Livre-Docência', sub: c.instituicao || '', cor: '#4a235a' };
+        return { tipo: 'tese', label: 'Dissertação (Mestrado)', sub: c.instituicao || '', cor: '#00b894' };
+      }
+    }
+    // Derivação honesta a partir do venue já cadastrado.
+    var venue = (a && a.venue || '').toString();
+    if (/tese/i.test(venue) && !/dissert/i.test(venue)) {
+      return { tipo: 'tese', label: 'Tese (Doutorado)', sub: 'UFRGS/Lume', cor: '#6c5ce7' };
+    }
+    if (/dissert/i.test(venue)) {
+      return { tipo: 'tese', label: 'Dissertação (Mestrado)', sub: 'UFRGS/Lume', cor: '#00b894' };
+    }
+    if (/arxiv/i.test(venue)) {
+      return { tipo: 'preprint', label: 'Preprint (arXiv)', sub: 'Aguardando estrato/quartil de publicação', cor: '#9aa5b1' };
+    }
+    return { tipo: 'indef', label: venue || '—', sub: '', cor: '#9aa5b1' };
+  }
+
   // Monta a lista plana de artigos com o tema injetado.
   function buildAll() {
     var all = [];
@@ -98,6 +148,12 @@
       html += '    <h3>' + escapeAttr(a.title) + '</h3>';
       html += '    <p class="book-author">' + escapeAttr(authors) + '</p>';
       html += '    <p class="book-meta">' + escapeAttr(a.year) + ' · ' + escapeAttr(a.venue || 'arXiv') + '</p>';
+      var cl = classify(a);
+      html += '    <p class="article-class">' +
+        '<span class="article-class-badge" style="background:' + escapeAttr(cl.cor) + ';">' +
+        escapeAttr(cl.label) + '</span>' +
+        (cl.sub ? ' <span class="article-class-sub">' + escapeAttr(cl.sub) + '</span>' : '') +
+        '</p>';
       html += '    <p class="book-summary">' + escapeAttr(a.summary) + '</p>';
       html += '  </div>';
       html += '  <div class="article-actions">';
