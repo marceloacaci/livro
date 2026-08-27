@@ -1004,6 +1004,7 @@
 
 /* ----- Botão de seleção de tema ----- */
 .theme-toggle {
+  margin-left: auto; /* empurra tema + controles de fonte para a direita da navbar */
   background-color: #1b2742;
   background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.30), rgba(255, 255, 255, 0.04) 46%, rgba(0, 0, 0, 0.42));
   border: 1px solid rgba(255, 255, 255, 0.18);
